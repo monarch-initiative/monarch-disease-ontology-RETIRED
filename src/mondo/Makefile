@@ -3,6 +3,8 @@ all: mondo.obo mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassi
 all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
 OMIM_OBO=../omim/omim.obo
+ORDO_OBO=../orphanet/orphanet-obostyle.obo
+CLUSTERS=../clusters
 
 ## --
 ## DO
@@ -15,19 +17,19 @@ disease_nosyn.obo: ../ontology/doid.obo
 ## --
 
 # this is now maintained directly in contrib
-#../contrib/omimclusters.obo:
+#$(CLUSTERS)/omimclusters.obo:
 #	wget ftp://ftp.informatics.jax.org/pub/curatorwork/OMIM.clusters -O $@
 
 # local copy of MGI's file
 # todo: add def back later, but watch for multiple def tags
-omimclusters.obo: ../contrib/omimclusters.obo $(OMIM_OBO)
+omimclusters.obo: $(CLUSTERS)/omimclusters.obo $(OMIM_OBO)
 	obo-merge-tags.pl  -t synonym -t name $^ > $@.tmp && obo2obo $@.tmp -o $@
 
 # subset that includes only the clusters/groupings
 omc.obo: omimclusters.obo
 	obo-grep.pl -r 'id: DC' $< > $@.tmp && mv $@.tmp $@
 
-omimclusters_plus_bridge.obo: omimclusters.obo ../contrib/omimclusters_bridge_to_doid.obo 
+omimclusters_plus_bridge.obo: omimclusters.obo $(CLUSTERS)/omimclusters_bridge_to_doid.obo 
 	obo-merge-tags.pl -t is_a -t equivalent_to $^ > $@
 
 # DO-mapped clusters
@@ -63,7 +65,7 @@ DOID = ../ontology/doid.obo
 align-doid-to-omim.tsv: omim-leaf.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-align-doid-to-decipher.tsv: ../contrib/decipherclusters.obo
+align-doid-to-decipher.tsv: $(CLUSTERS)/decipherclusters.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-mesh.tsv: mesh.obo
@@ -108,7 +110,7 @@ mesh.obo: ../ontology/imports/ctd_import.obo
 	perl -npe 's@\s+EXACT\s+@ RELATED @ if m@^synonym@' $< > $@
 
 # @Deprecated
-m.pro: ../contrib/MesH.contrib/mesh_list.txt
+m.pro: $(CLUSTERS)/MesH.contrib/mesh_list.txt
 	perl -npe 's/:.*//;s/^/MESH:/' $< | tbl2p -p m > m.pro
 
 mesh-missing-from-doid.tsv:
@@ -147,10 +149,10 @@ missing-%.obo: %.obo ixrefs-doid-to-%.obo sim-ixrefs-%.obo
 ## Jaccard similarity based analysis
 ## --
 
-sim-omc.tsv: ../contrib/omimclusters.obo
+sim-omc.tsv: $(CLUSTERS)/omimclusters.obo
 	blip-findall -debug index -consult jaccard.pro -i $< -r disease -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
 
-omcrest.obo:  ../contrib/omimclusters.obo ixrefs-doid-to-omc.obo 
+omcrest.obo:  $(CLUSTERS)/omimclusters.obo ixrefs-doid-to-omc.obo 
 	obo-subtract.pl $^ > $@
 
 sim-omcrest.tsv: omcrest.obo
@@ -174,7 +176,7 @@ all-xrefs-omc.obo: sim-xrefs-omc.obo xrefs-doid-to-omc.obo
 ## Orphanet
 ## --
 
-ordo.obo: ../ontology/orphanet/orphanet-obostyle.obo
+ordo.obo: $(ORDO_OBO)
 	cp $< $@
 #	owltools $< -o -f obo $@.tmp && fix-ordo.pl $@.tmp > $@
 
@@ -284,7 +286,7 @@ mesh_rest.obo: xrefs-mesh.obo mondo_no_mesh.obo
 	blip-findall -consult munger.pro -i $< -i mondo_no_mesh.obo -i mesh.obo -r disease "write_mesh(M),fail" > $@
 ###	blip-findall -i m.pro -consult munger.pro -i $< -i mesh.obo -r disease "write_mesh(M),fail" > $@
 
-mondo.obo: mondo_squished.obo ../contrib/decipherclusters.obo
+mondo.obo: mondo_squished.obo $(CLUSTERS)/decipherclusters.obo
 	obo-cat.pl -i $^ >  $@
 
 mondo-simple.obo: mondo.obo
