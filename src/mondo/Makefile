@@ -5,11 +5,12 @@ all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 OMIM_OBO=../omim/omim.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
 CLUSTERS=../clusters
+DOID_OBO=../doid/doid.obo
 
 ## --
 ## DO
 ## --
-disease_nosyn.obo: ../ontology/doid.obo
+disease_nosyn.obo: $(DOID_OBO)
 	grep -v ^synonym $< > $@
 
 ## --
@@ -41,8 +42,8 @@ omim-genes.obo: omimclusters.obo
 	blip ontol-query -consult munger.pro -i $< -i ordo.obo -query "omim_gene(ID)" -to obo > $@
 
 # omimclusters with DO dupes carved out (and genes removed too)
-omc-minimal.obo: omc-mapped-to-do.obo
-	obo-subtract.pl $< ../ontology/doid.obo omim-genes.obo  > $@.tmp && obo-grep.pl --neg -r is_obsolete $@.tmp > $@
+omc-minimal.obo: omc-mapped-to-do.obo omim-genes.obo
+	obo-subtract.pl $< $(DOID_OBO) omim-genes.obo  > $@.tmp && obo-grep.pl --neg -r is_obsolete $@.tmp > $@
 
 ## --
 ## OMIM Phenotypic Series
@@ -61,7 +62,7 @@ omimps-min.obo: $(OMIM_OBO)
 ## Textual alignment based on labels/syns
 ## --
 
-DOID = ../ontology/doid.obo
+DOID = $(DOID_OBO)
 align-doid-to-omim.tsv: omim-leaf.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
@@ -106,7 +107,7 @@ isa-%.obo: align-%.tsv
 ## --
 ## MESH missing from DO
 ## --
-mesh.obo: ../ontology/imports/ctd_import.obo
+mesh.obo: ../medic/CTD_diseases.obo
 	perl -npe 's@\s+EXACT\s+@ RELATED @ if m@^synonym@' $< > $@
 
 # @Deprecated
@@ -240,7 +241,7 @@ IG = -i super_ignore.pro
 # For reporting/debugging purposes:
 # Assign each ORDO class to a category
 # The same methods are used for new_ordo
-ordo_category.tsv: ordo.obo ../ontology/doid.obo
+ordo_category.tsv: ordo.obo $(DOID_OBO)
 	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match   -r disease -i omcrest.obo -i $< -consult munger.pro -r hpoa all_ordo_category/3 -label -no_pred > $@
 
 ordo_leaves.obo: ordo.obo
@@ -248,7 +249,7 @@ ordo_leaves.obo: ordo.obo
 
 # Rewrite of ORDO, removing classes and rewiring classes, swapping in DOID or DC where available.
 # Note: as a result of the rewiring, there may be redundancies in the hierarchy
-new_ordo.obo: ordo.obo omc-minimal.obo ../ontology/doid.obo
+new_ordo.obo: ordo.obo omc-minimal.obo $(DOID_OBO)
 	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match  -r disease -i omc-minimal.obo -i $< -consult munger.pro -r hpoa $(G) -label > $@.tmp && grep -v $(G) $@.tmp > $@
 
 # merge in the set of DCs we are using. 
@@ -294,6 +295,9 @@ mondo-simple.obo: mondo.obo
 
 mondo.owl: mondo.obo equiv_axioms.owl
 	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
+
+mondoe.obo: mondo.owl
+	owltools $< -o -f obo $@
 
 ordo_leaves_rest.obo: ordo_leaves.obo mondo.obo 
 	obo-subtract.pl $^ > $@.tmp && mv $@.tmp $@
