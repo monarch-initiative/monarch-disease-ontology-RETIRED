@@ -5,7 +5,7 @@ Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
 Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
-Ontology(<http://purl.obolibrary.org/obo/mondo/bridge>
+Ontology(<http://purl.obolibrary.org/obo/upheno/doid/bridge.owl>
 Import(<http://purl.obolibrary.org/obo/upheno/doid/mondo.owl>)
 
 SubClassOf(<http://purl.obolibrary.org/obo/DC_0000130> <http://purl.obolibrary.org/obo/DOID_74>)
