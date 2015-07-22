@@ -365,4 +365,5 @@ SubClassOf(<http://purl.obolibrary.org/obo/OMIM_183850> <http://purl.obolibrary.
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_184300> <http://purl.obolibrary.org/obo/DOID_2247>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_204730> <http://www.orpha.net/ORDO/Orphanet_93457>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_603740> <http://purl.obolibrary.org/obo/DOID_0080001>)
+SubClassOf(<http://purl.obolibrary.org/obo/OMIM_605388> <http://purl.obolibrary.org/obo/DOID_0050670>)
 )
