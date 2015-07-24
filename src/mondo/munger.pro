@@ -471,6 +471,7 @@ write_omim(M,D) :-
         nl.
 
 
+is_a_gene(G) :- subclassRT(G,'SO:0000704'), !.
 is_a_gene(G) :- subclassRT(G,'Orphanet:C010'), !.
         
 foo('0').
@@ -479,6 +480,9 @@ omim_gene(M) :-
         class(M),
         entity_xref(D,M),
         is_a_gene(D).
+omim_gene(M) :-
+        class(M),
+        is_a_gene(M).
 
 
         

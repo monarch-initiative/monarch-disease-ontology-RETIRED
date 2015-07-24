@@ -38,7 +38,7 @@ omimclusters_plus_bridge.obo: omimclusters.obo $(CLUSTERS)/omimclusters_bridge_t
 omc-mapped-to-do.obo: omimclusters_plus_bridge.obo xrefs-doid-to-omc.obo
 	obo-map-ids.pl --use-xref-inverse xrefs-doid-to-omc.obo  xrefs-doid-to-omc-edited.obo $< > $@
 
-omim-genes.obo: omimclusters.obo
+omim-genes.obo: $(OMIM_OBO)
 	blip ontol-query -consult munger.pro -i $< -i ordo.obo -query "omim_gene(ID)" -to obo > $@
 
 # omimclusters with DO dupes carved out (and genes removed too)
