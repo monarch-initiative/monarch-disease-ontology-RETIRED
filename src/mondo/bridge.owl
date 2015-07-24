@@ -515,6 +515,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/OMIM_305690> <http://www.orpha.net/OR
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_305920> <http://purl.obolibrary.org/obo/DOID_225>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_306300> <http://purl.obolibrary.org/obo/DOID_1319>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_400043> <http://purl.obolibrary.org/obo/DOID_2742>)
+SubClassOf(<http://purl.obolibrary.org/obo/OMIM_425500> <http://purl.obolibrary.org/obo/DOID_16>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_500007> <http://purl.obolibrary.org/obo/DOID_225>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_515000> <http://purl.obolibrary.org/obo/DOID_2355>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_600171> <http://purl.obolibrary.org/obo/DOID_2277>)
