@@ -1,0 +1,596 @@
+format-version: 1.2
+ontology: http://www.orpha.net/ontology/orphanet.owl
+
+[Term]
+id: OMIM:106150
+name: Angiotensinogen
+namespace: MGI_disease_ontology
+synonym: "AGT" EXACT []
+synonym: "ANGIOTENSINOGEN; AGT" EXACT []
+synonym: "Angiotensin 1" EXACT []
+synonym: "Angiotensin 2" EXACT []
+synonym: "Iga Nephropathy, Progression to Renal Failure In, Susceptibility to" EXACT []
+synonym: "Serpina8" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:106180
+name: Angiotensin I-Converting Enzyme
+namespace: MGI_disease_ontology
+synonym: "ACE" EXACT []
+synonym: "ANGIOTENSIN I-CONVERTING ENZYME; ACE" EXACT []
+synonym: "Ace1" EXACT []
+synonym: "Angiotensin I-Converting Enzyme, Benign Serum Increase" EXACT []
+synonym: "Angiotensin I-Converting Enzyme, Plasma Level of" EXACT []
+synonym: "Angiotensin I-Converting Enzyme, Testicular" EXACT []
+synonym: "Dipeptidyl Carboxypeptidase 1" EXACT []
+synonym: "Iga Nephropathy, Progression to Renal Failure In, Susceptibility to" EXACT []
+synonym: "Kininase 2" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:107670
+name: Apolipoprotein A-Ii
+namespace: MGI_disease_ontology
+synonym: "APOA2" EXACT []
+synonym: "APOLIPOPROTEIN A-II; APOA2" EXACT []
+synonym: "Apolipoprotein A-Ii Deficiency" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:107680
+name: Apolipoprotein A-I
+namespace: MGI_disease_ontology
+synonym: "APOA1" EXACT []
+synonym: "APOLIPOPROTEIN A-I; APOA1" EXACT []
+synonym: "Apoa1 Deficiency" EXACT []
+synonym: "Apoa1/Apoc3 Fusion Gene" EXACT []
+synonym: "Apolipoprotein of High Density Lipoprotein" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:107730
+name: Apolipoprotein B
+namespace: MGI_disease_ontology
+synonym: "APOB" EXACT []
+synonym: "APOLIPOPROTEIN B; APOB" EXACT []
+synonym: "Ag Lipoprotein Types" EXACT []
+synonym: "Apob100" EXACT []
+synonym: "Apob48" EXACT []
+synonym: "Apolipoprotein B Allotypes" EXACT []
+synonym: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 4" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:107741
+name: Apolipoprotein E
+namespace: MGI_disease_ontology
+synonym: "APOE" EXACT []
+synonym: "APOLIPOPROTEIN E; APOE" EXACT []
+synonym: "Apolipoprotein E, Deficiency or Defect of" EXACT []
+synonym: "Broad-Betalipoproteinemia" EXACT []
+synonym: "Coronary Artery Disease, Severe, Susceptibility to" EXACT []
+synonym: "Dysbetalipoproteinemia Due to Defect 1N Apolipoprotein E-D" EXACT []
+synonym: "Familial Hyperbeta- and Prebetalipoproteinemia" EXACT []
+synonym: "Familial Hypercholesterolemia With Hyperlipemia" EXACT []
+synonym: "Floating-Betalipoproteinemia" EXACT []
+synonym: "Hyperlipemia With Familial Hypercholesterolemic Xanthomatosis" EXACT []
+synonym: "Hyperlipoproteinemia, Type 3" EXACT []
+synonym: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 5" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:109270
+name: Solute Carrier Family 4 (Anion Exchanger), Member 1
+namespace: MGI_disease_ontology
+synonym: "Acanthocytosis, One Form of" EXACT []
+synonym: "Anion Exchange Protein 1" EXACT []
+synonym: "Band 3 of Red Cell Membrane" EXACT []
+synonym: "Elliptocytosis 4" EXACT []
+synonym: "Elliptocytosis, Stomatocytic Hereditary" EXACT []
+synonym: "Erythrocyte Membrane Protein Band 3" EXACT []
+synonym: "Erythroid Protein Band 3" EXACT []
+synonym: "He, Stomatocytic" EXACT []
+synonym: "Ovalocytosis, Malaysian-Melanesian-Filipino Type" EXACT []
+synonym: "Ovalocytosis, Southeast Asian" EXACT []
+synonym: "SLC4A1" EXACT []
+synonym: "SOLUTE CARRIER FAMILY 4 (ANION EXCHANGER), MEMBER 1; SLC4A1" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:116790
+name: Catechol-O-Methyltransferase
+namespace: MGI_disease_ontology
+synonym: "CATECHOL-O-METHYLTRANSFERASE; COMT" EXACT []
+synonym: "COMT" EXACT []
+synonym: "Catechol-O-Methyltransferase Activity, Low, 1N Red Cells" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:120140
+name: Collagen, Type Ii, Alpha-1
+namespace: MGI_disease_ontology
+synonym: "COL2A1" EXACT []
+synonym: "COLLAGEN, TYPE II, ALPHA-1; COL2A1" EXACT []
+synonym: "Chondrocalcin" EXACT []
+synonym: "Collagen of Cartilage" EXACT []
+synonym: "Collagen, Type 2" EXACT []
+synonym: "Vitreoretinopathy With Phalangeal Epiphyseal Dysplasia" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:120150
+name: Collagen, Type I, Alpha-1
+namespace: MGI_disease_ontology
+synonym: "COL1A1" EXACT []
+synonym: "COLLAGEN, TYPE I, ALPHA-1; COL1A1" EXACT []
+synonym: "Col1A1/Pdgfb Fusion Gene" EXACT []
+synonym: "Collagen of Skin, Tendon, and Bone, Alpha-1 Chain" EXACT []
+synonym: "Oi/Eds Combined Syndrome" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:126453
+name: Dopamine Receptor D5
+namespace: MGI_disease_ontology
+synonym: "DOPAMINE RECEPTOR D5; DRD5" EXACT []
+synonym: "DRD5" EXACT []
+synonym: "Dopamine Receptor D1B" EXACT []
+synonym: "Dystonia, Primary Cervical" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:132810
+name: Epoxide Hydrolase 1, Microsomal
+namespace: MGI_disease_ontology
+synonym: "Arene Oxide Detoxification Defect" EXACT []
+synonym: "Diphenylhydantoin, Defect 1N Hydroxylation of" EXACT []
+synonym: "EPHX1" EXACT []
+synonym: "EPOXIDE HYDROLASE 1, MICROSOMAL; EPHX1" EXACT []
+synonym: "Epoxide Hydrolase" EXACT []
+synonym: "Epoxide Hydrolase, Microsomal Xenobiotic" EXACT []
+synonym: "Fetal Hydantoin Syndrome" EXACT []
+synonym: "Lymphoproliferative Disorders, Susceptibility to" EXACT []
+synonym: "Phenytoin Toxicity" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:138300
+name: Glutathione Reductase
+namespace: MGI_disease_ontology
+synonym: "GLUTATHIONE REDUCTASE; GSR" EXACT []
+synonym: "GSR" EXACT []
+synonym: "Glutathione Reductase, Hemolytic Anemia Due to Deficiency Of, 1N Red Cells" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:141800
+name: Hemoglobin--Alpha Locus 1
+namespace: MGI_disease_ontology
+synonym: "3-Prime Alpha-Globin Gene" EXACT []
+synonym: "Erythremia, Alpha-Globin Type" EXACT []
+synonym: "HBA1" EXACT []
+synonym: "HEMOGLOBIN--ALPHA LOCUS 1; HBA1" EXACT []
+synonym: "Methemoglobinemia, Alpha-Globin Type" EXACT []
+synonym: "Minor Alpha-Globin Locus" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:141900
+name: Hemoglobin--Beta Locus
+namespace: MGI_disease_ontology
+synonym: "Erythremia, Beta-Globin Type" EXACT []
+synonym: "HBB" EXACT []
+synonym: "HEMOGLOBIN--BETA LOCUS; HBB" EXACT []
+synonym: "Methemoglobinemia, Beta-Globin Type" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:142830
+name: Major Histocompatibility Complex, Class I, B
+namespace: MGI_disease_ontology
+synonym: "Abacavir Hypersensitivity, Susceptibility to" EXACT []
+synonym: "Drug-Induced Liver Injury Due to Flucloxacillin" EXACT []
+synonym: "HLA-B" EXACT []
+synonym: "Hla-B Histocompatibility Type" EXACT []
+synonym: "MAJOR HISTOCOMPATIBILITY COMPLEX, CLASS I, B; HLA-B" EXACT []
+synonym: "Synovitis, Chronic, Susceptibility to" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:151430
+name: B-Cell Cll/Lymphoma 2
+namespace: MGI_disease_ontology
+synonym: "B-CELL CLL/LYMPHOMA 2; BCL2" EXACT []
+synonym: "BCL2" EXACT []
+synonym: "Leukemia/Lymphoma, B-Cell, 2" EXACT []
+synonym: "Oncogene B-Cell Leukemia 2" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:159555
+name: Lysine-Specific Methyltransferase 2A
+namespace: MGI_disease_ontology
+synonym: "All1 Gene" EXACT []
+synonym: "Cxxc Finger Protein 7" EXACT []
+synonym: "Hrx" EXACT []
+synonym: "KMT2A" EXACT []
+synonym: "LYSINE-SPECIFIC METHYLTRANSFERASE 2A; KMT2A" EXACT []
+synonym: "Mixed Lineage Leukemia" EXACT []
+synonym: "Mixed Lineage Leukemia Gene" EXACT []
+synonym: "Mll/Abi1 Fusion Gene" EXACT []
+synonym: "Mll/Af10 Fusion Gene" EXACT []
+synonym: "Mll/Af15Q14 Fusion Gene" EXACT []
+synonym: "Mll/Af4 Fusion Gene" EXACT []
+synonym: "Mll/Af6 Fusion Gene" EXACT []
+synonym: "Mll/Af9 Fusion Gene" EXACT []
+synonym: "Mll/Cbl Fusion Gene" EXACT []
+synonym: "Mll/Cdk6 Fusion Gene" EXACT []
+synonym: "Mll/Cip29 Fusion Gene" EXACT []
+synonym: "Mll/Enl Fusion Gene" EXACT []
+synonym: "Mll/Fbp17 Fusion Gene" EXACT []
+synonym: "Mll/Gmps Fusion Gene" EXACT []
+synonym: "Mll/Gph Fusion Gene" EXACT []
+synonym: "Mll/Graf Fusion Gene" EXACT []
+synonym: "Mll/Kiaa1524 Fusion Gene" EXACT []
+synonym: "Mll/Laf4 Fusion Gene" EXACT []
+synonym: "Mll/Larg Fusion Gene" EXACT []
+synonym: "Mll/Lasp1 Fusion Gene" EXACT []
+synonym: "Mll/Lpp Fusion Gene" EXACT []
+synonym: "Mll/Maml2 Fusion Gene" EXACT []
+synonym: "Mll/Pnutl1 Fusion Gene" EXACT []
+synonym: "Mll/Sept6 Fusion Gene" EXACT []
+synonym: "Myeloid/Lymphoid Leukemia Gene" EXACT []
+synonym: "Myeloid/Lymphoid or Mixed Lineage Leukemia Gene" EXACT []
+synonym: "Trithorax, Drosophila, Homolog of" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:162080
+name: Neural Retina Leucine Zipper
+namespace: MGI_disease_ontology
+synonym: "D14S46E" EXACT []
+synonym: "NEURAL RETINA LEUCINE ZIPPER; NRL" EXACT []
+synonym: "NRL" EXACT []
+synonym: "Neural Retina-Specific Gene" EXACT []
+synonym: "Retinal Degeneration, Autosomal Recessive, Clumped Pigment Type" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:164761
+name: Rearranged During Transfection Protooncogene
+namespace: MGI_disease_ontology
+synonym: "Hirschsprung Disease, Protection Against" EXACT []
+synonym: "REARRANGED DURING TRANSFECTION PROTOONCOGENE; RET" EXACT []
+synonym: "RET" EXACT []
+synonym: "Ret Protooncogene" EXACT []
+synonym: "Ret/Elks Fusion Gene" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:168470
+name: Parathyroid Hormone-Like Hormone
+namespace: MGI_disease_ontology
+synonym: "Humoral Hypercalcemia of Malignancy" EXACT []
+synonym: "PARATHYROID HORMONE-LIKE HORMONE; PTHLH" EXACT []
+synonym: "PTHLH" EXACT []
+synonym: "Parathyroid Hormone-Related Protein" EXACT []
+synonym: "Pth-Related Protein" EXACT []
+synonym: "Pthr, Formerly" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:168820
+name: Paraoxonase 1
+namespace: MGI_disease_ontology
+synonym: "Arylesterase" EXACT []
+synonym: "Coronary Artery Disease, Susceptibility to" EXACT []
+synonym: "Coronary Artery Spasm 2, Susceptibility to" EXACT []
+synonym: "Esterase a" EXACT []
+synonym: "Organophosphate Poisoning, Susceptibility to" EXACT []
+synonym: "PARAOXONASE 1; PON1" EXACT []
+synonym: "PON1" EXACT []
+synonym: "Paraoxonase, Plasma" EXACT []
+synonym: "Pon" EXACT []
+synonym: "Pon1 Enzyme Activity, Variation 1N" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:173470
+name: Integrin, Beta-3
+namespace: MGI_disease_ontology
+synonym: "Cd61" EXACT []
+synonym: "Gp Iiia" EXACT []
+synonym: "INTEGRIN, BETA-3; ITGB3" EXACT []
+synonym: "ITGB3" EXACT []
+synonym: "Platelet Fibrinogen Receptor, Beta Subunit" EXACT []
+synonym: "Platelet Glycoprotein Iiia" EXACT []
+synonym: "Posttransfusion Purpura" EXACT []
+synonym: "Thrombocytopenia, Neonatal Alloimmune" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:177400
+name: Butyrylcholinesterase
+namespace: MGI_disease_ontology
+synonym: "Acholinesterasemia" EXACT []
+synonym: "Acylcholine Acylhydrolase" EXACT []
+synonym: "Apnea, Postanesthetic" EXACT []
+synonym: "BCHE" EXACT []
+synonym: "BUTYRYLCHOLINESTERASE; BCHE" EXACT []
+synonym: "Butyrylcholinesterase Deficiency" EXACT []
+synonym: "Butyrylcholinesterase Deficiency, Fluoride-Resistant, Japanese Type" EXACT []
+synonym: "Hypocholinesterasemia, Fluoride-Resistant, Japanese Type" EXACT []
+synonym: "Pseudocholinesterase Deficiency" EXACT []
+synonym: "Pseudocholinesterase E1" EXACT []
+synonym: "Suxamethonium Sensitivity" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:182870
+name: Spectrin, Beta, Erythrocytic
+namespace: MGI_disease_ontology
+synonym: "Elliptocytosis 3" EXACT []
+synonym: "SPECTRIN, BETA, ERYTHROCYTIC; SPTB" EXACT []
+synonym: "SPTB" EXACT []
+synonym: "Spectrin, Beta-I" EXACT []
+synonym: "Spherocytosis, Hereditary, 2" EXACT []
+synonym: "Spherocytosis, Type 2" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:184757
+name: Nuclear Receptor Subfamily 5, Group A, Member 1
+namespace: MGI_disease_ontology
+synonym: "Adrenal 4 Binding Protein" EXACT []
+synonym: "Adrenocortical Insufficiency" EXACT []
+synonym: "Fushi Tarazu Factor, Drosophila, Homolog 1" EXACT []
+synonym: "NR5A1" EXACT []
+synonym: "NUCLEAR RECEPTOR SUBFAMILY 5, GROUP A, MEMBER 1; NR5A1" EXACT []
+synonym: "Steroidogenic Factor 1" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:187395
+name: Teratocarcinoma-Derived Growth Factor 1
+namespace: MGI_disease_ontology
+synonym: "Cripto Growth Factor" EXACT []
+synonym: "Forebrain Defects" EXACT []
+synonym: "TDGF1" EXACT []
+synonym: "TERATOCARCINOMA-DERIVED GROWTH FACTOR 1; TDGF1" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:188545
+name: Thyrotropin-Releasing Hormone Receptor
+namespace: MGI_disease_ontology
+synonym: "THYROTROPIN-RELEASING HORMONE RECEPTOR; TRHR" EXACT []
+synonym: "TRHR" EXACT []
+synonym: "Thyrotropin-Releasing Hormone Resistance, Generalized" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:309850
+name: Monoamine Oxidase a
+namespace: MGI_disease_ontology
+synonym: "Amine Oxidase (Flavin-Containing) a" EXACT []
+synonym: "Antisocial Behavior Following Childhood Maltreatment, Susceptibility to" EXACT []
+synonym: "MAOA" EXACT []
+synonym: "MONOAMINE OXIDASE A; MAOA" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:314200
+name: Thyroxine-Binding Globulin of Serum
+namespace: MGI_disease_ontology
+synonym: "Serpin Peptidase Inhibitor, Clade A, Member 7" EXACT []
+synonym: "T4-Binding Globulin" EXACT []
+synonym: "TBG" EXACT []
+synonym: "THYROXINE-BINDING GLOBULIN OF SERUM; TBG" EXACT []
+synonym: "Tbg, Serum" EXACT []
+synonym: "Thyroxine-Binding Globulin Deficiency" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:516060
+name: Atp Synthase 6
+namespace: MGI_disease_ontology
+synonym: "ATP SYNTHASE 6; MTATP6" EXACT []
+synonym: "Ataxia and Polyneuropathy, Adult-Onset" EXACT []
+synonym: "Cardiomyopathy, Infantile Hypertrophic" EXACT []
+synonym: "Complex V, Atp Synthase, Subunit Atpase 6" EXACT []
+synonym: "MTATP6" EXACT []
+synonym: "Mitochondrial Complex 5 (Atp Synthase) Deficiency, Mitochondrial Type 1" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:516070
+name: Atp Synthase 8
+namespace: MGI_disease_ontology
+synonym: "ATP SYNTHASE 8; MTATP8" EXACT []
+synonym: "Brain Pseudoatrophy, Reversible, Valproate-Induced, Susceptibility to" EXACT []
+synonym: "Cardiomyopathy, Apical Hypertrophic, and Neuropathy" EXACT []
+synonym: "Cardiomyopathy, Infantile Hypertrophic" EXACT []
+synonym: "Complex V, Atp Synthase, Subunit Atpase 8" EXACT []
+synonym: "MTATP8" EXACT []
+synonym: "Mitochondrial Complex 5 (Atp Synthase) Deficiency, Mitochondrial Type 2" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:600046
+name: Atp-Binding Cassette, Subfamily A, Member 1
+namespace: MGI_disease_ontology
+synonym: "ABCA1" EXACT []
+synonym: "ATP-BINDING CASSETTE, SUBFAMILY A, MEMBER 1; ABCA1" EXACT []
+synonym: "Abc Transporter 1" EXACT []
+synonym: "Atp-Binding Cassette 1" EXACT []
+synonym: "Atp-Binding Cassette Transporter 1" EXACT []
+synonym: "Cholesterol Efflux Regulatory Protein" EXACT []
+synonym: "Coronary Heart Disease 1N Familial Hypercholesterolemia, Protection Against" EXACT []
+synonym: "High Density Lipoprotein Cholesterol Level Quantitative Trait Locus 13" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:600946
+name: Growth Hormone Receptor
+namespace: MGI_disease_ontology
+synonym: "GHR" EXACT []
+synonym: "GROWTH HORMONE RECEPTOR; GHR" EXACT []
+synonym: "Growth Hormone-Binding Protein" EXACT []
+synonym: "Increased Responsiveness to Growth Hormone" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:601199
+name: Calcium-Sensing Receptor
+namespace: MGI_disease_ontology
+synonym: "CALCIUM-SENSING RECEPTOR; CASR" EXACT []
+synonym: "CASR" EXACT []
+synonym: "Calcium, Serum Level of" EXACT []
+synonym: "Hypercalciuric Hypercalcemia" EXACT []
+synonym: "Parathyroid Ca(2+)-Sensing Receptor 1" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:601728
+name: Phosphatase and Tensin Homolog
+namespace: MGI_disease_ontology
+synonym: "Mutated 1N Multiple Advanced Cancers 1" EXACT []
+synonym: "PHOSPHATASE AND TENSIN HOMOLOG; PTEN" EXACT []
+synonym: "PTEN" EXACT []
+synonym: "Phosphatase and Tensin Homolog Deleted on Chromosome 10" EXACT []
+synonym: "Pten Hamartoma Tumor Syndrome" EXACT []
+synonym: "Pten Hamartoma Tumor Syndrome With Granular Cell Tumor" EXACT []
+synonym: "Pten1" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:601877
+name: Left-Right Determination Factor 2
+namespace: MGI_disease_ontology
+synonym: "Endometrial Bleeding-Associated Factor" EXACT []
+synonym: "LEFT-RIGHT DETERMINATION FACTOR 2; LEFTY2" EXACT []
+synonym: "LEFTY2" EXACT []
+synonym: "Left-Right Axis Malformations" EXACT []
+synonym: "Left-Right Determination, Factor a" EXACT []
+synonym: "Lefty a" EXACT []
+synonym: "Lefty2 Transforming Growth Factor, Beta-4" EXACT []
+synonym: "Lefty2, Mouse, Homolog of" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:601920
+name: Jagged 1
+namespace: MGI_disease_ontology
+synonym: "Deafness, Congenital Heart Defects, and Posterior Embryotoxon" EXACT []
+synonym: "JAG1" EXACT []
+synonym: "JAGGED 1; JAG1" EXACT []
+synonym: "Jagl1" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:603030
+name: Toll-Like Receptor 4
+namespace: MGI_disease_ontology
+synonym: "Endotoxin Hyporesponsiveness" EXACT []
+synonym: "TLR4" EXACT []
+synonym: "TOLL-LIKE RECEPTOR 4; TLR4" EXACT []
+synonym: "Toll, Drosophila, Homolog of" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:603324
+name: Gap Junction Protein, Beta-3
+namespace: MGI_disease_ontology
+synonym: "Connexin 31" EXACT []
+synonym: "Deafness, Autosomal Dominant, With Peripheral Neuropathy" EXACT []
+synonym: "Deafness, Autosomal Recessive" EXACT []
+synonym: "GAP JUNCTION PROTEIN, BETA-3; GJB3" EXACT []
+synonym: "GJB3" EXACT []
+synonym: "Gap Junction Protein, 31-Kd" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:603372
+name: Thyroid-Stimulating Hormone Receptor
+namespace: MGI_disease_ontology
+synonym: "Lgr3" EXACT []
+synonym: "THYROID-STIMULATING HORMONE RECEPTOR; TSHR" EXACT []
+synonym: "TSHR" EXACT []
+synonym: "Thyroid Adenoma, Hyperfunctioning" EXACT []
+synonym: "Thyroid Carcinoma With Thyrotoxicosis" EXACT []
+synonym: "Thyrotropin Receptor" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:604011
+name: Unc119, C. Elegans, Homolog of
+namespace: MGI_disease_ontology
+synonym: "Cone-Rod Dystrophy" EXACT []
+synonym: "Human Retinal Gene 4" EXACT []
+synonym: "UNC119" EXACT []
+synonym: "UNC119, C. ELEGANS, HOMOLOG OF; UNC119" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:604373
+name: Checkpoint Kinase 2, S. Pombe, Homolog of
+namespace: MGI_disease_ontology
+synonym: "Breast and Colorectal Cancer, Susceptibility to" EXACT []
+synonym: "CHECKPOINT KINASE 2, S. POMBE, HOMOLOG OF; CHEK2" EXACT []
+synonym: "CHEK2" EXACT []
+synonym: "Cds1, S. Pombe, Homolog of" EXACT []
+synonym: "Chk2" EXACT []
+synonym: "Hbcc, Susceptibility to" EXACT []
+synonym: "Rad53, S. Cerevisiae, Homolog of" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:604824
+name: Klotho
+namespace: MGI_disease_ontology
+synonym: "Alpha-Klotho" EXACT []
+synonym: "Coronary Artery Disease, Susceptibility to" EXACT []
+synonym: "KL" EXACT []
+synonym: "KLOTHO; KL" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:607306
+name: Steroid 5-Alpha-Reductase 2
+namespace: MGI_disease_ontology
+synonym: "Micropenis" EXACT []
+synonym: "SRD5A2" EXACT []
+synonym: "STEROID 5-ALPHA-REDUCTASE 2; SRD5A2" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:608307
+name: Carbamoyl Phosphate Synthetase 1
+namespace: MGI_disease_ontology
+synonym: "CARBAMOYL PHOSPHATE SYNTHETASE I; CPS1" EXACT []
+synonym: "CPS1" EXACT []
+synonym: "Venoocclusive Disease After Bone Marrow Transplantation, Susceptibility to" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:608508
+name: Cytochrome B(-245), Alpha Subunit
+namespace: MGI_disease_ontology
+synonym: "CYBA" EXACT []
+synonym: "CYTOCHROME b(-245), ALPHA SUBUNIT; CYBA" EXACT []
+synonym: "Cytochrome B Light Chain" EXACT []
+synonym: "Cytochrome B(558), Alpha Subunit" EXACT []
+synonym: "P22-Phox" EXACT []
+synonym: "Reactive Oxygen Species Generation, Decreased" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
+[Term]
+id: OMIM:609708
+name: Lipoprotein Lipase
+namespace: MGI_disease_ontology
+synonym: "High Density Lipoprotein Cholesterol Level Quantitative Trait Locus 11" EXACT []
+synonym: "LIPOPROTEIN LIPASE; LPL" EXACT []
+synonym: "LPL" EXACT []
+is_a: DC:0000138  ! Disease Cluster
+
