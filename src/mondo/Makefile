@@ -24,7 +24,7 @@ disease_nosyn.obo: $(DOID_OBO)
 # local copy of MGI's file
 # todo: add def back later, but watch for multiple def tags
 omimclusters.obo: $(CLUSTERS)/omimclusters.obo $(OMIM_OBO)
-	obo-merge-tags.pl  -t synonym -t name $^ > $@.tmp && obo2obo $@.tmp -o $@
+	obo-merge-tags.pl  -t synonym -t name  $^ > $@.tmp && obo2obo $@.tmp -o $@
 
 # subset that includes only the clusters/groupings
 omc.obo: omimclusters.obo
