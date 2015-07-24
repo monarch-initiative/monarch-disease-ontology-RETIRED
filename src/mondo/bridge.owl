@@ -434,6 +434,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/OMIM_219070> <http://purl.obolibrary.
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_219300> <http://purl.obolibrary.org/obo/DOID_225>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_219400> <http://purl.obolibrary.org/obo/DOID_225>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_219600> <http://purl.obolibrary.org/obo/DOID_850>)
+SubClassOf(<http://purl.obolibrary.org/obo/OMIM_219730> <http://purl.obolibrary.org/obo/DOID_225>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_221950> <http://purl.obolibrary.org/obo/DOID_225>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_229250> <http://purl.obolibrary.org/obo/DOID_0050155>)
 SubClassOf(<http://purl.obolibrary.org/obo/OMIM_243450> <http://purl.obolibrary.org/obo/DOID_0050155>)
