@@ -9,4 +9,4 @@ omim.owl: mirror-omim.ttl
 .PRECIOUS: omim.owl
 
 omim.obo: omim.owl
-	owltools $< -o -f obo $@
+	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp > $@
