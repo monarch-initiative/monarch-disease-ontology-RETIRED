@@ -1,0 +1,340 @@
+GARD:0000004 ! Acanthocheilonemiasis	MESH:D063485 ! Acanthocheilonemiasis
+GARD:0000130 ! Florid cystic endosalpingiosis of the uterus	MESH:C537064 ! Florid cystic endosalpingiosis of the uterus
+GARD:0000149 ! Prostatic malacoplakia associated with prostatic abscess	MESH:C537244 ! Prostatic malacoplakia associated with prostatic abscess
+GARD:0000151 ! Samson Gardner syndrome	MESH:C537230 ! Samson Gardner syndrome
+GARD:0000152 ! Samson Viljoen syndrome	MESH:C537231 ! Samson Viljoen syndrome
+GARD:0000153 ! Sanderson Fraser syndrome	MESH:C537232 ! Sanderson Fraser syndrome
+GARD:0000154 ! Sandhaus Ben-Ami syndrome	MESH:C537233 ! Sandhaus Ben-Ami syndrome
+GARD:0000161 ! Saul Wilkes Stevenson syndrome	MESH:C536617 ! Saul Wilkes Stevenson syndrome
+GARD:0000171 ! Le Marec Bracq Picaud syndrome	MESH:C536997 ! Le Marec Bracq Picaud syndrome
+GARD:0000174 ! Macrogyria, pseudobulbar palsy and mental retardation	MESH:C537722 ! Macrogyria, pseudobulbar palsy and mental retardation
+GARD:0000189 ! Elliott Ludman Teebi syndrome	MESH:C536204 ! Elliott Ludman Teebi syndrome
+GARD:0000191 ! Kashani Strom Utley syndrome	MESH:C537010 ! Kashani Strom Utley syndrome
+GARD:0000196 ! St Anthony's fire	MESH:D004881 ! Ergotism
+GARD:0000200 ! Central serous chorioretinopathy	MESH:D056833 ! Central Serous Chorioretinopathy
+GARD:0000204 ! Dieterich's disease	MESH:C536172 ! Dieterich's disease
+GARD:0000208 ! Giant mammary hamartoma	MESH:C536818 ! Giant mammary hamartoma
+GARD:0000210 ! Ruzicka Goerz Anton syndrome	MESH:C537192 ! Ruzicka Goerz Anton syndrome
+GARD:0000253 ! Schwartz Cohen-Addad Lambert syndrome	MESH:C535835 ! Schwartz Cohen-Addad Lambert syndrome
+GARD:0000255 ! Schlegelberger Grote syndrome	MESH:C536635 ! Schlegelberger Grote syndrome
+GARD:0000256 ! Schrander-Stumpel Theunissen Hulsmans syndrome	MESH:C536639 ! Schrander-Stumpel Theunissen Hulsmans syndrome
+GARD:0000303 ! Jeune syndrome situs inversus	MESH:C537572 ! Jeune syndrome situs inversus
+GARD:0000311 ! Saal Bulas syndrome	MESH:C537193 ! Saal Bulas syndrome
+GARD:0000315 ! Sackey Sakati Aur syndrome	MESH:C537219 ! Sackey Sakati Aur syndrome
+GARD:0000317 ! Sacral hemangiomas multiple congenital abnormalities	MESH:C537222 ! Sacral hemangiomas multiple congenital abnormalities
+GARD:0000324 ! Slti Salem syndrome	MESH:C536673 ! Slti Salem syndrome
+GARD:0000328 ! Wandering spleen	MESH:D050805 ! Wandering Spleen
+GARD:0000338 ! Zerres Rietschel Majewski syndrome	MESH:C536724 ! Zerres Rietschel Majewski syndrome
+GARD:0000339 ! Zazam Sheriff Phillips syndrome	MESH:C536723 ! Zazam Sheriff Phillips syndrome
+GARD:0000340 ! Zadik Barak Levin syndrome	MESH:C536721 ! Zadik Barak Levin syndrome
+GARD:0000349 ! Neuroaxonal dystrophy renal tubular acidosis	MESH:C537386 ! Neuroaxonal dystrophy renal tubular acidosis
+GARD:0000353 ! Kozlowski Warren Fisher syndrome	MESH:C537614 ! Kozlowski Warren Fisher syndrome
+GARD:0000366 ! Arnold Stickler Bourne syndrome	MESH:C537431 ! Arnold Stickler Bourne syndrome
+GARD:0000392 ! Weinstein Kliman Scully syndrome	MESH:C536688 ! Weinstein Kliman Scully syndrome
+GARD:0000398 ! Bagatelle Cassidy syndrome	MESH:C537796 ! Bagatelle Cassidy syndrome
+GARD:0000417 ! Aloi Tomasini Isaia syndrome	MESH:C537049 ! Aloi Tomasini Isaia syndrome
+GARD:0000439 ! Abdominal cystic lymphangioma	MESH:C535553 ! Abdominal cystic lymphangioma
+GARD:0000468 ! Acitretin embryopathy	MESH:C538169 ! Acitretin embryopathy
+GARD:0000505 ! Acromesomelic dysplasia Campailla Martinelli type	MESH:C535659 ! Acromesomelic dysplasia Campailla-Martinelli type
+GARD:0000518 ! Acute articular rheumatism	MESH:C538407 ! Acute rheumatism
+GARD:0000520 ! Acute erythroblastic leukemia	MESH:D004915 ! Leukemia, Erythroblastic, Acute
+GARD:0000577 ! Akaba Hayasaka syndrome	MESH:C535609 ! Akaba Hayasaka syndrome
+GARD:0000579 ! Aksu von Stockhausen syndrome	MESH:C535611 ! Aksu von Stockhausen syndrome
+GARD:0000581 ! Asrar Facharzt Haque syndrome	MESH:C535391 ! Asrar Facharzt Haque syndrome
+GARD:0000586 ! Al Gazali Khidr Prem Chandran syndrome	MESH:C535616 ! Al Gazali Khidr Prem Chandran syndrome
+GARD:0000615 ! Alopecia universalis onychodystrophy vitiligo	MESH:C537056 ! Alopecia universalis onychodystrophy vitiligo
+GARD:0000735 ! Antisynthetase syndrome	MESH:C537778 ! Antisynthetase syndrome
+GARD:0000771 ! Arroyo Garcia Cimadevilla syndrome	MESH:C537439 ! Arroyo Garcia Cimadevilla syndrome
+GARD:0000781 ! Arthrogryposis epileptic seizures migrational brain disorder	MESH:C537442 ! Arthrogryposis epileptic seizures migrational brain disorder
+GARD:0000808 ! Baker Vinters syndrome	MESH:C537899 ! Baker Vinters syndrome
+GARD:0000833 ! Basaran Yilmaz syndrome	MESH:C537660 ! Basaran Yilmaz syndrome
+GARD:0000875 ! Bhaskar Jagannathan syndrome	MESH:C535437 ! Bhaskar Jagannathan syndrome
+GARD:0000878 ! Bidirectional tachycardia	MESH:C535438 ! Bidirectional tachycardia
+GARD:0000945 ! Boudhina Yedes Khiari syndrome	MESH:C537939 ! Boudhina Yedes Khiari syndrome
+GARD:0000954 ! Boylan Dew Greco syndrome	MESH:C537083 ! Boylan Dew Greco syndrome
+GARD:0001032 ! Brunoni syndrome	MESH:C537408 ! Brunoni syndrome
+GARD:0001055 ! Calloso-genital dysplasia	MESH:C537962 ! Calloso-genital dysplasia
+GARD:0001065 ! Camptodactyly joint contractures and facial skeletal dysplasia	MESH:C537969 ! Camptodactyly joint contractures and facial skeletal dysplasia
+GARD:0001070 ! Camptodactyly vertebral fusion	MESH:C537973 ! Camptodactyly vertebral fusion
+GARD:0001081 ! Cantu Sanchez-Corona Fragoso syndrome	MESH:C535571 ! Cantu Sanchez-Corona Fragoso syndrome
+GARD:0001117 ! Carnevale Hernandez Castillo syndrome	MESH:C535585 ! Carnevale Hernandez Castillo syndrome
+GARD:0001130 ! Carrington syndrome	MESH:C535590 ! Carrington syndrome
+GARD:0001132 ! Cartwright Nelson Fryns syndrome	MESH:C535917 ! Cartwright Nelson Fryns syndrome
+GARD:0001193 ! Subacute cerebellar degeneration	MESH:C535352 ! Cerebellar degeneration, subacute
+GARD:0001266 ! Ho Kaufman Mcalister syndrome	MESH:C538325 ! Ho Kaufman Mcalister syndrome
+GARD:0001275 ! Dandy-Walker malformation associated with macrocephaly, facial anomalies, developmental delay, and brain stem dysgenesis	MESH:C535927 ! Chitayat Moore Del Bigio syndrome
+GARD:0001532 ! Coronal synostosis, syndactyly and jejunal atresia	MESH:C536445 ! Coronal synostosis, syndactyly and jejunal atresia
+GARD:0001644 ! Cutis verticis gyrata mental deficiency	MESH:C565661 ! Cutis Verticis Gyrata and Mental Deficiency
+GARD:0001657 ! Cytomegalic inclusion disease	MESH:C538505 ! Cytomegalic inclusion body disease
+GARD:0001674 ! Davis Lafer syndrome	MESH:C535989 ! Davis Lafer syndrome
+GARD:0001680 ! Frints De Smet Fabry Fryns syndrome	MESH:C538062 ! Frints De Smet Fabry Fryns syndrome
+GARD:0001717 ! Deal Barratt Dillon syndrome	MESH:C538206 ! Deal Barratt Dillon syndrome
+GARD:0001732 ! Chromosome 11p deletion	MESH:C538293 ! Chromosome 11, deletion 11p
+GARD:0001732 ! Chromosome 11p deletion	MESH:C541598 ! Chromosome 11p Deletion Syndrome
+GARD:0001878 ! Chromosome 1, uniparental disomy 1q12 q21	MESH:C538085 ! Chromosome 1, uniparental disomy 1q12 q21
+GARD:0001913 ! Drachtman Weinblatt Sitarz syndrome	MESH:C535603 ! Drachtman Weinblatt Sitarz syndrome
+GARD:0001918 ! Duker Weiss Siber syndrome	MESH:C535719 ! Duker Weiss Siber syndrome
+GARD:0001988 ! Dwarfism	MESH:D004392 ! Dwarfism
+GARD:0002063 ! Ectrodactyly cardiopathy dysmorphism	MESH:C536187 ! Ectrodactyly cardiopathy dysmorphism
+GARD:0002273 ! Fara Chlupackova syndrome	MESH:C537074 ! Fara Chlupackova syndrome
+GARD:0002282 ! Feingold Trainer syndrome	MESH:C536179 ! Feingold Trainer syndrome
+GARD:0002351 ! Foix Chavany Marie syndrome	MESH:C537069 ! Foix Chavany Marie syndrome
+GARD:0002361 ! Formaldehyde poisoning	MESH:C537268 ! Formaldehyde poisoning
+GARD:0002371 ! Franceschini Vardeu Guala syndrome	MESH:C537272 ! Franceschini Vardeu Guala syndrome
+GARD:0002373 ! Fraser Jequier Chen syndrome	MESH:C535481 ! Fraser Jequier Chen syndrome
+GARD:0002380 ! Freiberg's disease	MESH:C535636 ! Freiberg's disease
+GARD:0002381 ! Freire-Maia odontotrichomelic syndrome	MESH:C535637 ! Freire-Maia odontotrichomelic syndrome
+GARD:0002467 ! Ghose Sachdev Kumar syndrome	MESH:C537803 ! Ghose Sachdev Kumar syndrome
+GARD:0002736 ! Hordnes Engebretsen Knudtson syndrome	MESH:C536067 ! Hordnes Engebretsen Knudtson syndrome
+GARD:0003040 ! Jaffer Beighton syndrome	MESH:C537561 ! Jaffer Beighton syndrome
+GARD:0003055 ! Jones Hersh Yusk syndrome	MESH:C535885 ! Jones Hersh Yusk syndrome
+GARD:0003061 ! Judge Misch Wright syndrome	MESH:C537692 ! Judge Misch Wright syndrome
+GARD:0003076 ! Kaplowitz Bodurtha syndrome	MESH:C536893 ! Kaplowitz Bodurtha syndrome
+GARD:0003081 ! Katsantoni Papadakou Lagoyanni syndrome	MESH:C537012 ! Katsantoni Papadakou Lagoyanni syndrome
+GARD:0003131 ! Koone Rizzo Elias syndrome	MESH:C537023 ! Koone Rizzo Elias syndrome
+GARD:0003136 ! Kozlowski Brown Hardwick syndrome	MESH:C537506 ! Kozlowski Brown Hardwick syndrome
+GARD:0003139 ! Kozlowski Ouvrier syndrome	MESH:C537508 ! Kozlowski Ouvrier syndrome
+GARD:0003140 ! Kozlowski Rafinski Klicharska syndrome	MESH:C537509 ! Kozlowski Rafinski Klicharska syndrome
+GARD:0003144 ! Krieble Bixler syndrome	MESH:C537619 ! Krieble Bixler syndrome
+GARD:0003152 ! Kuster syndrome	MESH:C538126 ! Kuster syndrome
+GARD:0003157 ! Lachiewicz Sibley syndrome	MESH:C538131 ! Lachiewicz Sibley syndrome
+GARD:0003172 ! Landy-Donnai syndrome	MESH:C537266 ! Landy Donnai syndrome
+GARD:0003249 ! Iida Kannari syndrome	MESH:C536284 ! Iida Kannari syndrome
+GARD:0003407 ! Massa Casaer Ceulemans syndrome	MESH:C536031 ! Massa Casaer Ceulemans syndrome
+GARD:0003429 ! Microcephaly, primary autosomal recessive	MESH:C579935 ! Autosomal Recessive Primary Microcephaly
+GARD:0003431 ! McPherson Robertson Cammarano syndrome	MESH:C538161 ! McPherson Robertson Cammarano syndrome
+GARD:0003450 ! Mehta Lewis Patton syndrome	MESH:C536147 ! Mehta Lewis Patton syndrome
+GARD:0003590 ! Michels Caskey syndrome	MESH:C537576 ! Michels Caskey syndrome
+GARD:0003628 ! Microcephaly micropenis convulsions	MESH:C537540 ! Microcephaly seizures genital hypoplasia
+GARD:0003629 ! Microcephaly microphthalmos blindness	MESH:C537541 ! Microcephaly microphthalmos blindness
+GARD:0003630 ! Microcephaly nonsyndromal	MESH:C537542 ! Microcephaly nonsyndromal
+GARD:0003632 ! Microcephaly seizures mental retardation heart disorders	MESH:C537544 ! Microcephaly seizures mental retardation heart disorders
+GARD:0003633 ! Microcephaly sparse hair mental retardation seizures	MESH:C537545 ! Microcephaly sparse hair mental retardation seizures
+GARD:0003638 ! Microdontia hypodontia short stature	MESH:C537553 ! Microdontia hypodontia short stature
+GARD:0003670 ! Milner Khallouf Gibson syndrome	MESH:C537473 ! Milner Khallouf Gibson syndrome
+GARD:0003698 ! Moebius axonal neuropathy hypogonadism	MESH:C535806 ! Moebius axonal neuropathy hypogonadism
+GARD:0003726 ! Mosaic monosomy 18	MESH:C536581 ! Chromosome 18 mosaic monosomy
+GARD:0003867 ! Myeloid splenomegaly	MESH:C536094 ! Myeloid splenomegaly
+GARD:0003934 ! Neonatal ovarian cyst	MESH:C536396 ! Neonatal ovarian cyst
+GARD:0003950 ! Neural crest tumor	MESH:C536408 ! Neural crest tumor
+GARD:0003994 ! Night blindness skeletal anomalies unusual facies	MESH:C536121 ! Night blindness skeletal anomalies unusual facies
+GARD:0004208 ! Pancreatic lipomatosis duodenal stenosis	MESH:C535839 ! Pancreatic lipomatosis duodenal stenosis
+GARD:0004255 ! Patella hypoplasia mental retardation	MESH:C536308 ! Patella hypoplasia mental retardation
+GARD:0004262 ! Syndactyly type 1 with cataracts and mental retardation	MESH:C536313 ! Pavone Fiumara Rizzo syndrome
+GARD:0004306 ! Pfeiffer Rockelein syndrome	MESH:C537890 ! Pfeiffer Rockelein syndrome
+GARD:0004308 ! Pfeiffer Tietze Welte syndrome	MESH:C537891 ! Pfeiffer Tietze Welte syndrome
+GARD:0004311 ! Phacomatosis pigmentokeratotica	MESH:C537893 ! Phacomatosis pigmentokeratotica
+GARD:0004312 ! Phacomatosis pigmentovascularis	MESH:C537894 ! Phacomatosis pigmentovascularis
+GARD:0004345 ! Piepkorn Karp Hickok syndrome	MESH:C535774 ! Piepkorn Karp Hickok syndrome
+GARD:0004387 ! Podder-Tolmie syndrome	MESH:C537518 ! Podder-Tolmie syndrome
+GARD:0004395 ! Pointer syndrome	MESH:C536323 ! Pointer syndrome
+GARD:0004624 ! Radial defect Robin sequence	MESH:C536261 ! Radial defect Robin sequence
+GARD:0004747 ! Ruvalcaba Churesigaew Myhre syndrome	MESH:C537190 ! Ruvalcaba Churesigaew Myhre syndrome
+GARD:0004766 ! Childhood-Onset Schizophrenia	MESH:D012561 ! Schizophrenia, Childhood
+GARD:0004770 ! Sclerosing bone dysplasia mental retardation	MESH:C537523 ! Sclerosing bone dysplasia mental retardation
+GARD:0004868 ! Silengo Lerone Pelizza syndrome	MESH:C537336 ! Silengo Lerone Pelizza syndrome
+GARD:0004876 ! Singh Chhaparwal Dhanda syndrome	MESH:C537341 ! Singh Chhaparwal Dhanda syndrome
+GARD:0004893 ! Slavotinek Pike Mills Hurst syndrome	MESH:C536672 ! Slavotinek Pike Mills Hurst syndrome
+GARD:0004912 ! Spastic paraparesis	MESH:D020336 ! Paraparesis, Spastic
+GARD:0004988 ! Spondylohypoplasia, arthrogryposis and popliteal pterygium	MESH:C535790 ! Spondylohypoplasia, arthrogryposis and popliteal pterygium
+GARD:0005107 ! T cell immunodeficiency primary	MESH:C536780 ! T cell immunodeficiency primary
+GARD:0005114 ! Tang Hsi Ryu syndrome	MESH:C536897 ! Tang Hsi Ryu syndrome
+GARD:0005117 ! TAU syndrome	MESH:C536944 ! Thrombocytopenia absent ulnar syndrome
+GARD:0005136 ! Temporomandibular ankylosis	MESH:C536957 ! Temporomandibular ankylosis
+GARD:0005167 ! Theodor Hertz Goodman syndrome	MESH:C536509 ! Theodor Hertz Goodman syndrome
+GARD:0005218 ! Tollner Horst Manzke syndrome	MESH:C536964 ! Tollner Horst Manzke syndrome
+GARD:0005335 ! Trisomy 22	MESH:C536799 ! Chromosome 22, trisomy
+GARD:0005345 ! Chromosome 3q duplication	MESH:C536813 ! Chromosome 3, trisomy 3q
+GARD:0005369 ! Chromosome Xq duplication	MESH:C536732 ! Chromosome Xq duplication syndrome
+GARD:0005411 ! Chromosome 16, uniparental disomy	MESH:C538043 ! Chromosome 16, uniparental disomy
+GARD:0005412 ! Uniparental disomy of chromosome 2	MESH:C536470 ! Uniparental disomy of chromosome 2
+GARD:0005415 ! Chromosome 5, uniparental disomy	MESH:C537762 ! Chromosome 5, uniparental disomy
+GARD:0005465 ! Vasquez Hurst Sotos syndrome	MESH:C536533 ! Vasquez Hurst Sotos syndrome
+GARD:0005486 ! Vertebral body fusion overgrowth	MESH:C536543 ! Vertebral body fusion overgrowth
+GARD:0005529 ! Walbaum Titran Durieux Crepin syndrome	MESH:C536566 ! Walbaum Titran Durieux Crepin syndrome
+GARD:0005583 ! Winter Harding Hyde syndrome	MESH:C536712 ! Winter Harding Hyde syndrome
+GARD:0005671 ! 46,XX Gonadal dysgenesis epibulbar dermoid	MESH:C535316 ! 46,XX Gonadal dysgenesis epibulbar dermoid
+GARD:0005706 ! Aberrant subclavian artery	MESH:C535555 ! Aberrant subclavian artery
+GARD:0005709 ! Achard Thiers syndrome	MESH:C536013 ! Achard-Thiers syndrome
+GARD:0005717 ! Acquired agranulocytosis	MESH:C538171 ! Acquired agranulocytosis
+GARD:0005726 ! Acrospiroma	MESH:D018250 ! Acrospiroma
+GARD:0005741 ! Adenocarcinoid tumor	MESH:C538230 ! Adenocarcinoid tumor
+GARD:0005747 ! Adenoameloblastoma	MESH:C538229 ! Adenoameloblastoma
+GARD:0005768 ! Albinism	MESH:D000417 ! Albinism
+GARD:0005863 ! Athetosis	MESH:D001264 ! Athetosis
+GARD:0005888 ! Banti's syndrome	MESH:C537903 ! Banti's syndrome
+GARD:0005948 ! Bowen's disease	MESH:D001913 ! Bowen's Disease
+GARD:0006054 ! Synovial Chondromatosis	MESH:D015838 ! Chondromatosis, Synovial
+GARD:0006068 ! Chromosome 12p deletion	MESH:C538301 ! Chromosome 12p deletion
+GARD:0006113 ! Ciguatera fish poisoning	MESH:D036841 ! Ciguatera Poisoning
+GARD:0006256 ! Calcifying Epithelial Odontogenic Tumor	MESH:C537961 ! Calcifying Epithelial Odontogenic Tumor
+GARD:0006393 ! Exfoliative dermatitis	MESH:D003873 ! Dermatitis, Exfoliative
+GARD:0006405 ! Acquired hemophilia A	MESH:C536392 ! Factor 8 deficiency, acquired
+GARD:0006452 ! Fitz-Hugh-Curtis syndrome	MESH:C537936 ! Fitz-Hugh-Curtis syndrome
+GARD:0006453 ! Flavimonas oryzihabitans infection	MESH:C537061 ! Flavimonas oryzihabitans Bacteremia
+GARD:0006484 ! Gas bloat syndrome	MESH:C535647 ! Gas bloat syndrome
+GARD:0006551 ! Transient acantholytic dermatosis	MESH:C537306 ! Grover's disease
+GARD:0006557 ! Hemangioendothelioma	MESH:D006390 ! Hemangioendothelioma
+GARD:0006577 ! Heavy metal poisoning	MESH:C535854 ! Heavy Metal Toxicity
+GARD:0006864 ! Laryngeal papillomatosis	MESH:C537876 ! Laryngeal papillomatosis
+GARD:0006897 ! Leukoplakia	MESH:D007971 ! Leukoplakia
+GARD:0006899 ! Levator syndrome	MESH:C535890 ! Levator syndrome
+GARD:0006933 ! Lymphangiectasis	MESH:D008200 ! Lymphangiectasis
+GARD:0006967 ! Mallory-Weiss syndrome	MESH:D008309 ! Mallory-Weiss Syndrome
+GARD:0007173 ! Neonatal herpes	MESH:C536395 ! Neonatal herpes
+GARD:0007216 ! Non-lissencephalic cortical dysplasia	MESH:C536243 ! Non-lissencephalic cortical dysplasia
+GARD:0007237 ! Ocular motility disorders	MESH:D015835 ! Ocular Motility Disorders
+GARD:0007238 ! Ocular toxoplasmosis	MESH:D014126 ! Toxoplasmosis, Ocular
+GARD:0007247 ! Odontoma	MESH:D009810 ! Odontoma
+GARD:0007261 ! Oral lichen planus	MESH:D017676 ! Lichen Planus, Oral
+GARD:0007281 ! Osteochondroma	MESH:D015831 ! Osteochondroma
+GARD:0007322 ! Papular urticaria	MESH:C537169 ! Papular urticaria
+GARD:0007373 ! Perniosis	MESH:D002647 ! Chilblains
+GARD:0007406 ! Plexosarcoma	MESH:C537517 ! Plexosarcoma
+GARD:0007437 ! Post-traumatic epilepsy	MESH:D004834 ! Epilepsy, Post-Traumatic
+GARD:0007465 ! Prinzmetal's variant angina	MESH:C536421 ! Prinzmetal's variant angina
+GARD:0007517 ! Radiation induced angiosarcoma of the breast	MESH:C536264 ! Radiation induced angiosarcoma of the breast
+GARD:0007555 ! Renoprival hypertension	MESH:C537760 ! Renoprival hypertension
+GARD:0007577 ! Rheumatoid vasculitis	MESH:D056653 ! Rheumatoid Vasculitis
+GARD:0007597 ! Sacral plexopathy	MESH:C537224 ! Sacral plexopathy
+GARD:0007656 ! Skeletal dysplasias	MESH:D010009 ! Osteochondrodysplasias
+GARD:0007682 ! Spirochetes disease	MESH:D013145 ! Spirochaetales Infections
+GARD:0007684 ! Splenomegaly	MESH:D013163 ! Splenomegaly
+GARD:0007714 ! Sutton disease 2	MESH:C538145 ! Sutton disease 2
+GARD:0007741 ! Telencephalic leukoencephalopathy	MESH:C536954 ! Telencephalic leukoencephalopathy
+GARD:0007744 ! Malignant Teratocarcinosarcoma	MESH:C535701 ! Malignant Teratocarcinosarcoma
+GARD:0007776 ! Togaviridae disease	MESH:D014036 ! Togaviridae Infections
+GARD:0007791 ! Tracheobronchomalacia	MESH:D055089 ! Tracheobronchomalacia
+GARD:0007836 ! Urachal cancer	MESH:C536475 ! Urachal cancer
+GARD:0007875 ! Wallerian degeneration	MESH:D014855 ! Wallerian Degeneration
+GARD:0007877 ! Watermelon stomach	MESH:C538665 ! Watermelon stomach disease
+GARD:0007919 ! Zuska's disease	MESH:C536730 ! Zuska's Disease
+GARD:0008155 ! 4-hydroxyphenylacetic aciduria	MESH:C535315 ! 4-hydroxyphenylacetic aciduria
+GARD:0008165 ! Megalocytic interstitial nephritis	MESH:C536144 ! Megalocytic interstitial nephritis
+GARD:0008170 ! Severe infantile axonal neuropathy	MESH:C537593 ! Severe infantile axonal neuropathy
+GARD:0008196 ! Spirurida Infections	MESH:D017205 ! Spirurida Infections
+GARD:0008200 ! Secernentea Infections	MESH:D017190 ! Secernentea Infections
+GARD:0008203 ! Rhabditida Infections	MESH:D017196 ! Rhabditida Infections
+GARD:0008219 ! Lymphoma, large-cell, immunoblastic	MESH:D016400 ! Lymphoma, Large-Cell, Immunoblastic
+GARD:0008221 ! Lymphoma AIDSrelated	MESH:D016483 ! Lymphoma, AIDS-Related
+GARD:0008236 ! Drug induced dyskinesia	MESH:D004409 ! Dyskinesia, Drug-Induced
+GARD:0008242 ! 5-Nucleotidase syndrome	MESH:C535321 ! 5-Nucleotidase syndrome
+GARD:0008246 ! Auditory perceptual disorder	MESH:C538436 ! Auditory perceptual impairment
+GARD:0008246 ! Auditory perceptual disorder	MESH:D001308 ! Auditory Perceptual Disorders
+GARD:0008250 ! AIDS Dementia Complex	MESH:D015526 ! AIDS Dementia Complex
+GARD:0008270 ! Kocher-Debre-Semelaigne syndrome	MESH:C537211 ! Kocher-Debre-Semelaigne syndrome
+GARD:0008322 ! Diabetic mastopathy	MESH:C537524 ! Sclerosing lymphocytic lobulitis
+GARD:0008326 ! Yusho Disease	MESH:C536720 ! Yusho Disease
+GARD:0008372 ! Silicosiderosis	MESH:C537337 ! Silicosiderosis
+GARD:0008382 ! 2-Methylacetoacetyl CoA thiolase deficiency	MESH:C535307 ! 2-Methylacetoacetyl CoA thiolase deficiency
+GARD:0008400 ! Galactorrhoea-Hyperprolactinaemia	MESH:C535402 ! Galactorrhea-Hyperprolactinemia
+GARD:0008437 ! Glassy cell carcinoma of the cervix	MESH:C536823 ! Glassy cell carcinoma of the cervix
+GARD:0008452 ! Tiche-Jadassohn nevus	MESH:D018329 ! Nevus, Blue
+GARD:0008513 ! Retroperitoneal liposarcoma	MESH:C538370 ! Retroperitoneal liposarcoma
+GARD:0008534 ! Eosinophilic pustular folliculitis	MESH:C535953 ! Eosinophilic pustular folliculitis
+GARD:0008558 ! Burning mouth syndrome type 3	MESH:C537413 ! Burning mouth syndrome- Type 3
+GARD:0008561 ! Kousseff Nichols syndrome	MESH:C537504 ! Kousseff Nichols syndrome
+GARD:0008565 ! Radiation induced brachial plexopathy	MESH:C536265 ! Radiation induced brachial plexopathy
+GARD:0008580 ! Warfarin syndrome	MESH:C536683 ! Warfarin syndrome
+GARD:0008584 ! Calabro syndrome	MESH:C537960 ! Calabro syndrome
+GARD:0008589 ! Coffin syndrome 1	MESH:C536435 ! Coffin syndrome 1
+GARD:0008630 ! Chromosome 10q duplication	MESH:C537804 ! Chromosome 10q duplication syndrome
+GARD:0008635 ! 2-hydroxyethyl methacrylate sensitization	MESH:C535305 ! 2-hydroxyethyl methacrylate sensitization
+GARD:0008642 ! Granulosa cell tumor of the ovary	MESH:C537296 ! Granulosa cell tumor of the ovary
+GARD:0008684 ! Symmastia	MESH:C538147 ! Symmastia
+GARD:0008706 ! Stewart Treves syndrome	MESH:C537491 ! Stewart Treves syndrome
+GARD:0008708 ! Amyloid neuropathy	MESH:D017772 ! Amyloid Neuropathies
+GARD:0008729 ! Neurosyphilis	MESH:D009494 ! Neurosyphilis
+GARD:0009139 ! Autoimmune progesterone dermatitis	MESH:C535299 ! Autoimmune progesterone dermatitis
+GARD:0009213 ! Alsing syndrome	MESH:C536588 ! Alsing syndrome
+GARD:0009216 ! Baetz-Greenwalt syndrome	MESH:C537795 ! Baetz-Greenwalt syndrome
+GARD:0009219 ! Atlanto-Axial Fusion	MESH:C538196 ! Atlanto-Axial Fusion
+GARD:0009223 ! Arena syndrome	MESH:C537428 ! Arena syndrome
+GARD:0009249 ! Sinonasal undifferentiated carcinoma	MESH:C537344 ! Sinonasal undifferentiated carcinoma
+GARD:0009253 ! Absence of septum pellucidum	MESH:C535562 ! Absence of septum pellucidum
+GARD:0009260 ! Erythema nodosum, idiopathic	MESH:C535511 ! Erythema nodosum, idiopathic
+GARD:0009261 ! Boerhaave syndrome	MESH:C536571 ! Boerhaave syndrome
+GARD:0009262 ! Paraquat lung	MESH:C537171 ! Paraquat lung
+GARD:0009264 ! Superior vena cava syndrome	MESH:D013479 ! Superior Vena Cava Syndrome
+GARD:0009272 ! Cluttering	MESH:C538446 ! Speech disturbance - use of faulty phrasing and unrelated words
+GARD:0009290 ! Schizotaxia	MESH:C536634 ! Schizotaxia
+GARD:0009394 ! Acute cholinergic dysautonomia	MESH:C535672 ! Acute cholinergic dysautonomia
+GARD:0009401 ! Eagle syndrome	MESH:C538010 ! Eagle syndrome
+GARD:0009405 ! Prostatic stromal proliferation of uncertain malignant potential	MESH:C537245 ! Prostatic stromal proliferation of uncertain malignant potential
+GARD:0009419 ! Rokitansky-Aschoff sinuses of the gallbladder	MESH:C535869 ! Rokitansky-Aschoff sinuses of the gallbladder
+GARD:0009423 ! Familial capillaro-venous leptomeningeal angiomatosis	MESH:C536609 ! Familial capillaro-venous leptomeningeal angiomatosis
+GARD:0009439 ! Vulvar Vestibulitis Syndrome	MESH:C548479 ! Vulvar dysesthesia localized in the vestibule
+GARD:0009439 ! Vulvar Vestibulitis Syndrome	MESH:D054515 ! Vulvar Vestibulitis
+GARD:0009440 ! Psychosocial short stature	MESH:C535569 ! Abuse dwarfism syndrome
+GARD:0009449 ! WaterhousePFriderichsen syndrome	MESH:C536685 ! Fatal pneumococcal Waterhouse-Friderichsen syndrome
+GARD:0009459 ! Tracheal agenesis without tracheoesophageal fistula	MESH:C536976 ! Tracheal agenesis without tracheoesophageal fistula
+GARD:0009461 ! Autoimmune oophoritis	MESH:C538274 ! Autoimmune oophoritis
+GARD:0009477 ! Anaplastic small cell lymphoma	MESH:C538255 ! Anaplastic small cell lymphoma
+GARD:0009516 ! Febrile Ulceronecrotic Mucha-Habermann disease	MESH:C537077 ! Febrile Ulceronecrotic Mucha-Habermann disease
+GARD:0009531 ! Cytomegalovirus retinitis	MESH:D017726 ! Cytomegalovirus Retinitis
+GARD:0009547 ! Meningococcal infection	MESH:D008589 ! Meningococcal Infections
+GARD:0009579 ! Human spumaretrovirus infection	MESH:C536069 ! Human spumaretrovirus infection
+GARD:0009584 ! Vibrio vulnificus infection	MESH:C536348 ! Vibrio vulnificus infection
+GARD:0009596 ! Thrombocytopenia, acquired amegakaryocytic	MESH:C538172 ! Acquired amegakaryocytic thrombocytopenia
+GARD:0009597 ! Postural orthostatic tachycardia syndrome	MESH:D054972 ! Postural Orthostatic Tachycardia Syndrome
+GARD:0009618 ! Abrikosov's tumor	MESH:C535558 ! Abrikosov's tumor
+GARD:0009619 ! Actinic cheilitis	MESH:C535669 ! Actinic cheilitis
+GARD:0009636 ! Adenosarcoma of the uterus	MESH:C538232 ! Adenosarcoma of the uterus
+GARD:0009637 ! Spastic diplegia cerebral palsy	MESH:C537945 ! Cerebral palsy, spastic, diplegic
+GARD:0009648 ! Medial Medullary Syndrome	MESH:C536134 ! Medial Medullary Syndrome
+GARD:0009653 ! Anterior spinal artery stroke	MESH:C537776 ! Anterior spinal artery stroke
+GARD:0009655 ! Hyperacusis	MESH:D012001 ! Hyperacusis
+GARD:0009656 ! Pectus carinatum	MESH:D066166 ! Pectus Carinatum
+GARD:0009660 ! Amaurosis fugax	MESH:D020757 ! Amaurosis Fugax
+GARD:0009663 ! Buschke Lowenstein tumor	MESH:D062688 ! Buschke-Lowenstein Tumor
+GARD:0009664 ! Primary malignant melanoma of the cervix	MESH:C536417 ! Primary malignant melanoma of the cervix
+GARD:0009667 ! HHV-6 encephalitis	MESH:C538117 ! Human Herpesvirus 6 encephalitis
+GARD:0009671 ! Lipodermatosclerosis	MESH:C537026 ! Lipodermatosclerosis
+GARD:0009712 ! Mycobacterium Marinum	MESH:C535526 ! Infection with Mycobacterium marinum
+GARD:0009714 ! Littoral cell angioma of the spleen	MESH:C537031 ! Littoral cell angioma of the spleen
+GARD:0009716 ! Aspergillus niger infection	MESH:C535390 ! Aspergillus niger infection
+GARD:0009717 ! Left-sided gallbladder	MESH:C537001 ! Left-sided gallbladder
+GARD:0009718 ! Fibrocartilaginous embolism	MESH:C537927 ! Fibrocartilaginous embolism
+GARD:0009721 ! Herpes zoster ophthalmicus	MESH:D006563 ! Herpes Zoster Ophthalmicus
+GARD:0009722 ! Congenital pseudoarthrosis	MESH:C535762 ! Congenital pseudoarthrosis
+GARD:0009731 ! Bobble-head doll syndrome	MESH:C536241 ! Bobble-head doll syndrome
+GARD:0009739 ! Xanthogranulomatous sialadenitis	MESH:C536763 ! Xanthogranulomatous sialadenitis
+GARD:0009779 ! Aerobic actinomyces infection	MESH:C538054 ! Aerobic actinomyces infection
+GARD:0009805 ! Morgellons	MESH:D055535 ! Morgellons Disease
+GARD:0009824 ! Multifocal choroiditis	MESH:C537374 ! Multifocal choroiditis
+GARD:0009852 ! Nondystrophic myotonia	MESH:C536245 ! Nondystrophic myotonia
+GARD:0009891 ! Manz syndrome	MESH:C535709 ! Manz syndrome
+GARD:0009908 ! Cryofibrinogenemia	MESH:C536218 ! Cryofibrinogenemia
+GARD:0009972 ! Congenital absence of the sternocleidomastoid muscle	MESH:C535977 ! Congenital absence of the sternocleidomastoid muscle
+GARD:0010008 ! Colpocephaly	MESH:C535973 ! Colpocephaly
+GARD:0010026 ! Piriformis syndrome	MESH:C531783 ! Hip socket neuropathy
+GARD:0010030 ! Hemorrhagic shock and encephalopathy syndrome	MESH:C537254 ! Hemorrhagic shock and encephalopathy syndrome
+GARD:0010074 ! Abderhalden Kaufmann Lignac syndrome	MESH:C535335 ! Abderhalden-Kaufmann-Lignac syndrome
+GARD:0010085 ! Klebsiella infection	MESH:D007710 ! Klebsiella Infections
+GARD:0010125 ! Agnathia-microstomia-synotia	MESH:C538059 ! Agnathia-microstomia-synotia
+GARD:0010150 ! Idiopathic subglottic tracheal stenosis	MESH:C536283 ! Idiopathic subglottic tracheal stenosis
+GARD:0010155 ! Fetal macrosomia	MESH:D005320 ! Fetal Macrosomia
+GARD:0010164 ! Plagiocephaly	MESH:D059041 ! Plagiocephaly
+GARD:0010166 ! Cerebrospinal fluid leak	MESH:D065634 ! Cerebrospinal Fluid Leak
+GARD:0010176 ! Mastocytic enterocolitis	MESH:C536032 ! Mastocytic enterocolitis
+GARD:0010177 ! Mirizzi syndrome	MESH:D057792 ! Mirizzi Syndrome
+GARD:0010182 ! Hereditary antithrombin deficiency type 2	MESH:C537779 ! Antithrombin deficiency type 2
+GARD:0010186 ! Urachal adenocarcinoma	MESH:C536474 ! Urachal adenocarcinoma
+GARD:0010265 ! Pityriasis lichenoides	MESH:D017514 ! Pityriasis Lichenoides
+GARD:0010441 ! Lathyrism	MESH:D007842 ! Lathyrism
+GARD:0010685 ! Chilaiditi syndrome	MESH:D059269 ! Chilaiditi Syndrome
+GARD:0010690 ! Idiopathic juxtafoveal retinal telangiectasia	MESH:C548027 ! Idiopathic Juxtafoveal Retinal Telangiectasia
+GARD:0010702 ! Gestational diabetes insipidus	MESH:C548014 ! Gestational Diabetes Insipidus
+GARD:0010703 ! Dipsogenic diabetes insipidus	MESH:C548013 ! Dipsogenic Diabetes Insipidus
+GARD:0010712 ! Progressive transformation of germinal centers	MESH:C548085 ! Progressive Transformation of Germinal Centers
+GARD:0010715 ! Diploid-triploid mosaicism	MESH:C548012 ! Diploid-Triploid Mosaicism
+GARD:0010747 ! Lupus nephritis	MESH:D008181 ! Lupus Nephritis
+GARD:0010912 ! Fournier gangrene	MESH:D018934 ! Fournier Gangrene
+GARD:0010963 ! Pyogenic granuloma	MESH:D017789 ! Granuloma, Pyogenic
+GARD:0011896 ! PDGFRB-associated chronic eosinophilic leukemia	MESH:C580365 ! Pdgfrb-Associated Chronic Eosinophilic Leukemia
+GARD:0011937 ! Emphysema	MESH:D004646 ! Emphysema
+GARD:0011989 ! Pythiosis	MESH:D058968 ! Pythiosis
+GARD:0012022 ! Hamartoma	MESH:D006222 ! Hamartoma
+GARD:0012070 ! Chromosome 8 deletion	MESH:C537823 ! Chromosome 8 deletion
+GARD:0012133 ! Nodding syndrome	MESH:D064128 ! Nodding Syndrome
+GARD:0012141 ! May-Thurner syndrome	MESH:D062108 ! May-Thurner Syndrome
