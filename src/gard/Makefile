@@ -12,11 +12,11 @@ align-gard-to-mondo.tsv: $(O)
 map_g2m.pro: align-gard-to-mondo.tsv
 	cut -f1,3 $< | tbl2p -p m > $@
 
-suggest_new.txt: map_g2m.pro
+suggest_new.tsv: map_g2m.pro
 	blip-findall -i gard.obo -r mondo -i $< -consult compare.pro good_new_xref/2 -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-different.txt: map_g2m.pro
-	blip-findall -i gard.obo -r mondo -i $< -consult compare.pro diff_xref/2 -label > $@.tmp && mv $@.tmp $@
+different.tsv: map_g2m.pro
+	blip-findall -i gard.obo -r mondo -i $< -consult compare.pro diff_xref/3 -label -no_pred  > $@.tmp && sort -u $@.tmp > $@
 
-consistent.txt: map_g2m.pro
+consistent.tsv: map_g2m.pro
 	blip-findall -i gard.obo -r mondo -i $< -consult compare.pro consistent_xref/3 -label > $@.tmp && mv $@.tmp $@

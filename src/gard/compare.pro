@@ -12,11 +12,16 @@ good_new_xref(X,Y) :-
 
 
 
-diff_xref(X,Y) :-
+diff_xref(X,Y,Mappings) :-
         class(X),
         id_idspace(X,'GARD'),
+        setof(Z,m(X,Z),Mappings), 
         entity_real_xref(X,Y),
-        \+ consistent_xref(X,_,_).
+        \+ member(Y,Mappings),
+        \+ ((member(A,Mappings),
+             entity_xref(A,Y))).
+
+
 
         
 consistent_xref(X,Y,Z) :-

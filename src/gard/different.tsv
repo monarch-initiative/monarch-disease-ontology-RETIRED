@@ -1,0 +1,939 @@
+GARD:0000006 ! Acromesomelic dysplasia	OMIM:602875 ! acromesomelic dysplasia, Maroteaux type	DOID:0080049 ! acromesomelic dysplasia
+GARD:0000020 ! Barrett esophagus	Orphanet:1232	DOID:9206 ! Barrett's esophagus,MESH:D001471 ! Barrett Esophagus,OMIM:614266 ! Barrett Esophagus
+GARD:0000047 ! Crigler Najjar syndrome, type 1	Orphanet:205	OMIM:218800 ! Crigler-Najjar syndrome type 1
+GARD:0000073 ! Immunodeficiency with hyper IgM type 1	OMIM:605258 ! Hyper-IgM syndrome type 2	DOID:0060022 ! CD40 ligand deficiency,DOID:6620 ! X-linked hyper IgM syndrome,OMIM:308230 ! Hyper-IgM Immunodeficiency Syndrome, Type 1
+GARD:0000073 ! Immunodeficiency with hyper IgM type 1	OMIM:606843 ! Hyper-IgM syndrome type 3	DOID:0060022 ! CD40 ligand deficiency,DOID:6620 ! X-linked hyper IgM syndrome,OMIM:308230 ! Hyper-IgM Immunodeficiency Syndrome, Type 1
+GARD:0000073 ! Immunodeficiency with hyper IgM type 1	OMIM:608106 ! Hyper-IgM syndrome type 5	DOID:0060022 ! CD40 ligand deficiency,DOID:6620 ! X-linked hyper IgM syndrome,OMIM:308230 ! Hyper-IgM Immunodeficiency Syndrome, Type 1
+GARD:0000073 ! Immunodeficiency with hyper IgM type 1	OMIM:608184 ! Hyper-IgM syndrome type 4	DOID:0060022 ! CD40 ligand deficiency,DOID:6620 ! X-linked hyper IgM syndrome,OMIM:308230 ! Hyper-IgM Immunodeficiency Syndrome, Type 1
+GARD:0000093 ! Monilethrix	OMIM:252200	OMIM:158000 ! monilethrix
+GARD:0000122 ! Singleton Merten syndrome	OMIM:182250 ! Singleton-Merten Syndrome 1	MESH:C537343 ! Singleton Merten syndrome
+GARD:0000133 ! Aganglionosis, total intestinal	Orphanet:99740	DOID:10487 ! Hirschsprung's disease,OMIM:202550 ! Aganglionosis, total intestinal
+GARD:0000134 ! Spondyloepimetaphyseal dysplasia Strudwick type	Orphanet:93346 ! Spondyloepimetaphyseal dysplasia congenita, Strudwick type	OMIM:184250 ! spondyloepimetaphyseal dysplasia, Strudwick type
+GARD:0000148 ! Mental retardation, macrocephaly, short stature and craniofacial dysmorphism	OMIM:248000 ! Macrocephaly/Megalencephaly Syndrome, Autosomal Recessive	MESH:C537453 ! Mental retardation, macrocephaly, short stature and craniofacial dysmorphism
+GARD:0000160 ! Satoyoshi syndrome	Orphanet:3130	OMIM:600705 ! Satoyoshi syndrome
+GARD:0000162 ! Say syndrome	Orphanet:2013 ! Cleft palate - large ears - small head	OMIM:181180 ! Say syndrome
+GARD:0000170 ! Macrocephaly mesodermal hamartoma spectrum	OMIM:176920 ! Proteus syndrome	MESH:C537716 ! Macrocephaly mesodermal hamartoma spectrum
+GARD:0000180 ! MYH9 related thrombocytopenia	Orphanet:1019	MESH:C535507 ! MYH9-Related Disorders,OMIM:153640 ! Fechtner Syndrome,OMIM:153650 ! Epstein Syndrome,OMIM:155100 ! May-Hegglin Anomaly,OMIM:605249 ! Sebastian Syndrome
+GARD:0000180 ! MYH9 related thrombocytopenia	Orphanet:1984	MESH:C535507 ! MYH9-Related Disorders,OMIM:153640 ! Fechtner Syndrome,OMIM:153650 ! Epstein Syndrome,OMIM:155100 ! May-Hegglin Anomaly,OMIM:605249 ! Sebastian Syndrome
+GARD:0000180 ! MYH9 related thrombocytopenia	Orphanet:807	MESH:C535507 ! MYH9-Related Disorders,OMIM:153640 ! Fechtner Syndrome,OMIM:153650 ! Epstein Syndrome,OMIM:155100 ! May-Hegglin Anomaly,OMIM:605249 ! Sebastian Syndrome
+GARD:0000180 ! MYH9 related thrombocytopenia	Orphanet:850	MESH:C535507 ! MYH9-Related Disorders,OMIM:153640 ! Fechtner Syndrome,OMIM:153650 ! Epstein Syndrome,OMIM:155100 ! May-Hegglin Anomaly,OMIM:605249 ! Sebastian Syndrome
+GARD:0000185 ! Y chromosome infertility	OMIM:400003	MESH:C580551 ! Y Chromosome Infertility,Orphanet:1646 ! Partial chromosome Y deletion
+GARD:0000188 ! N acetyltransferase deficiency	OMIM:108345	MESH:C536107 ! N acetyltransferase deficiency
+GARD:0000194 ! Gamma aminobutyric acid transaminase deficiency	OMIM:137150	DOID:0060174 ! GABA aminotransferase deficiency,OMIM:613163 ! Gamma aminobutyric acid transaminase deficiency
+GARD:0000216 ! Rozin Hertz Goodman syndrome	Orphanet:1323	OMIM:602612 ! Rozin Hertz Goodman syndrome
+GARD:0000225 ! Radial ray agenesis	Orphanet:3025	Orphanet:93321 ! Radial hemimelia
+GARD:0000230 ! Microcephaly deafness syndrome	Orphanet:2533 ! Microcephaly - deafness - intellectual disability	OMIM:156620 ! Microcephaly deafness syndrome
+GARD:0000232 ! Medullary sponge kidney	OMIM:174000 ! Medullary cystic kidney disease 1	Orphanet:1309 ! Medullary sponge kidney
+GARD:0000238 ! Odontoma dysphagia syndrome	Orphanet:2724 ! Odontomatosis - aortae esophagus stenosis	OMIM:164330 ! Odontoma dysphagia syndrome
+GARD:0000249 ! Schaefer Stein Oshman syndrome	OMIM:122860 ! Craniodiaphyseal Dysplasia, Autosomal Dominant	MESH:C536627 ! Schaefer Stein Oshman syndrome
+GARD:0000259 ! Diabetes insipidus nephrogenic mental retardation and intracerebral calcification	Orphanet:3145 ! Nephrogenic diabetes insipidus - intracranial calcification	OMIM:221995 ! Diabetes Insipidus, Nephrogenic, with Mental Retardation and Intracerebral Calcification
+GARD:0000272 ! VACTERL hydrocephaly	OMIM:276950 ! VACTERL Association With Hydrocephalus	MESH:C536521 ! VACTERL hydrocephaly
+GARD:0000275 ! Serpentine fibula polycystic kidney syndrome	OMIM:600330	OMIM:102500 ! Serpentine fibula polycystic kidney syndrome
+GARD:0000275 ! Serpentine fibula polycystic kidney syndrome	Orphanet:2853	OMIM:102500 ! Serpentine fibula polycystic kidney syndrome
+GARD:0000276 ! Eunuchoidism familial hypogonadotropic	OMIM:227200	OMIM:614841 ! Eunuchoidism, familial hypogonadotropic
+GARD:0000276 ! Eunuchoidism familial hypogonadotropic	Orphanet:1958	OMIM:614841 ! Eunuchoidism, familial hypogonadotropic
+GARD:0000284 ! Irons Bhan syndrome	OMIM:601927 ! Lymphedema - atrial septal defects - facial changes	MESH:C535539 ! Irons Bhan syndrome
+GARD:0000290 ! Dennis Fairhurst Moore syndrome	OMIM:234100 ! Hallermann-Streiff syndrome	MESH:C538210 ! Dennis Fairhurst Moore syndrome
+GARD:0000295 ! Nevo syndrome	OMIM:601451	OMIM:225400 ! Ehlers-Danlos syndrome, kyphoscoliotic type
+GARD:0000295 ! Nevo syndrome	Orphanet:2691	OMIM:225400 ! Ehlers-Danlos syndrome, kyphoscoliotic type
+GARD:0000301 ! Generalized resistance to thyroid hormone	OMIM:190160	OMIM:188570 ! Thyroid Hormone Resistance, Generalized, Autosomal Dominant,Orphanet:3221 ! Generalized resistance to thyroid hormone
+GARD:0000304 ! Blau syndrome	Orphanet:3274	OMIM:186580 ! Blau syndrome
+GARD:0000306 ! Camptodactyly arthropathy coxa vara pericarditis syndrome	Orphanet:171881 ! Cap myopathy	OMIM:208250 ! Jacobs syndrome
+GARD:0000335 ! ABCD syndrome	Orphanet:918	OMIM:600501 ! ABCD syndrome
+GARD:0000346 ! Hoyeraal Hreidarsson syndrome	OMIM:300240	OMIM:305000 ! Hoyeraal-Hreidarsson syndrome
+GARD:0000361 ! Acalvaria	OMIM:206500 ! Anencephaly	Orphanet:945 ! Acalvaria
+GARD:0000363 ! Acatalasemia	OMIM:115500	OMIM:614097 ! acatalasia
+GARD:0000374 ! Zori Stalker Williams syndrome	OMIM:600399 ! Pectus Excavatum, Macrocephaly, Short Stature, Dysplastic Nails	MESH:C536728 ! Zori Stalker Williams syndrome
+GARD:0000375 ! Zlotogora syndrome	OMIM:225000 ! Rosselli-Gulienetti syndrome	OMIM:225060 ! Zlotogora-Ogur syndrome
+GARD:0000377 ! Adactylia unilateral	Orphanet:973 ! Congenital absence/hypoplasia of fingers excluding thumb, unilateral	OMIM:102650 ! Adactylia, Unilateral
+GARD:0000387 ! ZAP-70 deficiency	OMIM:176947	OMIM:269840 ! ZAP70 deficiency,Orphanet:911 ! Combined immunodeficiency due to ZAP70 deficiency
+GARD:0000402 ! Autosomal dominant optic atrophy, hearing loss, and peripheral neuropathy	Orphanet:1215 ! Autosomal dominant optic atrophy plus syndrome	OMIM:165199 ! Optic Atrophy, Hearing Loss, and Peripheral Neuropathy, Autosomal Dominant
+GARD:0000429 ! Amniotic band syndrome	OMIM:217100 ! Terminal Transverse Defects of Arm	Orphanet:1034 ! Amniotic bands
+GARD:0000430 ! Tachycardia hypertension microphthalmia and hyperglycinuria	OMIM:272550	MESH:C566880 ! Tachycardia, Hypertension, Microphthalmia, And Hyperglycinuria
+GARD:0000430 ! Tachycardia hypertension microphthalmia and hyperglycinuria	Orphanet:3284	MESH:C566880 ! Tachycardia, Hypertension, Microphthalmia, And Hyperglycinuria
+GARD:0000432 ! Arbovirosis	Orphanet:3413	Orphanet:344 ! Arbovirus fever
+GARD:0000434 ! Hydrocephalus due to congenital stenosis of aqueduct of sylvius	OMIM:307000 ! Hydrocephalus, X-Linked, with Congenital Idiopathic Intestinal Pseudoobstruction	OMIM:236635 ! Hydrocephalus Due to Congenital Stenosis of Aqueduct of Sylvius
+GARD:0000434 ! Hydrocephalus due to congenital stenosis of aqueduct of sylvius	Orphanet:2182	OMIM:236635 ! Hydrocephalus Due to Congenital Stenosis of Aqueduct of Sylvius
+GARD:0000459 ! Achondrogenesis type 1A	Orphanet:932	OMIM:200600 ! achondrogenesis type IA
+GARD:0000475 ! Acquired hypoprothrombinemia	OMIM:176930	Orphanet:26348 ! Acquired prothrombin deficiency
+GARD:0000486 ! Acrocephalopolydactyly	OMIM:101120 ! Sakati-Nyhan syndrome	OMIM:200995 ! Acrocephalopolydactyly
+GARD:0000494 ! Acrofacial dysostosis Catania type	Orphanet:85	OMIM:101805 ! Acrofacial dysostosis, Catania type
+GARD:0000496 ! Acrofacial dysostosis Rodriguez type	Orphanet:1788 ! Acrofacial dysostosis, RodrC-guez type	OMIM:201170 ! Acrofacial dysostosis Rodriguez type
+GARD:0000508 ! Acroosteolysis dominant type	OMIM:102400 ! Acro-Osteolysis	MESH:C535663 ! Acroosteolysis dominant type
+GARD:0000508 ! Acroosteolysis dominant type	Orphanet:955	MESH:C535663 ! Acroosteolysis dominant type
+GARD:0000546 ! Adenine phosphoribosyltransferase deficiency	OMIM:102600	OMIM:614723 ! Adenine phosphoribosyltransferase deficiency
+GARD:0000562 ! Adrenomyodystrophy	Orphanet:2457 ! Mandibuloacral dysplasia	OMIM:300270 ! Adrenomyodystrophy
+GARD:0000564 ! Spinal muscular atrophy type 4	OMIM:158590 ! Neuropathy, Distal Hereditary Motor, Type IIA	OMIM:271150 ! adult spinal muscular atrophy,Orphanet:83450 ! Regional odontodysplasia
+GARD:0000589 ! Albinism deafness syndrome	Orphanet:46	OMIM:300700 ! Albinism-deafness syndrome
+GARD:0000604 ! Alopecia congenita keratosis palmoplantaris	OMIM:104100 ! Autosomal dominant palmoplantar keratoderma and congenital alopecia	MESH:C537050 ! Alopecia congenita keratosis palmoplantaris
+GARD:0000605 ! Alopecia contractures dwarfism mental retardation	Orphanet:1005 ! Alopecia-contractures-dwarfism-intellectual disability syndrome	OMIM:203550 ! Alopecia contractures dwarfism mental retardation
+GARD:0000606 ! Alopecia epilepsy oligophrenia syndrome of Moynahan	Orphanet:2574	OMIM:203600 ! Alopecia epilepsy oligophrenia syndrome of Moynahan
+GARD:0000624 ! Autosomal dominant Alport syndrome	Orphanet:63	OMIM:104200 ! Autosomal dominant Alport syndrome
+GARD:0000625 ! Autosomal recessive Alport syndrome	Orphanet:63	OMIM:203780 ! Autosomal recessive Alport syndrome
+GARD:0000669 ! Anencephaly and spina bifida X-linked	OMIM:301410 ! Neural tube defects X-linked	MESH:C536359 ! Anencephaly and spina bifida X-linked
+GARD:0000707 ! Anorectal atresia	OMIM:207500 ! Anus, Imperforate	MESH:C537771 ! Anorectal atresia
+GARD:0000762 ! APUDoma	Orphanet:877	MESH:D001079 ! Apudoma
+GARD:0000777 ! Arthrogryposis multiplex congenita	OMIM:108110	DOID:0050646 ! distal arthrogryposis,Orphanet:109007 ! Arthrogryposis syndrome
+GARD:0000787 ! Arthrogryposis multiplex congenita distal type 1	Orphanet:1146 ! Digitotalar dysmorphism	OMIM:108120 ! Arthrogryposis multiplex congenita, distal type 1
+GARD:0000788 ! Arthrogryposis multiplex congenita, distal type 2	OMIM:601680 ! Arthrogryposis, Distal, Type 2B	MESH:C535379 ! Arthrogryposis multiplex congenita, distal type 2
+GARD:0000815 ! Baraitser Brett Piesowicz syndrome	OMIM:251290 ! pseudo-TORCH syndrome	MESH:C537905 ! Baraitser Brett Piesowicz syndrome
+GARD:0000817 ! Baraitser Rodeck Garner syndrome	OMIM:218650 ! Craniosynostosis Mental Retardation Clefting Syndrome	MESH:C537906 ! Baraitser Rodeck Garner syndrome
+GARD:0000820 ! Bardet-Biedl syndrome 1	Orphanet:110	OMIM:209900 ! Bardet-Biedl Syndrome
+GARD:0000821 ! Bardet-Biedl syndrome 2	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615981 ! Bardet-Biedl syndrome 2
+GARD:0000821 ! Bardet-Biedl syndrome 2	Orphanet:110	OMIM:615981 ! Bardet-Biedl syndrome 2
+GARD:0000822 ! Bardet-Biedl syndrome 3	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:600151 ! Bardet-Biedl syndrome 3
+GARD:0000823 ! Bardet-Biedl syndrome 4	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615982 ! Bardet-Biedl syndrome 4
+GARD:0000838 ! Bazex-Dupre-Christol syndrome	Orphanet:166113 ! Bazex syndrome	MESH:C537663 ! Bazex-Dupre-Christol syndrome,OMIM:301845 ! Bazex-DuprC)-Christol syndrome
+GARD:0000839 ! Bazopoulou-Kyrkanidou syndrome	Orphanet:1800	MESH:C537664 ! Bazopoulou Kyrkanidou syndrome
+GARD:0000842 ! Beardwell syndrome	OMIM:106400 ! diffuse idiopathic skeletal hyperostosis	MESH:C537665 ! Beardwell syndrome
+GARD:0000842 ! Beardwell syndrome	Orphanet:2206	MESH:C537665 ! Beardwell syndrome
+GARD:0000844 ! Myotonia congenita autosomal recessive	Orphanet:614	OMIM:255700 ! Myotonia Congenita, Autosomal Recessive
+GARD:0000848 ! Behcet's disease	Orphanet:117 ! BehC'et disease	OMIM:109650 ! Behcet's disease
+GARD:0000856 ! Convulsions, benign familial infantile, 1	Orphanet:306	OMIM:601764 ! Seizures, Benign Familial Infantile, 1
+GARD:0000863 ! Berger disease	Orphanet:34145	DOID:2986 ! IgA glomerulonephritis,OMIM:161950 ! Iga Nephropathy, Susceptibility To, 1
+GARD:0000870 ! Beta-sarcoglycanopathy	OMIM:600900	OMIM:604286 ! Autosomal recessive limb-girdle muscular dystrophy type 2E
+GARD:0000871 ! Beta-thalassemia	OMIM:604131 ! alpha-Thalassemia	DOID:12241 ! beta thalassemia,OMIM:613985 ! beta-Thalassemia
+GARD:0000872 ! Beta ketothiolase deficiency	Orphanet:134 ! Ketoacidosis due to beta-ketothiolase deficiency	OMIM:203750 ! beta-ketothiolase deficiency
+GARD:0000884 ! Bifid nose	OMIM:109740 ! Bifid Nose, Autosomal Dominant	DC:0000479 ! Bifid Nose,OMIM:210400 ! Bifid nose
+GARD:0000884 ! Bifid nose	OMIM:608980 ! BNAR syndrome	DC:0000479 ! Bifid Nose,OMIM:210400 ! Bifid nose
+GARD:0000893 ! Fallot complex with severe mental and growth retardation	Orphanet:3304 ! Fallot complex - intellectual disability - growth delay	OMIM:601127 ! Fallot complex with severe mental and growth retardation
+GARD:0000894 ! Biotinidase deficiency	Orphanet:148	OMIM:253260 ! biotinidase deficiency
+GARD:0000901 ! Blepharofacioskeletal syndrome	Orphanet:1251	OMIM:164220 ! Schilbach-Rott syndrome
+GARD:0000905 ! Blepharophimosis with ptosis, syndactyly, and short stature	Orphanet:2057 ! Blepharophimosis - ptosis - esotropia - syndactyly - short stature	OMIM:210745 ! Blepharophimosis with ptosis, syndactyly, and short stature
+GARD:0000917 ! Blue cone monochromatism	Orphanet:16	MESH:C536238 ! Blue cone monochromatism,OMIM:303700 ! Blue Cone Monochromacy
+GARD:0000932 ! Book syndrome	Orphanet:1262 ! BC6C6k syndrome	OMIM:112300 ! Book Syndrome
+GARD:0000951 ! Bowen syndrome	Orphanet:1271	OMIM:211200 ! Bowen syndrome
+GARD:0000955 ! Brachioskeletogenital syndrome	Orphanet:2103 ! Guillain-BarrC) syndrome	OMIM:211380 ! Brachioskeletogenital syndrome
+GARD:0000982 ! Brachydactyly type A5	OMIM:112900	Orphanet:93389 ! Brachydactyly type A5
+GARD:0001019 ! Brittle cornea syndrome	OMIM:614170 ! Brittle Cornea Syndrome 2	DOID:14775 ! type VI Ehlers-Danlos syndrome
+GARD:0001038 ! Bullous dystrophy hereditary macular type	Orphanet:1867 ! Bullous dystrophy, macular type	OMIM:302000 ! Bullous Dystrophy, Hereditary Macular Type
+GARD:0001069 ! Camptodactyly taurinuria	OMIM:114200 ! Familial streblodactyly	Orphanet:1325 ! Camptodactyly - taurinuria
+GARD:0001077 ! Candidiasis familial chronic mucocutaneous, autosomal recessive	Orphanet:1334	MESH:C537979 ! Candidiasis familial chronic mucocutaneous, autosomal recessive,OMIM:212050 ! Candidiasis, Familial, 2,OMIM:613953 ! Candidiasis, Familial, 5,OMIM:615527 ! Candidiasis, Familial, 8
+GARD:0001120 ! Carnitine palmitoyl transferase 1 deficiency	OMIM:600528	OMIM:255120 ! Carnitine palmitoyl transferase 1A deficiency
+GARD:0001121 ! Carnitine palmitoyltransferase 2 deficiency	OMIM:600650	DOID:0060235 ! carnitine palmitoyltransferase II deficiency
+GARD:0001140 ! Cataract anterior polar dominant	OMIM:115650 ! Cataract, posterior polar, 5	MESH:C538282 ! Cataract anterior polar dominant,OMIM:208250 ! Jacobs syndrome,Orphanet:171881 ! Cap myopathy
+GARD:0001142 ! Cataract and cardiomyopathy	Orphanet:1369 ! Congenital cataract - hypertrophic cardiomyopathy - mitochondrial myopathy	OMIM:212350 ! Cataract and cardiomyopathy
+GARD:0001144 ! Cataract congenital dominant non nuclear	OMIM:601286	MESH:C538284 ! Cataract congenital dominant non nuclear,OMIM:251200 ! Microcephaly, Primary Autosomal Recessive, 1
+GARD:0001155 ! Cataract microcornea syndrome	OMIM:116150	Orphanet:1377 ! Cataract-microcornea syndrome
+GARD:0001194 ! Cerebellar hypoplasia	Orphanet:1398 ! Isolated cerebellar hypoplasia/agenesis	OMIM:213000 ! Cerebellar Hypoplasia
+GARD:0001204 ! Cerebral cavernous malformation	Orphanet:164	DC:0000074 ! Cerebral Cavernous Malformations,DOID:483 ! cavernous hemangioma,OMIM:116860 ! Hyperkeratotic Cutaneous Capillary-Venous Malformations Associated With Cerebral Capillary Malformations,Orphanet:221061 ! Hereditary cerebral cavernous malformation
+GARD:0001220 ! Ceroid lipofuscinosis neuronal 7	Orphanet:216	OMIM:610951 ! CLN7 disease
+GARD:0001233 ! CHAND syndrome	Orphanet:1401	OMIM:214350 ! Curly hair-ankyloblepharon-nail dysplasia syndrome
+GARD:0001234 ! Chang Davidson Carlson syndrome	OMIM:209900 ! Bardet-Biedl Syndrome	Orphanet:2235 ! Hypogonadotropic hypogonadism - retinitis pigmentosa
+GARD:0001248 ! Charcot-Marie-Tooth disease type 2A	OMIM:118210 ! Autosomal dominant Charcot-Marie-Tooth disease type 2A1	MESH:C537988 ! Charcot-Marie-Tooth disease, Type 2A
+GARD:0001369 ! Cleft hand absent tibia	Orphanet:3329	OMIM:119100 ! Split-hand/foot malformation with long bone deficiency
+GARD:0001417 ! Cockayne syndrome type III	Orphanet:90324 ! Cockayne syndrome type 3	OMIM:216411 ! Cockayne Syndrome, Type 3
+GARD:0001420 ! Cockayne syndrome type II	Orphanet:1466	OMIM:133540 ! Cockayne Syndrome B,OMIM:214150 ! Cerebrooculofacioskeletal Syndrome 1,Orphanet:90322 ! Cockayne syndrome type 2
+GARD:0001440 ! Coloboma, cleft lip/palate and mental retardation syndrome	OMIM:120433 ! Coloboma, Ocular, With or Without Hearing Impairment, Cleft Lip/Palate, And/Or Mental Retardation	MESH:C535971 ! Coloboma, cleft lip/palate and mental retardation syndrome
+GARD:0001460 ! Conductive deafness with malformed external ear	Orphanet:3216	OMIM:221300 ! Deafness, Conductive, with Malformed External Ear
+GARD:0001462 ! Cone-rod dystrophy X-linked 2	Orphanet:1872	OMIM:300085 ! Cone-Rod Dystrophy, X-Linked, 2
+GARD:0001465 ! Congenital lipoid adrenal hyperplasia	Orphanet:90790 ! Congenital lipoid adrenal hyperplasia due to STAR deficency	DOID:0050811 ! congenital adrenal hyperplasia,OMIM:201710 ! Lipoid congenital adrenal hyperplasia
+GARD:0001470 ! Congenital alopecia X-linked	Orphanet:79364	OMIM:300042 ! Congenital alopecia X-linked
+GARD:0001500 ! Congenital nephrotic syndrome Finnish type	OMIM:256300 ! Nephrotic Syndrome, Type 1	MESH:C535761 ! Nephrosis, congenital
+GARD:0001500 ! Congenital nephrotic syndrome Finnish type	Orphanet:839	MESH:C535761 ! Nephrosis, congenital
+GARD:0001518 ! Benign familial neonatal-infantile seizures	Orphanet:306	OMIM:607745 ! Benign familial neonatal-infantile seizures
+GARD:0001535 ! Isolated corpus callosum agenesis	Orphanet:199639 ! Syndrome with corpus callosum agenesis /dysgenesis as a major feature	OMIM:217990 ! Agenesis of Corpus Callosum
+GARD:0001535 ! Isolated corpus callosum agenesis	Orphanet:200	OMIM:217990 ! Agenesis of Corpus Callosum
+GARD:0001554 ! Cote Katsantoni syndrome	Orphanet:1502	MESH:C536449 ! Cote Katsantoni syndrome
+GARD:0001565 ! Cranioacrofacial syndrome	Orphanet:1339	OMIM:122850 ! Cranioacrofacial Syndrome
+GARD:0001581 ! Craniometaphyseal dysplasia, autosomal dominant	Orphanet:1522	OMIM:123000 ! Craniometaphyseal Dysplasia, Autosomal Dominant
+GARD:0001582 ! Craniometaphyseal dysplasia, autosomal recessive type	Orphanet:1522	OMIM:218400 ! Craniometaphyseal dysplasia, autosomal recessive type
+GARD:0001592 ! Dandy-Walker malformation with sagittal craniosynostosis and hydrocephalus	OMIM:123155 ! Hydrocephalus, Autosomal Dominant	MESH:C536790 ! Craniosynostosis, sagittal, with Dandy-Walker malformation and hydrocephalus
+GARD:0001611 ! Crisponi syndrome	OMIM:601378	DOID:0060294 ! cold-induced sweating syndrome,OMIM:272430 ! Crisponi syndrome
+GARD:0001672 ! Davenport Donlan syndrome	Orphanet:3215	MESH:C535988 ! Davenport Donlan syndrome
+GARD:0001690 ! Deafness hyperuricemia neurologic ataxia	OMIM:311850	MESH:C535995 ! Deafness hyperuricemia neurologic ataxia
+GARD:0001695 ! Deafness nephritis anorectal malformation	OMIM:107100 ! Anorectal Anomalies	Orphanet:2408 ! Lowe-Kohn-Cohen syndrome
+GARD:0001705 ! Congenital deafness with vitiligo and achalasia	Orphanet:3239 ! Deafness - vitiligo - achalasia	OMIM:221350 ! Deafness, Congenital, with Vitiligo and Achalasia
+GARD:0001818 ! Desbuquois syndrome	Orphanet:1425	OMIM:251450 ! Desbuquois syndrome
+GARD:0001820 ! Desmoid disease, hereditary	Orphanet:873 ! Desmoid tumor	OMIM:135290 ! Desmoid disease, hereditary
+GARD:0001839 ! Transient neonatal diabetes mellitus	OMIM:610374 ! Diabetes Mellitus, Transient Neonatal, 2	DOID:0060334 ! transient neonatal diabetes mellitus,OMIM:601410 ! Diabetes Mellitus, Transient Neonatal, 1
+GARD:0001839 ! Transient neonatal diabetes mellitus	OMIM:610582 ! Diabetes Mellitus, Type II, Autosomal Dominant	DOID:0060334 ! transient neonatal diabetes mellitus,OMIM:601410 ! Diabetes Mellitus, Transient Neonatal, 1
+GARD:0001839 ! Transient neonatal diabetes mellitus	Orphanet:224	DOID:0060334 ! transient neonatal diabetes mellitus,OMIM:601410 ! Diabetes Mellitus, Transient Neonatal, 1
+GARD:0001850 ! Immunodysregulation, polyendocrinopathy and enteropathy X-linked	Orphanet:210272 ! Mal de dC)barquement	OMIM:304790 ! Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome
+GARD:0001864 ! Digitorenocerebral syndrome	OMIM:222760	OMIM:220500 ! DOORS syndrome
+GARD:0001864 ! Digitorenocerebral syndrome	Orphanet:1674	OMIM:220500 ! DOORS syndrome
+GARD:0001868 ! Dincsoy-Salih-Patel syndrome	Orphanet:1678	OMIM:601016 ! Dincsoy Salih Patel syndrome
+GARD:0001884 ! Distal arthrogryposis Moore Weaver type	OMIM:601680 ! Arthrogryposis, Distal, Type 2B	MESH:C536814 ! Distal arthrogryposis Moore Weaver type
+GARD:0001904 ! Subcortical band heterotopia	Orphanet:2148 ! Lissencephaly type 1 due to doublecortin gene mutation	OMIM:607432 ! Lissencephaly 1,Orphanet:99796 ! Subcortical band heterotopia
+GARD:0001989 ! Dwarfism stiff joint ocular abnormalities	Orphanet:2569	OMIM:127200 ! Dwarfism stiff joint ocular abnormalities
+GARD:0001990 ! Syndesmodysplasic dwarfism	Orphanet:2654	OMIM:272450 ! Laplane Fontaine Lagardere syndrome
+GARD:0001991 ! Dwarfism tall vertebrae	Orphanet:2661	OMIM:126950 ! Dwarfism tall vertebrae
+GARD:0002001 ! Congenital dyserythropoietic anemia type 2	Orphanet:85	OMIM:224100 ! Congenital dyserythropoietic anemia type II
+GARD:0002002 ! Congenital dyserythropoietic anemia type 3	Orphanet:85	OMIM:105600 ! Congenital dyserythropoietic anemia type III
+GARD:0002003 ! Dysferlinopathy	OMIM:603009	Orphanet:207073 ! Qualitative or quantitative defects of dysferlin
+GARD:0002004 ! Dysfibrinogenemia	OMIM:202400 ! congenital afibrinogenemia	OMIM:616004 ! Hypodysfibrinogenemia, Congenital,Orphanet:98881 ! Familial dysfibrinogenemia
+GARD:0002005 ! Germinoma	Orphanet:182127 ! Extragonadal germinoma	DOID:3304 ! germinoma
+GARD:0002027 ! Dystonia 1	Orphanet:256	OMIM:128100 ! Dystonia musculorum deformans type 1
+GARD:0002034 ! Thickened earlobes with conductive deafness from incus-stapes abnormalities	OMIM:128980 ! Earlobes, Thickened, With Conductive Deafness From Incudostapedial Abnormalities	MESH:C536511 ! Schweitzer Kemink Graham syndrome
+GARD:0002038 ! Basan syndrome	Orphanet:1235	OMIM:129200 ! Basan syndrome
+GARD:0002039 ! Ectodermal dysplasia adrenal cyst	Orphanet:3391	OMIM:129550 ! Ectodermal dysplasia adrenal cyst
+GARD:0002040 ! Ectodermal dysplasia alopecia preaxial polydactyly	OMIM:129540 ! Ectodermal Dysplasia Syndrome with Distinctive Facial Appearance and Preaxial Polydactyly of Feet	MESH:C538016 ! Ectodermal dysplasia alopecia preaxial polydactyly
+GARD:0002060 ! Ectopia lentis, isolated autosomal recessive	OMIM:225100 ! Ectopia Lentis 2, Isolated, Autosomal Recessive	MESH:C567124 ! Ectopia Lentis, Isolated, Autosomal Recessive
+GARD:0002064 ! Ectrodactyly cleft palate syndrome	Orphanet:1889	OMIM:129830 ! Ectrodactyly-Cleft Palate Syndrome
+GARD:0002071 ! Ectropion inferior cleft lip and or palate	Orphanet:41751	OMIM:119580 ! Blepharo-cheilo-odontic syndrome
+GARD:0002076 ! EEC syndrome	OMIM:268650 ! Rudiger Syndrome	DC:0000689 ! Ectrodactyly, Ectodermal Dysplasia, and Cleft Lip/Palate Syndrome,MESH:C536189 ! Ectrodactyly-cleft lip/palate syndrome,OMIM:129900 ! Ectrodactyly, Ectodermal Dysplasia, And Cleft Lip/Palate Syndrome 1,Orphanet:322 ! Exstrophy-epispadias complex
+GARD:0002076 ! EEC syndrome	OMIM:604292 ! Ectrodactyly, Ectodermal Dysplasia, and Cleft Lip/Palate Syndrome 3	DC:0000689 ! Ectrodactyly, Ectodermal Dysplasia, and Cleft Lip/Palate Syndrome,MESH:C536189 ! Ectrodactyly-cleft lip/palate syndrome,OMIM:129900 ! Ectrodactyly, Ectodermal Dysplasia, And Cleft Lip/Palate Syndrome 1,Orphanet:322 ! Exstrophy-epispadias complex
+GARD:0002076 ! EEC syndrome	Orphanet:2389	DC:0000689 ! Ectrodactyly, Ectodermal Dysplasia, and Cleft Lip/Palate Syndrome,MESH:C536189 ! Ectrodactyly-cleft lip/palate syndrome,OMIM:129900 ! Ectrodactyly, Ectodermal Dysplasia, And Cleft Lip/Palate Syndrome 1,Orphanet:322 ! Exstrophy-epispadias complex
+GARD:0002077 ! Ectrodactyly and ectodermal dysplasia without cleft lip/palate	Orphanet:1888	OMIM:129810 ! Ectrodactyly and Ectodermal Dysplasia without Cleft Lip/Palate
+GARD:0002081 ! Ehlers-Danlos syndrome, hypermobility type	Orphanet:285	OMIM:130020 ! Ehlers-Danlos syndrome type 3
+GARD:0002162 ! Epilepsy juvenile absence	OMIM:607631 ! Epilepsy, Juvenile Absence, Susceptibility To, 1	DOID:0060172 ! juvenile absence epilepsy
+GARD:0002172 ! Epilepsy, nocturnal, frontal lobe type	OMIM:600513 ! Epilepsy, Nocturnal Frontal Lobe, Type 1	DC:0000154 ! Epilepsy, Nocturnal Frontal Lobe
+GARD:0002191 ! Erythroderma desquamativa of Leiner	OMIM:120900	MESH:C535512 ! Erythroderma desquamativa of Leiner
+GARD:0002221 ! FACES syndrome	Orphanet:1969	MESH:C536384 ! FACES syndrome
+GARD:0002249 ! Familial thoracic aortic aneurysm and dissection	Orphanet:229 ! Familial aortic dissection	Orphanet:285014 ! Rare disease with thoracic aortic aneurysm and aortic dissection,Orphanet:91387 ! Familial thoracic aortic aneurysm and aortic dissection
+GARD:0002277 ! Faye-Petersen-Ward-Carey syndrome	OMIM:166990 ! Osteochondrodysplasia, Rhizomelic, with Callosal Agenesis, Thrombocytopenia, Hydrocephalus, and Hypertension	MESH:C537076 ! Faye-Petersen Ward Carey syndrome
+GARD:0002321 ! Fibrochondrogenesis	OMIM:228520 ! Fibrochondrogenesis 1	MESH:C562524 ! Fibrochondrogenesis
+GARD:0002344 ! Fitzsimmons syndrome	OMIM:309560 ! Fitzsimmons-McLachlan-Gilbert syndrome	OMIM:270710 ! Paraplegia - brachydactyly - cone-shaped epiphysis
+GARD:0002356 ! Follicular lymphoma	OMIM:151430	DOID:0050873 ! follicular lymphoma,OMIM:613024 ! Lymphoma, Follicular
+GARD:0002374 ! Fraser like syndrome	Orphanet:2051	OMIM:229230 ! Fraser-Like Syndrome
+GARD:0002384 ! Frias syndrome	Orphanet:137862	OMIM:609640 ! Frias syndrome
+GARD:0002422 ! Galactokinase deficiency	Orphanet:352	OMIM:230200 ! galactokinase deficiency
+GARD:0002435 ! Garret Tripp syndrome	Orphanet:2914	MESH:C535646 ! Garret Tripp syndrome
+GARD:0002441 ! Gaucher disease type 1	Orphanet:355	OMIM:230800 ! Gaucher disease type 1
+GARD:0002446 ! Gay Feinmesser Cohen syndrome	OMIM:185400	MESH:C537676 ! Gay Feinmesser Cohen syndrome
+GARD:0002447 ! Green Sandford Davison syndrome	OMIM:601446	MESH:C538221 ! Green Sandford Davison syndrome
+GARD:0002449 ! Geleophysic dwarfism	OMIM:231050 ! Geleophysic Dysplasia 1	DC:0000524 ! Geleophysic Dysplasia
+GARD:0002451 ! Gemignani syndrome	Orphanet:2074	MESH:C537678 ! Gemignani syndrome
+GARD:0002456 ! Mycobacterium tuberculosis, susceptibility to infection by	OMIM:607948 ! Mycobacterium Tuberculosis, Susceptibility to	MESH:C536092 ! Mycobacterium tuberculosis, susceptibility to infection by
+GARD:0002470 ! Giant platelet syndrome	Orphanet:274	OMIM:231200 ! Bernard-Soulier Syndrome
+GARD:0002490 ! Glaucoma 3 primary infantile B	Orphanet:156005 ! Primary glaucoma	OMIM:600975 ! Glaucoma 3, primary infantile, B
+GARD:0002501 ! Glucose-6-phosphate translocase deficiency	OMIM:602671	MESH:C536831 ! Glucose-6-phosphate translocase deficiency
+GARD:0002510 ! Glyceraldehyde-3-phosphate dehydrogenase deficiency	OMIM:138400	MESH:C536837 ! Glyceraldehyde-3-phosphate dehydrogenase deficiency
+GARD:0002520 ! Glycogen storage disease type 4	Orphanet:37553	DOID:2750 ! glycogen storage disease IV
+GARD:0002532 ! Trichomegaly, cataract, and hereditary spherocytosis	Orphanet:3362 ! obsolete Trichomegaly - cataract - hereditary spherocytosis	MESH:C537282 ! Goldstein Hutt syndrome,OMIM:190330 ! Trichomegaly
+GARD:0002533 ! Gollop Coates syndrome	OMIM:143095 ! Spondyloepiphyseal dysplasia, Omani type	MESH:C537283 ! Gollop Coates syndrome
+GARD:0002549 ! Goodman syndrome	Orphanet:1321	OMIM:201020 ! Goodman syndrome
+GARD:0002555 ! Gorlin Bushkell Jensen syndrome	OMIM:151600 ! Leukonychia totalis	MESH:C537289 ! Gorlin Bushkell Jensen syndrome
+GARD:0002557 ! Graham Boyle Troxell syndrome	Orphanet:2111	MESH:C537292 ! Graham Boyle Troxell syndrome
+GARD:0002582 ! Hair defect with photosensitivity and mental retardation	Orphanet:1408 ! Hair defect - photosensitivity - intellectual disability	OMIM:234030 ! Hair defect with photosensitivity and mental retardation
+GARD:0002597 ! Tendons, extensor, of fingers, anomalous insertion of	Orphanet:3294 ! Extensor tendons of finger anomalies	OMIM:187390 ! Tendons, Extensor, of Fingers, Anomalous Insertion of
+GARD:0002610 ! Progressive familial heart block type 1B	Orphanet:871	OMIM:604559 ! Progressive Familial Heart Block, Type Ib
+GARD:0002622 ! Fibular aplasia, tibial campomelia, and oligosyndactyly syndrome	Orphanet:2492 ! Limb transversal defect - cardiac anomaly	OMIM:246570 ! Fibular Aplasia, Tibial Campomelia, and Oligosyndactyly Syndrome
+GARD:0002627 ! Hemangiopericytoma	OMIM:234820 ! Hemangiopericytoma, Malignant	DOID:264 ! hemangiopericytoma
+GARD:0002627 ! Hemangiopericytoma	Orphanet:2126 ! Solitary fibrous tumor	DOID:264 ! hemangiopericytoma
+GARD:0002638 ! Familial hemiplegic migraine type 1	Orphanet:569 ! Familial or sporadic hemiplegic migraine	OMIM:141500 ! Hemiplegic migraine, familial type 1
+GARD:0002699 ! Hirschsprung disease type 3	OMIM:600156 ! Hirschsprung Disease, Susceptibility To, 5	OMIM:613711 ! Hirschsprung disease type 3
+GARD:0002709 ! Hittner Hirsch Kreh syndrome	OMIM:214800 ! CHARGE syndrome	MESH:C538323 ! Hittner Hirsch Kreh syndrome
+GARD:0002721 ! Holocarboxylase synthetase deficiency	Orphanet:148	OMIM:253270 ! holocarboxylase synthetase deficiency
+GARD:0002751 ! Hunter Carpenter Macdonald syndrome	OMIM:256600 ! Neurodegeneration With Brain Iron Accumulation 2A	MESH:C536071 ! Hunter Carpenter Macdonald syndrome
+GARD:0002796 ! Familial hypocalciuric hypercalcemia type 1	Orphanet:405	OMIM:145980 ! Familial hypocalciuric hypercalcemia type 1
+GARD:0002804 ! Hypereosinophilic syndrome	OMIM:131400 ! Eosinophilia, Familial	OMIM:607685 ! Idiopathic hypereosinophilic syndrome,Orphanet:168956 ! Hypereosinophilic syndrome
+GARD:0002819 ! Hyperinsulinism due to glutamodehydrogenase deficiency	Orphanet:79300	Orphanet:71212 ! Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency
+GARD:0002833 ! Hyperostosis corticalis generalisata	Orphanet:3416	OMIM:239100 ! Hyperostosis Corticalis Generalisata
+GARD:0002837 ! Familial isolated hyperparathyroidism	Orphanet:2207	OMIM:610071 ! Hyperparathyroidism 3,Orphanet:99879 ! Familial isolated hyperparathyroidism
+GARD:0002872 ! Familial HDL deficiency	Orphanet:425	OMIM:604091 ! Familial HDL deficiency
+GARD:0002876 ! Familial hypobetalipoproteinemia	Orphanet:426	DOID:1386 ! abetalipoproteinemia,DOID:1390 ! hypobetalipoproteinemia,MESH:C566267 ! Hypobetalipoproteinemia, Familial,MESH:D006995 ! Hypobetalipoproteinemias,OMIM:615558 ! Hypobetalipoproteinemia, Familial, 1
+GARD:0002882 ! Achondrogenesis	OMIM:200600 ! achondrogenesis type IA	DOID:0080043 ! achondrogenesis
+GARD:0002882 ! Achondrogenesis	OMIM:200610 ! Achondrogenesis type 2	DOID:0080043 ! achondrogenesis
+GARD:0002882 ! Achondrogenesis	OMIM:600972 ! achondrogenesis type IB	DOID:0080043 ! achondrogenesis
+GARD:0002905 ! Familial dilated cardiomyopathy	Orphanet:154 ! Familial isolated dilated cardiomyopathy	DOID:12930 ! dilated cardiomyopathy,MESH:D002311 ! Cardiomyopathy, Dilated,OMIM:600884 ! Familial dilated cardiomyopathy
+GARD:0002920 ! Hypopituitarism postaxial polydactyly	Orphanet:2245	OMIM:615849 ! Culler-Jones Syndrome
+GARD:0002944 ! IBIDS syndrome	Orphanet:453	DOID:2960 ! photosensitive trichothiodystrophy
+GARD:0002948 ! Ichthyosis congenita biliary atresia	Orphanet:2270	OMIM:242400 ! Ichthyosis Congenita With Biliary Atresia
+GARD:0002958 ! Ichthyosis mental retardation dwarfism renal impairment	Orphanet:2278 ! Ichthyosis - intellectual disability - dwarfism - renal impairment	OMIM:242530 ! Ichthyosis, mental retardation, dwarfism, and renal impairment
+GARD:0002965 ! Ichthyosis and male hypogonadism	Orphanet:431	OMIM:308200 ! Rud Syndrome
+GARD:0002998 ! Infantile myofibromatosis	OMIM:228550 ! Fibromatosis, Congenital Generalized	DC:0000567 ! Myofibromatosis, Infantile
+GARD:0003007 ! Mosaic variegated aneuploidy syndrome	Orphanet:1052.0	DC:0000564 ! Mosaic Variegated Aneuploidy Syndrome,OMIM:257300 ! Mosaic variegated aneuploidy syndrome
+GARD:0003010 ! Insulinoma	OMIM:606960 ! Insulinoma Tumor Suppressor Gene Locus	DOID:3892 ! insulinoma,MESH:D007340 ! Insulinoma
+GARD:0003011 ! Interferon gamma, receptor 1, deficiency	OMIM:107470	MESH:C535530 ! Interferon gamma, receptor 1, deficiency
+GARD:0003020 ! Intracranial arteriovenous malformation	Orphanet:2449	OMIM:108010 ! Cerebral arteriovenous malformation
+GARD:0003024 ! Intrinsic factor deficiency	Orphanet:332	OMIM:261000 ! Intrinsic Factor Deficiency
+GARD:0003026 ! Iridogoniodysgenesis, dominant type	OMIM:137600 ! Iridogoniodysgenesis, Type 2	MESH:C535536 ! Iridogoniodysgenesis, dominant type
+GARD:0003026 ! Iridogoniodysgenesis, dominant type	Orphanet:98634	MESH:C535536 ! Iridogoniodysgenesis, dominant type
+GARD:0003027 ! Iris dysplasia hypertelorism deafness	Orphanet:1831	MESH:C535537 ! Iris dysplasia hypertelorism deafness,OMIM:109120 ! Axenfeld-Rieger Anomaly with Partially Absent Eye Muscles, Distinctive Face, Hydrocephaly, and Skeletal Abnormalities
+GARD:0003047 ! Spondylometaphyseal dysplasia Kozlowski type	Orphanet:1965	OMIM:184252 ! Spondylometaphyseal dysplasia, Kozlowski type
+GARD:0003049 ! Jeune syndrome	OMIM:263520 ! Short-Rib Thoracic Dysplasia 6 With or Without Polydactyly	DOID:0050592 ! asphyxiating thoracic dystrophy,OMIM:208500 ! Jeune syndrome
+GARD:0003049 ! Jeune syndrome	OMIM:266920 ! Mainzer-Saldino Disease	DOID:0050592 ! asphyxiating thoracic dystrophy,OMIM:208500 ! Jeune syndrome
+GARD:0003049 ! Jeune syndrome	OMIM:614091 ! Short-Rib Thoracic Dysplasia 7 With or Without Polydactyly	DOID:0050592 ! asphyxiating thoracic dystrophy,OMIM:208500 ! Jeune syndrome
+GARD:0003049 ! Jeune syndrome	OMIM:615503 ! Short-Rib Thoracic Dysplasia 8 With or Without Polydactyly	DOID:0050592 ! asphyxiating thoracic dystrophy,OMIM:208500 ! Jeune syndrome
+GARD:0003049 ! Jeune syndrome	OMIM:615630 ! Short-Rib Thoracic Dysplasia 10 With or Without Polydactyly	DOID:0050592 ! asphyxiating thoracic dystrophy,OMIM:208500 ! Jeune syndrome
+GARD:0003049 ! Jeune syndrome	OMIM:615633 ! Short-Rib Thoracic Dysplasia 11 With or Without Polydactyly	DOID:0050592 ! asphyxiating thoracic dystrophy,OMIM:208500 ! Jeune syndrome
+GARD:0003068 ! Juvenile temporal arteritis	OMIM:187360 ! temporal arteritis	Orphanet:26137 ! Juvenile temporal arteritis
+GARD:0003071 ! Kallmann syndrome 1	Orphanet:478	OMIM:308700 ! Hypogonadotropic Hypogonadism 1 With or Without Anosmia
+GARD:0003080 ! Kasznica Carlson Coppedge syndrome	Orphanet:1894	MESH:C537011 ! Kasznica Carlson Coppedge syndrome
+GARD:0003087 ! Kennerknecht Vogel syndrome	OMIM:600908 ! Agonadism, 46,Xy, With Mental Retardation, Short Stature, Retarded Bone Age, and Multiple Extragenital Malformations	MESH:C537019 ! Kennerknecht Vogel syndrome
+GARD:0003087 ! Kennerknecht Vogel syndrome	Orphanet:991	MESH:C537019 ! Kennerknecht Vogel syndrome
+GARD:0003103 ! Keratosis palmoplantaris papulosa	Orphanet:79501 ! Punctate palmoplantar keratoderma type 1	OMIM:148600 ! Keratosis palmoplantaris papulosa
+GARD:0003109 ! Kerion celsi	OMIM:275240 ! Tinea Imbricata, Susceptibility to	Orphanet:499 ! Kerion celsi
+GARD:0003112 ! Anaplastic large cell lymphoma	OMIM:105590	DOID:0050744 ! anaplastic large cell lymphoma
+GARD:0003122 ! Klippel-Trenaunay syndrome	Orphanet:2346 ! Angioosteohypertrophic syndrome	OMIM:149000 ! Klippel-Trenaunay syndrome
+GARD:0003126 ! Lipodystrophy, familial partial, type 2	Orphanet:528	DOID:0050440 ! familial partial lipodystrophy
+GARD:0003129 ! Hereditary hyperekplexia	Orphanet:3198	DC:0000537 ! Hyperekplexia,OMIM:149400 ! Hyperexplexia hereditary,Orphanet:306776 ! Sporadic hyperekplexia
+GARD:0003130 ! Konigsmark Knox Hussels syndrome	OMIM:125250 ! Optic atrophy 1 and deafness	MESH:C537214 ! Konigsmark Knox Hussels syndrome
+GARD:0003130 ! Konigsmark Knox Hussels syndrome	Orphanet:3212	MESH:C537214 ! Konigsmark Knox Hussels syndrome
+GARD:0003134 ! Kotzot-Richter syndrome	OMIM:203285	MESH:C537025 ! Kotzot-Richter syndrome
+GARD:0003137 ! Kozlowski Celermajer Tink syndrome	Orphanet:1792	DOID:0050813 ! spondyloepiphyseal dysplasia with congenital joint dislocations
+GARD:0003149 ! Kurczynski Casperson syndrome	Orphanet:1219	OMIM:109050 ! Aurocephalosyndactyly
+GARD:0003151 ! Kuster Majewski Hammerstein syndrome	OMIM:225280 ! EEM syndrome	MESH:C538125 ! Kuster Majewski Hammerstein syndrome
+GARD:0003159 ! Lactate dehydrogenase deficiency	OMIM:150000	Orphanet:2364 ! Glycogen storage disease due to lactate dehydrogenase deficiency
+GARD:0003160 ! Lactate dehydrogenase A deficiency	OMIM:150000	OMIM:612933 ! Glycogen storage disease due to lactate dehydrogenase M-subunit deficiency
+GARD:0003163 ! Lactic acidosis congenital infantile	OMIM:245400 ! Mitochondrial Dna Depletion Syndrome 9 (Encephalomyopathic Type With Methylmalonic Aciduria)	MESH:C538134 ! Lactic acidosis congenital infantile
+GARD:0003181 ! Larsen-like syndrome	OMIM:245650 ! Lethal Larsen-like syndrome	OMIM:608545 ! Larsen-Like Syndrome
+GARD:0003196 ! Retinal cone dystrophy 1	Orphanet:1871	OMIM:180020 ! Retinal Cone Dystrophy 1
+GARD:0003201 ! Laurence Prosser Rocker syndrome	OMIM:235750 ! Hirschsprung Disease with Ulnar Polydactyly, Polysyndactyly of Big Toes, and Ventricular Septal Defect	MESH:C537882 ! Laurence Prosser Rocker syndrome
+GARD:0003242 ! Popliteal pterygium syndrome	Orphanet:683	DOID:0060055 ! popliteal pterygium syndrome,OMIM:119500 ! Autosomal dominant popliteal pterygium syndrome
+GARD:0003243 ! Lewy body dementia	Orphanet:1648	OMIM:127750 ! Lewy body dementia
+GARD:0003263 ! Dihydrolipoamide dehydrogenase deficiency	Orphanet:2394	OMIM:246900 ! Lactic Acidosis, Congenital Infantile, Due To LAD Deficiency
+GARD:0003285 ! Long QT syndrome 2	OMIM:152427	OMIM:613688 ! Long Qt Syndrome 2
+GARD:0003287 ! Loose anagen hair syndrome	Orphanet:168 ! Loose anagen syndrome	OMIM:600628 ! Loose Anagen Hair Syndrome
+GARD:0003314 ! Cerebellar ataxia and hypogonadotropic hypogonadism	Orphanet:1173 ! Cerebellar ataxia - hypogonadism	OMIM:212840 ! Cerebellar Ataxia and Hypogonadotropic Hypogonadism
+GARD:0003315 ! Lutz Richner Landolt syndrome	Orphanet:3438	OMIM:210550 ! Lutz Richner Landolt syndrome
+GARD:0003324 ! Hereditary lymphedema type II	Orphanet:90186	OMIM:153200 ! Lymphedema, Hereditary, II
+GARD:0003342 ! Macroglossia	Orphanet:2430 ! Congenital macroglossia	OMIM:153630 ! Macroglossia,Orphanet:156207 ! Macroglossia
+GARD:0003347 ! Macules hereditary congenital hypopigmented and hyperpigmented	OMIM:154000	OMIM:145250 ! Macules hereditary congenital hypopigmented and hyperpigmented
+GARD:0003347 ! Macules hereditary congenital hypopigmented and hyperpigmented	Orphanet:2435 ! Hypo- and hypermelanotic cutaneous macules - retarded growth - intellectual disability	OMIM:145250 ! Macules hereditary congenital hypopigmented and hyperpigmented
+GARD:0003348 ! Madokoro Ohdo Sonoda syndrome	OMIM:273390 ! Tetra amelia with ectodermal dysplasia and lacrimal duct abnormalities	MESH:C537838 ! Madokoro Ohdo Sonoda syndrome
+GARD:0003356 ! Male pseudohermaphroditism due to defective LH molecule	OMIM:152780	MESH:C535692 ! Male pseudohermaphroditism due to defective LH molecule
+GARD:0003364 ! Malignant hyperthermia susceptibility type 2	Orphanet:423	OMIM:154275 ! Malignant hyperthermia susceptibility type 2
+GARD:0003365 ! Malignant hyperthermia susceptibility type 3	Orphanet:423	OMIM:154276 ! Malignant hyperthermia susceptibility type 3
+GARD:0003366 ! Malignant hyperthermia susceptibility type 4	Orphanet:423	OMIM:600467 ! Malignant hyperthermia susceptibility type 4
+GARD:0003367 ! Malignant hyperthermia susceptibility type 5	Orphanet:423	OMIM:601887 ! Malignant hyperthermia susceptibility type 5
+GARD:0003368 ! Malignant hyperthermia susceptibility type 6	Orphanet:423	OMIM:601888 ! Malignant hyperthermia susceptibility type 6
+GARD:0003397 ! Maroteaux Fonfria syndrome	OMIM:101200 ! Vogt Cephalodactyly	MESH:C536023 ! Maroteaux Fonfria syndrome
+GARD:0003404 ! Martinez Monasterio Pinheiro syndrome	OMIM:119580 ! Blepharo-cheilo-odontic syndrome	MESH:C536027 ! Martinez Monasterio Pinheiro syndrome
+GARD:0003413 ! Maternal hyperphenylalaninemia	OMIM:261600 ! Phenylketonuria, Maternal	Orphanet:79253 ! Mild phenylketonuria
+GARD:0003413 ! Maternal hyperphenylalaninemia	Orphanet:2209	Orphanet:79253 ! Mild phenylketonuria
+GARD:0003418 ! Maturity-onset diabetes of the young,  type 1	Orphanet:552	OMIM:125850 ! Maturity-Onset Diabetes of the Young, Type 1
+GARD:0003545 ! Merlob Grunebaum Reisner syndrome	OMIM:174500 ! Triphalangeal Thumb	MESH:C537461 ! Merlob Grunebaum Reisner syndrome
+GARD:0003547 ! Diffuse mesangial sclerosis	OMIM:256370 ! Nephrotic Syndrome, Type 4	MESH:C537346 ! Mesangial sclerosis, diffuse
+GARD:0003562 ! Metaphyseal anadysplasia	OMIM:309645	Orphanet:1040 ! Metaphyseal anadysplasia,Orphanet:2457 ! Mandibuloacral dysplasia
+GARD:0003566 ! Metaphyseal dysostosis mental retardation conductive deafness	Orphanet:2502 ! Metaphyseal dysostosis - intellectual disability - conductive deafness	OMIM:250420 ! Metaphyseal Dysostosis, Mental Retardation, and Conductive Deafness
+GARD:0003568 ! Metaphyseal dysplasia maxillary hypoplasia brachydactyly	OMIM:156510 ! Metaphyseal Dysplasia With Maxillary Hypoplasia With or Without Brachydactyly	MESH:C563586 ! Metaphyseal Dysplasia with Maxillary Hypoplasia and Brachydactyly
+GARD:0003568 ! Metaphyseal dysplasia maxillary hypoplasia brachydactyly	Orphanet:2504 ! Metaphyseal dysplasia - maxillary hypoplasia - brachydacty	MESH:C563586 ! Metaphyseal Dysplasia with Maxillary Hypoplasia and Brachydactyly
+GARD:0003571 ! Metatropic dysplasia	Orphanet:93427	OMIM:156530 ! Metatropic dysplasia
+GARD:0003579 ! Methylmalonic acidemia with homocystinuria	OMIM:277400 ! methylmalonic aciduria and homocystinuria type cblC	MESH:C537359 ! Methylmalonic acidemia with homocystinuria
+GARD:0003579 ! Methylmalonic acidemia with homocystinuria	Orphanet:26	MESH:C537359 ! Methylmalonic acidemia with homocystinuria
+GARD:0003586 ! Methylmalonyl-Coenzyme A mutase deficiency	OMIM:251000 ! Methylmalonic Aciduria due to Methylmalonyl-CoA Mutase Deficiency	MESH:C537573 ! Methylmalonyl-Coenzyme A mutase deficiency
+GARD:0003605 ! Microcephaly autosomal dominant	Orphanet:199642 ! Isolated congenital microcephaly	OMIM:156580 ! autosomal dominant microcephaly
+GARD:0003631 ! Microcephaly pontocerebellar hypoplasia dyskinesia	OMIM:277470 ! pontocerebellar hypoplasia type 2A	MESH:C537543 ! Microcephaly pontocerebellar hypoplasia dyskinesia
+GARD:0003644 ! Microphthalmia associated with colobomatous cyst	OMIM:251505 ! Microphthalmia, Isolated, with Coloboma 4	MESH:C537463 ! Microphthalmia associated with colobomatous cyst
+GARD:0003650 ! Microphthalmia microtia fetal akinesia	Orphanet:2547	MESH:C536513 ! Thomas Jewett Raines syndrome
+GARD:0003688 ! Mitral valve prolapse, familial, X-linked	OMIM:157700 ! Mitral Valve Prolapse, Myxomatous 1	MESH:C537478 ! Mitral valve prolapse, familial, X-linked
+GARD:0003739 ! Chromosome 20p deletion	Orphanet:1611	MESH:C535370 ! Chromosome 20, deletion 20p
+GARD:0003776 ! Chromosome Xq28 deletion syndrome	OMIM:300475 ! Contiguous Abcd1/Dxs1375e Deletion Syndrome	MESH:C536755 ! X chromosome, monosomy Xq28
+GARD:0003784 ! Morillo-Cucci-Passarge syndrome	Orphanet:3043	MESH:C536983 ! Morillo-Cucci Passarge syndrome
+GARD:0003806 ! Mucolipidosis III alpha/beta	Orphanet:577 ! Mucolipidosis type 3	OMIM:252600 ! Mucolipidosis type 3 A
+GARD:0003830 ! Multiple endocrine neoplasia type 2	OMIM:213799	Orphanet:653 ! Multiple endocrine neoplasia type 2
+GARD:0003836 ! Multiple synostoses syndrome 1	Orphanet:3237	OMIM:186500 ! Multiple Synostoses Syndrome 1
+GARD:0003881 ! Mitochondrial myopathy with diabetes	Orphanet:2596 ! Myopathy and diabetes mellitus	OMIM:500002 ! Mitochondrial Myopathy with Diabetes
+GARD:0003885 ! Sideroblastic anemia and mitochondrial myopathy	Orphanet:2598	OMIM:600462 ! Myopathy, Lactic Acidosis, and Sideroblastic Anemia 1
+GARD:0003896 ! Inclusion body myositis	Orphanet:199237	DOID:3429 ! inclusion body myositis,OMIM:147421 ! Myositis, Inclusion Body
+GARD:0003900 ! Myxoma-spotty pigmentation-endocrine overactivity	Orphanet:1359	OMIM:160980 ! Carney Complex, Type 1
+GARD:0003908 ! Mitochondrial complex I deficiency	Orphanet:2609 ! Isolated NADH-CoQ reductase deficiency	OMIM:252010 ! Mitochondrial complex I deficiency
+GARD:0003917 ! Nakajo syndrome	OMIM:256040 ! JMP syndrome	MESH:C538334 ! Nakajo syndrome
+GARD:0003917 ! Nakajo syndrome	Orphanet:1953	MESH:C538334 ! Nakajo syndrome
+GARD:0003931 ! Negative rheumatoid factor polyarthritis	OMIM:109100 ! Autoimmune Disease	MESH:C538347 ! Negative rheumatoid factor polyarthritis
+GARD:0003945 ! Nephrotic syndrome ocular anomalies	OMIM:609049 ! Pierson syndrome	MESH:C536403 ! Nephrotic syndrome ocular anomalies
+GARD:0003947 ! Familial hyperinsulinism	OMIM:256450 ! Hyperinsulinemic Hypoglycemia, Familial, 1	DOID:2018 ! hyperinsulinism,OMIM:601820 ! Nesidioblastosis,Orphanet:657 ! Congenital isolated hyperinsulinism
+GARD:0003955 ! Hereditary neuralgic amyotrophy	Orphanet:178498	OMIM:162100 ! Brachial Plexus Neuritis
+GARD:0004009 ! Normokalemic periodic paralysis	Orphanet:680	OMIM:170600 ! Normokalemic Periodic Paralysis
+GARD:0004011 ! Norum disease	Orphanet:79294	OMIM:245900 ! Norum disease
+GARD:0004015 ! Novak syndrome	OMIM:215800 ! Stridor, Congenital	MESH:C537851 ! Novak syndrome,Orphanet:2005 ! Laryngo-tracheo-esophageal cleft - pulmonary hypoplasia
+GARD:0004018 ! Occult spinal dysraphism	Orphanet:2448	DOID:1089 ! tethered spinal cord syndrome,Orphanet:268861 ! Primary tethered chord syndrome
+GARD:0004021 ! Oculo-cerebral dysplasia	Orphanet:2705	MESH:C537670 ! Behrens Baumann Dust syndrome
+GARD:0004025 ! Oculo digital syndrome	Orphanet:2711	MESH:C535922 ! Chemke Oliver Mallek syndrome
+GARD:0004031 ! Oculoauriculofrontonasal syndrome	Orphanet:1791	OMIM:601452 ! Oculoauriculofrontonasal syndrome
+GARD:0004045 ! Oculodentoosseous dysplasia recessive	OMIM:257850 ! Oculodentodigital Dysplasia, Autosomal Recessive	MESH:C537733 ! Oculodentoosseous dysplasia recessive
+GARD:0004102 ! Optic atrophy polyneuropathy deafness	OMIM:258650 ! Optic Atrophy, Hearing Loss, and Peripheral Neuropathy, Autosomal Recessive	MESH:C537129 ! Optic atrophy polyneuropathy deafness,OMIM:311070 ! X-linked Charcot-Marie-Tooth disease type 5
+GARD:0004131 ! Osteoarthropathy of fingers familial	Orphanet:3314 ! Thiemann disease, familial form	OMIM:165700 ! Osteoarthropathy of fingers familial
+GARD:0004139 ! Osteogenesis imperfecta congenita microcephaly and cataracts	Orphanet:666	OMIM:259410 ! Osteogenesis imperfecta congenita, microcephaly, and cataracts
+GARD:0004148 ! Osteopathia striata cranial sclerosis	OMIM:166500	OMIM:300373 ! Osteopathia striata - cranial sclerosis
+GARD:0004195 ! Pagon Stephan syndrome	Orphanet:1853	MESH:C538100 ! Pagon Stephan syndrome
+GARD:0004199 ! Palmer Pagon syndrome	Orphanet:2184	MESH:C538107 ! Palmer Pagon syndrome
+GARD:0004204 ! Pancreatic adenoma	OMIM:147630 ! Islet Cell Adenomatosis	Orphanet:93292 ! Pancreatic adenoma
+GARD:0004213 ! Panostotic fibrous dysplasia	OMIM:174800 ! McCune Albright syndrome	MESH:C537164 ! Panostotic fibrous dysplasia
+GARD:0004218 ! Paraomphalocele	OMIM:164750 ! Omphalocele, Autosomal	MESH:C537170 ! Paraomphalocele
+GARD:0004223 ! PARC syndrome	Orphanet:85203	OMIM:600331 ! PARC syndrome
+GARD:0004229 ! Partial atrioventricular canal	OMIM:600309 ! Atrioventricular Septal Defect 3	Orphanet:1330 ! Partial atrioventricular canal
+GARD:0004230 ! Partial deletion of Y	OMIM:480000	Orphanet:1646 ! Partial chromosome Y deletion
+GARD:0004232 ! Partial lissencephaly	OMIM:607432 ! Lissencephaly 1	MESH:C536298 ! Partial lissencephaly
+GARD:0004234 ! Partington Anderson syndrome	Orphanet:2829	OMIM:260555 ! Partington Anderson syndrome
+GARD:0004238 ! Blepharonasofacial malformation syndrome	Orphanet:2830	OMIM:110050 ! Blepharonasofacial malformation syndrome
+GARD:0004253 ! Patel Bixler syndrome	OMIM:129500 ! Clouston syndrome	MESH:C536306 ! Patel Bixler syndrome
+GARD:0004272 ! Penis agenesis	OMIM:152790	Orphanet:49 ! Penile agenesis
+GARD:0004273 ! Penoscrotal transposition	OMIM:300068 ! Androgen-Insensitivity Syndrome	Orphanet:2842 ! Penoscrotal transposition
+GARD:0004319 ! Dihydropteridine reductase deficiency	Orphanet:79253 ! Mild phenylketonuria	OMIM:261630 ! Dihydropteridine reductase deficiency
+GARD:0004329 ! PGM1-CDG	OMIM:614921 ! PGM-CDG	Orphanet:711 ! Glycogen storage disease due to phosphoglucomutase deficiency
+GARD:0004337 ! Phosphoribosylpyrophosphate synthetase deficiency	OMIM:311850	MESH:C537897 ! Phosphoribosylpyrophosphate synthetase deficiency
+GARD:0004340 ! PIBIDS syndrome	Orphanet:670	MESH:C564733 ! Trichothiodystrophy with Sun Sensitivity,OMIM:601675 ! Ichthyosis, Congenital, with Trichothiodystrophy
+GARD:0004356 ! Pigment-dispersion syndrome	Orphanet:26823	OMIM:600510 ! Glaucoma-Related Pigment Dispersion Syndrome
+GARD:0004364 ! Pili torti onychodysplasia	OMIM:602032 ! Ectodermal Dysplasia 4, Hair/Nail Type	Orphanet:2890 ! Pili torti - onychodysplasia
+GARD:0004370 ! Microphthalmia mental deficiency	OMIM:600118 ! Warburg Sjo Fledelius syndrome	MESH:C537462 ! Microphthalmia and mental deficiency
+GARD:0004370 ! Microphthalmia mental deficiency	Orphanet:2895	MESH:C537462 ! Microphthalmia and mental deficiency
+GARD:0004371 ! Refsum disease with increased pipecolic acidemia	OMIM:600964	MESH:C535517 ! Refsum disease with increased pipecolic acidemia
+GARD:0004374 ! Pitt syndrome	OMIM:262350	OMIM:194190 ! Wolf-Hirschhorn syndrome
+GARD:0004374 ! Pitt syndrome	Orphanet:98788	OMIM:194190 ! Wolf-Hirschhorn syndrome
+GARD:0004381 ! Plasminogen activator inhibitor type 1 deficiency	Orphanet:465 ! Congenital plasminogen activator inhibitor type 1 deficiency	OMIM:613329 ! Plasminogen Activator Inhibitor-1 Deficiency
+GARD:0004391 ! Kindler syndrome	Orphanet:2907 ! Hereditary acrokeratotic poikiloderma, Weary type	OMIM:173650 ! Kindler Syndrome,Orphanet:2908 ! Kindler syndrome
+GARD:0004405 ! Polycystic kidney disease, type 2	OMIM:173910	OMIM:613095 ! Polycystic Kidney Disease 2
+GARD:0004414 ! Polydactyly postaxial	Orphanet:2918	DOID:1148 ! polydactyly,OMIM:174200 ! Polydactyly, Postaxial
+GARD:0004439 ! Porokeratosis plantaris palmaris et disseminata	Orphanet:79502	OMIM:175850 ! Porokeratosis plantaris palmaris et disseminata
+GARD:0004459 ! Potassium aggravated myotonia	Orphanet:99735 ! Myotonia permanens	OMIM:608390 ! Potassium aggravated myotonia,Orphanet:612 ! Potassium-aggravated myotonia
+GARD:0004476 ! Preeyasombat Varavithya syndrome	Orphanet:2860	MESH:C535269 ! Preeyasombat Varavithya syndrome
+GARD:0004484 ! Primary ciliary dyskinesia	OMIM:242650	DOID:9562 ! primary ciliary dyskinesia
+GARD:0004503 ! Chronic progressive external ophthalmoplegia	OMIM:157640 ! Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 1	DOID:12558 ! chronic progressive external ophthalmoplegia,Orphanet:663 ! Maternally-inherited progressive external ophthalmoplegia
+GARD:0004524 ! Protein S deficiency	OMIM:176880	DOID:2451 ! protein S deficiency
+GARD:0004528 ! Proud syndrome	Orphanet:2508 ! Micrencephaly - corpus callosum agenesis - abnormal genitalia	OMIM:300004 ! Proud Syndrome
+GARD:0004531 ! Proximal spinal muscular atrophy	Orphanet:211037 ! Autosomal dominant proximal spinal muscular atrophy	Orphanet:70 ! Proximal spinal muscular atrophy
+GARD:0004532 ! Renal tubulopathy, diabetes mellitus, and cerebellar ataxia due to duplication of mitochondrial DNA	OMIM:560000 ! Renal Tubulopathy, Diabetes Mellitus, and Cerebellar Ataxia	MESH:C564014 ! Renal Tubulopathy, Diabetes Mellitus, and Cerebellar Ataxia due to Duplication of Mitochondrial DNA
+GARD:0004532 ! Renal tubulopathy, diabetes mellitus, and cerebellar ataxia due to duplication of mitochondrial DNA	Orphanet:3390 ! Proximal tubulopathy - diabetes mellitus - cerebellar ataxia	MESH:C564014 ! Renal Tubulopathy, Diabetes Mellitus, and Cerebellar Ataxia due to Duplication of Mitochondrial DNA
+GARD:0004542 ! Pseudoachondroplastic dysplasia 2	OMIM:264150	MESH:C535820 ! Pseudoachondroplastic dysplasia 2
+GARD:0004573 ! Multiple pterygium syndrome X-linked	Orphanet:79447 ! X-linked lethal multiple pterygium syndrome	OMIM:312150 ! Multiple Pterygium Syndrome, X-Linked
+GARD:0004582 ! Congenital pulmonary alveolar proteinosis	Orphanet:747	Orphanet:264675 ! Congenital pulmonary alveolar proteinosis
+GARD:0004606 ! Purine nucleoside phosphorylase deficiency	OMIM:164050	OMIM:613179 ! purine nucleoside phosphorylase deficiency
+GARD:0004619 ! Pyropoikilocytosis hereditary	Orphanet:98867	OMIM:266140 ! Pyropoikilocytosis, Hereditary
+GARD:0004620 ! Pyruvate decarboxylase deficiency	Orphanet:100977	DOID:3649 ! pyruvate decarboxylase deficiency,OMIM:312170 ! Pyruvate Dehydrogenase E1 Alpha Deficiency
+GARD:0004630 ! Radio-ulnar synostosis type 1	OMIM:179300 ! radioulnar synostosis	MESH:C536268 ! Radio-ulnar synostosis type 1
+GARD:0004632 ! Radioulnar synostosis retinal pigment abnormalities	Orphanet:3271	MESH:C536270 ! Radioulnar synostosis retinal pigment abnormalities
+GARD:0004636 ! Ramos Arroyo Clark syndrome	OMIM:122430 ! Ramos-Arroyo syndrome	MESH:C535286 ! Ramos Arroyo Clark syndrome
+GARD:0004638 ! Rasmussen Johnsen Thomsen syndrome	OMIM:133705 ! External Auditory Canal, Bilateral Atresia Of, With Congenital Vertical Talus	MESH:C535290 ! Rasmussen Johnsen Thomsen syndrome
+GARD:0004641 ! Ichthyosis, mental retardation, dwarfism and renal impairment	Orphanet:2278 ! Ichthyosis - intellectual disability - dwarfism - renal impairment	OMIM:242530 ! Ichthyosis, mental retardation, dwarfism, and renal impairment
+GARD:0004658 ! Renal dysplasia diffuse cystic	OMIM:601331 ! Renal Dysplasia, Cystic, Susceptibility to	MESH:C537755 ! Renal dysplasia diffuse cystic
+GARD:0004666 ! Renal tubular acidosis with progressive nerve deafness	Orphanet:93611	OMIM:267300 ! Renal Tubular Acidosis, Distal, with Progressive Nerve Deafness
+GARD:0004668 ! Renal tubular acidosis, distal, autosomal dominant	Orphanet:18 ! Distal renal tubular acidosis	OMIM:179800 ! Autosomal dominant distal renal tubular acidosis
+GARD:0004684 ! Retinitis pigmentosa-deafness syndrome	Orphanet:886	OMIM:500004 ! Retinitis Pigmentosa-Deafness Syndrome
+GARD:0004705 ! Rhizomelic syndrome	Orphanet:3098 ! Rhizomelic syndrome, Urbach type	OMIM:268250 ! Rhizomelic syndrome
+GARD:0004709 ! Richieri Costa Da Silva syndrome	OMIM:275220 ! Tibial hemimelia	Orphanet:3101 ! Richieri Costa-da Silva syndrome
+GARD:0004721 ! Right ventricle hypoplasia	Orphanet:439 ! Right ventricular hypoplasia	OMIM:277200 ! Right ventricle hypoplasia
+GARD:0004723 ! Rigid spine syndrome	Orphanet:84132 ! Desmin-related myopathy with Mallory body-like inclusions	OMIM:602771 ! Rigid spine syndrome,Orphanet:97244 ! Rigid spine syndrome
+GARD:0004730 ! Robinow Sorauf syndrome	Orphanet:3106	OMIM:180750 ! Robinow Sorauf syndrome
+GARD:0004741 ! Roussy Levy syndrome	Orphanet:3115 ! Roussy-LC)vy syndrome	OMIM:180800 ! Roussy-Levy Hereditary Areflexic Dystasia
+GARD:0004745 ! Rubinstein Taybi like syndrome	OMIM:180850	MESH:C535877 ! Rubinstein Taybi like syndrome
+GARD:0004751 ! Sacral defect with anterior meningocele	Orphanet:1768 ! Familial caudal dysgenesis	OMIM:600145 ! Sacral defect and anterior sacral meningocele
+GARD:0004754 ! Salla disease	Orphanet:834 ! Free sialic acid storage disease	OMIM:604369 ! Salla disease
+GARD:0004791 ! Selig Benacerraf Greene syndrome	OMIM:191830 ! renal agenesis	Orphanet:1850 ! Renal dysplasia - megalocystis - sirenomelia
+GARD:0004801 ! Seow Najjar syndrome	OMIM:600907 ! Enamel Hypoplasia, Cataracts, and Aqueductal Stenosis	MESH:C537584 ! Seow Najjar syndrome
+GARD:0004805 ! Seres-Santamaria Arimany Muniz syndrome	OMIM:106260 ! Ankyloblepharon - ectodermal defects - cleft lip/palate	MESH:C537585 ! Seres-Santamaria Arimany Muniz syndrome
+GARD:0004822 ! Short chain acyl CoA dehydrogenase deficiency	Orphanet:35123	OMIM:201470 ! Short chain acyl-CoA dehydrogenase deficiency
+GARD:0004823 ! Short limb dwarf lethal Colavita Kozlowski type	OMIM:166260 ! Gnathodiaphyseal dysplasia	MESH:C537597 ! Short limb dwarf lethal Colavita Kozlowski type
+GARD:0004834 ! Short rib-polydactyly syndrome type 1	OMIM:263530	OMIM:613091 ! Asphyxiating Thoracic Dystrophy 3,Orphanet:93270 ! Short rib-polydactyly syndrome, Saldino-Noonan type
+GARD:0004835 ! Short rib-polydactyly syndrome  type 3	OMIM:263510	OMIM:613091 ! Asphyxiating Thoracic Dystrophy 3,Orphanet:93271 ! Short rib-polydactyly syndrome, Verma-Naumoff type
+GARD:0004845 ! Finger locking recurrent with intrauterine growth retardation and proportionate short stature	Orphanet:1937	OMIM:135950 ! Finger Locking, Recurrent, With Intrauterine Growth Retardation and Proportionate Short Stature
+GARD:0004865 ! Sialuria, French type	Orphanet:3166	OMIM:269921 ! Sialuria, French type
+GARD:0004886 ! Brachydactyly Mononen type	Orphanet:2565 ! Mononen-Karnes-Senac syndrome	OMIM:301940 ! Brachydactyly, Mononen Type
+GARD:0004889 ! Skeletal dysplasia, San Diego type	OMIM:270230	MESH:C536670 ! Skeletal dysplasia, San Diego type
+GARD:0004938 ! Spielmeyer-Vogt disease	Orphanet:79264	OMIM:204200 ! CLN3 disease
+GARD:0004949 ! Spinocerebellar ataxia autosomal recessive 1	Orphanet:64753	OMIM:606002 ! Spinocerebellar ataxia, autosomal recessive 1
+GARD:0004955 ! Spinocerebellar ataxia 7	Orphanet:208508 ! Autosomal dominant cerebellar ataxia type 2	OMIM:164500 ! Spinocerebellar ataxia type 7
+GARD:0004956 ! Spinocerebellar ataxia 8	OMIM:603680	OMIM:608768 ! Spinocerebellar ataxia type 8
+GARD:0004984 ! Schimke immunoosseous dysplasia	Orphanet:99731	OMIM:242900 ! Schimke immuno-osseous dysplasia
+GARD:0004985 ! Spondyloepiphyseal dysplasia tarda X-linked	Orphanet:93284 ! Spondyloepiphyseal dysplasia tarda	OMIM:313400 ! Spondyloepiphyseal Dysplasia Tarda, X-Linked,Orphanet:1916 ! Diethylstilbestrol syndrome
+GARD:0004987 ! Spondyloepiphyseal dysplasia congenita	Orphanet:163703 ! Febrile infection-related epilepsy syndrome	DOID:14789 ! spondyloepiphyseal dysplasia congenita,OMIM:183900 ! Spondyloepiphyseal dysplasia, congenita,Orphanet:253 ! Spondyloepiphyseal dysplasia and spondyloepimetaphyseal dysplasia
+GARD:0004999 ! Spranger Schinzel Myers syndrome	OMIM:256520 ! Neu Laxova syndrome	MESH:C535801 ! Spranger Schinzel Myers syndrome
+GARD:0005032 ! Phocomelia-ectrodactyly ear malformation deafness and sinus arrhythmia	Orphanet:2878 ! Phocomelia - ectrodactyly - deafness - sinus arrhythmia	OMIM:171480 ! Stoll Levy Francfort syndrome
+GARD:0005045 ! Stuve-Wiedemann syndrome	Orphanet:3206 ! StC<ve-Wiedemann syndrome	OMIM:601559 ! Stuve-Wiedemann syndrome
+GARD:0005052 ! Subvalvular aortic stenosis	OMIM:185500 ! Supravalvar aortic stenosis, eisenberg type	DOID:5805 ! subvalvular aortic stenosis
+GARD:0005053 ! Mitochondrial complex II deficiency	Orphanet:3208 ! Isolated succinate-CoQ reductase deficiency	OMIM:252011 ! Mitochondrial Complex II Deficiency
+GARD:0005054 ! Succinic acidemia	Orphanet:936	OMIM:600335 ! Succinic Acidemia
+GARD:0005062 ! Sulfite oxidase deficiency	Orphanet:99730	OMIM:272300 ! Isolated sulfite oxidase deficiency
+GARD:0005108 ! T-cell lymphoma 1A	OMIM:186960	MESH:C536782 ! T-cell lymphoma 1A
+GARD:0005109 ! Berk-Tabatznik syndrome	Orphanet:1559	MESH:C535432 ! Berk-Tabatznik syndrome
+GARD:0005124 ! Teebi Naguib Al Awadi syndrome	OMIM:276820 ! Phocomelia, Schinzel type	OMIM:227330 ! Autosomal recessive facio-digito-genital syndrome
+GARD:0005126 ! Trigonobrachycephaly, bulbous bifid nose, micrognathia, and abnormalities of the hands and feet	Orphanet:1519	OMIM:275595 ! Trigonobrachycephaly, Bulbous Bifid Nose, Micrognathia, and Abnormalities of the Hands and Feet
+GARD:0005126 ! Trigonobrachycephaly, bulbous bifid nose, micrognathia, and abnormalities of the hands and feet	Orphanet:3368 ! Trigonocephaly - bifid nose - acral anomalies	OMIM:275595 ! Trigonobrachycephaly, Bulbous Bifid Nose, Micrognathia, and Abnormalities of the Hands and Feet
+GARD:0005147 ! Tetraamelia with pulmonary hypoplasia	OMIM:273395 ! Tetraamelia Syndrome, Autosomal Recessive	MESH:C536499 ! Tetra-amelia with pulmonary hypoplasia
+GARD:0005148 ! Tetra-amelia syndrome	OMIM:273395 ! Tetraamelia Syndrome, Autosomal Recessive	Orphanet:294971 ! Tetra-amelia
+GARD:0005158 ! Thakker-Donnai syndrome	OMIM:227255 ! Facial Dysmorphism with Multiple Malformations	MESH:C536503 ! Thakker Donnai syndrome
+GARD:0005158 ! Thakker-Donnai syndrome	Orphanet:1780	MESH:C536503 ! Thakker Donnai syndrome
+GARD:0005165 ! Thanatophoric dysplasia Glasgow variant	Orphanet:93275	OMIM:273680 ! Thanatophoric dysplasia Glasgow variant
+GARD:0005177 ! Thompson Baraitser syndrome	OMIM:265000 ! Autosomal recessive multiple pterygium syndrome	Orphanet:2031 ! Hepatic fibrosis - renal cysts - intellectual disability
+GARD:0005186 ! Unna-Thost palmoplantar keratoderma	OMIM:600962 ! Palmoplantar Keratoderma, Nonepidermolytic	Orphanet:2338 ! Isolated punctate palmoplantar keratoderma
+GARD:0005186 ! Unna-Thost palmoplantar keratoderma	Orphanet:496	Orphanet:2338 ! Isolated punctate palmoplantar keratoderma
+GARD:0005195 ! Thrombomodulin anomalies, familial	OMIM:188040	Orphanet:3324 ! Familial thrombomodulin anomalies
+GARD:0005252 ! Tricho-dento-osseous syndrome 1	OMIM:190320 ! Tricho-dento-osseous syndrome	MESH:C536550 ! Tricho-dento-osseous syndrome 1
+GARD:0005262 ! Multiple familial trichoepithelioma 1	Orphanet:1071	OMIM:601606 ! Trichoepithelioma multiple familial
+GARD:0005262 ! Multiple familial trichoepithelioma 1	Orphanet:867	OMIM:601606 ! Trichoepithelioma multiple familial
+GARD:0005269 ! Trichostasis spinulosa	Orphanet:866	MESH:C536558 ! Trichostasis spinulosa
+GARD:0005271 ! Trichothiodystrophy nonphotosensitive	OMIM:601675 ! Ichthyosis, Congenital, with Trichothiodystrophy	DOID:0050528 ! nonphotosensitive trichothiodystrophy
+GARD:0005271 ! Trichothiodystrophy nonphotosensitive	Orphanet:33364	DOID:0050528 ! nonphotosensitive trichothiodystrophy
+GARD:0005381 ! Tuberous sclerosis, type 2	OMIM:191100 ! Tuberous Sclerosis 1	OMIM:613254 ! Tuberous Sclerosis 2
+GARD:0005392 ! Galactose epimerase deficiency	Orphanet:352	OMIM:230350 ! Galactose epimerase deficiency
+GARD:0005398 ! Ulna hypoplasia with mental retardation	OMIM:276821 ! Ulnar Hypoplasia with Mental Retardation	MESH:C536934 ! Ulna hypoplasia with mental retardation
+GARD:0005407 ! Uniparental disomy of chromosome 11	Orphanet:263034	MESH:C536468 ! Uniparental disomy of 11
+GARD:0005408 ! Chromosome 17q11.2 deletion syndrome	Orphanet:263044	Orphanet:97678 ! Maternal uniparental disomy of chromosome 13,Orphanet:97685 ! 17q11 microdeletion syndrome
+GARD:0005409 ! Uniparental disomy, paternal, chromosome 14	Orphanet:263049	OMIM:608149 ! Paternal uniparental disomy of chromosome 14
+GARD:0005413 ! Chromosome 21, uniparental disomy	Orphanet:1698 ! Mosaic trisomy 12	MESH:C536794 ! Chromosome 21, uniparental disomy of
+GARD:0005413 ! Chromosome 21, uniparental disomy	Orphanet:263064	MESH:C536794 ! Chromosome 21, uniparental disomy of
+GARD:0005433 ! Uropathy distal obstructive polydactyly	OMIM:249000 ! Meckel syndrome type 1	MESH:C536483 ! Uropathy distal obstructive polydactyly
+GARD:0005441 ! Usher syndrome, type 2B	OMIM:276905	MESH:C536491 ! Usher syndrome, type 2B
+GARD:0005442 ! Usher syndrome type 3	OMIM:606397	OMIM:276902 ! Usher Syndrome, Type 3A,Orphanet:231183 ! Usher syndrome type 3
+GARD:0005445 ! Mayer-Rokitansky-Kuster-Hauser syndrome	Orphanet:3109 ! Mayer-Rokitansky-KC<ster-Hauser syndrome	OMIM:277000 ! Urogenital adysplasia
+GARD:0005500 ! Methylmalonic aciduria, cblA type	Orphanet:79310 ! Vitamin B12-responsive methylmalonic acidemia type cblA	DOID:14749 ! methylmalonic acidemia,OMIM:251100 ! Methylmalonic aciduria cblA type
+GARD:0005508 ! VLCAD deficiency	OMIM:609575	OMIM:201475 ! Very long chain acyl-CoA dehydrogenase deficiency
+GARD:0005509 ! Vocal cord dysfunction familial	Orphanet:2808	MESH:C536354 ! Vocal cord dysfunction familial,MESH:D064706 ! Vocal Cord Dysfunction,OMIM:150260 ! Laryngeal Abductor Paralysis,OMIM:308850 ! Laryngeal abductor paralysis - intellectual disability
+GARD:0005523 ! Waardenburg syndrome type 3	Orphanet:896	OMIM:148820 ! Waardenburg Syndrome
+GARD:0005524 ! Waardenburg syndrome type 4	OMIM:613265 ! Waardenburg Syndrome, Type 4b	OMIM:277580 ! Waardenburg syndrome, type 4
+GARD:0005524 ! Waardenburg syndrome type 4	OMIM:613266 ! Waardenburg Syndrome, Type 4c	OMIM:277580 ! Waardenburg syndrome, type 4
+GARD:0005524 ! Waardenburg syndrome type 4	Orphanet:897	OMIM:277580 ! Waardenburg syndrome, type 4
+GARD:0005528 ! WAGR syndrome	Orphanet:77	DOID:14515 ! WAGR syndrome,OMIM:194072 ! WAGR Syndrome
+GARD:0005540 ! Watson syndrome	Orphanet:3444	OMIM:193520 ! Watson Syndrome
+GARD:0005544 ! Weaver like syndrome	Orphanet:3446	OMIM:277590 ! Weaver syndrome
+GARD:0005557 ! Westphal disease	OMIM:143100 ! Huntington's disease	MESH:C536694 ! Westphal disease
+GARD:0005578 ! Wilms tumor and radial bilateral aplasia	Orphanet:3458	OMIM:601583 ! Wilms tumor and radial bilateral aplasia
+GARD:0005610 ! Brooks Wisniewski Brown syndrome	Orphanet:3056 ! X-linked intellectual disability, Brooks type	OMIM:300612 ! Brooks-Wisniewski-Brown Syndrome
+GARD:0005616 ! X-linked mental retardation type Wittwer	OMIM:300421	MESH:C536760 ! X-linked mental retardation type Wittwer
+GARD:0005617 ! Allan-Herndon-Dudley syndrome	OMIM:309600	OMIM:300523 ! Allan-Herndon-Dudley syndrome
+GARD:0005621 ! Xanthinuria type 1	Orphanet:93601	OMIM:278300 ! Xanthinuria, Type I
+GARD:0005643 ! Dentatorubral-pallidoluysian atrophy	Orphanet:818	OMIM:125370 ! dentatorubral-pallidoluysian atrophy
+GARD:0005663 ! 3-methylglutaconic aciduria type III	Orphanet:67047	OMIM:258501 ! Costeff optic atrophy syndrome
+GARD:0005665 ! 3 Methylcrotonyl-CoA carboxylase 1 deficiency	Orphanet	DOID:0050710 ! 3-Methylcrotonyl-CoA carboxylase deficiency,OMIM:210200 ! 3-methylcrotonyl CoA carboxylase 1 deficiency
+GARD:0005666 ! Dandy-Walker like malformation with atrioventricular septal defect	Orphanet	OMIM:220210 ! 3C syndrome
+GARD:0005674 ! 47, XYY syndrome	Orphanet	OMIM:208250 ! Jacobs syndrome,Orphanet:8 ! 47,XYY syndrome
+GARD:0005680 ! 5-alpha reductase deficiency	Orphanet:93669	OMIM:264600 ! 46,XY disorder of sex development due to 5-alpha-reductase 2 deficiency
+GARD:0005697 ! Multifocal fibrosclerosis	Orphanet:63999 ! Mediastinal fibrosis	OMIM:228800 ! Retroperitoneal fibrosis
+GARD:0005725 ! Acromegaly	OMIM:102200 ! Pituitary Adenoma, Familial Isolated	DOID:2449 ! acromegaly,DOID:5716 ! hormone producing pituitary cancer
+GARD:0005785 ! Alport syndrome	Orphanet:88917	DOID:10983 ! Alport syndrome
+GARD:0005787 ! Alstrm syndrome	Orphanet:64 ! AlstrC6m syndrome	OMIM:203800 ! Alstrom syndrome
+GARD:0005802 ! Oto-palato-digital syndrome type 2	Orphanet:2319	OMIM:304120 ! Otopalatodigital syndrome type 2
+GARD:0005808 ! Anencephaly	Orphanet:1048 ! Isolated anencephaly/exencephaly	OMIM:206500 ! Anencephaly
+GARD:0005824 ! Antiphospholipid syndrome	Orphanet:80	OMIM:107320 ! antiphospholipid syndrome
+GARD:0005836 ! Aplastic anemia	Orphanet:88	DOID:12449 ! aplastic anemia,OMIM:609135 ! Anemia, Aplastic
+GARD:0005840 ! Arginase deficiency	Orphanet:99727	OMIM:207800 ! hyperargininemia
+GARD:0005845 ! Chiari malformation	OMIM:118420 ! Arnold-Chiari malformation type I	DC:0000492 ! Chiari Malformation
+GARD:0005865 ! Atrial septal defect ostium secundum	OMIM:108800 ! Atrial Septal Defect, Primum Type	DOID:13620 ! patent foramen ovale
+GARD:0005871 ! Autoimmune hepatitis	OMIM:109100 ! Autoimmune Disease	DOID:2048 ! autoimmune hepatitis
+GARD:0005877 ! B-cell lymphomas	OMIM:151430	DOID:707 ! B-cell lymphoma
+GARD:0005900 ! Becker muscular dystrophy	Orphanet:262 ! Duchenne and Becker muscular dystrophy	DOID:9883 ! Becker muscular dystrophy,OMIM:300376 ! Muscular Dystrophy, Becker Type
+GARD:0005907 ! Diffuse astrocytoma	Orphanet:94	DOID:6726 ! fibrillary astrocytoma
+GARD:0006035 ! Chediak-Higashi syndrome	Orphanet:167 ! ChC)diak-Higashi syndrome	OMIM:214500 ! Chediak-Higashi syndrome
+GARD:0006049 ! Rhizomelic chondrodysplasia punctata type 1	Orphanet:177	OMIM:215100 ! Rhizomelic chondrodysplasia punctata type 1
+GARD:0006108 ! Chronic recurrent multifocal osteomyelitis	Orphanet:2778	OMIM:259680 ! Chronic recurrent multifocal osteomyelitis
+GARD:0006114 ! Citrullinemia type I	OMIM:215700 ! Citrullinemia	MESH:C538444 ! CTNL1
+GARD:0006114 ! Citrullinemia type I	Orphanet:187	MESH:C538444 ! CTNL1
+GARD:0006114 ! Citrullinemia type I	Orphanet:247525	MESH:C538444 ! CTNL1
+GARD:0006176 ! Myotonia congenita autosomal dominant	OMIM:255700 ! Myotonia Congenita, Autosomal Recessive	OMIM:160800 ! Myotonia Congenita, Autosomal Dominant
+GARD:0006176 ! Myotonia congenita autosomal dominant	Orphanet:614	OMIM:160800 ! Myotonia Congenita, Autosomal Dominant
+GARD:0006209 ! Craniosynostosis	OMIM:218500	DOID:2340 ! craniosynostosis,OMIM:123100 ! Craniosynostosis 1
+GARD:0006209 ! Craniosynostosis	OMIM:601222	DOID:2340 ! craniosynostosis,OMIM:123100 ! Craniosynostosis 1
+GARD:0006224 ! Cushing's syndrome	OMIM:219080 ! Acth-Independent Macronodular Adrenal Hyperplasia	DOID:12252 ! Cushing's syndrome,OMIM:610489 ! Pigmented Nodular Adrenocortical Disease, Primary, 1
+GARD:0006226 ! Cutaneous T-cell lymphoma	Orphanet:171901 ! Primary cutaneous T-cell lymphoma	DOID:0060061 ! cutaneous T cell lymphoma
+GARD:0006234 ! Cystic hygroma	OMIM:257350 ! Nuchal bleb, familial	DOID:3081 ! cystic lymphangioma
+GARD:0006236 ! Cystinosis	OMIM:219750 ! Cystinosis, ocular nonnephropathic	DOID:1064 ! cystinosis
+GARD:0006236 ! Cystinosis	OMIM:219900 ! Cystinosis, Late-Onset Juvenile or Adolescent Nephropathic Type	DOID:1064 ! cystinosis
+GARD:0006254 ! Dengue fever	OMIM:604672	DOID:12205 ! dengue disease,DOID:12206 ! dengue hemorrhagic fever,OMIM:614371 ! dengue shock syndrome
+GARD:0006258 ! Dentinogenesis imperfecta 1	Orphanet:49042	Orphanet:166260 ! Dentinogenesis imperfecta type 2
+GARD:0006265 ! Desmoplastic small round cell tumor	OMIM:607102	Orphanet:83469 ! Desmoplastic small round cell tumor
+GARD:0006288 ! Duane syndrome	Orphanet:233	OMIM:126800 ! Duane Retraction Syndrome 1
+GARD:0006291 ! Duchenne muscular dystrophy	Orphanet:210272 ! Mal de dC)barquement	OMIM:310200 ! Duchenne muscular dystrophy
+GARD:0006291 ! Duchenne muscular dystrophy	Orphanet:262 ! Duchenne and Becker muscular dystrophy	OMIM:310200 ! Duchenne muscular dystrophy
+GARD:0006299 ! Dyskeratosis congenita autosomal dominant	Orphanet:1775	OMIM:127550 ! Dyskeratosis Congenita, Autosomal Dominant
+GARD:0006300 ! Dyskeratosis congenita autosomal recessive	Orphanet:1775	OMIM:224230 ! Dyskeratosis Congenita, Autosomal Recessive,OMIM:300067 ! Subcortical Band Heterotopia, X-Linked
+GARD:0006319 ! Split hand foot malformation	OMIM:225300 ! Split-Hand/Foot Malformation 6	DC:0000416 ! Split-Hand/Foot Malformation,OMIM:183600 ! Ectrodactyly
+GARD:0006319 ! Split hand foot malformation	OMIM:246560 ! Distal limb deficiencies - micrognathia syndrome	DC:0000416 ! Split-Hand/Foot Malformation,OMIM:183600 ! Ectrodactyly
+GARD:0006319 ! Split hand foot malformation	OMIM:313350 ! Split-Hand Foot Malformation 2	DC:0000416 ! Split-Hand/Foot Malformation,OMIM:183600 ! Ectrodactyly
+GARD:0006319 ! Split hand foot malformation	OMIM:605289 ! Split-Hand/Foot Malformation 4	DC:0000416 ! Split-Hand/Foot Malformation,OMIM:183600 ! Ectrodactyly
+GARD:0006319 ! Split hand foot malformation	OMIM:606708 ! Split-Hand/Foot Malformation 5	DC:0000416 ! Split-Hand/Foot Malformation,OMIM:183600 ! Ectrodactyly
+GARD:0006331 ! Empty sella syndrome	OMIM:130720 ! Lateral meningocele syndrome	DOID:3642 ! empty sella syndrome
+GARD:0006333 ! Encephalocele	Orphanet:199647 ! Isolated encephalocele	MESH:D004677 ! Encephalocele
+GARD:0006353 ! Ependymoma	OMIM:131445	MESH:C531673 ! Familial ependymoma,MESH:D004806 ! Ependymoma,OMIM:137800 ! Glioma Susceptibility 1,Orphanet:251636 ! Ependymoma
+GARD:0006353 ! Ependymoma	Orphanet:301	MESH:C531673 ! Familial ependymoma,MESH:D004806 ! Ependymoma,OMIM:137800 ! Glioma Susceptibility 1,Orphanet:251636 ! Ependymoma
+GARD:0006360 ! Epidermolysis bullosa acquisita	OMIM:120120	DOID:4313 ! epidermolysis bullosa acquisita
+GARD:0006377 ! Erythromelalgia	Orphanet:90026 ! Primary erythermalgia	DOID:9240 ! erythromelalgia,MESH:D004916 ! Erythromelalgia,OMIM:133020 ! Erythermalgia, Primary
+GARD:0006406 ! Primary Familial Brain Calcification	Orphanet:1980	OMIM:213600 ! Idiopathic basal ganglia calcification 1
+GARD:0006431 ! Fazio Londe syndrome	Orphanet:97229	DOID:649 ! prion disease,OMIM:211500 ! Fazio-Londe Disease
+GARD:0006447 ! Trimethylaminuria	Orphanet:35056	OMIM:602079 ! Trimethylaminuria
+GARD:0006454 ! Necrotizing fasciitis	OMIM:607395 ! Streptococcus, Group A, Severity of Infection by	DOID:9602 ! necrotizing fasciitis
+GARD:0006458 ! Focal dystonia	Orphanet:1866 ! Focal, segmental or multifocal dystonia	DOID:0050836 ! focal dystonia,OMIM:611284 ! Musician's Dystonia
+GARD:0006465 ! Fraser syndrome	Orphanet:2052.0	OMIM:219000 ! Fraser syndrome
+GARD:0006475 ! Fukuyama type muscular dystrophy	OMIM:253800 ! Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 4	MESH:C538190 ! Muscular dystrophy, congenital, with central nervous system involvement
+GARD:0006475 ! Fukuyama type muscular dystrophy	Orphanet:272	MESH:C538190 ! Muscular dystrophy, congenital, with central nervous system involvement
+GARD:0006507 ! Gilbert syndrome	Orphanet:357	OMIM:143500 ! Gilbert syndrome
+GARD:0006520 ! Glucose-6-phosphate dehydrogenase deficiency	Orphanet:362	DOID:13628 ! glucose-6-phosphate dehydrogenase deficiency,DOID:2862 ! glucosephosphate dehydrogenase deficiency
+GARD:0006554 ! Guillain-Barre syndrome	Orphanet:2103 ! Guillain-BarrC) syndrome	DOID:12842 ! Guillain-Barre syndrome,OMIM:139393 ! Guillain-Barre Syndrome,Orphanet:98916 ! Acute inflammatory demyelinating polyradiculoneuropathy
+GARD:0006558 ! Factor XII deficiency	Orphanet:330 ! Congenital factor XII deficiency	OMIM:234000 ! factor XII deficiency
+GARD:0006570 ! Hashimoto's syndrome	OMIM:140300 ! Hypothyroidism, Autoimmune	DOID:7188 ! autoimmune thyroiditis,MESH:C535842 ! Thyroiditis, Chronic
+GARD:0006591 ! Hemophilia A	Orphanet:448 ! Hemophilia	OMIM:134500 ! Factor 8 Deficiency,OMIM:306700 ! Hemophilia A
+GARD:0006608 ! Liver cancer	Orphanet:210159 ! Adult hepatocellular carcinoma	DOID:3571 ! liver cancer,OMIM:114550 ! Hepatoblastoma Caused By Somatic Mutation
+GARD:0006632 ! Hereditary pancreatitis	OMIM:167800 ! Pancreatitis, Calcific	Orphanet:94087 ! Cytophagic histiocytic panniculitis
+GARD:0006658 ! Hidradenitis suppurativa	Orphanet:387	DOID:2280 ! hidradenitis suppurativa,MESH:C538118 ! Hidradenitis suppurativa, familial,OMIM:142690 ! Hidradenitis Suppurativa
+GARD:0006670 ! Horner's syndrome	OMIM:143000 ! Congenital Horner syndrome	DOID:11486 ! Horner's syndrome
+GARD:0006702 ! Hyperlipoproteinemia type 2	OMIM:144400	MESH:D006938 ! Hyperlipoproteinemia Type II,OMIM:143890 ! Hypercholesterolemia
+GARD:0006703 ! Hyperlipidemia type 3	OMIM:107741	DOID:3145 ! hyperlipoproteinemia type III,Orphanet:412 ! Hyperlipoproteinemia type 3
+GARD:0006737 ! Panhypopituitarism X-linked	Orphanet:90695	OMIM:312000 ! Panhypopituitarism X-linked
+GARD:0006763 ! Idiopathic pulmonary hemosiderosis	Orphanet:206668	DOID:12118 ! pulmonary hemosiderosis,OMIM:235500 ! Idiopathic pulmonary hemosiderosis
+GARD:0006789 ! Intestinal pseudo-obstruction	OMIM:609629 ! Visceral Neuropathy, Familial, Autosomal Dominant	DOID:3878 ! intestinal pseudo-obstruction,MESH:D007418 ! Intestinal Pseudo-Obstruction
+GARD:0006805 ! Juvenile dermatomyositis	OMIM:160750 ! Myositis	DOID:14203 ! childhood type dermatomyositis,Orphanet:93568 ! Juvenile polymyositis
+GARD:0006805 ! Juvenile dermatomyositis	Orphanet:221	DOID:14203 ! childhood type dermatomyositis,Orphanet:93568 ! Juvenile polymyositis
+GARD:0006808 ! Juvenile myoclonic epilepsy	OMIM:606904	DOID:4890 ! juvenile myoclonic epilepsy,OMIM:254770 ! Myoclonic Epilepsy, Juvenile
+GARD:0006811 ! Kallikrein hypertension	OMIM:147910	MESH:C537707 ! Kallikrein hypertension
+GARD:0006815 ! Kartagener syndrome	Orphanet:244	OMIM:244400 ! Kartagener syndrome
+GARD:0006830 ! Kernicterus	OMIM:237900 ! Transient familial neonatal hyperbilirubinemia	DOID:2382 ! kernicterus
+GARD:0006830 ! Kernicterus	Orphanet:2312	DOID:2382 ! kernicterus
+GARD:0006838 ! Segmentation syndrome 1	OMIM:148900	MESH:C537538 ! Segmentation syndrome 1
+GARD:0006843 ! Wernicke-Korsakoff syndrome	Orphanet:97354	OMIM:277730 ! Wernicke-Korsakoff syndrome
+GARD:0006858 ! Langerhans cell histiocytosis	Orphanet:86823 ! Lissencephaly with cerebellar hypoplasia	DOID:2571 ! Langerhans-cell histiocytosis,MESH:D006646 ! Histiocytosis, Langerhans-Cell,OMIM:604856 ! Langerhans Cell Histiocytosis
+GARD:0006860 ! Larsen syndrome	Orphanet:503 ! Autosomal dominant Larsen syndrome	OMIM:150250 ! Larsen syndrome
+GARD:0006865 ! Laryngomalacia	Orphanet:2373 ! Congenital laryngomalacia	OMIM:150280 ! Laryngomalacia
+GARD:0006867 ! LCHAD deficiency	Orphanet	OMIM:609016 ! Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency
+GARD:0006876 ! Legionellosis	OMIM:608556 ! Legionnaire Disease, Susceptibility to	DOID:10458 ! legionellosis
+GARD:0006893 ! Leukocyte adhesion deficiency type 1	Orphanet:43	OMIM:116920 ! Leukocyte adhesion deficiency type 1
+GARD:0006901 ! Lhermitte-Duclos disease	Orphanet:65285	OMIM:158350 ! Proteus-like syndrome
+GARD:0006905 ! Lichen sclerosus	Orphanet:33409	OMIM:151590 ! Lichen Sclerosus et Atrophicus
+GARD:0006909 ! Lipodystrophy	Orphanet:98304	DOID:811 ! lipodystrophy
+GARD:0006951 ! Macrodactyly of the foot	OMIM:155500 ! Megalodactyly	Orphanet:295047 ! Macrodactyly of toes
+GARD:0006958 ! Maffucci syndrome	OMIM:166000 ! Ollier disease	OMIM:614569 ! Maffucci syndrome
+GARD:0006959 ! Mal de debarquement	Orphanet:210272 ! Mal de dC)barquement	MESH:C537840 ! Mal de debarquement
+GARD:0006961 ! Malaria	OMIM:248310 ! Plasmodium Falciparum Blood Infection Level	DOID:12365 ! malaria,OMIM:611162 ! Malaria
+GARD:0006963 ! Malignant fibrous histiocytoma	OMIM:605352	MESH:D051677 ! Histiocytoma, Malignant Fibrous,Orphanet:2023 ! Malignant fibrous histiocytoma
+GARD:0006995 ! McCune Albright syndrome	Orphanet:102	OMIM:174800 ! McCune Albright syndrome
+GARD:0007002 ! Medullary cystic kidney disease 1	Orphanet:34149 ! Autosomal dominant medullary cystic kidney disease with or without hyperuricemia	OMIM:174000 ! Medullary cystic kidney disease 1
+GARD:0007005 ! Medulloblastoma	Orphanet:98895	DOID:0050902 ! medulloblastoma,MESH:D008527 ! Medulloblastoma,OMIM:155255 ! Medulloblastoma
+GARD:0007035 ! Hereditary multiple osteochondromas	Orphanet:321 ! Multiple osteochondromas	DC:0000143 ! Exostoses, Multiple
+GARD:0007039 ! Microvillus inclusion disease	Orphanet:73014 ! Intractable diarrhea of infancy	OMIM:251850 ! Microvillus inclusion disease
+GARD:0007073 ! Mucopolysaccharidosis type IIIC	Orphanet:581 ! Mucopolysaccharidosis type 3	OMIM:252930 ! Sanfilippo syndrome type C
+GARD:0007100 ! Mullerian aplasia	OMIM:158330 ! Mullerian Aplasia and Hyperandrogenism	MESH:C537371 ! Mullerian aplasia
+GARD:0007121 ! Chronic fatigue syndrome	Orphanet:1983	DOID:8544 ! chronic fatigue syndrome
+GARD:0007166 ! Nevoid basal cell carcinoma syndrome	Orphanet:2092	OMIM:109400 ! nevoid basal cell carcinoma syndrome
+GARD:0007170 ! Nelson syndrome	OMIM:125530	DOID:4968 ! Nelson syndrome
+GARD:0007171 ! Nemaline myopathy 1	OMIM:161800 ! Nemaline myopathy 3	OMIM:609284 ! Nemaline myopathy 1
+GARD:0007183 ! Sialidosis, type II	Orphanet:812 ! Sialidosis type 1	OMIM:256550 ! Neuraminidase 1 deficiency,Orphanet:87876 ! Sialidosis type 2
+GARD:0007191 ! Neurofibroma	OMIM:162200 ! Neurofibromatosis 1	DOID:962 ! neurofibroma
+GARD:0007208 ! Niemann-Pick disease type D	OMIM:257250	OMIM:257220 ! Niemann-Pick Disease, Type C
+GARD:0007337 ! Paroxysmal nocturnal hemoglobinuria	OMIM:311770	DOID:0060284 ! paroxysmal nocturnal hemoglobinuria
+GARD:0007353 ! Pemphigus and fogo selvagem	OMIM:125670	MESH:C535551 ! Pemphigus and fogo selvagem
+GARD:0007354 ! Pemphigus foliaceus	OMIM:169615	Orphanet:79481 ! Pemphigus foliaceus
+GARD:0007355 ! Pemphigus vulgaris	OMIM:169615	OMIM:169610 ! Pemphigus vulgaris
+GARD:0007385 ! Pheochromocytoma	Orphanet:29072 ! Hereditary pheochromocytoma-paraganglioma	OMIM:171300 ! Pheochromocytoma
+GARD:0007392 ! Pick's disease	Orphanet:2883	DOID:11870 ! Pick's disease
+GARD:0007446 ! Precocious puberty	OMIM:176400 ! Precocious Puberty, Central	MESH:D011629 ! Puberty, Precocious
+GARD:0007482 ! Pseudocholinesterase deficiency	OMIM:177400	Orphanet:132 ! Butyrylcholinesterase deficiency,Orphanet:1320 ! Camptocormia
+GARD:0007499 ! Pulmonary alveolar proteinosis acquired	Orphanet:95432 ! Primary progressive aphasia	OMIM:610910 ! Idiopathic pulmonary alveolar proteinosis
+GARD:0007501 ! Pulmonary arterial hypertension	Orphanet:422 ! Idiopathic and/or familial pulmonary arterial hypertension	OMIM:178600 ! Hypertension, Pulmonary,Orphanet:182090 ! Pulmonary arterial hypertension,Orphanet:275777 ! Heritable pulmonary arterial hypertension
+GARD:0007572 ! Rhabdoid tumor	OMIM:613325 ! Rhabdoid Tumor Predisposition Syndrome 2	DOID:3672 ! rhabdoid cancer,OMIM:609322 ! Teratoid Tumor, Atypical
+GARD:0007572 ! Rhabdoid tumor	Orphanet:99966	DOID:3672 ! rhabdoid cancer,OMIM:609322 ! Teratoid Tumor, Atypical
+GARD:0007588 ! Rosai-Dorfman disease	Orphanet:158014 ! RosaC/-Dorfman disease	OMIM:602782 ! Histiocytosis with joint contractures and sensorineural deafness
+GARD:0007608 ! X-linked dominant scapuloperoneal myopathy	OMIM:181430 ! Scapuloperoneal myopathy	OMIM:300695 ! Scapuloperoneal Myopathy, X-Linked Dominant
+GARD:0007628 ! Severe combined immunodeficiency	Orphanet:277 ! Severe combined immunodeficiency due to adenosine deaminase deficiency	DOID:627 ! severe combined immunodeficiency
+GARD:0007629 ! Sezary syndrome	Orphanet:3162 ! SC)zary syndrome	DOID:8541 ! Sezary's disease
+GARD:0007639 ! Sialidosis type I	OMIM:256550 ! Neuraminidase 1 deficiency	MESH:C564955 ! Sialidosis, Type I
+GARD:0007639 ! Sialidosis type I	Orphanet:812 ! Sialidosis type 1	MESH:C564955 ! Sialidosis, Type I
+GARD:0007654 ! Sjogren-Larsson syndrome	Orphanet:816 ! SjC6gren-Larsson syndrome	OMIM:270200 ! Sjogren-Larsson syndrome
+GARD:0007664 ! Sneddon syndrome	OMIM:615688 ! Polyarteritis Nodosa, Childhood-Onset	OMIM:182410 ! Sneddon syndrome
+GARD:0007673 ! Spina bifida	Orphanet:823 ! Isolated spina bifida	DOID:0080016 ! spina bifida,OMIM:182940 ! Neural Tube Defects, Susceptibility to
+GARD:0007687 ! Spondyloepiphyseal dysplasia	Orphanet:253 ! Spondyloepiphyseal dysplasia and spondyloepimetaphyseal dysplasia	DOID:0050813 ! spondyloepiphyseal dysplasia with congenital joint dislocations
+GARD:0007725 ! Syringomyelia	OMIM:186700 ! Syringomyelia, Isolated	DOID:327 ! syringomyelia
+GARD:0007754 ! Tetrasomy X	Orphanet	Orphanet:9 ! Tetrasomy X
+GARD:0007782 ! Dystonia 7, torsion	Orphanet:93963 ! Autosomal dominant focal dystonia, DYT7 type	OMIM:602124 ! Torsion dystonia 7
+GARD:0007784 ! Townes-Brocks syndrome	Orphanet:98053	OMIM:107480 ! Townes-Brocks syndrome
+GARD:0007800 ! Trichorhinophalangeal syndrome type 1	Orphanet:77258 ! Trichorhinophalangeal syndrome type 1 and 3	OMIM:190350 ! Trichorhinophalangeal Syndrome, Type 1
+GARD:0007827 ! Tuberculosis	OMIM:607948 ! Mycobacterium Tuberculosis, Susceptibility to	DOID:399 ! tuberculosis
+GARD:0007864 ! Glycogen storage disease type 1A	Orphanet:364	OMIM:232200 ! Glycogen storage disease due to glucose-6-phosphatase deficiency type a
+GARD:0007872 ! Waldenstrom macroglobulinemia	OMIM:153600 ! Macroglobulinemia, Waldenstrom, Susceptibility To, 1	DC:0000261 ! Macroglobulinemia, Waldenstrom,MESH:D008258 ! Waldenstrom Macroglobulinemia,Orphanet:3323 ! Thrombocytopenia - Robin sequence
+GARD:0007887 ! West syndrome	OMIM:308350 ! Epileptic Encephalopathy, Early Infantile, 1	DOID:0050562 ! West syndrome,DOID:2481 ! infantile epileptic encephalopathy,OMIM:146850 ! Immune Suppression
+GARD:0007891 ! Williams syndrome	Orphanet:904	OMIM:194050 ! Williams Syndrome
+GARD:0007897 ! Wolff-Parkinson-White syndrome	Orphanet:907	OMIM:194200 ! Wolff-Parkinson-White syndrome
+GARD:0007898 ! Wolfram syndrome	OMIM:598500 ! Wolfram Syndrome, Mitochondrial Form	DOID:10632 ! Wolfram syndrome,OMIM:222300 ! Wolfram Syndrome
+GARD:0007918 ! Zollinger-Ellison syndrome	OMIM:131100 ! multiple endocrine neoplasia type 1	DOID:0050782 ! Zollinger-Ellison Syndrome
+GARD:0008182 ! Proximal symphalangism	OMIM:615298 ! Symphalangism, Proximal, 1B	DOID:0050788 ! proximal symphalangism,OMIM:185800 ! Cushing's symphalangism
+GARD:0008276 ! De Sanctis-Cacchione syndrome	Orphanet:1569	OMIM:278800 ! De Sanctis-Cacchione syndrome
+GARD:0008278 ! Cataract, congenital, with microcornea or slight microphthalmia	OMIM:302300	OMIM:302200 ! Cataract, congenital, with microcornea or slight microphthalmia
+GARD:0008311 ! Cardiomyopathy, fatal fetal, due to myocardial calcification	OMIM:606163	OMIM:300829 ! Cardiomyopathy, fatal fetal, due to myocardial calcification
+GARD:0008334 ! Nemaline myopathy 5	Orphanet:98902 ! Amish nemaline myopathy	OMIM:605355 ! Nemaline myopathy 5
+GARD:0008335 ! Nemaline myopathy 2	Orphanet:653 ! Multiple endocrine neoplasia type 2	OMIM:256030 ! Nemaline Myopathy 2
+GARD:0008341 ! Marinesco-Sjogren syndrome	Orphanet:559 ! Marinesco-SjC6gren syndrome	OMIM:248800 ! Marinesco-Sjogren Syndrome
+GARD:0008346 ! Albinism, minimal pigment type	OMIM:203280	MESH:C537044 ! Albinism, minimal pigment type
+GARD:0008349 ! Amelogenesis imperfecta hypomaturation type	OMIM:301100	Orphanet:100033 ! Hypomaturation amelogenesis imperfecta
+GARD:0008360 ! Aldred syndrome	OMIM:312600 ! Retinitis Pigmentosa 2	Orphanet:85332 ! X-linked intellectual disability-retinitis pigmentosa syndrome
+GARD:0008422 ! Peters plus syndrome	Orphanet:709.0	OMIM:261540 ! Peters plus syndrome
+GARD:0008426 ! Thyroid agenesis	Orphanet:95720 ! Thyroid hypoplasia	OMIM:218700 ! Thyroid Dysgenesis
+GARD:0008427 ! Bare lymphocyte syndrome	OMIM:604571 ! MHC class I deficiency	DC:0000054 ! Bare Lymphocyte Syndrome,OMIM:209920 ! MHC class II deficiency
+GARD:0008438 ! Hypertrichosis, anterior cervical	Orphanet:3387 ! Isolated anterior cervical hypertrichosis	OMIM:600457 ! Hypertrichosis, anterior cervical
+GARD:0008442 ! Partial agenesis of corpus callosum	OMIM:304100 ! Corpus Callosum, Partial Agenesis of, X-Linked	MESH:C536111 ! Partial agenesis of corpus callosum
+GARD:0008456 ! Stomatocytosis II	OMIM:185010	MESH:C566110 ! Stomatocytosis II
+GARD:0008489 ! MASS syndrome	Orphanet:99715	OMIM:604308 ! MASS syndrome
+GARD:0008503 ! Squamous cell carcinoma of the head and neck	OMIM:601400	OMIM:275355 ! head and neck squamous cell carcinoma
+GARD:0008528 ! HELLP syndrome	OMIM:189800 ! Preeclampsia/Eclampsia 1	DOID:13133 ! HELLP syndrome
+GARD:0008529 ! Macrodactyly of the hand	OMIM:155500 ! Megalodactyly	Orphanet:295044 ! Macrodactyly of fingers
+GARD:0008531 ! Malpuech facial clefting syndrome	Orphanet:2453	OMIM:248340 ! Malpuech facial clefting syndrome
+GARD:0008559 ! Familial Wilms tumor 2	OMIM:605982	OMIM:194071 ! Familial Wilms tumor 2
+GARD:0008566 ! Radio-ulnar synostosis type 2	OMIM:179300 ! radioulnar synostosis	MESH:C536269 ! Radio-ulnar synostosis type 2
+GARD:0008585 ! Cantu syndrome	Orphanet:1517 ! Hypertrichotic osteochondrodysplasia, Cantu type	OMIM:239850 ! Cantu syndrome
+GARD:0008588 ! Hypercholesterolemia, autosomal dominant	OMIM:144010 ! Hypercholesterolemia due to arg3500 mutation of Apo B-100	MESH:C538646 ! High serum cholesterol, familial
+GARD:0008588 ! Hypercholesterolemia, autosomal dominant	Orphanet:406	MESH:C538646 ! High serum cholesterol, familial
+GARD:0008596 ! Maple syrup urine disease type 2	OMIM:248610	OMIM:248600 ! Maple Syrup Urine Disease
+GARD:0008602 ! Acetyl-carnitine deficiency	OMIM:600184	MESH:C536006 ! Acetylcarnitine deficiency,OMIM:606175 ! Carnitine Acetyltransferase Deficiency
+GARD:0008603 ! Acanthosis nigricans	Orphanet:924	DOID:3138 ! acanthosis nigricans,OMIM:100600 ! Acanthosis Nigricans
+GARD:0008609 ! Idiopathic pulmonary fibrosis	Orphanet:79126	DOID:0050156 ! idiopathic pulmonary fibrosis,OMIM:178500 ! Idiopathic Pulmonary Fibrosis
+GARD:0008658 ! Glomus tympanicum tumor	OMIM:168000 ! Glomus Jugulare Tumor	MESH:D043604 ! Glomus Tympanicum Tumor
+GARD:0008694 ! Osteogenesis imperfecta type 1	Orphanet:666	OMIM:166200 ! Osteogenesis Imperfecta, Type 1,Orphanet:216796 ! Osteogenesis imperfecta type 1
+GARD:0008695 ! Osteogenesis imperfecta type 3	Orphanet:666	OMIM:259420 ! Osteogenesis imperfecta, type 3,Orphanet:216812 ! Osteogenesis imperfecta type 3
+GARD:0008696 ! Osteogenesis imperfecta type 4	Orphanet:666	OMIM:166220 ! Osteogenesis imperfecta, type 4,Orphanet:216820 ! Osteogenesis imperfecta type 4
+GARD:0008697 ! Osteogenesis imperfecta type 1A	OMIM:166240	MESH:C536041 ! Osteogenesis imperfecta, type 1A
+GARD:0008697 ! Osteogenesis imperfecta type 1A	Orphanet:666	MESH:C536041 ! Osteogenesis imperfecta, type 1A
+GARD:0008698 ! Osteogenesis imperfecta Levin type	Orphanet:666	MESH:C536039 ! Osteogenesis imperfecta, Levin type,OMIM:166260 ! Gnathodiaphyseal dysplasia
+GARD:0008699 ! Osteogenesis imperfecta type 5	Orphanet:666	OMIM:610967 ! Osteogenesis imperfecta, type 5,Orphanet:216828 ! Osteogenesis imperfecta type 5
+GARD:0008700 ! Osteogenesis imperfecta type 6	OMIM:610968 ! Osteogenesis Imperfecta, Type 11	OMIM:613982 ! Osteogenesis Imperfecta, Type VI
+GARD:0008700 ! Osteogenesis imperfecta type 6	Orphanet:216820 ! Osteogenesis imperfecta type 4	OMIM:613982 ! Osteogenesis Imperfecta, Type VI
+GARD:0008700 ! Osteogenesis imperfecta type 6	Orphanet:666	OMIM:613982 ! Osteogenesis Imperfecta, Type VI
+GARD:0008701 ! Osteogenesis imperfecta type 7	Orphanet:666	OMIM:610682 ! Osteogenesis imperfecta, type 7
+GARD:0008705 ! Klinefelter syndrome	Orphanet:484	DOID:1921 ! Klinefelter's syndrome,MESH:D007713 ! Klinefelter Syndrome
+GARD:0008722 ! Dystonia 8	Orphanet:93442	MESH:C563583 ! Microcephaly with Chorioretinopathy, Autosomal Dominant,OMIM:118800 ! Paroxysmal nonkinesigenic dyskinesia,Orphanet:98810 ! Paroxysmal non-kinesigenic dyskinesia
+GARD:0008732 ! Hemophilia B	Orphanet:448 ! Hemophilia	OMIM:306900 ! hemophilia B
+GARD:0008735 ! Hypophosphatasia childhood	Orphanet:436	OMIM:241510 ! Hypophosphatasia, Childhood
+GARD:0008745 ! Marinesco-Sjogren-like syndrome (MSLS)	OMIM:248810	MESH:C535913 ! Marinesco-Sjogren-like syndrome (MSLS)
+GARD:0008755 ! Arhinia choanal atresia microphthalmia	Orphanet:1135 ! Arrhinia - choanal atresia - microphthalmia	OMIM:603457 ! Arhinia, choanal atresia, and microphthalmia
+GARD:0008756 ! Arts syndrome	Orphanet:140952	DOID:0050647 ! Arts syndrome,OMIM:301835 ! Arts syndrome
+GARD:0009119 ! Lung agenesis	OMIM:601612 ! Lung Agenesis, Congenital Heart Defects, and Thumb Anomalies Syndrome	OMIM:265430 ! Familial primary pulmonary hypoplasia,Orphanet:984 ! Pulmonary agenesis
+GARD:0009128 ! Idiopathic myopathy	OMIM:160750 ! Myositis	Orphanet:98482 ! Idiopathic inflammatory myopathy,Orphanet:98486 ! Metabolic myopathy
+GARD:0009129 ! Minicore myopathy, antenatal onset, with arthrogryposis	OMIM:607552	OMIM:255320 ! Minicore Myopathy with External Ophthalmoplegia
+GARD:0009152 ! 3-beta-hydroxysteroid dehydrogenase deficiency	Orphanet:90791 ! Congenital adrenal hyperplasia due to 3-beta-hydroxysteroid dehydrogenase deficiency	OMIM:201810 ! 3b-Hydroxysteroid Dehydrogenase Deficiency
+GARD:0009155 ! Mental retardation X-linked, South African type	OMIM:300243 ! Christianson syndrome	MESH:C537450 ! Mental retardation X-linked, South African type
+GARD:0009185 ! Atypical mycobacteriosis, familial	OMIM:209950 ! Mycobacterium Infections, Nontuberculous	DC:0000046 ! Atypical Mycobacteriosis, Familial,Orphanet:748 ! Mendelian susceptibility to mycobacterial diseases
+GARD:0009188 ! HAIR-AN syndrome	Orphanet:34412	DOID:421 ! hair disease
+GARD:0009204 ! Hypertrophic neuropathy of Dejerine-Sottas	Orphanet:64748	OMIM:145900 ! Hypertrophic Neuropathy of Dejerine-Sottas
+GARD:0009218 ! Auralcephalosyndactyly	Orphanet:1219	OMIM:109050 ! Aurocephalosyndactyly
+GARD:0009246 ! Collagenopathy type 2 alpha 1	OMIM:120140	MESH:C535964 ! Collagenopathy, type 2 alpha 1
+GARD:0009256 ! Dyssynergia cerebellaris myoclonica	OMIM:159700 ! Ramsay-Hunt syndrome	DOID:12707 ! myoclonic cerebellar dyssynergia
+GARD:0009268 ! Glomerulopathy with fibronectin deposits 1	Orphanet:84090	OMIM:137950 ! Glomerulopathy with Giant Fibrillar Deposits,OMIM:601894 ! Glomerulopathy With Fibronectin Deposits 2
+GARD:0009274 ! Auditory neuropathy	OMIM:609129 ! Auditory Neuropathy, Autosomal Dominant, 1	MESH:C538268 ! Auditory neuropathy
+GARD:0009289 ! Baby rattle pelvic dysplasia	OMIM:605838 ! Baby Rattle Pelvis Dysplasia	MESH:C537794 ! Baby rattle pelvic dysplasia
+GARD:0009294 ! Long QT syndrome 8	Orphanet:65283	OMIM:601005 ! Timothy syndrome
+GARD:0009295 ! Thanatophoric dysplasia type 1	Orphanet:2655	Orphanet:1860 ! Thanatophoric dysplasia type 1
+GARD:0009331 ! Hepatocellular carcinoma, childhood	OMIM:114550 ! Hepatoblastoma Caused By Somatic Mutation	Orphanet:33402 ! Pediatric hepatocellular carcinoma
+GARD:0009339 ! Kidney cancer	OMIM:144700 ! nonpapillary renal cell carcinoma	DOID:263 ! kidney cancer
+GARD:0009362 ! Ovarian epithelial cancer	OMIM:604370 ! Breast-Ovarian Cancer, Familial, Susceptibility To, 1	MESH:C538090 ! Ovarian epithelial cancer,OMIM:167000 ! Ovarian Cancer
+GARD:0009396 ! Fibrolamellar carcinoma	OMIM:114550 ! Hepatoblastoma Caused By Somatic Mutation	DOID:5015 ! hepatocellular fibrolamellar carcinoma,Orphanet:401923 ! 9q31.1q31.3 microdeletion syndrome
+GARD:0009417 ! Meralgia paresthetica	OMIM:156220 ! Meralgia Paraesthetica, Familial	MESH:C537458 ! Meralgia paresthetica
+GARD:0009456 ! X-linked sideroblastic anemia	Orphanet:1047	OMIM:300751 ! X-linked sideroblastic anemia,Orphanet:260305 ! Autosomal recessive sideroblastic anemia
+GARD:0009458 ! Loeys-Dietz syndrome type 1A	Orphanet:60030	OMIM:609192 ! Furlong syndrome
+GARD:0009458 ! Loeys-Dietz syndrome type 1A	Orphanet:97295	OMIM:609192 ! Furlong syndrome
+GARD:0009465 ! Alzheimer disease type 1	Orphanet:98926	OMIM:104300 ! Alzheimer Disease, Familial, 1
+GARD:0009467 ! Alzheimer disease type 2	Orphanet:98927	OMIM:104310 ! Alzheimer disease type 2
+GARD:0009468 ! Alzheimer disease type 3	Orphanet:98928	OMIM:607822 ! Alzheimer Disease, Familial, 3, with Spastic Paraparesis and Apraxia
+GARD:0009479 ! Methylmalonic aciduria, cblB type	Orphanet:79311 ! Vitamin B12-responsive methylmalonic acidemia type cblB	DOID:14749 ! methylmalonic acidemia,OMIM:251110 ! Methylmalonic aciduria cblB type
+GARD:0009492 ! Autosomal recessive nonsyndromic congenital nuclear cataract	OMIM:609376 ! Cataract, Congenital Nuclear, Autosomal Recessive 1	MESH:C537298 ! Autosomal recessive nonsyndromic congenital nuclear cataract
+GARD:0009496 ! Renal hypouricemia	Orphanet:94088 ! Hereditary renal hypouricemia	DC:0000219 ! Hypouricemia, Renal,OMIM:220150 ! Renal hypouricemia
+GARD:0009504 ! Porokeratosis, disseminated superficial actinic 2	Orphanet:79152	OMIM:607728 ! Porokeratosis
+GARD:0009508 ! Cerulean cataract	OMIM:608983	OMIM:115660 ! Cerulean cataract,Orphanet:98989 ! Cerulean cataract
+GARD:0009509 ! Renpenning syndrome 1	Orphanet:3242	OMIM:309500 ! Renpenning syndrome 1
+GARD:0009571 ! Familial renal cell carcinoma	OMIM:144700 ! nonpapillary renal cell carcinoma	DOID:4450 ! renal cell carcinoma,MESH:D002292 ! Carcinoma, Renal Cell
+GARD:0009590 ! Spastic paraplegia 10	Orphanet:685	OMIM:604187 ! Autosomal dominant spastic paraplegia type 10
+GARD:0009595 ! Atransferrinemia	Orphanet:1195 ! Congenital atransferrinemia	OMIM:209300 ! atransferrinemia
+GARD:0009609 ! Nystagmus, congenital motor, autosomal recessive	OMIM:257400 ! Nystagmus, Congenital, Autosomal Recessive	MESH:C564938 ! Nystagmus, Congenital Motor, Autosomal Recessive
+GARD:0009626 ! Axenfeld-Rieger syndrome type 3	Orphanet:782	OMIM:602482 ! Axenfeld-Rieger Syndrome, Type 3
+GARD:0009628 ! Dystonia 12	Orphanet:71517	OMIM:128235 ! Dystonia 12
+GARD:0009629 ! Dystonia 15, myoclonic	Orphanet:210566	OMIM:607488 ! Dystonia 15, myoclonic
+GARD:0009641 ! Rufous oculocutaneous albinism	OMIM:278400	OMIM:203290 ! Oculocutaneous albinism type 3
+GARD:0009651 ! Alpha mannosidosis type 2	OMIM:248500 ! alpha-mannosidosis	MESH:C536585 ! Alpha-mannosidosis, type 2
+GARD:0009670 ! Plasma thromboplastin antecedent deficiency	OMIM:264900	OMIM:612416 ! factor XI deficiency
+GARD:0009676 ! Miyoshi myopathy	OMIM:613319 ! Distal anoctaminopathy	OMIM:254130 ! Miyoshi myopathy,Orphanet:45448 ! Miyoshi myopathy
+GARD:0009689 ! Congenital myasthenic syndrome with episodic apnea	Orphanet:98914 ! Presynaptic congenital myasthenic syndromes	OMIM:254210 ! Congenital myasthenic syndrome with episodic apnea,OMIM:601462 ! Myasthenic Syndrome, Congenital, 1A, Slow-Channel
+GARD:0009700 ! LCAD deficiency	OMIM:201460	Orphanet:99900 ! Long chain acyl-CoA dehydrogenase deficiency
+GARD:0009704 ! Siderius X-linked mental retardation syndrome	Orphanet:85287 ! X-linked intellectual disability, Siderius type	OMIM:300263 ! Siderius X-linked mental retardation syndrome
+GARD:0009723 ! Congenital ectodermal dysplasia with hearing loss	OMIM:224800 ! Ectodermal Dysplasia and Neurosensory Deafness	MESH:C535757 ! Congenital ectodermal dysplasia with hearing loss
+GARD:0009735 ! Ichthyosis lamellar, autosomal dominant	Orphanet:313	OMIM:146750 ! Lamellar ichthyosis, autosomal dominant form
+GARD:0009736 ! Nonbullous congenital ichthyosiform erythroderma	Orphanet:64734 ! Iridocorneal endothelial syndrome	DOID:1699 ! congenital ichthyosiform erythroderma,OMIM:242100 ! Ichthyosiform erythroderma, Brocq congenital, nonbullous form
+GARD:0009748 ! Systemic scleroderma	OMIM:181750 ! CREST Syndrome	DOID:418 ! systemic scleroderma,DOID:419 ! scleroderma
+GARD:0009764 ! Pseudoainhum	OMIM:103400 ! ainhum	MESH:C535821 ! Pseudoainhum
+GARD:0009765 ! Myokymia with neonatal epilepsy	OMIM:606437	MESH:C536099 ! Myokymia with neonatal epilepsy
+GARD:0009770 ! Fuchs atrophia gyrata chorioideae et retinae	OMIM:229900	MESH:C538071 ! Fuchs atrophia gyrata chorioideae et retinae
+GARD:0009787 ! Parkes Weber syndrome	Orphanet:2346 ! Angioosteohypertrophic syndrome	OMIM:608355 ! Parkes Weber syndrome
+GARD:0009791 ! Multiple epiphyseal dysplasia 2	Orphanet:166002 ! Multiple epiphyseal dysplasia due to collagen 9 anomaly	OMIM:600204 ! Epiphyseal dysplasia, multiple, 2
+GARD:0009799 ! Cardiomyopathy hypogonadism collagenoma syndrome	OMIM:115250 ! Familial cutaneous collagenoma	MESH:C535582 ! Cardiomyopathy hypogonadism collagenoma syndrome
+GARD:0009803 ! Cholestasis, progressive familial intrahepatic 4	OMIM:607765 ! Bile acid synthesis defect, congenital, 1	OMIM:615878 ! Cholestasis, Progressive Familial Intrahepatic, 4
+GARD:0009804 ! Intrahepatic cholestasis of pregnancy	Orphanet:91359 ! Chronic pneumonitis of infancy	DOID:1852 ! intrahepatic cholestasis,OMIM:147480 ! Intrahepatic Cholestasis of Pregnancy
+GARD:0009813 ! Congenital bile acid synthesis defect, type 1	Orphanet:79301	OMIM:607765 ! Bile acid synthesis defect, congenital, 1
+GARD:0009836 ! ALG2-CDG (CDG-Ii)	Orphanet:79326	OMIM:607906 ! Congenital disorder of glycosylation type II
+GARD:0009840 ! Congenital disorder of glycosylation type I/IIX	Orphanet:137	OMIM:212067 ! Congenital Disorder Of Glycosylation, Type I/IIX
+GARD:0009848 ! Glutamine deficiency, congenital	Orphanet:71278 ! Congenital brain dysgenesis due to glutamine synthetase deficiency	OMIM:610015 ! Glutamine deficiency, congenital
+GARD:0009857 ! Pediatric ulcerative colitis	OMIM:266600 ! ulcerative colitis	MESH:C536315 ! Pediatric ulcerative colitis
+GARD:0009858 ! Catamenial pneumothorax	OMIM:131200 ! Endometriosis, Susceptibility To, 1	MESH:C538279 ! Catamenial pneumothorax
+GARD:0009885 ! Noonan syndrome 3	Orphanet:648	OMIM:609942 ! Noonan syndrome 3
+GARD:0009895 ! Slow-channel congenital myasthenic syndrome	OMIM:601462 ! Myasthenic Syndrome, Congenital, 1A, Slow-Channel	OMIM:616313 ! Myasthenic syndrome, congenital, postsynaptic slow-channel
+GARD:0009895 ! Slow-channel congenital myasthenic syndrome	Orphanet:53719 ! Wyburn-Mason syndrome	OMIM:616313 ! Myasthenic syndrome, congenital, postsynaptic slow-channel
+GARD:0009896 ! Myopathy, limb-girdle, with bone fragility	OMIM:609940	OMIM:112250 ! Diaphyseal medullary stenosis - bone malignancy
+GARD:0009901 ! Hereditary hemorrhagic telangiectasia type 2	Orphanet:774	OMIM:600376 ! Osler-rendu-weber syndrome 2
+GARD:0009902 ! Hereditary hemorrhagic telangiectasia type 3	Orphanet:774	OMIM:601101 ! Osler-rendu-weber syndrome 3
+GARD:0009914 ! Glomerulopathy with fibronectin deposits 2	Orphanet:84090	OMIM:601894 ! Glomerulopathy With Fibronectin Deposits 2
+GARD:0009933 ! Deafness, autosomal dominant nonsyndromic sensorineural 3	OMIM:601544 ! Deafness, Autosomal Dominant 3A	MESH:C538200 ! Deafness, autosomal dominant nonsyndromic sensorineural 3
+GARD:0009952 ! Congenital primary aphakia	Orphanet:85199	OMIM:610256 ! congenital aphakia
+GARD:0009957 ! Hypodontia, X-linked	OMIM:300606	MESH:C537148 ! Hypodontia, X-linked
+GARD:0009965 ! Glycosylphosphatidylinositol deficiency	Orphanet:217557 ! Pulmonary interstitial glycogenosis	OMIM:610293 ! Glycosylphosphatidylinositol deficiency
+GARD:0009966 ! Duane syndrome type 2	Orphanet:233	OMIM:604356 ! Duane Retraction Syndrome 2
+GARD:0009971 ! Spinocerebellar ataxia autosomal recessive 3	Orphanet:79157	OMIM:271250 ! Autosomal recessive cerebellar ataxia - blindness - deafness
+GARD:0009986 ! Severe combined immunodeficiency, atypical	OMIM:269840 ! ZAP70 deficiency	MESH:C537590 ! Severe combined immunodeficiency, atypical
+GARD:0009987 ! Severe combined immunodeficiency with sensitivity to ionizing radiation	Orphanet:231053	OMIM:602450 ! Severe combined immunodeficiency due to DCLRE1C deficiency
+GARD:0009990 ! Lipoatrophy with diabetes, hepatic steatosis, cardiomyopathy, and leukomelanodermic papules	OMIM:608056	MESH:C535905 ! Lipoatrophy with diabetes, hepatic steatosis, cardiomyopathy, and leukomelanodermic papules
+GARD:0009992 ! Midphalangeal hair	OMIM:157200	MESH:C537471 ! Midphalangeal hair
+GARD:0010018 ! Corneal dystrophy Fuchs endothelial 1	Orphanet:34533	OMIM:136800 ! Corneal dystrophy, Fuchs' endothelial, 1
+GARD:0010019 ! Corneal dystrophy Fuchs endothelial 2	Orphanet:34533	OMIM:610158 ! Corneal Dystrophy, Fuchs Endothelial, 2,OMIM:613267 ! Corneal Dystrophy, Fuchs Endothelial, 3,OMIM:613268 ! Corneal Dystrophy, Fuchs Endothelial, 4,OMIM:613269 ! Corneal Dystrophy, Fuchs Endothelial, 5,OMIM:613270 ! Corneal Dystrophy, Fuchs Endothelial, 6,OMIM:613271 ! Corneal Dystrophy, Fuchs Endothelial, 7
+GARD:0010033 ! Aneurysm, intracranial berry, 2	Orphanet:216892	OMIM:608542 ! Aneurysm, intracranial berry, 2
+GARD:0010034 ! Corneal hypesthesia, familial	Orphanet:231013 ! Congenital trigeminal anesthesia	OMIM:122450 ! Corneal hypesthesia, familial
+GARD:0010045 ! Congenital bile acid synthesis defect, type 2	Orphanet:79303	OMIM:235555 ! Bile acid synthesis defect, congenital, 2
+GARD:0010057 ! Spondyloepimetaphyseal dysplasia Genevieve type	Orphanet:168454 ! Spondyloepimetaphyseal dysplasia, GeneviC(ve type	OMIM:610442 ! Spondyloepimetaphyseal dysplasia, Genevieve type
+GARD:0010070 ! Subependymoma	OMIM:600139	OMIM:137800 ! Glioma Susceptibility 1,Orphanet:251639 ! Subependymoma
+GARD:0010080 ! Catatrichy	OMIM:116850	MESH:C535346 ! Catatrichy
+GARD:0010095 ! Familial hemiplegic migraine type 2	Orphanet:569 ! Familial or sporadic hemiplegic migraine	OMIM:602481 ! Hemiplegic migraine, familial type 2
+GARD:0010096 ! Hereditary leiomyomatosis and renal cell cancer	OMIM:605839	OMIM:150800 ! Hereditary leiomyomatosis and renal cell cancer
+GARD:0010098 ! Trichorrhexis nodosa syndrome	OMIM:275550	MESH:C536556 ! Trichorrhexis nodosa syndrome
+GARD:0010098 ! Trichorrhexis nodosa syndrome	Orphanet:75790	MESH:C536556 ! Trichorrhexis nodosa syndrome
+GARD:0010108 ! Congenital myasthenic syndrome associated with acetylcholine receptor deficiency	Orphanet:590	OMIM:608931 ! Myasthenic syndrome, congenital, type Id
+GARD:0010115 ! Hyperostosis-hyperphosphatemia syndrome	OMIM:610233	OMIM:211900 ! Tumoral Calcinosis, Hyperphosphatemic, Familial
+GARD:0010116 ! Ichthyosis with hypotrichosis, autosomal recessive	OMIM:610765	OMIM:602400 ! Ichthyosis-hypotrichosis syndrome
+GARD:0010117 ! Retinal cone dystrophy 2	OMIM:601251	OMIM:601777 ! Retinal cone dystrophy 2
+GARD:0010136 ! Xeroderma pigmentosum, type 9	OMIM:278810	MESH:C536765 ! Xeroderma pigmentosum, type 9
+GARD:0010137 ! Whispering dysphonia, hereditary	OMIM:193680	OMIM:128101 ! Primary dystonia, DYT4 type
+GARD:0010140 ! C-like syndrome	Orphanet:97297	OMIM:605039 ! Bohring syndrome
+GARD:0010142 ! Osteogenesis imperfecta type 2A	OMIM:166210 ! Osteogenesis Imperfecta, Type 2	MESH:C536042 ! Osteogenesis imperfecta, type 2A
+GARD:0010142 ! Osteogenesis imperfecta type 2A	Orphanet:666	MESH:C536042 ! Osteogenesis imperfecta, type 2A
+GARD:0010143 ! Osteogenesis imperfecta type 2B	OMIM:610854	MESH:C536043 ! Osteogenesis imperfecta, type 2B
+GARD:0010143 ! Osteogenesis imperfecta type 2B	Orphanet:666	MESH:C536043 ! Osteogenesis imperfecta, type 2B
+GARD:0010151 ! Aicardi-Goutieres syndrome type 5	Orphanet:51 ! Aicardi-GoutiC(res syndrome	OMIM:612952 ! Aicardi-Goutieres syndrome 5
+GARD:0010173 ! Florid cemento-osseous dysplasia	OMIM:137575 ! Gigantiform Cementoma, Familial	Orphanet:83451 ! Florid cemento-osseous dysplasia
+GARD:0010173 ! Florid cemento-osseous dysplasia	Orphanet:2712 ! Oculofaciocardiodental syndrome	Orphanet:83451 ! Florid cemento-osseous dysplasia
+GARD:0010184 ! Pseudohyperkalemia Cardiff	Orphanet:100041	OMIM:185020 ! Pseudohyperkalemia Cardiff
+GARD:0010185 ! Chester porphyria	OMIM:176010	OMIM:176000 ! acute intermittent porphyria
+GARD:0010188 ! Angioma serpiginosum, X-linked	Orphanet:95429	OMIM:300652 ! Angioma serpiginosum, X-linked
+GARD:0010189 ! Angioma serpiginosum, autosomal dominant	Orphanet:95429	OMIM:106050 ! Angioma serpiginosum, autosomal dominant
+GARD:0010197 ! Selective IgA deficiency	Orphanet:69127	DOID:11701 ! selective IgA deficiency disease,OMIM:137100 ! Immunoglobulin a deficiency 1
+GARD:0010203 ! Optic atrophy and cataract, autosomal dominant	Orphanet:67047	OMIM:165300 ! Autosomal dominant optic atrophy and cataract
+GARD:0010204 ! Bardet-Biedl syndrome 5	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615983 ! Bardet-Biedl Syndrome 5
+GARD:0010205 ! Bardet-Biedl syndrome 6	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:605231 ! Bardet-Biedl Syndrome 6
+GARD:0010206 ! Bardet-Biedl syndrome 7	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615984 ! Bardet-Biedl Syndrome 7
+GARD:0010207 ! Bardet-Biedl syndrome 8	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615985 ! Bardet-Biedl Syndrome 8
+GARD:0010208 ! Bardet-Biedl syndrome 9	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615986 ! Bardet-Biedl Syndrome 9
+GARD:0010209 ! Bardet-Biedl syndrome 10	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615987 ! Bardet-Biedl Syndrome 10
+GARD:0010209 ! Bardet-Biedl syndrome 10	Orphanet:110	OMIM:615987 ! Bardet-Biedl Syndrome 10
+GARD:0010210 ! Bardet-Biedl syndrome 11	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615988 ! Bardet-Biedl Syndrome 11
+GARD:0010210 ! Bardet-Biedl syndrome 11	Orphanet:110	OMIM:615988 ! Bardet-Biedl Syndrome 11
+GARD:0010211 ! Bardet-Biedl syndrome 12	OMIM:209900 ! Bardet-Biedl Syndrome	OMIM:615989 ! Bardet-Biedl Syndrome 12
+GARD:0010211 ! Bardet-Biedl syndrome 12	Orphanet:110	OMIM:615989 ! Bardet-Biedl Syndrome 12
+GARD:0010214 ! Neonatal intrahepatic cholestasis caused by citrin deficiency	Orphanet:187	OMIM:605814 ! Neonatal intrahepatic cholestasis due to citrin deficiency
+GARD:0010215 ! Adult-onset citrullinemia type II	Orphanet:187	OMIM:603471 ! Citrullinemia type II
+GARD:0010217 ! Spondyloepiphyseal dysplasia Omani type	OMIM:608637	OMIM:143095 ! Spondyloepiphyseal dysplasia, Omani type
+GARD:0010217 ! Spondyloepiphyseal dysplasia Omani type	Orphanet:93280	OMIM:143095 ! Spondyloepiphyseal dysplasia, Omani type
+GARD:0010221 ! Maturity-onset diabetes of the young, type 5	Orphanet:552	OMIM:137920 ! Renal cysts and diabetes syndrome
+GARD:0010232 ! Crohn's disease	OMIM:266600 ! ulcerative colitis	DOID:8778 ! Crohn's disease
+GARD:0010232 ! Crohn's disease	Orphanet:206	DOID:8778 ! Crohn's disease
+GARD:0010236 ! Cataract, posterior polar, 5	OMIM:610634	OMIM:115650 ! Cataract, posterior polar, 5
+GARD:0010238 ! Myostatin-related muscle hypertrophy	OMIM:601788	Orphanet:275534 ! Myostatin-related muscle hypertrophy
+GARD:0010249 ! Bipolar disorder	Orphanet:2986	DOID:3312 ! bipolar disorder,MESH:D001714 ! Bipolar Disorder,OMIM:125480 ! Major Affective Disorder 1,OMIM:309200 ! Major Affective Disorder 2,OMIM:611247 ! Major Affective Disorder 4,OMIM:611535 ! Major Affective Disorder 5,OMIM:611536 ! Major Affective Disorder 6,OMIM:612357 ! Major Affective Disorder 8,OMIM:612371 ! Major Affective Disorder 7,OMIM:612372 ! Major Affective Disorder 9
+GARD:0010252 ! Sjogren syndrome	Orphanet:378	OMIM:270150 ! Sjogren's syndrome
+GARD:0010253 ! Lupus	Orphanet:536	DOID:8857 ! lupus erythematosus,OMIM:152700 ! Lupus Erythematosus, Systemic
+GARD:0010266 ! Hereditary cerebral hemorrhage with amyloidosis	OMIM:609065	OMIM:105150 ! Cerebral Amyloid Angiopathy, Familial,Orphanet:85458 ! Hereditary cerebral hemorrhage with amyloidosis
+GARD:0010281 ! Axenfeld-Rieger syndrome type 1	Orphanet:782	OMIM:180500 ! Axenfeld-Rieger Syndrome, Type 1
+GARD:0010284 ! Acanthocytosis	Orphanet:14	OMIM:200100 ! Abetalipoproteinemia
+GARD:0010299 ! 22q11.2 deletion syndrome	OMIM:611867 ! Chromosome 22q11.2 Deletion Syndrome, Distal	DOID:12583 ! velocardiofacial syndrome,OMIM:125520 ! Cayler cardiofacial syndrome,OMIM:300000 ! X-linked Opitz G/BBB syndrome,Orphanet:306588 ! Autosomal dominant Opitz G/BBB syndrome
+GARD:0010306 ! Syndrome of inappropriate antidiuretic hormone	OMIM:300539 ! Nephrogenic syndrome of inappropriate antidiuresis	DOID:3401 ! inappropriate ADH syndrome
+GARD:0010306 ! Syndrome of inappropriate antidiuretic hormone	Orphanet:83449	DOID:3401 ! inappropriate ADH syndrome
+GARD:0010316 ! Minicore myopathy with external ophthalmoplegia	Orphanet:98905 ! Congenital multicore myopathy with external ophthalmoplegia	OMIM:255320 ! Minicore Myopathy with External Ophthalmoplegia
+GARD:0010323 ! AGAT deficiency	OMIM:602360	OMIM:612718 ! AGAT deficiency
+GARD:0010325 ! Carnitine palmitoyltransferase I deficiency , muscle	OMIM:601987	OMIM:255120 ! Carnitine palmitoyl transferase 1A deficiency
+GARD:0010327 ! 2,4-Dienoyl-CoA reductase deficiency	OMIM:222745	OMIM:616034 ! 2,4-Dienoyl-CoA Reductase Deficiency
+GARD:0010327 ! 2,4-Dienoyl-CoA reductase deficiency	Orphanet:42641	OMIM:616034 ! 2,4-Dienoyl-CoA Reductase Deficiency
+GARD:0010332 ! Tyrosinemia type 3	Orphanet:69723	OMIM:276710 ! Tyrosinemia, Type 3
+GARD:0010339 ! Severe immunodeficiency, autosomal recessive, T-cell negative, B-cell negative, NK cell-positive	OMIM:601457 ! Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, Nk Cell-Positive	OMIM:602450 ! Severe combined immunodeficiency due to DCLRE1C deficiency
+GARD:0010340 ! Mnire's disease	Orphanet:45360 ! MC)niC(re disease	DOID:9849 ! Meniere's disease
+GARD:0010352 ! Familial platelet disorder with associated myeloid malignancy	Orphanet:71290	OMIM:601399 ! Platelet Disorder, Familial, with Associated Myeloid Malignancy
+GARD:0010355 ! Familial congenital fourth cranial nerve palsy	Orphanet:99664	OMIM:136480 ! Familial congenital palsy of trochlear nerve
+GARD:0010358 ! Birk-Barel syndrome	Orphanet:166108 ! Intellectual disability, Birk-Barel type	OMIM:612292 ! Birk-Barel syndrome
+GARD:0010365 ! Sepiapterin reductase deficiency	OMIM:182125	OMIM:612716 ! Dopa-responsive dystonia due to sepiapterin reductase deficiency
+GARD:0010373 ! Multiple familial trichoepithelioma 2	Orphanet:867	OMIM:612099 ! Trichoepithelioma, Multiple Familial, 2
+GARD:0010381 ! Retinitis pigmentosa 3	OMIM:300389	OMIM:300029 ! Retinitis Pigmentosa 3
+GARD:0010404 ! Retinitis Pigmentosa 20	OMIM:180069	OMIM:613794 ! Retinitis Pigmentosa 20
+GARD:0010405 ! Retinitis Pigmentosa 4	OMIM:180380	OMIM:613731 ! Retinitis Pigmentosa 4
+GARD:0010414 ! Goblet cell carcinoid	Orphanet:877	Orphanet:329984 ! Goblet cell carcinoma
+GARD:0010419 ! Myotonic dystrophy	OMIM:160900 ! myotonic dystrophy type 1	DC:0000127 ! Myotonic Dystrophy,MESH:D009223 ! Myotonic Dystrophy
+GARD:0010419 ! Myotonic dystrophy	OMIM:602668 ! myotonic dystrophy type 2	DC:0000127 ! Myotonic Dystrophy,MESH:D009223 ! Myotonic Dystrophy
+GARD:0010433 ! Long QT syndrome 5	OMIM:176261	OMIM:613695 ! Long Qt Syndrome 5
+GARD:0010434 ! Long QT syndrome 6	OMIM:603796	OMIM:613693 ! Long Qt Syndrome 6
+GARD:0010457 ! Permanent neonatal diabetes mellitus	Orphanet:224	Orphanet:99885 ! Permanent neonatal diabetes mellitus
+GARD:0010472 ! L-2-hydroxyglutaric aciduria	Orphanet:19	OMIM:236792 ! L-2-hydroxyglutaric aciduria
+GARD:0010488 ! Leber congenital amaurosis 11	OMIM:146690	OMIM:613837 ! Leber Congenital Amaurosis 11
+GARD:0010490 ! Leber congenital amaurosis 6	OMIM:605446	OMIM:613826 ! Leber Congenital Amaurosis 6
+GARD:0010529 ! Myofibrillar myopathy	OMIM:601419 ! Desminopathy	MESH:C580316 ! Myofibrillar Myopathy
+GARD:0010538 ! Leukodystrophy, dysmyelinating, and spastic paraparesis with or without dystonia	OMIM:612443	OMIM:612319 ! Autosomal recessive spastic paraplegia type 35
+GARD:0010547 ! Syringoma	OMIM:186600 ! Syringomas, Multiple	DOID:2065 ! syringoma
+GARD:0010570 ! Multiple pterygium syndrome Aslan type	OMIM:605203	OMIM:263650 ! Bartsocas-Papas syndrome
+GARD:0010570 ! Multiple pterygium syndrome Aslan type	Orphanet:79446	OMIM:263650 ! Bartsocas-Papas syndrome
+GARD:0010586 ! Loeys-Dietz syndrome type 1B	OMIM:610168 ! Aortic aneurysm, familial thoracic 3	MESH:C567181 ! Loeys-Dietz Syndrome, Type 1b
+GARD:0010586 ! Loeys-Dietz syndrome type 1B	Orphanet:60030	MESH:C567181 ! Loeys-Dietz Syndrome, Type 1b
+GARD:0010588 ! Loeys-Dietz syndrome type 2A	OMIM:608967	MESH:C567156 ! Loeys-Dietz Syndrome, Type 2A,OMIM:609192 ! Furlong syndrome
+GARD:0010588 ! Loeys-Dietz syndrome type 2A	Orphanet:60030	MESH:C567156 ! Loeys-Dietz Syndrome, Type 2A,OMIM:609192 ! Furlong syndrome
+GARD:0010589 ! Loeys-Dietz syndrome type 2B	OMIM:610380	OMIM:610168 ! Aortic aneurysm, familial thoracic 3
+GARD:0010589 ! Loeys-Dietz syndrome type 2B	Orphanet:60030	OMIM:610168 ! Aortic aneurysm, familial thoracic 3
+GARD:0010591 ! Chromosome 1q21.1 duplication syndrome	Orphanet:250994 ! 1q21.1 microduplication syndrome	OMIM:612475 ! Chromosome 1q21.1 Duplication Syndrome
+GARD:0010592 ! Chromosome 19q13.11 deletion syndrome	Orphanet:217346 ! 19q13.11 microdeletion syndrome	OMIM:613026 ! Chromosome 19q13.11 Deletion Syndrome
+GARD:0010602 ! Pituitary hormone deficiency, combined 2	Orphanet:90695	OMIM:262600 ! Pituitary Hormone Deficiency, Combined, 2
+GARD:0010603 ! Pituitary hormone deficiency, combined 3	Orphanet:3228	OMIM:221750 ! Winkelman Bethge Pfeiffer syndrome
+GARD:0010615 ! Hereditary hemorrhagic telangiectasia type 4	Orphanet:774	OMIM:610655 ! Telangiectasia, Hereditary Hemorrhagic, Type 4
+GARD:0010616 ! Spondylometaepiphyseal dysplasia short limb-hand type	Orphanet:93356	OMIM:271665 ! Spondylometaepiphyseal Dysplasia, Short Limb-Hand Type
+GARD:0010621 ! Genochondromatosis	Orphanet:85197 ! Genochondromatosis type 1	OMIM:137360 ! Genochondromatosis
+GARD:0010621 ! Genochondromatosis	Orphanet:93398 ! Genochondromatosis type 2	OMIM:137360 ! Genochondromatosis
+GARD:0010622 ! Metaphyseal dysplasia without hypotrichosis	Orphanet:1838	OMIM:250460 ! Metaphyseal Dysplasia without Hypotrichosis
+GARD:0010623 ! Cleidocranial dysplasia recessive form	Orphanet:1452	OMIM:216330 ! Cleidocranial Dysplasia, Recessive Form
+GARD:0010624 ! Spondyloepiphyseal dysplasia tarda autosomal dominant	Orphanet:93284 ! Spondyloepiphyseal dysplasia tarda	OMIM:184100 ! Spondyloepiphyseal Dysplasia Tarda, Autosomal Dominant
+GARD:0010625 ! Complement component 8 deficiency type 2	OMIM:120960	OMIM:613789 ! Complement Component 8 Deficiency, Type 2
+GARD:0010626 ! Complement component 8 deficiency type 1	OMIM:120950	OMIM:613790 ! Complement Component 8 Deficiency, Type 1
+GARD:0010631 ! Pleomorphic xanthoastrocytoma	Orphanet:94	DOID:4852 ! pleomorphic xanthoastrocytoma
+GARD:0010632 ! Subependymal giant cell astrocytoma	Orphanet:94	DOID:5077 ! subependymal giant cell astrocytoma
+GARD:0010633 ! Myxopapillary ependymoma	OMIM:131445	DOID:5075 ! myxopapillary ependymoma
+GARD:0010652 ! Cone-rod dystrophy X-linked 1	Orphanet:1872	OMIM:304020 ! Cone-Rod Dystrophy, X-Linked, Type 1
+GARD:0010653 ! Cone-rod dystrophy 3	Orphanet:1872	OMIM:604116 ! Cone-Rod Dystrophy 3
+GARD:0010654 ! Cone-rod dystrophy X-linked 3	Orphanet:1872	OMIM:300476 ! Cone-Rod Dystrophy, X-Linked, 3
+GARD:0010657 ! Maturity-onset diabetes of the young,  type 2	Orphanet:552	OMIM:125851 ! Maturity-Onset Diabetes of the Young, Type 2
+GARD:0010658 ! Maturity-onset diabetes of the young, type 3	Orphanet:552	OMIM:600496 ! Maturity-Onset Diabetes of the Young, Type 3
+GARD:0010659 ! Maturity-onset diabetes of the young, type 4	Orphanet:552	OMIM:606392 ! Maturity-Onset Diabetes of the Young, Type 4
+GARD:0010660 ! Maturity-onset diabetes of the young, type 6	Orphanet:552	OMIM:606394 ! MODY, Type 6
+GARD:0010661 ! Maturity-onset diabetes of the young, type 7	Orphanet:552	OMIM:610508 ! Maturity-Onset Diabetes of the Young, Type 7
+GARD:0010662 ! Maturity-onset diabetes of the young, type 8	Orphanet:552	OMIM:609812 ! Maturity-Onset Diabetes of the Young, Type 8, with Exocrine Dysfunction
+GARD:0010663 ! Maturity-onset diabetes of the young, type 9	Orphanet:552	OMIM:612225 ! Maturity-Onset Diabetes Of The Young, Type 9
+GARD:0010676 ! Dehydrated hereditary stomatocytosis pseudohyperkalemia and perinatal edema	OMIM:603528	MESH:C566369 ! Dehydrated Hereditary Stomatocytosis, Pseudohyperkalemia, and Perinatal Edema
+GARD:0010679 ! Medullary cystic kidney disease 2	Orphanet:34149 ! Autosomal dominant medullary cystic kidney disease with or without hyperuricemia	OMIM:603860 ! Medullary Cystic Kidney Disease 2
+GARD:0010695 ! Atrial septal defect ostium primum	OMIM:108800 ! Atrial Septal Defect, Primum Type	Orphanet:99106 ! Atrial septal defect, ostium primum type
+GARD:0010698 ! Noonan syndrome 2	Orphanet:648	OMIM:605275 ! Noonan Syndrome 2
+GARD:0010699 ! Noonan syndrome 4	Orphanet:648	OMIM:610733 ! Noonan Syndrome 4
+GARD:0010700 ! Noonan syndrome 5	Orphanet:648	OMIM:611553 ! Noonan Syndrome 5
+GARD:0010701 ! Noonan syndrome 6	Orphanet:648	OMIM:613224 ! Noonan Syndrome 6
+GARD:0010716 ! 2-methyl-3-hydroxybutyric aciduria	Orphanet:35123	OMIM:300438 ! HSD10 disease
+GARD:0010726 ! Spondylocostal dysostosis 1	OMIM:277300 ! Jarcho-Levin syndrome	OMIM:608681 ! Spondylocostal dysostosis, autosomal recessive
+GARD:0010726 ! Spondylocostal dysostosis 1	Orphanet:2311	OMIM:608681 ! Spondylocostal dysostosis, autosomal recessive
+GARD:0010731 ! McLeod neuroacanthocytosis syndrome	OMIM:314850	OMIM:300842 ! McLeod neuroacanthocytosis syndrome
+GARD:0010751 ! Vitiligo	Orphanet:3435	DOID:12306 ! vitiligo,MESH:D014820 ! Vitiligo,OMIM:606579 ! Vitiligo-Associated Multiple Autoimmune Disease Susceptibility 1
+GARD:0010752 ! Epidermolysis bullosa simplex	OMIM:131760 ! Epidermolysis bullosa simplex, Dowling-Meara type	DOID:4644 ! epidermolysis bullosa simplex
+GARD:0010752 ! Epidermolysis bullosa simplex	OMIM:131800 ! Localized epidermolysis bullosa simplex	DOID:4644 ! epidermolysis bullosa simplex
+GARD:0010752 ! Epidermolysis bullosa simplex	OMIM:131900 ! Generalized epidermolysis bullosa simplex, non-Dowling-Meara type	DOID:4644 ! epidermolysis bullosa simplex
+GARD:0010752 ! Epidermolysis bullosa simplex	OMIM:131960 ! Epidermolysis bullosa simplex with mottled pigmentation	DOID:4644 ! epidermolysis bullosa simplex
+GARD:0010752 ! Epidermolysis bullosa simplex	OMIM:601001 ! Epidermolysis Bullosa Simplex, Autosomal Recessive	DOID:4644 ! epidermolysis bullosa simplex
+GARD:0010754 ! Chromosome 16p13.3 deletion syndrome	OMIM:610543 ! Chromosome 16P13.3 Deletion Syndrome, Proximal	MESH:C566433 ! Chromosome 16p13.3 Deletion Syndrome
+GARD:0010756 ! Multiple epiphyseal dysplasia	OMIM:600969 ! Epiphyseal dysplasia, multiple, 3	DOID:12721 ! multiple epiphyseal dysplasia
+GARD:0010772 ! Kallmann syndrome 4	OMIM:610628 ! Hypogonadotropic Hypogonadism 4 With or Without Anosmia	MESH:C565696 ! Kallmann Syndrome 4
+GARD:0010773 ! Kallmann syndrome 5	OMIM:612370 ! Hypogonadotropic Hypogonadism 5 With or Without Anosmia	MESH:C567220 ! Kallmann Syndrome 5
+GARD:0010774 ! Kallmann syndrome 6	OMIM:612702 ! Hypogonadotropic Hypogonadism 6 With or Without Anosmia	MESH:C567199 ! Kallmann Syndrome 6
+GARD:0010782 ! Stickler syndrome	OMIM:609508 ! Rhegmatogenous Retinal Detachment, Autosomal Dominant	DOID:0080046 ! Stickler syndrome,OMIM:108300 ! Stickler syndrome, type 1
+GARD:0010787 ! Spina bifida occulta	OMIM:182940 ! Neural Tube Defects, Susceptibility to	MESH:D016136 ! Spina Bifida Occulta
+GARD:0010803 ! Lamellar ichthyosis	OMIM:146750 ! Lamellar ichthyosis, autosomal dominant form	DOID:1699 ! congenital ichthyosiform erythroderma,OMIM:242300 ! Ichthyosis, Lamellar
+GARD:0010803 ! Lamellar ichthyosis	OMIM:601277 ! Lamellar ichthyosis, type 2	DOID:1699 ! congenital ichthyosiform erythroderma,OMIM:242300 ! Ichthyosis, Lamellar
+GARD:0010803 ! Lamellar ichthyosis	OMIM:604777 ! Ichthyosis, Nonlamellar and Nonerythrodermic, Congenital, Autosomal Recessive	DOID:1699 ! congenital ichthyosiform erythroderma,OMIM:242300 ! Ichthyosis, Lamellar
+GARD:0010803 ! Lamellar ichthyosis	OMIM:606545 ! Ichthyosis, Lamellar, 5	DOID:1699 ! congenital ichthyosiform erythroderma,OMIM:242300 ! Ichthyosis, Lamellar
+GARD:0010814 ! Thyrotoxic periodic paralysis	OMIM:188580 ! Thyrotoxic Periodic Paralysis, Susceptibility To, 1	DC:0000438 ! Thyrotoxic Periodic Paralysis
+GARD:0010815 ! Prothrombin thrombophilia	OMIM:188050 ! Venous Thrombosis	MESH:C566755 ! Hyperprothrombinemia
+GARD:0010823 ! Proopiomelanocortin deficiency	Orphanet:71526 ! Obesity due to pro-opiomelanocortin deficiency	OMIM:609734 ! Proopiomelanocortin Deficiency
+GARD:0010828 ! Familial hypocalciuric hypercalcemia	OMIM:145981 ! Familial hypocalciuric hypercalcemia type 2	DC:0000209 ! Hypocalciuric Hypercalcemia,OMIM:145980 ! Familial hypocalciuric hypercalcemia type 1
+GARD:0010828 ! Familial hypocalciuric hypercalcemia	OMIM:600740 ! Familial hypocalciuric hypercalcemia type 3	DC:0000209 ! Hypocalciuric Hypercalcemia,OMIM:145980 ! Familial hypocalciuric hypercalcemia type 1
+GARD:0010892 ! Blepharophimosis intellectual disability syndromes	OMIM:249620 ! Blepharophimosis syndrome Ohdo type	OMIM:603736 ! blepharophimosis-intellectual disability syndrome, SBBYS type,Orphanet:293642 ! Blepharophimosis-intellectual disability syndrome
+GARD:0010900 ! Hereditary diffuse gastric cancer	Orphanet:26106	OMIM:137215 ! Stomach Neoplasms
+GARD:0010905 ! Dyskeratosis congenita	OMIM:613987 ! Dyskeratosis Congenita, Autosomal Recessive, 2	DOID:2729 ! dyskeratosis congenita
+GARD:0010954 ! 3-methylcrotonyl-CoA carboxylase deficiency	Orphanet	DOID:0050710 ! 3-Methylcrotonyl-CoA carboxylase deficiency
+GARD:0010956 ! Hyper IgE syndrome	OMIM:147060 ! Job's syndrome	Orphanet:331223 ! Hyper-IgE syndrome
+GARD:0010956 ! Hyper IgE syndrome	OMIM:243700 ! Hyper-Ige Recurrent Infection Syndrome, Autosomal Recessive	Orphanet:331223 ! Hyper-IgE syndrome
+GARD:0010974 ! Familial hemiplegic migraine type 3	Orphanet:569 ! Familial or sporadic hemiplegic migraine	OMIM:609634 ! Migraine, Familial Hemiplegic, 3
+GARD:0010984 ! IL12RB1 deficiency	OMIM:209950 ! Mycobacterium Infections, Nontuberculous	OMIM:614891 ! Immunodeficiency 30
+GARD:0010996 ! Chromosome 17p13.1 deletion syndrome	Orphanet:319171 ! Distal 17p13.1 microdeletion syndrome	OMIM:613776 ! Chromosome 17P13.1 Deletion Syndrome
+GARD:0011925 ! X-linked myotubular myopathy	Orphanet:596	OMIM:310400 ! Myotubular myopathy, X-linked
+GARD:0011982 ! Membranoproliferative glomerulonephritis	Orphanet:54370 ! Primary membranoproliferative glomerulonephritis	DOID:2920 ! membranoproliferative glomerulonephritis
+GARD:0011998 ! Celiac disease	Orphanet:555.0	DOID:10608 ! celiac disease,MESH:D002446 ! Celiac Disease
+GARD:0012027 ! Papillary thyroid carcinoma	Orphanet:146 ! Papillary or follicular thyroid carcinoma	DOID:3969 ! papillary thyroid carcinoma,OMIM:188550 ! Thyroid Carcinoma, Papillary
+GARD:0012059 ! Amish infantile epilepsy syndrome	Orphanet:370933 ! ST3GAL5-CDG	OMIM:609056 ! Amish infantile epilepsy syndrome
+GARD:0012351 ! BRCA1 hereditary breast and ovarian cancer syndrome	Orphanet:145	OMIM:604370 ! Breast-Ovarian Cancer, Familial, Susceptibility To, 1
+GARD:0012361 ! Eosinophil peroxidase deficiency	OMIM:261500	MESH:C564893 ! Presentey Anomaly
+GARD:0012375 ! Idiopathic CD4 positive T-lymphocytopenia	Orphanet:228000 ! Idiopathic CD4 lymphocytopenia	DOID:3109 ! idiopathic CD4-positive T-lymphocytopenia,OMIM:615518 ! Immunodeficiency 13
+GARD:0012533 ! Limb-girdle muscular dystrophy type 2I	Orphanet:34515 ! Autosomal recessive limb-girdle muscular dystrophy type 2I	OMIM:607155 ! Muscular Dystrophy, Limb-Girdle, Type 2I
+GARD:0012538 ! Limb-girdle muscular dystrophy type 2M	Orphanet:206554 ! Autosomal recessive limb-girdle muscular dystrophy type 2M	OMIM:611588 ! Muscular Dystrophy, Limb-Girdle, Type 2M
+GARD:0012632 ! Multiple mitochondrial dysfunctions syndrome	OMIM:605711 ! Multiple Mitochondrial Dysfunctions Syndrome 1	MESH:C565304 ! Multiple Mitochondrial Dysfunctions Syndrome
+GARD:0012632 ! Multiple mitochondrial dysfunctions syndrome	OMIM:614299 ! Multiple Mitochondrial Dysfunctions Syndrome 2	MESH:C565304 ! Multiple Mitochondrial Dysfunctions Syndrome
+GARD:0012632 ! Multiple mitochondrial dysfunctions syndrome	OMIM:615330 ! Multiple Mitochondrial Dysfunctions Syndrome 3	MESH:C565304 ! Multiple Mitochondrial Dysfunctions Syndrome
+GARD:0012632 ! Multiple mitochondrial dysfunctions syndrome	Orphanet:289573 ! Fatal multiple mitochondrial dysfunction syndrome	MESH:C565304 ! Multiple Mitochondrial Dysfunctions Syndrome
+GARD:0012683 ! Distal hereditary motor neuropathy	Orphanet:206713 ! Distal spinal muscular atrophy	DOID:0050582 ! distal hereditary motor neuropathy
+GARD:0012684 ! Familial episodic pain syndrome	OMIM:615040 ! Episodic Pain Syndrome, Familial, 1	DC:0000616 ! Episodic Pain Syndrome, Familial
+GARD:0012684 ! Familial episodic pain syndrome	OMIM:615551 ! Episodic Pain Syndrome, Familial, 2	DC:0000616 ! Episodic Pain Syndrome, Familial
