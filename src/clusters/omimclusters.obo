@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 20:07:2015 13:24
+date: 27:07:2015 11:07
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5786,6 +5786,22 @@ xref: PS:135500
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2015-07-20T13:11:20Z
+
+[Term]
+id: DC:0000709
+name: Ullrich Congenital Muscular Dystrophy
+xref: PS:254090
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2015-07-27T10:53:02Z
+
+[Term]
+id: DC:0000710
+name: Bethlem Myopathy
+xref: PS:158810
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2015-07-27T10:56:13Z
 
 [Term]
 id: OMIM:100050
@@ -18327,8 +18343,9 @@ is_a: DC:0000078 ! Cholestasis
 id: OMIM:243310
 name: Baraitser-Winter Syndrome 1; BRWS1
 alt_id: OMIM:606155
+alt_id: OMIM:608578
+synonym: "Cerebrofrontofacial Syndrome" EXACT []
 synonym: "Fryns-Aftimos Syndrome" EXACT []
-is_a: DC:0000138 ! Disease Cluster
 is_a: DC:0000477 ! Baraitser-Winter Syndrome
 
 [Term]
@@ -19385,8 +19402,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:254090
-name: ULLRICH CONGENITAL MUSCULAR DYSTROPHY
-is_a: DC:0000138 ! Disease Cluster
+name: ULLRICH CONGENITAL MUSCULAR DYSTROPHY 1
+is_a: DC:0000709 ! Ullrich Congenital Muscular Dystrophy
 
 [Term]
 id: OMIM:254100
@@ -31393,11 +31410,6 @@ synonym: "Oculootofacial Dysplasia" EXACT []
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
-id: OMIM:608578
-name: Cerebrofrontofacial Syndrome
-is_a: DC:0000138 ! Disease Cluster
-
-[Term]
 id: OMIM:608579
 name: SEVERE CUTANEOUS ADVERSE REACTION, SUSCEPTIBILITY TO
 is_a: DC:0000138 ! Disease Cluster
@@ -31450,11 +31462,6 @@ is_a: DC:0000267 ! Mandibuloacral Dysplasia with Lipodystrophy
 [Term]
 id: OMIM:608615
 name: Oligodontia-Colorectal Cancer Syndrome
-is_a: DC:0000138 ! Disease Cluster
-
-[Term]
-id: OMIM:608622
-name: Hypertension, Diastolic, Resistance to
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
@@ -44413,4 +44420,29 @@ is_a: DC:0000150 ! Epilepsy, Familial Temporal Lobe
 id: OMIM:616462
 name: Acrofacial Dysostosis, Cincinnati Type; AFDCIN
 is_a: DC:0000463 ! Acrofacial Dysostosis
+
+[Term]
+id: OMIM:616468
+name: Exudative Vitreoretinopathy 6; EVR6
+is_a: DC:0000144 ! Exudative Vitreoretinopathy
+
+[Term]
+id: OMIM:616469
+name: Retinitis Pigmentosa 72; RP72
+is_a: DC:0000386 ! Retinitis Pigmentosa
+
+[Term]
+id: OMIM:616470
+name: Ullrich Congenital Muscular Dystrophy 2; UCMD2
+is_a: DC:0000709 ! Ullrich Congenital Muscular Dystrophy
+
+[Term]
+id: OMIM:616471
+name: Bethlem Myopathy 2; BTHLM2
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616482
+name: Achondroplasia, Severe, with Developmental Delay and Acanthosis Nigricans;
+is_a: DC:0000138 ! Disease Cluster
 

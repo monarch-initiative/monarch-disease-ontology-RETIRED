@@ -404,3 +404,4 @@
 609070	Hemoglobin, High Altitude Adaptation; HALAH
 171200	Thiourea Tasting
 612970	Neuroblastoma Breakpoint Family, Member 17, Pseudogene; NBPF17P
+608622	Hypertension, Diastolic, Resistance to
