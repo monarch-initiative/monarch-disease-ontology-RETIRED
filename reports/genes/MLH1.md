@@ -1,155 +1,98 @@
 
 ## GENE: MLH1
 
-### AllHighlyPenetrant
-
 ### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 2
-
-Score: 1.5918367346938775
-
- * [OMIM:609310 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/OMIM:609310)
-    * [MESH:D055847 -](http://beta.monarchinitiative.org/disease/MESH:D055847)
+ * [OMIM:609310 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/OMIM:609310) Confidence: low/0.1989795918367347
+    * Equiv:[MESH:D055847 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/MESH:D055847)
+    * Syn: "Coca2"
+    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 2"
+    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 2; HNPCC2"
+    * Syn: "HNPCC2"
 
 ### COLORECTAL CANCER, SPORADIC, SUSCEPTIBILITY TO
-
-Score: 1.1600000000000001
-
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
+ * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162) Confidence: low/0.13
+    * Syn: "malignant neoplasm"
+    * Syn: "malignant tumor "
+    * Syn: "primary cancer"
 
 ### Colorectal cancer, non-polyposis
-
-Score: 1.25
-
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
-
-Score: 1.4444444444444444
-
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
-
-Score: 1.4444444444444444
-
- * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500)
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
-
-Score: 1.4444444444444444
-
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
+ * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
+    * Syn: "Colon Cancer"
+    * Syn: "COLORECTAL CANCER; CRC"
+    * Syn: "CRC"
 
 ### Endometrial cancer
-
-Score: 2
-
- * [DOID:1380 endometrial cancer](http://beta.monarchinitiative.org/disease/DOID:1380)
+ * [DOID:1380 endometrial cancer](http://beta.monarchinitiative.org/disease/DOID:1380) Confidence: high
+    * Syn: "endometrial Ca"
+    * Syn: "endometrial neoplasm"
+    * Syn: "malignant endometrial neoplasm"
+    * Syn: "malignant neoplasm of endometrium"
+    * Syn: "neoplasm of endometrium (disorder)"
+    * Syn: "primary malignant neoplasm of endometrium"
+    * Syn: "tumor of Endometrium"
 
 ### Hereditary non-polyposis colon cancer
-
-Score: 1.2244897959183674
-
- * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883)
-
-Score: 1.4400000000000002
-
- * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883)
-
-Score: 2
-
- * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144)
-
-Score: 2
-
- * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144)
+ * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144) Confidence: high
 
 ### Lynch Syndrome
-
-Score: 2
-
- * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883)
+ * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
+    * Syn: "COCA 1"
+    * Syn: "Hereditary Defective Mismatch Repair syndrome"
+    * Syn: "hereditary non-polyposis colon cancer type 1"
+    * Syn: "hereditary nonpolyposis colorectal cancer"
+    * Syn: "hereditary nonpolyposis colorectal neoplasm"
+    * Syn: "HNPCC - hereditary nonpolyposis colon cancer"
 
 ### Lynch syndrome
-
-Score: 2
-
- * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883)
+ * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
+    * Syn: "COCA 1"
+    * Syn: "Hereditary Defective Mismatch Repair syndrome"
+    * Syn: "hereditary non-polyposis colon cancer type 1"
+    * Syn: "hereditary nonpolyposis colorectal cancer"
+    * Syn: "hereditary nonpolyposis colorectal neoplasm"
+    * Syn: "HNPCC - hereditary nonpolyposis colon cancer"
 
 ### Lynch syndrome I
-
-Score: 1.4444444444444444
-
- * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883)
+ * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
+    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
+    * Syn: "Coca1"
+    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
+    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
+    * Syn: "Lynch Syndrome 2"
+    * Syn: "LYNCH SYNDROME I"
 
 ### MISMATCH REPAIR CANCER SYNDROME
-
-Score: 1.4400000000000002
-
- * [OMIM:276300 Turcot syndrome](http://beta.monarchinitiative.org/disease/OMIM:276300)
-    * [MESH:C536928 -](http://beta.monarchinitiative.org/disease/MESH:C536928)
+ * [OMIM:276300 Turcot syndrome](http://beta.monarchinitiative.org/disease/OMIM:276300) Confidence: low/0.18000000000000002
+    * Equiv:[MESH:C536928 Turcot syndrome](http://beta.monarchinitiative.org/disease/MESH:C536928)
+    * Syn: "Brain Tumor-Polyposis Syndrome 1"
+    * Syn: "Btp1 Syndrome"
+    * Syn: "Childhood Cancer Syndrome"
+    * Syn: "Constitutional Mismatch Repair Deficiency Syndrome"
+    * Syn: "MISMATCH REPAIR CANCER SYNDROME; MMRCS"
+    * Syn: "Mismatch Repair Deficiency"
+    * Syn: "Mmr Deficiency"
+    * Syn: "MMRCS"
+    * Syn: "Turcot Syndrome"
 
 ### MUIR-TORRE SYNDROME
-
-Score: 1.3125
-
- * [OMIM:158320 Muir-Torre syndrome](http://beta.monarchinitiative.org/disease/OMIM:158320)
-    * [DOID:0050465 -](http://beta.monarchinitiative.org/disease/DOID:0050465)
-    * [MESH:D055653 -](http://beta.monarchinitiative.org/disease/MESH:D055653)
-
-Score: 1.3125
-
- * [OMIM:158320 Muir-Torre syndrome](http://beta.monarchinitiative.org/disease/OMIM:158320)
-    * [DOID:0050465 -](http://beta.monarchinitiative.org/disease/DOID:0050465)
-    * [MESH:D055653 -](http://beta.monarchinitiative.org/disease/MESH:D055653)
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:158320 Muir-Torre syndrome](http://beta.monarchinitiative.org/disease/OMIM:158320) Confidence: high
+    * Equiv:[DOID:0050465 Muir-Torre syndrome](http://beta.monarchinitiative.org/disease/DOID:0050465)
+    * Equiv:[MESH:D055653 Muir-Torre Syndrome](http://beta.monarchinitiative.org/disease/MESH:D055653)
+    * Syn: "Cutaneous Sebaceous Neoplasms and Keratoacanthomas, Multiple, With Gastrointestinal and Other Carcinomas"
+    * Syn: "MRTES"
+    * Syn: "MUIR-TORRE SYNDROME; MRTES"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### Ovarian cancer
-
-Score: 2
-
- * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394)
+ * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394) Confidence: high
+    * Syn: "malignant Ovarian tumor"
+    * Syn: "malignant tumour of ovary"
+    * Syn: "ovarian neoplasm"
+    * Syn: "ovary neoplasm"
+    * Syn: "primary ovarian cancer"
+    * Syn: "tumor of the Ovary"
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675

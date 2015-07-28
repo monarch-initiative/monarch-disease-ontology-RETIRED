@@ -2,48 +2,30 @@
 ## GENE: MYLK
 
 ### AORTIC ANEURYSM, FAMILIAL THORACIC 7
-
-Score: 1.1600000000000001
-
- * [DOID:3627 aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:3627)
-    * [MESH:D001014 -](http://beta.monarchinitiative.org/disease/MESH:D001014)
-    * [MESH:D001019 -](http://beta.monarchinitiative.org/disease/MESH:D001019)
+ * [OMIM:613780 Aortic Aneurysm, Familial Thoracic 7](http://beta.monarchinitiative.org/disease/OMIM:613780) Confidence: high
+    * Syn: "AAT7"
+    * Syn: "AORTIC ANEURYSM, FAMILIAL THORACIC 7; AAT7"
+    * Syn: "Aortic Dissection, Familial, With or Without Aortic Aneurysm"
 
 ### Abdominal aortic aneurysm
-
-Score: 2
-
- * [DOID:7693 abdominal aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:7693)
+ * [DOID:7693 abdominal aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:7693) Confidence: high
+    * Syn: "AORTIC ANEURYSM, FAMILIAL ABDOMINAL 1"
 
 ### Loeys-Dietz syndrome
-
-Score: 2
-
- * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466)
-
-Score: 2
-
- * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466)
-
-Score: 1.25
-
- * [MESH:D013577 Syndrome](http://beta.monarchinitiative.org/disease/MESH:D013577)
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
 
 ### Marfanoid habitus
-
-Score: 0.75
-
- * [OMIM:248760 Microcephaly - glomerulonephritis - marfanoid habitus](http://beta.monarchinitiative.org/disease/OMIM:248760)
-    * [Orphanet:2172 -](http://beta.monarchinitiative.org/disease/Orphanet:2172)
-    * [MESH:C565411 -](http://beta.monarchinitiative.org/disease/MESH:C565411)
+ * [OMIM:614389 Abortion, Habitual](http://beta.monarchinitiative.org/disease/OMIM:614389) Confidence: low/0.09375
+    * Equiv:[MESH:D000026 Abortion, Habitual](http://beta.monarchinitiative.org/disease/MESH:D000026)
+    * Syn: "Abortion, Spontaneous, Recurrent"
+    * Syn: "Embryonic Loss, Recurrent"
+    * Syn: "Fetal Loss, Recurrent, Susceptibility to"
+    * Syn: "Miscarriage, Recurrent"
+    * Syn: "PREGNANCY LOSS, RECURRENT, SUSCEPTIBILITY TO, 1; RPRGL1"
+    * Syn: "Rpl"
+    * Syn: "Rprgl"
+    * Syn: "RPRGL1"
+    * Syn: "Stillbirth, Recurrent"
 
 ### Thoracic aortic aneurysms and aortic dissections
-
-Score: 1.527777777777778
-
- * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387)
+ * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224

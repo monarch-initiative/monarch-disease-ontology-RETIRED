@@ -1,119 +1,129 @@
 
 ## GENE: GLA
 
-### AllHighlyPenetrant
-
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### FABRY DISEASE
-
-Score: 2
-
- * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500)
-    * [DOID:14499 -](http://beta.monarchinitiative.org/disease/DOID:14499)
-    * [MESH:C567062 -](http://beta.monarchinitiative.org/disease/MESH:C567062)
-    * [MESH:D000795 -](http://beta.monarchinitiative.org/disease/MESH:D000795)
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
 
 ### FABRY DISEASE, CARDIAC VARIANT
-
-Score: 1.25
-
- * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500)
-    * [DOID:14499 -](http://beta.monarchinitiative.org/disease/DOID:14499)
-    * [MESH:C567062 -](http://beta.monarchinitiative.org/disease/MESH:C567062)
-    * [MESH:D000795 -](http://beta.monarchinitiative.org/disease/MESH:D000795)
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
 
 ### Fabry disease
-
-Score: 2
-
- * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500)
-    * [DOID:14499 -](http://beta.monarchinitiative.org/disease/DOID:14499)
-    * [MESH:C567062 -](http://beta.monarchinitiative.org/disease/MESH:C567062)
-    * [MESH:D000795 -](http://beta.monarchinitiative.org/disease/MESH:D000795)
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
 
 ### Fabry''s disease
-
-Score: 2
-
- * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500)
-    * [DOID:14499 -](http://beta.monarchinitiative.org/disease/DOID:14499)
-    * [MESH:C567062 -](http://beta.monarchinitiative.org/disease/MESH:C567062)
-    * [MESH:D000795 -](http://beta.monarchinitiative.org/disease/MESH:D000795)
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
 
 ### Fabry's disease
-
-Score: 2
-
- * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500)
-    * [DOID:14499 -](http://beta.monarchinitiative.org/disease/DOID:14499)
-    * [MESH:C567062 -](http://beta.monarchinitiative.org/disease/MESH:C567062)
-    * [MESH:D000795 -](http://beta.monarchinitiative.org/disease/MESH:D000795)
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
 
 ### Hypertrophic Cardiomyopathy
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### Sudden unexplained death
-
-Score: 1.1111111111111112
-
- * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080)
-    * [MESH:C562490 -](http://beta.monarchinitiative.org/disease/MESH:C562490)
-    * [MESH:C566172 -](http://beta.monarchinitiative.org/disease/MESH:C566172)
-    * [MESH:D003645 -](http://beta.monarchinitiative.org/disease/MESH:D003645)
-    * [MESH:D016757 -](http://beta.monarchinitiative.org/disease/MESH:D016757)
- * [MESH:D003643 Death](http://beta.monarchinitiative.org/disease/MESH:D003643)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:C562490 Cardiac Conduction Defect](http://beta.monarchinitiative.org/disease/MESH:C562490)
+    * Equiv:[MESH:C566172 Familial Sudden Death](http://beta.monarchinitiative.org/disease/MESH:C566172)
+    * Equiv:[MESH:D003645 Death, Sudden](http://beta.monarchinitiative.org/disease/MESH:D003645)
+    * Equiv:[MESH:D016757 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D016757)
+    * Syn: "CARDIAC CONDUCTION DEFECT"
+    * Syn: "Familial Sudden Death"
+    * Syn: "Sudden Cardiac Death"

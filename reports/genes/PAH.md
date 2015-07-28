@@ -1,68 +1,46 @@
 
 ## GENE: PAH
 
-### AllHighlyPenetrant
-
 ### HYPERPHENYLALANINEMIA, NON-PKU
-
-Score: 1.3125
-
- * [OMIM:261600 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/OMIM:261600)
-    * [MESH:C567494 -](http://beta.monarchinitiative.org/disease/MESH:C567494)
-    * [MESH:D017042 -](http://beta.monarchinitiative.org/disease/MESH:D017042)
-
-Score: 1.3125
-
- * [OMIM:261600 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/OMIM:261600)
-    * [MESH:C567494 -](http://beta.monarchinitiative.org/disease/MESH:C567494)
-    * [MESH:D017042 -](http://beta.monarchinitiative.org/disease/MESH:D017042)
-
-Score: 1.25
-
- * [Orphanet:238583 Hyperphenylalaninemia](http://beta.monarchinitiative.org/disease/Orphanet:238583)
-
-Score: 1.25
-
- * [Orphanet:238583 Hyperphenylalaninemia](http://beta.monarchinitiative.org/disease/Orphanet:238583)
+ * [OMIM:261600 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/OMIM:261600) Confidence: low/0.1640625
+    * Equiv:[MESH:C567494 Hyperphenylalaninemia, Non-Pku Mild](http://beta.monarchinitiative.org/disease/MESH:C567494)
+    * Equiv:[MESH:D017042 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/MESH:D017042)
+    * Syn: "Folling Disease"
+    * Syn: "Hpa, Non-Pku Mild"
+    * Syn: "Hyperphenylalaninemia, Non-Pku Mild"
+    * Syn: "Oligophrenia Phenylpyruvica"
+    * Syn: "Pah Deficiency"
+    * Syn: "Phenylalanine Hydroxylase Deficiency"
+    * Syn: "Phenylketonuria, Maternal"
+    * Syn: "PHENYLKETONURIA; PKU"
+    * Syn: "PKU"
 
 ### HYPERPHENYLALANINEMIA, NON-PKU MILD
-
-Score: 2
-
- * [OMIM:261600 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/OMIM:261600)
-    * [MESH:C567494 -](http://beta.monarchinitiative.org/disease/MESH:C567494)
-    * [MESH:D017042 -](http://beta.monarchinitiative.org/disease/MESH:D017042)
-
-Score: 2
-
- * [OMIM:261600 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/OMIM:261600)
-    * [MESH:C567494 -](http://beta.monarchinitiative.org/disease/MESH:C567494)
-    * [MESH:D017042 -](http://beta.monarchinitiative.org/disease/MESH:D017042)
-
-Score: 1.4444444444444444
-
- * [Orphanet:79651 Mild hyperphenylalaninemia](http://beta.monarchinitiative.org/disease/Orphanet:79651)
-
-Score: 1.4444444444444444
-
- * [Orphanet:79651 Mild hyperphenylalaninemia](http://beta.monarchinitiative.org/disease/Orphanet:79651)
+ * [OMIM:261600 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/OMIM:261600) Confidence: high
+    * Equiv:[MESH:C567494 Hyperphenylalaninemia, Non-Pku Mild](http://beta.monarchinitiative.org/disease/MESH:C567494)
+    * Equiv:[MESH:D017042 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/MESH:D017042)
+    * Syn: "Folling Disease"
+    * Syn: "Hpa, Non-Pku Mild"
+    * Syn: "Hyperphenylalaninemia, Non-Pku Mild"
+    * Syn: "Oligophrenia Phenylpyruvica"
+    * Syn: "Pah Deficiency"
+    * Syn: "Phenylalanine Hydroxylase Deficiency"
+    * Syn: "Phenylketonuria, Maternal"
+    * Syn: "PHENYLKETONURIA; PKU"
+    * Syn: "PKU"
 
 ### Hyperphenylalaninaemia
 
 ### PHENYLKETONURIA
-
-Score: 2
-
- * [DOID:9281 phenylketonuria](http://beta.monarchinitiative.org/disease/DOID:9281)
+ * [DOID:9281 phenylketonuria](http://beta.monarchinitiative.org/disease/DOID:9281) Confidence: high
+    * Syn: "FC8lling's disease"
+    * Syn: "maternal phenylketonuria"
+    * Syn: "phenylalaninemia"
+    * Syn: "PKU"
 
 ### Phenylketonuria
-
-Score: 2
-
- * [DOID:9281 phenylketonuria](http://beta.monarchinitiative.org/disease/DOID:9281)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:9281 phenylketonuria](http://beta.monarchinitiative.org/disease/DOID:9281) Confidence: high
+    * Syn: "FC8lling's disease"
+    * Syn: "maternal phenylketonuria"
+    * Syn: "phenylalaninemia"
+    * Syn: "PKU"

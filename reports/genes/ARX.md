@@ -1,136 +1,77 @@
 
 ## GENE: ARX
 
-### AllHighlyPenetrant
-
 ### CORPUS CALLOSUM, AGENESIS OF, WITH ABNORMAL GENITALIA
-
-Score: 1.5918367346938775
-
- * [OMIM:300004 Proud Syndrome](http://beta.monarchinitiative.org/disease/OMIM:300004)
-    * [MESH:C563110 -](http://beta.monarchinitiative.org/disease/MESH:C563110)
+ * [OMIM:300004 Proud Syndrome](http://beta.monarchinitiative.org/disease/OMIM:300004) Confidence: medium
+    * Equiv:[MESH:C563110 Proud Syndrome](http://beta.monarchinitiative.org/disease/MESH:C563110)
+    * Syn: "Acc With Abnormal Genitalia"
+    * Syn: "CORPUS CALLOSUM, AGENESIS OF, WITH ABNORMAL GENITALIA"
+    * Syn: "Proud Syndrome"
 
 ### EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 1
-
-Score: 1.527777777777778
-
- * [OMIM:308350 Epileptic Encephalopathy, Early Infantile, 1](http://beta.monarchinitiative.org/disease/OMIM:308350)
-    * [MESH:C567924 -](http://beta.monarchinitiative.org/disease/MESH:C567924)
+ * [OMIM:308350 Epileptic Encephalopathy, Early Infantile, 1](http://beta.monarchinitiative.org/disease/OMIM:308350) Confidence: high
+    * Equiv:[MESH:C567924 Epileptic Encephalopathy, Early Infantile, 1](http://beta.monarchinitiative.org/disease/MESH:C567924)
+    * Syn: "EIEE1"
+    * Syn: "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 1; EIEE1"
+    * Syn: "Infantile Epileptic-Dyskinetic Encephalopathy"
+    * Syn: "Infantile Spasm Syndrome, X-Linked 1"
+    * Syn: "Ohtahara Syndrome, X-Linked"
+    * Syn: "West Syndrome, X-Linked"
+    * Syn: "Xmesid"
 
 ### HYDRANENCEPHALY WITH ABNORMAL GENITALIA
-
-Score: 1.0625
-
- * [DOID:4626 hydranencephaly](http://beta.monarchinitiative.org/disease/DOID:4626)
-    * [MESH:D006832 -](http://beta.monarchinitiative.org/disease/MESH:D006832)
+ * [OMIM:300004 Proud Syndrome](http://beta.monarchinitiative.org/disease/OMIM:300004) Confidence: low/0.09375
+    * Equiv:[MESH:C563110 Proud Syndrome](http://beta.monarchinitiative.org/disease/MESH:C563110)
+    * Syn: "Acc With Abnormal Genitalia"
+    * Syn: "CORPUS CALLOSUM, AGENESIS OF, WITH ABNORMAL GENITALIA"
+    * Syn: "Proud Syndrome"
 
 ### LISSENCEPHALY, X-LINKED, 2
-
-Score: 1.4400000000000002
-
- * [OMIM:300215 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/OMIM:300215)
-    * [MESH:C564563 -](http://beta.monarchinitiative.org/disease/MESH:C564563)
-
-Score: 1.4400000000000002
-
- * [OMIM:300215 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/OMIM:300215)
-    * [MESH:C564563 -](http://beta.monarchinitiative.org/disease/MESH:C564563)
-
-Score: 1.1111111111111112
-
- * [OMIM:257320 Lissencephaly syndrome, Norman-Roberts type](http://beta.monarchinitiative.org/disease/OMIM:257320)
-    * [Orphanet:89844 -](http://beta.monarchinitiative.org/disease/Orphanet:89844)
-    * [MESH:C537848 -](http://beta.monarchinitiative.org/disease/MESH:C537848)
-
-Score: 1.1111111111111112
-
- * [DOID:0050453 lissencephaly](http://beta.monarchinitiative.org/disease/DOID:0050453)
+ * [OMIM:300215 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/OMIM:300215) Confidence: high
+    * Equiv:[MESH:C564563 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/MESH:C564563)
+    * Syn: "Hydranencephaly and Abnormal Genitalia"
+    * Syn: "LISSENCEPHALY, X-LINKED, 2; LISX2"
+    * Syn: "Lissencephaly, X-Linked, With Ambiguous Genitalia"
+    * Syn: "LISX2"
+    * Syn: "Xlisg"
 
 ### MENTAL RETARDATION, X-LINKED, WITH OR WITHOUT SEIZURES, ARX-RELATED
-
-Score: 1.7355371900826446
-
- * [OMIM:300419 Mental Retardation, X-Linked, With Or Without Seizures, Arx-Related](http://beta.monarchinitiative.org/disease/OMIM:300419)
-    * [MESH:C563150 -](http://beta.monarchinitiative.org/disease/MESH:C563150)
-
-Score: 1.7355371900826446
-
- * [OMIM:300419 Mental Retardation, X-Linked, With Or Without Seizures, Arx-Related](http://beta.monarchinitiative.org/disease/OMIM:300419)
-    * [MESH:C563150 -](http://beta.monarchinitiative.org/disease/MESH:C563150)
-
-Score: 0.8641975308641976
-
- * [OMIM:152950 Microcephaly - lymphedema - chorioretinopathy](http://beta.monarchinitiative.org/disease/OMIM:152950)
-    * [Orphanet:2526 -](http://beta.monarchinitiative.org/disease/Orphanet:2526)
-    * [MESH:C537711 -](http://beta.monarchinitiative.org/disease/MESH:C537711)
-
-Score: 0.8641975308641976
-
- * [OMIM:152950 Microcephaly - lymphedema - chorioretinopathy](http://beta.monarchinitiative.org/disease/OMIM:152950)
-    * [Orphanet:2526 -](http://beta.monarchinitiative.org/disease/Orphanet:2526)
-    * [MESH:C537711 -](http://beta.monarchinitiative.org/disease/MESH:C537711)
+ * [OMIM:300419 Mental Retardation, X-Linked, With Or Without Seizures, Arx-Related](http://beta.monarchinitiative.org/disease/OMIM:300419) Confidence: high
+    * Equiv:[MESH:C563150 Mental Retardation, X-Linked, With Or Without Seizures, Arx-Related](http://beta.monarchinitiative.org/disease/MESH:C563150)
+    * Syn: "Mental Retardation, X-Linked 29"
+    * Syn: "Mental Retardation, X-Linked 32"
+    * Syn: "Mental Retardation, X-Linked 33"
+    * Syn: "Mental Retardation, X-Linked 38"
+    * Syn: "Mental Retardation, X-Linked 43"
+    * Syn: "Mental Retardation, X-Linked 54"
+    * Syn: "Mental Retardation, X-Linked 76"
+    * Syn: "Mental Retardation, X-Linked 87"
+    * Syn: "MENTAL RETARDATION, X-LINKED, WITH OR WITHOUT SEIZURES, ARX-RELATED; MRXARX"
+    * Syn: "MRXARX"
 
 ### PARTINGTON SYNDROME
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [DOID:14744 Partington syndrome](http://beta.monarchinitiative.org/disease/DOID:14744) Confidence: high
+    * Syn: "X-linked Russell-Silver syndrome"
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### epileptic encephalopathy, early infanitle, 1
-
-Score: 1.4400000000000002
-
- * [OMIM:308350 Epileptic Encephalopathy, Early Infantile, 1](http://beta.monarchinitiative.org/disease/OMIM:308350)
-    * [MESH:C567924 -](http://beta.monarchinitiative.org/disease/MESH:C567924)
+ * [OMIM:308350 Epileptic Encephalopathy, Early Infantile, 1](http://beta.monarchinitiative.org/disease/OMIM:308350) Confidence: low/0.18000000000000002
+    * Equiv:[MESH:C567924 Epileptic Encephalopathy, Early Infantile, 1](http://beta.monarchinitiative.org/disease/MESH:C567924)
+    * Syn: "EIEE1"
+    * Syn: "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 1; EIEE1"
+    * Syn: "Infantile Epileptic-Dyskinetic Encephalopathy"
+    * Syn: "Infantile Spasm Syndrome, X-Linked 1"
+    * Syn: "Ohtahara Syndrome, X-Linked"
+    * Syn: "West Syndrome, X-Linked"
+    * Syn: "Xmesid"
 
 ### lissencephaly, X-linked, 2
-
-Score: 2
-
- * [OMIM:300215 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/OMIM:300215)
-    * [MESH:C564563 -](http://beta.monarchinitiative.org/disease/MESH:C564563)
-
-Score: 2
-
- * [OMIM:300215 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/OMIM:300215)
-    * [MESH:C564563 -](http://beta.monarchinitiative.org/disease/MESH:C564563)
-
-Score: 1.1111111111111112
-
- * [OMIM:607432 Lissencephaly](http://beta.monarchinitiative.org/disease/OMIM:607432)
-    * [MESH:D054082 -](http://beta.monarchinitiative.org/disease/MESH:D054082)
- * [DOID:0050453 lissencephaly](http://beta.monarchinitiative.org/disease/DOID:0050453)
-
-Score: 1.1111111111111112
-
- * [DOID:0050453 lissencephaly](http://beta.monarchinitiative.org/disease/DOID:0050453)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:300215 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/OMIM:300215) Confidence: high
+    * Equiv:[MESH:C564563 Lissencephaly, X-Linked, 2](http://beta.monarchinitiative.org/disease/MESH:C564563)
+    * Syn: "Hydranencephaly and Abnormal Genitalia"
+    * Syn: "LISSENCEPHALY, X-LINKED, 2; LISX2"
+    * Syn: "Lissencephaly, X-Linked, With Ambiguous Genitalia"
+    * Syn: "LISX2"
+    * Syn: "Xlisg"

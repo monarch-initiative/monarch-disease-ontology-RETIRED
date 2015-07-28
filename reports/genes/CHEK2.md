@@ -2,97 +2,66 @@
 ## GENE: CHEK2
 
 ### BREAST AND COLORECTAL CANCER, SUSCEPTIBILITY TO
-
-Score: 1.1111111111111112
-
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### BREAST CANCER, SUSCEPTIBILITY TO
-
-Score: 1.25
-
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.15625
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### Breast carcinoma
-
-Score: 2
-
- * [DOID:3459 breast carcinoma](http://beta.monarchinitiative.org/disease/DOID:3459)
-    * [MESH:D001943 -](http://beta.monarchinitiative.org/disease/MESH:D001943)
+ * [DOID:3459 breast carcinoma](http://beta.monarchinitiative.org/disease/DOID:3459) Confidence: high
+    * Equiv:[MESH:D001943 Breast Neoplasms](http://beta.monarchinitiative.org/disease/MESH:D001943)
+    * Syn: "carcinoma OF breast"
+    * Syn: "carcinoma of breast"
+    * Syn: "carcinoma of breast (disorder)"
+    * Syn: "carcinoma of breast NOS (disorder)"
+    * Syn: "Mammary carcinoma"
 
 ### CANCER OF MULTIPLE TYPES, SUSCEPTIBILITY TO
-
-Score: 1.04
-
- * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162)
+ * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162) Confidence: low/0.13
+    * Syn: "malignant neoplasm"
+    * Syn: "malignant tumor "
+    * Syn: "primary cancer"
 
 ### COLORECTAL CANCER, SUSCEPTIBILITY TO
-
-Score: 1.25
-
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
+ * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162) Confidence: low/0.1328125
+    * Syn: "malignant neoplasm"
+    * Syn: "malignant tumor "
+    * Syn: "primary cancer"
 
 ### Familial cancer of breast
-
-Score: 1.5625
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### LI-FRAUMENI SYNDROME 2
-
-Score: 1.4400000000000002
-
- * [OMIM:609265 Li-Fraumeni Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:609265)
-    * [MESH:C563755 -](http://beta.monarchinitiative.org/disease/MESH:C563755)
-
-Score: 1.4400000000000002
-
- * [OMIM:609265 Li-Fraumeni Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:609265)
-    * [MESH:C563755 -](http://beta.monarchinitiative.org/disease/MESH:C563755)
-
-Score: 1.1111111111111112
-
- * [OMIM:120502 Branchiootic Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:120502)
-    * [MESH:C565171 -](http://beta.monarchinitiative.org/disease/MESH:C565171)
-
-Score: 1.1111111111111112
-
- * [OMIM:611554 LEOPARD syndrome, 2](http://beta.monarchinitiative.org/disease/OMIM:611554)
-    * [MESH:C537117 -](http://beta.monarchinitiative.org/disease/MESH:C537117)
- * [OMIM:609220 Bruck syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:609220)
-    * [MESH:C537407 -](http://beta.monarchinitiative.org/disease/MESH:C537407)
- * [OMIM:608091 Joubert syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:608091)
-    * [MESH:C536294 -](http://beta.monarchinitiative.org/disease/MESH:C536294)
- * [OMIM:606744 Seckel syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:606744)
-    * [MESH:C537534 -](http://beta.monarchinitiative.org/disease/MESH:C537534)
- * [OMIM:601499 Rieger syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:601499)
-    * [MESH:C535680 -](http://beta.monarchinitiative.org/disease/MESH:C535680)
- * [MESH:C537426 Arakawa syndrome 2](http://beta.monarchinitiative.org/disease/MESH:C537426)
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:609265 Li-Fraumeni Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:609265) Confidence: high
+    * Equiv:[MESH:C563755 Li-Fraumeni Syndrome 2](http://beta.monarchinitiative.org/disease/MESH:C563755)
+    * Syn: "LFS2"
+    * Syn: "LI-FRAUMENI SYNDROME 2; LFS2"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### OSTEOSARCOMA, SOMATIC
-
-Score: 1.25
-
- * [DOID:3347 osteosarcoma](http://beta.monarchinitiative.org/disease/DOID:3347)
-    * [MESH:D018213 -](http://beta.monarchinitiative.org/disease/MESH:D018213)
+ * [OMIM:259500 Osteosarcoma](http://beta.monarchinitiative.org/disease/OMIM:259500) Confidence: low/0.15625
+    * Equiv:[MESH:D012516 Osteosarcoma](http://beta.monarchinitiative.org/disease/MESH:D012516)
+    * Syn: "OSTEOGENIC SARCOMA"
+    * Syn: "Osteosarcoma"
 
 ### PROSTATE CANCER, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:10283 prostate cancer](http://beta.monarchinitiative.org/disease/DOID:10283)
+ * [OMIM:176807 Prostate Cancer](http://beta.monarchinitiative.org/disease/OMIM:176807) Confidence: low/0.18055555555555555
+    * Syn: "PROSTATE CANCER"
 
 ### PROSTATE CANCER, SUSCEPTIBILITY TO
-
-Score: 1.25
-
- * [DOID:10283 prostate cancer](http://beta.monarchinitiative.org/disease/DOID:10283)
+ * [OMIM:176807 Prostate Cancer](http://beta.monarchinitiative.org/disease/OMIM:176807) Confidence: low/0.15625
+    * Syn: "PROSTATE CANCER"

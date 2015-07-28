@@ -2,40 +2,38 @@
 ## GENE: PALB2
 
 ### BREAST CANCER, SUSCEPTIBILITY TO
-
-Score: 1.25
-
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.15625
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### Breast carcinoma
-
-Score: 2
-
- * [DOID:3459 breast carcinoma](http://beta.monarchinitiative.org/disease/DOID:3459)
-    * [MESH:D001943 -](http://beta.monarchinitiative.org/disease/MESH:D001943)
+ * [DOID:3459 breast carcinoma](http://beta.monarchinitiative.org/disease/DOID:3459) Confidence: high
+    * Equiv:[MESH:D001943 Breast Neoplasms](http://beta.monarchinitiative.org/disease/MESH:D001943)
+    * Syn: "carcinoma OF breast"
+    * Syn: "carcinoma of breast"
+    * Syn: "carcinoma of breast (disorder)"
+    * Syn: "carcinoma of breast NOS (disorder)"
+    * Syn: "Mammary carcinoma"
 
 ### FANCONI ANEMIA, COMPLEMENTATION GROUP N
-
-Score: 1.527777777777778
-
- * [OMIM:610832 Fanconi Anemia, Complementation Group N](http://beta.monarchinitiative.org/disease/OMIM:610832)
-    * [MESH:C563657 -](http://beta.monarchinitiative.org/disease/MESH:C563657)
+ * [OMIM:610832 Fanconi Anemia, Complementation Group N](http://beta.monarchinitiative.org/disease/OMIM:610832) Confidence: high
+    * Equiv:[MESH:C563657 Fanconi Anemia, Complementation Group N](http://beta.monarchinitiative.org/disease/MESH:C563657)
+    * Syn: "FANCN"
+    * Syn: "FANCONI ANEMIA, COMPLEMENTATION GROUP N; FANCN"
 
 ### Familial cancer of breast
-
-Score: 1.5625
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### PANCREATIC CANCER, SUSCEPTIBILITY TO, 3
-
-Score: 1.4400000000000002
-
- * [OMIM:613348 Pancreatic Cancer, Susceptibility To, 3](http://beta.monarchinitiative.org/disease/OMIM:613348)
+ * [OMIM:613348 Pancreatic Cancer, Susceptibility To, 3](http://beta.monarchinitiative.org/disease/OMIM:613348) Confidence: high
+    * Syn: "PANCREATIC CANCER, SUSCEPTIBILITY TO, 3"
+    * Syn: "Pnca3"

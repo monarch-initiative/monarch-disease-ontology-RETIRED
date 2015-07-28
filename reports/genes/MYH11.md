@@ -2,83 +2,64 @@
 ## GENE: MYH11
 
 ### AORTIC ANEURYSM, FAMILIAL THORACIC 4
-
-Score: 1.1600000000000001
-
- * [DOID:3627 aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:3627)
-    * [MESH:D001014 -](http://beta.monarchinitiative.org/disease/MESH:D001014)
-    * [MESH:D001019 -](http://beta.monarchinitiative.org/disease/MESH:D001019)
+ * [OMIM:132900 Aortic aneurysm, familial thoracic 4](http://beta.monarchinitiative.org/disease/OMIM:132900) Confidence: high
+    * Equiv:[MESH:C537784 Aortic aneurysm, familial thoracic 4](http://beta.monarchinitiative.org/disease/MESH:C537784)
+    * Syn: "AAT4"
+    * Syn: "AORTIC ANEURYSM, FAMILIAL THORACIC 4; AAT4"
+    * Syn: "Aortic Aneurysm/Aortic Dissection and Patent Ductus Arteriosus"
+    * Syn: "Faa4"
 
 ### Altered myosin contractile function
-
-Score: 0.5625
-
- * [OMIM:608852 Pulmonary Function](http://beta.monarchinitiative.org/disease/OMIM:608852)
- * [DOID:11371 functional diarrhea](http://beta.monarchinitiative.org/disease/DOID:11371)
- * [DOID:10131 psychologic vaginismus](http://beta.monarchinitiative.org/disease/DOID:10131)
-    * [MESH:D052065 -](http://beta.monarchinitiative.org/disease/MESH:D052065)
+ * [OMIM:608852 Pulmonary Function](http://beta.monarchinitiative.org/disease/OMIM:608852) Confidence: low/0.0703125
+    * Syn: "Lung Function, Accelerated Rate of Decline In, Smoking-Related"
+    * Syn: "Plf"
+    * Syn: "PULMONARY FUNCTION"
 
 ### Aortic aneurysm
-
-Score: 2
-
- * [DOID:3627 aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:3627)
-    * [MESH:D001014 -](http://beta.monarchinitiative.org/disease/MESH:D001014)
-    * [MESH:D001019 -](http://beta.monarchinitiative.org/disease/MESH:D001019)
+ * [DOID:3627 aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:3627) Confidence: high
+    * Equiv:[MESH:D001014 Aortic Aneurysm](http://beta.monarchinitiative.org/disease/MESH:D001014)
+    * Equiv:[MESH:D001019 Aortic Rupture](http://beta.monarchinitiative.org/disease/MESH:D001019)
+    * Syn: "abdominal aortic aneurysm, ruptured"
+    * Syn: "Aortic aneurysm of unspecified site, ruptured"
+    * Syn: "Aortic aneurysm of unspecified site, ruptured (disorder)"
+    * Syn: "Ruptured abdominal Aortic Aneurysm"
+    * Syn: "ruptured abdominal aortic aneurysm"
+    * Syn: "Ruptured abdominal aortic aneurysm (disorder)"
+    * Syn: "Ruptured Aortic Aneurysm"
+    * Syn: "ruptured aortic aneurysm"
+    * Syn: "Ruptured aortic aneurysm (disorder)"
+    * Syn: "Ruptured aortic aneurysm NOS"
+    * Syn: "Ruptured aortic aneurysm NOS (disorder)"
+    * Syn: "Ruptured Thoracic Aneurysm"
+    * Syn: "ruptured thoracic aortic aneurysm"
+    * Syn: "Ruptured thoracic aortic aneurysm (disorder)"
+    * Syn: "ruptured thoracoabdominal aortic aneurysm"
+    * Syn: "Thoracic aortic aneurysm which has ruptured (disorder)"
+    * Syn: "Thoracic aortic aneurysm, ruptured"
+    * Syn: "Thoracoabdominal aortic aneurysm, ruptured (disorder)"
 
 ### Aortic aneurysm, familial thoracic 4
-
-Score: 2
-
- * [OMIM:132900 Aortic aneurysm, familial thoracic 4](http://beta.monarchinitiative.org/disease/OMIM:132900)
-    * [MESH:C537784 -](http://beta.monarchinitiative.org/disease/MESH:C537784)
+ * [OMIM:132900 Aortic aneurysm, familial thoracic 4](http://beta.monarchinitiative.org/disease/OMIM:132900) Confidence: high
+    * Equiv:[MESH:C537784 Aortic aneurysm, familial thoracic 4](http://beta.monarchinitiative.org/disease/MESH:C537784)
+    * Syn: "AAT4"
+    * Syn: "AORTIC ANEURYSM, FAMILIAL THORACIC 4; AAT4"
+    * Syn: "Aortic Aneurysm/Aortic Dissection and Patent Ductus Arteriosus"
+    * Syn: "Faa4"
 
 ### Aortopathy
 
 ### Loeys-Dietz syndrome
-
-Score: 2
-
- * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466)
-
-Score: 2
-
- * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466)
-
-Score: 1.25
-
- * [MESH:D013577 Syndrome](http://beta.monarchinitiative.org/disease/MESH:D013577)
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
 
 ### Marfan's syndrome
-
-Score: 2
-
- * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323)
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high
+    * Syn: "Marfan's syndrome"
 
 ### Megacystis, microcolon, hypoperistalsis syndrome
-
-Score: 1.4400000000000002
-
- * [Orphanet:2241 Megacystis-microcolon-intestinal hypoperistalsis syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2241)
- * [OMIM:155310 Familial visceral myopathy](http://beta.monarchinitiative.org/disease/OMIM:155310)
-    * [Orphanet:2604 -](http://beta.monarchinitiative.org/disease/Orphanet:2604)
-    * [MESH:C562574 -](http://beta.monarchinitiative.org/disease/MESH:C562574)
-    * [MESH:C563597 -](http://beta.monarchinitiative.org/disease/MESH:C563597)
- * [MESH:C536138 Megacystis microcolon intestinal hypoperistalsis syndrome](http://beta.monarchinitiative.org/disease/MESH:C536138)
+ * [Orphanet:2241 Megacystis-microcolon-intestinal hypoperistalsis syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2241) Confidence: low/0.18000000000000002
 
 ### Thoracic aortic aneurysms and aortic dissections
-
-Score: 1.527777777777778
-
- * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387)
+ * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224
 
 ### Thoracic aortic aneurysms and dissections
-
-Score: 1.527777777777778
-
- * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387)
+ * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224

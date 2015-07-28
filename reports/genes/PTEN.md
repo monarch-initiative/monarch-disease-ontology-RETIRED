@@ -1,239 +1,127 @@
 
 ## GENE: PTEN
 
-### AllHighlyPenetrant
-
 ### BANNAYAN-RILEY-RUVALCABA SYNDROME
-
-Score: 1.4400000000000002
-
- * [OMIM:153480 Bannayan-Riley-Ruvalcaba syndrome](http://beta.monarchinitiative.org/disease/OMIM:153480)
-    * [DOID:0050657 -](http://beta.monarchinitiative.org/disease/DOID:0050657)
-
-Score: 1.4400000000000002
-
- * [OMIM:153480 Bannayan-Riley-Ruvalcaba syndrome](http://beta.monarchinitiative.org/disease/OMIM:153480)
-    * [DOID:0050657 -](http://beta.monarchinitiative.org/disease/DOID:0050657)
-
-Score: 1.0625
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:153480 Bannayan-Riley-Ruvalcaba syndrome](http://beta.monarchinitiative.org/disease/OMIM:153480) Confidence: high
+    * Equiv:[DOID:0050657 Bannayan-Riley-Ruvalcaba syndrome](http://beta.monarchinitiative.org/disease/DOID:0050657)
+    * Syn: "BANNAYAN-RILEY-RUVALCABA SYNDROME; BRRS"
+    * Syn: "BANNAYAN-ZONANA SYNDROME"
+    * Syn: "Bannayan-Zonana Syndrome"
+    * Syn: "BRRS"
+    * Syn: "Macrocephaly, Multiple Lipomas, and Hemangiomata"
+    * Syn: "Macrocephaly, Pseudopapilledema, and Multiple Hemangiomata"
+    * Syn: "RILEY-SMITH SYNDROME"
+    * Syn: "Riley-Smith Syndrome"
+    * Syn: "RUVALCABA-MYHRE-SMITH SYNDROME"
+    * Syn: "Ruvalcaba-Myhre-Smith Syndrome"
 
 ### COWDEN DISEASE 1
-
-Score: 1.1111111111111112
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [OMIM:300009 Dent disease 1](http://beta.monarchinitiative.org/disease/OMIM:300009)
-    * [MESH:C538212 -](http://beta.monarchinitiative.org/disease/MESH:C538212)
- * [OMIM:252350 Moyamoya disease 1](http://beta.monarchinitiative.org/disease/OMIM:252350)
-    * [MESH:C536991 -](http://beta.monarchinitiative.org/disease/MESH:C536991)
-    * [MESH:D009072 -](http://beta.monarchinitiative.org/disease/MESH:D009072)
- * [OMIM:248200 Stargardt disease 1](http://beta.monarchinitiative.org/disease/OMIM:248200)
-    * [MESH:C535804 -](http://beta.monarchinitiative.org/disease/MESH:C535804)
-    * [MESH:C565741 -](http://beta.monarchinitiative.org/disease/MESH:C565741)
- * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623)
-    * [MESH:C538540 -](http://beta.monarchinitiative.org/disease/MESH:C538540)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
- * [DOID:0050699 Dent disease](http://beta.monarchinitiative.org/disease/DOID:0050699)
-    * [MESH:D057973 -](http://beta.monarchinitiative.org/disease/MESH:D057973)
+ * [OMIM:300009 Dent disease 1](http://beta.monarchinitiative.org/disease/OMIM:300009) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:C538212 Dent disease 1](http://beta.monarchinitiative.org/disease/MESH:C538212)
+    * Syn: "DENT DISEASE 1"
+    * Syn: "Nephrolithiasis 2"
+    * Syn: "Nephrolithiasis, Hypercalciuric, X-Linked"
+    * Syn: "Urolithiasis, Hypercalciuric, X-Linked"
 
 ### Cowden disease
-
-Score: 2
-
- * [DOID:6457 Cowden disease](http://beta.monarchinitiative.org/disease/DOID:6457)
+ * [DOID:6457 Cowden disease](http://beta.monarchinitiative.org/disease/DOID:6457) Confidence: high
+    * Syn: "dysplastic Gangliocytoma of Cerebellum"
+    * Syn: "Lhermitte-Duclos disease (disorder)"
+    * Syn: "multiple hamartoma syndrome"
 
 ### Cowden syndrome
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [MESH:D013577 Syndrome](http://beta.monarchinitiative.org/disease/MESH:D013577) Confidence: low/0.15625
 
 ### ENDOMETRIAL CARCINOMA
-
-Score: 2
-
- * [DOID:2871 endometrial carcinoma](http://beta.monarchinitiative.org/disease/DOID:2871)
-    * [MESH:D016889 -](http://beta.monarchinitiative.org/disease/MESH:D016889)
-    * [MESH:D018269 -](http://beta.monarchinitiative.org/disease/MESH:D018269)
+ * [DOID:2871 endometrial carcinoma](http://beta.monarchinitiative.org/disease/DOID:2871) Confidence: high
+    * Equiv:[MESH:D016889 Endometrial Neoplasms](http://beta.monarchinitiative.org/disease/MESH:D016889)
+    * Equiv:[MESH:D018269 Carcinoma, Endometrioid](http://beta.monarchinitiative.org/disease/MESH:D018269)
+    * Syn: "carcinoma of the Endometrium"
+    * Syn: "endometrioid carcinoma"
+    * Syn: "endometrioid carcinoma of female Reproductive system"
 
 ### GLIOMA SUSCEPTIBILITY 2
-
-Score: 1.3125
-
- * [OMIM:613028 Glioma Susceptibility 2](http://beta.monarchinitiative.org/disease/OMIM:613028)
+ * [OMIM:613028 Glioma Susceptibility 2](http://beta.monarchinitiative.org/disease/OMIM:613028) Confidence: high
+    * Syn: "GLIOMA SUSCEPTIBILITY 2; GLM2"
+    * Syn: "GLM2"
 
 ### Hereditary cancer-predisposing syndrome
-
-Score: 1.3125
-
- * [Orphanet:140162 Inherited cancer-predisposing syndrome](http://beta.monarchinitiative.org/disease/Orphanet:140162)
-
-Score: 1.3125
-
- * [Orphanet:140162 Inherited cancer-predisposing syndrome](http://beta.monarchinitiative.org/disease/Orphanet:140162)
-
-Score: 1.3125
-
- * [Orphanet:140162 Inherited cancer-predisposing syndrome](http://beta.monarchinitiative.org/disease/Orphanet:140162)
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [Orphanet:140162 Inherited cancer-predisposing syndrome](http://beta.monarchinitiative.org/disease/Orphanet:140162) Confidence: low/0.1640625
 
 ### LHERMITTE-DUCLOS DISEASE
-
-Score: 1.1111111111111112
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.25
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.1111111111111112
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.25
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
+ * [Orphanet:65285 Lhermitte-Duclos disease](http://beta.monarchinitiative.org/disease/Orphanet:65285) Confidence: high
 
 ### MACROCEPHALY/AUTISM SYNDROME
-
-Score: 1.3125
-
- * [OMIM:605309 Macrocephaly-autism syndrome](http://beta.monarchinitiative.org/disease/OMIM:605309)
-    * [Orphanet:210548 -](http://beta.monarchinitiative.org/disease/Orphanet:210548)
-    * [MESH:C565342 -](http://beta.monarchinitiative.org/disease/MESH:C565342)
+ * [OMIM:605309 Macrocephaly-autism syndrome](http://beta.monarchinitiative.org/disease/OMIM:605309) Confidence: high
+    * Equiv:[Orphanet:210548 Macrocephaly-autism syndrome](http://beta.monarchinitiative.org/disease/Orphanet:210548)
+    * Equiv:[MESH:C565342 Macrocephaly Autism Syndrome](http://beta.monarchinitiative.org/disease/MESH:C565342)
+    * Syn: "MACROCEPHALY/AUTISM SYNDROME"
 
 ### MALIGNANT MELANOMA, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:1909 melanoma](http://beta.monarchinitiative.org/disease/DOID:1909)
+ * [OMIM:155600 Melanoma](http://beta.monarchinitiative.org/disease/OMIM:155600) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:C562393 Melanoma, Cutaneous Malignant](http://beta.monarchinitiative.org/disease/MESH:C562393)
+    * Equiv:[MESH:D008545 Melanoma](http://beta.monarchinitiative.org/disease/MESH:D008545)
+    * Syn: "B-K Mole Syndrome"
+    * Syn: "CMM1"
+    * Syn: "Dysplastic Nevus Syndrome, Hereditary"
+    * Syn: "Familial Atypical Mole-Malignant Melanoma Syndrome"
+    * Syn: "Melanoma, Cutaneous Malignant"
+    * Syn: "MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 1; CMM1"
+    * Syn: "Melanoma, Familial"
+    * Syn: "Melanoma, Malignant"
 
 ### MENINGIOMA
-
-Score: 2
-
- * [DOID:3565 meningioma](http://beta.monarchinitiative.org/disease/DOID:3565)
+ * [DOID:3565 meningioma](http://beta.monarchinitiative.org/disease/DOID:3565) Confidence: high
+    * Syn: "intracranial meningioma"
+    * Syn: "meningeal neoplasm"
+    * Syn: "meningothelial cell tumor"
+    * Syn: "neoplasm of the meninges"
+    * Syn: "primary Meningeal tumor"
+    * Syn: "supratentorial meningioma"
 
 ### Macrocephaly/autism syndrome
-
-Score: 1.5625
-
- * [OMIM:605309 Macrocephaly-autism syndrome](http://beta.monarchinitiative.org/disease/OMIM:605309)
-    * [Orphanet:210548 -](http://beta.monarchinitiative.org/disease/Orphanet:210548)
-    * [MESH:C565342 -](http://beta.monarchinitiative.org/disease/MESH:C565342)
+ * [OMIM:605309 Macrocephaly-autism syndrome](http://beta.monarchinitiative.org/disease/OMIM:605309) Confidence: high
+    * Equiv:[Orphanet:210548 Macrocephaly-autism syndrome](http://beta.monarchinitiative.org/disease/Orphanet:210548)
+    * Equiv:[MESH:C565342 Macrocephaly Autism Syndrome](http://beta.monarchinitiative.org/disease/MESH:C565342)
+    * Syn: "MACROCEPHALY/AUTISM SYNDROME"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### PROSTATE CANCER, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:10283 prostate cancer](http://beta.monarchinitiative.org/disease/DOID:10283)
+ * [OMIM:176807 Prostate Cancer](http://beta.monarchinitiative.org/disease/OMIM:176807) Confidence: low/0.18055555555555555
+    * Syn: "PROSTATE CANCER"
 
 ### PROTEUS-LIKE SYNDROME
-
-Score: 1.4444444444444444
-
- * [OMIM:176920 Proteus syndrome](http://beta.monarchinitiative.org/disease/OMIM:176920)
-    * [DOID:13482 -](http://beta.monarchinitiative.org/disease/DOID:13482)
-    * [MESH:D016715 -](http://beta.monarchinitiative.org/disease/MESH:D016715)
-
-Score: 1.4444444444444444
-
- * [OMIM:176920 Proteus syndrome](http://beta.monarchinitiative.org/disease/OMIM:176920)
-    * [DOID:13482 -](http://beta.monarchinitiative.org/disease/DOID:13482)
-    * [MESH:D016715 -](http://beta.monarchinitiative.org/disease/MESH:D016715)
-
-Score: 1.1111111111111112
-
- * [Orphanet:99807 PEHO-like syndrome](http://beta.monarchinitiative.org/disease/Orphanet:99807)
- * [Orphanet:3105 Robinow-like syndrome](http://beta.monarchinitiative.org/disease/Orphanet:3105)
- * [Orphanet:2969 Proteus-like syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2969)
- * [Orphanet:2306 Isotretinoin-like syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2306)
- * [OMIM:260650 Pellagra like syndrome](http://beta.monarchinitiative.org/disease/OMIM:260650)
-    * [MESH:C538352 -](http://beta.monarchinitiative.org/disease/MESH:C538352)
- * [OMIM:227850 Fanconi like syndrome](http://beta.monarchinitiative.org/disease/OMIM:227850)
-    * [MESH:C536855 -](http://beta.monarchinitiative.org/disease/MESH:C536855)
- * [OMIM:208200 Arthrogryposis-like syndrome](http://beta.monarchinitiative.org/disease/OMIM:208200)
-    * [Orphanet:1149 -](http://beta.monarchinitiative.org/disease/Orphanet:1149)
-    * [MESH:C538124 -](http://beta.monarchinitiative.org/disease/MESH:C538124)
- * [MESH:C537846 Noonan like syndrome](http://beta.monarchinitiative.org/disease/MESH:C537846)
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [Orphanet:2969 Proteus-like syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2969) Confidence: high
 
 ### PTEN HAMARTOMA TUMOR SYNDROME
-
-Score: 1.3125
-
- * [Orphanet:306498 PTEN hamartoma tumor syndrome](http://beta.monarchinitiative.org/disease/Orphanet:306498)
+ * [Orphanet:306498 PTEN hamartoma tumor syndrome](http://beta.monarchinitiative.org/disease/Orphanet:306498) Confidence: high
 
 ### PTEN HAMARTOMA TUMOR SYNDROME WITH GRANULAR CELL TUMOR
-
-Score: 1.5918367346938775
-
- * [MESH:C566636 Pten Hamartoma Tumor Syndrome With Granular Cell Tumor](http://beta.monarchinitiative.org/disease/MESH:C566636)
+ * [MESH:C566636 Pten Hamartoma Tumor Syndrome With Granular Cell Tumor](http://beta.monarchinitiative.org/disease/MESH:C566636) Confidence: high
 
 ### PTEN Hamartomatous Tumour Syndrome
-
-Score: 1.0625
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [MESH:D013577 Syndrome](http://beta.monarchinitiative.org/disease/MESH:D013577) Confidence: low/0.1328125
 
 ### PTEN hamartoma tumor syndrome
-
-Score: 2
-
- * [Orphanet:306498 PTEN hamartoma tumor syndrome](http://beta.monarchinitiative.org/disease/Orphanet:306498)
+ * [Orphanet:306498 PTEN hamartoma tumor syndrome](http://beta.monarchinitiative.org/disease/Orphanet:306498) Confidence: high
 
 ### SQUAMOUS CELL CARCINOMA, HEAD AND NECK, SOMATIC
-
-Score: 1.7346938775510203
-
- * [OMIM:275355 head and neck squamous cell carcinoma](http://beta.monarchinitiative.org/disease/OMIM:275355)
-    * [DOID:5520 -](http://beta.monarchinitiative.org/disease/DOID:5520)
-    * [MESH:C535575 -](http://beta.monarchinitiative.org/disease/MESH:C535575)
+ * [OMIM:275355 head and neck squamous cell carcinoma](http://beta.monarchinitiative.org/disease/OMIM:275355) Confidence: low/0.1989795918367347
+    * Equiv:[DOID:5520 head and neck squamous cell carcinoma](http://beta.monarchinitiative.org/disease/DOID:5520)
+    * Equiv:[MESH:C535575 Carcinoma, squamous cell of head and neck](http://beta.monarchinitiative.org/disease/MESH:C535575)
+    * Syn: "carcinoma of the head and neck"
+    * Syn: "HNSCC"
+    * Syn: "squamous cell carcinoma of the head and neck"
+    * Syn: "SQUAMOUS CELL CARCINOMA, HEAD AND NECK; HNSCC"
+    * Syn: "squamous cell carcinomas of head and neck"
 
 ### VATER ASSOCIATION WITH MACROCEPHALY AND VENTRICULOMEGALY
-
-Score: 1.1111111111111112
-
- * [OMIM:192350 VATER association](http://beta.monarchinitiative.org/disease/OMIM:192350)
-    * [MESH:C536495 -](http://beta.monarchinitiative.org/disease/MESH:C536495)
-    * [MESH:C536534 -](http://beta.monarchinitiative.org/disease/MESH:C536534)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:276950 VACTERL Association With Hydrocephalus](http://beta.monarchinitiative.org/disease/OMIM:276950) Confidence: high
+    * Equiv:[MESH:C564751 VACTERL Association With Hydrocephalus](http://beta.monarchinitiative.org/disease/MESH:C564751)
+    * Equiv:[MESH:C564752 Vater Association With Hydrocephalus](http://beta.monarchinitiative.org/disease/MESH:C564752)
+    * Syn: "VACTERL ASSOCIATION WITH HYDROCEPHALUS"
+    * Syn: "Vacterl-H"
+    * Syn: "Vater Association With Hydrocephalus"
+    * Syn: "Vater Association With Macrocephaly and Ventriculomegaly"

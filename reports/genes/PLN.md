@@ -2,88 +2,73 @@
 ## GENE: PLN
 
 ### Arrhythmogenic right ventricular cardiomyopathy
-
-Score: 2
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### CARDIOMYOPATHY, DILATED, 1P
-
-Score: 1.4400000000000002
-
- * [OMIM:609909 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/OMIM:609909)
-    * [MESH:C563690 -](http://beta.monarchinitiative.org/disease/MESH:C563690)
+ * [OMIM:609909 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/OMIM:609909) Confidence: high
+    * Equiv:[MESH:C563690 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/MESH:C563690)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1P; CMD1P"
+    * Syn: "CMD1P"
 
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC 18
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [OMIM:613874 Cardiomyopathy, Familial Hypertrophic, 18](http://beta.monarchinitiative.org/disease/OMIM:613874) Confidence: high
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 18; CMH18"
+    * Syn: "CMH18"
 
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 18
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [OMIM:613874 Cardiomyopathy, Familial Hypertrophic, 18](http://beta.monarchinitiative.org/disease/OMIM:613874) Confidence: high
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 18; CMH18"
+    * Syn: "CMH18"
 
 ### Cardiac Arrest
-
-Score: 2
-
- * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319)
-    * [MESH:D006323 -](http://beta.monarchinitiative.org/disease/MESH:D006323)
+ * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319) Confidence: high
+    * Equiv:[MESH:D006323 Heart Arrest](http://beta.monarchinitiative.org/disease/MESH:D006323)
+    * Syn: "cardiopulmonary arrest"
+    * Syn: "circulatory arrest"
 
 ### Cardiomyopathy, dilated
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Cardiomyopathy, dilated, 1P
-
-Score: 2
-
- * [OMIM:609909 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/OMIM:609909)
-    * [MESH:C563690 -](http://beta.monarchinitiative.org/disease/MESH:C563690)
+ * [OMIM:609909 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/OMIM:609909) Confidence: high
+    * Equiv:[MESH:C563690 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/MESH:C563690)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1P; CMD1P"
+    * Syn: "CMD1P"
 
 ### Dilated cardiomyopathy 1P
-
-Score: 2
-
- * [OMIM:609909 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/OMIM:609909)
-    * [MESH:C563690 -](http://beta.monarchinitiative.org/disease/MESH:C563690)
+ * [OMIM:609909 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/OMIM:609909) Confidence: high
+    * Equiv:[MESH:C563690 Cardiomyopathy, Dilated, 1p](http://beta.monarchinitiative.org/disease/MESH:C563690)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1P; CMD1P"
+    * Syn: "CMD1P"
 
 ### Familial hypertrophic cardiomyopathy 18
-
-Score: 2
-
- * [OMIM:613874 Cardiomyopathy, Familial Hypertrophic, 18](http://beta.monarchinitiative.org/disease/OMIM:613874)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:613874 Cardiomyopathy, Familial Hypertrophic, 18](http://beta.monarchinitiative.org/disease/OMIM:613874) Confidence: high
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 18; CMH18"
+    * Syn: "CMH18"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Sudden cardiac death
-
-Score: 2
-
- * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080)
-    * [MESH:C562490 -](http://beta.monarchinitiative.org/disease/MESH:C562490)
-    * [MESH:C566172 -](http://beta.monarchinitiative.org/disease/MESH:C566172)
-    * [MESH:D003645 -](http://beta.monarchinitiative.org/disease/MESH:D003645)
-    * [MESH:D016757 -](http://beta.monarchinitiative.org/disease/MESH:D016757)
+ * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080) Confidence: high
+    * Equiv:[MESH:C562490 Cardiac Conduction Defect](http://beta.monarchinitiative.org/disease/MESH:C562490)
+    * Equiv:[MESH:C566172 Familial Sudden Death](http://beta.monarchinitiative.org/disease/MESH:C566172)
+    * Equiv:[MESH:D003645 Death, Sudden](http://beta.monarchinitiative.org/disease/MESH:D003645)
+    * Equiv:[MESH:D016757 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D016757)
+    * Syn: "CARDIAC CONDUCTION DEFECT"
+    * Syn: "Familial Sudden Death"
+    * Syn: "Sudden Cardiac Death"

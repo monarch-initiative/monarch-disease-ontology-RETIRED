@@ -2,29 +2,13 @@
 ## GENE: MYOZ2
 
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 16
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [OMIM:613838 Cardiomyopathy, Familial Hypertrophic, 16](http://beta.monarchinitiative.org/disease/OMIM:613838) Confidence: high
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 16; CMH16"
+    * Syn: "CMH16"
 
 ### Hypertrophic cardiomyopathy
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"

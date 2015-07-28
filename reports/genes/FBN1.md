@@ -2,225 +2,173 @@
 ## GENE: FBN1
 
 ### ACROMICRIC DYSPLASIA
-
-Score: 1.1111111111111112
-
- * [OMIM:102370 Acromicric dysplasia](http://beta.monarchinitiative.org/disease/OMIM:102370)
-    * [Orphanet:969 -](http://beta.monarchinitiative.org/disease/Orphanet:969)
-    * [MESH:C535662 -](http://beta.monarchinitiative.org/disease/MESH:C535662)
+ * [OMIM:102370 Acromicric dysplasia](http://beta.monarchinitiative.org/disease/OMIM:102370) Confidence: high
+    * Equiv:[Orphanet:969 Acromicric dysplasia](http://beta.monarchinitiative.org/disease/Orphanet:969)
+    * Equiv:[MESH:C535662 Acromicric dysplasia](http://beta.monarchinitiative.org/disease/MESH:C535662)
+    * Syn: "ACMICD"
+    * Syn: "ACROMICRIC DYSPLASIA; ACMICD"
 
 ### ECTOPIA LENTIS 1, ISOLATED, AUTOSOMAL DOMINANT
-
-Score: 1.5918367346938775
-
- * [OMIM:129600 Ectopia Lentis 1, Isolated, Autosomal Dominant](http://beta.monarchinitiative.org/disease/OMIM:129600)
+ * [OMIM:129600 Ectopia Lentis 1, Isolated, Autosomal Dominant](http://beta.monarchinitiative.org/disease/OMIM:129600) Confidence: high
+    * Syn: "ECTOL1"
+    * Syn: "ECTOPIA LENTIS 1, ISOLATED, AUTOSOMAL DOMINANT; ECTOL1"
 
 ### FNB1 POLYMORPHISM
+ * [OMIM:107750 Arbitrary Restriction Polymorphism 1](http://beta.monarchinitiative.org/disease/OMIM:107750) Confidence: low/0.0390625
+    * Syn: "Anonymous Restriction Polymorphism 1"
+    * Syn: "ARBITRARY RESTRICTION POLYMORPHISM 1"
+    * Syn: "Arp-14A"
+    * Syn: "Restriction Fragment Length Polymorphism 14A"
+    * Syn: "Rflp-14A"
 
 ### Familial Ectopia Lentis
-
-Score: 2
-
- * [MESH:C536184 Familial ectopia lentis](http://beta.monarchinitiative.org/disease/MESH:C536184)
-    * [DC:0000511 -](http://beta.monarchinitiative.org/disease/DC:0000511)
+ * [MESH:C536184 Familial ectopia lentis](http://beta.monarchinitiative.org/disease/MESH:C536184) Confidence: high
+    * Equiv:[DC:0000511 -](http://beta.monarchinitiative.org/disease/DC:0000511)
 
 ### Familial Thoracic Aortic Aneurysm
-
-Score: 2
-
- * [OMIM:607086 Aortic Aneurysm, Thoracic](http://beta.monarchinitiative.org/disease/OMIM:607086)
-    * [MESH:C562834 -](http://beta.monarchinitiative.org/disease/MESH:C562834)
-    * [MESH:D017545 -](http://beta.monarchinitiative.org/disease/MESH:D017545)
+ * [OMIM:607086 Aortic Aneurysm, Thoracic](http://beta.monarchinitiative.org/disease/OMIM:607086) Confidence: high
+    * Equiv:[MESH:C562834 Aortic Aneurysm, Familial Thoracic 1](http://beta.monarchinitiative.org/disease/MESH:C562834)
+    * Equiv:[MESH:D017545 Aortic Aneurysm, Thoracic](http://beta.monarchinitiative.org/disease/MESH:D017545)
+    * Syn: "AAT1"
+    * Syn: "Aneurysm, Thoracic Aortic"
+    * Syn: "Annuloaortic Ectasia"
+    * Syn: "Aortic Aneurysm, Familial Thoracic"
+    * Syn: "AORTIC ANEURYSM, FAMILIAL THORACIC 1; AAT1"
+    * Syn: "Aortic Dissection, Familial"
+    * Syn: "Erdheim Cystic Medial Necrosis of Aorta"
+    * Syn: "Faa1"
 
 ### GELEOPHYSIC DYSPLASIA 2
-
-Score: 1.3125
-
- * [OMIM:614185 Geleophysic Dysplasia 2](http://beta.monarchinitiative.org/disease/OMIM:614185)
+ * [OMIM:614185 Geleophysic Dysplasia 2](http://beta.monarchinitiative.org/disease/OMIM:614185) Confidence: high
+    * Syn: "GELEOPHYSIC DYSPLASIA 2; GPHYSD2"
+    * Syn: "GPHYSD2"
 
 ### Hirschsprung disease 1
-
-Score: 2
-
- * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623)
-    * [MESH:C538540 -](http://beta.monarchinitiative.org/disease/MESH:C538540)
+ * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623) Confidence: high
+    * Equiv:[MESH:C538540 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/MESH:C538540)
+    * Syn: "Aganglionic Megacolon"
+    * Syn: "Hirschsprung Disease"
+    * Syn: "HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1; HSCR1"
+    * Syn: "HSCR1"
+    * Syn: "Megacolon, Aganglionic"
 
 ### MARFAN SYNDROME
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high
+    * Syn: "Marfan's syndrome"
 
 ### MARFAN SYNDROME, ATYPICAL
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:154700 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/OMIM:154700) Confidence: low/0.1388888888888889
+    * Equiv:[Orphanet:284963 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/Orphanet:284963)
+    * Equiv:[MESH:D008382 Marfan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008382)
+    * Syn: "Marfan Syndrome, Type 1"
+    * Syn: "MARFAN SYNDROME; MFS"
+    * Syn: "MFS"
 
 ### MARFAN SYNDROME, AUTOSOMAL RECESSIVE
-
-Score: 1.3125
-
- * [OMIM:606529 Craniosynostosis Syndrome, Autosomal Recessive](http://beta.monarchinitiative.org/disease/OMIM:606529)
-    * [MESH:C564700 -](http://beta.monarchinitiative.org/disease/MESH:C564700)
- * [OMIM:605822 Spondyloocular Syndrome, Autosomal Recessive](http://beta.monarchinitiative.org/disease/OMIM:605822)
-    * [MESH:C565285 -](http://beta.monarchinitiative.org/disease/MESH:C565285)
- * [OMIM:605407 Autosomal recessive dopa-responsive dystonia](http://beta.monarchinitiative.org/disease/OMIM:605407)
-    * [Orphanet:101150 -](http://beta.monarchinitiative.org/disease/Orphanet:101150)
-    * [MESH:C537537 -](http://beta.monarchinitiative.org/disease/MESH:C537537)
- * [OMIM:227330 Autosomal recessive facio-digito-genital syndrome](http://beta.monarchinitiative.org/disease/OMIM:227330)
-    * [Orphanet:1974 -](http://beta.monarchinitiative.org/disease/Orphanet:1974)
- * [OMIM:203780 Autosomal recessive Alport syndrome](http://beta.monarchinitiative.org/disease/OMIM:203780)
-    * [Orphanet:88919 -](http://beta.monarchinitiative.org/disease/Orphanet:88919)
- * [OMIM:201310 Acrorenal syndrome recessive](http://beta.monarchinitiative.org/disease/OMIM:201310)
-    * [MESH:C535666 -](http://beta.monarchinitiative.org/disease/MESH:C535666)
+ * [OMIM:606529 Craniosynostosis Syndrome, Autosomal Recessive](http://beta.monarchinitiative.org/disease/OMIM:606529) Confidence: low/0.1640625
+    * Equiv:[MESH:C564700 Craniosynostosis Syndrome, Autosomal Recessive](http://beta.monarchinitiative.org/disease/MESH:C564700)
+    * Syn: "CRANIOSYNOSTOSIS SYNDROME, AUTOSOMAL RECESSIVE"
 
 ### MARFAN SYNDROME, CLASSIC
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:154700 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/OMIM:154700) Confidence: low/0.1388888888888889
+    * Equiv:[Orphanet:284963 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/Orphanet:284963)
+    * Equiv:[MESH:D008382 Marfan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008382)
+    * Syn: "Marfan Syndrome, Type 1"
+    * Syn: "MARFAN SYNDROME; MFS"
+    * Syn: "MFS"
 
 ### MARFAN SYNDROME, MILD
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:154700 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/OMIM:154700) Confidence: low/0.1388888888888889
+    * Equiv:[Orphanet:284963 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/Orphanet:284963)
+    * Equiv:[MESH:D008382 Marfan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008382)
+    * Syn: "Marfan Syndrome, Type 1"
+    * Syn: "MARFAN SYNDROME; MFS"
+    * Syn: "MFS"
 
 ### MARFAN SYNDROME, MILD VARIABLE
-
-Score: 1.0625
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:154700 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/OMIM:154700) Confidence: low/0.11458333333333333
+    * Equiv:[Orphanet:284963 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/Orphanet:284963)
+    * Equiv:[MESH:D008382 Marfan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008382)
+    * Syn: "Marfan Syndrome, Type 1"
+    * Syn: "MARFAN SYNDROME; MFS"
+    * Syn: "MFS"
 
 ### MARFAN SYNDROME, NEONATAL
-
-Score: 1.1111111111111112
-
- * [DOID:9828 neonatal abstinence syndrome](http://beta.monarchinitiative.org/disease/DOID:9828)
-    * [MESH:D009357 -](http://beta.monarchinitiative.org/disease/MESH:D009357)
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [Orphanet:284979 Neonatal Marfan syndrome](http://beta.monarchinitiative.org/disease/Orphanet:284979) Confidence: high
 
 ### MARFAN SYNDROME, SEVERE CLASSIC
-
-Score: 1.0625
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:154700 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/OMIM:154700) Confidence: low/0.11458333333333333
+    * Equiv:[Orphanet:284963 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/Orphanet:284963)
+    * Equiv:[MESH:D008382 Marfan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008382)
+    * Syn: "Marfan Syndrome, Type 1"
+    * Syn: "MARFAN SYNDROME; MFS"
+    * Syn: "MFS"
 
 ### MARFAN SYNDROME, SUBDIAGNOSTIC VARIANT OF
-
-Score: 1.04
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:154700 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/OMIM:154700) Confidence: low/0.10333333333333333
+    * Equiv:[Orphanet:284963 Marfan syndrome type 1](http://beta.monarchinitiative.org/disease/Orphanet:284963)
+    * Equiv:[MESH:D008382 Marfan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008382)
+    * Syn: "Marfan Syndrome, Type 1"
+    * Syn: "MARFAN SYNDROME; MFS"
+    * Syn: "MFS"
 
 ### MASS SYNDROME
-
-Score: 2
-
- * [OMIM:604308 MASS syndrome](http://beta.monarchinitiative.org/disease/OMIM:604308)
-    * [MESH:C536030 -](http://beta.monarchinitiative.org/disease/MESH:C536030)
+ * [OMIM:604308 MASS syndrome](http://beta.monarchinitiative.org/disease/OMIM:604308) Confidence: high
+    * Equiv:[MESH:C536030 MASS syndrome](http://beta.monarchinitiative.org/disease/MESH:C536030)
+    * Syn: "Mass Phenotype"
+    * Syn: "MASS SYNDROME"
+    * Syn: "Overlap Connective Tissue Disease"
 
 ### Marfan Syndrome
-
-Score: 2
-
- * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323)
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high
+    * Syn: "Marfan's syndrome"
 
 ### Marfan syndrome
-
-Score: 2
-
- * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323)
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high
+    * Syn: "Marfan's syndrome"
 
 ### Marfan syndrome, incomplete
-
-Score: 1.4444444444444444
-
- * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323)
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: low/0.18055555555555555
+    * Syn: "Marfan's syndrome"
 
 ### Marfan''s syndrome
-
-Score: 2
-
- * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323)
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high
+    * Syn: "Marfan's syndrome"
 
 ### Marfan's syndrome
-
-Score: 2
-
- * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323)
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high
+    * Syn: "Marfan's syndrome"
 
 ### Marfanoid habitus
-
-Score: 0.75
-
- * [OMIM:248760 Microcephaly - glomerulonephritis - marfanoid habitus](http://beta.monarchinitiative.org/disease/OMIM:248760)
-    * [Orphanet:2172 -](http://beta.monarchinitiative.org/disease/Orphanet:2172)
-    * [MESH:C565411 -](http://beta.monarchinitiative.org/disease/MESH:C565411)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:614389 Abortion, Habitual](http://beta.monarchinitiative.org/disease/OMIM:614389) Confidence: low/0.09375
+    * Equiv:[MESH:D000026 Abortion, Habitual](http://beta.monarchinitiative.org/disease/MESH:D000026)
+    * Syn: "Abortion, Spontaneous, Recurrent"
+    * Syn: "Embryonic Loss, Recurrent"
+    * Syn: "Fetal Loss, Recurrent, Susceptibility to"
+    * Syn: "Miscarriage, Recurrent"
+    * Syn: "PREGNANCY LOSS, RECURRENT, SUSCEPTIBILITY TO, 1; RPRGL1"
+    * Syn: "Rpl"
+    * Syn: "Rprgl"
+    * Syn: "RPRGL1"
+    * Syn: "Stillbirth, Recurrent"
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### STIFF SKIN SYNDROME
-
-Score: 1.3125
-
- * [OMIM:184900 Stiff Skin Syndrome](http://beta.monarchinitiative.org/disease/OMIM:184900)
-    * [MESH:C566112 -](http://beta.monarchinitiative.org/disease/MESH:C566112)
+ * [OMIM:184900 Stiff Skin Syndrome](http://beta.monarchinitiative.org/disease/OMIM:184900) Confidence: high
+    * Equiv:[MESH:C566112 Stiff Skin Syndrome](http://beta.monarchinitiative.org/disease/MESH:C566112)
+    * Syn: "SSKS"
+    * Syn: "STIFF SKIN SYNDROME; SSKS"
 
 ### Thoracic aortic aneurysms and aortic dissections
-
-Score: 1.527777777777778
-
- * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387)
+ * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224
 
 ### WEILL-MARCHESANI SYNDROME 2
-
-Score: 1.4400000000000002
-
- * [OMIM:608328 Weill-Marchesani Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:608328)
-
-Score: 1.4400000000000002
-
- * [OMIM:608328 Weill-Marchesani Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:608328)
-
-Score: 1.1111111111111112
-
- * [OMIM:120502 Branchiootic Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:120502)
-    * [MESH:C565171 -](http://beta.monarchinitiative.org/disease/MESH:C565171)
-
-Score: 1.1111111111111112
-
- * [OMIM:611554 LEOPARD syndrome, 2](http://beta.monarchinitiative.org/disease/OMIM:611554)
-    * [MESH:C537117 -](http://beta.monarchinitiative.org/disease/MESH:C537117)
- * [OMIM:609220 Bruck syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:609220)
-    * [MESH:C537407 -](http://beta.monarchinitiative.org/disease/MESH:C537407)
- * [OMIM:608091 Joubert syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:608091)
-    * [MESH:C536294 -](http://beta.monarchinitiative.org/disease/MESH:C536294)
- * [OMIM:606744 Seckel syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:606744)
-    * [MESH:C537534 -](http://beta.monarchinitiative.org/disease/MESH:C537534)
- * [OMIM:601499 Rieger syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:601499)
-    * [MESH:C535680 -](http://beta.monarchinitiative.org/disease/MESH:C535680)
- * [MESH:C537426 Arakawa syndrome 2](http://beta.monarchinitiative.org/disease/MESH:C537426)
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:608328 Weill-Marchesani Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:608328) Confidence: high
+    * Syn: "Glaucoma-Lens Ectopia-Microspherophakia-Stiffness-Shortness Syndrome"
+    * Syn: "Mesodermal Dysmorphodystrophy, Congenital"
+    * Syn: "Spherophakia-Brachymorphia Syndrome"
+    * Syn: "WEILL-MARCHESANI SYNDROME 2; WMS2"
+    * Syn: "Weill-Marchesani Syndrome, Autosomal Dominant"
+    * Syn: "WMS2"

@@ -8,9 +8,14 @@ g(G) :- setof(G,P^g2p(G,P),Gs),member(G,Gs).
 g2fn(G,File) :-
         g2fn(G,File,md).
 g2fn(G,File,Suffix) :-
-        concat_atom(L,/,G),
-        concat_atom(L,-,G2),
+        deslash(G,G2),
         concat_atom(['genes/',G2,'.',Suffix],File).
+
+deslash(G,G2) :-
+        concat_atom(L,/,G),
+        concat_atom(L,-,G2).
+
+
 
 t :- t('LMNA').
 
@@ -28,6 +33,10 @@ wall :-
 
 wallg(G) :-
         format('~n## GENE: ~w~n',[G]),
+        nl,
+        deslash(G,G2),
+        format('[matched diseases visual](~w.png)~n',[G2]),
+        nl,
         g2p(G,P),
         wallp(G,P),
         fail.

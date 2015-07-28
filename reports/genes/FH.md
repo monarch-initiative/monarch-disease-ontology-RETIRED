@@ -2,152 +2,24 @@
 ## GENE: FH
 
 ### FUMARASE DEFICIENCY
-
-Score: 1.1111111111111112
-
- * [OMIM:606812 Fumaric aciduria](http://beta.monarchinitiative.org/disease/OMIM:606812)
-    * [Orphanet:24 -](http://beta.monarchinitiative.org/disease/Orphanet:24)
-    * [MESH:C538191 -](http://beta.monarchinitiative.org/disease/MESH:C538191)
+ * [OMIM:606812 Fumaric aciduria](http://beta.monarchinitiative.org/disease/OMIM:606812) Confidence: low/0.1388888888888889
+    * Equiv:[Orphanet:24 Fumaric aciduria](http://beta.monarchinitiative.org/disease/Orphanet:24)
+    * Equiv:[MESH:C538191 Fumaric aciduria](http://beta.monarchinitiative.org/disease/MESH:C538191)
+    * Syn: "FMRD"
+    * Syn: "FUMARASE DEFICIENCY; FMRD"
+    * Syn: "Fumaric Aciduria"
 
 ### Fumarase deficiency
-
-Score: 0.75
-
- * [Orphanet:859 Transcobalamin deficiency](http://beta.monarchinitiative.org/disease/Orphanet:859)
- * [Orphanet:650 LCAT deficiency](http://beta.monarchinitiative.org/disease/Orphanet:650)
- * [Orphanet:308448 Aminoacylase deficiency](http://beta.monarchinitiative.org/disease/Orphanet:308448)
- * [Orphanet:2966 Properdin deficiency](http://beta.monarchinitiative.org/disease/Orphanet:2966)
- * [Orphanet:247582 Citrin deficiency](http://beta.monarchinitiative.org/disease/Orphanet:247582)
- * [Orphanet:1578 Dehydratase deficiency](http://beta.monarchinitiative.org/disease/Orphanet:1578)
- * [Orphanet:132 Butyrylcholinesterase deficiency](http://beta.monarchinitiative.org/disease/Orphanet:132)
-    * [MESH:C537417 -](http://beta.monarchinitiative.org/disease/MESH:C537417)
- * [Orphanet:101957 Pituitary deficiency](http://beta.monarchinitiative.org/disease/Orphanet:101957)
- * [OMIM:614023 PSPH deficiency](http://beta.monarchinitiative.org/disease/OMIM:614023)
-    * [DOID:0050724 -](http://beta.monarchinitiative.org/disease/DOID:0050724)
- * [OMIM:613679 prothrombin deficiency](http://beta.monarchinitiative.org/disease/OMIM:613679)
-    * [DOID:2235 -](http://beta.monarchinitiative.org/disease/DOID:2235)
-    * [MESH:C562724 -](http://beta.monarchinitiative.org/disease/MESH:C562724)
-    * [MESH:D007020 -](http://beta.monarchinitiative.org/disease/MESH:D007020)
- * [OMIM:613546 Aromatase deficiency](http://beta.monarchinitiative.org/disease/OMIM:613546)
-    * [Orphanet:91 -](http://beta.monarchinitiative.org/disease/Orphanet:91)
-    * [MESH:C537436 -](http://beta.monarchinitiative.org/disease/MESH:C537436)
- * [OMIM:613490 alpha 1-antitrypsin deficiency](http://beta.monarchinitiative.org/disease/OMIM:613490)
-    * [DOID:13372 -](http://beta.monarchinitiative.org/disease/DOID:13372)
-    * [MESH:D019896 -](http://beta.monarchinitiative.org/disease/MESH:D019896)
- * [OMIM:613179 purine nucleoside phosphorylase deficiency](http://beta.monarchinitiative.org/disease/OMIM:613179)
-    * [DOID:5813 -](http://beta.monarchinitiative.org/disease/DOID:5813)
-    * [MESH:C562587 -](http://beta.monarchinitiative.org/disease/MESH:C562587)
- * [OMIM:612736 guanidinoacetate methyltransferase deficiency](http://beta.monarchinitiative.org/disease/OMIM:612736)
-    * [DOID:0050799 -](http://beta.monarchinitiative.org/disease/DOID:0050799)
-    * [MESH:C537622 -](http://beta.monarchinitiative.org/disease/MESH:C537622)
- * [OMIM:612718 AGAT deficiency](http://beta.monarchinitiative.org/disease/OMIM:612718)
-    * [DOID:0050712 -](http://beta.monarchinitiative.org/disease/DOID:0050712)
-    * [MESH:C567192 -](http://beta.monarchinitiative.org/disease/MESH:C567192)
- * [OMIM:610992 PSAT deficiency](http://beta.monarchinitiative.org/disease/OMIM:610992)
-    * [DOID:0050723 -](http://beta.monarchinitiative.org/disease/DOID:0050723)
-    * [MESH:C567032 -](http://beta.monarchinitiative.org/disease/MESH:C567032)
- * [OMIM:610293 Glycosylphosphatidylinositol deficiency](http://beta.monarchinitiative.org/disease/OMIM:610293)
-    * [MESH:C537277 -](http://beta.monarchinitiative.org/disease/MESH:C537277)
- * [OMIM:609536 complement component 5 deficiency](http://beta.monarchinitiative.org/disease/OMIM:609536)
-    * [DOID:8158 -](http://beta.monarchinitiative.org/disease/DOID:8158)
-    * [MESH:C537005 -](http://beta.monarchinitiative.org/disease/MESH:C537005)
- * [OMIM:606003 Transaldolase deficiency](http://beta.monarchinitiative.org/disease/OMIM:606003)
-    * [Orphanet:101028 -](http://beta.monarchinitiative.org/disease/Orphanet:101028)
-    * [MESH:C563207 -](http://beta.monarchinitiative.org/disease/MESH:C563207)
- * [OMIM:601815 PHGDH deficiency](http://beta.monarchinitiative.org/disease/OMIM:601815)
-    * [DOID:0050722 -](http://beta.monarchinitiative.org/disease/DOID:0050722)
-    * [MESH:C566618 -](http://beta.monarchinitiative.org/disease/MESH:C566618)
- * [OMIM:601492 Hyaluronidase deficiency](http://beta.monarchinitiative.org/disease/OMIM:601492)
-    * [Orphanet:67041 -](http://beta.monarchinitiative.org/disease/Orphanet:67041)
-    * [MESH:C563209 -](http://beta.monarchinitiative.org/disease/MESH:C563209)
- * [OMIM:300755 Bruton-type agammaglobulinemia](http://beta.monarchinitiative.org/disease/OMIM:300755)
-    * [DOID:14179 -](http://beta.monarchinitiative.org/disease/DOID:14179)
-    * [MESH:C537409 -](http://beta.monarchinitiative.org/disease/MESH:C537409)
-    * [MESH:C562478 -](http://beta.monarchinitiative.org/disease/MESH:C562478)
- * [OMIM:300352 creatine transporter deficiency](http://beta.monarchinitiative.org/disease/OMIM:300352)
-    * [DOID:0050800 -](http://beta.monarchinitiative.org/disease/DOID:0050800)
-    * [MESH:C535598 -](http://beta.monarchinitiative.org/disease/MESH:C535598)
- * [OMIM:276880 Urocanase deficiency](http://beta.monarchinitiative.org/disease/OMIM:276880)
-    * [MESH:C536479 -](http://beta.monarchinitiative.org/disease/MESH:C536479)
- * [OMIM:275350 transcobalamin II deficiency](http://beta.monarchinitiative.org/disease/OMIM:275350)
-    * [DOID:0050818 -](http://beta.monarchinitiative.org/disease/DOID:0050818)
- * [OMIM:269840 ZAP70 deficiency](http://beta.monarchinitiative.org/disease/OMIM:269840)
-    * [MESH:C536722 -](http://beta.monarchinitiative.org/disease/MESH:C536722)
- * [OMIM:254600 Myeloperoxidase deficiency](http://beta.monarchinitiative.org/disease/OMIM:254600)
-    * [Orphanet:2587 -](http://beta.monarchinitiative.org/disease/Orphanet:2587)
-    * [MESH:C562864 -](http://beta.monarchinitiative.org/disease/MESH:C562864)
- * [OMIM:253260 biotinidase deficiency](http://beta.monarchinitiative.org/disease/OMIM:253260)
-    * [DOID:856 -](http://beta.monarchinitiative.org/disease/DOID:856)
-    * [MESH:C565365 -](http://beta.monarchinitiative.org/disease/MESH:C565365)
-    * [MESH:D028921 -](http://beta.monarchinitiative.org/disease/MESH:D028921)
- * [OMIM:234000 factor XII deficiency](http://beta.monarchinitiative.org/disease/OMIM:234000)
-    * [DOID:2231 -](http://beta.monarchinitiative.org/disease/DOID:2231)
-    * [MESH:D005175 -](http://beta.monarchinitiative.org/disease/MESH:D005175)
- * [OMIM:232600 glycogen storage disease V](http://beta.monarchinitiative.org/disease/OMIM:232600)
-    * [DOID:2746 -](http://beta.monarchinitiative.org/disease/DOID:2746)
- * [OMIM:230200 galactokinase deficiency](http://beta.monarchinitiative.org/disease/OMIM:230200)
-    * [DOID:14695 -](http://beta.monarchinitiative.org/disease/DOID:14695)
- * [OMIM:227400 factor V deficiency](http://beta.monarchinitiative.org/disease/OMIM:227400)
-    * [DOID:2216 -](http://beta.monarchinitiative.org/disease/DOID:2216)
-    * [MESH:D005166 -](http://beta.monarchinitiative.org/disease/MESH:D005166)
- * [OMIM:207900 argininosuccinic aciduria](http://beta.monarchinitiative.org/disease/OMIM:207900)
-    * [DOID:14755 -](http://beta.monarchinitiative.org/disease/DOID:14755)
-    * [MESH:D056807 -](http://beta.monarchinitiative.org/disease/MESH:D056807)
- * [OMIM:202400 congenital afibrinogenemia](http://beta.monarchinitiative.org/disease/OMIM:202400)
-    * [DOID:2236 -](http://beta.monarchinitiative.org/disease/DOID:2236)
-    * [MESH:C531603 -](http://beta.monarchinitiative.org/disease/MESH:C531603)
- * [OMIM:170100 Prolidase deficiency](http://beta.monarchinitiative.org/disease/OMIM:170100)
-    * [Orphanet:742 -](http://beta.monarchinitiative.org/disease/Orphanet:742)
-    * [MESH:D056732 -](http://beta.monarchinitiative.org/disease/MESH:D056732)
- * [MESH:C536006 Acetylcarnitine deficiency](http://beta.monarchinitiative.org/disease/MESH:C536006)
- * [MESH:C531633 Biotin deficiency](http://beta.monarchinitiative.org/disease/MESH:C531633)
- * [DOID:9273 citrullinemia](http://beta.monarchinitiative.org/disease/DOID:9273)
- * [DOID:9263 homocystinuria](http://beta.monarchinitiative.org/disease/DOID:9263)
- * [DOID:8457 pellagra](http://beta.monarchinitiative.org/disease/DOID:8457)
-    * [MESH:D010383 -](http://beta.monarchinitiative.org/disease/MESH:D010383)
- * [DOID:8456 choline deficiency disease](http://beta.monarchinitiative.org/disease/DOID:8456)
-    * [MESH:D002796 -](http://beta.monarchinitiative.org/disease/MESH:D002796)
- * [DOID:8354 complement component 3 deficiency](http://beta.monarchinitiative.org/disease/DOID:8354)
- * [DOID:626 complement deficiency](http://beta.monarchinitiative.org/disease/DOID:626)
- * [DOID:2215 factor VII deficiency](http://beta.monarchinitiative.org/disease/DOID:2215)
- * [DOID:1926 Gaucher's disease](http://beta.monarchinitiative.org/disease/DOID:1926)
- * [DOID:1459 hypothyroidism](http://beta.monarchinitiative.org/disease/DOID:1459)
-    * [MESH:D007037 -](http://beta.monarchinitiative.org/disease/MESH:D007037)
- * [DOID:13628 glucose-6-phosphate dehydrogenase deficiency](http://beta.monarchinitiative.org/disease/DOID:13628)
-    * [MESH:D005955 -](http://beta.monarchinitiative.org/disease/MESH:D005955)
- * [DOID:13121 deficiency anemia](http://beta.monarchinitiative.org/disease/DOID:13121)
- * [DOID:12388 neurohypophyseal diabetes insipidus](http://beta.monarchinitiative.org/disease/DOID:12388)
-    * [MESH:D020790 -](http://beta.monarchinitiative.org/disease/MESH:D020790)
- * [DOID:0060027 B cell linker protein deficiency](http://beta.monarchinitiative.org/disease/DOID:0060027)
- * [DOID:0060025 immunoglobulin alpha deficiency](http://beta.monarchinitiative.org/disease/DOID:0060025)
- * [DOID:0060023 CD40 deficiency](http://beta.monarchinitiative.org/disease/DOID:0060023)
- * [DOID:0060018 CD3gamma deficiency](http://beta.monarchinitiative.org/disease/DOID:0060018)
- * [DOID:0060017 CD3epsilon deficiency](http://beta.monarchinitiative.org/disease/DOID:0060017)
- * [DOID:0060016 CD3delta deficiency](http://beta.monarchinitiative.org/disease/DOID:0060016)
- * [DOID:0060014 CD45 deficiency](http://beta.monarchinitiative.org/disease/DOID:0060014)
- * [DOID:0060007 CD3zeta deficiency](http://beta.monarchinitiative.org/disease/DOID:0060007)
- * [DOID:0060006 artemis deficiency](http://beta.monarchinitiative.org/disease/DOID:0060006)
- * [DOID:0050810 biotin deficiency](http://beta.monarchinitiative.org/disease/DOID:0050810)
- * [DOID:0050731 vitamin B12 deficiency](http://beta.monarchinitiative.org/disease/DOID:0050731)
-    * [MESH:D014806 -](http://beta.monarchinitiative.org/disease/MESH:D014806)
- * [DOID:0050721 serine deficiency](http://beta.monarchinitiative.org/disease/DOID:0050721)
- * [DOID:0050710 3-Methylcrotonyl-CoA carboxylase deficiency](http://beta.monarchinitiative.org/disease/DOID:0050710)
+ * [Orphanet:859 Transcobalamin deficiency](http://beta.monarchinitiative.org/disease/Orphanet:859) Confidence: low/0.09375
 
 ### HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER
-
-Score: 1.5918367346938775
-
- * [OMIM:150800 Hereditary leiomyomatosis and renal cell cancer](http://beta.monarchinitiative.org/disease/OMIM:150800)
-    * [Orphanet:523 -](http://beta.monarchinitiative.org/disease/Orphanet:523)
+ * [OMIM:150800 Hereditary leiomyomatosis and renal cell cancer](http://beta.monarchinitiative.org/disease/OMIM:150800) Confidence: high
+    * Equiv:[Orphanet:523 Hereditary leiomyomatosis and renal cell cancer](http://beta.monarchinitiative.org/disease/Orphanet:523)
+    * Syn: "HEREDITARY LEIOMYOMATOSIS AND RENAL CELL CANCER; HLRCC"
+    * Syn: "HLRCC"
+    * Syn: "Leiomyoma, Multiple Cutaneous"
+    * Syn: "Leiomyomatosis and Renal Cell Cancer, Hereditary"
+    * Syn: "Multiple Cutaneous and Uterine Leiomyomata 1, With or Without Renal Cell Carcinoma"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high

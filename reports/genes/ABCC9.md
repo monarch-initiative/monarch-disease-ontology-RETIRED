@@ -2,72 +2,52 @@
 ## GENE: ABCC9
 
 ### ATRIAL FIBRILLATION, FAMILIAL, 12
-
-Score: 1.5625
-
- * [DOID:0050650 familial atrial fibrillation](http://beta.monarchinitiative.org/disease/DOID:0050650)
-    * [MESH:D001281 -](http://beta.monarchinitiative.org/disease/MESH:D001281)
+ * [OMIM:614050 Atrial Fibrillation, Familial, 12](http://beta.monarchinitiative.org/disease/OMIM:614050) Confidence: high
+    * Syn: "ATFB12"
+    * Syn: "ATRIAL FIBRILLATION, FAMILIAL, 12; ATFB12"
 
 ### CARDIOMYOPATHY, DILATED, 1O
-
-Score: 1.4400000000000002
-
- * [OMIM:608569 Cardiomyopathy, Dilated, 1o](http://beta.monarchinitiative.org/disease/OMIM:608569)
-    * [MESH:C563906 -](http://beta.monarchinitiative.org/disease/MESH:C563906)
+ * [OMIM:608569 Cardiomyopathy, Dilated, 1o](http://beta.monarchinitiative.org/disease/OMIM:608569) Confidence: high
+    * Equiv:[MESH:C563906 Cardiomyopathy, Dilated, 1o](http://beta.monarchinitiative.org/disease/MESH:C563906)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1O; CMD1O"
+    * Syn: "Cardiomyopathy, Dilated, With Ventricular Tachycardia"
+    * Syn: "CMD1O"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Dilated Cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### HYPERTRICHOTIC OSTEOCHONDRODYSPLASIA
-
-Score: 1.25
-
- * [DOID:2256 osteochondrodysplasia](http://beta.monarchinitiative.org/disease/DOID:2256)
+ * [OMIM:239850 Cantu syndrome](http://beta.monarchinitiative.org/disease/OMIM:239850) Confidence: high
+    * Equiv:[MESH:C535572 Cantu syndrome](http://beta.monarchinitiative.org/disease/MESH:C535572)
+    * Syn: "CANTU SYNDROME"
+    * Syn: "Hypertrichotic Osteochondrodysplasia"
 
 ### Myocardial infarction, association with
-
-Score: 1.25
-
- * [DOID:5844 myocardial infarction](http://beta.monarchinitiative.org/disease/DOID:5844)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:608446 Myocardial Infarction](http://beta.monarchinitiative.org/disease/OMIM:608446) Confidence: low/0.15625
+    * Equiv:[MESH:D009203 Myocardial Infarction](http://beta.monarchinitiative.org/disease/MESH:D009203)
+    * Syn: "Myocardial Infarction, Protection Against"
+    * Syn: "MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO"
+    * Syn: "Myocardial Infarction, Susceptibility To, 1"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### risk of Precocious Myocardial Infarction
-
-Score: 1.1600000000000001
-
- * [DOID:5844 myocardial infarction](http://beta.monarchinitiative.org/disease/DOID:5844)
+ * [OMIM:608446 Myocardial Infarction](http://beta.monarchinitiative.org/disease/OMIM:608446) Confidence: low/0.14500000000000002
+    * Equiv:[MESH:D009203 Myocardial Infarction](http://beta.monarchinitiative.org/disease/MESH:D009203)
+    * Syn: "Myocardial Infarction, Protection Against"
+    * Syn: "MYOCARDIAL INFARCTION, SUSCEPTIBILITY TO"
+    * Syn: "Myocardial Infarction, Susceptibility To, 1"

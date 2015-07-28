@@ -2,99 +2,74 @@
 ## GENE: ACTN2
 
 ### CARDIOMYOPATHY, DILATED, 1AA
-
-Score: 1.25
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [OMIM:612158 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/OMIM:612158) Confidence: high
+    * Equiv:[MESH:C567407 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/MESH:C567407)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1AA, WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION; CMD1AA"
+    * Syn: "Cardiomyopathy, Familial Hypertrophic, 23, With or Without Ventricular Noncompaction"
+    * Syn: "CMD1AA"
 
 ### CARDIOMYOPATHY, DILATED, 1AA, WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION
-
-Score: 1.7355371900826446
-
- * [OMIM:612158 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/OMIM:612158)
-    * [MESH:C567407 -](http://beta.monarchinitiative.org/disease/MESH:C567407)
+ * [OMIM:612158 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/OMIM:612158) Confidence: low/0.21694214876033058
+    * Equiv:[MESH:C567407 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/MESH:C567407)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1AA, WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION; CMD1AA"
+    * Syn: "Cardiomyopathy, Familial Hypertrophic, 23, With or Without Ventricular Noncompaction"
+    * Syn: "CMD1AA"
 
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 23
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [OMIM:614676 Cardiomyopathy, Familial Hypertrophic, 21](http://beta.monarchinitiative.org/disease/OMIM:614676) Confidence: low/0.12
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 21; CMH21"
+    * Syn: "CMH21"
 
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 23, WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION
-
-Score: 1.09
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [OMIM:612158 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/OMIM:612158) Confidence: low/0.13016528925619836
+    * Equiv:[MESH:C567407 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/MESH:C567407)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1AA, WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION; CMD1AA"
+    * Syn: "Cardiomyopathy, Familial Hypertrophic, 23, With or Without Ventricular Noncompaction"
+    * Syn: "CMD1AA"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Cardiomyopathy, dilated
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Cardiomyopathy, hypertrophic
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Familial hypertrophic cardiomyopathy 1
-
-Score: 2
-
- * [OMIM:192600 Cardiomyopathy, Familial Hypertrophic, 1](http://beta.monarchinitiative.org/disease/OMIM:192600)
-    * [MESH:C566005 -](http://beta.monarchinitiative.org/disease/MESH:C566005)
+ * [OMIM:192600 Cardiomyopathy, Familial Hypertrophic, 1](http://beta.monarchinitiative.org/disease/OMIM:192600) Confidence: high
+    * Equiv:[MESH:C566005 Cardiomyopathy, Familial Hypertrophic, 1](http://beta.monarchinitiative.org/disease/MESH:C566005)
+    * Syn: "Asymmetric Septal Hypertrophy"
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 1; CMH1"
+    * Syn: "Cmh"
+    * Syn: "CMH1"
+    * Syn: "Hypertrophic Subaortic Stenosis, Idiopathic"
+    * Syn: "Ventricular Hypertrophy, Hereditary"
 
 ### Hypertrophic cardiomyopathy
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Ventricular fibrillation
-
-Score: 2
-
- * [MESH:D014693 Ventricular Fibrillation](http://beta.monarchinitiative.org/disease/MESH:D014693)
-    * [DC:0000692 -](http://beta.monarchinitiative.org/disease/DC:0000692)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D014693 Ventricular Fibrillation](http://beta.monarchinitiative.org/disease/MESH:D014693) Confidence: high
+    * Equiv:[DC:0000692 -](http://beta.monarchinitiative.org/disease/DC:0000692)

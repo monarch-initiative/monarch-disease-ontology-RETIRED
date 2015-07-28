@@ -1,5 +1,10 @@
 blip-findall -debug matcher -consult matcher.pro -debug index -goal ix -u metadata_nlp -i all_labels.pro -r mondoe -i clingen.pro -goal t
 
+## GENE: LMNA
+
+[matched diseases visual](LMNA.png)
+
+
 ### Arrhythmogenic right ventricular cardiomyopathy
  * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
     * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)

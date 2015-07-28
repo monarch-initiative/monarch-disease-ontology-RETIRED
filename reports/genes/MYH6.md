@@ -2,117 +2,90 @@
 ## GENE: MYH6
 
 ### ATRIAL SEPTAL DEFECT 3
-
-Score: 1.5625
-
- * [DOID:1882 atrial heart septal defect](http://beta.monarchinitiative.org/disease/DOID:1882)
-    * [MESH:D006344 -](http://beta.monarchinitiative.org/disease/MESH:D006344)
+ * [OMIM:614089 Atrial Septal Defect 3](http://beta.monarchinitiative.org/disease/OMIM:614089) Confidence: high
+    * Equiv:[MESH:C563540 Atrial Septal Defect 3](http://beta.monarchinitiative.org/disease/MESH:C563540)
+    * Syn: "ASD3"
+    * Syn: "ATRIAL SEPTAL DEFECT 3; ASD3"
 
 ### AV Block Third Degree Adverse Event
-
-Score: 1.1111111111111112
-
- * [DOID:0050820 atrioventricular block](http://beta.monarchinitiative.org/disease/DOID:0050820)
-    * [MESH:D054537 -](http://beta.monarchinitiative.org/disease/MESH:D054537)
-
-### AllHighlyPenetrant
+ * [DOID:0050820 atrioventricular block](http://beta.monarchinitiative.org/disease/DOID:0050820) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:D054537 Atrioventricular Block](http://beta.monarchinitiative.org/disease/MESH:D054537)
+    * Syn: "AV block"
 
 ### CARDIOMYOPATHY, DILATED, 1EE
-
-Score: 1.4400000000000002
-
- * [OMIM:613252 Cardiomyopathy, Dilated, 1EE](http://beta.monarchinitiative.org/disease/OMIM:613252)
-    * [MESH:C567683 -](http://beta.monarchinitiative.org/disease/MESH:C567683)
+ * [OMIM:613252 Cardiomyopathy, Dilated, 1EE](http://beta.monarchinitiative.org/disease/OMIM:613252) Confidence: high
+    * Equiv:[MESH:C567683 Cardiomyopathy, Dilated, 1EE](http://beta.monarchinitiative.org/disease/MESH:C567683)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1EE; CMD1EE"
+    * Syn: "CMD1EE"
 
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 14
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [OMIM:613251 Cardiomyopathy, Familial Hypertrophic, 14](http://beta.monarchinitiative.org/disease/OMIM:613251) Confidence: high
+    * Equiv:[MESH:C567684 Cardiomyopathy, Familial Hypertrophic, 14](http://beta.monarchinitiative.org/disease/MESH:C567684)
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 14; CMH14"
+    * Syn: "CMH14"
 
 ### Cardiac Arrest
-
-Score: 2
-
- * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319)
-    * [MESH:D006323 -](http://beta.monarchinitiative.org/disease/MESH:D006323)
+ * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319) Confidence: high
+    * Equiv:[MESH:D006323 Heart Arrest](http://beta.monarchinitiative.org/disease/MESH:D006323)
+    * Syn: "cardiopulmonary arrest"
+    * Syn: "circulatory arrest"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Cardiomyopathy, dilated
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Cardiomyopathy, dilated ?
-
-Score: 1.4444444444444444
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [MESH:D002311 Cardiomyopathy, Dilated](http://beta.monarchinitiative.org/disease/MESH:D002311) Confidence: low/0.18055555555555555
 
 ### Cardiomyopathy, hypertrophic
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### MYOSIN, CARDIAC, HEAVY CHAIN VARIANT
-
-Score: 0.8266666666666667
-
- * [DOID:0060125 heavy chain disease](http://beta.monarchinitiative.org/disease/DOID:0060125)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: low/0.0825
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
 
 ### Primary dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### SICK SINUS SYNDROME 3, SUSCEPTIBILITY TO
-
-Score: 1.25
-
- * [DOID:13884 sick sinus syndrome](http://beta.monarchinitiative.org/disease/DOID:13884)
-    * [MESH:D012804 -](http://beta.monarchinitiative.org/disease/MESH:D012804)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:614090 Sick Sinus Syndrome 3, Susceptibility to](http://beta.monarchinitiative.org/disease/OMIM:614090) Confidence: high
+    * Syn: "SICK SINUS SYNDROME 3, SUSCEPTIBILITY TO; SSS3"
+    * Syn: "SSS3"

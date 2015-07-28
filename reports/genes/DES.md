@@ -1,135 +1,92 @@
 
 ## GENE: DES
 
-### AllHighlyPenetrant
-
 ### CARDIOMYOPATHY, DILATED, 1I (1 family)
-
-Score: 1.3265306122448979
-
- * [OMIM:604765 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/OMIM:604765)
-    * [MESH:C565752 -](http://beta.monarchinitiative.org/disease/MESH:C565752)
- * [OMIM:600884 Familial dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/OMIM:600884)
-    * [MESH:C536231 -](http://beta.monarchinitiative.org/disease/MESH:C536231)
+ * [OMIM:604765 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/OMIM:604765) Confidence: low/0.16581632653061223
+    * Equiv:[MESH:C565752 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/MESH:C565752)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1I; CMD1I"
+    * Syn: "CMD1I"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Cardiomyopathy, dilated
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Cardiomyopathy, dilated, 1I
-
-Score: 2
-
- * [OMIM:604765 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/OMIM:604765)
-    * [MESH:C565752 -](http://beta.monarchinitiative.org/disease/MESH:C565752)
+ * [OMIM:604765 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/OMIM:604765) Confidence: high
+    * Equiv:[MESH:C565752 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/MESH:C565752)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1I; CMD1I"
+    * Syn: "CMD1I"
 
 ### Desminopathy
+ * [Orphanet:98909 Desminopathy](http://beta.monarchinitiative.org/disease/Orphanet:98909) Confidence: high
 
 ### Hypertrophic cardiomyopathy
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Left ventricular noncompaction cardiomyopathy
-
-Score: 1.5625
-
- * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237)
+ * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237) Confidence: low/0.1953125
 
 ### MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2R (1 family)
-
-Score: 1.4049586776859504
-
- * [OMIM:615325 Muscular Dystrophy, Limb-Girdle, Type 2R](http://beta.monarchinitiative.org/disease/OMIM:615325)
-
-Score: 1.4049586776859504
-
- * [OMIM:615325 Muscular Dystrophy, Limb-Girdle, Type 2R](http://beta.monarchinitiative.org/disease/OMIM:615325)
-
-Score: 1.1322314049586777
-
- * [DOID:11724 limb-girdle muscular dystrophy](http://beta.monarchinitiative.org/disease/DOID:11724)
-    * [MESH:D049288 -](http://beta.monarchinitiative.org/disease/MESH:D049288)
-
-Score: 1.04
-
- * [DOID:9884 muscular dystrophy](http://beta.monarchinitiative.org/disease/DOID:9884)
-    * [MESH:D009136 -](http://beta.monarchinitiative.org/disease/MESH:D009136)
+ * [OMIM:615325 Muscular Dystrophy, Limb-Girdle, Type 2R](http://beta.monarchinitiative.org/disease/OMIM:615325) Confidence: low/0.1756198347107438
+    * Syn: "LGMD2R"
+    * Syn: "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2R; LGMD2R"
 
 ### MYOPATHY, MYOFIBRILLAR, 1
-
-Score: 1.3125
-
- * [OMIM:601419 Myopathy, Myofibrillar, Desmin-Related](http://beta.monarchinitiative.org/disease/OMIM:601419)
-    * [MESH:C563319 -](http://beta.monarchinitiative.org/disease/MESH:C563319)
+ * [OMIM:601419 Myopathy, Myofibrillar, Desmin-Related](http://beta.monarchinitiative.org/disease/OMIM:601419) Confidence: low/0.1640625
+    * Equiv:[MESH:C563319 Myopathy, Myofibrillar, Desmin-Related](http://beta.monarchinitiative.org/disease/MESH:C563319)
+    * Syn: "Arrhythmogenic Right Ventricular Cardiomyopathy 7, Formerly"
+    * Syn: "Arrhythmogenic Right Ventricular Dysplasia, Familial, 7, Formerly"
+    * Syn: "Cardiomyopathy, Dilated, 1F and Limb-Girdle Muscular Dystrophy Type 1D, Formerly"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Defect and Muscular Dystrophy"
+    * Syn: "Cmd1F and Lgmd1D, Formerly"
+    * Syn: "Desmin-Related Myopathy"
+    * Syn: "Desmin-Related Myopathy With Arrhythmogenic Right Ventricular Cardiomyopathy"
+    * Syn: "Desminopathy, Primary"
+    * Syn: "Inclusion Body Myopathy 1, Autosomal Dominant, Formerly"
+    * Syn: "MFM1"
+    * Syn: "Myofibrillar Myopathy With Arrhythmogenic Right Ventricular Cardiomyopathy"
+    * Syn: "MYOPATHY, MYOFIBRILLAR, 1; MFM1"
+    * Syn: "Myopathy, Myofibrillar, Desmin-Related"
 
 ### Myofibrillar myopathy 1
-
-Score: 1.4444444444444444
-
- * [MESH:C580316 Myofibrillar Myopathy](http://beta.monarchinitiative.org/disease/MESH:C580316)
-    * [DC:0000305 -](http://beta.monarchinitiative.org/disease/DC:0000305)
+ * [MESH:C580316 Myofibrillar Myopathy](http://beta.monarchinitiative.org/disease/MESH:C580316) Confidence: low/0.18055555555555555
+    * Equiv:[DC:0000305 -](http://beta.monarchinitiative.org/disease/DC:0000305)
 
 ### Myopathy, myofibrillar, 1
-
-Score: 1.4444444444444444
-
- * [MESH:C580316 Myofibrillar Myopathy](http://beta.monarchinitiative.org/disease/MESH:C580316)
-    * [DC:0000305 -](http://beta.monarchinitiative.org/disease/DC:0000305)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:C580316 Myofibrillar Myopathy](http://beta.monarchinitiative.org/disease/MESH:C580316) Confidence: low/0.18055555555555555
+    * Equiv:[DC:0000305 -](http://beta.monarchinitiative.org/disease/DC:0000305)
 
 ### Primary dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### SCAPULOPERONEAL SYNDROME, NEUROGENIC, KAESER TYPE
-
-Score: 1.527777777777778
-
- * [OMIM:181400 Scapuloperoneal Syndrome, Neurogenic, Kaeser Type](http://beta.monarchinitiative.org/disease/OMIM:181400)
-    * [MESH:C566695 -](http://beta.monarchinitiative.org/disease/MESH:C566695)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:181400 Scapuloperoneal Syndrome, Neurogenic, Kaeser Type](http://beta.monarchinitiative.org/disease/OMIM:181400) Confidence: high
+    * Equiv:[MESH:C566695 Scapuloperoneal Syndrome, Neurogenic, Kaeser Type](http://beta.monarchinitiative.org/disease/MESH:C566695)
+    * Syn: "Kaeser Syndrome"
+    * Syn: "Scapuloperoneal Syndrome, Neurogenic Type, of Kaeser"
+    * Syn: "SCAPULOPERONEAL SYNDROME, NEUROGENIC, KAESER TYPE; SCPNK"
+    * Syn: "SCPNK"
+    * Syn: "Stark-Kaeser Syndrome"

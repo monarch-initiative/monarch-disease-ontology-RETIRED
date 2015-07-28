@@ -2,253 +2,183 @@
 ## GENE: DSP
 
 ### ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8
-
-Score: 1.5918367346938775
-
- * [OMIM:607450 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/OMIM:607450)
-    * [MESH:C564400 -](http://beta.monarchinitiative.org/disease/MESH:C564400)
-
-### AllHighlyPenetrant
+ * [OMIM:607450 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/OMIM:607450) Confidence: high
+    * Equiv:[MESH:C564400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/MESH:C564400)
+    * Syn: "Arrhythmogenic Right Ventricular Cardiomyopathy 8"
+    * Syn: "ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8; ARVD8"
+    * Syn: "ARVD8"
 
 ### Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy
-
-Score: 1.527777777777778
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Arrhythmogenic right ventricular cardiomyopathy
-
-Score: 2
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Arrhythmogenic right ventricular cardiomyopathy 8
-
-Score: 2
-
- * [OMIM:607450 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/OMIM:607450)
-    * [MESH:C564400 -](http://beta.monarchinitiative.org/disease/MESH:C564400)
+ * [OMIM:607450 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/OMIM:607450) Confidence: high
+    * Equiv:[MESH:C564400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/MESH:C564400)
+    * Syn: "Arrhythmogenic Right Ventricular Cardiomyopathy 8"
+    * Syn: "ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8; ARVD8"
+    * Syn: "ARVD8"
 
 ### Arrhythmogenic right ventricular cardiomyopathy, type 8
-
-Score: 1.6944444444444446
-
- * [OMIM:607450 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/OMIM:607450)
-    * [MESH:C564400 -](http://beta.monarchinitiative.org/disease/MESH:C564400)
+ * [OMIM:607450 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/OMIM:607450) Confidence: low/0.21180555555555558
+    * Equiv:[MESH:C564400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/MESH:C564400)
+    * Syn: "Arrhythmogenic Right Ventricular Cardiomyopathy 8"
+    * Syn: "ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8; ARVD8"
+    * Syn: "ARVD8"
 
 ### Arrhythmogenic right ventricular dysplasia/cardiomyopathy
-
-Score: 1.527777777777778
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR AND KERATODERMA
-
-Score: 1.640625
-
- * [OMIM:605676 Cardiomyopathy dilated with Woolly hair and keratoderma](http://beta.monarchinitiative.org/disease/OMIM:605676)
-    * [MESH:C535581 -](http://beta.monarchinitiative.org/disease/MESH:C535581)
+ * [OMIM:605676 Cardiomyopathy dilated with Woolly hair and keratoderma](http://beta.monarchinitiative.org/disease/OMIM:605676) Confidence: high
+    * Equiv:[MESH:C535581 Cardiomyopathy dilated with Woolly hair and keratoderma](http://beta.monarchinitiative.org/disease/MESH:C535581)
+    * Syn: "CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR AND KERATODERMA; DCWHK"
+    * Syn: "Carvajal Syndrome"
+    * Syn: "DCWHK"
+    * Syn: "Palmoplantar Keratoderma With Left Ventricular Cardiomyopathy and Woolly Hair"
 
 ### CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR, KERATODERMA, AND TOOTH AGENESIS
-
-Score: 1.71
-
- * [OMIM:615821 Cardiomyopathy, Dilated, With Woolly Hair, Keratoderma, and Tooth Agenesis](http://beta.monarchinitiative.org/disease/OMIM:615821)
+ * [OMIM:615821 Cardiomyopathy, Dilated, With Woolly Hair, Keratoderma, and Tooth Agenesis](http://beta.monarchinitiative.org/disease/OMIM:615821) Confidence: high
+    * Syn: "CARDIOMYOPATHY, DILATED, WITH WOOLLY HAIR, KERATODERMA, AND TOOTH AGENESIS; DCWHKTA"
+    * Syn: "DCWHKTA"
 
 ### Cardiac Arrest
-
-Score: 2
-
- * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319)
-    * [MESH:D006323 -](http://beta.monarchinitiative.org/disease/MESH:D006323)
+ * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319) Confidence: high
+    * Equiv:[MESH:D006323 Heart Arrest](http://beta.monarchinitiative.org/disease/MESH:D006323)
+    * Syn: "cardiopulmonary arrest"
+    * Syn: "circulatory arrest"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Cardiomyopathy, arrhythmogenic right ventricular
-
-Score: 2
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Cardiomyopathy, dilated
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Cardiomyopathy, restrictive
-
-Score: 2
-
- * [DOID:397 restrictive cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:397)
-    * [MESH:D002313 -](http://beta.monarchinitiative.org/disease/MESH:D002313)
+ * [DOID:397 restrictive cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:397) Confidence: high
+    * Equiv:[MESH:D002313 Cardiomyopathy, Restrictive](http://beta.monarchinitiative.org/disease/MESH:D002313)
+    * Syn: "Cardiomyopathy, constrictive"
+    * Syn: "Familial restrictive cardiomyopathy"
+    * Syn: "primary restrictive cardiomyopathy (disorder)"
+    * Syn: "Restrictive cardiomyopathy"
+    * Syn: "Restrictive cardiomyopathy (disorder)"
 
 ### Collapse (finding)
-
-Score: 1.3125
-
- * [DOID:600 animal phobia](http://beta.monarchinitiative.org/disease/DOID:600)
- * [DOID:4090 agnosia](http://beta.monarchinitiative.org/disease/DOID:4090)
- * [DOID:3781 anovulation](http://beta.monarchinitiative.org/disease/DOID:3781)
-    * [MESH:D000858 -](http://beta.monarchinitiative.org/disease/MESH:D000858)
- * [DOID:3766 leukorrhea](http://beta.monarchinitiative.org/disease/DOID:3766)
-    * [MESH:D007973 -](http://beta.monarchinitiative.org/disease/MESH:D007973)
- * [DOID:2983 anuria](http://beta.monarchinitiative.org/disease/DOID:2983)
-    * [MESH:D001002 -](http://beta.monarchinitiative.org/disease/MESH:D001002)
- * [DOID:1439 pyuria](http://beta.monarchinitiative.org/disease/DOID:1439)
-    * [MESH:D011776 -](http://beta.monarchinitiative.org/disease/MESH:D011776)
- * [DOID:14228 oligospermia](http://beta.monarchinitiative.org/disease/DOID:14228)
-    * [MESH:D009845 -](http://beta.monarchinitiative.org/disease/MESH:D009845)
- * [DOID:13938 amenorrhea](http://beta.monarchinitiative.org/disease/DOID:13938)
-    * [MESH:D000568 -](http://beta.monarchinitiative.org/disease/MESH:D000568)
- * [DOID:12987 agranulocytosis](http://beta.monarchinitiative.org/disease/DOID:12987)
-    * [MESH:D000380 -](http://beta.monarchinitiative.org/disease/MESH:D000380)
- * [DOID:12959 lagophthalmos](http://beta.monarchinitiative.org/disease/DOID:12959)
- * [DOID:11702 dysgammaglobulinemia](http://beta.monarchinitiative.org/disease/DOID:11702)
-    * [MESH:D004406 -](http://beta.monarchinitiative.org/disease/MESH:D004406)
+ * [DOID:600 animal phobia](http://beta.monarchinitiative.org/disease/DOID:600) Confidence: low/0.1640625
+    * Syn: "Fear of animals (finding)"
+    * Syn: "Zoophobia (finding)"
 
 ### Dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Dilated cardiomyopathy, woolly hair, keratoderma
-
-Score: 1.2244897959183674
-
- * [Orphanet:65282 Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome](http://beta.monarchinitiative.org/disease/Orphanet:65282)
- * [OMIM:605676 Cardiomyopathy dilated with Woolly hair and keratoderma](http://beta.monarchinitiative.org/disease/OMIM:605676)
-    * [MESH:C535581 -](http://beta.monarchinitiative.org/disease/MESH:C535581)
+ * [Orphanet:65282 Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome](http://beta.monarchinitiative.org/disease/Orphanet:65282) Confidence: low/0.15306122448979592
 
 ### Dysplasia, arrhythmogenic right ventricular
-
-Score: 2
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### EPIDERMOLYSIS BULLOSA, LETHAL ACANTHOLYTIC
-
-Score: 1.4400000000000002
-
- * [OMIM:609638 Lethal acantholytic epidermolysis bullosa](http://beta.monarchinitiative.org/disease/OMIM:609638)
-    * [Orphanet:158687 -](http://beta.monarchinitiative.org/disease/Orphanet:158687)
-    * [MESH:C535493 -](http://beta.monarchinitiative.org/disease/MESH:C535493)
+ * [OMIM:609638 Lethal acantholytic epidermolysis bullosa](http://beta.monarchinitiative.org/disease/OMIM:609638) Confidence: high
+    * Equiv:[Orphanet:158687 Lethal acantholytic epidermolysis bullosa](http://beta.monarchinitiative.org/disease/Orphanet:158687)
+    * Equiv:[MESH:C535493 Epidermolysis bullosa, lethal acantholytic](http://beta.monarchinitiative.org/disease/MESH:C535493)
+    * Syn: "EBLA"
+    * Syn: "EPIDERMOLYSIS BULLOSA, LETHAL ACANTHOLYTIC; EBLA"
+    * Syn: "Lethal Acantholytic Epidermolysis Bullosa"
 
 ### KERATOSIS PALMOPLANTARIS STRIATA II
-
-Score: 1.4400000000000002
-
- * [OMIM:612908 Keratosis Palmoplantaris Striata II](http://beta.monarchinitiative.org/disease/OMIM:612908)
-    * [MESH:C565102 -](http://beta.monarchinitiative.org/disease/MESH:C565102)
+ * [OMIM:612908 Keratosis Palmoplantaris Striata II](http://beta.monarchinitiative.org/disease/OMIM:612908) Confidence: high
+    * Equiv:[MESH:C565102 Keratosis Palmoplantaris Striata II](http://beta.monarchinitiative.org/disease/MESH:C565102)
+    * Syn: "Keratoderma, Palmoplantar, Striate Form 2"
+    * Syn: "KERATOSIS PALMOPLANTARIS STRIATA II; PPKS2"
+    * Syn: "PPKS2"
+    * Syn: "Striate Palmoplantar Keratoderma 2"
 
 ### Left ventricular noncompaction cardiomyopathy
-
-Score: 1.5625
-
- * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237)
+ * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237) Confidence: low/0.1953125
 
 ### Long QT syndrome
-
-Score: 2
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: high
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### Paroxysmal familial ventricular fibrillation
-
-Score: 1.5625
-
- * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956)
-    * [MESH:C537182 -](http://beta.monarchinitiative.org/disease/MESH:C537182)
-    * [MESH:C567841 -](http://beta.monarchinitiative.org/disease/MESH:C567841)
+ * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956) Confidence: low/0.1953125
+    * Equiv:[MESH:C537182 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/MESH:C537182)
+    * Equiv:[MESH:C567841 Ventricular Fibrillation, Paroxysmal Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C567841)
+    * Syn: "VENTRICULAR FIBRILLATION, PAROXYSMAL FAMILIAL, 2; VF2"
+    * Syn: "VF2"
 
 ### Primary dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### SKIN FRAGILITY-WOOLLY HAIR SYNDROME
-
-Score: 1.527777777777778
-
- * [OMIM:607655 Skin Fragility-Woolly Hair Syndrome](http://beta.monarchinitiative.org/disease/OMIM:607655)
-    * [MESH:C564359 -](http://beta.monarchinitiative.org/disease/MESH:C564359)
-
-Score: 1.527777777777778
-
- * [OMIM:607655 Skin Fragility-Woolly Hair Syndrome](http://beta.monarchinitiative.org/disease/OMIM:607655)
-    * [MESH:C564359 -](http://beta.monarchinitiative.org/disease/MESH:C564359)
-
-Score: 1.04
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.0625
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:607655 Skin Fragility-Woolly Hair Syndrome](http://beta.monarchinitiative.org/disease/OMIM:607655) Confidence: high
+    * Equiv:[MESH:C564359 Skin Fragility-Woolly Hair Syndrome](http://beta.monarchinitiative.org/disease/MESH:C564359)
+    * Syn: "SFWHS"
+    * Syn: "SKIN FRAGILITY-WOOLLY HAIR SYNDROME; SFWHS"
 
 ### Subaortic stenosis
-
-Score: 1.1111111111111112
-
- * [Orphanet:99053 Tunnel subaortic stenosis](http://beta.monarchinitiative.org/disease/Orphanet:99053)
- * [Orphanet:3092 Fixed subaortic stenosis](http://beta.monarchinitiative.org/disease/Orphanet:3092)
- * [DOID:5804 discrete subaortic stenosis](http://beta.monarchinitiative.org/disease/DOID:5804)
-    * [MESH:D021922 -](http://beta.monarchinitiative.org/disease/MESH:D021922)
+ * [Orphanet:99053 Tunnel subaortic stenosis](http://beta.monarchinitiative.org/disease/Orphanet:99053) Confidence: low/0.1388888888888889
 
 ### Ventricular fibrillation
-
-Score: 2
-
- * [MESH:D014693 Ventricular Fibrillation](http://beta.monarchinitiative.org/disease/MESH:D014693)
-    * [DC:0000692 -](http://beta.monarchinitiative.org/disease/DC:0000692)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D014693 Ventricular Fibrillation](http://beta.monarchinitiative.org/disease/MESH:D014693) Confidence: high
+    * Equiv:[DC:0000692 -](http://beta.monarchinitiative.org/disease/DC:0000692)

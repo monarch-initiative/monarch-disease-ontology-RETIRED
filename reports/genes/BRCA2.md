@@ -1,230 +1,137 @@
 
 ## GENE: BRCA2
 
-### AllHighlyPenetrant
-
 ### BRCA1 and BRCA2 Hereditary Breast and Ovarian Cancer
-
-Score: 1.3265306122448979
-
- * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683)
-    * [MESH:D061325 -](http://beta.monarchinitiative.org/disease/MESH:D061325)
+ * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683) Confidence: low/0.16581632653061223
+    * Equiv:[MESH:D061325 Hereditary Breast and Ovarian Cancer Syndrome](http://beta.monarchinitiative.org/disease/MESH:D061325)
 
 ### BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 2
-
-Score: 1.3125
-
- * [OMIM:612555 Breast-Ovarian Cancer, Familial, Susceptibility To, 2](http://beta.monarchinitiative.org/disease/OMIM:612555)
-
-Score: 1.3125
-
- * [OMIM:612555 Breast-Ovarian Cancer, Familial, Susceptibility To, 2](http://beta.monarchinitiative.org/disease/OMIM:612555)
-
-Score: 1.0816326530612246
-
- * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394)
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
-
-Score: 1.0277777777777777
-
- * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162)
+ * [OMIM:612555 Breast-Ovarian Cancer, Familial, Susceptibility To, 2](http://beta.monarchinitiative.org/disease/OMIM:612555) Confidence: high
+    * Syn: "Breast Cancer, Familial, Susceptibility To, 2"
+    * Syn: "BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 2; BROVCA2"
+    * Syn: "BROVCA2"
+    * Syn: "Ovarian Cancer, Familial, Susceptibility To, 2"
 
 ### Breast and/or ovarian cancer
-
-Score: 1.1111111111111112
-
- * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394)
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
+ * [OMIM:167000 Ovarian Cancer](http://beta.monarchinitiative.org/disease/OMIM:167000) Confidence: low/0.1388888888888889
+    * Syn: "OVARIAN CANCER"
+    * Syn: "Ovarian Cancer, Epithelial"
 
 ### Breast cancer
-
-Score: 2
-
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
+ * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612) Confidence: high
+    * Syn: "breast tumor"
+    * Syn: "malignant neoplasm of breast"
+    * Syn: "malignant tumor of the breast"
+    * Syn: "mammary cancer"
+    * Syn: "mammary neoplasm"
+    * Syn: "mammary tumor"
+    * Syn: "primary breast cancer"
 
 ### Breast cancer, male
-
-Score: 2
-
- * [DOID:1614 male breast cancer](http://beta.monarchinitiative.org/disease/DOID:1614)
+ * [DOID:1614 male breast cancer](http://beta.monarchinitiative.org/disease/DOID:1614) Confidence: high
+    * Syn: "malignant neoplasm of male breast"
+    * Syn: "neoplasm of male breast (disorder)"
 
 ### Breast-ovarian cancer, familial
-
-Score: 1.5625
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
-
-Score: 1.5625
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
-
-Score: 1.3125
-
- * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683)
-    * [MESH:D061325 -](http://beta.monarchinitiative.org/disease/MESH:D061325)
-
-Score: 1.1111111111111112
-
- * [MESH:C537243 Prostate cancer, familial](http://beta.monarchinitiative.org/disease/MESH:C537243)
- * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162)
- * [DOID:10283 prostate cancer](http://beta.monarchinitiative.org/disease/DOID:10283)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.1953125
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### Breast-ovarian cancer, familial 2
-
-Score: 1.3599999999999999
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
-
-Score: 1.3599999999999999
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
-
-Score: 1.1600000000000001
-
- * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394)
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
-
-Score: 1.0625
-
- * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.16999999999999998
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### FANCONI ANEMIA, COMPLEMENTATION GROUP D1
-
-Score: 1.527777777777778
-
- * [OMIM:605724 Fanconi Anemia, Complementation Group D1](http://beta.monarchinitiative.org/disease/OMIM:605724)
-    * [MESH:C563980 -](http://beta.monarchinitiative.org/disease/MESH:C563980)
+ * [OMIM:605724 Fanconi Anemia, Complementation Group D1](http://beta.monarchinitiative.org/disease/OMIM:605724) Confidence: high
+    * Equiv:[MESH:C563980 Fanconi Anemia, Complementation Group D1](http://beta.monarchinitiative.org/disease/MESH:C563980)
+    * Syn: "Fad1"
+    * Syn: "FANCD1"
+    * Syn: "FANCONI ANEMIA, COMPLEMENTATION GROUP D1; FANCD1"
 
 ### Familial Breast cancer
-
-Score: 2
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### Familial cancer of breast
-
-Score: 1.5625
-
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480)
-    * [MESH:C562840 -](http://beta.monarchinitiative.org/disease/MESH:C562840)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### GLIOMA SUSCEPTIBILITY 3
-
-Score: 1.3125
-
- * [OMIM:613029 Glioma Susceptibility 3](http://beta.monarchinitiative.org/disease/OMIM:613029)
+ * [OMIM:613029 Glioma Susceptibility 3](http://beta.monarchinitiative.org/disease/OMIM:613029) Confidence: high
+    * Syn: "GLIOMA SUSCEPTIBILITY 3; GLM3"
+    * Syn: "GLM3"
 
 ### MEDULLOBLASTOMA
-
-Score: 2
-
- * [DOID:0050902 medulloblastoma](http://beta.monarchinitiative.org/disease/DOID:0050902)
+ * [DOID:0050902 medulloblastoma](http://beta.monarchinitiative.org/disease/DOID:0050902) Confidence: high
+    * Syn: "CNS PNET"
+    * Syn: "CPNET"
+    * Syn: "infratentorial primitive neuroectodermal tumor "
+    * Syn: "localized primitive neuroectodermal tumor"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### Oesophageal carcinoma
-
-Score: 1.25
-
- * [DOID:305 carcinoma](http://beta.monarchinitiative.org/disease/DOID:305)
+ * [DOID:305 carcinoma](http://beta.monarchinitiative.org/disease/DOID:305) Confidence: low/0.15625
+    * Syn: "epithelioma"
+    * Syn: "malignant Epithelioma"
 
 ### Ovarian cancer
-
-Score: 2
-
- * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394)
+ * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394) Confidence: high
+    * Syn: "malignant Ovarian tumor"
+    * Syn: "malignant tumour of ovary"
+    * Syn: "ovarian neoplasm"
+    * Syn: "ovary neoplasm"
+    * Syn: "primary ovarian cancer"
+    * Syn: "tumor of the Ovary"
 
 ### PANCREATIC CANCER, SUSCEPTIBILITY TO, 2
-
-Score: 1.4400000000000002
-
- * [OMIM:613347 Pancreatic Cancer, Susceptibility To, 2](http://beta.monarchinitiative.org/disease/OMIM:613347)
+ * [OMIM:613347 Pancreatic Cancer, Susceptibility To, 2](http://beta.monarchinitiative.org/disease/OMIM:613347) Confidence: high
+    * Syn: "PANCREATIC CANCER, SUSCEPTIBILITY TO, 2"
+    * Syn: "Pnca2"
 
 ### PRE-B-CELL ACUTE LYMPHOBLASTIC LEUKEMIA
-
-Score: 1.25
-
- * [DOID:9952 acute lymphocytic leukemia](http://beta.monarchinitiative.org/disease/DOID:9952)
-
-Score: 1.5625
-
- * [DOID:9952 acute lymphocytic leukemia](http://beta.monarchinitiative.org/disease/DOID:9952)
-
-Score: 1.3125
-
- * [OMIM:613065 Leukemia, Acute Lymphoblastic](http://beta.monarchinitiative.org/disease/OMIM:613065)
-
-Score: 1.5625
-
- * [DOID:9952 acute lymphocytic leukemia](http://beta.monarchinitiative.org/disease/DOID:9952)
+ * [MESH:D015448 Leukemia, B-Cell](http://beta.monarchinitiative.org/disease/MESH:D015448) Confidence: low/0.15625
 
 ### PROSTATE CANCER
-
-Score: 2
-
- * [DOID:10283 prostate cancer](http://beta.monarchinitiative.org/disease/DOID:10283)
+ * [DOID:10283 prostate cancer](http://beta.monarchinitiative.org/disease/DOID:10283) Confidence: high
+    * Syn: "hereditary prostate cancer"
+    * Syn: "malignant tumor of the prostate"
+    * Syn: "NGP - new growth of prostate"
+    * Syn: "prostate cancer, familial"
+    * Syn: "prostate neoplasm"
+    * Syn: "prostatic cancer"
+    * Syn: "prostatic neoplasm"
+    * Syn: "tumor of the prostate"
 
 ### Primordial Dwarfism
-
-Score: 2
-
- * [OMIM:262400 Isolated Growth Hormone Deficiency, Type 1A](http://beta.monarchinitiative.org/disease/OMIM:262400)
+ * [OMIM:262400 Isolated Growth Hormone Deficiency, Type 1A](http://beta.monarchinitiative.org/disease/OMIM:262400) Confidence: high
+    * Syn: "Growth Hormone Deficiency, Isolated, Autosomal Recessive"
+    * Syn: "Ighd 1A"
+    * Syn: "IGHD1A"
+    * Syn: "Illig-Type Growth Hormone Deficiency"
+    * Syn: "ISOLATED GROWTH HORMONE DEFICIENCY, TYPE IA; IGHD1A"
+    * Syn: "Pituitary Dwarfism 1"
+    * Syn: "Primordial Dwarfism"
+    * Syn: "Sexual Ateleiotic Dwarfism"
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### WILMS TUMOR
-
-Score: 1.1111111111111112
-
- * [OMIM:601363 Wilms Tumor 4](http://beta.monarchinitiative.org/disease/OMIM:601363)
-    * [MESH:C563336 -](http://beta.monarchinitiative.org/disease/MESH:C563336)
+ * [DC:0000457 Wilms Tumor](http://beta.monarchinitiative.org/disease/DC:0000457) Confidence: high
 
 ### hereditary breast and ovarian cancer, BROVCA2
-
-Score: 1.4444444444444444
-
- * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683)
-    * [MESH:D061325 -](http://beta.monarchinitiative.org/disease/MESH:D061325)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:D061325 Hereditary Breast and Ovarian Cancer Syndrome](http://beta.monarchinitiative.org/disease/MESH:D061325)

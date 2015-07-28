@@ -2,51 +2,38 @@
 ## GENE: BMPR1A
 
 ### Gastrointestinal polyposis
-
-Score: 1.25
-
- * [DC:0000587 Polyposis](http://beta.monarchinitiative.org/disease/DC:0000587)
+ * [DC:0000587 Polyposis](http://beta.monarchinitiative.org/disease/DC:0000587) Confidence: low/0.15625
 
 ### JUVENILE POLYPOSIS OF INFANCY
-
-Score: 0.9166666666666666
-
- * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787)
+ * [OMIM:612242 Juvenile polyposis of infancy](http://beta.monarchinitiative.org/disease/OMIM:612242) Confidence: high
+    * Equiv:[Orphanet:79076 Juvenile polyposis of infancy](http://beta.monarchinitiative.org/disease/Orphanet:79076)
+    * Equiv:[MESH:C567385 Chromosome 10q23 Deletion Syndrome](http://beta.monarchinitiative.org/disease/MESH:C567385)
+    * Syn: "CHROMOSOME 10q23 DELETION SYNDROME"
+    * Syn: "Juvenile Polyposis of Infancy"
+    * Syn: "Juvenile Polyposis, Infantile"
 
 ### JUVENILE POLYPOSIS SYNDROME
-
-Score: 2
-
- * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787)
+ * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787) Confidence: high
 
 ### Juvenile polyposis syndrome
-
-Score: 2
-
- * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787)
+ * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787) Confidence: high
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### POLYPOSIS SYNDROME, HEREDITARY MIXED, 2
-
-Score: 1.527777777777778
-
- * [OMIM:610069 Polyposis Syndrome, Hereditary Mixed, 2](http://beta.monarchinitiative.org/disease/OMIM:610069)
-    * [MESH:C566451 -](http://beta.monarchinitiative.org/disease/MESH:C566451)
+ * [OMIM:610069 Polyposis Syndrome, Hereditary Mixed, 2](http://beta.monarchinitiative.org/disease/OMIM:610069) Confidence: high
+    * Equiv:[MESH:C566451 Polyposis Syndrome, Hereditary Mixed, 2](http://beta.monarchinitiative.org/disease/MESH:C566451)
+    * Syn: "HMPS2"
+    * Syn: "POLYPOSIS SYNDROME, HEREDITARY MIXED, 2; HMPS2"
 
 ### Polyposis, juvenile intestinal
-
-Score: 2
-
- * [OMIM:174900 Juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/OMIM:174900)
-    * [MESH:C537702 -](http://beta.monarchinitiative.org/disease/MESH:C537702)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:174900 Juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/OMIM:174900) Confidence: high
+    * Equiv:[MESH:C537702 Juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/MESH:C537702)
+    * Syn: "JPS"
+    * Syn: "Juvenile Intestinal Polyposis"
+    * Syn: "Juvenile Polyposis Coli"
+    * Syn: "Juvenile Polyposis of Stomach"
+    * Syn: "JUVENILE POLYPOSIS SYNDROME; JPS"
+    * Syn: "Polyposis, Familial, of Entire Gastrointestinal Tract"
+    * Syn: "Polyposis, Juvenile Intestinal"

@@ -1,70 +1,49 @@
 
 ## GENE: MYL2
 
-### AllHighlyPenetrant
-
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [OMIM:608758 Cardiomyopathy, Familial Hypertrophic, 10](http://beta.monarchinitiative.org/disease/OMIM:608758) Confidence: high
+    * Equiv:[MESH:C563865 Cardiomyopathy, Familial Hypertrophic, 10](http://beta.monarchinitiative.org/disease/MESH:C563865)
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10; CMH10"
+    * Syn: "Cardiomyopathy, Hypertrophic, Mid-Left Ventricular Chamber Type, 2"
+    * Syn: "CMH10"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Cardiomyopathy, familial hypertrophic, 10
-
-Score: 2
-
- * [OMIM:608758 Cardiomyopathy, Familial Hypertrophic, 10](http://beta.monarchinitiative.org/disease/OMIM:608758)
-    * [MESH:C563865 -](http://beta.monarchinitiative.org/disease/MESH:C563865)
+ * [OMIM:608758 Cardiomyopathy, Familial Hypertrophic, 10](http://beta.monarchinitiative.org/disease/OMIM:608758) Confidence: high
+    * Equiv:[MESH:C563865 Cardiomyopathy, Familial Hypertrophic, 10](http://beta.monarchinitiative.org/disease/MESH:C563865)
+    * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10; CMH10"
+    * Syn: "Cardiomyopathy, Hypertrophic, Mid-Left Ventricular Chamber Type, 2"
+    * Syn: "CMH10"
 
 ### Cardiomyopathy, hypertrophic
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Hypertrophic Cardiomyopathy
-
-Score: 2
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Ventricular extrasystoles
-
-Score: 1.25
-
- * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000)
-    * [MESH:D001145 -](http://beta.monarchinitiative.org/disease/MESH:D001145)
-    * [MESH:D005117 -](http://beta.monarchinitiative.org/disease/MESH:D005117)
+ * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000) Confidence: low/0.15625
+    * Equiv:[MESH:D001145 Arrhythmias, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D001145)
+    * Equiv:[MESH:D005117 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/MESH:D005117)
+    * Syn: "CARDIAC ARRHYTHMIA"
+    * Syn: "Extrasystoles"

@@ -2,147 +2,140 @@
 ## GENE: APC
 
 ### ADENOMA, PERIAMPULLARY, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:0050849 periampullary adenoma](http://beta.monarchinitiative.org/disease/DOID:0050849)
+ * [MESH:D000236 Adenoma](http://beta.monarchinitiative.org/disease/MESH:D000236) Confidence: low/0.1388888888888889
 
 ### ADENOMATOUS POLYPOSIS COLI WITH CONGENITAL CHOLESTEATOMA
-
-Score: 1.1111111111111112
-
- * [OMIM:604183 Cholesteatoma, Congenital](http://beta.monarchinitiative.org/disease/OMIM:604183)
-    * [MESH:C562858 -](http://beta.monarchinitiative.org/disease/MESH:C562858)
+ * [OMIM:604183 Cholesteatoma, Congenital](http://beta.monarchinitiative.org/disease/OMIM:604183) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:C562858 Cholesteatoma, Congenital](http://beta.monarchinitiative.org/disease/MESH:C562858)
+    * Syn: "CHOLESTEATOMA, CONGENITAL"
 
 ### Adenomatous polyposis coli
-
-Score: 2
-
- * [MESH:D011125 Adenomatous Polyposis Coli](http://beta.monarchinitiative.org/disease/MESH:D011125)
-
-### AllHighlyPenetrant
+ * [MESH:D011125 Adenomatous Polyposis Coli](http://beta.monarchinitiative.org/disease/MESH:D011125) Confidence: high
 
 ### BRAIN TUMOR-POLYPOSIS SYNDROME 2
-
-Score: 1.04
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.0625
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.04
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.0625
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: high
+    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
+    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
+    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
+    * Syn: "Adenomatous Polyposis Coli, Attenuated"
+    * Syn: "Adenomatous Polyposis of the Colon"
+    * Syn: "Brain Tumor-Polyposis Syndrome 2"
+    * Syn: "FAMILIAL ADENOMATOUS POLYPOSIS 1; FAP1"
+    * Syn: "Familial Adenomatous Polyposis, Attenuated"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "FAP1"
+    * Syn: "Gardner Syndrome"
+    * Syn: "Polyposis, Adenomatous Intestinal"
 
 ### BREAST CANCER, SUSCEPTIBILITY TO
-
-Score: 1.25
-
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612)
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.15625
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### COLORECTAL CANCER, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256)
+ * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.1388888888888889
+    * Syn: "Colon Cancer"
+    * Syn: "COLORECTAL CANCER; CRC"
+    * Syn: "CRC"
 
 ### Colon cancer
-
-Score: 2
-
- * [DOID:219 colon cancer](http://beta.monarchinitiative.org/disease/DOID:219)
+ * [DOID:219 colon cancer](http://beta.monarchinitiative.org/disease/DOID:219) Confidence: high
 
 ### Colorectal adenoma
-
-Score: 2
-
- * [DOID:0050860 colorectal adenoma](http://beta.monarchinitiative.org/disease/DOID:0050860)
+ * [DOID:0050860 colorectal adenoma](http://beta.monarchinitiative.org/disease/DOID:0050860) Confidence: high
 
 ### DESMOID DISEASE, HEREDITARY
-
-Score: 2
-
- * [OMIM:135290 Desmoid disease, hereditary](http://beta.monarchinitiative.org/disease/OMIM:135290)
-    * [MESH:C535944 -](http://beta.monarchinitiative.org/disease/MESH:C535944)
+ * [OMIM:135290 Desmoid disease, hereditary](http://beta.monarchinitiative.org/disease/OMIM:135290) Confidence: high
+    * Equiv:[MESH:C535944 Desmoid disease, hereditary](http://beta.monarchinitiative.org/disease/MESH:C535944)
+    * Syn: "DESMOID DISEASE, HEREDITARY"
+    * Syn: "Desmoid Tumor Caused by Somatic Mutation"
+    * Syn: "Fibromatosis, Familial Infiltrative"
 
 ### DESMOID TUMOR, SOMATIC
-
-Score: 1.4444444444444444
-
- * [Orphanet:873 Desmoid tumor](http://beta.monarchinitiative.org/disease/Orphanet:873)
+ * [Orphanet:873 Desmoid tumor](http://beta.monarchinitiative.org/disease/Orphanet:873) Confidence: low/0.18055555555555555
 
 ### FAMILIAL ADENOMATOUS POLYPOSIS 1
-
-Score: 1.5625
-
- * [DOID:0050424 familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/DOID:0050424)
+ * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.18000000000000002
+    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
+    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
+    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
+    * Syn: "Adenomatous Polyposis Coli, Attenuated"
+    * Syn: "Adenomatous Polyposis of the Colon"
+    * Syn: "Brain Tumor-Polyposis Syndrome 2"
+    * Syn: "FAMILIAL ADENOMATOUS POLYPOSIS 1; FAP1"
+    * Syn: "Familial Adenomatous Polyposis, Attenuated"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "FAP1"
+    * Syn: "Gardner Syndrome"
+    * Syn: "Polyposis, Adenomatous Intestinal"
 
 ### FAMILIAL ADENOMATOUS POLYPOSIS 1, ATTENUATED
-
-Score: 1.4400000000000002
-
- * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100)
-    * [MESH:C538265 -](http://beta.monarchinitiative.org/disease/MESH:C538265)
-    * [MESH:C566778 -](http://beta.monarchinitiative.org/disease/MESH:C566778)
-    * [MESH:D005736 -](http://beta.monarchinitiative.org/disease/MESH:D005736)
+ * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.18000000000000002
+    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
+    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
+    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
+    * Syn: "Adenomatous Polyposis Coli, Attenuated"
+    * Syn: "Adenomatous Polyposis of the Colon"
+    * Syn: "Brain Tumor-Polyposis Syndrome 2"
+    * Syn: "FAMILIAL ADENOMATOUS POLYPOSIS 1; FAP1"
+    * Syn: "Familial Adenomatous Polyposis, Attenuated"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "FAP1"
+    * Syn: "Gardner Syndrome"
+    * Syn: "Polyposis, Adenomatous Intestinal"
 
 ### FAMILIAL ADENOMATOUS POLYPOSIS 1, SUSCEPTIBILITY TO
-
-Score: 1.25
-
- * [DOID:0050424 familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/DOID:0050424)
+ * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.15555555555555556
+    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
+    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
+    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
+    * Syn: "Adenomatous Polyposis Coli, Attenuated"
+    * Syn: "Adenomatous Polyposis of the Colon"
+    * Syn: "Brain Tumor-Polyposis Syndrome 2"
+    * Syn: "FAMILIAL ADENOMATOUS POLYPOSIS 1; FAP1"
+    * Syn: "Familial Adenomatous Polyposis, Attenuated"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "FAP1"
+    * Syn: "Gardner Syndrome"
+    * Syn: "Polyposis, Adenomatous Intestinal"
 
 ### Familial Adenomatous Polyposis
-
-Score: 2
-
- * [DOID:0050424 familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/DOID:0050424)
+ * [DOID:0050424 familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/DOID:0050424) Confidence: high
+    * Syn: "adenomatous polyposis of the colon"
 
 ### GARDNER SYNDROME
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [Orphanet:79665 Gardner syndrome](http://beta.monarchinitiative.org/disease/Orphanet:79665) Confidence: high
 
 ### GASTRIC CANCER, SOMATIC
-
-Score: 1.4444444444444444
-
- * [OMIM:613659 Gastric Cancer](http://beta.monarchinitiative.org/disease/OMIM:613659)
- * [DC:0000523 Gastric Cancer](http://beta.monarchinitiative.org/disease/DC:0000523)
+ * [OMIM:613659 Gastric Cancer](http://beta.monarchinitiative.org/disease/OMIM:613659) Confidence: low/0.18055555555555555
+    * Syn: "GASTRIC CANCER"
+    * Syn: "Gastric Cancer, Intestinal"
 
 ### HEPATOBLASTOMA, SOMATIC
-
-Score: 1.25
-
- * [DOID:687 hepatoblastoma](http://beta.monarchinitiative.org/disease/DOID:687)
+ * [OMIM:114550 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/OMIM:114550) Confidence: low/0.15625
+    * Equiv:[MESH:C567299 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/MESH:C567299)
+    * Syn: "Cancer, Hepatocellular"
+    * Syn: "Hcc"
+    * Syn: "Hepatoblastoma"
+    * Syn: "Hepatoblastoma Caused by Somatic Mutation"
+    * Syn: "HEPATOCELLULAR CARCINOMA"
+    * Syn: "Hepatoma"
+    * Syn: "Liver Cancer"
+    * Syn: "Liver Cell Carcinoma"
 
 ### HEPATOCELLULAR CARCINOMA, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:684 hepatocellular carcinoma](http://beta.monarchinitiative.org/disease/DOID:684)
+ * [OMIM:114550 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/OMIM:114550) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:C567299 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/MESH:C567299)
+    * Syn: "Cancer, Hepatocellular"
+    * Syn: "Hcc"
+    * Syn: "Hepatoblastoma"
+    * Syn: "Hepatoblastoma Caused by Somatic Mutation"
+    * Syn: "HEPATOCELLULAR CARCINOMA"
+    * Syn: "Hepatoma"
+    * Syn: "Liver Cancer"
+    * Syn: "Liver Cell Carcinoma"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high

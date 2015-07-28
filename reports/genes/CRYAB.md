@@ -2,86 +2,49 @@
 ## GENE: CRYAB
 
 ### CARDIOMYOPATHY, DILATED, 1II
-
-Score: 1.4400000000000002
-
- * [OMIM:615184 Cardiomyopathy, Dilated, 1Ii](http://beta.monarchinitiative.org/disease/OMIM:615184)
+ * [OMIM:615184 Cardiomyopathy, Dilated, 1Ii](http://beta.monarchinitiative.org/disease/OMIM:615184) Confidence: high
+    * Syn: "CARDIOMYOPATHY, DILATED, 1II; CMD1II"
+    * Syn: "CMD1II"
 
 ### CATARACT 16, CONGENITAL LAMELLAR
-
-Score: 1.25
-
- * [OMIM:116800 Cataract, zonular](http://beta.monarchinitiative.org/disease/OMIM:116800)
-    * [MESH:C535342 -](http://beta.monarchinitiative.org/disease/MESH:C535342)
+ * [OMIM:116800 Cataract, zonular](http://beta.monarchinitiative.org/disease/OMIM:116800) Confidence: low/0.15625
+    * Equiv:[MESH:C535342 Cataract, zonular](http://beta.monarchinitiative.org/disease/MESH:C535342)
+    * Syn: "CATARACT 5, MULTIPLE TYPES; CTRCT5"
+    * Syn: "Cataract, Lamellar"
+    * Syn: "Cataract, Marner Type"
+    * Syn: "CTRCT5"
 
 ### CATARACT 16, POSTERIOR POLAR
-
-Score: 1.0625
-
- * [DOID:83 cataract](http://beta.monarchinitiative.org/disease/DOID:83)
-    * [MESH:D002386 -](http://beta.monarchinitiative.org/disease/MESH:D002386)
+ * [DOID:83 cataract](http://beta.monarchinitiative.org/disease/DOID:83) Confidence: low/0.1328125
+    * Equiv:[MESH:D002386 Cataract](http://beta.monarchinitiative.org/disease/MESH:D002386)
 
 ### CATARACT, JUVENILE
-
-Score: 1.25
-
- * [DOID:83 cataract](http://beta.monarchinitiative.org/disease/DOID:83)
-    * [MESH:D002386 -](http://beta.monarchinitiative.org/disease/MESH:D002386)
+ * [DOID:83 cataract](http://beta.monarchinitiative.org/disease/DOID:83) Confidence: low/0.15625
+    * Equiv:[MESH:D002386 Cataract](http://beta.monarchinitiative.org/disease/MESH:D002386)
 
 ### MYOPATHY, MYOFIBRILLAR, 2
-
-Score: 1.3125
-
- * [OMIM:608810 Alpha-B Crystallinopathy](http://beta.monarchinitiative.org/disease/OMIM:608810)
-    * [MESH:C563848 -](http://beta.monarchinitiative.org/disease/MESH:C563848)
+ * [OMIM:608810 Alpha-B Crystallinopathy](http://beta.monarchinitiative.org/disease/OMIM:608810) Confidence: low/0.1640625
+    * Equiv:[MESH:C563848 Alpha-B Crystallinopathy](http://beta.monarchinitiative.org/disease/MESH:C563848)
+    * Syn: "Alpha-B Crystallinopathy"
+    * Syn: "MFM2"
+    * Syn: "Myopathy, Desmin-Related, Associated With Mutation 1N the Cryab Gene"
+    * Syn: "MYOPATHY, MYOFIBRILLAR, 2; MFM2"
+    * Syn: "Myopathy, Myofibrillar, Alpha-B Crystallin-Related"
+    * Syn: "Myopathy, Myofibrillar, With or Without Cataract And/Or Cardiomyopathy"
 
 ### MYOPATHY, MYOFIBRILLAR, FATAL INFANTILE HYPERTONIC, ALPHA-B CRYSTALLIN-RELATED
-
-Score: 2
-
- * [OMIM:613869 Myopathy, Myofibrillar, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related](http://beta.monarchinitiative.org/disease/OMIM:613869)
-
-Score: 2
-
- * [OMIM:613869 Myopathy, Myofibrillar, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related](http://beta.monarchinitiative.org/disease/OMIM:613869)
-
-Score: 1.0123456790123457
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
-
-Score: 1.126530612244898
-
- * [Orphanet:280553 Fatal infantile hypertonic myofibrillar myopathy](http://beta.monarchinitiative.org/disease/Orphanet:280553)
+ * [OMIM:613869 Myopathy, Myofibrillar, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related](http://beta.monarchinitiative.org/disease/OMIM:613869) Confidence: high
+    * Syn: "Mfm, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related"
+    * Syn: "MYOPATHY, MYOFIBRILLAR, FATAL INFANTILE HYPERTONIC, ALPHA-B CRYSTALLIN-RELATED"
 
 ### Myopathy, myofibrillar, fatal infantile hypertrophy, alpha-B crystallin-related
-
-Score: 1.6790123456790123
-
- * [OMIM:613869 Myopathy, Myofibrillar, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related](http://beta.monarchinitiative.org/disease/OMIM:613869)
-
-Score: 1.6790123456790123
-
- * [OMIM:613869 Myopathy, Myofibrillar, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related](http://beta.monarchinitiative.org/disease/OMIM:613869)
-
-Score: 1.126530612244898
-
- * [Orphanet:280553 Fatal infantile hypertonic myofibrillar myopathy](http://beta.monarchinitiative.org/disease/Orphanet:280553)
-
-Score: 1.126530612244898
-
- * [Orphanet:280553 Fatal infantile hypertonic myofibrillar myopathy](http://beta.monarchinitiative.org/disease/Orphanet:280553)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:613869 Myopathy, Myofibrillar, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related](http://beta.monarchinitiative.org/disease/OMIM:613869) Confidence: low/0.20987654320987653
+    * Syn: "Mfm, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related"
+    * Syn: "MYOPATHY, MYOFIBRILLAR, FATAL INFANTILE HYPERTONIC, ALPHA-B CRYSTALLIN-RELATED"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"

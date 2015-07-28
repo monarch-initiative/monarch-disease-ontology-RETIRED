@@ -2,84 +2,86 @@
 ## GENE: MEN1
 
 ### ADRENAL ADENOMA, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:656 adrenal adenoma](http://beta.monarchinitiative.org/disease/DOID:656)
+ * [MESH:D000236 Adenoma](http://beta.monarchinitiative.org/disease/MESH:D000236) Confidence: low/0.1388888888888889
 
 ### ANGIOFIBROMA, SOMATIC
-
-Score: 1.25
-
- * [MESH:D018322 Angiofibroma](http://beta.monarchinitiative.org/disease/MESH:D018322)
-
-### AllHighlyPenetrant
+ * [MESH:D018322 Angiofibroma](http://beta.monarchinitiative.org/disease/MESH:D018322) Confidence: low/0.15625
 
 ### CARCINOID TUMOR OF LUNG
-
-Score: 0.9166666666666666
-
- * [DOID:5767 hilar lung neoplasm](http://beta.monarchinitiative.org/disease/DOID:5767)
- * [DOID:0050911 appendix carcinoid tumor](http://beta.monarchinitiative.org/disease/DOID:0050911)
+ * [OMIM:114900 Carcinoid Tumors, Intestinal](http://beta.monarchinitiative.org/disease/OMIM:114900) Confidence: low/0.11458333333333333
+    * Equiv:[MESH:C562842 Carcinoid Tumors, Intestinal](http://beta.monarchinitiative.org/disease/MESH:C562842)
+    * Syn: "CARCINOID TUMORS, INTESTINAL"
 
 ### HYPERPARATHYROIDISM, FAMILIAL ISOLATED PRIMARY
-
-Score: 1.5625
-
- * [DOID:11202 primary hyperparathyroidism](http://beta.monarchinitiative.org/disease/DOID:11202)
-    * [MESH:D049950 -](http://beta.monarchinitiative.org/disease/MESH:D049950)
+ * [OMIM:145000 Hyperparathyroidism 1](http://beta.monarchinitiative.org/disease/OMIM:145000) Confidence: high
+    * Equiv:[MESH:C564166 Hyperparathyroidism 1](http://beta.monarchinitiative.org/disease/MESH:C564166)
+    * Syn: "HRPT1"
+    * Syn: "HYPERPARATHYROIDISM 1; HRPT1"
+    * Syn: "Hyperparathyroidism, Familial Isolated Primary"
+    * Syn: "Parathyroid Adenoma, Familial"
 
 ### Hyperparathyroidism
-
-Score: 2
-
- * [DOID:13543 hyperparathyroidism](http://beta.monarchinitiative.org/disease/DOID:13543)
-    * [MESH:D006961 -](http://beta.monarchinitiative.org/disease/MESH:D006961)
+ * [DOID:13543 hyperparathyroidism](http://beta.monarchinitiative.org/disease/DOID:13543) Confidence: high
+    * Equiv:[MESH:D006961 Hyperparathyroidism](http://beta.monarchinitiative.org/disease/MESH:D006961)
 
 ### LIPOMA, SOMATIC
-
-Score: 1.25
-
- * [DOID:3315 lipoma](http://beta.monarchinitiative.org/disease/DOID:3315)
+ * [OMIM:151900 Lipomatosis, Multiple](http://beta.monarchinitiative.org/disease/OMIM:151900) Confidence: low/0.15625
+    * Syn: "Lipoma"
+    * Syn: "Lipomatosis, Familial Multiple"
+    * Syn: "LIPOMATOSIS, MULTIPLE"
 
 ### MULTIPLE ENDOCRINE NEOPLASIA, TYPE I
-
-Score: 1.527777777777778
-
- * [OMIM:131100 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/OMIM:131100)
-    * [DOID:10017 -](http://beta.monarchinitiative.org/disease/DOID:10017)
-    * [MESH:D018761 -](http://beta.monarchinitiative.org/disease/MESH:D018761)
+ * [OMIM:131100 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/OMIM:131100) Confidence: low/0.19097222222222224
+    * Equiv:[DOID:10017 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/DOID:10017)
+    * Equiv:[MESH:D018761 Multiple Endocrine Neoplasia Type 1](http://beta.monarchinitiative.org/disease/MESH:D018761)
+    * Syn: "Endocrine Adenomatosis, Multiple"
+    * Syn: "Mea 1"
+    * Syn: "Men 1"
+    * Syn: "MEN type I"
+    * Syn: "MEN1"
+    * Syn: "Men1 Somatic Mutations"
+    * Syn: "multiple endocrine neoplasia type 1"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE I; MEN1"
+    * Syn: "Wermer Syndrome"
+    * Syn: "Wermer syndrome"
+    * Syn: "Wermer's syndrome"
 
 ### Multiple Endocrine Neoplasia Type 1
-
-Score: 2
-
- * [OMIM:131100 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/OMIM:131100)
-    * [DOID:10017 -](http://beta.monarchinitiative.org/disease/DOID:10017)
-    * [MESH:D018761 -](http://beta.monarchinitiative.org/disease/MESH:D018761)
+ * [OMIM:131100 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/OMIM:131100) Confidence: high
+    * Equiv:[DOID:10017 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/DOID:10017)
+    * Equiv:[MESH:D018761 Multiple Endocrine Neoplasia Type 1](http://beta.monarchinitiative.org/disease/MESH:D018761)
+    * Syn: "Endocrine Adenomatosis, Multiple"
+    * Syn: "Mea 1"
+    * Syn: "Men 1"
+    * Syn: "MEN type I"
+    * Syn: "MEN1"
+    * Syn: "Men1 Somatic Mutations"
+    * Syn: "multiple endocrine neoplasia type 1"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE I; MEN1"
+    * Syn: "Wermer Syndrome"
+    * Syn: "Wermer syndrome"
+    * Syn: "Wermer's syndrome"
 
 ### Multiple endocrine neoplasia, type 1
-
-Score: 2
-
- * [OMIM:131100 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/OMIM:131100)
-    * [DOID:10017 -](http://beta.monarchinitiative.org/disease/DOID:10017)
-    * [MESH:D018761 -](http://beta.monarchinitiative.org/disease/MESH:D018761)
+ * [OMIM:131100 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/OMIM:131100) Confidence: high
+    * Equiv:[DOID:10017 multiple endocrine neoplasia type 1](http://beta.monarchinitiative.org/disease/DOID:10017)
+    * Equiv:[MESH:D018761 Multiple Endocrine Neoplasia Type 1](http://beta.monarchinitiative.org/disease/MESH:D018761)
+    * Syn: "Endocrine Adenomatosis, Multiple"
+    * Syn: "Mea 1"
+    * Syn: "Men 1"
+    * Syn: "MEN type I"
+    * Syn: "MEN1"
+    * Syn: "Men1 Somatic Mutations"
+    * Syn: "multiple endocrine neoplasia type 1"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE I; MEN1"
+    * Syn: "Wermer Syndrome"
+    * Syn: "Wermer syndrome"
+    * Syn: "Wermer's syndrome"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### PARATHYROID ADENOMA, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:7608 parathyroid adenoma](http://beta.monarchinitiative.org/disease/DOID:7608)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:7608 parathyroid adenoma](http://beta.monarchinitiative.org/disease/DOID:7608) Confidence: low/0.18055555555555555
+    * Syn: "adenoma of parathyroid"
+    * Syn: "adenoma of the Parathyroid gland"

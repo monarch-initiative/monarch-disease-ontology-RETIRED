@@ -2,53 +2,31 @@
 ## GENE: DTNA
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### LEFT VENTRICULAR NONCOMPACTION 1
-
-Score: 1.4400000000000002
-
- * [OMIM:604169 Left Ventricular Noncompaction 1](http://beta.monarchinitiative.org/disease/OMIM:604169)
+ * [OMIM:604169 Left Ventricular Noncompaction 1](http://beta.monarchinitiative.org/disease/OMIM:604169) Confidence: high
+    * Syn: "Left Ventricular Noncompaction 1 With or Without Congenital Heart Defects"
+    * Syn: "LEFT VENTRICULAR NONCOMPACTION 1; LVNC1"
+    * Syn: "LVNC1"
 
 ### MENIERE DISEASE
-
-Score: 2
-
- * [OMIM:156000 Meniere Disease](http://beta.monarchinitiative.org/disease/OMIM:156000)
-    * [MESH:D008575 -](http://beta.monarchinitiative.org/disease/MESH:D008575)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:156000 Meniere Disease](http://beta.monarchinitiative.org/disease/OMIM:156000) Confidence: high
+    * Equiv:[MESH:D008575 Meniere Disease](http://beta.monarchinitiative.org/disease/MESH:D008575)
+    * Syn: "MENIERE DISEASE"
 
 ### Primary dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
