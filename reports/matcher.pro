@@ -51,7 +51,10 @@ wmatch(E,Conf) :-
         forall(equivalent_class_symm(E,X),
                (   format('    * Equiv:'),
                    wentity(X),
-                   nl)).
+                   nl)),
+        forall(entity_synonym_scope(E,X,_),
+               format('    * Syn: "~w"~n',[X])).
+
 
 wentity(X) :-
         best_label(X,N),
