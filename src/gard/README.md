@@ -12,6 +12,9 @@ The following are of most relevance:
     * Entries in GARD xls for which our automatic procedure disagrees with the GARD OMIM or Orphanet assignment
     * 3 Columns: (GARD disease, GARD mapping, our MonDo mapping)
     * Note if viewed on GH website the 3rd column is truncated. View raw or download excel
+ * [no_map.tsv](no_map.tsv)
+    * Entries with no OMIM and no Orphanet in GAR for which we have no suggestions
+    * Many of these seem like language issues. Either the disease name is in another language, or there is a character encoding issue. I recommend GARD uses Unicode
 
 
 As an example of one where we disagree, GARD has the following lines:
@@ -44,3 +47,5 @@ GARD:0005785 ! Alport syndrome                     Orphanet:88917  DOID:10983 ! 
 ```
 
 i.e. our procedures wants to 'push down' the first two to the more specific OMIM IDs, and for the last one it wants to use the generic form, as consistent with the GARD name (but not the GARD synonyms). Should we prioritize synonyms here?
+
+

@@ -20,3 +20,6 @@ different.tsv: map_g2m.pro
 
 consistent.tsv: map_g2m.pro
 	blip-findall -i gard.obo -r mondo -i $< -consult compare.pro consistent_xref/3 -label > $@.tmp && mv $@.tmp $@
+
+no_map.tsv: map_g2m.pro
+	blip-findall -i gard.obo -r mondo -i $< -consult compare.pro no_map/1 -label > $@.tmp && mv $@.tmp $@

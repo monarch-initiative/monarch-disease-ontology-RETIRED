@@ -30,7 +30,14 @@ consistent_xref(X,Y,Z) :-
         (   X=Z
         ;   entity_real_xref(Y,Z)).
 
+no_map(X) :-
+        class(X),
+        id_idspace(X,'GARD'),
+        \+ m(X,_),
+        \+ entity_real_xref(X,_).
+
 
 entity_real_xref(X,Y) :-
         entity_xref(X,Y),
         \+ atom_concat(http,_,Y).
+

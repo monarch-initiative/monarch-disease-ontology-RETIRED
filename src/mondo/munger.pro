@@ -706,6 +706,7 @@ write_all_mesh.
 %        entity_xref_from_to(D,MeshId,'DOID','MESH').
 
 
+% Try and place a MESH disease in the graph
 write_mesh(D) :-
         class(D),
         id_idspace(D,'MESH'),
@@ -733,7 +734,7 @@ write_mesh1(D) :-
 
 
 % CASE 2: exactly 1 xref
-% Equivalence
+% Equivalence (will be merged later)
 write_mesh1(D) :-
         setof(G,entity_xref_nr(G,D),[G]),
         class2n(D,DN),

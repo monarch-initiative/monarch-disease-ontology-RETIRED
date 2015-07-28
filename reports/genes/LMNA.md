@@ -1,7 +1,5 @@
 blip-findall -debug matcher -consult matcher.pro -debug index -goal ix -u metadata_nlp -i all_labels.pro -r mondoe -i clingen.pro -goal t
 
-### AllHighlyPenetrant
-
 ### Arrhythmogenic right ventricular cardiomyopathy
  * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
     * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
@@ -139,12 +137,6 @@ blip-findall -debug matcher -consult matcher.pro -debug index -goal ix -u metada
  * [OMIM:159001 Limb-girdle muscular dystrophy, type 1B](http://beta.monarchinitiative.org/disease/OMIM:159001) Confidence: high
     * Equiv:[MESH:C535898 Limb-girdle muscular dystrophy, type 1B](http://beta.monarchinitiative.org/disease/MESH:C535898)
 
-### Not Specified
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711) Confidence: low/0.07
-
-### Not provided
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711) Confidence: low/0.030000000000000002
-
 ### Paroxysmal atrial fibrillation
  * [DOID:0060224 atrial fibrillation](http://beta.monarchinitiative.org/disease/DOID:0060224) Confidence: low/0.18055555555555555
 
@@ -184,15 +176,6 @@ blip-findall -debug matcher -consult matcher.pro -debug index -goal ix -u metada
     * Equiv:[MESH:C566254 Arrhythmogenic Right Ventricular Dysplasia, Familial, 1](http://beta.monarchinitiative.org/disease/MESH:C566254)
     * Equiv:[MESH:C566255 Cardiomyopathy, Right Ventricular Dilated](http://beta.monarchinitiative.org/disease/MESH:C566255)
 
-### VARIANT OF UNKNOWN SIGNIFICANCE
- * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0703125
-
 ### lipodystrophy
  * [DOID:811 lipodystrophy](http://beta.monarchinitiative.org/disease/DOID:811) Confidence: high
     * Equiv:[MESH:D008060 Lipodystrophy](http://beta.monarchinitiative.org/disease/MESH:D008060)
-
-### not provided
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711) Confidence: low/0.030000000000000002
-
-### not specified
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711) Confidence: low/0.07
