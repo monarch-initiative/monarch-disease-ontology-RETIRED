@@ -1,6 +1,10 @@
 
 ## GENE: MYPN
 
+![image](MYPN.png)
+[matched diseases visual](MYPN.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1KK
  * [OMIM:615248 Cardiomyopathy, Dilated, 1Kk](http://beta.monarchinitiative.org/disease/OMIM:615248) Confidence: high
     * Syn: "CARDIOMYOPATHY, DILATED, 1KK; CMD1KK"

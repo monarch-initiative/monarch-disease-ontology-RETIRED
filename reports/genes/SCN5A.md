@@ -1,455 +1,408 @@
 
 ## GENE: SCN5A
 
+![image](SCN5A.png)
+[matched diseases visual](SCN5A.png)  <-- click on raw to zoom
+
+
 ### ATRIAL FIBRILLATION, FAMILIAL, 10
-
-Score: 1.5625
-
- * [DOID:0050650 familial atrial fibrillation](http://beta.monarchinitiative.org/disease/DOID:0050650)
-    * [MESH:D001281 -](http://beta.monarchinitiative.org/disease/MESH:D001281)
+ * [OMIM:614022 Atrial Fibrillation, Familial, 10](http://beta.monarchinitiative.org/disease/OMIM:614022) Confidence: high
+    * Syn: "ATFB10"
+    * Syn: "ATRIAL FIBRILLATION, FAMILIAL, 10; ATFB10"
 
 ### ATRIAL STANDSTILL 1, DIGENIC
-
-Score: 1.3125
-
- * [OMIM:108770 Atrial Standstill](http://beta.monarchinitiative.org/disease/OMIM:108770)
-    * [MESH:C563984 -](http://beta.monarchinitiative.org/disease/MESH:C563984)
-
-### AllHighlyPenetrant
+ * [OMIM:108770 Atrial Standstill](http://beta.monarchinitiative.org/disease/OMIM:108770) Confidence: low/0.1640625
+    * Equiv:[MESH:C563984 Atrial Standstill](http://beta.monarchinitiative.org/disease/MESH:C563984)
+    * Syn: "Atrial Cardiomyopathy With Heart Block"
+    * Syn: "ATRIAL STANDSTILL 1; ATRST1"
+    * Syn: "ATRST1"
+    * Syn: "Cardiomyopathy, Familial, With Conduction Disturbance"
 
 ### Arrhythmia
-
-Score: 0.75
-
- * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000)
-    * [MESH:D001145 -](http://beta.monarchinitiative.org/disease/MESH:D001145)
-    * [MESH:D005117 -](http://beta.monarchinitiative.org/disease/MESH:D005117)
- * [MESH:D001146 Arrhythmia, Sinus](http://beta.monarchinitiative.org/disease/MESH:D001146)
+ * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000) Confidence: low/0.09375
+    * Equiv:[MESH:D001145 Arrhythmias, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D001145)
+    * Equiv:[MESH:D005117 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/MESH:D005117)
+    * Syn: "CARDIAC ARRHYTHMIA"
+    * Syn: "Extrasystoles"
 
 ### Arrhythmogenic right ventricular cardiomyopathy
-
-Score: 2
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Atrial fibrillation
-
-Score: 2
-
- * [DOID:0060224 atrial fibrillation](http://beta.monarchinitiative.org/disease/DOID:0060224)
+ * [DOID:0060224 atrial fibrillation](http://beta.monarchinitiative.org/disease/DOID:0060224) Confidence: high
+    * Syn: "A-fib"
 
 ### Atrial fibrillation,Brugada syndrome
-
-Score: 1.25
-
- * [DOID:0060224 atrial fibrillation](http://beta.monarchinitiative.org/disease/DOID:0060224)
+ * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144) Confidence: low/0.15625
+    * Equiv:[MESH:D053840 Brugada Syndrome](http://beta.monarchinitiative.org/disease/MESH:D053840)
+    * Syn: "BRGDA1"
+    * Syn: "BRUGADA SYNDROME 1; BRGDA1"
+    * Syn: "Cardiac Conduction Defect, Nonspecific"
+    * Syn: "Right Bundle Branch Block, St Segment Elevation, and Sudden Death Syndrome"
+    * Syn: "Sudden Unexplained Nocturnal Death Syndrome"
 
 ### BRUGADA SYNDROME 1
-
-Score: 1.3125
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
+ * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144) Confidence: low/0.1640625
+    * Equiv:[MESH:D053840 Brugada Syndrome](http://beta.monarchinitiative.org/disease/MESH:D053840)
+    * Syn: "BRGDA1"
+    * Syn: "BRUGADA SYNDROME 1; BRGDA1"
+    * Syn: "Cardiac Conduction Defect, Nonspecific"
+    * Syn: "Right Bundle Branch Block, St Segment Elevation, and Sudden Death Syndrome"
+    * Syn: "Sudden Unexplained Nocturnal Death Syndrome"
 
 ### Brugada Syndrome
-
-Score: 2
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
- * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451)
+ * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451) Confidence: high
 
 ### Brugada Syndrome 1
-
-Score: 1.4444444444444444
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
- * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451)
+ * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:D053840 Brugada Syndrome](http://beta.monarchinitiative.org/disease/MESH:D053840)
+    * Syn: "BRGDA1"
+    * Syn: "BRUGADA SYNDROME 1; BRGDA1"
+    * Syn: "Cardiac Conduction Defect, Nonspecific"
+    * Syn: "Right Bundle Branch Block, St Segment Elevation, and Sudden Death Syndrome"
+    * Syn: "Sudden Unexplained Nocturnal Death Syndrome"
 
 ### Brugada syndrome
-
-Score: 2
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
- * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451)
+ * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451) Confidence: high
 
 ### Brugada syndrome, lidocaine-induced
-
-Score: 1.25
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
- * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451)
-
-Score: 1.25
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
- * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451)
-
-Score: 1.4444444444444444
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
- * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451)
-
-Score: 1.4444444444444444
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
- * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451)
+ * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144) Confidence: low/0.15625
+    * Equiv:[MESH:D053840 Brugada Syndrome](http://beta.monarchinitiative.org/disease/MESH:D053840)
+    * Syn: "BRGDA1"
+    * Syn: "BRUGADA SYNDROME 1; BRGDA1"
+    * Syn: "Cardiac Conduction Defect, Nonspecific"
+    * Syn: "Right Bundle Branch Block, St Segment Elevation, and Sudden Death Syndrome"
+    * Syn: "Sudden Unexplained Nocturnal Death Syndrome"
 
 ### Brugada syndrome,Long QT syndrome
-
-Score: 1.5625
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: low/0.1953125
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### CARDIAC CONDUCTION DEFECT, NONPROGRESSIVE
-
-Score: 1.5625
-
- * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080)
-    * [MESH:C562490 -](http://beta.monarchinitiative.org/disease/MESH:C562490)
-    * [MESH:C566172 -](http://beta.monarchinitiative.org/disease/MESH:C566172)
-    * [MESH:D003645 -](http://beta.monarchinitiative.org/disease/MESH:D003645)
-    * [MESH:D016757 -](http://beta.monarchinitiative.org/disease/MESH:D016757)
+ * [OMIM:113900 Hereditary bundle branch system defect](http://beta.monarchinitiative.org/disease/OMIM:113900) Confidence: high
+    * Equiv:[MESH:C566185 Heart Block, Nonprogressive](http://beta.monarchinitiative.org/disease/MESH:C566185)
+    * Equiv:[MESH:C566186 Cardiac Conduction Defect, Nonprogressive](http://beta.monarchinitiative.org/disease/MESH:C566186)
+    * Equiv:[MESH:C566873 Hereditary bundle branch system defect](http://beta.monarchinitiative.org/disease/MESH:C566873)
+    * Syn: "Bundle Branch Block"
+    * Syn: "Cardiac Conduction Defect, Nonprogressive"
+    * Syn: "Cardiac Conduction Defect, Progressive"
+    * Syn: "Heart Block, Nonprogressive"
+    * Syn: "Heart Block, Progressive Familial, Type 1"
+    * Syn: "Hereditary Bundle Branch System Defect"
+    * Syn: "Lenegre-Lev Disease"
+    * Syn: "PFHB1A"
+    * Syn: "Pfhbia"
+    * Syn: "PROGRESSIVE FAMILIAL HEART BLOCK, TYPE IA; PFHB1A"
 
 ### CARDIAC CONDUCTION DEFECT, NONSPECIFIC
-
-Score: 1.5625
-
- * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080)
-    * [MESH:C562490 -](http://beta.monarchinitiative.org/disease/MESH:C562490)
-    * [MESH:C566172 -](http://beta.monarchinitiative.org/disease/MESH:C566172)
-    * [MESH:D003645 -](http://beta.monarchinitiative.org/disease/MESH:D003645)
-    * [MESH:D016757 -](http://beta.monarchinitiative.org/disease/MESH:D016757)
+ * [MESH:C567557 Cardiac Conduction Defect, Nonspecific](http://beta.monarchinitiative.org/disease/MESH:C567557) Confidence: high
 
 ### CARDIOMYOPATHY, DILATED, 1E
-
-Score: 1.4400000000000002
-
- * [OMIM:601154 Cardiomyopathy, Dilated, 1E](http://beta.monarchinitiative.org/disease/OMIM:601154)
-    * [MESH:C563384 -](http://beta.monarchinitiative.org/disease/MESH:C563384)
+ * [OMIM:601154 Cardiomyopathy, Dilated, 1E](http://beta.monarchinitiative.org/disease/OMIM:601154) Confidence: high
+    * Equiv:[MESH:C563384 Cardiomyopathy, Dilated, 1E](http://beta.monarchinitiative.org/disease/MESH:C563384)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1E; CMD1E"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Defect 2"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Disorder and Arrhythmia"
+    * Syn: "CMD1E"
 
 ### Cardiac Arrest
-
-Score: 2
-
- * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319)
-    * [MESH:D006323 -](http://beta.monarchinitiative.org/disease/MESH:D006323)
+ * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319) Confidence: high
+    * Equiv:[MESH:D006323 Heart Arrest](http://beta.monarchinitiative.org/disease/MESH:D006323)
+    * Syn: "cardiopulmonary arrest"
+    * Syn: "circulatory arrest"
 
 ### Cardiac arrhythmia
-
-Score: 2
-
- * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000)
-    * [MESH:D001145 -](http://beta.monarchinitiative.org/disease/MESH:D001145)
-    * [MESH:D005117 -](http://beta.monarchinitiative.org/disease/MESH:D005117)
+ * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000) Confidence: medium
+    * Equiv:[MESH:D001145 Arrhythmias, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D001145)
+    * Equiv:[MESH:D005117 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/MESH:D005117)
+    * Syn: "CARDIAC ARRHYTHMIA"
+    * Syn: "Extrasystoles"
 
 ### Cardiac arrhythmia, increased risk, association
-
-Score: 1.1600000000000001
-
- * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000)
-    * [MESH:D001145 -](http://beta.monarchinitiative.org/disease/MESH:D001145)
-    * [MESH:D005117 -](http://beta.monarchinitiative.org/disease/MESH:D005117)
+ * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000) Confidence: low/0.14500000000000002
+    * Equiv:[MESH:D001145 Arrhythmias, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D001145)
+    * Equiv:[MESH:D005117 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/MESH:D005117)
+    * Syn: "CARDIAC ARRHYTHMIA"
+    * Syn: "Extrasystoles"
 
 ### Cardiac conduction disease
-
-Score: 1.1111111111111112
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [Orphanet:97929 Rare cardiac disease](http://beta.monarchinitiative.org/disease/Orphanet:97929)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
- * [DOID:10273 heart conduction disease](http://beta.monarchinitiative.org/disease/DOID:10273)
+ * [disease -](http://beta.monarchinitiative.org/disease/disease) Confidence: low/0.1388888888888889
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Cardiomyopathy, dilated
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Cardiomyopathy, dilated, 1E
-
-Score: 2
-
- * [OMIM:601154 Cardiomyopathy, Dilated, 1E](http://beta.monarchinitiative.org/disease/OMIM:601154)
-    * [MESH:C563384 -](http://beta.monarchinitiative.org/disease/MESH:C563384)
+ * [OMIM:601154 Cardiomyopathy, Dilated, 1E](http://beta.monarchinitiative.org/disease/OMIM:601154) Confidence: high
+    * Equiv:[MESH:C563384 Cardiomyopathy, Dilated, 1E](http://beta.monarchinitiative.org/disease/MESH:C563384)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1E; CMD1E"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Defect 2"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Disorder and Arrhythmia"
+    * Syn: "CMD1E"
 
 ### Catecholaminergic polymorphic ventricular tachycardia
-
-Score: 2
-
- * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665)
+ * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665) Confidence: high
 
 ### Dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### HEART BLOCK, NONPROGRESSIVE
-
-Score: 1.4444444444444444
-
- * [OMIM:209600 Heart Block](http://beta.monarchinitiative.org/disease/OMIM:209600)
-    * [MESH:D006327 -](http://beta.monarchinitiative.org/disease/MESH:D006327)
+ * [OMIM:113900 Hereditary bundle branch system defect](http://beta.monarchinitiative.org/disease/OMIM:113900) Confidence: high
+    * Equiv:[MESH:C566185 Heart Block, Nonprogressive](http://beta.monarchinitiative.org/disease/MESH:C566185)
+    * Equiv:[MESH:C566186 Cardiac Conduction Defect, Nonprogressive](http://beta.monarchinitiative.org/disease/MESH:C566186)
+    * Equiv:[MESH:C566873 Hereditary bundle branch system defect](http://beta.monarchinitiative.org/disease/MESH:C566873)
+    * Syn: "Bundle Branch Block"
+    * Syn: "Cardiac Conduction Defect, Nonprogressive"
+    * Syn: "Cardiac Conduction Defect, Progressive"
+    * Syn: "Heart Block, Nonprogressive"
+    * Syn: "Heart Block, Progressive Familial, Type 1"
+    * Syn: "Hereditary Bundle Branch System Defect"
+    * Syn: "Lenegre-Lev Disease"
+    * Syn: "PFHB1A"
+    * Syn: "Pfhbia"
+    * Syn: "PROGRESSIVE FAMILIAL HEART BLOCK, TYPE IA; PFHB1A"
 
 ### LONG QT SYNDROME 2/3, DIGENIC
-
-Score: 1.126530612244898
-
- * [OMIM:613688 Long Qt Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:613688)
-    * [MESH:C563614 -](http://beta.monarchinitiative.org/disease/MESH:C563614)
- * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830)
-    * [MESH:C537034 -](http://beta.monarchinitiative.org/disease/MESH:C537034)
-    * [MESH:C565840 -](http://beta.monarchinitiative.org/disease/MESH:C565840)
+ * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830) Confidence: high
+    * Equiv:[MESH:C537034 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/MESH:C537034)
+    * Equiv:[MESH:C565840 Long Qt Syndrome 3](http://beta.monarchinitiative.org/disease/MESH:C565840)
+    * Syn: "Long Qt Syndrome 2/3, Digenic"
+    * Syn: "Long Qt Syndrome 3, Acquired, Susceptibility to"
+    * Syn: "Long Qt Syndrome 3/6, Digenic"
+    * Syn: "LONG QT SYNDROME 3; LQT3"
+    * Syn: "LQT3"
 
 ### LONG QT SYNDROME 3
-
-Score: 1.4400000000000002
-
- * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830)
-    * [MESH:C537034 -](http://beta.monarchinitiative.org/disease/MESH:C537034)
-    * [MESH:C565840 -](http://beta.monarchinitiative.org/disease/MESH:C565840)
+ * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830) Confidence: low/0.18000000000000002
+    * Equiv:[MESH:C537034 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/MESH:C537034)
+    * Equiv:[MESH:C565840 Long Qt Syndrome 3](http://beta.monarchinitiative.org/disease/MESH:C565840)
+    * Syn: "Long Qt Syndrome 2/3, Digenic"
+    * Syn: "Long Qt Syndrome 3, Acquired, Susceptibility to"
+    * Syn: "Long Qt Syndrome 3/6, Digenic"
+    * Syn: "LONG QT SYNDROME 3; LQT3"
+    * Syn: "LQT3"
 
 ### LONG QT SYNDROME 3, ACQUIRED, SUSCEPTIBILITY TO
-
-Score: 1.126530612244898
-
- * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830)
-    * [MESH:C537034 -](http://beta.monarchinitiative.org/disease/MESH:C537034)
-    * [MESH:C565840 -](http://beta.monarchinitiative.org/disease/MESH:C565840)
+ * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830) Confidence: high
+    * Equiv:[MESH:C537034 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/MESH:C537034)
+    * Equiv:[MESH:C565840 Long Qt Syndrome 3](http://beta.monarchinitiative.org/disease/MESH:C565840)
+    * Syn: "Long Qt Syndrome 2/3, Digenic"
+    * Syn: "Long Qt Syndrome 3, Acquired, Susceptibility to"
+    * Syn: "Long Qt Syndrome 3/6, Digenic"
+    * Syn: "LONG QT SYNDROME 3; LQT3"
+    * Syn: "LQT3"
 
 ### LONG QT SYNDROME 3/6, DIGENIC
-
-Score: 1.126530612244898
-
- * [OMIM:613693 Long Qt Syndrome 6](http://beta.monarchinitiative.org/disease/OMIM:613693)
-    * [MESH:C566333 -](http://beta.monarchinitiative.org/disease/MESH:C566333)
- * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830)
-    * [MESH:C537034 -](http://beta.monarchinitiative.org/disease/MESH:C537034)
-    * [MESH:C565840 -](http://beta.monarchinitiative.org/disease/MESH:C565840)
+ * [OMIM:603830 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/OMIM:603830) Confidence: high
+    * Equiv:[MESH:C537034 Long QT syndrome type 3](http://beta.monarchinitiative.org/disease/MESH:C537034)
+    * Equiv:[MESH:C565840 Long Qt Syndrome 3](http://beta.monarchinitiative.org/disease/MESH:C565840)
+    * Syn: "Long Qt Syndrome 2/3, Digenic"
+    * Syn: "Long Qt Syndrome 3, Acquired, Susceptibility to"
+    * Syn: "Long Qt Syndrome 3/6, Digenic"
+    * Syn: "LONG QT SYNDROME 3; LQT3"
+    * Syn: "LQT3"
 
 ### Left ventricular noncompaction cardiomyopathy
-
-Score: 1.5625
-
- * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237)
+ * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237) Confidence: low/0.1953125
 
 ### Long QT Syndrome
-
-Score: 2
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: high
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### Long QT syndrome
-
-Score: 2
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: high
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### Long QT syndrome, drug-associated
-
-Score: 1.3599999999999999
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
-
-Score: 1.3599999999999999
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
-
-Score: 1.5625
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
-
-Score: 1.5625
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: low/0.16999999999999998
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### Long QT syndrome, drugNot providedassociated
-
-Score: 1.3599999999999999
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: low/0.16999999999999998
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### Nodal rhythm
-
-Score: 0.4444444444444444
-
- * [DOID:10273 heart conduction disease](http://beta.monarchinitiative.org/disease/DOID:10273)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D016170 Accelerated Idioventricular Rhythm](http://beta.monarchinitiative.org/disease/MESH:D016170) Confidence: low/0.05555555555555555
 
 ### PROGRESSIVE FAMILIAL HEART BLOCK, TYPE IA
-
-Score: 1.5918367346938775
-
- * [OMIM:113900 Hereditary bundle branch system defect](http://beta.monarchinitiative.org/disease/OMIM:113900)
-    * [MESH:C566185 -](http://beta.monarchinitiative.org/disease/MESH:C566185)
-    * [MESH:C566186 -](http://beta.monarchinitiative.org/disease/MESH:C566186)
-    * [MESH:C566873 -](http://beta.monarchinitiative.org/disease/MESH:C566873)
+ * [OMIM:113900 Hereditary bundle branch system defect](http://beta.monarchinitiative.org/disease/OMIM:113900) Confidence: low/0.1989795918367347
+    * Equiv:[MESH:C566185 Heart Block, Nonprogressive](http://beta.monarchinitiative.org/disease/MESH:C566185)
+    * Equiv:[MESH:C566186 Cardiac Conduction Defect, Nonprogressive](http://beta.monarchinitiative.org/disease/MESH:C566186)
+    * Equiv:[MESH:C566873 Hereditary bundle branch system defect](http://beta.monarchinitiative.org/disease/MESH:C566873)
+    * Syn: "Bundle Branch Block"
+    * Syn: "Cardiac Conduction Defect, Nonprogressive"
+    * Syn: "Cardiac Conduction Defect, Progressive"
+    * Syn: "Heart Block, Nonprogressive"
+    * Syn: "Heart Block, Progressive Familial, Type 1"
+    * Syn: "Hereditary Bundle Branch System Defect"
+    * Syn: "Lenegre-Lev Disease"
+    * Syn: "PFHB1A"
+    * Syn: "Pfhbia"
+    * Syn: "PROGRESSIVE FAMILIAL HEART BLOCK, TYPE IA; PFHB1A"
 
 ### Paroxysmal familial ventricular fibrillation
-
-Score: 1.5625
-
- * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956)
-    * [MESH:C537182 -](http://beta.monarchinitiative.org/disease/MESH:C537182)
-    * [MESH:C567841 -](http://beta.monarchinitiative.org/disease/MESH:C567841)
+ * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956) Confidence: low/0.1953125
+    * Equiv:[MESH:C537182 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/MESH:C537182)
+    * Equiv:[MESH:C567841 Ventricular Fibrillation, Paroxysmal Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C567841)
+    * Syn: "VENTRICULAR FIBRILLATION, PAROXYSMAL FAMILIAL, 2; VF2"
+    * Syn: "VF2"
 
 ### Phenotype modifier, association with
-
-Score: 0.75
-
- * [OMIM:601321 Neurofibromatosis-Noonan syndrome](http://beta.monarchinitiative.org/disease/OMIM:601321)
-    * [Orphanet:638 -](http://beta.monarchinitiative.org/disease/Orphanet:638)
-    * [MESH:C537393 -](http://beta.monarchinitiative.org/disease/MESH:C537393)
- * [OMIM:276950 VACTERL Association With Hydrocephalus](http://beta.monarchinitiative.org/disease/OMIM:276950)
-    * [MESH:C564751 -](http://beta.monarchinitiative.org/disease/MESH:C564751)
-    * [MESH:C564752 -](http://beta.monarchinitiative.org/disease/MESH:C564752)
- * [OMIM:244600 Keratoconus Posticus Circumscriptus with Associated Malformations](http://beta.monarchinitiative.org/disease/OMIM:244600)
-    * [MESH:C536151 -](http://beta.monarchinitiative.org/disease/MESH:C536151)
-    * [MESH:C565455 -](http://beta.monarchinitiative.org/disease/MESH:C565455)
- * [OMIM:145410 Opitz Gbbb Syndrome, Type 2](http://beta.monarchinitiative.org/disease/OMIM:145410)
+ * [OMIM:601321 Neurofibromatosis-Noonan syndrome](http://beta.monarchinitiative.org/disease/OMIM:601321) Confidence: low/0.09375
+    * Equiv:[Orphanet:638 Neurofibromatosis-Noonan syndrome](http://beta.monarchinitiative.org/disease/Orphanet:638)
+    * Equiv:[MESH:C537393 Neurofibromatosis-Noonan syndrome](http://beta.monarchinitiative.org/disease/MESH:C537393)
+    * Syn: "Neurofibromatosis With Noonan Phenotype"
+    * Syn: "NEUROFIBROMATOSIS-NOONAN SYNDROME; NFNS"
+    * Syn: "NFNS"
+    * Syn: "Noonan-Neurofibromatosis Syndrome"
 
 ### Primary dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Pulmonary valve stenosis (rare)
-
-Score: 1.25
-
- * [DOID:6420 pulmonary valve stenosis](http://beta.monarchinitiative.org/disease/DOID:6420)
+ * [MESH:D011666 Pulmonary Valve Stenosis](http://beta.monarchinitiative.org/disease/MESH:D011666) Confidence: low/0.15625
 
 ### SICK SINUS SYNDROME 1, AUTOSOMAL RECESSIVE
-
-Score: 1.5918367346938775
-
- * [OMIM:608567 Sick Sinus Syndrome 1, Autosomal Recessive](http://beta.monarchinitiative.org/disease/OMIM:608567)
-    * [MESH:C563907 -](http://beta.monarchinitiative.org/disease/MESH:C563907)
+ * [OMIM:608567 Sick Sinus Syndrome 1, Autosomal Recessive](http://beta.monarchinitiative.org/disease/OMIM:608567) Confidence: high
+    * Equiv:[MESH:C563907 Sick Sinus Syndrome 1, Autosomal Recessive](http://beta.monarchinitiative.org/disease/MESH:C563907)
+    * Syn: "SICK SINUS SYNDROME 1, AUTOSOMAL RECESSIVE; SSS1"
+    * Syn: "Sick Sinus Syndrome, Congenital"
+    * Syn: "Sinus Bradycardia Syndrome, Familial"
+    * Syn: "Sinus Node Disease, Familial, Autosomal Recessive"
+    * Syn: "Sinus Rhythm, Congenital Absence of"
+    * Syn: "SSS1"
 
 ### SINUS NODE DISEASE
-
-Score: 1.1111111111111112
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:9942 lymph node disease](http://beta.monarchinitiative.org/disease/DOID:9942)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
- * [DOID:13884 sick sinus syndrome](http://beta.monarchinitiative.org/disease/DOID:13884)
-    * [MESH:D012804 -](http://beta.monarchinitiative.org/disease/MESH:D012804)
- * [DOID:1352 paranasal sinus disease](http://beta.monarchinitiative.org/disease/DOID:1352)
-    * [MESH:D010254 -](http://beta.monarchinitiative.org/disease/MESH:D010254)
- * [DOID:0050824 sinoatrial node disease](http://beta.monarchinitiative.org/disease/DOID:0050824)
+ * [DOID:0050127 sinusitis](http://beta.monarchinitiative.org/disease/DOID:0050127) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:D012852 Sinusitis](http://beta.monarchinitiative.org/disease/MESH:D012852)
 
 ### SUDDEN INFANT DEATH SYNDROME
-
-Score: 2
-
- * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120)
-    * [DOID:9007 -](http://beta.monarchinitiative.org/disease/DOID:9007)
-    * [MESH:D013398 -](http://beta.monarchinitiative.org/disease/MESH:D013398)
+ * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120) Confidence: high
+    * Equiv:[DOID:9007 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/DOID:9007)
+    * Equiv:[MESH:D013398 Sudden Infant Death](http://beta.monarchinitiative.org/disease/MESH:D013398)
+    * Syn: "Cot death"
+    * Syn: "Cot death (context-dependent category)"
+    * Syn: "Crib death (context-dependent category)"
+    * Syn: "SIDS"
+    * Syn: "Sids"
+    * Syn: "Sudden death of nonspecific cause in infancy"
+    * Syn: "SUDDEN INFANT DEATH SYNDROME"
+    * Syn: "Sudden infant death syndrome (context-dependent category)"
+    * Syn: "Sudden infant death syndrome (finding)"
+    * Syn: "Sudden infant death syndrome NOS (context-dependent category)"
 
 ### Sudden adult death syndrome
-
-Score: 1.3125
-
- * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120)
-    * [DOID:9007 -](http://beta.monarchinitiative.org/disease/DOID:9007)
-    * [MESH:D013398 -](http://beta.monarchinitiative.org/disease/MESH:D013398)
+ * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120) Confidence: low/0.1640625
+    * Equiv:[DOID:9007 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/DOID:9007)
+    * Equiv:[MESH:D013398 Sudden Infant Death](http://beta.monarchinitiative.org/disease/MESH:D013398)
+    * Syn: "Cot death"
+    * Syn: "Cot death (context-dependent category)"
+    * Syn: "Crib death (context-dependent category)"
+    * Syn: "SIDS"
+    * Syn: "Sids"
+    * Syn: "Sudden death of nonspecific cause in infancy"
+    * Syn: "SUDDEN INFANT DEATH SYNDROME"
+    * Syn: "Sudden infant death syndrome (context-dependent category)"
+    * Syn: "Sudden infant death syndrome (finding)"
+    * Syn: "Sudden infant death syndrome NOS (context-dependent category)"
 
 ### Sudden infant death syndrome
-
-Score: 2
-
- * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120)
-    * [DOID:9007 -](http://beta.monarchinitiative.org/disease/DOID:9007)
-    * [MESH:D013398 -](http://beta.monarchinitiative.org/disease/MESH:D013398)
+ * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120) Confidence: high
+    * Equiv:[DOID:9007 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/DOID:9007)
+    * Equiv:[MESH:D013398 Sudden Infant Death](http://beta.monarchinitiative.org/disease/MESH:D013398)
+    * Syn: "Cot death"
+    * Syn: "Cot death (context-dependent category)"
+    * Syn: "Crib death (context-dependent category)"
+    * Syn: "SIDS"
+    * Syn: "Sids"
+    * Syn: "Sudden death of nonspecific cause in infancy"
+    * Syn: "SUDDEN INFANT DEATH SYNDROME"
+    * Syn: "Sudden infant death syndrome (context-dependent category)"
+    * Syn: "Sudden infant death syndrome (finding)"
+    * Syn: "Sudden infant death syndrome NOS (context-dependent category)"
 
 ### Sudden infant death syndrome, Brugada syndrome
-
-Score: 1.6400000000000001
-
- * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120)
-    * [DOID:9007 -](http://beta.monarchinitiative.org/disease/DOID:9007)
-    * [MESH:D013398 -](http://beta.monarchinitiative.org/disease/MESH:D013398)
+ * [OMIM:272120 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/OMIM:272120) Confidence: low/0.20500000000000002
+    * Equiv:[DOID:9007 sudden infant death syndrome](http://beta.monarchinitiative.org/disease/DOID:9007)
+    * Equiv:[MESH:D013398 Sudden Infant Death](http://beta.monarchinitiative.org/disease/MESH:D013398)
+    * Syn: "Cot death"
+    * Syn: "Cot death (context-dependent category)"
+    * Syn: "Crib death (context-dependent category)"
+    * Syn: "SIDS"
+    * Syn: "Sids"
+    * Syn: "Sudden death of nonspecific cause in infancy"
+    * Syn: "SUDDEN INFANT DEATH SYNDROME"
+    * Syn: "Sudden infant death syndrome (context-dependent category)"
+    * Syn: "Sudden infant death syndrome (finding)"
+    * Syn: "Sudden infant death syndrome NOS (context-dependent category)"
 
 ### Sudden unexplained nocturnal death syndrome
-
-Score: 2
-
- * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144)
-    * [MESH:D053840 -](http://beta.monarchinitiative.org/disease/MESH:D053840)
+ * [OMIM:601144 Brugada Syndrome](http://beta.monarchinitiative.org/disease/OMIM:601144) Confidence: high
+    * Equiv:[MESH:D053840 Brugada Syndrome](http://beta.monarchinitiative.org/disease/MESH:D053840)
+    * Syn: "BRGDA1"
+    * Syn: "BRUGADA SYNDROME 1; BRGDA1"
+    * Syn: "Cardiac Conduction Defect, Nonspecific"
+    * Syn: "Right Bundle Branch Block, St Segment Elevation, and Sudden Death Syndrome"
+    * Syn: "Sudden Unexplained Nocturnal Death Syndrome"
 
 ### VENTRICULAR FIBRILLATION, PAROXYSMAL FAMILIAL
-
-Score: 1.1111111111111112
-
- * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956)
-    * [MESH:C537182 -](http://beta.monarchinitiative.org/disease/MESH:C537182)
-    * [MESH:C567841 -](http://beta.monarchinitiative.org/disease/MESH:C567841)
- * [OMIM:603829 Ventricular Fibrillation, Paroxysmal Familial, 1](http://beta.monarchinitiative.org/disease/OMIM:603829)
-    * [MESH:C567851 -](http://beta.monarchinitiative.org/disease/MESH:C567851)
+ * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:C537182 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/MESH:C537182)
+    * Equiv:[MESH:C567841 Ventricular Fibrillation, Paroxysmal Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C567841)
+    * Syn: "VENTRICULAR FIBRILLATION, PAROXYSMAL FAMILIAL, 2; VF2"
+    * Syn: "VF2"
 
 ### Ventricular tachycardia
-
-Score: 2
-
- * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605)
-    * [MESH:D017180 -](http://beta.monarchinitiative.org/disease/MESH:D017180)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605) Confidence: high
+    * Equiv:[MESH:D017180 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/MESH:D017180)
+    * Syn: "VENTRICULAR TACHYCARDIA, FAMILIAL"
+    * Syn: "Ventricular Tachycardia, Familial Polymorphic"

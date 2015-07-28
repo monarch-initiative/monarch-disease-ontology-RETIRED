@@ -1,6 +1,10 @@
 
 ## GENE: ACTC1
 
+![image](ACTC1.png)
+[matched diseases visual](ACTC1.png)  <-- click on raw to zoom
+
+
 ### ATRIAL SEPTAL DEFECT 5
  * [OMIM:612794 Atrial Septal Defect 5](http://beta.monarchinitiative.org/disease/OMIM:612794) Confidence: high
     * Equiv:[MESH:C567561 Atrial Septal Defect 5](http://beta.monarchinitiative.org/disease/MESH:C567561)

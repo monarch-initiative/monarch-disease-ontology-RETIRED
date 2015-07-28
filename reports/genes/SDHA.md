@@ -1,63 +1,53 @@
 
 ## GENE: SDHA
 
-### AllHighlyPenetrant
+![image](SDHA.png)
+[matched diseases visual](SDHA.png)  <-- click on raw to zoom
+
 
 ### CARDIOMYOPATHY, DILATED, 1GG
-
-Score: 1.4400000000000002
-
- * [OMIM:613642 Cardiomyopathy, Dilated, 1Gg](http://beta.monarchinitiative.org/disease/OMIM:613642)
+ * [OMIM:613642 Cardiomyopathy, Dilated, 1Gg](http://beta.monarchinitiative.org/disease/OMIM:613642) Confidence: high
+    * Syn: "CARDIOMYOPATHY, DILATED, 1GG; CMD1GG"
+    * Syn: "CMD1GG"
 
 ### Carney triad
-
-Score: 2
-
- * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287)
-    * [Orphanet:139411 -](http://beta.monarchinitiative.org/disease/Orphanet:139411)
-    * [MESH:C565803 -](http://beta.monarchinitiative.org/disease/MESH:C565803)
+ * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287) Confidence: high
+    * Equiv:[Orphanet:139411 Carney triad](http://beta.monarchinitiative.org/disease/Orphanet:139411)
+    * Equiv:[MESH:C565803 Carney Triad](http://beta.monarchinitiative.org/disease/MESH:C565803)
+    * Syn: "CARNEY TRIAD"
+    * Syn: "Gastric Leiomyosarcoma, Pulmonary Chondroma, and Extraadrenal Paraganglioma"
 
 ### LEIGH SYNDROME
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [DOID:3652 Leigh disease](http://beta.monarchinitiative.org/disease/DOID:3652) Confidence: high
+    * Syn: "Infantile necrotizing encephalomyelopathy"
+    * Syn: "juvenile subacute necrotizing encephalomyelopathy"
+    * Syn: "Leigh syndrome"
+    * Syn: "subacute necrotizing encephalomyelopathy"
 
 ### LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX II DEFICIENCY
-
-Score: 1.25
-
- * [OMIM:252011 Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/OMIM:252011)
-    * [MESH:C565375 -](http://beta.monarchinitiative.org/disease/MESH:C565375)
+ * [MESH:C564961 Leigh Syndrome Due To Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/MESH:C564961) Confidence: high
 
 ### MITOCHONDRIAL COMPLEX II DEFICIENCY
-
-Score: 2
-
- * [OMIM:252011 Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/OMIM:252011)
-    * [MESH:C565375 -](http://beta.monarchinitiative.org/disease/MESH:C565375)
+ * [OMIM:252011 Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/OMIM:252011) Confidence: high
+    * Equiv:[MESH:C565375 Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/MESH:C565375)
+    * Syn: "MITOCHONDRIAL COMPLEX II DEFICIENCY"
+    * Syn: "Succinate Coq Reductase Deficiency"
 
 ### Mitochondrial complex II deficiency
-
-Score: 2
-
- * [OMIM:252011 Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/OMIM:252011)
-    * [MESH:C565375 -](http://beta.monarchinitiative.org/disease/MESH:C565375)
+ * [OMIM:252011 Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/OMIM:252011) Confidence: high
+    * Equiv:[MESH:C565375 Mitochondrial Complex II Deficiency](http://beta.monarchinitiative.org/disease/MESH:C565375)
+    * Syn: "MITOCHONDRIAL COMPLEX II DEFICIENCY"
+    * Syn: "Succinate Coq Reductase Deficiency"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### PARAGANGLIOMAS 5
-
-Score: 1.1111111111111112
-
- * [OMIM:614165 Paragangliomas 5](http://beta.monarchinitiative.org/disease/OMIM:614165)
+ * [OMIM:614165 Paragangliomas 5](http://beta.monarchinitiative.org/disease/OMIM:614165) Confidence: high
+    * Syn: "PARAGANGLIOMAS 5; PGL5"
+    * Syn: "PGL5"
 
 ### Paragangliomas 5
-
-Score: 2
-
- * [OMIM:614165 Paragangliomas 5](http://beta.monarchinitiative.org/disease/OMIM:614165)
+ * [OMIM:614165 Paragangliomas 5](http://beta.monarchinitiative.org/disease/OMIM:614165) Confidence: high
+    * Syn: "PARAGANGLIOMAS 5; PGL5"
+    * Syn: "PGL5"

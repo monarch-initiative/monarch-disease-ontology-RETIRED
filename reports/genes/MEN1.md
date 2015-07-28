@@ -1,6 +1,10 @@
 
 ## GENE: MEN1
 
+![image](MEN1.png)
+[matched diseases visual](MEN1.png)  <-- click on raw to zoom
+
+
 ### ADRENAL ADENOMA, SOMATIC
  * [MESH:D000236 Adenoma](http://beta.monarchinitiative.org/disease/MESH:D000236) Confidence: low/0.1388888888888889
 

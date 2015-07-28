@@ -1,6 +1,10 @@
 
 ## GENE: LAMA4
 
+![image](LAMA4.png)
+[matched diseases visual](LAMA4.png)  <-- click on raw to zoom
+
+
 ### Arrhythmogenic right ventricular cardiomyopathy
  * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
     * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)

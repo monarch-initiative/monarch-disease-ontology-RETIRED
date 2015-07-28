@@ -1,6 +1,10 @@
 
 ## GENE: MAP2K1
 
+![image](MAP2K1.png)
+[matched diseases visual](MAP2K1.png)  <-- click on raw to zoom
+
+
 ### CARDIOFACIOCUTANEOUS SYNDROME 3
  * [OMIM:615279 Cardiofaciocutaneous Syndrome 3](http://beta.monarchinitiative.org/disease/OMIM:615279) Confidence: high
     * Syn: "CARDIOFACIOCUTANEOUS SYNDROME 3; CFC3"

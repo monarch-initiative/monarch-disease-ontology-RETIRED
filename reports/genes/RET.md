@@ -1,285 +1,295 @@
 
 ## GENE: RET
 
-### AllHighlyPenetrant
+![image](RET.png)
+[matched diseases visual](RET.png)  <-- click on raw to zoom
+
 
 ### CENTRAL HYPOVENTILATION SYNDROME, CONGENITAL
-
-Score: 1.4400000000000002
-
- * [OMIM:209880 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/OMIM:209880)
-    * [MESH:C536209 -](http://beta.monarchinitiative.org/disease/MESH:C536209)
+ * [OMIM:209880 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/OMIM:209880) Confidence: high
+    * Equiv:[MESH:C536209 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/MESH:C536209)
+    * Syn: "Autonomic Control, Congenital Failure of"
+    * Syn: "CCHS"
+    * Syn: "Cchs With Hirschsprung Disease"
+    * Syn: "CENTRAL HYPOVENTILATION SYNDROME, CONGENITAL; CCHS"
+    * Syn: "Haddad Syndrome"
+    * Syn: "Ondine Curse, Congenital"
+    * Syn: "Ondine-Hirschsprung Disease"
 
 ### CENTRAL HYPOVENTILATION SYNDROME, CONGENITAL, WITH HIRSCHSPRUNG DISEASE
-
-Score: 1.126530612244898
-
- * [OMIM:209880 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/OMIM:209880)
-    * [MESH:C536209 -](http://beta.monarchinitiative.org/disease/MESH:C536209)
+ * [OMIM:209880 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/OMIM:209880) Confidence: low/0.14081632653061224
+    * Equiv:[MESH:C536209 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/MESH:C536209)
+    * Syn: "Autonomic Control, Congenital Failure of"
+    * Syn: "CCHS"
+    * Syn: "Cchs With Hirschsprung Disease"
+    * Syn: "CENTRAL HYPOVENTILATION SYNDROME, CONGENITAL; CCHS"
+    * Syn: "Haddad Syndrome"
+    * Syn: "Ondine Curse, Congenital"
+    * Syn: "Ondine-Hirschsprung Disease"
 
 ### Elevated basal serum calcitonin
-
-Score: 0.9166666666666666
-
- * [OMIM:123320 Creatine Phosphokinase, Elevated Serum](http://beta.monarchinitiative.org/disease/OMIM:123320)
+ * [OMIM:123320 Creatine Phosphokinase, Elevated Serum](http://beta.monarchinitiative.org/disease/OMIM:123320) Confidence: low/0.11458333333333333
+    * Syn: "Cpk, Elevated Serum"
+    * Syn: "CREATINE PHOSPHOKINASE, ELEVATED SERUM"
+    * Syn: "Hyperckemia, Idiopathic"
 
 ### FMTC and Unclassified
-
-Score: 1.1111111111111112
-
- * [OMIM:155240 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/OMIM:155240)
-    * [DOID:0050547 -](http://beta.monarchinitiative.org/disease/DOID:0050547)
+ * [OMIM:155240 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/OMIM:155240) Confidence: low/0.1388888888888889
+    * Equiv:[DOID:0050547 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/DOID:0050547)
+    * Syn: "Fmtc"
+    * Syn: "MTC"
+    * Syn: "Mtc1"
+    * Syn: "THYROID CARCINOMA, FAMILIAL MEDULLARY"
+    * Syn: "THYROID CARCINOMA, FAMILIAL MEDULLARY; MTC"
 
 ### Familial medullary thyroid carcinoma
-
-Score: 2
-
- * [OMIM:155240 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/OMIM:155240)
-    * [DOID:0050547 -](http://beta.monarchinitiative.org/disease/DOID:0050547)
+ * [MESH:C536911 Familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/MESH:C536911) Confidence: high
 
 ### HIRSCHSPRUNG DISEASE, PROTECTION AGAINST
-
-Score: 1.0625
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
+ * [OMIM:611775 Kawasaki disease](http://beta.monarchinitiative.org/disease/OMIM:611775) Confidence: low/0.0703125
+    * Equiv:[DOID:13378 Kawasaki disease](http://beta.monarchinitiative.org/disease/DOID:13378)
+    * Equiv:[MESH:C537014 Infantile polyarteritis](http://beta.monarchinitiative.org/disease/MESH:C537014)
+    * Equiv:[MESH:D009080 Mucocutaneous Lymph Node Syndrome](http://beta.monarchinitiative.org/disease/MESH:D009080)
+    * Syn: "acute febrile MCLS"
+    * Syn: "acute febrile mucocutaneous lymph node syndrome [MCLS]"
+    * Syn: "Infantile Polyarteritis"
+    * Syn: "KAWASAKI DISEASE"
+    * Syn: "Kawasaki's disease"
+    * Syn: "Kd"
+    * Syn: "MLNS"
+    * Syn: "Mucocutaneous Lymph Node Syndrome"
+    * Syn: "mucocutaneous lymph node syndrome"
 
 ### HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1
-
-Score: 1.1111111111111112
-
- * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623)
-    * [MESH:C538540 -](http://beta.monarchinitiative.org/disease/MESH:C538540)
+ * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:C538540 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/MESH:C538540)
+    * Syn: "Aganglionic Megacolon"
+    * Syn: "Hirschsprung Disease"
+    * Syn: "HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1; HSCR1"
+    * Syn: "HSCR1"
+    * Syn: "Megacolon, Aganglionic"
 
 ### Hirschsprung Disease
-
-Score: 2
-
- * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623)
-    * [MESH:C538540 -](http://beta.monarchinitiative.org/disease/MESH:C538540)
- * [MESH:D006627 Hirschsprung Disease](http://beta.monarchinitiative.org/disease/MESH:D006627)
- * [DOID:10487 Hirschsprung's disease](http://beta.monarchinitiative.org/disease/DOID:10487)
+ * [MESH:D006627 Hirschsprung Disease](http://beta.monarchinitiative.org/disease/MESH:D006627) Confidence: high
 
 ### Hirschsprung disease
-
-Score: 2
-
- * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623)
-    * [MESH:C538540 -](http://beta.monarchinitiative.org/disease/MESH:C538540)
- * [MESH:D006627 Hirschsprung Disease](http://beta.monarchinitiative.org/disease/MESH:D006627)
- * [DOID:10487 Hirschsprung's disease](http://beta.monarchinitiative.org/disease/DOID:10487)
+ * [MESH:D006627 Hirschsprung Disease](http://beta.monarchinitiative.org/disease/MESH:D006627) Confidence: high
 
 ### MEN2 phenotype: Unclassified
-
-Score: 0.6111111111111112
-
- * [OMIM:227010 Ermine phenotype](http://beta.monarchinitiative.org/disease/OMIM:227010)
-    * [Orphanet:999 -](http://beta.monarchinitiative.org/disease/Orphanet:999)
-    * [MESH:C535508 -](http://beta.monarchinitiative.org/disease/MESH:C535508)
+ * [Orphanet:251328 Unclassified vasculitis](http://beta.monarchinitiative.org/disease/Orphanet:251328) Confidence: low/0.0763888888888889
 
 ### MEN2 phenotype: Unknown
-
-Score: 0.6111111111111112
-
- * [OMIM:227010 Ermine phenotype](http://beta.monarchinitiative.org/disease/OMIM:227010)
-    * [Orphanet:999 -](http://beta.monarchinitiative.org/disease/Orphanet:999)
-    * [MESH:C535508 -](http://beta.monarchinitiative.org/disease/MESH:C535508)
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0763888888888889
 
 ### MEN2A and FMTC
-
-Score: 1.1111111111111112
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
- * [OMIM:155240 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/OMIM:155240)
-    * [DOID:0050547 -](http://beta.monarchinitiative.org/disease/DOID:0050547)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: low/0.1388888888888889
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### MEN2A and Unclassified
-
-Score: 1.1111111111111112
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: low/0.1388888888888889
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA
-
-Score: 1.527777777777778
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: low/0.19097222222222224
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA, WITH HIRSCHSPRUNG DISEASE
-
-Score: 1.2239583333333335
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: low/0.15299479166666669
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA, WITHOUT PHEOCHROMOCYTOMA
-
-Score: 1.3435374149659864
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: low/0.1679421768707483
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIB
-
-Score: 1.527777777777778
-
- * [OMIM:162300 multiple endocrine neoplasia type 2B](http://beta.monarchinitiative.org/disease/OMIM:162300)
-    * [DOID:10016 -](http://beta.monarchinitiative.org/disease/DOID:10016)
-    * [MESH:D018814 -](http://beta.monarchinitiative.org/disease/MESH:D018814)
+ * [OMIM:162300 multiple endocrine neoplasia type 2B](http://beta.monarchinitiative.org/disease/OMIM:162300) Confidence: low/0.19097222222222224
+    * Equiv:[DOID:10016 multiple endocrine neoplasia type 2B](http://beta.monarchinitiative.org/disease/DOID:10016)
+    * Equiv:[MESH:D018814 Multiple Endocrine Neoplasia Type 2b](http://beta.monarchinitiative.org/disease/MESH:D018814)
+    * Syn: "Men 2B"
+    * Syn: "MEN type IIB"
+    * Syn: "MEN2B"
+    * Syn: "Mucosal Neuroma Syndrome"
+    * Syn: "mucosal neuroma syndrome"
+    * Syn: "multiple endocrine neoplasia type 2b"
+    * Syn: "Multiple endocrine neoplasia, type 3"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIB; MEN2B"
+    * Syn: "Multiple Endocrine Neoplasia, Type Iii, Formerly"
+    * Syn: "Neuromata, Mucosal, With Endocrine Tumors"
+    * Syn: "Wagenmann-Froboese Syndrome"
+    * Syn: "Wagenmann-Froboese syndrome"
 
 ### Multiple Endocrine Neoplasia Type 2
-
-Score: 2
-
- * [Orphanet:653 Multiple endocrine neoplasia type 2](http://beta.monarchinitiative.org/disease/Orphanet:653)
+ * [Orphanet:653 Multiple endocrine neoplasia type 2](http://beta.monarchinitiative.org/disease/Orphanet:653) Confidence: high
 
 ### Multiple Endocrine Neoplasia Type 2A
-
-Score: 2
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: high
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### Multiple endocrine neoplasia 2
-
-Score: 1.5625
-
- * [MESH:D009377 Multiple Endocrine Neoplasia](http://beta.monarchinitiative.org/disease/MESH:D009377)
-    * [DC:0000291 -](http://beta.monarchinitiative.org/disease/DC:0000291)
+ * [MESH:D009377 Multiple Endocrine Neoplasia](http://beta.monarchinitiative.org/disease/MESH:D009377) Confidence: low/0.1953125
+    * Equiv:[DC:0000291 -](http://beta.monarchinitiative.org/disease/DC:0000291)
 
 ### Multiple endocrine neoplasia 2A
-
-Score: 1.527777777777778
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: low/0.19097222222222224
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### Multiple endocrine neoplasia type 2A
-
-Score: 2
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: high
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### Multiple endocrine neoplasia type 2B
-
-Score: 2
-
- * [OMIM:162300 multiple endocrine neoplasia type 2B](http://beta.monarchinitiative.org/disease/OMIM:162300)
-    * [DOID:10016 -](http://beta.monarchinitiative.org/disease/DOID:10016)
-    * [MESH:D018814 -](http://beta.monarchinitiative.org/disease/MESH:D018814)
+ * [OMIM:162300 multiple endocrine neoplasia type 2B](http://beta.monarchinitiative.org/disease/OMIM:162300) Confidence: high
+    * Equiv:[DOID:10016 multiple endocrine neoplasia type 2B](http://beta.monarchinitiative.org/disease/DOID:10016)
+    * Equiv:[MESH:D018814 Multiple Endocrine Neoplasia Type 2b](http://beta.monarchinitiative.org/disease/MESH:D018814)
+    * Syn: "Men 2B"
+    * Syn: "MEN type IIB"
+    * Syn: "MEN2B"
+    * Syn: "Mucosal Neuroma Syndrome"
+    * Syn: "mucosal neuroma syndrome"
+    * Syn: "multiple endocrine neoplasia type 2b"
+    * Syn: "Multiple endocrine neoplasia, type 3"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIB; MEN2B"
+    * Syn: "Multiple Endocrine Neoplasia, Type Iii, Formerly"
+    * Syn: "Neuromata, Mucosal, With Endocrine Tumors"
+    * Syn: "Wagenmann-Froboese Syndrome"
+    * Syn: "Wagenmann-Froboese syndrome"
 
 ### Multiple endocrine neoplasia, type 2
-
-Score: 2
-
- * [Orphanet:653 Multiple endocrine neoplasia type 2](http://beta.monarchinitiative.org/disease/Orphanet:653)
+ * [Orphanet:653 Multiple endocrine neoplasia type 2](http://beta.monarchinitiative.org/disease/Orphanet:653) Confidence: high
 
 ### Multiple endocrine neoplasia, type 2a
-
-Score: 2
-
- * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400)
-    * [DOID:0050430 -](http://beta.monarchinitiative.org/disease/DOID:0050430)
-    * [MESH:D018813 -](http://beta.monarchinitiative.org/disease/MESH:D018813)
+ * [OMIM:171400 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/OMIM:171400) Confidence: high
+    * Equiv:[DOID:0050430 multiple endocrine neoplasia type 2A](http://beta.monarchinitiative.org/disease/DOID:0050430)
+    * Equiv:[MESH:D018813 Multiple Endocrine Neoplasia Type 2a](http://beta.monarchinitiative.org/disease/MESH:D018813)
+    * Syn: "MEN2A"
+    * Syn: "multiple endocrine neoplasia II"
+    * Syn: "MULTIPLE ENDOCRINE NEOPLASIA, TYPE IIA; MEN2A"
+    * Syn: "Pheochromocytoma and Amyloid-Producing Medullary Thyroid Carcinoma"
+    * Syn: "Ptc Syndrome"
+    * Syn: "Sipple Syndrome"
+    * Syn: "Sipple syndrome"
+    * Syn: "Thyroid Carcinoma, Familial Medullary"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### No MEN2 disease
-
-Score: 1.1111111111111112
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [disease -](http://beta.monarchinitiative.org/disease/disease) Confidence: low/0.1388888888888889
 
 ### PHEOCHROMOCYTOMA
-
-Score: 2
-
- * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300)
-    * [MESH:D010673 -](http://beta.monarchinitiative.org/disease/MESH:D010673)
+ * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300) Confidence: high
+    * Equiv:[MESH:D010673 Pheochromocytoma](http://beta.monarchinitiative.org/disease/MESH:D010673)
+    * Syn: "PHEOCHROMOCYTOMA"
+    * Syn: "Pheochromocytoma, Susceptibility to"
 
 ### PHEOCHROMOCYTOMA, SOMATIC
-
-Score: 1.25
-
- * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300)
-    * [MESH:D010673 -](http://beta.monarchinitiative.org/disease/MESH:D010673)
+ * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300) Confidence: low/0.15625
+    * Equiv:[MESH:D010673 Pheochromocytoma](http://beta.monarchinitiative.org/disease/MESH:D010673)
+    * Syn: "PHEOCHROMOCYTOMA"
+    * Syn: "Pheochromocytoma, Susceptibility to"
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-Score: 0.54
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### THYROID CARCINOMA, FAMILIAL MEDULLARY
-
-Score: 2
-
- * [OMIM:155240 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/OMIM:155240)
-    * [DOID:0050547 -](http://beta.monarchinitiative.org/disease/DOID:0050547)
+ * [MESH:C536911 Familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/MESH:C536911) Confidence: high
 
 ### THYROID CARCINOMA, SPORADIC MEDULLARY
-
-Score: 1.5625
-
- * [DOID:3973 thyroid medullary carcinoma](http://beta.monarchinitiative.org/disease/DOID:3973)
-    * [MESH:C536914 -](http://beta.monarchinitiative.org/disease/MESH:C536914)
+ * [OMIM:155240 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/OMIM:155240) Confidence: low/0.1640625
+    * Equiv:[DOID:0050547 familial medullary thyroid carcinoma](http://beta.monarchinitiative.org/disease/DOID:0050547)
+    * Syn: "Fmtc"
+    * Syn: "MTC"
+    * Syn: "Mtc1"
+    * Syn: "THYROID CARCINOMA, FAMILIAL MEDULLARY"
+    * Syn: "THYROID CARCINOMA, FAMILIAL MEDULLARY; MTC"
 
 ### Thyroid cancer
-
-Score: 2
-
- * [DOID:1781 thyroid cancer](http://beta.monarchinitiative.org/disease/DOID:1781)
+ * [DOID:1781 thyroid cancer](http://beta.monarchinitiative.org/disease/DOID:1781) Confidence: high
+    * Syn: "malignant neoplasm of thyroid gland"
+    * Syn: "malignant tumour of thyroid gland"
+    * Syn: "neoplasm of thyroid gland"
+    * Syn: "Thyroid gland neoplasm"
+    * Syn: "thyroid neoplasm"
 
 ### Thyroid carcinoma, medullary
-
-Score: 2
-
- * [DOID:3973 thyroid medullary carcinoma](http://beta.monarchinitiative.org/disease/DOID:3973)
-    * [MESH:C536914 -](http://beta.monarchinitiative.org/disease/MESH:C536914)
+ * [DOID:3973 thyroid medullary carcinoma](http://beta.monarchinitiative.org/disease/DOID:3973) Confidence: high
+    * Equiv:[MESH:C536914 Thyroid cancer, medullary](http://beta.monarchinitiative.org/disease/MESH:C536914)
+    * Syn: "Medullary carcinoma of the Thyroid gland"
+    * Syn: "medullary thyroid carcinoma"
+    * Syn: "Medullary thyroid carcinoma (disorder)"
+    * Syn: "Ultimobranchial thyroid tumor"
+    * Syn: "Ultimobranchial thyroid tumour"
 
 ### Unclassifed
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)

@@ -1,6 +1,10 @@
 
 ## GENE: ABCC9
 
+![image](ABCC9.png)
+[matched diseases visual](ABCC9.png)  <-- click on raw to zoom
+
+
 ### ATRIAL FIBRILLATION, FAMILIAL, 12
  * [OMIM:614050 Atrial Fibrillation, Familial, 12](http://beta.monarchinitiative.org/disease/OMIM:614050) Confidence: high
     * Syn: "ATFB12"

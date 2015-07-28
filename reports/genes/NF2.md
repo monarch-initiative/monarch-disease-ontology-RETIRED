@@ -1,6 +1,10 @@
 
 ## GENE: NF2
 
+![image](NF2.png)
+[matched diseases visual](NF2.png)  <-- click on raw to zoom
+
+
 ### MENINGIOMA, SOMATIC
  * [MESH:D008579 Meningioma](http://beta.monarchinitiative.org/disease/MESH:D008579) Confidence: low/0.15625
 

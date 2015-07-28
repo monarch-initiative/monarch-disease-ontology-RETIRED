@@ -1,63 +1,42 @@
 
 ## GENE: SDHC
 
+![image](SDHC.png)
+[matched diseases visual](SDHC.png)  <-- click on raw to zoom
+
+
 ### Carney triad
-
-Score: 2
-
- * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287)
-    * [Orphanet:139411 -](http://beta.monarchinitiative.org/disease/Orphanet:139411)
-    * [MESH:C565803 -](http://beta.monarchinitiative.org/disease/MESH:C565803)
+ * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287) Confidence: high
+    * Equiv:[Orphanet:139411 Carney triad](http://beta.monarchinitiative.org/disease/Orphanet:139411)
+    * Equiv:[MESH:C565803 Carney Triad](http://beta.monarchinitiative.org/disease/MESH:C565803)
+    * Syn: "CARNEY TRIAD"
+    * Syn: "Gastric Leiomyosarcoma, Pulmonary Chondroma, and Extraadrenal Paraganglioma"
 
 ### GASTROINTESTINAL STROMAL TUMOR
-
-Score: 2
-
- * [OMIM:606764 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/OMIM:606764)
-    * [DOID:9253 -](http://beta.monarchinitiative.org/disease/DOID:9253)
-    * [MESH:D046152 -](http://beta.monarchinitiative.org/disease/MESH:D046152)
+ * [OMIM:606764 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/OMIM:606764) Confidence: high
+    * Equiv:[DOID:9253 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/DOID:9253)
+    * Equiv:[MESH:D046152 Gastrointestinal Stromal Tumors](http://beta.monarchinitiative.org/disease/MESH:D046152)
+    * Syn: "GANT"
+    * Syn: "GASTROINTESTINAL STROMAL TUMOR; GIST"
+    * Syn: "GIST"
+    * Syn: "Stromal tumor of gastrointestinal tract"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA
-
-Score: 2
-
- * [OMIM:606864 Carney-Stratakis syndrome](http://beta.monarchinitiative.org/disease/OMIM:606864)
-    * [Orphanet:97286 -](http://beta.monarchinitiative.org/disease/Orphanet:97286)
-    * [MESH:C564650 -](http://beta.monarchinitiative.org/disease/MESH:C564650)
+ * [OMIM:606864 Carney-Stratakis syndrome](http://beta.monarchinitiative.org/disease/OMIM:606864) Confidence: medium
+    * Equiv:[Orphanet:97286 Carney-Stratakis syndrome](http://beta.monarchinitiative.org/disease/Orphanet:97286)
+    * Equiv:[MESH:C564650 Carney-Stratakis Syndrome](http://beta.monarchinitiative.org/disease/MESH:C564650)
+    * Syn: "Carney-Stratakis Syndrome"
+    * Syn: "PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA"
+    * Syn: "Paraganglioma and Gastrointestinal Stromal Tumor"
 
 ### PARAGANGLIOMAS 3
-
-Score: 1.1111111111111112
-
- * [OMIM:605373 Paragangliomas 3](http://beta.monarchinitiative.org/disease/OMIM:605373)
+ * [MESH:C565335 Paragangliomas 3](http://beta.monarchinitiative.org/disease/MESH:C565335) Confidence: high
 
 ### Paragangliomas 3
-
-Score: 2
-
- * [OMIM:605373 Paragangliomas 3](http://beta.monarchinitiative.org/disease/OMIM:605373)
- * [MESH:C565335 Paragangliomas 3](http://beta.monarchinitiative.org/disease/MESH:C565335)
+ * [MESH:C565335 Paragangliomas 3](http://beta.monarchinitiative.org/disease/MESH:C565335) Confidence: high
 
 ### Phaeochromocytoma
-
-Score: 2
-
- * [DOID:0050771 phaeochromocytoma](http://beta.monarchinitiative.org/disease/DOID:0050771)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:0050771 phaeochromocytoma](http://beta.monarchinitiative.org/disease/DOID:0050771) Confidence: high

@@ -1,6 +1,10 @@
 
 ## GENE: ARX
 
+![image](ARX.png)
+[matched diseases visual](ARX.png)  <-- click on raw to zoom
+
+
 ### CORPUS CALLOSUM, AGENESIS OF, WITH ABNORMAL GENITALIA
  * [OMIM:300004 Proud Syndrome](http://beta.monarchinitiative.org/disease/OMIM:300004) Confidence: medium
     * Equiv:[MESH:C563110 Proud Syndrome](http://beta.monarchinitiative.org/disease/MESH:C563110)

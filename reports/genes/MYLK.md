@@ -1,6 +1,10 @@
 
 ## GENE: MYLK
 
+![image](MYLK.png)
+[matched diseases visual](MYLK.png)  <-- click on raw to zoom
+
+
 ### AORTIC ANEURYSM, FAMILIAL THORACIC 7
  * [OMIM:613780 Aortic Aneurysm, Familial Thoracic 7](http://beta.monarchinitiative.org/disease/OMIM:613780) Confidence: high
     * Syn: "AAT7"

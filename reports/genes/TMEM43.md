@@ -1,104 +1,63 @@
 
 ## GENE: TMEM43
 
+![image](TMEM43.png)
+[matched diseases visual](TMEM43.png)  <-- click on raw to zoom
+
+
 ### ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 5
-
-Score: 1.5918367346938775
-
- * [OMIM:604400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 5](http://beta.monarchinitiative.org/disease/OMIM:604400)
-    * [MESH:C565776 -](http://beta.monarchinitiative.org/disease/MESH:C565776)
-
-### AllHighlyPenetrant
+ * [OMIM:604400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 5](http://beta.monarchinitiative.org/disease/OMIM:604400) Confidence: high
+    * Equiv:[MESH:C565776 Arrhythmogenic Right Ventricular Dysplasia, Familial, 5](http://beta.monarchinitiative.org/disease/MESH:C565776)
+    * Syn: "Arrhythmogenic Right Ventricular Cardiomyopathy 5"
+    * Syn: "ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 5; ARVD5"
+    * Syn: "ARVD5"
 
 ### Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy
-
-Score: 1.527777777777778
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Arrhythmogenic right ventricular cardiomyopathy
-
-Score: 2
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Arrhythmogenic right ventricular cardiomyopathy 5
-
-Score: 2
-
- * [OMIM:604400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 5](http://beta.monarchinitiative.org/disease/OMIM:604400)
-    * [MESH:C565776 -](http://beta.monarchinitiative.org/disease/MESH:C565776)
+ * [OMIM:604400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 5](http://beta.monarchinitiative.org/disease/OMIM:604400) Confidence: high
+    * Equiv:[MESH:C565776 Arrhythmogenic Right Ventricular Dysplasia, Familial, 5](http://beta.monarchinitiative.org/disease/MESH:C565776)
+    * Syn: "Arrhythmogenic Right Ventricular Cardiomyopathy 5"
+    * Syn: "ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 5; ARVD5"
+    * Syn: "ARVD5"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### EMERY-DREIFUSS MUSCULAR DYSTROPHY 7, AUTOSOMAL DOMINANT
-
-Score: 1.640625
-
- * [OMIM:614302 Emery-Dreifuss Muscular Dystrophy 7, Autosomal Dominant](http://beta.monarchinitiative.org/disease/OMIM:614302)
-
-Score: 1.640625
-
- * [OMIM:614302 Emery-Dreifuss Muscular Dystrophy 7, Autosomal Dominant](http://beta.monarchinitiative.org/disease/OMIM:614302)
-
-Score: 1.0816326530612246
-
- * [DOID:9884 muscular dystrophy](http://beta.monarchinitiative.org/disease/DOID:9884)
-    * [MESH:D009136 -](http://beta.monarchinitiative.org/disease/MESH:D009136)
-
-Score: 1.1111111111111112
-
- * [DOID:9884 muscular dystrophy](http://beta.monarchinitiative.org/disease/DOID:9884)
-    * [MESH:D009136 -](http://beta.monarchinitiative.org/disease/MESH:D009136)
+ * [OMIM:614302 Emery-Dreifuss Muscular Dystrophy 7, Autosomal Dominant](http://beta.monarchinitiative.org/disease/OMIM:614302) Confidence: high
+    * Syn: "EDMD7"
+    * Syn: "EMERY-DREIFUSS MUSCULAR DYSTROPHY 7, AUTOSOMAL DOMINANT; EDMD7"
 
 ### Long QT syndrome
-
-Score: 2
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: high
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"

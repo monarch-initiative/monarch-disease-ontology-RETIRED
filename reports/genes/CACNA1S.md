@@ -1,6 +1,10 @@
 
 ## GENE: CACNA1S
 
+![image](CACNA1S.png)
+[matched diseases visual](CACNA1S.png)  <-- click on raw to zoom
+
+
 ### HYPOKALEMIC PERIODIC PARALYSIS, TYPE 1
  * [OMIM:170400 Hypokalemic Periodic Paralysis](http://beta.monarchinitiative.org/disease/OMIM:170400) Confidence: low/0.19097222222222224
     * Equiv:[MESH:D020514 Hypokalemic Periodic Paralysis](http://beta.monarchinitiative.org/disease/MESH:D020514)

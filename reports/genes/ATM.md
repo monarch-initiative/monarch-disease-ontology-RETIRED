@@ -1,6 +1,10 @@
 
 ## GENE: ATM
 
+![image](ATM.png)
+[matched diseases visual](ATM.png)  <-- click on raw to zoom
+
+
 ### ATAXIA TELANGIECTASIA
  * [DOID:12704 ataxia telangiectasia](http://beta.monarchinitiative.org/disease/DOID:12704) Confidence: high
     * Syn: "Boder-Sedgwick syndrome"

@@ -1,6 +1,10 @@
 
 ## GENE: APC
 
+![image](APC.png)
+[matched diseases visual](APC.png)  <-- click on raw to zoom
+
+
 ### ADENOMA, PERIAMPULLARY, SOMATIC
  * [MESH:D000236 Adenoma](http://beta.monarchinitiative.org/disease/MESH:D000236) Confidence: low/0.1388888888888889
 

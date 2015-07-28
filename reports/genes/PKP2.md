@@ -1,6 +1,10 @@
 
 ## GENE: PKP2
 
+![image](PKP2.png)
+[matched diseases visual](PKP2.png)  <-- click on raw to zoom
+
+
 ### ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 9
  * [OMIM:609040 Arrhythmogenic Right Ventricular Dysplasia, Familial, 9](http://beta.monarchinitiative.org/disease/OMIM:609040) Confidence: high
     * Equiv:[MESH:C563808 Arrhythmogenic Right Ventricular Dysplasia, Familial, 9](http://beta.monarchinitiative.org/disease/MESH:C563808)

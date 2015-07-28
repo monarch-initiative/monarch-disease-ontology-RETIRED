@@ -1,6 +1,10 @@
 
 ## GENE: LDLR
 
+![image](LDLR.png)
+[matched diseases visual](LDLR.png)  <-- click on raw to zoom
+
+
 ### FH AARHUS
  * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
     * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)

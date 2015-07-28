@@ -1,6 +1,10 @@
 
 ## GENE: CSRP3
 
+![image](CSRP3.png)
+[matched diseases visual](CSRP3.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1M (1 family)
  * [OMIM:607482 Cardiomyopathy, Dilated, 1M](http://beta.monarchinitiative.org/disease/OMIM:607482) Confidence: low/0.16581632653061223
     * Equiv:[MESH:C564390 Cardiomyopathy, Dilated, 1M](http://beta.monarchinitiative.org/disease/MESH:C564390)

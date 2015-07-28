@@ -1,6 +1,10 @@
 
 ## GENE: MYL2
 
+![image](MYL2.png)
+[matched diseases visual](MYL2.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 10
  * [OMIM:608758 Cardiomyopathy, Familial Hypertrophic, 10](http://beta.monarchinitiative.org/disease/OMIM:608758) Confidence: high
     * Equiv:[MESH:C563865 Cardiomyopathy, Familial Hypertrophic, 10](http://beta.monarchinitiative.org/disease/MESH:C563865)

@@ -1,6 +1,10 @@
 
 ## GENE: GDNF
 
+![image](GDNF.png)
+[matched diseases visual](GDNF.png)  <-- click on raw to zoom
+
+
 ### CENTRAL HYPOVENTILATION SYNDROME, CONGENITAL
  * [OMIM:209880 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/OMIM:209880) Confidence: high
     * Equiv:[MESH:C536209 Congenital central hypoventilation syndrome](http://beta.monarchinitiative.org/disease/MESH:C536209)

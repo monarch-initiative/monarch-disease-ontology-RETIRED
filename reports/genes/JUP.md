@@ -1,6 +1,10 @@
 
 ## GENE: JUP
 
+![image](JUP.png)
+[matched diseases visual](JUP.png)  <-- click on raw to zoom
+
+
 ### ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 12
  * [OMIM:611528 Arrhythmogenic Right Ventricular Dysplasia, Familial, 12](http://beta.monarchinitiative.org/disease/OMIM:611528) Confidence: high
     * Equiv:[MESH:C566925 Arrhythmogenic Right Ventricular Dysplasia, Familial, 12](http://beta.monarchinitiative.org/disease/MESH:C566925)

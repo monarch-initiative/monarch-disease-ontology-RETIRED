@@ -1,6 +1,10 @@
 
 ## GENE: GLA
 
+![image](GLA.png)
+[matched diseases visual](GLA.png)  <-- click on raw to zoom
+
+
 ### Cardiomyopathy
  * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
     * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)

@@ -1,6 +1,10 @@
 
 ## GENE: PMS2
 
+![image](PMS2.png)
+[matched diseases visual](PMS2.png)  <-- click on raw to zoom
+
+
 ### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4
  * [OMIM:614337 Colorectal Cancer, Hereditary Nonpolyposis, Type 4](http://beta.monarchinitiative.org/disease/OMIM:614337) Confidence: high
     * Equiv:[MESH:C563971 Colorectal Cancer, Hereditary Nonpolyposis, Type 4](http://beta.monarchinitiative.org/disease/MESH:C563971)

@@ -1,6 +1,10 @@
 
 ## GENE: MAP2K2
 
+![image](MAP2K2.png)
+[matched diseases visual](MAP2K2.png)  <-- click on raw to zoom
+
+
 ### CARDIOFACIOCUTANEOUS SYNDROME 4
  * [OMIM:615280 Cardiofaciocutaneous Syndrome 4](http://beta.monarchinitiative.org/disease/OMIM:615280) Confidence: high
     * Syn: "CARDIOFACIOCUTANEOUS SYNDROME 4; CFC4"

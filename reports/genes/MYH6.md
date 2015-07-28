@@ -1,6 +1,10 @@
 
 ## GENE: MYH6
 
+![image](MYH6.png)
+[matched diseases visual](MYH6.png)  <-- click on raw to zoom
+
+
 ### ATRIAL SEPTAL DEFECT 3
  * [OMIM:614089 Atrial Septal Defect 3](http://beta.monarchinitiative.org/disease/OMIM:614089) Confidence: high
     * Equiv:[MESH:C563540 Atrial Septal Defect 3](http://beta.monarchinitiative.org/disease/MESH:C563540)

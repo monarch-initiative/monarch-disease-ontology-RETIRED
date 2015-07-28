@@ -1,38 +1,39 @@
 
 ## GENE: UBE3A
 
+![image](UBE3A.png)
+[matched diseases visual](UBE3A.png)  <-- click on raw to zoom
+
+
 ### ANGELMAN SYNDROME
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-### AllHighlyPenetrant
+ * [OMIM:105830 Angelman syndrome](http://beta.monarchinitiative.org/disease/OMIM:105830) Confidence: high
+    * Equiv:[DOID:1932 Angelman syndrome](http://beta.monarchinitiative.org/disease/DOID:1932)
+    * Equiv:[MESH:D017204 Angelman Syndrome](http://beta.monarchinitiative.org/disease/MESH:D017204)
+    * Syn: "Angelman Syndrome Chromosome Region"
+    * Syn: "ANGELMAN SYNDROME; AS"
+    * Syn: "AS"
+    * Syn: "happy puppet syndrome"
+    * Syn: "Happy Puppet Syndrome, Formerly"
+    * Syn: "puppetlike syndrome"
 
 ### Angelman Syndrome
-
-Score: 2
-
- * [OMIM:105830 Angelman syndrome](http://beta.monarchinitiative.org/disease/OMIM:105830)
-    * [DOID:1932 -](http://beta.monarchinitiative.org/disease/DOID:1932)
-    * [MESH:D017204 -](http://beta.monarchinitiative.org/disease/MESH:D017204)
+ * [OMIM:105830 Angelman syndrome](http://beta.monarchinitiative.org/disease/OMIM:105830) Confidence: high
+    * Equiv:[DOID:1932 Angelman syndrome](http://beta.monarchinitiative.org/disease/DOID:1932)
+    * Equiv:[MESH:D017204 Angelman Syndrome](http://beta.monarchinitiative.org/disease/MESH:D017204)
+    * Syn: "Angelman Syndrome Chromosome Region"
+    * Syn: "ANGELMAN SYNDROME; AS"
+    * Syn: "AS"
+    * Syn: "happy puppet syndrome"
+    * Syn: "Happy Puppet Syndrome, Formerly"
+    * Syn: "puppetlike syndrome"
 
 ### Angelman syndrome
-
-Score: 2
-
- * [OMIM:105830 Angelman syndrome](http://beta.monarchinitiative.org/disease/OMIM:105830)
-    * [DOID:1932 -](http://beta.monarchinitiative.org/disease/DOID:1932)
-    * [MESH:D017204 -](http://beta.monarchinitiative.org/disease/MESH:D017204)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:105830 Angelman syndrome](http://beta.monarchinitiative.org/disease/OMIM:105830) Confidence: high
+    * Equiv:[DOID:1932 Angelman syndrome](http://beta.monarchinitiative.org/disease/DOID:1932)
+    * Equiv:[MESH:D017204 Angelman Syndrome](http://beta.monarchinitiative.org/disease/MESH:D017204)
+    * Syn: "Angelman Syndrome Chromosome Region"
+    * Syn: "ANGELMAN SYNDROME; AS"
+    * Syn: "AS"
+    * Syn: "happy puppet syndrome"
+    * Syn: "Happy Puppet Syndrome, Formerly"
+    * Syn: "puppetlike syndrome"

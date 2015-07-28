@@ -1,6 +1,10 @@
 
 ## GENE: COL3A1
 
+![image](COL3A1.png)
+[matched diseases visual](COL3A1.png)  <-- click on raw to zoom
+
+
 ### Aortic aneurysm
  * [DOID:3627 aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:3627) Confidence: high
     * Equiv:[MESH:D001014 Aortic Aneurysm](http://beta.monarchinitiative.org/disease/MESH:D001014)

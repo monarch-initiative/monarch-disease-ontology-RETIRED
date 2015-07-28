@@ -1,6 +1,10 @@
 
 ## GENE: MYH7
 
+![image](MYH7.png)
+[matched diseases visual](MYH7.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1S
  * [OMIM:613426 Cardiomyopathy, Dilated, 1s](http://beta.monarchinitiative.org/disease/OMIM:613426) Confidence: high
     * Equiv:[MESH:C563538 Cardiomyopathy, Dilated, 1s](http://beta.monarchinitiative.org/disease/MESH:C563538)

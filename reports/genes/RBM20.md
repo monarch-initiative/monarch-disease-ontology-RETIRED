@@ -1,85 +1,68 @@
 
 ## GENE: RBM20
 
+![image](RBM20.png)
+[matched diseases visual](RBM20.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1DD
-
-Score: 1.4400000000000002
-
- * [OMIM:613172 Cardiomyopathy, Dilated, 1DD](http://beta.monarchinitiative.org/disease/OMIM:613172)
-    * [MESH:C567725 -](http://beta.monarchinitiative.org/disease/MESH:C567725)
+ * [OMIM:613172 Cardiomyopathy, Dilated, 1DD](http://beta.monarchinitiative.org/disease/OMIM:613172) Confidence: high
+    * Equiv:[MESH:C567725 Cardiomyopathy, Dilated, 1DD](http://beta.monarchinitiative.org/disease/MESH:C567725)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1DD; CMD1DD"
+    * Syn: "CMD1DD"
 
 ### Cardiomyopathy, dilated
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Cardiomyopathy, dilated, 1DD
-
-Score: 2
-
- * [OMIM:613172 Cardiomyopathy, Dilated, 1DD](http://beta.monarchinitiative.org/disease/OMIM:613172)
-    * [MESH:C567725 -](http://beta.monarchinitiative.org/disease/MESH:C567725)
+ * [OMIM:613172 Cardiomyopathy, Dilated, 1DD](http://beta.monarchinitiative.org/disease/OMIM:613172) Confidence: high
+    * Equiv:[MESH:C567725 Cardiomyopathy, Dilated, 1DD](http://beta.monarchinitiative.org/disease/MESH:C567725)
+    * Syn: "CARDIOMYOPATHY, DILATED, 1DD; CMD1DD"
+    * Syn: "CMD1DD"
 
 ### Left ventricular noncompaction cardiomyopathy
-
-Score: 1.5625
-
- * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237) Confidence: low/0.1953125
 
 ### Paroxysmal familial ventricular fibrillation
-
-Score: 1.5625
-
- * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956)
-    * [MESH:C537182 -](http://beta.monarchinitiative.org/disease/MESH:C537182)
-    * [MESH:C567841 -](http://beta.monarchinitiative.org/disease/MESH:C567841)
+ * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956) Confidence: low/0.1953125
+    * Equiv:[MESH:C537182 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/MESH:C537182)
+    * Equiv:[MESH:C567841 Ventricular Fibrillation, Paroxysmal Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C567841)
+    * Syn: "VENTRICULAR FIBRILLATION, PAROXYSMAL FAMILIAL, 2; VF2"
+    * Syn: "VF2"
 
 ### Primary dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Pulmonary valve stenosis (rare)
-
-Score: 1.25
-
- * [DOID:6420 pulmonary valve stenosis](http://beta.monarchinitiative.org/disease/DOID:6420)
+ * [MESH:D011666 Pulmonary Valve Stenosis](http://beta.monarchinitiative.org/disease/MESH:D011666) Confidence: low/0.15625
 
 ### Sudden cardiac death
-
-Score: 2
-
- * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080)
-    * [MESH:C562490 -](http://beta.monarchinitiative.org/disease/MESH:C562490)
-    * [MESH:C566172 -](http://beta.monarchinitiative.org/disease/MESH:C566172)
-    * [MESH:D003645 -](http://beta.monarchinitiative.org/disease/MESH:D003645)
-    * [MESH:D016757 -](http://beta.monarchinitiative.org/disease/MESH:D016757)
+ * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080) Confidence: high
+    * Equiv:[MESH:C562490 Cardiac Conduction Defect](http://beta.monarchinitiative.org/disease/MESH:C562490)
+    * Equiv:[MESH:C566172 Familial Sudden Death](http://beta.monarchinitiative.org/disease/MESH:C566172)
+    * Equiv:[MESH:D003645 Death, Sudden](http://beta.monarchinitiative.org/disease/MESH:D003645)
+    * Equiv:[MESH:D016757 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D016757)
+    * Syn: "CARDIAC CONDUCTION DEFECT"
+    * Syn: "Familial Sudden Death"
+    * Syn: "Sudden Cardiac Death"
 
 ### Ventricular tachycardia
-
-Score: 2
-
- * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605)
-    * [MESH:D017180 -](http://beta.monarchinitiative.org/disease/MESH:D017180)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605) Confidence: high
+    * Equiv:[MESH:D017180 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/MESH:D017180)
+    * Syn: "VENTRICULAR TACHYCARDIA, FAMILIAL"
+    * Syn: "Ventricular Tachycardia, Familial Polymorphic"

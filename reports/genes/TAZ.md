@@ -1,30 +1,48 @@
 
 ## GENE: TAZ
 
+![image](TAZ.png)
+[matched diseases visual](TAZ.png)  <-- click on raw to zoom
+
+
 ### BARTH SYNDROME
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:302060 Barth syndrome](http://beta.monarchinitiative.org/disease/OMIM:302060) Confidence: high
+    * Equiv:[DOID:0050476 Barth syndrome](http://beta.monarchinitiative.org/disease/DOID:0050476)
+    * Equiv:[MESH:D056889 Barth Syndrome](http://beta.monarchinitiative.org/disease/MESH:D056889)
+    * Syn: "3-Methylglutaconic Aciduria, Type 2"
+    * Syn: "3-methylglutaconicaciduria type 2"
+    * Syn: "3-methylglutaconicaciduria type II"
+    * Syn: "BARTH SYNDROME; BTHS"
+    * Syn: "BTHS"
+    * Syn: "Cardioskeletal Myopathy With Neutropenia and Abnormal Mitochondria"
+    * Syn: "MGA Type 2"
+    * Syn: "MGA type II"
+    * Syn: "Mga, Type 2"
 
 ### Barth Syndrome
-
-Score: 2
-
- * [OMIM:302060 Barth syndrome](http://beta.monarchinitiative.org/disease/OMIM:302060)
-    * [DOID:0050476 -](http://beta.monarchinitiative.org/disease/DOID:0050476)
-    * [MESH:D056889 -](http://beta.monarchinitiative.org/disease/MESH:D056889)
+ * [OMIM:302060 Barth syndrome](http://beta.monarchinitiative.org/disease/OMIM:302060) Confidence: high
+    * Equiv:[DOID:0050476 Barth syndrome](http://beta.monarchinitiative.org/disease/DOID:0050476)
+    * Equiv:[MESH:D056889 Barth Syndrome](http://beta.monarchinitiative.org/disease/MESH:D056889)
+    * Syn: "3-Methylglutaconic Aciduria, Type 2"
+    * Syn: "3-methylglutaconicaciduria type 2"
+    * Syn: "3-methylglutaconicaciduria type II"
+    * Syn: "BARTH SYNDROME; BTHS"
+    * Syn: "BTHS"
+    * Syn: "Cardioskeletal Myopathy With Neutropenia and Abnormal Mitochondria"
+    * Syn: "MGA Type 2"
+    * Syn: "MGA type II"
+    * Syn: "Mga, Type 2"
 
 ### Barth syndrome
-
-Score: 2
-
- * [OMIM:302060 Barth syndrome](http://beta.monarchinitiative.org/disease/OMIM:302060)
-    * [DOID:0050476 -](http://beta.monarchinitiative.org/disease/DOID:0050476)
-    * [MESH:D056889 -](http://beta.monarchinitiative.org/disease/MESH:D056889)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:302060 Barth syndrome](http://beta.monarchinitiative.org/disease/OMIM:302060) Confidence: high
+    * Equiv:[DOID:0050476 Barth syndrome](http://beta.monarchinitiative.org/disease/DOID:0050476)
+    * Equiv:[MESH:D056889 Barth Syndrome](http://beta.monarchinitiative.org/disease/MESH:D056889)
+    * Syn: "3-Methylglutaconic Aciduria, Type 2"
+    * Syn: "3-methylglutaconicaciduria type 2"
+    * Syn: "3-methylglutaconicaciduria type II"
+    * Syn: "BARTH SYNDROME; BTHS"
+    * Syn: "BTHS"
+    * Syn: "Cardioskeletal Myopathy With Neutropenia and Abnormal Mitochondria"
+    * Syn: "MGA Type 2"
+    * Syn: "MGA type II"
+    * Syn: "Mga, Type 2"

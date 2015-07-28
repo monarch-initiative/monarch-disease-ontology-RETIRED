@@ -1,6 +1,10 @@
 
 ## GENE: PRSS1
 
+![image](PRSS1.png)
+[matched diseases visual](PRSS1.png)  <-- click on raw to zoom
+
+
 ### Hereditary pancreatitis
  * [DOID:4989 pancreatitis](http://beta.monarchinitiative.org/disease/DOID:4989) Confidence: low/0.15625
     * Equiv:[MESH:D010195 Pancreatitis](http://beta.monarchinitiative.org/disease/MESH:D010195)

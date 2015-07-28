@@ -1,6 +1,10 @@
 
 ## GENE: MYBPC3
 
+![image](MYBPC3.png)
+[matched diseases visual](MYBPC3.png)  <-- click on raw to zoom
+
+
 ### Brugada syndrome
  * [DOID:0050451 Brugada syndrome](http://beta.monarchinitiative.org/disease/DOID:0050451) Confidence: high
 

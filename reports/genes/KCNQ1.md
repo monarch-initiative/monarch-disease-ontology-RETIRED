@@ -1,6 +1,10 @@
 
 ## GENE: KCNQ1
 
+![image](KCNQ1.png)
+[matched diseases visual](KCNQ1.png)  <-- click on raw to zoom
+
+
 ### ATRIAL FIBRILLATION, FAMILIAL, 3
  * [OMIM:607554 Atrial Fibrillation, Familial, 3](http://beta.monarchinitiative.org/disease/OMIM:607554) Confidence: high
     * Equiv:[MESH:C563817 Atrial Fibrillation, Familial, 3](http://beta.monarchinitiative.org/disease/MESH:C563817)

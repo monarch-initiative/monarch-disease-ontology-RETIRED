@@ -1,6 +1,10 @@
 
 ## GENE: MYOZ2
 
+![image](MYOZ2.png)
+[matched diseases visual](MYOZ2.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 16
  * [OMIM:613838 Cardiomyopathy, Familial Hypertrophic, 16](http://beta.monarchinitiative.org/disease/OMIM:613838) Confidence: high
     * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 16; CMH16"

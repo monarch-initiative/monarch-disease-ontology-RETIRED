@@ -1,6 +1,10 @@
 
 ## GENE: CDKL5
 
+![image](CDKL5.png)
+[matched diseases visual](CDKL5.png)  <-- click on raw to zoom
+
+
 ### Angelman syndrome-like
  * [OMIM:105830 Angelman syndrome](http://beta.monarchinitiative.org/disease/OMIM:105830) Confidence: low/0.18055555555555555
     * Equiv:[DOID:1932 Angelman syndrome](http://beta.monarchinitiative.org/disease/DOID:1932)

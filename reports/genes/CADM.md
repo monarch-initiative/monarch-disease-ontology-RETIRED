@@ -1,6 +1,10 @@
 
 ## GENE: CADM
 
+![image](CADM.png)
+[matched diseases visual](CADM.png)  <-- click on raw to zoom
+
+
 ### Acyl-CoA dehydrogenase, medium chain, deficiency of
  * [OMIM:201450 Medium chain acyl-CoA dehydrogenase deficiency](http://beta.monarchinitiative.org/disease/OMIM:201450) Confidence: high
     * Equiv:[Orphanet:42 Medium chain acyl-CoA dehydrogenase deficiency](http://beta.monarchinitiative.org/disease/Orphanet:42)

@@ -1,135 +1,92 @@
 
 ## GENE: SDHB
 
-### AllHighlyPenetrant
+![image](SDHB.png)
+[matched diseases visual](SDHB.png)  <-- click on raw to zoom
+
 
 ### COWDEN SYNDROME 2
-
-Score: 1.3125
-
- * [OMIM:612359 Cowden-Like Syndrome](http://beta.monarchinitiative.org/disease/OMIM:612359)
-    * [MESH:C567337 -](http://beta.monarchinitiative.org/disease/MESH:C567337)
+ * [OMIM:612359 Cowden-Like Syndrome](http://beta.monarchinitiative.org/disease/OMIM:612359) Confidence: low/0.1640625
+    * Equiv:[MESH:C567337 Cowden-Like Syndrome](http://beta.monarchinitiative.org/disease/MESH:C567337)
+    * Syn: "COWDEN SYNDROME 2; CWS2"
+    * Syn: "CWS2"
 
 ### Carney triad
-
-Score: 2
-
- * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287)
-    * [Orphanet:139411 -](http://beta.monarchinitiative.org/disease/Orphanet:139411)
-    * [MESH:C565803 -](http://beta.monarchinitiative.org/disease/MESH:C565803)
+ * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287) Confidence: high
+    * Equiv:[Orphanet:139411 Carney triad](http://beta.monarchinitiative.org/disease/Orphanet:139411)
+    * Equiv:[MESH:C565803 Carney Triad](http://beta.monarchinitiative.org/disease/MESH:C565803)
+    * Syn: "CARNEY TRIAD"
+    * Syn: "Gastric Leiomyosarcoma, Pulmonary Chondroma, and Extraadrenal Paraganglioma"
 
 ### Cowden-like syndrome
-
-Score: 2
-
- * [OMIM:612359 Cowden-Like Syndrome](http://beta.monarchinitiative.org/disease/OMIM:612359)
-    * [MESH:C567337 -](http://beta.monarchinitiative.org/disease/MESH:C567337)
-
-Score: 2
-
- * [OMIM:612359 Cowden-Like Syndrome](http://beta.monarchinitiative.org/disease/OMIM:612359)
-    * [MESH:C567337 -](http://beta.monarchinitiative.org/disease/MESH:C567337)
-
-Score: 1.25
-
- * [MESH:D013577 Syndrome](http://beta.monarchinitiative.org/disease/MESH:D013577)
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:612359 Cowden-Like Syndrome](http://beta.monarchinitiative.org/disease/OMIM:612359) Confidence: high
+    * Equiv:[MESH:C567337 Cowden-Like Syndrome](http://beta.monarchinitiative.org/disease/MESH:C567337)
+    * Syn: "COWDEN SYNDROME 2; CWS2"
+    * Syn: "CWS2"
 
 ### GASTROINTESTINAL STROMAL TUMOR
-
-Score: 2
-
- * [OMIM:606764 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/OMIM:606764)
-    * [DOID:9253 -](http://beta.monarchinitiative.org/disease/DOID:9253)
-    * [MESH:D046152 -](http://beta.monarchinitiative.org/disease/MESH:D046152)
+ * [OMIM:606764 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/OMIM:606764) Confidence: high
+    * Equiv:[DOID:9253 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/DOID:9253)
+    * Equiv:[MESH:D046152 Gastrointestinal Stromal Tumors](http://beta.monarchinitiative.org/disease/MESH:D046152)
+    * Syn: "GANT"
+    * Syn: "GASTROINTESTINAL STROMAL TUMOR; GIST"
+    * Syn: "GIST"
+    * Syn: "Stromal tumor of gastrointestinal tract"
 
 ### Gastrointestinal Stromal Tumors
-
-Score: 2
-
- * [OMIM:606764 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/OMIM:606764)
-    * [DOID:9253 -](http://beta.monarchinitiative.org/disease/DOID:9253)
-    * [MESH:D046152 -](http://beta.monarchinitiative.org/disease/MESH:D046152)
+ * [OMIM:606764 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/OMIM:606764) Confidence: medium
+    * Equiv:[DOID:9253 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/DOID:9253)
+    * Equiv:[MESH:D046152 Gastrointestinal Stromal Tumors](http://beta.monarchinitiative.org/disease/MESH:D046152)
+    * Syn: "GANT"
+    * Syn: "GASTROINTESTINAL STROMAL TUMOR; GIST"
+    * Syn: "GIST"
+    * Syn: "Stromal tumor of gastrointestinal tract"
 
 ### Hereditary Paragangliomas and Pheochromocytomas
-
-Score: 1.5625
-
- * [Orphanet:29072 Hereditary pheochromocytoma-paraganglioma](http://beta.monarchinitiative.org/disease/Orphanet:29072)
+ * [Orphanet:29072 Hereditary pheochromocytoma-paraganglioma](http://beta.monarchinitiative.org/disease/Orphanet:29072) Confidence: low/0.1953125
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA
-
-Score: 2
-
- * [OMIM:606864 Carney-Stratakis syndrome](http://beta.monarchinitiative.org/disease/OMIM:606864)
-    * [Orphanet:97286 -](http://beta.monarchinitiative.org/disease/Orphanet:97286)
-    * [MESH:C564650 -](http://beta.monarchinitiative.org/disease/MESH:C564650)
+ * [OMIM:606864 Carney-Stratakis syndrome](http://beta.monarchinitiative.org/disease/OMIM:606864) Confidence: medium
+    * Equiv:[Orphanet:97286 Carney-Stratakis syndrome](http://beta.monarchinitiative.org/disease/Orphanet:97286)
+    * Equiv:[MESH:C564650 Carney-Stratakis Syndrome](http://beta.monarchinitiative.org/disease/MESH:C564650)
+    * Syn: "Carney-Stratakis Syndrome"
+    * Syn: "PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA"
+    * Syn: "Paraganglioma and Gastrointestinal Stromal Tumor"
 
 ### PARAGANGLIOMAS 4
-
-Score: 1.1111111111111112
-
- * [OMIM:115310 Paragangliomas 4](http://beta.monarchinitiative.org/disease/OMIM:115310)
+ * [OMIM:115310 Paragangliomas 4](http://beta.monarchinitiative.org/disease/OMIM:115310) Confidence: high
+    * Syn: "Carotid Body Tumors and Multiple Extraadrenal Pheochromocytomas"
+    * Syn: "Paraganglioma, Familial Malignant"
+    * Syn: "PARAGANGLIOMAS 4; PGL4"
+    * Syn: "Paragangliomas, Hereditary Extraadrenal"
+    * Syn: "PGL4"
+    * Syn: "Pheochromocytoma, Extraadrenal, and Cervical Paraganglioma"
+    * Syn: "Pheochromocytoma, Familial Extraadrenal"
 
 ### PHEOCHROMOCYTOMA
-
-Score: 2
-
- * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300)
-    * [MESH:D010673 -](http://beta.monarchinitiative.org/disease/MESH:D010673)
+ * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300) Confidence: high
+    * Equiv:[MESH:D010673 Pheochromocytoma](http://beta.monarchinitiative.org/disease/MESH:D010673)
+    * Syn: "PHEOCHROMOCYTOMA"
+    * Syn: "Pheochromocytoma, Susceptibility to"
 
 ### Phaeochromocytoma
-
-Score: 2
-
- * [DOID:0050771 phaeochromocytoma](http://beta.monarchinitiative.org/disease/DOID:0050771)
+ * [DOID:0050771 phaeochromocytoma](http://beta.monarchinitiative.org/disease/DOID:0050771) Confidence: high
 
 ### Pheochromocytoma
-
-Score: 2
-
- * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300)
-    * [MESH:D010673 -](http://beta.monarchinitiative.org/disease/MESH:D010673)
+ * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300) Confidence: high
+    * Equiv:[MESH:D010673 Pheochromocytoma](http://beta.monarchinitiative.org/disease/MESH:D010673)
+    * Syn: "PHEOCHROMOCYTOMA"
+    * Syn: "Pheochromocytoma, Susceptibility to"
 
 ### Pheochromocytoma/Paraganglioma
-
-Score: 1.1111111111111112
-
- * [Orphanet:29072 Hereditary pheochromocytoma-paraganglioma](http://beta.monarchinitiative.org/disease/Orphanet:29072)
- * [DOID:0050773 paraganglioma](http://beta.monarchinitiative.org/disease/DOID:0050773)
-    * [MESH:D010236 -](http://beta.monarchinitiative.org/disease/MESH:D010236)
+ * [Orphanet:29072 Hereditary pheochromocytoma-paraganglioma](http://beta.monarchinitiative.org/disease/Orphanet:29072) Confidence: low/0.1388888888888889
 
 ### Renal cell carcinoma
-
-Score: 2
-
- * [DOID:4450 renal cell carcinoma](http://beta.monarchinitiative.org/disease/DOID:4450)
-    * [MESH:C536851 -](http://beta.monarchinitiative.org/disease/MESH:C536851)
-
-### VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.5625
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:4450 renal cell carcinoma](http://beta.monarchinitiative.org/disease/DOID:4450) Confidence: high
+    * Equiv:[MESH:C536851 Familial renal cell carcinoma](http://beta.monarchinitiative.org/disease/MESH:C536851)
+    * Syn: "adenocarcinoma of kidney"
+    * Syn: "hypernephroma (disorder)"
+    * Syn: "RCC"

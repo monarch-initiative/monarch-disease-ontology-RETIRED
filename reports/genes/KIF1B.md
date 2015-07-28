@@ -1,6 +1,10 @@
 
 ## GENE: KIF1B
 
+![image](KIF1B.png)
+[matched diseases visual](KIF1B.png)  <-- click on raw to zoom
+
+
 ### CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2A1
  * [OMIM:118210 Charcot-Marie-Tooth Disease, Axonal, Type 2a1](http://beta.monarchinitiative.org/disease/OMIM:118210) Confidence: high
     * Equiv:[MESH:C566138 Charcot-Marie-Tooth Disease, Axonal, Type 2a1](http://beta.monarchinitiative.org/disease/MESH:C566138)

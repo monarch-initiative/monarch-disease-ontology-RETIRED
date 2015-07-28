@@ -1,6 +1,10 @@
 
 ## GENE: LDB3
 
+![image](LDB3.png)
+[matched diseases visual](LDB3.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1C
  * [OMIM:601493 Cardiomyopathy, Dilated, 1C](http://beta.monarchinitiative.org/disease/OMIM:601493) Confidence: high
     * Equiv:[MESH:C563307 Cardiomyopathy, Dilated, 1C](http://beta.monarchinitiative.org/disease/MESH:C563307)

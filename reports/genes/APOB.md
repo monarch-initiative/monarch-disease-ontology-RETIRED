@@ -1,6 +1,10 @@
 
 ## GENE: APOB
 
+![image](APOB.png)
+[matched diseases visual](APOB.png)  <-- click on raw to zoom
+
+
 ### APOB POLYMORPHISM IN SIGNAL PEPTIDE
  * [results_in -](http://beta.monarchinitiative.org/disease/results_in) Confidence: low/0.0675
 

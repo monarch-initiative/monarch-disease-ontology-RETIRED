@@ -1,6 +1,10 @@
 
 ## GENE: CRYAB
 
+![image](CRYAB.png)
+[matched diseases visual](CRYAB.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1II
  * [OMIM:615184 Cardiomyopathy, Dilated, 1Ii](http://beta.monarchinitiative.org/disease/OMIM:615184) Confidence: high
     * Syn: "CARDIOMYOPATHY, DILATED, 1II; CMD1II"

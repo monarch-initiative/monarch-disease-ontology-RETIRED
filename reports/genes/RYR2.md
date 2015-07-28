@@ -1,168 +1,121 @@
 
 ## GENE: RYR2
 
+![image](RYR2.png)
+[matched diseases visual](RYR2.png)  <-- click on raw to zoom
+
+
 ### ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 2
-
-Score: 1.5918367346938775
-
- * [OMIM:600996 Arrhythmogenic Right Ventricular Dysplasia, Familial, 2](http://beta.monarchinitiative.org/disease/OMIM:600996)
-    * [MESH:C563409 -](http://beta.monarchinitiative.org/disease/MESH:C563409)
-
-### AllHighlyPenetrant
+ * [OMIM:600996 Arrhythmogenic Right Ventricular Dysplasia, Familial, 2](http://beta.monarchinitiative.org/disease/OMIM:600996) Confidence: high
+    * Equiv:[MESH:C563409 Arrhythmogenic Right Ventricular Dysplasia, Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C563409)
+    * Syn: "Arrhythmogenic Right Ventricular Cardiomyopathy 2"
+    * Syn: "ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 2; ARVD2"
+    * Syn: "ARVD2"
 
 ### Arrhythmia
-
-Score: 0.75
-
- * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000)
-    * [MESH:D001145 -](http://beta.monarchinitiative.org/disease/MESH:D001145)
-    * [MESH:D005117 -](http://beta.monarchinitiative.org/disease/MESH:D005117)
- * [MESH:D001146 Arrhythmia, Sinus](http://beta.monarchinitiative.org/disease/MESH:D001146)
+ * [OMIM:115000 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/OMIM:115000) Confidence: low/0.09375
+    * Equiv:[MESH:D001145 Arrhythmias, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D001145)
+    * Equiv:[MESH:D005117 Cardiac Complexes, Premature](http://beta.monarchinitiative.org/disease/MESH:D005117)
+    * Syn: "CARDIAC ARRHYTHMIA"
+    * Syn: "Extrasystoles"
 
 ### Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy
-
-Score: 1.527777777777778
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Arrhythmogenic right ventricular cardiomyopathy
-
-Score: 2
-
- * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431)
-    * [MESH:D019571 -](http://beta.monarchinitiative.org/disease/MESH:D019571)
+ * [DOID:0050431 arrhythmogenic right ventricular cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050431) Confidence: high
+    * Equiv:[MESH:D019571 Arrhythmogenic Right Ventricular Dysplasia](http://beta.monarchinitiative.org/disease/MESH:D019571)
+    * Syn: "arrhythmogenic right ventricular dysplasia"
+    * Syn: "arrhythmogenic right ventricular dysplasia/cardiomyopathy"
+    * Syn: "ARVC"
+    * Syn: "ARVC cardiomyopathy"
+    * Syn: "ARVD"
 
 ### Cardiac Arrest
-
-Score: 2
-
- * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319)
-    * [MESH:D006323 -](http://beta.monarchinitiative.org/disease/MESH:D006323)
+ * [DOID:0060319 cardiac arrest](http://beta.monarchinitiative.org/disease/DOID:0060319) Confidence: high
+    * Equiv:[MESH:D006323 Heart Arrest](http://beta.monarchinitiative.org/disease/MESH:D006323)
+    * Syn: "cardiopulmonary arrest"
+    * Syn: "circulatory arrest"
 
 ### Cardiomyopathy
-
-Score: 2
-
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700)
-    * [MESH:D009202 -](http://beta.monarchinitiative.org/disease/MESH:D009202)
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
 
 ### Catecholaminergic polymorphic ventricular tachycardia
-
-Score: 2
-
- * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665)
+ * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665) Confidence: high
 
 ### Catecholaminergic polymorphic ventricular tachycardia ?
-
-Score: 1.6400000000000001
-
- * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665)
+ * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665) Confidence: low/0.20500000000000002
 
 ### Diastolic dysfunction
-
-Score: 0.75
-
- * [DOID:9779 bowel dysfunction](http://beta.monarchinitiative.org/disease/DOID:9779)
- * [DOID:566 labyrinthine dysfunction](http://beta.monarchinitiative.org/disease/DOID:566)
- * [DOID:3262 phagocyte bactericidal dysfunction](http://beta.monarchinitiative.org/disease/DOID:3262)
-    * [MESH:D010585 -](http://beta.monarchinitiative.org/disease/MESH:D010585)
- * [DOID:1876 sexual dysfunction](http://beta.monarchinitiative.org/disease/DOID:1876)
- * [DOID:1875 impotence](http://beta.monarchinitiative.org/disease/DOID:1875)
-    * [MESH:D007172 -](http://beta.monarchinitiative.org/disease/MESH:D007172)
- * [DOID:1414 ovarian dysfunction](http://beta.monarchinitiative.org/disease/DOID:1414)
+ * [MESH:D018754 Ventricular Dysfunction](http://beta.monarchinitiative.org/disease/MESH:D018754) Confidence: low/0.09375
 
 ### Left ventricular noncompaction cardiomyopathy
-
-Score: 1.5625
-
- * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237)
+ * [DC:0000237 Left Ventricular Noncompaction](http://beta.monarchinitiative.org/disease/DC:0000237) Confidence: low/0.1953125
 
 ### Long QT syndrome
-
-Score: 2
-
- * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843)
-    * [MESH:D008133 -](http://beta.monarchinitiative.org/disease/MESH:D008133)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### Not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [DOID:2843 long QT syndrome](http://beta.monarchinitiative.org/disease/DOID:2843) Confidence: high
+    * Equiv:[MESH:D008133 Long QT Syndrome](http://beta.monarchinitiative.org/disease/MESH:D008133)
+    * Syn: "long Q-T syndrome"
+    * Syn: "LQT"
+    * Syn: "Romano-Ward syndrome"
+    * Syn: "Romano-Ward syndrome (disorder)"
 
 ### Paroxysmal familial ventricular fibrillation
-
-Score: 1.5625
-
- * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956)
-    * [MESH:C537182 -](http://beta.monarchinitiative.org/disease/MESH:C537182)
-    * [MESH:C567841 -](http://beta.monarchinitiative.org/disease/MESH:C567841)
+ * [OMIM:612956 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/OMIM:612956) Confidence: low/0.1953125
+    * Equiv:[MESH:C537182 Paroxysmal ventricular fibrillation](http://beta.monarchinitiative.org/disease/MESH:C537182)
+    * Equiv:[MESH:C567841 Ventricular Fibrillation, Paroxysmal Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C567841)
+    * Syn: "VENTRICULAR FIBRILLATION, PAROXYSMAL FAMILIAL, 2; VF2"
+    * Syn: "VF2"
 
 ### Primary dilated cardiomyopathy
-
-Score: 2
-
- * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930)
+ * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Syn: "Congestive cardiomyopathy"
+    * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Idiopathic dilation cardiomyopathy"
+    * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
-
-Score: 1.5625
-
- * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984)
-    * [MESH:D002312 -](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * [MESH:D024741 -](http://beta.monarchinitiative.org/disease/MESH:D024741)
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
 
 ### Sudden cardiac death
-
-Score: 2
-
- * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080)
-    * [MESH:C562490 -](http://beta.monarchinitiative.org/disease/MESH:C562490)
-    * [MESH:C566172 -](http://beta.monarchinitiative.org/disease/MESH:C566172)
-    * [MESH:D003645 -](http://beta.monarchinitiative.org/disease/MESH:D003645)
-    * [MESH:D016757 -](http://beta.monarchinitiative.org/disease/MESH:D016757)
+ * [OMIM:115080 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/OMIM:115080) Confidence: high
+    * Equiv:[MESH:C562490 Cardiac Conduction Defect](http://beta.monarchinitiative.org/disease/MESH:C562490)
+    * Equiv:[MESH:C566172 Familial Sudden Death](http://beta.monarchinitiative.org/disease/MESH:C566172)
+    * Equiv:[MESH:D003645 Death, Sudden](http://beta.monarchinitiative.org/disease/MESH:D003645)
+    * Equiv:[MESH:D016757 Death, Sudden, Cardiac](http://beta.monarchinitiative.org/disease/MESH:D016757)
+    * Syn: "CARDIAC CONDUCTION DEFECT"
+    * Syn: "Familial Sudden Death"
+    * Syn: "Sudden Cardiac Death"
 
 ### VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1
-
-Score: 1.1600000000000001
-
- * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605)
-    * [MESH:D017180 -](http://beta.monarchinitiative.org/disease/MESH:D017180)
+ * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605) Confidence: low/0.14500000000000002
+    * Equiv:[MESH:D017180 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/MESH:D017180)
+    * Syn: "VENTRICULAR TACHYCARDIA, FAMILIAL"
+    * Syn: "Ventricular Tachycardia, Familial Polymorphic"
 
 ### VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1, WITH OR WITHOUT ATRIAL DYSFUNCTION AND DILATED CARDIOMYOPATHY
-
-Score: 1.617777777777778
-
- * [OMIM:604772 Ventricular Tachycardia, Catecholaminergic Polymorphic, 1, With or Without Atrial Dysfunction And/Or Dilated Cardiomyopathy](http://beta.monarchinitiative.org/disease/OMIM:604772)
+ * [OMIM:604772 Ventricular Tachycardia, Catecholaminergic Polymorphic, 1, With or Without Atrial Dysfunction And/Or Dilated Cardiomyopathy](http://beta.monarchinitiative.org/disease/OMIM:604772) Confidence: high
+    * Syn: "CPVT1"
+    * Syn: "VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1, WITH OR WITHOUT ATRIAL DYSFUNCTION AND/OR DILATED CARDIOMYOPATHY; CPVT1"
+    * Syn: "Ventricular Tachycardia, Stress-Induced Polymorphic"
 
 ### Ventricular tachycardia, catecholaminergic polymorphic, 1
-
-Score: 1.6400000000000001
-
- * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665)
+ * [DC:0000665 Ventricular Tachycardia, Catecholaminergic Polymorphic](http://beta.monarchinitiative.org/disease/DC:0000665) Confidence: low/0.20500000000000002
 
 ### Ventricular tachycardia, polymorphic
-
-Score: 1.4444444444444444
-
- * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605)
-    * [MESH:D017180 -](http://beta.monarchinitiative.org/disease/MESH:D017180)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:192605 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/OMIM:192605) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:D017180 Tachycardia, Ventricular](http://beta.monarchinitiative.org/disease/MESH:D017180)
+    * Syn: "VENTRICULAR TACHYCARDIA, FAMILIAL"
+    * Syn: "Ventricular Tachycardia, Familial Polymorphic"

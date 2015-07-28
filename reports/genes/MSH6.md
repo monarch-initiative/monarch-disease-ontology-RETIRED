@@ -1,6 +1,10 @@
 
 ## GENE: MSH6
 
+![image](MSH6.png)
+[matched diseases visual](MSH6.png)  <-- click on raw to zoom
+
+
 ### COLON CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5
  * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: low/0.15306122448979592
     * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)

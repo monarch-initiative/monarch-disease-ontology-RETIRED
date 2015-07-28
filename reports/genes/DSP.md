@@ -1,6 +1,10 @@
 
 ## GENE: DSP
 
+![image](DSP.png)
+[matched diseases visual](DSP.png)  <-- click on raw to zoom
+
+
 ### ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 8
  * [OMIM:607450 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/OMIM:607450) Confidence: high
     * Equiv:[MESH:C564400 Arrhythmogenic Right Ventricular Dysplasia, Familial, 8](http://beta.monarchinitiative.org/disease/MESH:C564400)

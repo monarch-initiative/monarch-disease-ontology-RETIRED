@@ -1,6 +1,10 @@
 
 ## GENE: DSG2
 
+![image](DSG2.png)
+[matched diseases visual](DSG2.png)  <-- click on raw to zoom
+
+
 ### ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA, FAMILIAL, 10
  * [OMIM:610193 Arrhythmogenic Right Ventricular Dysplasia, Familial, 10](http://beta.monarchinitiative.org/disease/OMIM:610193) Confidence: high
     * Equiv:[MESH:C565707 Arrhythmogenic Right Ventricular Dysplasia, Familial, 10](http://beta.monarchinitiative.org/disease/MESH:C565707)

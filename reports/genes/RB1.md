@@ -1,48 +1,39 @@
 
 ## GENE: RB1
 
-### AllHighlyPenetrant
+![image](RB1.png)
+[matched diseases visual](RB1.png)  <-- click on raw to zoom
+
 
 ### BLADDER CANCER, SOMATIC
-
-Score: 1.4444444444444444
-
- * [DOID:11054 urinary bladder cancer](http://beta.monarchinitiative.org/disease/DOID:11054)
-    * [MESH:D001749 -](http://beta.monarchinitiative.org/disease/MESH:D001749)
+ * [OMIM:109800 Bladder Cancer](http://beta.monarchinitiative.org/disease/OMIM:109800) Confidence: low/0.18055555555555555
+    * Syn: "BLADDER CANCER"
 
 ### RETINOBLASTOMA
-
-Score: 2
-
- * [DOID:768 retinoblastoma](http://beta.monarchinitiative.org/disease/DOID:768)
+ * [DOID:768 retinoblastoma](http://beta.monarchinitiative.org/disease/DOID:768) Confidence: high
+    * Syn: "neuroblastoma of Retina"
+    * Syn: "RB"
+    * Syn: "RB - Retinoblastoma"
 
 ### RETINOBLASTOMA, SOMATIC
-
-Score: 1.25
-
- * [DOID:768 retinoblastoma](http://beta.monarchinitiative.org/disease/DOID:768)
+ * [OMIM:180200 Retinoblastoma](http://beta.monarchinitiative.org/disease/OMIM:180200) Confidence: low/0.15625
+    * Equiv:[MESH:D012175 Retinoblastoma](http://beta.monarchinitiative.org/disease/MESH:D012175)
+    * Syn: "Rb"
+    * Syn: "RB1"
+    * Syn: "RETINOBLASTOMA; RB1"
 
 ### RETINOBLASTOMA, TRILATERAL
-
-Score: 2
-
- * [DOID:4647 trilateral retinoblastoma](http://beta.monarchinitiative.org/disease/DOID:4647)
+ * [DOID:4647 trilateral retinoblastoma](http://beta.monarchinitiative.org/disease/DOID:4647) Confidence: high
 
 ### Retinoblastoma
-
-Score: 2
-
- * [DOID:768 retinoblastoma](http://beta.monarchinitiative.org/disease/DOID:768)
+ * [DOID:768 retinoblastoma](http://beta.monarchinitiative.org/disease/DOID:768) Confidence: high
+    * Syn: "neuroblastoma of Retina"
+    * Syn: "RB"
+    * Syn: "RB - Retinoblastoma"
 
 ### SMALL CELL CANCER OF THE LUNG, SOMATIC
-
-Score: 1.4444444444444444
-
- * [OMIM:182280 Small cell lung cancer](http://beta.monarchinitiative.org/disease/OMIM:182280)
-    * [Orphanet:70573 -](http://beta.monarchinitiative.org/disease/Orphanet:70573)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:182280 Small cell lung cancer](http://beta.monarchinitiative.org/disease/OMIM:182280) Confidence: low/0.18055555555555555
+    * Equiv:[Orphanet:70573 Small cell lung cancer](http://beta.monarchinitiative.org/disease/Orphanet:70573)
+    * Syn: "Sclc"
+    * Syn: "Sclc1"
+    * Syn: "SMALL CELL CANCER OF THE LUNG"

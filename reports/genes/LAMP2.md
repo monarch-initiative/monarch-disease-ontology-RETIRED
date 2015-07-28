@@ -1,6 +1,10 @@
 
 ## GENE: LAMP2
 
+![image](LAMP2.png)
+[matched diseases visual](LAMP2.png)  <-- click on raw to zoom
+
+
 ### DANON DISEASE
  * [OMIM:300257 Danon disease](http://beta.monarchinitiative.org/disease/OMIM:300257) Confidence: high
     * Equiv:[DOID:0050437 Danon disease](http://beta.monarchinitiative.org/disease/DOID:0050437)

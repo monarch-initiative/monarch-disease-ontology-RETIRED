@@ -1,84 +1,55 @@
 
 ## GENE: WT1
 
+![image](WT1.png)
+[matched diseases visual](WT1.png)  <-- click on raw to zoom
+
+
 ### DENYS-DRASH SYNDROME
-
-Score: 1.3125
-
- * [OMIM:194080 Denys-Drash syndrome](http://beta.monarchinitiative.org/disease/OMIM:194080)
-    * [DOID:3764 -](http://beta.monarchinitiative.org/disease/DOID:3764)
-    * [MESH:D030321 -](http://beta.monarchinitiative.org/disease/MESH:D030321)
-
-Score: 1.3125
-
- * [OMIM:194080 Denys-Drash syndrome](http://beta.monarchinitiative.org/disease/OMIM:194080)
-    * [DOID:3764 -](http://beta.monarchinitiative.org/disease/DOID:3764)
-    * [MESH:D030321 -](http://beta.monarchinitiative.org/disease/MESH:D030321)
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:194080 Denys-Drash syndrome](http://beta.monarchinitiative.org/disease/OMIM:194080) Confidence: high
+    * Equiv:[DOID:3764 Denys-Drash syndrome](http://beta.monarchinitiative.org/disease/DOID:3764)
+    * Equiv:[MESH:D030321 Denys-Drash Syndrome](http://beta.monarchinitiative.org/disease/MESH:D030321)
+    * Syn: "DDS"
+    * Syn: "DENYS-DRASH SYNDROME; DDS"
+    * Syn: "Drash Syndrome"
+    * Syn: "Nephropathy, Wilms Tumor, and Genital Anomalies"
+    * Syn: "Wilms Tumor and Pseudo- or True Hermaphroditism"
 
 ### FRASIER SYNDROME
-
-Score: 2
-
- * [OMIM:136680 Frasier syndrome](http://beta.monarchinitiative.org/disease/OMIM:136680)
-    * [DOID:0050438 -](http://beta.monarchinitiative.org/disease/DOID:0050438)
-    * [MESH:D052159 -](http://beta.monarchinitiative.org/disease/MESH:D052159)
+ * [OMIM:136680 Frasier syndrome](http://beta.monarchinitiative.org/disease/OMIM:136680) Confidence: high
+    * Equiv:[DOID:0050438 Frasier syndrome](http://beta.monarchinitiative.org/disease/DOID:0050438)
+    * Equiv:[MESH:D052159 Frasier Syndrome](http://beta.monarchinitiative.org/disease/MESH:D052159)
+    * Syn: "FRASIER SYNDROME"
 
 ### Hereditary Nephrotic Syndromes
-
-Score: 1.4444444444444444
-
- * [DOID:1184 nephrotic syndrome](http://beta.monarchinitiative.org/disease/DOID:1184)
+ * [DOID:1184 nephrotic syndrome](http://beta.monarchinitiative.org/disease/DOID:1184) Confidence: low/0.18055555555555555
+    * Syn: "finnish congenital nephrosis"
 
 ### MEACHAM SYNDROME
-
-Score: 2
-
- * [OMIM:608978 Meacham syndrome](http://beta.monarchinitiative.org/disease/OMIM:608978)
-    * [Orphanet:3097 -](http://beta.monarchinitiative.org/disease/Orphanet:3097)
-    * [MESH:C563821 -](http://beta.monarchinitiative.org/disease/MESH:C563821)
+ * [OMIM:608978 Meacham syndrome](http://beta.monarchinitiative.org/disease/OMIM:608978) Confidence: high
+    * Equiv:[Orphanet:3097 Meacham syndrome](http://beta.monarchinitiative.org/disease/Orphanet:3097)
+    * Equiv:[MESH:C563821 Meacham Syndrome](http://beta.monarchinitiative.org/disease/MESH:C563821)
+    * Syn: "MEACHAM SYNDROME"
 
 ### MESOTHELIOMA, SOMATIC
-
-Score: 1.25
-
- * [Orphanet:50251 Mesothelioma](http://beta.monarchinitiative.org/disease/Orphanet:50251)
- * [MESH:D008654 Mesothelioma](http://beta.monarchinitiative.org/disease/MESH:D008654)
+ * [Orphanet:50251 Mesothelioma](http://beta.monarchinitiative.org/disease/Orphanet:50251) Confidence: low/0.15625
 
 ### NEPHROTIC SYNDROME TYPE 4
-
-Score: 1.4400000000000002
-
- * [OMIM:256370 Nephrotic Syndrome, Type 4](http://beta.monarchinitiative.org/disease/OMIM:256370)
+ * [OMIM:256370 Nephrotic Syndrome, Type 4](http://beta.monarchinitiative.org/disease/OMIM:256370) Confidence: high
+    * Syn: "NEPHROTIC SYNDROME, TYPE 4; NPHS4"
+    * Syn: "NPHS4"
 
 ### NEPHROTIC SYNDROME, TYPE 4
-
-Score: 1.4400000000000002
-
- * [OMIM:256370 Nephrotic Syndrome, Type 4](http://beta.monarchinitiative.org/disease/OMIM:256370)
+ * [OMIM:256370 Nephrotic Syndrome, Type 4](http://beta.monarchinitiative.org/disease/OMIM:256370) Confidence: high
+    * Syn: "NEPHROTIC SYNDROME, TYPE 4; NPHS4"
+    * Syn: "NPHS4"
 
 ### Proteinuria
-
-Score: 2
-
- * [DOID:576 proteinuria](http://beta.monarchinitiative.org/disease/DOID:576)
-    * [MESH:D011507 -](http://beta.monarchinitiative.org/disease/MESH:D011507)
+ * [DOID:576 proteinuria](http://beta.monarchinitiative.org/disease/DOID:576) Confidence: high
+    * Equiv:[MESH:D011507 Proteinuria](http://beta.monarchinitiative.org/disease/MESH:D011507)
 
 ### WILMS TUMOR 1
-
-Score: 1.3125
-
- * [OMIM:194070 Wilms Tumor 1](http://beta.monarchinitiative.org/disease/OMIM:194070)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:194070 Wilms Tumor 1](http://beta.monarchinitiative.org/disease/OMIM:194070) Confidence: high
+    * Syn: "Nephroblastoma"
+    * Syn: "WILMS TUMOR 1; WT1"
+    * Syn: "WT1"

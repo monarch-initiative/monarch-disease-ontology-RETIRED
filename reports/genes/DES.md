@@ -1,6 +1,10 @@
 
 ## GENE: DES
 
+![image](DES.png)
+[matched diseases visual](DES.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1I (1 family)
  * [OMIM:604765 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/OMIM:604765) Confidence: low/0.16581632653061223
     * Equiv:[MESH:C565752 Cardiomyopathy, Dilated, 1i](http://beta.monarchinitiative.org/disease/MESH:C565752)

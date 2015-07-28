@@ -1,6 +1,10 @@
 
 ## GENE: MEF2C
 
+![image](MEF2C.png)
+[matched diseases visual](MEF2C.png)  <-- click on raw to zoom
+
+
 ### MENTAL RETARDATION, AUTOSOMAL DOMINANT 20
  * [OMIM:613443 Mental Retardation, Autosomal Dominant 20](http://beta.monarchinitiative.org/disease/OMIM:613443) Confidence: high
     * Syn: "Chromosome 5Q14.3 Deletion Syndrome, Proximal"

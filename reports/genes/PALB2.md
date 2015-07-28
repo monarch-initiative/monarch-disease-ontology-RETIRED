@@ -1,6 +1,10 @@
 
 ## GENE: PALB2
 
+![image](PALB2.png)
+[matched diseases visual](PALB2.png)  <-- click on raw to zoom
+
+
 ### BREAST CANCER, SUSCEPTIBILITY TO
  * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.15625
     * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)

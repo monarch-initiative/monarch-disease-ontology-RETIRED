@@ -1,6 +1,10 @@
 
 ## GENE: MSH2
 
+![image](MSH2.png)
+[matched diseases visual](MSH2.png)  <-- click on raw to zoom
+
+
 ### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 1
  * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
     * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)

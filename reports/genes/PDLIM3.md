@@ -1,6 +1,10 @@
 
 ## GENE: PDLIM3
 
+![image](PDLIM3.png)
+[matched diseases visual](PDLIM3.png)  <-- click on raw to zoom
+
+
 ### Primary dilated cardiomyopathy
  * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
     * Syn: "Congestive cardiomyopathy"

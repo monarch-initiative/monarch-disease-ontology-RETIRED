@@ -1,6 +1,10 @@
 
 ## GENE: BAG3
 
+![image](BAG3.png)
+[matched diseases visual](BAG3.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1HH
  * [OMIM:613881 Cardiomyopathy, Dilated, 1Hh](http://beta.monarchinitiative.org/disease/OMIM:613881) Confidence: high
     * Syn: "CARDIOMYOPATHY, DILATED, 1HH; CMD1HH"

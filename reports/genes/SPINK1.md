@@ -1,56 +1,77 @@
 
 ## GENE: SPINK1
 
+![image](SPINK1.png)
+[matched diseases visual](SPINK1.png)  <-- click on raw to zoom
+
+
 ### FIBROCALCULOUS PANCREATIC DIABETES, SUSCEPTIBILITY TO
-
-Score: 0.56
-
- * [OMIM:613348 Pancreatic Cancer, Susceptibility To, 3](http://beta.monarchinitiative.org/disease/OMIM:613348)
- * [OMIM:613347 Pancreatic Cancer, Susceptibility To, 2](http://beta.monarchinitiative.org/disease/OMIM:613347)
- * [OMIM:606856 Pancreatic Cancer, Susceptibility To, 1](http://beta.monarchinitiative.org/disease/OMIM:606856)
+ * [OMIM:613348 Pancreatic Cancer, Susceptibility To, 3](http://beta.monarchinitiative.org/disease/OMIM:613348) Confidence: low/0.07
+    * Syn: "PANCREATIC CANCER, SUSCEPTIBILITY TO, 3"
+    * Syn: "Pnca3"
 
 ### Hereditary pancreatitis
-
-Score: 1.25
-
- * [DOID:4989 pancreatitis](http://beta.monarchinitiative.org/disease/DOID:4989)
-    * [MESH:D010195 -](http://beta.monarchinitiative.org/disease/MESH:D010195)
+ * [DOID:4989 pancreatitis](http://beta.monarchinitiative.org/disease/DOID:4989) Confidence: low/0.15625
+    * Equiv:[MESH:D010195 Pancreatitis](http://beta.monarchinitiative.org/disease/MESH:D010195)
 
 ### PANCREATITIS, CHRONIC
-
-Score: 1.25
-
- * [DOID:4989 pancreatitis](http://beta.monarchinitiative.org/disease/DOID:4989)
-    * [MESH:D010195 -](http://beta.monarchinitiative.org/disease/MESH:D010195)
+ * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: high
+    * Equiv:[MESH:C537262 Hereditary pancreatitis](http://beta.monarchinitiative.org/disease/MESH:C537262)
+    * Equiv:[MESH:C566837 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/MESH:C566837)
+    * Equiv:[MESH:D050500 Pancreatitis, Chronic](http://beta.monarchinitiative.org/disease/MESH:D050500)
+    * Syn: "Hp"
+    * Syn: "Hpc"
+    * Syn: "Pancreatitis, Calcific"
+    * Syn: "Pancreatitis, Chronic"
+    * Syn: "Pancreatitis, Chronic, Protection Against"
+    * Syn: "Pancreatitis, Chronic, Susceptibility to"
+    * Syn: "PANCREATITIS, HEREDITARY; PCTT"
+    * Syn: "PCTT"
 
 ### PANCREATITIS, CHRONIC, SUSCEPTIBILITY TO
-
-Score: 1.0625
-
- * [DOID:4989 pancreatitis](http://beta.monarchinitiative.org/disease/DOID:4989)
-    * [MESH:D010195 -](http://beta.monarchinitiative.org/disease/MESH:D010195)
+ * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: high
+    * Equiv:[MESH:C537262 Hereditary pancreatitis](http://beta.monarchinitiative.org/disease/MESH:C537262)
+    * Equiv:[MESH:C566837 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/MESH:C566837)
+    * Equiv:[MESH:D050500 Pancreatitis, Chronic](http://beta.monarchinitiative.org/disease/MESH:D050500)
+    * Syn: "Hp"
+    * Syn: "Hpc"
+    * Syn: "Pancreatitis, Calcific"
+    * Syn: "Pancreatitis, Chronic"
+    * Syn: "Pancreatitis, Chronic, Protection Against"
+    * Syn: "Pancreatitis, Chronic, Susceptibility to"
+    * Syn: "PANCREATITIS, HEREDITARY; PCTT"
+    * Syn: "PCTT"
 
 ### TROPICAL CALCIFIC PANCREATITIS
-
-Score: 2
-
- * [OMIM:608189 Tropical Calcific Pancreatitis](http://beta.monarchinitiative.org/disease/OMIM:608189)
-    * [MESH:C564276 -](http://beta.monarchinitiative.org/disease/MESH:C564276)
+ * [OMIM:608189 Tropical Calcific Pancreatitis](http://beta.monarchinitiative.org/disease/OMIM:608189) Confidence: high
+    * Equiv:[MESH:C564276 Tropical Calcific Pancreatitis](http://beta.monarchinitiative.org/disease/MESH:C564276)
+    * Syn: "Tcp"
+    * Syn: "TROPICAL CALCIFIC PANCREATITIS"
 
 ### chronic pancreatitis risk
-
-Score: 1.4444444444444444
-
- * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800)
-    * [MESH:C537262 -](http://beta.monarchinitiative.org/disease/MESH:C537262)
-    * [MESH:C566837 -](http://beta.monarchinitiative.org/disease/MESH:C566837)
-    * [MESH:D050500 -](http://beta.monarchinitiative.org/disease/MESH:D050500)
+ * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:C537262 Hereditary pancreatitis](http://beta.monarchinitiative.org/disease/MESH:C537262)
+    * Equiv:[MESH:C566837 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/MESH:C566837)
+    * Equiv:[MESH:D050500 Pancreatitis, Chronic](http://beta.monarchinitiative.org/disease/MESH:D050500)
+    * Syn: "Hp"
+    * Syn: "Hpc"
+    * Syn: "Pancreatitis, Calcific"
+    * Syn: "Pancreatitis, Chronic"
+    * Syn: "Pancreatitis, Chronic, Protection Against"
+    * Syn: "Pancreatitis, Chronic, Susceptibility to"
+    * Syn: "PANCREATITIS, HEREDITARY; PCTT"
+    * Syn: "PCTT"
 
 ### heritable chronic pancreatitis
-
-Score: 1.4444444444444444
-
- * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800)
-    * [MESH:C537262 -](http://beta.monarchinitiative.org/disease/MESH:C537262)
-    * [MESH:C566837 -](http://beta.monarchinitiative.org/disease/MESH:C566837)
-    * [MESH:D050500 -](http://beta.monarchinitiative.org/disease/MESH:D050500)
+ * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:C537262 Hereditary pancreatitis](http://beta.monarchinitiative.org/disease/MESH:C537262)
+    * Equiv:[MESH:C566837 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/MESH:C566837)
+    * Equiv:[MESH:D050500 Pancreatitis, Chronic](http://beta.monarchinitiative.org/disease/MESH:D050500)
+    * Syn: "Hp"
+    * Syn: "Hpc"
+    * Syn: "Pancreatitis, Calcific"
+    * Syn: "Pancreatitis, Chronic"
+    * Syn: "Pancreatitis, Chronic, Protection Against"
+    * Syn: "Pancreatitis, Chronic, Susceptibility to"
+    * Syn: "PANCREATITIS, HEREDITARY; PCTT"
+    * Syn: "PCTT"

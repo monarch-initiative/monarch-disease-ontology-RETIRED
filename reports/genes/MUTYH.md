@@ -1,6 +1,10 @@
 
 ## GENE: MUTYH
 
+![image](MUTYH.png)
+[matched diseases visual](MUTYH.png)  <-- click on raw to zoom
+
+
 ### Carcinoma of colon
  * [DOID:1520 colon carcinoma](http://beta.monarchinitiative.org/disease/DOID:1520) Confidence: high
     * Syn: "carcinoma OF colon"

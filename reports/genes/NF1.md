@@ -1,6 +1,10 @@
 
 ## GENE: NF1
 
+![image](NF1.png)
+[matched diseases visual](NF1.png)  <-- click on raw to zoom
+
+
 ### LEUKEMIA, JUVENILE MYELOMONOCYTIC
  * [OMIM:607785 juvenile myelomonocytic leukemia](http://beta.monarchinitiative.org/disease/OMIM:607785) Confidence: high
     * Equiv:[DOID:0050458 juvenile myelomonocytic leukemia](http://beta.monarchinitiative.org/disease/DOID:0050458)

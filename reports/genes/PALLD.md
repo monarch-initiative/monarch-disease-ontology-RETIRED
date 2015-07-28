@@ -1,6 +1,10 @@
 
 ## GENE: PALLD
 
+![image](PALLD.png)
+[matched diseases visual](PALLD.png)  <-- click on raw to zoom
+
+
 ### Neoplastic Syndromes, Hereditary
  * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 

@@ -1,6 +1,10 @@
 
 ## GENE: ACTN2
 
+![image](ACTN2.png)
+[matched diseases visual](ACTN2.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1AA
  * [OMIM:612158 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/OMIM:612158) Confidence: high
     * Equiv:[MESH:C567407 Cardiomyopathy, Dilated, 1AA](http://beta.monarchinitiative.org/disease/MESH:C567407)

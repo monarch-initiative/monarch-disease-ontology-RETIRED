@@ -1,6 +1,10 @@
 
 ## GENE: PTPN11
 
+![image](PTPN11.png)
+[matched diseases visual](PTPN11.png)  <-- click on raw to zoom
+
+
 ### Juvenile myelomonocytic leukemia
  * [OMIM:607785 juvenile myelomonocytic leukemia](http://beta.monarchinitiative.org/disease/OMIM:607785) Confidence: high
     * Equiv:[DOID:0050458 juvenile myelomonocytic leukemia](http://beta.monarchinitiative.org/disease/DOID:0050458)
@@ -81,3 +85,68 @@
     * Syn: "Turner's phenotype, karyotype normal (disorder)"
 
 ### Noonan Syndrome with Juvenile Myelomonocytic Leukemia
+ * [Orphanet:363972 Noonan syndrome-like disorder with juvenile myelomonocytic leukemia](http://beta.monarchinitiative.org/disease/Orphanet:363972) Confidence: low/0.1640625
+
+### Noonan Syndrome/Leopard Syndrome
+ * [OMIM:163950 Noonan Syndrome](http://beta.monarchinitiative.org/disease/OMIM:163950) Confidence: low/0.15625
+    * Equiv:[MESH:D009634 Noonan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D009634)
+    * Syn: "Female Pseudo-Turner Syndrome"
+    * Syn: "Male Turner Syndrome"
+    * Syn: "Noonan Syndrome"
+    * Syn: "NOONAN SYNDROME 1; NS1"
+    * Syn: "NS1"
+    * Syn: "Pterygium Colli Syndrome"
+    * Syn: "Turner Phenotype With Normal Karyotype"
+
+### Noonan syndrome
+ * [DOID:3490 Noonan syndrome](http://beta.monarchinitiative.org/disease/DOID:3490) Confidence: high
+    * Syn: "Turner's phenotype, karyotype normal (disorder)"
+
+### Noonan syndrome 1
+ * [OMIM:163950 Noonan Syndrome](http://beta.monarchinitiative.org/disease/OMIM:163950) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:D009634 Noonan Syndrome](http://beta.monarchinitiative.org/disease/MESH:D009634)
+    * Syn: "Female Pseudo-Turner Syndrome"
+    * Syn: "Male Turner Syndrome"
+    * Syn: "Noonan Syndrome"
+    * Syn: "NOONAN SYNDROME 1; NS1"
+    * Syn: "NS1"
+    * Syn: "Pterygium Colli Syndrome"
+    * Syn: "Turner Phenotype With Normal Karyotype"
+
+### Noonan''s syndrome
+ * [OMIM:309900 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/OMIM:309900) Confidence: low/0.1640625
+    * Equiv:[Orphanet:580 Mucopolysaccharidosis type 2](http://beta.monarchinitiative.org/disease/Orphanet:580)
+    * Equiv:[DOID:12799 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/DOID:12799)
+    * Syn: "deficiency of iduronate-2-sulphatase"
+    * Syn: "Hunter Syndrome"
+    * Syn: "Hunter syndrome"
+    * Syn: "Hunter's syndrome"
+    * Syn: "Ids Deficiency"
+    * Syn: "Iduronate 2-Sulfatase Deficiency"
+    * Syn: "Mps 2"
+    * Syn: "MPS II - Hunter syndrome"
+    * Syn: "MPS2"
+    * Syn: "Mucopolysaccharidosis, MPS-II (disorder)"
+    * Syn: "MUCOPOLYSACCHARIDOSIS, TYPE II; MPS2"
+    * Syn: "Sids Deficiency"
+    * Syn: "Sulfoiduronate Sulfatase Deficiency"
+
+### Noonan's syndrome
+ * [OMIM:309900 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/OMIM:309900) Confidence: low/0.1640625
+    * Equiv:[Orphanet:580 Mucopolysaccharidosis type 2](http://beta.monarchinitiative.org/disease/Orphanet:580)
+    * Equiv:[DOID:12799 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/DOID:12799)
+    * Syn: "deficiency of iduronate-2-sulphatase"
+    * Syn: "Hunter Syndrome"
+    * Syn: "Hunter syndrome"
+    * Syn: "Hunter's syndrome"
+    * Syn: "Ids Deficiency"
+    * Syn: "Iduronate 2-Sulfatase Deficiency"
+    * Syn: "Mps 2"
+    * Syn: "MPS II - Hunter syndrome"
+    * Syn: "MPS2"
+    * Syn: "Mucopolysaccharidosis, MPS-II (disorder)"
+    * Syn: "MUCOPOLYSACCHARIDOSIS, TYPE II; MPS2"
+    * Syn: "Sids Deficiency"
+    * Syn: "Sulfoiduronate Sulfatase Deficiency"
+
+### Rasopathy

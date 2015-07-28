@@ -1,6 +1,10 @@
 
 ## GENE: NEXN
 
+![image](NEXN.png)
+[matched diseases visual](NEXN.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, DILATED, 1CC
  * [OMIM:613122 Cardiomyopathy, Dilated, 1CC](http://beta.monarchinitiative.org/disease/OMIM:613122) Confidence: high
     * Equiv:[MESH:C567733 Cardiomyopathy, Dilated, 1CC](http://beta.monarchinitiative.org/disease/MESH:C567733)

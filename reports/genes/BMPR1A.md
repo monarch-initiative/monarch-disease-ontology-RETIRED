@@ -1,6 +1,10 @@
 
 ## GENE: BMPR1A
 
+![image](BMPR1A.png)
+[matched diseases visual](BMPR1A.png)  <-- click on raw to zoom
+
+
 ### Gastrointestinal polyposis
  * [DC:0000587 Polyposis](http://beta.monarchinitiative.org/disease/DC:0000587) Confidence: low/0.15625
 

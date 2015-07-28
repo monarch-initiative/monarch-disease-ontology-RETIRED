@@ -1,6 +1,10 @@
 
 ## GENE: PTEN
 
+![image](PTEN.png)
+[matched diseases visual](PTEN.png)  <-- click on raw to zoom
+
+
 ### BANNAYAN-RILEY-RUVALCABA SYNDROME
  * [OMIM:153480 Bannayan-Riley-Ruvalcaba syndrome](http://beta.monarchinitiative.org/disease/OMIM:153480) Confidence: high
     * Equiv:[DOID:0050657 Bannayan-Riley-Ruvalcaba syndrome](http://beta.monarchinitiative.org/disease/DOID:0050657)

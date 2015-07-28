@@ -1,6 +1,10 @@
 
 ## GENE: PAH
 
+![image](PAH.png)
+[matched diseases visual](PAH.png)  <-- click on raw to zoom
+
+
 ### HYPERPHENYLALANINEMIA, NON-PKU
  * [OMIM:261600 Phenylketonuria, Maternal](http://beta.monarchinitiative.org/disease/OMIM:261600) Confidence: low/0.1640625
     * Equiv:[MESH:C567494 Hyperphenylalaninemia, Non-Pku Mild](http://beta.monarchinitiative.org/disease/MESH:C567494)

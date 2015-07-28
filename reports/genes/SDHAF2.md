@@ -1,27 +1,16 @@
 
 ## GENE: SDHAF2
 
+![image](SDHAF2.png)
+[matched diseases visual](SDHAF2.png)  <-- click on raw to zoom
+
+
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### PARAGANGLIOMAS 2
-
-Score: 1.1111111111111112
-
- * [OMIM:601650 Paragangliomas 2](http://beta.monarchinitiative.org/disease/OMIM:601650)
-    * [MESH:C566646 -](http://beta.monarchinitiative.org/disease/MESH:C566646)
-
-### VARIANT OF UNKNOWN SIGNIFICANCE
-
-Score: 0.5625
-
- * [DOID:6364 migraine](http://beta.monarchinitiative.org/disease/DOID:6364)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:601650 Paragangliomas 2](http://beta.monarchinitiative.org/disease/OMIM:601650) Confidence: high
+    * Equiv:[MESH:C566646 Paragangliomas 2](http://beta.monarchinitiative.org/disease/MESH:C566646)
+    * Syn: "Glomus Tumors, Familial, 2"
+    * Syn: "PARAGANGLIOMAS 2; PGL2"
+    * Syn: "PGL2"

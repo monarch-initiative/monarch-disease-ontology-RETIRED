@@ -1,6 +1,10 @@
 
 ## GENE: CFTR
 
+![image](CFTR.png)
+[matched diseases visual](CFTR.png)  <-- click on raw to zoom
+
+
 ### BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1, MODIFIER OF
  * [OMIM:211400 Bronchiectasis With or Without Elevated Sweat Chloride 1](http://beta.monarchinitiative.org/disease/OMIM:211400) Confidence: low/0.19111111111111112
     * Syn: "BESC1"

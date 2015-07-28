@@ -1,6 +1,10 @@
 
 ## GENE: CAV3
 
+![image](CAV3.png)
+[matched diseases visual](CAV3.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)

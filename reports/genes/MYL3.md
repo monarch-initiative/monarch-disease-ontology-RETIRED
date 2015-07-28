@@ -1,6 +1,10 @@
 
 ## GENE: MYL3
 
+![image](MYL3.png)
+[matched diseases visual](MYL3.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 8
  * [OMIM:608751 Cardiomyopathy, Familial Hypertrophic, 8](http://beta.monarchinitiative.org/disease/OMIM:608751) Confidence: high
     * Equiv:[MESH:C563866 Cardiomyopathy, Familial Hypertrophic, 8](http://beta.monarchinitiative.org/disease/MESH:C563866)

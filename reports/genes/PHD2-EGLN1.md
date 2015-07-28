@@ -1,6 +1,10 @@
 
 ## GENE: PHD2/EGLN1
 
+![image](PHD2-EGLN1.png)
+[matched diseases visual](PHD2-EGLN1.png)  <-- click on raw to zoom
+
+
 ### ERYTHROCYTOSIS, FAMILIAL, 3
  * [OMIM:609820 Erythrocytosis, Familial, 3](http://beta.monarchinitiative.org/disease/OMIM:609820) Confidence: high
     * Equiv:[MESH:C565221 Erythrocytosis, Familial, 3](http://beta.monarchinitiative.org/disease/MESH:C565221)

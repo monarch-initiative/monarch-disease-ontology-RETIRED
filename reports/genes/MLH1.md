@@ -1,6 +1,10 @@
 
 ## GENE: MLH1
 
+![image](MLH1.png)
+[matched diseases visual](MLH1.png)  <-- click on raw to zoom
+
+
 ### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 2
  * [OMIM:609310 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/OMIM:609310) Confidence: low/0.1989795918367347
     * Equiv:[MESH:D055847 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/MESH:D055847)

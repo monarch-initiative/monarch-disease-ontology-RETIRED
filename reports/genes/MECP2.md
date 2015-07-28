@@ -1,6 +1,10 @@
 
 ## GENE: MECP2
 
+![image](MECP2.png)
+[matched diseases visual](MECP2.png)  <-- click on raw to zoom
+
+
 ### AUTISM, SUSCEPTIBILITY TO, X-LINKED 3
  * [OMIM:300496 Autism, Susceptibility To, X-Linked 3](http://beta.monarchinitiative.org/disease/OMIM:300496) Confidence: high
     * Syn: "AUTISM, SUSCEPTIBILITY TO, X-LINKED 3; AUTSX3"

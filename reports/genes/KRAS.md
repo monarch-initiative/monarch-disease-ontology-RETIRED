@@ -1,6 +1,10 @@
 
 ## GENE: KRAS
 
+![image](KRAS.png)
+[matched diseases visual](KRAS.png)  <-- click on raw to zoom
+
+
 ### BLADDER CANCER, SOMATIC
  * [OMIM:109800 Bladder Cancer](http://beta.monarchinitiative.org/disease/OMIM:109800) Confidence: low/0.18055555555555555
     * Syn: "BLADDER CANCER"

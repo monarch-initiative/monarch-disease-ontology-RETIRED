@@ -1,6 +1,10 @@
 
 ## GENE: JPH2
 
+![image](JPH2.png)
+[matched diseases visual](JPH2.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC 17
  * [OMIM:613873 Cardiomyopathy, Familial Hypertrophic, 17](http://beta.monarchinitiative.org/disease/OMIM:613873) Confidence: high
     * Syn: "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 17; CMH17"

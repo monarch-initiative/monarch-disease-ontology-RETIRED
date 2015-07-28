@@ -1,62 +1,57 @@
 
 ## GENE: TSC1
 
-### ASD
+![image](TSC1.png)
+[matched diseases visual](TSC1.png)  <-- click on raw to zoom
 
-### AllHighlyPenetrant
+
+### ASD
+ * [OMIM:108800 Atrial Septal Defect, Primum Type](http://beta.monarchinitiative.org/disease/OMIM:108800) Confidence: low/0.09375
+    * Equiv:[MESH:C566239 Atrial Septal Defect 1](http://beta.monarchinitiative.org/disease/MESH:C566239)
+    * Equiv:[MESH:C566240 Atrial Septal Defect, Primum Type](http://beta.monarchinitiative.org/disease/MESH:C566240)
+    * Equiv:[MESH:C566241 Atrial Septal Defect, Secundum Type](http://beta.monarchinitiative.org/disease/MESH:C566241)
+    * Syn: "Asd 1"
+    * Syn: "Asd 2"
+    * Syn: "ASD1"
+    * Syn: "ATRIAL SEPTAL DEFECT 1; ASD1"
+    * Syn: "Atrial Septal Defect, Primum Type"
+    * Syn: "Atrial Septal Defect, Secundum Type"
 
 ### Bladder cancer
-
-Score: 2
-
- * [DOID:11054 urinary bladder cancer](http://beta.monarchinitiative.org/disease/DOID:11054)
-    * [MESH:D001749 -](http://beta.monarchinitiative.org/disease/MESH:D001749)
+ * [OMIM:109800 Bladder Cancer](http://beta.monarchinitiative.org/disease/OMIM:109800) Confidence: high
+    * Syn: "BLADDER CANCER"
 
 ### FOCAL CORTICAL DYSPLASIA OF TAYLOR, TYPE IIB
-
-Score: 0.9931972789115646
-
- * [Orphanet:269008 Isolated focal cortical dysplasia type IIb](http://beta.monarchinitiative.org/disease/Orphanet:269008)
- * [Orphanet:269001 Isolated focal cortical dysplasia type IIa](http://beta.monarchinitiative.org/disease/Orphanet:269001)
- * [Orphanet:268994 Isolated focal cortical dysplasia type II](http://beta.monarchinitiative.org/disease/Orphanet:268994)
- * [Orphanet:268987 Isolated focal cortical dysplasia type Ic](http://beta.monarchinitiative.org/disease/Orphanet:268987)
- * [Orphanet:268980 Isolated focal cortical dysplasia type Ib](http://beta.monarchinitiative.org/disease/Orphanet:268980)
- * [Orphanet:268973 Isolated focal cortical dysplasia type Ia](http://beta.monarchinitiative.org/disease/Orphanet:268973)
- * [Orphanet:268961 Isolated focal cortical dysplasia type I](http://beta.monarchinitiative.org/disease/Orphanet:268961)
+ * [Orphanet:269008 Isolated focal cortical dysplasia type IIb](http://beta.monarchinitiative.org/disease/Orphanet:269008) Confidence: low/0.12414965986394558
 
 ### LAM
+ * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: high
+    * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
+    * Equiv:[MESH:D018192 Lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/MESH:D018192)
+    * Syn: "LAM"
+    * Syn: "lung lymphangioleiomyomatosis"
+    * Syn: "LYMPHANGIOLEIOMYOMATOSIS; LAM"
+    * Syn: "Lymphangiomyomatosis"
+    * Syn: "lymphangiomyomatosis"
+    * Syn: "Lymphangiomyomatosis (morphologic abnormality)"
+    * Syn: "pulmonary lymphangioleiomyomatosis (disorder)"
 
 ### LYMPHANGIOLEIOMYOMATOSIS
-
-Score: 2
-
- * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690)
-    * [DOID:3319 -](http://beta.monarchinitiative.org/disease/DOID:3319)
-    * [MESH:D018192 -](http://beta.monarchinitiative.org/disease/MESH:D018192)
+ * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: high
+    * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
+    * Equiv:[MESH:D018192 Lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/MESH:D018192)
+    * Syn: "LAM"
+    * Syn: "lung lymphangioleiomyomatosis"
+    * Syn: "LYMPHANGIOLEIOMYOMATOSIS; LAM"
+    * Syn: "Lymphangiomyomatosis"
+    * Syn: "lymphangiomyomatosis"
+    * Syn: "Lymphangiomyomatosis (morphologic abnormality)"
+    * Syn: "pulmonary lymphangioleiomyomatosis (disorder)"
 
 ### Neoplastic Syndromes, Hereditary
-
-Score: 2
-
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386)
-
-### Not Specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### TSC
 
 ### TUBEROUS SCLEROSIS 1
-
-Score: 1.4444444444444444
-
- * [DOID:13515 tuberous sclerosis](http://beta.monarchinitiative.org/disease/DOID:13515)
-    * [MESH:D014402 -](http://beta.monarchinitiative.org/disease/MESH:D014402)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [MESH:C565346 Tuberous Sclerosis 1](http://beta.monarchinitiative.org/disease/MESH:C565346) Confidence: high

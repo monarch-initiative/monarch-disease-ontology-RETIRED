@@ -1,6 +1,10 @@
 
 ## GENE: CDKN2A
 
+![image](CDKN2A.png)
+[matched diseases visual](CDKN2A.png)  <-- click on raw to zoom
+
+
 ### Hereditary cutaneous melanoma
  * [DOID:8923 skin melanoma](http://beta.monarchinitiative.org/disease/DOID:8923) Confidence: low/0.18055555555555555
     * Syn: "cutaneous melanoma"

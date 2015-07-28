@@ -1,6 +1,10 @@
 
 ## GENE: PRKAG2
 
+![image](PRKAG2.png)
+[matched diseases visual](PRKAG2.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 6
  * [OMIM:600858 Cardiomyopathy, Familial Hypertrophic, 6](http://beta.monarchinitiative.org/disease/OMIM:600858) Confidence: high
     * Equiv:[MESH:C563436 Cardiomyopathy, Familial Hypertrophic, 6](http://beta.monarchinitiative.org/disease/MESH:C563436)

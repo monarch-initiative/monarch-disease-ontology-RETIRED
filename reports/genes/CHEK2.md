@@ -1,6 +1,10 @@
 
 ## GENE: CHEK2
 
+![image](CHEK2.png)
+[matched diseases visual](CHEK2.png)  <-- click on raw to zoom
+
+
 ### BREAST AND COLORECTAL CANCER, SUSCEPTIBILITY TO
  * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.1388888888888889
     * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)

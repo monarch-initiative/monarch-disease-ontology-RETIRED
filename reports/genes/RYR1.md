@@ -1,276 +1,141 @@
 
 ## GENE: RYR1
 
-### AllHighlyPenetrant
+![image](RYR1.png)
+[matched diseases visual](RYR1.png)  <-- click on raw to zoom
+
 
 ### Axial myopathy, late-onset
-
-Score: 1.0625
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
-
-Score: 1.1111111111111112
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
-
-Score: 1.1111111111111112
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
-
-Score: 1.1111111111111112
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
+ * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423) Confidence: low/0.1328125
+    * Equiv:[MESH:D009135 Muscular Diseases](http://beta.monarchinitiative.org/disease/MESH:D009135)
 
 ### CENTRAL CORE DISEASE
-
-Score: 2
-
- * [DOID:3529 central core myopathy](http://beta.monarchinitiative.org/disease/DOID:3529)
+ * [DOID:3529 central core myopathy](http://beta.monarchinitiative.org/disease/DOID:3529) Confidence: high
+    * Syn: "central core disease"
+    * Syn: "central core disease (disorder)"
 
 ### CENTRAL CORE DISEASE, AUTOSOMAL RECESSIVE
-
-Score: 1.3599999999999999
-
- * [DOID:3529 central core myopathy](http://beta.monarchinitiative.org/disease/DOID:3529)
- * [DOID:0050737 autosomal recessive disease](http://beta.monarchinitiative.org/disease/DOID:0050737)
+ * [OMIM:254700 Myeloproliferative Disease, Autosomal Recessive](http://beta.monarchinitiative.org/disease/OMIM:254700) Confidence: low/0.13874999999999998
+    * Equiv:[MESH:C564977 Myeloproliferative Disease, Autosomal Recessive](http://beta.monarchinitiative.org/disease/MESH:C564977)
+    * Syn: "MYELOPROLIFERATIVE DISEASE, AUTOSOMAL RECESSIVE"
 
 ### Central core disease
-
-Score: 2
-
- * [DOID:3529 central core myopathy](http://beta.monarchinitiative.org/disease/DOID:3529)
+ * [DOID:3529 central core myopathy](http://beta.monarchinitiative.org/disease/DOID:3529) Confidence: high
+    * Syn: "central core disease"
+    * Syn: "central core disease (disorder)"
 
 ### History of neonatal hypotonia
-
-Score: 0.5625
-
- * [DOID:9577 neonatal candidiasis](http://beta.monarchinitiative.org/disease/DOID:9577)
- * [DOID:7756 neonatal leukemia](http://beta.monarchinitiative.org/disease/DOID:7756)
- * [DOID:2383 neonatal jaundice](http://beta.monarchinitiative.org/disease/DOID:2383)
-    * [MESH:D007567 -](http://beta.monarchinitiative.org/disease/MESH:D007567)
-    * [MESH:D051556 -](http://beta.monarchinitiative.org/disease/MESH:D051556)
- * [DOID:13521 tetanus neonatorum](http://beta.monarchinitiative.org/disease/DOID:13521)
- * [DOID:12573 neonatal thyrotoxicosis](http://beta.monarchinitiative.org/disease/DOID:12573)
- * [DOID:11244 neonatal anemia](http://beta.monarchinitiative.org/disease/DOID:11244)
-    * [MESH:D000751 -](http://beta.monarchinitiative.org/disease/MESH:D000751)
+ * [Orphanet:44 Neonatal adrenoleukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:44) Confidence: low/0.0703125
+    * Equiv:[MESH:D018901 Peroxisomal Disorders](http://beta.monarchinitiative.org/disease/MESH:D018901)
 
 ### KING-DENBOROUGH SYNDROME
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.1111111111111112
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
-
-Score: 1.25
-
- * [DOID:225 syndrome](http://beta.monarchinitiative.org/disease/DOID:225)
+ * [OMIM:145600 King-Denborough syndrome](http://beta.monarchinitiative.org/disease/OMIM:145600) Confidence: high
+    * Equiv:[Orphanet:99741 King-Denborough syndrome](http://beta.monarchinitiative.org/disease/Orphanet:99741)
+    * Equiv:[MESH:C535694 Malignant hyperthermia susceptibility type 1](http://beta.monarchinitiative.org/disease/MESH:C535694)
+    * Equiv:[MESH:C536883 King Denborough syndrome](http://beta.monarchinitiative.org/disease/MESH:C536883)
+    * Syn: "Hyperpyrexia, Malignant"
+    * Syn: "Hyperthermia of Anesthesia"
+    * Syn: "King Syndrome"
+    * Syn: "King-Denborough Syndrome"
+    * Syn: "MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 1; MHS1"
+    * Syn: "Mhs"
+    * Syn: "MHS1"
 
 ### MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 1
-
-Score: 1.1600000000000001
-
- * [DOID:8545 malignant hyperthermia](http://beta.monarchinitiative.org/disease/DOID:8545)
-    * [MESH:D008305 -](http://beta.monarchinitiative.org/disease/MESH:D008305)
+ * [OMIM:145600 King-Denborough syndrome](http://beta.monarchinitiative.org/disease/OMIM:145600) Confidence: low/0.1388888888888889
+    * Equiv:[Orphanet:99741 King-Denborough syndrome](http://beta.monarchinitiative.org/disease/Orphanet:99741)
+    * Equiv:[MESH:C535694 Malignant hyperthermia susceptibility type 1](http://beta.monarchinitiative.org/disease/MESH:C535694)
+    * Equiv:[MESH:C536883 King Denborough syndrome](http://beta.monarchinitiative.org/disease/MESH:C536883)
+    * Syn: "Hyperpyrexia, Malignant"
+    * Syn: "Hyperthermia of Anesthesia"
+    * Syn: "King Syndrome"
+    * Syn: "King-Denborough Syndrome"
+    * Syn: "MALIGNANT HYPERTHERMIA, SUSCEPTIBILITY TO, 1; MHS1"
+    * Syn: "Mhs"
+    * Syn: "MHS1"
 
 ### MINICORE MYOPATHY WITH EXTERNAL OPHTHALMOPLEGIA
-
-Score: 2
-
- * [OMIM:255320 Minicore Myopathy with External Ophthalmoplegia](http://beta.monarchinitiative.org/disease/OMIM:255320)
-    * [MESH:C537474 -](http://beta.monarchinitiative.org/disease/MESH:C537474)
-    * [MESH:C564969 -](http://beta.monarchinitiative.org/disease/MESH:C564969)
+ * [OMIM:255320 Minicore Myopathy with External Ophthalmoplegia](http://beta.monarchinitiative.org/disease/OMIM:255320) Confidence: high
+    * Equiv:[MESH:C537474 Minicore myopathy, antenatal onset, with arthrogryposis](http://beta.monarchinitiative.org/disease/MESH:C537474)
+    * Equiv:[MESH:C564969 Minicore Myopathy with External Ophthalmoplegia](http://beta.monarchinitiative.org/disease/MESH:C564969)
+    * Syn: "Minicore Myopathy"
+    * Syn: "MINICORE MYOPATHY WITH EXTERNAL OPHTHALMOPLEGIA"
+    * Syn: "Minicore Myopathy, Antenatal Onset, with Arthrogryposis"
+    * Syn: "Multicore Myopathy"
+    * Syn: "Multiminicore Disease With External Ophthalmoplegia"
+    * Syn: "Multiminicore Myopathy Multicore Myopathy With External Ophthalmoplegia"
 
 ### Malignant hyperthermia
-
-Score: 2
-
- * [DOID:8545 malignant hyperthermia](http://beta.monarchinitiative.org/disease/DOID:8545)
-    * [MESH:D008305 -](http://beta.monarchinitiative.org/disease/MESH:D008305)
+ * [DOID:8545 malignant hyperthermia](http://beta.monarchinitiative.org/disease/DOID:8545) Confidence: high
+    * Equiv:[MESH:D008305 Malignant Hyperthermia](http://beta.monarchinitiative.org/disease/MESH:D008305)
+    * Syn: "anesthesia related hyperthermia"
+    * Syn: "malignant hyperpyrexia due to anesthesia"
 
 ### Malignant hyperthermia & exertional rhabdomyolosis
-
-Score: 1.1600000000000001
-
- * [DOID:8545 malignant hyperthermia](http://beta.monarchinitiative.org/disease/DOID:8545)
-    * [MESH:D008305 -](http://beta.monarchinitiative.org/disease/MESH:D008305)
+ * [DOID:8545 malignant hyperthermia](http://beta.monarchinitiative.org/disease/DOID:8545) Confidence: low/0.14500000000000002
+    * Equiv:[MESH:D008305 Malignant Hyperthermia](http://beta.monarchinitiative.org/disease/MESH:D008305)
+    * Syn: "anesthesia related hyperthermia"
+    * Syn: "malignant hyperpyrexia due to anesthesia"
 
 ### Malignant hyperthermia equivocal with halotane
-
-Score: 1.1600000000000001
-
- * [DOID:8545 malignant hyperthermia](http://beta.monarchinitiative.org/disease/DOID:8545)
-    * [MESH:D008305 -](http://beta.monarchinitiative.org/disease/MESH:D008305)
+ * [DOID:8545 malignant hyperthermia](http://beta.monarchinitiative.org/disease/DOID:8545) Confidence: low/0.14500000000000002
+    * Equiv:[MESH:D008305 Malignant Hyperthermia](http://beta.monarchinitiative.org/disease/MESH:D008305)
+    * Syn: "anesthesia related hyperthermia"
+    * Syn: "malignant hyperpyrexia due to anesthesia"
 
 ### Multi-minicore disease
-
-Score: 1.1111111111111112
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.25
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.25
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [MESH:D004194 Disease](http://beta.monarchinitiative.org/disease/MESH:D004194)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.25
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
+ * [disease -](http://beta.monarchinitiative.org/disease/disease) Confidence: low/0.1388888888888889
 
 ### Multi-minicore disease & atypical periodic paralysis
-
-Score: 1.0204081632653061
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.0277777777777777
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.0277777777777777
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [MESH:D010243 Paralysis](http://beta.monarchinitiative.org/disease/MESH:D010243)
- * [MESH:D004194 Disease](http://beta.monarchinitiative.org/disease/MESH:D004194)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
-
-Score: 1.0277777777777777
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
+ * [disease -](http://beta.monarchinitiative.org/disease/disease) Confidence: low/0.12755102040816327
 
 ### Multiminicore/minicore/multicore disease
-
-Score: 1.04
-
- * [disease -](http://beta.monarchinitiative.org/disease/disease)
- * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4)
-    * [MESH:C -](http://beta.monarchinitiative.org/disease/MESH:C)
-    * [MESH:D035583 -](http://beta.monarchinitiative.org/disease/MESH:D035583)
+ * [disease -](http://beta.monarchinitiative.org/disease/disease) Confidence: low/0.13
 
 ### Muscular dystrophy and arthrogryposis
-
-Score: 1.25
-
- * [DOID:9884 muscular dystrophy](http://beta.monarchinitiative.org/disease/DOID:9884)
-    * [MESH:D009136 -](http://beta.monarchinitiative.org/disease/MESH:D009136)
+ * [DOID:9884 muscular dystrophy](http://beta.monarchinitiative.org/disease/DOID:9884) Confidence: low/0.15625
+    * Equiv:[MESH:D009136 Muscular Dystrophies](http://beta.monarchinitiative.org/disease/MESH:D009136)
 
 ### Myopathy, RYR1-associated
-
-Score: 1.1111111111111112
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
-
-Score: 1.25
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
-
-Score: 1.25
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
-
-Score: 1.25
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
+ * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:D009135 Muscular Diseases](http://beta.monarchinitiative.org/disease/MESH:D009135)
 
 ### Myopathy, congenital
-
-Score: 2
-
- * [OMIM:255300 Myopathy, Congenital](http://beta.monarchinitiative.org/disease/OMIM:255300)
- * [DC:0000302 Myopathy, Congenital](http://beta.monarchinitiative.org/disease/DC:0000302)
+ * [DC:0000302 Myopathy, Congenital](http://beta.monarchinitiative.org/disease/DC:0000302) Confidence: high
 
 ### Myopathy, congenital with cores
-
-Score: 2
-
- * [Orphanet:172976 Congenital myopathy with cores](http://beta.monarchinitiative.org/disease/Orphanet:172976)
+ * [Orphanet:172976 Congenital myopathy with cores](http://beta.monarchinitiative.org/disease/Orphanet:172976) Confidence: high
 
 ### Myopathy, progressive axial with cataracts
-
-Score: 1.04
-
- * [DOID:423 myopathy](http://beta.monarchinitiative.org/disease/DOID:423)
-    * [MESH:D009135 -](http://beta.monarchinitiative.org/disease/MESH:D009135)
+ * [DOID:83 cataract](http://beta.monarchinitiative.org/disease/DOID:83) Confidence: low/0.13
+    * Equiv:[MESH:D002386 Cataract](http://beta.monarchinitiative.org/disease/MESH:D002386)
 
 ### NEUROMUSCULAR DISEASE, CONGENITAL, WITH UNIFORM TYPE 1 FIBER
-
-Score: 1.0625
-
- * [DOID:440 neuromuscular disease](http://beta.monarchinitiative.org/disease/DOID:440)
+ * [OMIM:117000 Moderate multiminicore disease with hand involvement](http://beta.monarchinitiative.org/disease/OMIM:117000) Confidence: high
+    * Equiv:[Orphanet:178145 Moderate multiminicore disease with hand involvement](http://beta.monarchinitiative.org/disease/Orphanet:178145)
+    * Equiv:[MESH:C566147 Minicore Myopathy, Moderate, with Hand Involvement](http://beta.monarchinitiative.org/disease/MESH:C566147)
+    * Equiv:[MESH:C567162 Neuromuscular Disease, Congenital, With Uniform Type 1 Fiber](http://beta.monarchinitiative.org/disease/MESH:C567162)
+    * Equiv:[MESH:D020512 Myopathy, Central Core](http://beta.monarchinitiative.org/disease/MESH:D020512)
+    * Syn: "CCD"
+    * Syn: "Cco"
+    * Syn: "CENTRAL CORE DISEASE OF MUSCLE; CCD"
+    * Syn: "Minicore Myopathy, Moderate, With Hand Involvement"
+    * Syn: "Multicore Myopathy, Moderate, With Hand Involvement"
+    * Syn: "Multiminicore Disease, Moderate, With Hand Involvement"
+    * Syn: "Neuromuscular Disease, Congenital, With Uniform Type 1 Fiber"
 
 ### Ptosis
-
-Score: 2
-
- * [DOID:0060260 ptosis](http://beta.monarchinitiative.org/disease/DOID:0060260)
-    * [MESH:D001763 -](http://beta.monarchinitiative.org/disease/MESH:D001763)
+ * [DOID:0060260 ptosis](http://beta.monarchinitiative.org/disease/DOID:0060260) Confidence: high
+    * Equiv:[MESH:D001763 Blepharoptosis](http://beta.monarchinitiative.org/disease/MESH:D001763)
+    * Syn: "blepharoptosis"
+    * Syn: "drooping eyelid"
 
 ### Sacral agenesis
-
-Score: 0.75
-
- * [Orphanet:984 Pulmonary agenesis](http://beta.monarchinitiative.org/disease/Orphanet:984)
- * [Orphanet:49 Penile agenesis](http://beta.monarchinitiative.org/disease/Orphanet:49)
- * [Orphanet:3346 Tracheal agenesis](http://beta.monarchinitiative.org/disease/Orphanet:3346)
-    * [MESH:C536975 -](http://beta.monarchinitiative.org/disease/MESH:C536975)
- * [Orphanet:325124 Testicular agenesis](http://beta.monarchinitiative.org/disease/Orphanet:325124)
- * [OMIM:191830 renal agenesis](http://beta.monarchinitiative.org/disease/OMIM:191830)
-    * [DOID:14766 -](http://beta.monarchinitiative.org/disease/DOID:14766)
-    * [MESH:C563261 -](http://beta.monarchinitiative.org/disease/MESH:C563261)
- * [OMIM:147260 Immunoglobulin Switch Sequences](http://beta.monarchinitiative.org/disease/OMIM:147260)
- * [MESH:C536649 Penis agenesis](http://beta.monarchinitiative.org/disease/MESH:C536649)
- * [DOID:0050877 pancreatic agenesis](http://beta.monarchinitiative.org/disease/DOID:0050877)
- * [DOID:0050591 tooth agenesis](http://beta.monarchinitiative.org/disease/DOID:0050591)
-
-### not provided
-
-Score: 0.24000000000000002
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
-
-### not specified
-
-Score: 0.56
-
- * [DOID:3711 bladder adenocarcinoma](http://beta.monarchinitiative.org/disease/DOID:3711)
+ * [OMIM:600145 Sacral defect and anterior sacral meningocele](http://beta.monarchinitiative.org/disease/OMIM:600145) Confidence: high
+    * Equiv:[MESH:C537221 Sacral defect and anterior sacral meningocele](http://beta.monarchinitiative.org/disease/MESH:C537221)
+    * Syn: "Caudal Dysgenesis Syndrome"
+    * Syn: "Caudal Regression Syndrome"
+    * Syn: "Sacral Agenesis"
+    * Syn: "SACRAL DEFECT WITH ANTERIOR MENINGOCELE"
+    * Syn: "Sdam"
+    * Syn: "Sirenomelia"

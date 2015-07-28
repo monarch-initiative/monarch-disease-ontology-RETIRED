@@ -1,6 +1,10 @@
 
 ## GENE: ACTA2
 
+![image](ACTA2.png)
+[matched diseases visual](ACTA2.png)  <-- click on raw to zoom
+
+
 ### AORTIC ANEURYSM, FAMILIAL THORACIC 6
  * [OMIM:611788 Aortic Aneurysm, Familial Thoracic 6](http://beta.monarchinitiative.org/disease/OMIM:611788) Confidence: high
     * Equiv:[MESH:C567085 Aortic Aneurysm, Familial Thoracic 6](http://beta.monarchinitiative.org/disease/MESH:C567085)

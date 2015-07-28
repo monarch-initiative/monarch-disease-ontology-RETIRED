@@ -1,9 +1,8 @@
-blip-findall -debug matcher -consult matcher.pro -debug index -goal ix -u metadata_nlp -i all_labels.pro -r mondoe -i clingen.pro -goal t
 
 ## GENE: LMNA
 
 ![image](LMNA.png)
-[matched diseases visual](LMNA.png)
+[matched diseases visual](LMNA.png)  <-- click on raw to zoom
 
 
 ### Arrhythmogenic right ventricular cardiomyopathy

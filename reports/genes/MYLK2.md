@@ -1,6 +1,10 @@
 
 ## GENE: MYLK2
 
+![image](MYLK2.png)
+[matched diseases visual](MYLK2.png)  <-- click on raw to zoom
+
+
 ### CARDIOMYOPATHY, HYPERTROPHIC, MIDVENTRICULAR, DIGENIC
  * [OMIM:251220 Microcephaly - cardiomyopathy](http://beta.monarchinitiative.org/disease/OMIM:251220) Confidence: low/0.0703125
     * Equiv:[Orphanet:2515 Microcephaly - cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:2515)
