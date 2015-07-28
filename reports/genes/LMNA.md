@@ -2,6 +2,7 @@ blip-findall -debug matcher -consult matcher.pro -debug index -goal ix -u metada
 
 ## GENE: LMNA
 
+![image](LMNA.png)
 [matched diseases visual](LMNA.png)
 
 
