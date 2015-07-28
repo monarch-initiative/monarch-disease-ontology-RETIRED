@@ -1,34 +1,51 @@
 :- use_module(bio(index_util)).
 
+:- dynamic gpmatch/2.
+
 g(G) :- setof(G,P^g2p(G,P),Gs),member(G,Gs).
 
+
 g2fn(G,File) :-
+        g2fn(G,File,md).
+g2fn(G,File,Suffix) :-
         concat_atom(L,/,G),
         concat_atom(L,-,G2),
-        concat_atom(['genes/',G2,'.md'],File).
+        concat_atom(['genes/',G2,'.',Suffix],File).
 
 t :- t('LMNA').
 
 t(G):-
-        g2p(G,P),
-        wallp(P),
-        fail.
-        
+        wallg(G).
+
 
 wall :-
         g(G),
         g2fn(G,File),
         told,
         tell(File),
-        format('~n## GENE: ~w~n',[G]),
-        g2p(G,P),
-        wallp(P),
+        wallg(G),
         fail.
 
-wallp(P) :-
+wallg(G) :-
+        format('~n## GENE: ~w~n',[G]),
+        g2p(G,P),
+        wallp(G,P),
+        fail.
+wallg(G) :-
+        append('mkimg.sh'),
+        setof(P,gpmatch(G,P),Ps),
+        format('mondo'),
+        forall(member(P,Ps),
+               format(' -id ~w',[P])),
+        g2fn(G,File,png),
+        format(' -to png > ~w~n',[File]).
+
+
+wallp(G,P) :-
         \+ is_excluded(P),
         format('~n### ~w~n',[P]),
         find(P,E,Conf),
+        assert(gpmatch(G,E)),
         wmatch(E,Conf).
 
 /*
