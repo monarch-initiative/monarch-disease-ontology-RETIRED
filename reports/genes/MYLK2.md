@@ -5,6 +5,11 @@
 [matched diseases visual](MYLK2.png)  <-- click on raw to zoom
 
 
+### Cardiomyopathy
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
+
 ### CARDIOMYOPATHY, HYPERTROPHIC, MIDVENTRICULAR, DIGENIC
  * [OMIM:251220 Microcephaly - cardiomyopathy](http://beta.monarchinitiative.org/disease/OMIM:251220) Confidence: low/0.0703125
     * Equiv:[Orphanet:2515 Microcephaly - cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:2515)

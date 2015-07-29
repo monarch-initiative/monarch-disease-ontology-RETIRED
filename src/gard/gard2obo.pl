@@ -7,7 +7,7 @@ print "\n";
 while(<>) {
     chomp;
     my @vals = split(/\t/,$_);
-    fixq(@vals);
+    @vals = fixq(@vals);
     my ($id, $x, $y, $n, $syns, $omim, $ordo, $url) = @vals;
     next unless $id > 0;
     $id = sprintf("%07d",$id);
@@ -23,5 +23,6 @@ while(<>) {
 }
 
 sub fixq {
-    map { s/^\"//;s/\"$//;$_ } @_;
+    my @x =  map { s/^\"//;s/\"$//;$_ } @_;
+    return map { s/"/\'/g;$_ } @x;
 }

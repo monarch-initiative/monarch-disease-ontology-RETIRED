@@ -10,8 +10,8 @@
     * Equiv:[MESH:C564654 Cree Mental Retardation Syndrome](http://beta.monarchinitiative.org/disease/MESH:C564654)
     * Syn: "CREE MENTAL RETARDATION SYNDROME"
 
-### MOWAT-WILSON SYNDROME
- * [OMIM:235730 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/OMIM:235730) Confidence: high
+### Mowat-Wilson Syndrome: Autosomal dominant inheritence
+ * [OMIM:235730 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/OMIM:235730) Confidence: low/0.15625
     * Equiv:[Orphanet:2152 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2152)
     * Equiv:[MESH:C536990 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/MESH:C536990)
     * Syn: "Hirschsprung Disease-Mental Retardation Syndrome"
@@ -19,8 +19,8 @@
     * Syn: "MOWAT-WILSON SYNDROME; MOWS"
     * Syn: "MOWS"
 
-### Mowat-Wilson Syndrome: Autosomal dominant inheritence
- * [OMIM:235730 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/OMIM:235730) Confidence: low/0.15625
+### MOWAT-WILSON SYNDROME
+ * [OMIM:235730 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/OMIM:235730) Confidence: high
     * Equiv:[Orphanet:2152 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2152)
     * Equiv:[MESH:C536990 Mowat-Wilson syndrome](http://beta.monarchinitiative.org/disease/MESH:C536990)
     * Syn: "Hirschsprung Disease-Mental Retardation Syndrome"

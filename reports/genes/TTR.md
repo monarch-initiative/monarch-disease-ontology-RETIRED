@@ -5,24 +5,6 @@
 [matched diseases visual](TTR.png)  <-- click on raw to zoom
 
 
-### AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED
- * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: high
-    * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
-    * Equiv:[DOID:0050638 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/DOID:0050638)
-    * Equiv:[MESH:C567782 Amyloidosis, Hereditary, Transthyretin-Related](http://beta.monarchinitiative.org/disease/MESH:C567782)
-    * Syn: "Amyloid Cardiomyopathy, Transthyretin-Related"
-    * Syn: "Amyloid Polyneuropathy, Familial"
-    * Syn: "AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED"
-    * Syn: "Amyloidosis, hereditary, transthyretin-related"
-    * Syn: "Amyloidosis, Leptomeningeal, Transthyretin-Related"
-    * Syn: "Corino de Andrade's disease"
-    * Syn: "familial amyloid polyneuropathy"
-    * Syn: "Familial transthyretin amyloidosis"
-    * Syn: "Hereditary Amyloidosis, Transthyretin-Related"
-    * Syn: "Transthyretin Amyloidosis"
-    * Syn: "transthyretin-related hereditary amyloidosis"
-    * Syn: "TTR amyloidosis"
-
 ### AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED, MODIFIER OF
  * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: low/0.18055555555555555
     * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
@@ -43,6 +25,24 @@
 
 ### AMYLOIDOSIS, LEPTOMENINGEAL, TRANSTHYRETIN-RELATED
  * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: high
+    * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
+    * Equiv:[DOID:0050638 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/DOID:0050638)
+    * Equiv:[MESH:C567782 Amyloidosis, Hereditary, Transthyretin-Related](http://beta.monarchinitiative.org/disease/MESH:C567782)
+    * Syn: "Amyloid Cardiomyopathy, Transthyretin-Related"
+    * Syn: "Amyloid Polyneuropathy, Familial"
+    * Syn: "AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED"
+    * Syn: "Amyloidosis, hereditary, transthyretin-related"
+    * Syn: "Amyloidosis, Leptomeningeal, Transthyretin-Related"
+    * Syn: "Corino de Andrade's disease"
+    * Syn: "familial amyloid polyneuropathy"
+    * Syn: "Familial transthyretin amyloidosis"
+    * Syn: "Hereditary Amyloidosis, Transthyretin-Related"
+    * Syn: "Transthyretin Amyloidosis"
+    * Syn: "transthyretin-related hereditary amyloidosis"
+    * Syn: "TTR amyloidosis"
+
+### TRANSTHYRETIN POLYMORPHISM
+ * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: low/0.09375
     * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
     * Equiv:[DOID:0050638 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/DOID:0050638)
     * Equiv:[MESH:C567782 Amyloidosis, Hereditary, Transthyretin-Related](http://beta.monarchinitiative.org/disease/MESH:C567782)
@@ -87,25 +87,7 @@
     * Equiv:[MESH:D028226 Amyloidosis, Familial](http://beta.monarchinitiative.org/disease/MESH:D028226)
     * Syn: "amyloid disease"
 
-### TRANSTHYRETIN POLYMORPHISM
- * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: low/0.09375
-    * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
-    * Equiv:[DOID:0050638 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/DOID:0050638)
-    * Equiv:[MESH:C567782 Amyloidosis, Hereditary, Transthyretin-Related](http://beta.monarchinitiative.org/disease/MESH:C567782)
-    * Syn: "Amyloid Cardiomyopathy, Transthyretin-Related"
-    * Syn: "Amyloid Polyneuropathy, Familial"
-    * Syn: "AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED"
-    * Syn: "Amyloidosis, hereditary, transthyretin-related"
-    * Syn: "Amyloidosis, Leptomeningeal, Transthyretin-Related"
-    * Syn: "Corino de Andrade's disease"
-    * Syn: "familial amyloid polyneuropathy"
-    * Syn: "Familial transthyretin amyloidosis"
-    * Syn: "Hereditary Amyloidosis, Transthyretin-Related"
-    * Syn: "Transthyretin Amyloidosis"
-    * Syn: "transthyretin-related hereditary amyloidosis"
-    * Syn: "TTR amyloidosis"
-
-### Transthyretin Amyloidosis
+### AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED
  * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: high
     * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
     * Equiv:[DOID:0050638 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/DOID:0050638)
@@ -123,7 +105,30 @@
     * Syn: "transthyretin-related hereditary amyloidosis"
     * Syn: "TTR amyloidosis"
 
+### Cardiomyopathy
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
+
 ### Transthyretin amyloidosis
+ * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: high
+    * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
+    * Equiv:[DOID:0050638 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/DOID:0050638)
+    * Equiv:[MESH:C567782 Amyloidosis, Hereditary, Transthyretin-Related](http://beta.monarchinitiative.org/disease/MESH:C567782)
+    * Syn: "Amyloid Cardiomyopathy, Transthyretin-Related"
+    * Syn: "Amyloid Polyneuropathy, Familial"
+    * Syn: "AMYLOIDOSIS, HEREDITARY, TRANSTHYRETIN-RELATED"
+    * Syn: "Amyloidosis, hereditary, transthyretin-related"
+    * Syn: "Amyloidosis, Leptomeningeal, Transthyretin-Related"
+    * Syn: "Corino de Andrade's disease"
+    * Syn: "familial amyloid polyneuropathy"
+    * Syn: "Familial transthyretin amyloidosis"
+    * Syn: "Hereditary Amyloidosis, Transthyretin-Related"
+    * Syn: "Transthyretin Amyloidosis"
+    * Syn: "transthyretin-related hereditary amyloidosis"
+    * Syn: "TTR amyloidosis"
+
+### Transthyretin Amyloidosis
  * [OMIM:105210 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/OMIM:105210) Confidence: high
     * Equiv:[Orphanet:85451 Transthyretin-related familial amyloid cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:85451)
     * Equiv:[DOID:0050638 transthyretin amyloidosis](http://beta.monarchinitiative.org/disease/DOID:0050638)

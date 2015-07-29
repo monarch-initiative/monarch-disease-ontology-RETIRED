@@ -1,12 +1,12 @@
 
-## GENE: symbol requested
+## GENE: Symbol requested
 
-![image](symbol requested.png)
-[matched diseases visual](symbol requested.png)  <-- click on raw to zoom
+![image](Symbol requested.png)
+[matched diseases visual](Symbol requested.png)  <-- click on raw to zoom
 
 
-### name
- * [OMIM:160980 Carney Complex, Type 1](http://beta.monarchinitiative.org/disease/OMIM:160980) Confidence: low/0.09375
+### Submitted condition name
+ * [OMIM:160980 Carney Complex, Type 1](http://beta.monarchinitiative.org/disease/OMIM:160980) Confidence: low/0.0763888888888889
     * Syn: "CARNEY COMPLEX, TYPE 1; CNC1"
     * Syn: "Carney Myxoma-Endocrine Complex"
     * Syn: "Carney Syndrome"

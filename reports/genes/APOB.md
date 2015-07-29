@@ -5,10 +5,7 @@
 [matched diseases visual](APOB.png)  <-- click on raw to zoom
 
 
-### APOB POLYMORPHISM IN SIGNAL PEPTIDE
- * [results_in -](http://beta.monarchinitiative.org/disease/results_in) Confidence: low/0.0675
-
-### Familial Hypercholesterolemia
+### Familial hypercholesterolemia
  * [DOID:13810 familial hypercholesterolemia](http://beta.monarchinitiative.org/disease/DOID:13810) Confidence: high
     * Syn: "familial hyperbetalipoproteinaemia"
     * Syn: "familial hypercholesteremia"
@@ -17,7 +14,13 @@
     * Syn: "hyperbetalipoproteinemia"
     * Syn: "type II hyperlipidemia"
 
-### Familial hypercholesterolemia
+### HYPOBETALIPOPROTEINEMIA, FAMILIAL, ASSOCIATED WITH APOB32
+ * [MESH:D006995 Hypobetalipoproteinemias](http://beta.monarchinitiative.org/disease/MESH:D006995) Confidence: low/0.13
+
+### HYPOBETALIPOPROTEINEMIA, FAMILIAL, ASSOCIATED WITH APOB39
+ * [MESH:D006995 Hypobetalipoproteinemias](http://beta.monarchinitiative.org/disease/MESH:D006995) Confidence: low/0.13
+
+### Familial Hypercholesterolemia
  * [DOID:13810 familial hypercholesterolemia](http://beta.monarchinitiative.org/disease/DOID:13810) Confidence: high
     * Syn: "familial hyperbetalipoproteinaemia"
     * Syn: "familial hypercholesteremia"
@@ -38,16 +41,7 @@
     * Syn: "Ldl Receptor Disorder"
     * Syn: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 2"
 
-### HYPOBETALIPOPROTEINEMIA, FAMILIAL
- * [MESH:C566267 Hypobetalipoproteinemia, Familial](http://beta.monarchinitiative.org/disease/MESH:C566267) Confidence: high
-
 ### HYPOBETALIPOPROTEINEMIA, FAMILIAL, ASSOCIATED WITH APOB31
- * [MESH:D006995 Hypobetalipoproteinemias](http://beta.monarchinitiative.org/disease/MESH:D006995) Confidence: low/0.13
-
-### HYPOBETALIPOPROTEINEMIA, FAMILIAL, ASSOCIATED WITH APOB32
- * [MESH:D006995 Hypobetalipoproteinemias](http://beta.monarchinitiative.org/disease/MESH:D006995) Confidence: low/0.13
-
-### HYPOBETALIPOPROTEINEMIA, FAMILIAL, ASSOCIATED WITH APOB39
  * [MESH:D006995 Hypobetalipoproteinemias](http://beta.monarchinitiative.org/disease/MESH:D006995) Confidence: low/0.13
 
 ### HYPOBETALIPOPROTEINEMIA, FAMILIAL, ASSOCIATED WITH APOB40
@@ -69,6 +63,12 @@
     * Syn: "Hypobetalipoproteinemia, Familial"
     * Syn: "HYPOBETALIPOPROTEINEMIA, FAMILIAL, 1; FHBL1"
     * Syn: "Hypobetalipoproteinemia, Normotriglyceridemic"
+
+### APOB POLYMORPHISM IN SIGNAL PEPTIDE
+ * [results_in -](http://beta.monarchinitiative.org/disease/results_in) Confidence: low/0.0675
+
+### HYPOBETALIPOPROTEINEMIA, FAMILIAL
+ * [MESH:C566267 Hypobetalipoproteinemia, Familial](http://beta.monarchinitiative.org/disease/MESH:C566267) Confidence: high
 
 ### Hypercholesterolemia, autosomal dominant, type B
  * [OMIM:144010 Hypercholesterolemia due to arg3500 mutation of Apo B-100](http://beta.monarchinitiative.org/disease/OMIM:144010) Confidence: high

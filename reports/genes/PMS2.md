@@ -5,20 +5,11 @@
 [matched diseases visual](PMS2.png)  <-- click on raw to zoom
 
 
-### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4
+### Hereditary nonpolyposis colorectal cancer type 4
  * [OMIM:614337 Colorectal Cancer, Hereditary Nonpolyposis, Type 4](http://beta.monarchinitiative.org/disease/OMIM:614337) Confidence: high
     * Equiv:[MESH:C563971 Colorectal Cancer, Hereditary Nonpolyposis, Type 4](http://beta.monarchinitiative.org/disease/MESH:C563971)
     * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4; HNPCC4"
     * Syn: "HNPCC4"
-
-### Colorectal cancer, non-polyposis
- * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
-    * Syn: "Colon Cancer"
-    * Syn: "COLORECTAL CANCER; CRC"
-    * Syn: "CRC"
-
-### Hereditary non-polyposis colon cancer
- * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144) Confidence: high
 
 ### Lynch Syndrome
  * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
@@ -59,6 +50,21 @@
     * Syn: "Mmr Deficiency"
     * Syn: "MMRCS"
     * Syn: "Turcot Syndrome"
+
+### Hereditary non-polyposis colon cancer
+ * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144) Confidence: high
+
+### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4
+ * [OMIM:614337 Colorectal Cancer, Hereditary Nonpolyposis, Type 4](http://beta.monarchinitiative.org/disease/OMIM:614337) Confidence: high
+    * Equiv:[MESH:C563971 Colorectal Cancer, Hereditary Nonpolyposis, Type 4](http://beta.monarchinitiative.org/disease/MESH:C563971)
+    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 4; HNPCC4"
+    * Syn: "HNPCC4"
+
+### Colorectal cancer, non-polyposis
+ * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
+    * Syn: "Colon Cancer"
+    * Syn: "COLORECTAL CANCER; CRC"
+    * Syn: "CRC"
 
 ### Neoplastic Syndromes, Hereditary
  * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high

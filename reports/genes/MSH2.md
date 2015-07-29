@@ -5,24 +5,6 @@
 [matched diseases visual](MSH2.png)  <-- click on raw to zoom
 
 
-### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 1
- * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
-    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
-    * Syn: "Coca1"
-    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
-    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
-    * Syn: "Lynch Syndrome 2"
-    * Syn: "LYNCH SYNDROME I"
-
-### COLORECTAL CANCER, HEREDITARY, NONPOLYPOSIS, TYPE 1
- * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
-    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
-    * Syn: "Coca1"
-    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
-    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
-    * Syn: "Lynch Syndrome 2"
-    * Syn: "LYNCH SYNDROME I"
-
 ### Colorectal cancer
  * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256) Confidence: high
 
@@ -35,14 +17,14 @@
 ### Hereditary non-polyposis colon cancer
  * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144) Confidence: high
 
-### Lynch Syndrome
- * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
-    * Syn: "COCA 1"
-    * Syn: "Hereditary Defective Mismatch Repair syndrome"
-    * Syn: "hereditary non-polyposis colon cancer type 1"
-    * Syn: "hereditary nonpolyposis colorectal cancer"
-    * Syn: "hereditary nonpolyposis colorectal neoplasm"
-    * Syn: "HNPCC - hereditary nonpolyposis colon cancer"
+### Ovarian cancer
+ * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394) Confidence: high
+    * Syn: "malignant Ovarian tumor"
+    * Syn: "malignant tumour of ovary"
+    * Syn: "ovarian neoplasm"
+    * Syn: "ovary neoplasm"
+    * Syn: "primary ovarian cancer"
+    * Syn: "tumor of the Ovary"
 
 ### Lynch syndrome
  * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
@@ -52,15 +34,6 @@
     * Syn: "hereditary nonpolyposis colorectal cancer"
     * Syn: "hereditary nonpolyposis colorectal neoplasm"
     * Syn: "HNPCC - hereditary nonpolyposis colon cancer"
-
-### Lynch syndrome I
- * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
-    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
-    * Syn: "Coca1"
-    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
-    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
-    * Syn: "Lynch Syndrome 2"
-    * Syn: "LYNCH SYNDROME I"
 
 ### MISMATCH REPAIR CANCER SYNDROME
  * [OMIM:276300 Turcot syndrome](http://beta.monarchinitiative.org/disease/OMIM:276300) Confidence: low/0.18000000000000002
@@ -83,6 +56,15 @@
     * Syn: "Restriction Fragment Length Polymorphism 14A"
     * Syn: "Rflp-14A"
 
+### Lynch syndrome I
+ * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
+    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
+    * Syn: "Coca1"
+    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
+    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
+    * Syn: "Lynch Syndrome 2"
+    * Syn: "LYNCH SYNDROME I"
+
 ### MUIR-TORRE SYNDROME
  * [OMIM:158320 Muir-Torre syndrome](http://beta.monarchinitiative.org/disease/OMIM:158320) Confidence: high
     * Equiv:[DOID:0050465 Muir-Torre syndrome](http://beta.monarchinitiative.org/disease/DOID:0050465)
@@ -91,17 +73,47 @@
     * Syn: "MRTES"
     * Syn: "MUIR-TORRE SYNDROME; MRTES"
 
+### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 1
+ * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
+    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
+    * Syn: "Coca1"
+    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
+    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
+    * Syn: "Lynch Syndrome 2"
+    * Syn: "LYNCH SYNDROME I"
+
+### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 1
+ * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
+    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
+    * Syn: "Coca1"
+    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
+    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
+    * Syn: "Lynch Syndrome 2"
+    * Syn: "LYNCH SYNDROME I"
+
+### COLORECTAL CANCER, HEREDITARY, NONPOLYPOSIS, TYPE 1
+ * [OMIM:120435 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/OMIM:120435) Confidence: high
+    * Equiv:[MESH:C535972 Colorectal cancer, hereditary nonpolyposis, type 1](http://beta.monarchinitiative.org/disease/MESH:C535972)
+    * Syn: "Coca1"
+    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 1"
+    * Syn: "Colorectal Cancer, Hereditary Nonpolyposis, Type 1"
+    * Syn: "Lynch Syndrome 2"
+    * Syn: "LYNCH SYNDROME I"
+
+### Colorectal cancer
+ * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256) Confidence: high
+
+### Lynch Syndrome
+ * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
+    * Syn: "COCA 1"
+    * Syn: "Hereditary Defective Mismatch Repair syndrome"
+    * Syn: "hereditary non-polyposis colon cancer type 1"
+    * Syn: "hereditary nonpolyposis colorectal cancer"
+    * Syn: "hereditary nonpolyposis colorectal neoplasm"
+    * Syn: "HNPCC - hereditary nonpolyposis colon cancer"
+
 ### Neoplastic Syndromes, Hereditary
  * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
-
-### Ovarian cancer
- * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394) Confidence: high
-    * Syn: "malignant Ovarian tumor"
-    * Syn: "malignant tumour of ovary"
-    * Syn: "ovarian neoplasm"
-    * Syn: "ovary neoplasm"
-    * Syn: "primary ovarian cancer"
-    * Syn: "tumor of the Ovary"
 
 ### Renal cell carcinoma
  * [DOID:4450 renal cell carcinoma](http://beta.monarchinitiative.org/disease/DOID:4450) Confidence: high

@@ -1,4 +1,7 @@
-clingen.pro: rpt_clingen_gene_pheno_6.19.15.txt
+##SRC = rpt_clingen_gene_pheno_6.19.15.txt
+SRC = rpt_to_pheno_wg_072915.txt 
+
+clingen.pro: $(SRC)
 	unicode-to-ascii  $< | cut -f1,3  | tbl2p -dequote -p g2p > $@
 
 # now wrotes to genes/

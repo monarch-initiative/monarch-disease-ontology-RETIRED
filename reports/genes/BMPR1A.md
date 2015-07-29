@@ -5,6 +5,18 @@
 [matched diseases visual](BMPR1A.png)  <-- click on raw to zoom
 
 
+### POLYPOSIS SYNDROME, HEREDITARY MIXED, 2
+ * [OMIM:610069 Polyposis Syndrome, Hereditary Mixed, 2](http://beta.monarchinitiative.org/disease/OMIM:610069) Confidence: high
+    * Equiv:[MESH:C566451 Polyposis Syndrome, Hereditary Mixed, 2](http://beta.monarchinitiative.org/disease/MESH:C566451)
+    * Syn: "HMPS2"
+    * Syn: "POLYPOSIS SYNDROME, HEREDITARY MIXED, 2; HMPS2"
+
+### Juvenile polyposis syndrome
+ * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787) Confidence: high
+
+### Neoplastic Syndromes, Hereditary
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+
 ### Gastrointestinal polyposis
  * [DC:0000587 Polyposis](http://beta.monarchinitiative.org/disease/DC:0000587) Confidence: low/0.15625
 
@@ -18,18 +30,6 @@
 
 ### JUVENILE POLYPOSIS SYNDROME
  * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787) Confidence: high
-
-### Juvenile polyposis syndrome
- * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787) Confidence: high
-
-### Neoplastic Syndromes, Hereditary
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
-
-### POLYPOSIS SYNDROME, HEREDITARY MIXED, 2
- * [OMIM:610069 Polyposis Syndrome, Hereditary Mixed, 2](http://beta.monarchinitiative.org/disease/OMIM:610069) Confidence: high
-    * Equiv:[MESH:C566451 Polyposis Syndrome, Hereditary Mixed, 2](http://beta.monarchinitiative.org/disease/MESH:C566451)
-    * Syn: "HMPS2"
-    * Syn: "POLYPOSIS SYNDROME, HEREDITARY MIXED, 2; HMPS2"
 
 ### Polyposis, juvenile intestinal
  * [OMIM:174900 Juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/OMIM:174900) Confidence: high

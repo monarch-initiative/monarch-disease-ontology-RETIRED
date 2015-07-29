@@ -23,3 +23,7 @@ consistent.tsv: map_g2m.pro
 
 no_map.tsv: map_g2m.pro
 	blip-findall -i gard.obo -r mondo -i $< -consult compare.pro no_map/1 -label > $@.tmp && mv $@.tmp $@
+
+
+gard.owl: gard.obo
+	owltools $< -o $@

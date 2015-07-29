@@ -18,9 +18,6 @@
 ### Loeys-Dietz Syndrome
  * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
 
-### Loeys-Dietz Syndrome, type 1
- * [MESH:C567181 Loeys-Dietz Syndrome, Type 1b](http://beta.monarchinitiative.org/disease/MESH:C567181) Confidence: low/0.19097222222222224
-
 ### Loeys-Dietz aortic aneurysm syndrome
  * [OMIM:609192 Furlong syndrome](http://beta.monarchinitiative.org/disease/OMIM:609192) Confidence: high
     * Equiv:[MESH:C538192 Furlong syndrome](http://beta.monarchinitiative.org/disease/MESH:C538192)
@@ -31,8 +28,23 @@
     * Syn: "Loeys-Dietz Aortic Aneurysm Syndrome"
     * Syn: "LOEYS-DIETZ SYNDROME 1; LDS1"
 
+### Thoracic aortic aneurysms and aortic dissections
+ * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224
+
 ### Loeys-Dietz syndrome
  * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
+
+### Thoracic aortic aneurysms and aortic dissections
+ * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224
+
+### Thoracic aortic aneurysms and aortic dissections
+ * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224
+
+### Loeys-Dietz Syndrome
+ * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
+
+### Loeys-Dietz Syndrome, type 1
+ * [MESH:C567181 Loeys-Dietz Syndrome, Type 1b](http://beta.monarchinitiative.org/disease/MESH:C567181) Confidence: low/0.19097222222222224
 
 ### MULTIPLE SELF-HEALING SQUAMOUS EPITHELIOMA, SUSCEPTIBILITY TO
  * [OMIM:132800 Multiple Self-Healing Squamous Epithelioma, Susceptibility to](http://beta.monarchinitiative.org/disease/OMIM:132800) Confidence: high
@@ -40,6 +52,3 @@
     * Syn: "Ferguson-Smith Type Epithelioma"
     * Syn: "MSSE"
     * Syn: "MULTIPLE SELF-HEALING SQUAMOUS EPITHELIOMA, SUSCEPTIBILITY TO; MSSE"
-
-### Thoracic aortic aneurysms and aortic dissections
- * [Orphanet:91387 Familial thoracic aortic aneurysm and aortic dissection](http://beta.monarchinitiative.org/disease/Orphanet:91387) Confidence: low/0.19097222222222224

@@ -5,42 +5,11 @@
 [matched diseases visual](MSH6.png)  <-- click on raw to zoom
 
 
-### COLON CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5
+### COLON CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5, DIGENIC
  * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: low/0.15306122448979592
     * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)
     * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5"
     * Syn: "HNPCC5"
-
-### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5
- * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: high
-    * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)
-    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5"
-    * Syn: "HNPCC5"
-
-### Colorectal / endometrial cancer
- * [OMIM:608089 Endometrial Cancer](http://beta.monarchinitiative.org/disease/OMIM:608089) Confidence: low/0.15625
-    * Syn: "ENDOMETRIAL CANCER"
-
-### Colorectal cancer
- * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256) Confidence: high
-
-### Colorectal cancer, early onset
- * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
-    * Syn: "Colon Cancer"
-    * Syn: "COLORECTAL CANCER; CRC"
-    * Syn: "CRC"
-
-### Colorectal cancer, hereditary nonpolyposis, type 5
- * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: high
-    * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)
-    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5"
-    * Syn: "HNPCC5"
-
-### Colorectal cancer, non-polyposis
- * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
-    * Syn: "Colon Cancer"
-    * Syn: "COLORECTAL CANCER; CRC"
-    * Syn: "CRC"
 
 ### Endometrial cancer
  * [DOID:1380 endometrial cancer](http://beta.monarchinitiative.org/disease/DOID:1380) Confidence: high
@@ -51,18 +20,6 @@
     * Syn: "neoplasm of endometrium (disorder)"
     * Syn: "primary malignant neoplasm of endometrium"
     * Syn: "tumor of Endometrium"
-
-### Hereditary non-polyposis colon cancer
- * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144) Confidence: high
-
-### Lynch Syndrome
- * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
-    * Syn: "COCA 1"
-    * Syn: "Hereditary Defective Mismatch Repair syndrome"
-    * Syn: "hereditary non-polyposis colon cancer type 1"
-    * Syn: "hereditary nonpolyposis colorectal cancer"
-    * Syn: "hereditary nonpolyposis colorectal neoplasm"
-    * Syn: "HNPCC - hereditary nonpolyposis colon cancer"
 
 ### Lynch syndrome
  * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
@@ -95,8 +52,27 @@
     * Syn: "MMRCS"
     * Syn: "Turcot Syndrome"
 
-### Neoplastic Syndromes, Hereditary
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+### COLON CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5
+ * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: low/0.15306122448979592
+    * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)
+    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5"
+    * Syn: "HNPCC5"
+
+### Colorectal / endometrial cancer
+ * [OMIM:608089 Endometrial Cancer](http://beta.monarchinitiative.org/disease/OMIM:608089) Confidence: low/0.15625
+    * Syn: "ENDOMETRIAL CANCER"
+
+### Colorectal cancer
+ * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256) Confidence: high
+
+### Colorectal cancer, non-polyposis
+ * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
+    * Syn: "Colon Cancer"
+    * Syn: "COLORECTAL CANCER; CRC"
+    * Syn: "CRC"
+
+### Hereditary non-polyposis colon cancer
+ * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144) Confidence: high
 
 ### Ovarian cancer
  * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394) Confidence: high
@@ -106,3 +82,42 @@
     * Syn: "ovary neoplasm"
     * Syn: "primary ovarian cancer"
     * Syn: "tumor of the Ovary"
+
+### Colorectal cancer
+ * [DOID:9256 colorectal cancer](http://beta.monarchinitiative.org/disease/DOID:9256) Confidence: high
+
+### Lynch Syndrome
+ * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
+    * Syn: "COCA 1"
+    * Syn: "Hereditary Defective Mismatch Repair syndrome"
+    * Syn: "hereditary non-polyposis colon cancer type 1"
+    * Syn: "hereditary nonpolyposis colorectal cancer"
+    * Syn: "hereditary nonpolyposis colorectal neoplasm"
+    * Syn: "HNPCC - hereditary nonpolyposis colon cancer"
+
+### Neoplastic Syndromes, Hereditary
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+
+### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5
+ * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: high
+    * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)
+    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5"
+    * Syn: "HNPCC5"
+
+### Colorectal cancer, early onset
+ * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
+    * Syn: "Colon Cancer"
+    * Syn: "COLORECTAL CANCER; CRC"
+    * Syn: "CRC"
+
+### Colorectal cancer, hereditary nonpolyposis, type 5
+ * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: high
+    * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)
+    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5"
+    * Syn: "HNPCC5"
+
+### Hereditary nonpolyposis colorectal cancer type 5
+ * [OMIM:614350 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/OMIM:614350) Confidence: high
+    * Equiv:[MESH:C563456 Colorectal Cancer, Hereditary Nonpolyposis, Type 5](http://beta.monarchinitiative.org/disease/MESH:C563456)
+    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 5; HNPCC5"
+    * Syn: "HNPCC5"

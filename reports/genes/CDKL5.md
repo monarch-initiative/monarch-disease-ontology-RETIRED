@@ -5,6 +5,30 @@
 [matched diseases visual](CDKL5.png)  <-- click on raw to zoom
 
 
+### EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2
+ * [OMIM:300672 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/OMIM:300672) Confidence: high
+    * Equiv:[MESH:C564064 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/MESH:C564064)
+    * Syn: "EIEE2"
+    * Syn: "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2; EIEE2"
+    * Syn: "Infantile Spasm Syndrome, X-Linked 2"
+
+### Early infantile epileptic encephalopathy 2
+ * [OMIM:300672 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/OMIM:300672) Confidence: high
+    * Equiv:[MESH:C564064 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/MESH:C564064)
+    * Syn: "EIEE2"
+    * Syn: "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2; EIEE2"
+    * Syn: "Infantile Spasm Syndrome, X-Linked 2"
+
+### Atypical Rett syndrome
+ * [Orphanet:3095 Atypical Rett syndrome](http://beta.monarchinitiative.org/disease/Orphanet:3095) Confidence: high
+
+### Epileptic encephalopathy, early infantile, 2
+ * [OMIM:300672 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/OMIM:300672) Confidence: high
+    * Equiv:[MESH:C564064 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/MESH:C564064)
+    * Syn: "EIEE2"
+    * Syn: "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2; EIEE2"
+    * Syn: "Infantile Spasm Syndrome, X-Linked 2"
+
 ### Angelman syndrome-like
  * [OMIM:105830 Angelman syndrome](http://beta.monarchinitiative.org/disease/OMIM:105830) Confidence: low/0.18055555555555555
     * Equiv:[DOID:1932 Angelman syndrome](http://beta.monarchinitiative.org/disease/DOID:1932)
@@ -16,9 +40,6 @@
     * Syn: "Happy Puppet Syndrome, Formerly"
     * Syn: "puppetlike syndrome"
 
-### Atypical Rett syndrome
- * [Orphanet:3095 Atypical Rett syndrome](http://beta.monarchinitiative.org/disease/Orphanet:3095) Confidence: high
-
 ### Autism
  * [DOID:12849 autistic disorder](http://beta.monarchinitiative.org/disease/DOID:12849) Confidence: high
     * Syn: "autism"
@@ -26,17 +47,3 @@
     * Syn: "childhood autism"
     * Syn: "infantile autism"
     * Syn: "Kanner's syndrome"
-
-### EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2
- * [OMIM:300672 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/OMIM:300672) Confidence: high
-    * Equiv:[MESH:C564064 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/MESH:C564064)
-    * Syn: "EIEE2"
-    * Syn: "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2; EIEE2"
-    * Syn: "Infantile Spasm Syndrome, X-Linked 2"
-
-### Epileptic encephalopathy, early infantile, 2
- * [OMIM:300672 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/OMIM:300672) Confidence: high
-    * Equiv:[MESH:C564064 Epileptic Encephalopathy, Early Infantile, 2](http://beta.monarchinitiative.org/disease/MESH:C564064)
-    * Syn: "EIEE2"
-    * Syn: "EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 2; EIEE2"
-    * Syn: "Infantile Spasm Syndrome, X-Linked 2"

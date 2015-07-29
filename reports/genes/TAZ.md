@@ -5,7 +5,7 @@
 [matched diseases visual](TAZ.png)  <-- click on raw to zoom
 
 
-### BARTH SYNDROME
+### Barth Syndrome
  * [OMIM:302060 Barth syndrome](http://beta.monarchinitiative.org/disease/OMIM:302060) Confidence: high
     * Equiv:[DOID:0050476 Barth syndrome](http://beta.monarchinitiative.org/disease/DOID:0050476)
     * Equiv:[MESH:D056889 Barth Syndrome](http://beta.monarchinitiative.org/disease/MESH:D056889)
@@ -19,7 +19,7 @@
     * Syn: "MGA type II"
     * Syn: "Mga, Type 2"
 
-### Barth Syndrome
+### BARTH SYNDROME
  * [OMIM:302060 Barth syndrome](http://beta.monarchinitiative.org/disease/OMIM:302060) Confidence: high
     * Equiv:[DOID:0050476 Barth syndrome](http://beta.monarchinitiative.org/disease/DOID:0050476)
     * Equiv:[MESH:D056889 Barth Syndrome](http://beta.monarchinitiative.org/disease/MESH:D056889)

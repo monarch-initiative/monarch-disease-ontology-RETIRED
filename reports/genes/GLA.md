@@ -5,10 +5,56 @@
 [matched diseases visual](GLA.png)  <-- click on raw to zoom
 
 
-### Cardiomyopathy
- * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
-    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
-    * Syn: "Cardiomyopathies"
+### Fabry''s disease
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
+
+### Hypertrophic Cardiomyopathy
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
+
+### Primary familial hypertrophic cardiomyopathy
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### FABRY DISEASE
  * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
@@ -30,44 +76,6 @@
     * Syn: "Hereditary Dystopic Lipidosis"
 
 ### FABRY DISEASE, CARDIAC VARIANT
- * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
-    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
-    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
-    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
-    * Syn: "alpha galactosidase deficiency"
-    * Syn: "Alpha-Galactosidase a Deficiency"
-    * Syn: "Alpha-galactosidase A deficiency"
-    * Syn: "Anderson-Fabry Disease"
-    * Syn: "Angiokeratoma Corporis Diffusum"
-    * Syn: "Ceramide Trihexosidase Deficiency"
-    * Syn: "deficiency of melibiase"
-    * Syn: "FABRY DISEASE"
-    * Syn: "Fabry Disease, Cardiac Variant"
-    * Syn: "Fabry's disease"
-    * Syn: "Fabry's disease (disorder)"
-    * Syn: "Gla Deficiency"
-    * Syn: "Hereditary Dystopic Lipidosis"
-
-### Fabry disease
- * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
-    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
-    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
-    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
-    * Syn: "alpha galactosidase deficiency"
-    * Syn: "Alpha-Galactosidase a Deficiency"
-    * Syn: "Alpha-galactosidase A deficiency"
-    * Syn: "Anderson-Fabry Disease"
-    * Syn: "Angiokeratoma Corporis Diffusum"
-    * Syn: "Ceramide Trihexosidase Deficiency"
-    * Syn: "deficiency of melibiase"
-    * Syn: "FABRY DISEASE"
-    * Syn: "Fabry Disease, Cardiac Variant"
-    * Syn: "Fabry's disease"
-    * Syn: "Fabry's disease (disorder)"
-    * Syn: "Gla Deficiency"
-    * Syn: "Hereditary Dystopic Lipidosis"
-
-### Fabry''s disease
  * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
     * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
     * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
@@ -112,12 +120,60 @@
     * Syn: "familial hypertrophic cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
 
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### Cardiomyopathy
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
+
+### Cardiomyopathy
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
+
+### Fabry disease
+ * [OMIM:301500 Fabry disease](http://beta.monarchinitiative.org/disease/OMIM:301500) Confidence: high
+    * Equiv:[DOID:14499 Fabry disease](http://beta.monarchinitiative.org/disease/DOID:14499)
+    * Equiv:[MESH:C567062 Fabry Disease, Cardiac Variant](http://beta.monarchinitiative.org/disease/MESH:C567062)
+    * Equiv:[MESH:D000795 Fabry Disease](http://beta.monarchinitiative.org/disease/MESH:D000795)
+    * Syn: "alpha galactosidase deficiency"
+    * Syn: "Alpha-Galactosidase a Deficiency"
+    * Syn: "Alpha-galactosidase A deficiency"
+    * Syn: "Anderson-Fabry Disease"
+    * Syn: "Angiokeratoma Corporis Diffusum"
+    * Syn: "Ceramide Trihexosidase Deficiency"
+    * Syn: "deficiency of melibiase"
+    * Syn: "FABRY DISEASE"
+    * Syn: "Fabry Disease, Cardiac Variant"
+    * Syn: "Fabry's disease"
+    * Syn: "Fabry's disease (disorder)"
+    * Syn: "Gla Deficiency"
+    * Syn: "Hereditary Dystopic Lipidosis"
+
 ### Primary familial hypertrophic cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
     * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
     * Syn: "familial hypertrophic cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+
+### Primary familial hypertrophic cardiomyopathy
+ * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
+    * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
+    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "hypertrophic obstructive cardiomyopathy"
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
  * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675

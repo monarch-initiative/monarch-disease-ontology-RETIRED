@@ -5,13 +5,6 @@
 [matched diseases visual](SDHC.png)  <-- click on raw to zoom
 
 
-### Carney triad
- * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287) Confidence: high
-    * Equiv:[Orphanet:139411 Carney triad](http://beta.monarchinitiative.org/disease/Orphanet:139411)
-    * Equiv:[MESH:C565803 Carney Triad](http://beta.monarchinitiative.org/disease/MESH:C565803)
-    * Syn: "CARNEY TRIAD"
-    * Syn: "Gastric Leiomyosarcoma, Pulmonary Chondroma, and Extraadrenal Paraganglioma"
-
 ### GASTROINTESTINAL STROMAL TUMOR
  * [OMIM:606764 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/OMIM:606764) Confidence: high
     * Equiv:[DOID:9253 gastrointestinal stromal tumor](http://beta.monarchinitiative.org/disease/DOID:9253)
@@ -21,8 +14,15 @@
     * Syn: "GIST"
     * Syn: "Stromal tumor of gastrointestinal tract"
 
-### Neoplastic Syndromes, Hereditary
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+### Phaeochromocytoma
+ * [DOID:0050771 phaeochromocytoma](http://beta.monarchinitiative.org/disease/DOID:0050771) Confidence: high
+
+### Carney triad
+ * [OMIM:604287 Carney triad](http://beta.monarchinitiative.org/disease/OMIM:604287) Confidence: high
+    * Equiv:[Orphanet:139411 Carney triad](http://beta.monarchinitiative.org/disease/Orphanet:139411)
+    * Equiv:[MESH:C565803 Carney Triad](http://beta.monarchinitiative.org/disease/MESH:C565803)
+    * Syn: "CARNEY TRIAD"
+    * Syn: "Gastric Leiomyosarcoma, Pulmonary Chondroma, and Extraadrenal Paraganglioma"
 
 ### PARAGANGLIOMA AND GASTRIC STROMAL SARCOMA
  * [OMIM:606864 Carney-Stratakis syndrome](http://beta.monarchinitiative.org/disease/OMIM:606864) Confidence: medium
@@ -35,8 +35,8 @@
 ### PARAGANGLIOMAS 3
  * [MESH:C565335 Paragangliomas 3](http://beta.monarchinitiative.org/disease/MESH:C565335) Confidence: high
 
+### Neoplastic Syndromes, Hereditary
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+
 ### Paragangliomas 3
  * [MESH:C565335 Paragangliomas 3](http://beta.monarchinitiative.org/disease/MESH:C565335) Confidence: high
-
-### Phaeochromocytoma
- * [DOID:0050771 phaeochromocytoma](http://beta.monarchinitiative.org/disease/DOID:0050771) Confidence: high

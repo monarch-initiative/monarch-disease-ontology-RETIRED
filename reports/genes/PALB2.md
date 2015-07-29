@@ -5,6 +5,19 @@
 [matched diseases visual](PALB2.png)  <-- click on raw to zoom
 
 
+### FANCONI ANEMIA, COMPLEMENTATION GROUP N
+ * [OMIM:610832 Fanconi Anemia, Complementation Group N](http://beta.monarchinitiative.org/disease/OMIM:610832) Confidence: high
+    * Equiv:[MESH:C563657 Fanconi Anemia, Complementation Group N](http://beta.monarchinitiative.org/disease/MESH:C563657)
+    * Syn: "FANCN"
+    * Syn: "FANCONI ANEMIA, COMPLEMENTATION GROUP N; FANCN"
+
+### Familial cancer of breast
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
+
 ### BREAST CANCER, SUSCEPTIBILITY TO
  * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.15625
     * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
@@ -20,19 +33,6 @@
     * Syn: "carcinoma of breast (disorder)"
     * Syn: "carcinoma of breast NOS (disorder)"
     * Syn: "Mammary carcinoma"
-
-### FANCONI ANEMIA, COMPLEMENTATION GROUP N
- * [OMIM:610832 Fanconi Anemia, Complementation Group N](http://beta.monarchinitiative.org/disease/OMIM:610832) Confidence: high
-    * Equiv:[MESH:C563657 Fanconi Anemia, Complementation Group N](http://beta.monarchinitiative.org/disease/MESH:C563657)
-    * Syn: "FANCN"
-    * Syn: "FANCONI ANEMIA, COMPLEMENTATION GROUP N; FANCN"
-
-### Familial cancer of breast
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
-    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
-    * Syn: "BREAST CANCER"
-    * Syn: "Breast Cancer, Familial"
-    * Syn: "Breast Cancer, Familial Male"
 
 ### Neoplastic Syndromes, Hereditary
  * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high

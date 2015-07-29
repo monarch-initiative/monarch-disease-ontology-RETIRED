@@ -24,6 +24,12 @@
 ### FOCAL CORTICAL DYSPLASIA OF TAYLOR, TYPE IIB
  * [Orphanet:269008 Isolated focal cortical dysplasia type IIb](http://beta.monarchinitiative.org/disease/Orphanet:269008) Confidence: low/0.12414965986394558
 
+### Neoplastic Syndromes, Hereditary
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+
+### Tuberous sclerosis 1
+ * [MESH:C565346 Tuberous Sclerosis 1](http://beta.monarchinitiative.org/disease/MESH:C565346) Confidence: high
+
 ### LAM
  * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: high
     * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
@@ -48,8 +54,19 @@
     * Syn: "Lymphangiomyomatosis (morphologic abnormality)"
     * Syn: "pulmonary lymphangioleiomyomatosis (disorder)"
 
-### Neoplastic Syndromes, Hereditary
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+### TSC
+
+### LAM
+ * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: high
+    * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
+    * Equiv:[MESH:D018192 Lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/MESH:D018192)
+    * Syn: "LAM"
+    * Syn: "lung lymphangioleiomyomatosis"
+    * Syn: "LYMPHANGIOLEIOMYOMATOSIS; LAM"
+    * Syn: "Lymphangiomyomatosis"
+    * Syn: "lymphangiomyomatosis"
+    * Syn: "Lymphangiomyomatosis (morphologic abnormality)"
+    * Syn: "pulmonary lymphangioleiomyomatosis (disorder)"
 
 ### TSC
 

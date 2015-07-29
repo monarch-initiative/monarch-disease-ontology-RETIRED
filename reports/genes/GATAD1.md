@@ -9,3 +9,13 @@
  * [OMIM:614672 Cardiomyopathy, Dilated, 2B](http://beta.monarchinitiative.org/disease/OMIM:614672) Confidence: low/0.15625
     * Syn: "CARDIOMYOPATHY, DILATED, 2B; CMD2B"
     * Syn: "CMD2B"
+
+### Cardiomyopathy
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"
+
+### Cardiomyopathy
+ * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
+    * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Syn: "Cardiomyopathies"

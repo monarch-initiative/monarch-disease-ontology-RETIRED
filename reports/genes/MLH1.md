@@ -5,38 +5,11 @@
 [matched diseases visual](MLH1.png)  <-- click on raw to zoom
 
 
-### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 2
- * [OMIM:609310 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/OMIM:609310) Confidence: low/0.1989795918367347
-    * Equiv:[MESH:D055847 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/MESH:D055847)
-    * Syn: "Coca2"
-    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 2"
-    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 2; HNPCC2"
-    * Syn: "HNPCC2"
-
-### COLORECTAL CANCER, SPORADIC, SUSCEPTIBILITY TO
- * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162) Confidence: low/0.13
-    * Syn: "malignant neoplasm"
-    * Syn: "malignant tumor "
-    * Syn: "primary cancer"
-
-### Colorectal cancer, non-polyposis
- * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
-    * Syn: "Colon Cancer"
-    * Syn: "COLORECTAL CANCER; CRC"
-    * Syn: "CRC"
-
-### Endometrial cancer
- * [DOID:1380 endometrial cancer](http://beta.monarchinitiative.org/disease/DOID:1380) Confidence: high
-    * Syn: "endometrial Ca"
-    * Syn: "endometrial neoplasm"
-    * Syn: "malignant endometrial neoplasm"
-    * Syn: "malignant neoplasm of endometrium"
-    * Syn: "neoplasm of endometrium (disorder)"
-    * Syn: "primary malignant neoplasm of endometrium"
-    * Syn: "tumor of Endometrium"
-
 ### Hereditary non-polyposis colon cancer
  * [Orphanet:144 Hereditary nonpolyposis colon cancer](http://beta.monarchinitiative.org/disease/Orphanet:144) Confidence: high
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### Lynch Syndrome
  * [DOID:3883 Lynch syndrome](http://beta.monarchinitiative.org/disease/DOID:3883) Confidence: high
@@ -65,6 +38,35 @@
     * Syn: "Lynch Syndrome 2"
     * Syn: "LYNCH SYNDROME I"
 
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 2
+ * [OMIM:609310 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/OMIM:609310) Confidence: low/0.1989795918367347
+    * Equiv:[MESH:D055847 Lynch Syndrome II](http://beta.monarchinitiative.org/disease/MESH:D055847)
+    * Syn: "Coca2"
+    * Syn: "Colon Cancer, Familial Nonpolyposis, Type 2"
+    * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 2; HNPCC2"
+    * Syn: "HNPCC2"
+
+### COLORECTAL CANCER, SPORADIC, SUSCEPTIBILITY TO
+ * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162) Confidence: low/0.13
+    * Syn: "malignant neoplasm"
+    * Syn: "malignant tumor "
+    * Syn: "primary cancer"
+
 ### MISMATCH REPAIR CANCER SYNDROME
  * [OMIM:276300 Turcot syndrome](http://beta.monarchinitiative.org/disease/OMIM:276300) Confidence: low/0.18000000000000002
     * Equiv:[MESH:C536928 Turcot syndrome](http://beta.monarchinitiative.org/disease/MESH:C536928)
@@ -85,6 +87,34 @@
     * Syn: "Cutaneous Sebaceous Neoplasms and Keratoacanthomas, Multiple, With Gastrointestinal and Other Carcinomas"
     * Syn: "MRTES"
     * Syn: "MUIR-TORRE SYNDROME; MRTES"
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+ * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
+
+### Colorectal cancer, non-polyposis
+ * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
+    * Syn: "Colon Cancer"
+    * Syn: "COLORECTAL CANCER; CRC"
+    * Syn: "CRC"
+
+### Endometrial cancer
+ * [DOID:1380 endometrial cancer](http://beta.monarchinitiative.org/disease/DOID:1380) Confidence: high
+    * Syn: "endometrial Ca"
+    * Syn: "endometrial neoplasm"
+    * Syn: "malignant endometrial neoplasm"
+    * Syn: "malignant neoplasm of endometrium"
+    * Syn: "neoplasm of endometrium (disorder)"
+    * Syn: "primary malignant neoplasm of endometrium"
+    * Syn: "tumor of Endometrium"
 
 ### Neoplastic Syndromes, Hereditary
  * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high

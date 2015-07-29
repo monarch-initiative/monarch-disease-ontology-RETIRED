@@ -5,9 +5,6 @@
 [matched diseases visual](TGFBR2.png)  <-- click on raw to zoom
 
 
-### Aortic aneurysm, thoracic
- * [DOID:14004 thoracic aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:14004) Confidence: high
-
 ### COLON CANCER, HEREDITARY NONPOLYPOSIS, TYPE 6, SOMATIC
  * [OMIM:614331 Colorectal Cancer, Hereditary Nonpolyposis, Type 6](http://beta.monarchinitiative.org/disease/OMIM:614331) Confidence: low/0.15306122448979592
     * Equiv:[MESH:C566039 Colorectal Cancer, Hereditary Nonpolyposis, Type 6](http://beta.monarchinitiative.org/disease/MESH:C566039)
@@ -21,6 +18,15 @@
     * Syn: "Colon Cancer, Hereditary Nonpolyposis, Type 6"
     * Syn: "COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 6; HNPCC6"
     * Syn: "HNPCC6"
+
+### Loeys-Dietz Syndrome
+ * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
+
+### Loeys-Dietz syndrome, type 2
+ * [MESH:C567156 Loeys-Dietz Syndrome, Type 2A](http://beta.monarchinitiative.org/disease/MESH:C567156) Confidence: low/0.19097222222222224
+
+### Aortic aneurysm, thoracic
+ * [DOID:14004 thoracic aortic aneurysm](http://beta.monarchinitiative.org/disease/DOID:14004) Confidence: high
 
 ### ESOPHAGEAL CANCER, SOMATIC
  * [OMIM:133239 Esophageal squamous cell carcinoma](http://beta.monarchinitiative.org/disease/OMIM:133239) Confidence: low/0.18055555555555555
@@ -56,6 +62,36 @@
 ### Loeys-Dietz Syndrome
  * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
 
+### Marfan syndrome
+ * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high
+    * Syn: "Marfan's syndrome"
+
+### Familial Thoracic Aortic Aneurysm
+ * [OMIM:607086 Aortic Aneurysm, Thoracic](http://beta.monarchinitiative.org/disease/OMIM:607086) Confidence: high
+    * Equiv:[MESH:C562834 Aortic Aneurysm, Familial Thoracic 1](http://beta.monarchinitiative.org/disease/MESH:C562834)
+    * Equiv:[MESH:D017545 Aortic Aneurysm, Thoracic](http://beta.monarchinitiative.org/disease/MESH:D017545)
+    * Syn: "AAT1"
+    * Syn: "Aneurysm, Thoracic Aortic"
+    * Syn: "Annuloaortic Ectasia"
+    * Syn: "Aortic Aneurysm, Familial Thoracic"
+    * Syn: "AORTIC ANEURYSM, FAMILIAL THORACIC 1; AAT1"
+    * Syn: "Aortic Dissection, Familial"
+    * Syn: "Erdheim Cystic Medial Necrosis of Aorta"
+    * Syn: "Faa1"
+
+### Familial Thoracic Aortic Aneurysm
+ * [OMIM:607086 Aortic Aneurysm, Thoracic](http://beta.monarchinitiative.org/disease/OMIM:607086) Confidence: high
+    * Equiv:[MESH:C562834 Aortic Aneurysm, Familial Thoracic 1](http://beta.monarchinitiative.org/disease/MESH:C562834)
+    * Equiv:[MESH:D017545 Aortic Aneurysm, Thoracic](http://beta.monarchinitiative.org/disease/MESH:D017545)
+    * Syn: "AAT1"
+    * Syn: "Aneurysm, Thoracic Aortic"
+    * Syn: "Annuloaortic Ectasia"
+    * Syn: "Aortic Aneurysm, Familial Thoracic"
+    * Syn: "AORTIC ANEURYSM, FAMILIAL THORACIC 1; AAT1"
+    * Syn: "Aortic Dissection, Familial"
+    * Syn: "Erdheim Cystic Medial Necrosis of Aorta"
+    * Syn: "Faa1"
+
 ### Loeys-Dietz aortic aneurysm syndrome
  * [OMIM:609192 Furlong syndrome](http://beta.monarchinitiative.org/disease/OMIM:609192) Confidence: high
     * Equiv:[MESH:C538192 Furlong syndrome](http://beta.monarchinitiative.org/disease/MESH:C538192)
@@ -68,9 +104,6 @@
 
 ### Loeys-Dietz syndrome
  * [DOID:0050466 Loeys-Dietz syndrome](http://beta.monarchinitiative.org/disease/DOID:0050466) Confidence: high
-
-### Loeys-Dietz syndrome, type 2
- * [MESH:C567156 Loeys-Dietz Syndrome, Type 2A](http://beta.monarchinitiative.org/disease/MESH:C567156) Confidence: low/0.19097222222222224
 
 ### Marfan syndrome
  * [DOID:14323 Marfan syndrome](http://beta.monarchinitiative.org/disease/DOID:14323) Confidence: high

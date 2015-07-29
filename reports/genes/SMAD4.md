@@ -5,19 +5,7 @@
 [matched diseases visual](SMAD4.png)  <-- click on raw to zoom
 
 
-### Gastrointestinal polyposis
- * [DC:0000587 Polyposis](http://beta.monarchinitiative.org/disease/DC:0000587) Confidence: low/0.15625
-
 ### JP and JP/HHT
- * [OMIM:187300 Telangiectasia, Hereditary Hemorrhagic](http://beta.monarchinitiative.org/disease/OMIM:187300) Confidence: low/0.1328125
-    * Equiv:[MESH:D013683 Telangiectasia, Hereditary Hemorrhagic](http://beta.monarchinitiative.org/disease/MESH:D013683)
-    * Syn: "HHT"
-    * Syn: "Orw Disease"
-    * Syn: "Osler-Rendu-Weber Disease"
-    * Syn: "TELANGIECTASIA, HEREDITARY HEMORRHAGIC, OF RENDU, OSLER, AND WEBER; HHT"
-    * Syn: "Telangiectasia, Hereditary Hemorrhagic, Type 1"
-
-### JP, JP/HHT, and HHT
  * [OMIM:187300 Telangiectasia, Hereditary Hemorrhagic](http://beta.monarchinitiative.org/disease/OMIM:187300) Confidence: low/0.1328125
     * Equiv:[MESH:D013683 Telangiectasia, Hereditary Hemorrhagic](http://beta.monarchinitiative.org/disease/MESH:D013683)
     * Syn: "HHT"
@@ -65,6 +53,9 @@
 ### Juvenile polyposis syndrome
  * [DOID:0050787 juvenile polyposis syndrome](http://beta.monarchinitiative.org/disease/DOID:0050787) Confidence: high
 
+### Neoplastic Syndromes, Hereditary
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+
 ### MYHRE SYNDROME
  * [OMIM:139210 Myhre syndrome](http://beta.monarchinitiative.org/disease/OMIM:139210) Confidence: high
     * Equiv:[Orphanet:2588 Myhre syndrome](http://beta.monarchinitiative.org/disease/Orphanet:2588)
@@ -74,8 +65,17 @@
     * Syn: "MYHRE SYNDROME; MYHRS"
     * Syn: "MYHRS"
 
-### Neoplastic Syndromes, Hereditary
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+### Gastrointestinal polyposis
+ * [DC:0000587 Polyposis](http://beta.monarchinitiative.org/disease/DC:0000587) Confidence: low/0.15625
+
+### JP, JP/HHT, and HHT
+ * [OMIM:187300 Telangiectasia, Hereditary Hemorrhagic](http://beta.monarchinitiative.org/disease/OMIM:187300) Confidence: low/0.1328125
+    * Equiv:[MESH:D013683 Telangiectasia, Hereditary Hemorrhagic](http://beta.monarchinitiative.org/disease/MESH:D013683)
+    * Syn: "HHT"
+    * Syn: "Orw Disease"
+    * Syn: "Osler-Rendu-Weber Disease"
+    * Syn: "TELANGIECTASIA, HEREDITARY HEMORRHAGIC, OF RENDU, OSLER, AND WEBER; HHT"
+    * Syn: "Telangiectasia, Hereditary Hemorrhagic, Type 1"
 
 ### PANCREATIC CARCINOMA, SOMATIC
  * [DOID:305 carcinoma](http://beta.monarchinitiative.org/disease/DOID:305) Confidence: low/0.1388888888888889

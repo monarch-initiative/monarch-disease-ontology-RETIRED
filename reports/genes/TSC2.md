@@ -17,6 +17,18 @@
     * Syn: "Atrial Septal Defect, Primum Type"
     * Syn: "Atrial Septal Defect, Secundum Type"
 
+### LYMPHANGIOLEIOMYOMATOSIS, SOMATIC
+ * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: low/0.09375
+    * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
+    * Equiv:[MESH:D018192 Lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/MESH:D018192)
+    * Syn: "LAM"
+    * Syn: "lung lymphangioleiomyomatosis"
+    * Syn: "LYMPHANGIOLEIOMYOMATOSIS; LAM"
+    * Syn: "Lymphangiomyomatosis"
+    * Syn: "lymphangiomyomatosis"
+    * Syn: "Lymphangiomyomatosis (morphologic abnormality)"
+    * Syn: "pulmonary lymphangioleiomyomatosis (disorder)"
+
 ### Brain tumour
  * [DOID:1319 brain cancer](http://beta.monarchinitiative.org/disease/DOID:1319) Confidence: low/0.1388888888888889
     * Equiv:[MESH:D001932 Brain Neoplasms](http://beta.monarchinitiative.org/disease/MESH:D001932)
@@ -38,29 +50,8 @@
     * Syn: "primary malignant neoplasm of brain (disorder)"
     * Syn: "tumor of the Brain"
 
-### Hirschsprung disease 1
- * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623) Confidence: high
-    * Equiv:[MESH:C538540 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/MESH:C538540)
-    * Syn: "Aganglionic Megacolon"
-    * Syn: "Hirschsprung Disease"
-    * Syn: "HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1; HSCR1"
-    * Syn: "HSCR1"
-    * Syn: "Megacolon, Aganglionic"
-
 ### LAM
  * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: high
-    * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
-    * Equiv:[MESH:D018192 Lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/MESH:D018192)
-    * Syn: "LAM"
-    * Syn: "lung lymphangioleiomyomatosis"
-    * Syn: "LYMPHANGIOLEIOMYOMATOSIS; LAM"
-    * Syn: "Lymphangiomyomatosis"
-    * Syn: "lymphangiomyomatosis"
-    * Syn: "Lymphangiomyomatosis (morphologic abnormality)"
-    * Syn: "pulmonary lymphangioleiomyomatosis (disorder)"
-
-### LYMPHANGIOLEIOMYOMATOSIS, SOMATIC
- * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: low/0.09375
     * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
     * Equiv:[MESH:D018192 Lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/MESH:D018192)
     * Syn: "LAM"
@@ -84,6 +75,39 @@
     * Syn: "Tsc2 Angiomyolipomas, Renal, Modifier of"
     * Syn: "TUBEROUS SCLEROSIS 2; TSC2"
 
+### Tuberous sclerosis and lymphangiomyomatosis
+ * [DOID:13515 tuberous sclerosis](http://beta.monarchinitiative.org/disease/DOID:13515) Confidence: low/0.15625
+    * Equiv:[MESH:D014402 Tuberous Sclerosis](http://beta.monarchinitiative.org/disease/MESH:D014402)
+    * Syn: "Bourneville's disease"
+    * Syn: "cerebral sclerosis"
+    * Syn: "Epiloia"
+    * Syn: "Tuberose sclerosis"
+    * Syn: "Tuberous sclerosis"
+    * Syn: "Tuberous sclerosis syndrome (disorder)"
+
+### Hirschsprung disease 1
+ * [OMIM:142623 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/OMIM:142623) Confidence: high
+    * Equiv:[MESH:C538540 Hirschsprung disease 1](http://beta.monarchinitiative.org/disease/MESH:C538540)
+    * Syn: "Aganglionic Megacolon"
+    * Syn: "Hirschsprung Disease"
+    * Syn: "HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1; HSCR1"
+    * Syn: "HSCR1"
+    * Syn: "Megacolon, Aganglionic"
+
+### LAM
+ * [OMIM:606690 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/OMIM:606690) Confidence: high
+    * Equiv:[DOID:3319 lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/DOID:3319)
+    * Equiv:[MESH:D018192 Lymphangioleiomyomatosis](http://beta.monarchinitiative.org/disease/MESH:D018192)
+    * Syn: "LAM"
+    * Syn: "lung lymphangioleiomyomatosis"
+    * Syn: "LYMPHANGIOLEIOMYOMATOSIS; LAM"
+    * Syn: "Lymphangiomyomatosis"
+    * Syn: "lymphangiomyomatosis"
+    * Syn: "Lymphangiomyomatosis (morphologic abnormality)"
+    * Syn: "pulmonary lymphangioleiomyomatosis (disorder)"
+
+### TSC
+
 ### Tuberous sclerosis
  * [DOID:13515 tuberous sclerosis](http://beta.monarchinitiative.org/disease/DOID:13515) Confidence: high
     * Equiv:[MESH:D014402 Tuberous Sclerosis](http://beta.monarchinitiative.org/disease/MESH:D014402)
@@ -94,12 +118,10 @@
     * Syn: "Tuberous sclerosis"
     * Syn: "Tuberous sclerosis syndrome (disorder)"
 
-### Tuberous sclerosis and lymphangiomyomatosis
- * [DOID:13515 tuberous sclerosis](http://beta.monarchinitiative.org/disease/DOID:13515) Confidence: low/0.15625
-    * Equiv:[MESH:D014402 Tuberous Sclerosis](http://beta.monarchinitiative.org/disease/MESH:D014402)
-    * Syn: "Bourneville's disease"
-    * Syn: "cerebral sclerosis"
-    * Syn: "Epiloia"
-    * Syn: "Tuberose sclerosis"
-    * Syn: "Tuberous sclerosis"
-    * Syn: "Tuberous sclerosis syndrome (disorder)"
+### Tuberous sclerosis 2
+ * [OMIM:613254 Tuberous Sclerosis 2](http://beta.monarchinitiative.org/disease/OMIM:613254) Confidence: high
+    * Equiv:[MESH:C566021 Tuberous Sclerosis 2](http://beta.monarchinitiative.org/disease/MESH:C566021)
+    * Equiv:[MESH:C567682 Tsc2 Angiomyolipomas, Renal, Modifier Of](http://beta.monarchinitiative.org/disease/MESH:C567682)
+    * Syn: "TSC2"
+    * Syn: "Tsc2 Angiomyolipomas, Renal, Modifier of"
+    * Syn: "TUBEROUS SCLEROSIS 2; TSC2"

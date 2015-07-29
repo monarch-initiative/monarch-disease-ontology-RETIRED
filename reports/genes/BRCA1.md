@@ -5,10 +5,6 @@
 [matched diseases visual](BRCA1.png)  <-- click on raw to zoom
 
 
-### BRCA1 and BRCA2 Hereditary Breast and Ovarian Cancer
- * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683) Confidence: low/0.16581632653061223
-    * Equiv:[MESH:D061325 Hereditary Breast and Ovarian Cancer Syndrome](http://beta.monarchinitiative.org/disease/MESH:D061325)
-
 ### BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 1
  * [OMIM:604370 Breast-Ovarian Cancer, Familial, Susceptibility To, 1](http://beta.monarchinitiative.org/disease/OMIM:604370) Confidence: high
     * Syn: "Breast Cancer, Familial, Susceptibility To, 1"
@@ -16,57 +12,12 @@
     * Syn: "BROVCA1"
     * Syn: "Ovarian Cancer, Familial, Susceptibility To, 1"
 
-### Breast and colorectal cancer
- * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
-    * Syn: "Colon Cancer"
-    * Syn: "COLORECTAL CANCER; CRC"
-    * Syn: "CRC"
-
-### Breast and/or ovarian cancer
- * [OMIM:167000 Ovarian Cancer](http://beta.monarchinitiative.org/disease/OMIM:167000) Confidence: low/0.1388888888888889
-    * Syn: "OVARIAN CANCER"
-    * Syn: "Ovarian Cancer, Epithelial"
-
-### Breast cancer
- * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612) Confidence: high
-    * Syn: "breast tumor"
-    * Syn: "malignant neoplasm of breast"
-    * Syn: "malignant tumor of the breast"
-    * Syn: "mammary cancer"
-    * Syn: "mammary neoplasm"
-    * Syn: "mammary tumor"
-    * Syn: "primary breast cancer"
-
 ### Breast-ovarian cancer, familial
  * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.1953125
     * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
     * Syn: "BREAST CANCER"
     * Syn: "Breast Cancer, Familial"
     * Syn: "Breast Cancer, Familial Male"
-
-### Breast-ovarian cancer, familial 1
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.16999999999999998
-    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
-    * Syn: "BREAST CANCER"
-    * Syn: "Breast Cancer, Familial"
-    * Syn: "Breast Cancer, Familial Male"
-
-### Familial Breast cancer
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
-    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
-    * Syn: "BREAST CANCER"
-    * Syn: "Breast Cancer, Familial"
-    * Syn: "Breast Cancer, Familial Male"
-
-### Familial cancer of breast
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
-    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
-    * Syn: "BREAST CANCER"
-    * Syn: "Breast Cancer, Familial"
-    * Syn: "Breast Cancer, Familial Male"
-
-### Neoplastic Syndromes, Hereditary
- * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
 
 ### Ovarian cancer
  * [DOID:2394 ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:2394) Confidence: high
@@ -90,6 +41,34 @@
     * Syn: "PANCREATIC CANCER, SUSCEPTIBILITY TO, 4; PNCA4"
     * Syn: "PNCA4"
 
+### Familial Breast cancer
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
+
+### Breast and colorectal cancer
+ * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.15625
+    * Syn: "Colon Cancer"
+    * Syn: "COLORECTAL CANCER; CRC"
+    * Syn: "CRC"
+
+### Breast and/or ovarian cancer
+ * [OMIM:167000 Ovarian Cancer](http://beta.monarchinitiative.org/disease/OMIM:167000) Confidence: low/0.1388888888888889
+    * Syn: "OVARIAN CANCER"
+    * Syn: "Ovarian Cancer, Epithelial"
+
+### Familial cancer of breast
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
+
+### Neoplastic Syndromes, Hereditary
+ * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+
 ### Prostate cancer
  * [DOID:10283 prostate cancer](http://beta.monarchinitiative.org/disease/DOID:10283) Confidence: high
     * Syn: "hereditary prostate cancer"
@@ -100,6 +79,34 @@
     * Syn: "prostatic cancer"
     * Syn: "prostatic neoplasm"
     * Syn: "tumor of the prostate"
+
+### BRCA1 and BRCA2 Hereditary Breast and Ovarian Cancer
+ * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683) Confidence: low/0.16581632653061223
+    * Equiv:[MESH:D061325 Hereditary Breast and Ovarian Cancer Syndrome](http://beta.monarchinitiative.org/disease/MESH:D061325)
+
+### Breast cancer
+ * [DOID:1612 breast cancer](http://beta.monarchinitiative.org/disease/DOID:1612) Confidence: high
+    * Syn: "breast tumor"
+    * Syn: "malignant neoplasm of breast"
+    * Syn: "malignant tumor of the breast"
+    * Syn: "mammary cancer"
+    * Syn: "mammary neoplasm"
+    * Syn: "mammary tumor"
+    * Syn: "primary breast cancer"
+
+### Breast-ovarian cancer, familial 1
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.16999999999999998
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
+
+### Breast-ovarian cancer, familial, 1
+ * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.16999999999999998
+    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+    * Syn: "BREAST CANCER"
+    * Syn: "Breast Cancer, Familial"
+    * Syn: "Breast Cancer, Familial Male"
 
 ### hereditary breast and ovarian cancer, BROVCA1
  * [DOID:5683 hereditary breast ovarian cancer](http://beta.monarchinitiative.org/disease/DOID:5683) Confidence: low/0.18055555555555555

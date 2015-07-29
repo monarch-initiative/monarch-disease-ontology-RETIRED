@@ -297,7 +297,7 @@ mondo.owl: mondo.obo equiv_axioms.owl
 	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
 
 mondoe.obo: mondo.owl
-	owltools $< -o -f obo $@
+	owltools $< -o -f obo --no-check $@
 
 ordo_leaves_rest.obo: ordo_leaves.obo mondo.obo 
 	obo-subtract.pl $^ > $@.tmp && mv $@.tmp $@
