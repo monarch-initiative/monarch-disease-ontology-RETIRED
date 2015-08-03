@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 27:07:2015 11:07
+date: 03:08:2015 11:05
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -26067,7 +26067,9 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:601216
-name: Platyspondyly with Amelogenesis Imperfecta
+name: DENTAL ANOMALIES AND SHORT STATURE; DASS
+alt_id: OMIM:613097
+synonym: "Tooth Agenesis, Selective, 6" EXACT []
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
@@ -36773,11 +36775,6 @@ name: Spastic Paraplegia 36, Autosomal Dominant
 is_a: DC:0000410 ! Spastic Paraplegia
 
 [Term]
-id: OMIM:613097
-name: Tooth Agenesis, Selective, 6
-is_a: DC:0000439 ! Tooth Agenesis, Selective
-
-[Term]
 id: OMIM:613099
 name: MELANOMA, CUTANEOUS MALIGNANT, SUSCEPTIBILITY TO, 5
 is_a: DC:0000271 ! Melanoma, Cutaneous Malignant
@@ -42190,8 +42187,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:615486
-name: Infantile Liver Failure Syndrome 2; ILFS2
-is_a: DC:0000134 ! Liver Failure, Infantile
+name: Interstitial Lung and Liver Disease; ILLD
+is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:615489
@@ -44324,7 +44321,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:616420
 name: Leukodystrophy, Hypomyelinating, 10; HLD10
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000245 ! Leukodystrophy, Hypomyelinating
 
 [Term]
 id: OMIM:616421
@@ -44442,7 +44439,72 @@ name: Bethlem Myopathy 2; BTHLM2
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
+id: OMIM:616479
+name: Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Recessive 2; PEOB2
+is_a: DC:0000373 ! Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions
+
+[Term]
+id: OMIM:616481
+name: Ciliary Dyskinesia, Primary, 32; CILD32
+is_a: DC:0000086 ! Ciliary Dyskinesia, Primary
+
+[Term]
 id: OMIM:616482
 name: Achondroplasia, Severe, with Developmental Delay and Acanthosis Nigricans;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616483
+name: Infantile Liver Failure Syndrome 2; ILFS2
+is_a: DC:0000134 ! Liver Failure, Infantile
+
+[Term]
+id: OMIM:616486
+name: Microcephaly 15, Primary, Autosomal Recessive; MCPH15
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616487
+name: Epidermolysis Bullosa Simplex with Nail Dystrophy; EBSND
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616488
+name: Neuropathy, Hereditary Sensory and Autonomic, Type Viii; HSAN8
+is_a: DC:0000323 ! Neuropathy, Hereditary Sensory and Autonomic
+
+[Term]
+id: OMIM:616489
+name: Growth Restriction, Severe, with Distinctive Facies; GRDF
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616490
+name: Joubert Syndrome 23; JBTS23
+is_a: DC:0000231 ! Joubert Syndrome
+
+[Term]
+id: OMIM:616491
+name: Charcot-Marie-Tooth Disease, Axonal, Type 2v; CMT2V
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
+id: OMIM:616494
+name: Leukodystrophy, Hypomyelinating, 11; HLD11
+is_a: DC:0000245 ! Leukodystrophy, Hypomyelinating
+
+[Term]
+id: OMIM:616500
+name: Cardioencephalomyopathy, Fatal Infantile, Due to Cytochrome C Oxidase Deficiency 3; CEMCOX3
+is_a: DC:0000488 ! Cardioencephalomyopathy, Fatal Infantile
+
+[Term]
+id: OMIM:616501
+name: Cardioencephalomyopathy, Fatal Infantile, Due to Cytochrome C Oxidase Deficiency 4; CEMCOX4
+is_a: DC:0000488 ! Cardioencephalomyopathy, Fatal Infantile
+
+[Term]
+id: OMIM:616502
+name: Cone-Rod Dystrophy 21; CORD21
 is_a: DC:0000138 ! Disease Cluster
 
