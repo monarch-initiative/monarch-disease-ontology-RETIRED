@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 03:08:2015 11:05
+date: 17:08:2015 10:41
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44507,4 +44507,44 @@ is_a: DC:0000488 ! Cardioencephalomyopathy, Fatal Infantile
 id: OMIM:616502
 name: Cone-Rod Dystrophy 21; CORD21
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616503
+name: Lethal Congenital Contracture Syndrome 9; LCCS9
+is_a: DC:0000241 ! Lethal Congenital Contractural Syndrome
+
+[Term]
+id: OMIM:616505
+name: Neuropathy, Hereditary Motor and Sensory, Type Vib; HMSN6B
+is_a: DC:0000029 ! Neuropathy, Hereditary Motor and Sensory
+
+[Term]
+id: OMIM:616507
+name: Osteogenesis Imperfecta, Type Xvii; OI17
+is_a: DC:0000338 ! Osteogenesis Imperfecta
+
+[Term]
+id: OMIM:616509
+name: Cataract 44; CTRCT44
+is_a: DC:0000070 ! Cataract
+
+[Term]
+id: OMIM:616511
+name: Maturity-Onset Diabetes of the Young, Type 14; MODY14
+is_a: DC:0000119 ! Diabetes, Maturity-Onset of the Young
+
+[Term]
+id: OMIM:616515
+name: Deafness, Autosomal Recessive 104; DFNB104
+is_a: DC:0000110 ! Deafness, Autosomal Recessive
+
+[Term]
+id: OMIM:616516
+name: Emery-Dreifuss Muscular Dystrophy 3, Autosomal Recessive; EDMD3
+is_a: DC:0000132 ! Emery-Dreifuss Muscular Dystrophy
+
+[Term]
+id: OMIM:616517
+name: Achromatopsia 7; ACHM7
+is_a: DC:0000006 ! Achromatopsia
 
