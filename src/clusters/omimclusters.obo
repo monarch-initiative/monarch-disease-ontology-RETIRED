@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 24:08:2015 10:33
+date: 31:08:2015 11:24
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -15096,11 +15096,6 @@ name: Arthrogryposis with Hyperkeratosis
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
-id: OMIM:208200
-name: Arthrogryposis-Like Disorder
-is_a: DC:0000138 ! Disease Cluster
-
-[Term]
 id: OMIM:208230
 name: Arthropathy, progressive pseudorheumatoid, of childhood
 is_a: DC:0000138 ! Disease Cluster
@@ -20030,6 +20025,9 @@ is_a: DC:0000338 ! Osteogenesis Imperfecta
 [Term]
 id: OMIM:259450
 name: Bruck syndrome 1
+alt_id: OMIM:208200
+synonym: "Arthrogryposis-Like Disorder" EXACT []
+is_a: DC:0000138 ! Disease Cluster
 is_a: DC:0000339 ! Bruck Syndrome
 
 [Term]
@@ -44552,4 +44550,9 @@ is_a: DC:0000132 ! Emery-Dreifuss Muscular Dystrophy
 id: OMIM:616517
 name: Achromatopsia 7; ACHM7
 is_a: DC:0000006 ! Achromatopsia
+
+[Term]
+id: OMIM:616521
+name: Mental Retardation, Autosomal Dominant 39; MRD39
+is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
 
