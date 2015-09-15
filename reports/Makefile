@@ -4,6 +4,12 @@ SRC = rpt_to_pheno_wg_072915.txt
 clingen.pro: $(SRC)
 	unicode-to-ascii  $< | cut -f1,3  | tbl2p -dequote -p g2p > $@
 
+full.pro: rpt_to_pheno_wg_072915.txt 
+	tbl2p -p r7 $< > $@
+
+full_rpt.tsv: full.pro
+	blip-findall -debug matcher -consult matcher.pro -debug index -goal nlp_index_all -u metadata_nlp -i all_labels.pro -r mondoe -i $< -goal write_tbl > $@
+
 # now wrotes to genes/
 rpt: clingen.pro all_labels.pro
 	blip-findall -consult matcher.pro -debug index -goal nlp_index_all -u metadata_nlp -i all_labels.pro -r mondoe -i $< -goal wall > $@

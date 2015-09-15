@@ -10,9 +10,21 @@ open(F,"gzip -dc $PATH/MGCONSO.RRF.gz|") || die;
 while(<F>) {
     chomp;
     my ($CUI, $TS, $STT, $ISPREF, $AUI, $SAUI, $SCUI, $SDUI, $SAB, $TTY, $CODE, $STR, $SUPPRESS) = split(/\|/,$_);
-    #print "$CUI\n";
-    $th{$CUI}->{name} = $STR if $TS eq 'P';  # choose arbitrary
+    if (!$th{$CUI}->{name} || $TS eq 'P') {
+        $th{$CUI}->{name} = $STR;
+    }
+
     my $x = "$SAB:$CODE";
+    if ($SAB eq 'HPO') {
+        $x = $SDUI;
+    }
+    if ($SAB eq 'ORDO') {
+        $x = $SDUI;
+        $x =~ s/_/:/;
+    }
+    if ($x =~ /OMIM:MTHU/) {
+        next;
+    }
     push(@{$th{$CUI}->{synonyms}}, [$STR, $x]);
     $th{$CUI}->{xrefs}->{$x} = 1;
 }
@@ -35,8 +47,10 @@ while(<F>) {
         $SL , # source of relationship label
         $SUPPRESS , # suppressed by UMLS curators
         ) = split(/\|/, $_);
-    $rh{$CUI1}->{$REL}->{$CUI2} = $SL;
-    #print "$CUI1 $REL $CUI2\n";
+    next if $REL eq 'SIB';
+    next if $REL eq 'inverse_isa';
+    my $rn = $RELA ? $RELA : $REL;
+    $rh{$CUI2}->{$rn}->{$CUI1} = $SL;
 }
 close(F);
 
@@ -59,7 +73,16 @@ foreach my $id (@ids) {
     foreach my $rel (keys %{$trelh}) {
         my $vh = $trelh->{$rel};
         foreach my $v (keys %$vh) {
-            print "relationship: $rel $v {source=\"$vh->{$v}\"}\n";
+            unless ($v eq $id) {
+                my $tag = "relationship: $rel";
+                if ($rel eq 'isa') {
+                    $tag = 'is_a:';
+                }
+                if ($rel eq 'mapped_to') {
+                    $tag = 'equivalent_to:';
+                }
+                print "$tag UMLS:$v {source=\"$vh->{$v}\"} ! $th{$v}->{name}\n";
+            }
         }
     }
     print "\n";

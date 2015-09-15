@@ -23,6 +23,33 @@ t(G):-
         wallg(G).
 
 
+write_tbl :-
+        r7(G,G2,CN,CUI,PN,Sub,InG),
+        match_phenotype(CN,Match,MatchName,Conf),
+        findall(Eq-N,
+                (   equivalent_class_symm(Match,Eq),
+                    best_label(Eq,N)),
+                MatchEqs),
+        write_row([G,G2,CN,CUI,PN,Sub,InG,Match,MatchName,Conf,MatchEqs]),
+        fail.
+
+match_phenotype(P,Match,MatchName,Conf) :-
+        \+ is_excluded(P),
+        find(P,Match,Conf),
+        class(Match,MatchName),
+        !.
+match_phenotype(_,'','','') :- !.
+
+write_row(L) :-
+        maplist(mk_atom,L,L2),
+        concat_atom(L2,'\t',Row),
+        writeln(Row).
+
+mk_atom(T,A) :-
+        sformat(A,'~w',[T]).
+
+        
+
 wall :-
         g(G),
         g2fn(G,File),
