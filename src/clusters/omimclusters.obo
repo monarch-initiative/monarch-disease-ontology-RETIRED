@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 31:08:2015 11:24
+date: 15:09:2015 12:53
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -3572,7 +3572,7 @@ creation_date: 2013-09-16T13:09:14Z
 id: DC:0000435
 name: Thyroid Cancer
 comment: OMIM 188550 includes in the description of the different types of thyroid cancer all but 1 of these OMIM IDs. The susceptibility locus points to 188550 for a general description of thyroid cancer.
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 created_by: smb
 creation_date: 2013-09-16T13:09:57Z
 
@@ -5802,6 +5802,14 @@ xref: PS:158810
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2015-07-27T10:56:13Z
+
+[Term]
+id: DC:0000711
+name: Thyroid Cancer, Nonmedullary
+xref: PS:188550
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2015-09-15T11:54:29Z
 
 [Term]
 id: OMIM:100050
@@ -10658,7 +10666,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:155240
 name: Familial medullary thyroid carcinoma
-is_a: DC:0000435 ! Thyroid Cancer
+is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:155255
@@ -13783,7 +13791,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:188470
 name: Thyroid cancer, follicular
-is_a: DC:0000435 ! Thyroid Cancer
+is_a: DC:0000711 ! Thyroid Cancer, Nonmedullary
 
 [Term]
 id: OMIM:188545
@@ -13792,8 +13800,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:188550
-name: Thyroid cancer, papillary
-is_a: DC:0000435 ! Thyroid Cancer
+name: Thyroid cancer, monmedullary, 1
+is_a: DC:0000711 ! Thyroid Cancer, Nonmedullary
 
 [Term]
 id: OMIM:188560
@@ -23509,6 +23517,16 @@ name: Trichothiodystrophy 5, Nonphotosensitive; TTD5
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
+id: OMIM:300957
+name: Mental Retardation, X-Linked 12; MRX12
+is_a: DC:0000656 ! Mental Retardation, X-linked, Nonsyndromic
+
+[Term]
+id: OMIM:300958
+name: Mental Retardation, X-Linked 102; MRX102
+is_a: DC:0000656 ! Mental Retardation, X-linked, Nonsyndromic
+
+[Term]
 id: OMIM:301000
 name: Wiskott-Aldrich Syndrome; WAS
 is_a: DC:0000613 ! Wiskott-Aldrich Syndrome
@@ -29327,8 +29345,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:606240
-name: THYROID CARCINOMA, NONMEDULLARY, SUSCEPTIBILITY TO, 1
-is_a: DC:0000435 ! Thyroid Cancer
+name: Thyroid carcinoma, nonmedullary, 3
+is_a: DC:0000711 ! Thyroid Cancer, Nonmedullary
 
 [Term]
 id: OMIM:606242
@@ -30254,7 +30272,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:607464
 name: Thyroid cancer, Hurthle cell
-is_a: DC:0000435 ! Thyroid Cancer
+is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:607473
@@ -44344,7 +44362,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:616430
 name: Combined Oxidative Phosphorylation Deficiency 25; COXPD25
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
 
 [Term]
 id: OMIM:616433
@@ -44555,4 +44573,49 @@ is_a: DC:0000006 ! Achromatopsia
 id: OMIM:616521
 name: Mental Retardation, Autosomal Dominant 39; MRD39
 is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+
+[Term]
+id: OMIM:616531
+name: Polymicrogyria, Perisylvian, with Cerebellar Hypoplasia and Arthrogryposis;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616532
+name: Herpes Simplex Encephalitis, Susceptibility to, 7
+is_a: DC:0000184 ! Herpes Simplex Encephalitis, Susceptibility
+
+[Term]
+id: OMIM:616534
+name: Thyroid Cancer, Nonmedullary, 4; NMTC4
+is_a: DC:0000711 ! Thyroid Cancer, Nonmedullary
+
+[Term]
+id: OMIM:616535
+name: Thyroid Cancer, Nonmedullary, 5; NMTC5
+is_a: DC:0000711 ! Thyroid Cancer, Nonmedullary
+
+[Term]
+id: OMIM:616538
+name: Muscular Dystrophy-Dystroglycanopathy (congenital with Brain and Eye Anomalies), Type A, 9; MDDGA9
+is_a: DC:0000659 ! Muscular Dystrophy-Dystroglycanopathy, Type A
+
+[Term]
+id: OMIM:616539
+name: Combined Oxidative Phosphorylation Deficiency 26; COXPD26
+is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
+
+[Term]
+id: OMIM:616541
+name: Short Stature, Microcephaly, and Endocrine Dysfunction; SSMED
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616544
+name: Retinitis Pigmentosa 73; RP73
+is_a: DC:0000386 ! Retinitis Pigmentosa
+
+[Term]
+id: OMIM:616546
+name: Short-Rib Thoracic Dysplasia 14 with Polydactyly; SRTD14
+is_a: DC:0000138 ! Disease Cluster
 
