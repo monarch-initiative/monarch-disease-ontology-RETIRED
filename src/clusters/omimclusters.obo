@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 21:09:2015 10:22
+date: 28:09:2015 10:55
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -19135,8 +19135,11 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:251300
-name: Microcephaly, Hiatal Hernia, and Nephrotic Syndrome
+name: Galloway-Mowat Syndrome
+alt_id: OMIM:606937
+synonym: "Spinocerebellar ataxia, autosomal recessive 5" EXACT []
 is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000414 ! Spinocerebellar Ataxia
 
 [Term]
 id: OMIM:251400
@@ -23525,6 +23528,11 @@ is_a: DC:0000656 ! Mental Retardation, X-linked, Nonsyndromic
 id: OMIM:300958
 name: Mental Retardation, X-Linked 102; MRX102
 is_a: DC:0000656 ! Mental Retardation, X-linked, Nonsyndromic
+
+[Term]
+id: OMIM:300960
+name: Mend Syndrome; MEND
+is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:301000
@@ -29817,11 +29825,6 @@ is_a: DC:0000138 ! Disease Cluster
 id: OMIM:606896
 name: DYSLEXIA, SUSCEPTIBILITY TO, 5
 is_a: DC:0000125 ! Dyslexia
-
-[Term]
-id: OMIM:606937
-name: Spinocerebellar ataxia, autosomal recessive 5
-is_a: DC:0000414 ! Spinocerebellar Ataxia
 
 [Term]
 id: OMIM:606943
@@ -44632,4 +44635,34 @@ is_a: DC:0000235 ! Klippel-Feil Syndrome
 id: OMIM:616553
 name: Dyskeratosis Congenita, Autosomal Dominant 6; DKCA6
 is_a: DC:0000124 ! Dyskeratosis Congenita
+
+[Term]
+id: OMIM:616559
+name: Noonan Syndrome 9; NS9
+is_a: DC:0000327 ! Noonan Syndrome
+
+[Term]
+id: OMIM:616562
+name: Retinitis Pigmentosa 74; RP74
+is_a: DC:0000386 ! Retinitis Pigmentosa
+
+[Term]
+id: OMIM:616564
+name: Noonan Syndrome 10; NS10
+is_a: DC:0000327 ! Noonan Syndrome
+
+[Term]
+id: OMIM:616566
+name: Spondylocostal Dysostosis 6, Autosomal Recessive; SCDO6
+is_a: DC:0000418 ! Spondylocostal Dysostosis
+
+[Term]
+id: OMIM:616568
+name: Glioma Susceptibility 9; GLM9
+is_a: DC:0000173 ! Glioma
+
+[Term]
+id: OMIM:616570
+name: Cerebrooculofacioskeletal Syndrome 3; COFS3
+is_a: DC:0000076 ! Cerebrooculofacioskeletal Syndrome
 
