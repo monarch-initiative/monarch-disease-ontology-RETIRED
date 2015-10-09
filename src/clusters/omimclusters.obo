@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 28:09:2015 10:55
+date: 06:10:2015 16:52
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44665,4 +44665,24 @@ is_a: DC:0000173 ! Glioma
 id: OMIM:616570
 name: Cerebrooculofacioskeletal Syndrome 3; COFS3
 is_a: DC:0000076 ! Cerebrooculofacioskeletal Syndrome
+
+[Term]
+id: OMIM:616576
+name: Immunodeficiency, Common Variable, 12; CVID12
+is_a: DC:0000093 ! Immunodeficiency, Common Variable
+
+[Term]
+id: OMIM:616577
+name: Epilepsy, Hearing Loss, and Mental Retardation Syndrome; EHLMRS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616579
+name: Mental Retardation, Autosomal Dominant 40; MRD40
+is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+
+[Term]
+id: OMIM:616583
+name: Spondyloepiphyseal Dysplasia, Stanescu Type; SEDSTN
+is_a: DC:0000420 ! Spondyloepiphyseal Dysplasia
 
