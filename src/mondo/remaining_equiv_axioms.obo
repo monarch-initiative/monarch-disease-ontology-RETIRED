@@ -1,0 +1,6423 @@
+[Term]
+id: DOID:12704 ! ataxia telangiectasia
+equivalent_to: Orphanet:100 ! DISCARD: [] 
+
+[Term]
+id: DOID:4696 ! intraneural perineurioma
+equivalent_to: Orphanet:100003 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060127 ! gamma heavy chain disease
+equivalent_to: Orphanet:100026 ! DISCARD: [] 
+
+[Term]
+id: DOID:9931 ! Waterhouse-Friderichsen syndrome
+equivalent_to: Orphanet:100067 ! DISCARD: [] 
+
+[Term]
+id: DOID:1781 ! thyroid cancer
+equivalent_to: Orphanet:100087 ! DISCARD: [] 
+
+[Term]
+id: DOID:3963 ! thyroid carcinoma
+equivalent_to: Orphanet:100088 ! DISCARD: [] 
+
+[Term]
+id: DOID:3277 ! thymus cancer
+equivalent_to: Orphanet:100100 ! DISCARD: [] 
+
+[Term]
+id: DOID:3133 ! acute porphyria
+equivalent_to: Orphanet:100924 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060162 ! dentatorubral-pallidoluysian atrophy
+equivalent_to: Orphanet:101 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060245 ! Mast syndrome
+equivalent_to: Orphanet:101001 ! DISCARD: [] 
+
+[Term]
+id: DOID:2843 ! long QT syndrome
+equivalent_to: Orphanet:101016 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060022 ! CD40 ligand deficiency
+equivalent_to: Orphanet:101088 ! DISCARD: [DOID:6620] 
+
+[Term]
+id: DOID:3132 ! porphyria cutanea tarda
+equivalent_to: Orphanet:101330 ! DISCARD: [] 
+
+[Term]
+id: DOID:14095 ! boutonneuse fever
+equivalent_to: Orphanet:101334 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050042 ! Indian tick typhus
+equivalent_to: Orphanet:101335 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14095 ! boutonneuse fever
+equivalent_to: Orphanet:101336 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14095 ! boutonneuse fever
+equivalent_to: Orphanet:101337 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14095 ! boutonneuse fever
+equivalent_to: Orphanet:101338 ! DISCARD: [] 
+
+[Term]
+id: DOID:5614 ! eye disease
+equivalent_to: Orphanet:101435 ! DISCARD: [] 
+
+[Term]
+id: DOID:9741 ! biliary tract disease
+equivalent_to: Orphanet:101941 ! DISCARD: [] 
+
+[Term]
+id: DOID:9351 ! diabetes mellitus
+equivalent_to: Orphanet:101952 ! DISCARD: [] 
+
+[Term]
+id: DOID:3146 ! lipid metabolism disorder
+equivalent_to: Orphanet:101953 ! DISCARD: [] 
+
+[Term]
+id: DOID:7166 ! thyroiditis
+equivalent_to: Orphanet:101955 ! DISCARD: [] 
+
+[Term]
+id: DOID:628 ! combined T cell and B cell immunodeficiency
+equivalent_to: Orphanet:101972 ! DISCARD: [] 
+
+[Term]
+id: DOID:612 ! primary immunodeficiency disease
+equivalent_to: Orphanet:101997 ! DISCARD: [] 
+
+[Term]
+id: DOID:1826 ! epilepsy syndrome
+equivalent_to: Orphanet:101998 ! DISCARD: [] 
+
+[Term]
+id: DOID:4752 ! multiple system atrophy
+equivalent_to: Orphanet:102 ! DISCARD: [] 
+
+[Term]
+id: DOID:480 ! movement disease
+equivalent_to: Orphanet:102003 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050453 ! lissencephaly
+equivalent_to: Orphanet:102009 ! DISCARD: [] 
+
+[Term]
+id: DOID:5723 ! optic atrophy
+equivalent_to: Orphanet:103 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050646 ! distal arthrogryposis
+equivalent_to: Orphanet:1037 ! DISCARD: [] 
+
+[Term]
+id: DOID:705 ! leber hereditary optic neuropathy
+equivalent_to: Orphanet:104 ! DISCARD: [] 
+
+[Term]
+id: DOID:10605 ! short bowel syndrome
+equivalent_to: Orphanet:104008 ! DISCARD: [] 
+
+[Term]
+id: DOID:10155 ! intestinal cancer
+equivalent_to: Orphanet:104011 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050589 ! inflammatory bowel disease
+equivalent_to: Orphanet:104012 ! DISCARD: [] 
+
+[Term]
+id: DOID:5271 ! small intestine leiomyosarcoma
+equivalent_to: Orphanet:104076 ! DISCARD: [] 
+
+[Term]
+id: DOID:8955 ! sideroblastic anemia
+equivalent_to: Orphanet:1047 ! DISCARD: [] 
+
+[Term]
+id: DC:0000564 ! Mosaic Variegated Aneuploidy Syndrome
+equivalent_to: Orphanet:1052 ! DISCARD: [] 
+
+[Term]
+id: DOID:12849 ! autistic disorder
+equivalent_to: Orphanet:106 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060232 ! branchiootic syndrome
+equivalent_to: Orphanet:107 ! DISCARD: [] 
+
+[Term]
+id: DOID:9643 ! babesiosis
+equivalent_to: Orphanet:108 ! DISCARD: [] 
+
+[Term]
+id: DOID:2355 ! anemia
+equivalent_to: Orphanet:108997 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050657 ! Bannayan-Riley-Ruvalcaba syndrome
+equivalent_to: Orphanet:109 ! DISCARD: [] 
+
+[Term]
+id: DOID:1935 ! Bardet-Biedl syndrome
+equivalent_to: Orphanet:110 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050476 ! Barth syndrome
+equivalent_to: Orphanet:111 ! DISCARD: [] 
+
+[Term]
+id: DOID:445 ! Bartter disease
+equivalent_to: Orphanet:112 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050646 ! distal arthrogryposis
+equivalent_to: Orphanet:1147 ! DISCARD: [] 
+
+[Term]
+id: DOID:5572 ! Beckwith-Wiedemann syndrome
+equivalent_to: Orphanet:116 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050432 ! Asperger syndrome
+equivalent_to: Orphanet:1162 ! DISCARD: [] 
+
+[Term]
+id: DOID:13564 ! aspergillosis
+equivalent_to: Orphanet:1163 ! DISCARD: [] 
+
+[Term]
+id: DOID:13166 ! allergic bronchopulmonary aspergillosis
+equivalent_to: Orphanet:1164 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050754 ! ataxia with oculomotor apraxia type 1
+equivalent_to: Orphanet:1168 ! DISCARD: [] 
+
+[Term]
+id: DOID:5295 ! intestinal disease
+equivalent_to: Orphanet:117569 ! DISCARD: [] 
+
+[Term]
+id: DOID:3633 ! beta-mannosidosis
+equivalent_to: Orphanet:118 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050556 ! infantile onset spinocerebellar ataxia
+equivalent_to: Orphanet:1186 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050647 ! Arts syndrome
+equivalent_to: Orphanet:1187 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060331 ! mitochondrial complex V (ATP synthase) deficiency nuclear type 2
+equivalent_to: Orphanet:1194 ! DISCARD: [] 
+
+[Term]
+id: DOID:10485 ! esophageal atresia
+equivalent_to: Orphanet:1199 ! DISCARD: [] 
+
+[Term]
+id: DOID:12386 ! balantidiasis
+equivalent_to: Orphanet:1223 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050654 ! Baller-Gerold syndrome
+equivalent_to: Orphanet:1225 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050655 ! Bamforth-Lazarus syndrome
+equivalent_to: Orphanet:1226 ! DISCARD: [] 
+
+[Term]
+id: DOID:1339 ! Diamond-Blackfan anemia
+equivalent_to: Orphanet:124 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050661 ! vitelliform macular dystrophy
+equivalent_to: Orphanet:1243 ! DISCARD: [] 
+
+[Term]
+id: DOID:1395 ! schistosomiasis
+equivalent_to: Orphanet:1247 ! DISCARD: [] 
+
+[Term]
+id: DOID:2717 ! bloom syndrome
+equivalent_to: Orphanet:125 ! DISCARD: [] 
+
+[Term]
+id: DOID:14778 ! blepharophimosis, ptosis, and epicanthus inversus syndrome
+equivalent_to: Orphanet:126 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050680 ! Boomerang dysplasia
+equivalent_to: Orphanet:1263 ! DISCARD: [] 
+
+[Term]
+id: DOID:11976 ! botulism
+equivalent_to: Orphanet:1267 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050681 ! Borjeson-Forssman-Lehmann syndrome
+equivalent_to: Orphanet:127 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050684 ! Bowen-Conradi syndrome
+equivalent_to: Orphanet:1270 ! DISCARD: [] 
+
+[Term]
+id: DOID:10075 ! diphyllobothriasis
+equivalent_to: Orphanet:128 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050690 ! brachyolmia
+equivalent_to: Orphanet:1293 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050691 ! branchiooculofacial syndrome
+equivalent_to: Orphanet:1297 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050451 ! Brugada syndrome
+equivalent_to: Orphanet:130 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050157 ! cryptogenic organizing pneumonia
+equivalent_to: Orphanet:1302 ! DISCARD: [] 
+
+[Term]
+id: DOID:11077 ! brucellosis
+equivalent_to: Orphanet:1304 ! DISCARD: [] 
+
+[Term]
+id: DC:0000679 ! Feingold Syndrome
+equivalent_to: Orphanet:1305 ! DISCARD: [] 
+
+[Term]
+id: DOID:11512 ! hepatic vein thrombosis
+equivalent_to: Orphanet:131 ! DISCARD: [] 
+
+[Term]
+id: DOID:4257 ! Caffey disease
+equivalent_to: Orphanet:1310 ! DISCARD: [] 
+
+[Term]
+id: DOID:4997 ! Camurati-Engelmann disease
+equivalent_to: Orphanet:1328 ! DISCARD: [] 
+
+[Term]
+id: DOID:10283 ! prostate cancer
+equivalent_to: Orphanet:1331 ! DISCARD: [] 
+
+[Term]
+id: DOID:3973 ! thyroid medullary carcinoma
+equivalent_to: Orphanet:1332 ! DISCARD: [] 
+
+[Term]
+id: DOID:1793 ! pancreatic cancer
+equivalent_to: Orphanet:1333 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060233 ! cardiofaciocutaneous syndrome
+equivalent_to: Orphanet:1340 ! DISCARD: [] 
+
+[Term]
+id: DC:0000699 ! Atrial Standstill
+equivalent_to: Orphanet:1344 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050471 ! Carney complex
+equivalent_to: Orphanet:1359 ! DISCARD: [] 
+
+[Term]
+id: DOID:13945 ! cadasil
+equivalent_to: Orphanet:136 ! DISCARD: [] 
+
+[Term]
+id: DOID:5212 ! congenital disorder of glycosylation
+equivalent_to: Orphanet:137 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050639 ! primary cutaneous amyloidosis
+equivalent_to: Orphanet:137807 ! DISCARD: [] 
+
+[Term]
+id: DOID:12156 ! arachnoiditis
+equivalent_to: Orphanet:137817 ! DISCARD: [] 
+
+[Term]
+id: DOID:289 ! endometriosis
+equivalent_to: Orphanet:137820 ! DISCARD: [] 
+
+[Term]
+id: DOID:11337 ! Lemierre's syndrome
+equivalent_to: Orphanet:137839 ! DISCARD: [] 
+
+[Term]
+id: DC:0000475 ! Auriculocondylar Syndrome
+equivalent_to: Orphanet:137888 ! DISCARD: [] 
+
+[Term]
+id: DOID:9574 ! choanal atresia
+equivalent_to: Orphanet:137914 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050834 ! CHARGE syndrome
+equivalent_to: Orphanet:138 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080006 ! bone development disease
+equivalent_to: Orphanet:139012 ! DISCARD: [] 
+
+[Term]
+id: DC:0000583 ! Progeroid Syndrome
+equivalent_to: Orphanet:139033 ! DISCARD: [] 
+
+[Term]
+id: DOID:11824 ! multicentric reticulohistiocytosis
+equivalent_to: Orphanet:139436 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050662 ! bestrophinopathy
+equivalent_to: Orphanet:139455 ! DISCARD: [] 
+
+[Term]
+id: DOID:2352 ! hemochromatosis
+equivalent_to: Orphanet:139498 ! DISCARD: [] 
+
+[Term]
+id: DOID:1386 ! abetalipoproteinemia
+equivalent_to: Orphanet:14 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050463 ! campomelic dysplasia
+equivalent_to: Orphanet:140 ! DISCARD: [] 
+
+[Term]
+id: DOID:2477 ! motor peripheral neuropathy
+equivalent_to: Orphanet:140450 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050548 ! hereditary sensory neuropathy
+equivalent_to: Orphanet:140471 ! DISCARD: [] 
+
+[Term]
+id: DOID:2945 ! severe acute respiratory syndrome
+equivalent_to: Orphanet:140896 ! DISCARD: [] 
+
+[Term]
+id: DOID:4501 ! orofaciodigital syndrome
+equivalent_to: Orphanet:140997 ! DISCARD: [] 
+
+[Term]
+id: DOID:3613 ! Canavan disease
+equivalent_to: Orphanet:141 ! DISCARD: [] 
+
+[Term]
+id: DOID:2907 ! Goldenhar syndrome
+equivalent_to: Orphanet:141136 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050789 ! tarsal-carpal coalition syndrome
+equivalent_to: Orphanet:1412 ! DISCARD: [] 
+
+[Term]
+id: DOID:1156 ! chondrocalcinosis
+equivalent_to: Orphanet:1416 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080026 ! otospondylomegaepiphyseal dysplasia
+equivalent_to: Orphanet:1427 ! DISCARD: [] 
+
+[Term]
+id: DOID:13357 ! chondromalacia patellae
+equivalent_to: Orphanet:1428 ! DISCARD: [] 
+
+[Term]
+id: DOID:12859 ! choreatic disease
+equivalent_to: Orphanet:1429 ! DISCARD: [] 
+
+[Term]
+id: DOID:1540 ! parathyroid carcinoma
+equivalent_to: Orphanet:143 ! DISCARD: [] 
+
+[Term]
+id: DOID:3883 ! Lynch syndrome
+equivalent_to: Orphanet:144 ! DISCARD: [] 
+
+[Term]
+id: DOID:5683 ! hereditary breast ovarian cancer
+equivalent_to: Orphanet:145 ! DISCARD: [] 
+
+[Term]
+id: DOID:13994 ! cleidocranial dysplasia
+equivalent_to: Orphanet:1452 ! DISCARD: [] 
+
+[Term]
+id: DOID:1925 ! Coffin-Siris syndrome
+equivalent_to: Orphanet:1465 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060216 ! Cogan syndrome
+equivalent_to: Orphanet:1467 ! DISCARD: [] 
+
+[Term]
+id: DOID:1882 ! atrial heart septal defect
+equivalent_to: Orphanet:1478 ! DISCARD: [] 
+
+[Term]
+id: DOID:857 ! multiple carboxylase deficiency
+equivalent_to: Orphanet:148 ! DISCARD: [] 
+
+[Term]
+id: DOID:1657 ! ventricular septal defect
+equivalent_to: Orphanet:1480 ! DISCARD: [] 
+
+[Term]
+id: DOID:1116 ! pertussis
+equivalent_to: Orphanet:1489 ! DISCARD: [] 
+
+[Term]
+id: DOID:4480 ! achondroplasia
+equivalent_to: Orphanet:15 ! DISCARD: [] 
+
+[Term]
+id: DOID:9261 ! nasopharynx carcinoma
+equivalent_to: Orphanet:150 ! DISCARD: [] 
+
+[Term]
+id: DOID:3948 ! adrenocortical carcinoma
+equivalent_to: Orphanet:1501 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080032 ! craniodiaphyseal dysplasia
+equivalent_to: Orphanet:1513 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050577 ! Sensenbrenner syndrome
+equivalent_to: Orphanet:1515 ! DISCARD: [] 
+
+[Term]
+id: DOID:14737 ! craniofrontonasal syndrome
+equivalent_to: Orphanet:1520 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080033 ! craniometaphyseal dysplasia
+equivalent_to: Orphanet:1522 ! DISCARD: [] 
+
+[Term]
+id: DOID:2340 ! craniosynostosis
+equivalent_to: Orphanet:1531 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060294 ! cold-induced sweating syndrome
+equivalent_to: Orphanet:1545 ! DISCARD: [] 
+
+[Term]
+id: DOID:12053 ! cryptococcosis
+equivalent_to: Orphanet:1546 ! DISCARD: [] 
+
+[Term]
+id: DOID:1733 ! cryptosporidiosis
+equivalent_to: Orphanet:1549 ! DISCARD: [] 
+
+[Term]
+id: DOID:11984 ! hypertrophic cardiomyopathy
+equivalent_to: Orphanet:155 ! DISCARD: [] 
+
+[Term]
+id: DOID:2908 ! Treacher Collins syndrome
+equivalent_to: Orphanet:155899 ! DISCARD: [] 
+
+[Term]
+id: DOID:10079 ! cysticercosis
+equivalent_to: Orphanet:1560 ! DISCARD: [] 
+
+[Term]
+id: DOID:10126 ! keratoconus
+equivalent_to: Orphanet:156071 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050713 ! fatal infantile encephalocardiomyopathy
+equivalent_to: Orphanet:1561 ! DISCARD: [] 
+
+[Term]
+id: DOID:3225 ! tracheal disease
+equivalent_to: Orphanet:156252 ! DISCARD: [] 
+
+[Term]
+id: DOID:409 ! liver disease
+equivalent_to: Orphanet:156601 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:9741 ! biliary tract disease
+equivalent_to: Orphanet:156607 ! DISCARD: [] 
+
+[Term]
+id: DOID:1579 ! respiratory system disease
+equivalent_to: Orphanet:156610 ! DISCARD: [] 
+
+[Term]
+id: DOID:10763 ! hypertension
+equivalent_to: Orphanet:156629 ! DISCARD: [] 
+
+[Term]
+id: DOID:28 ! endocrine system disease
+equivalent_to: Orphanet:156638 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060235 ! carnitine palmitoyltransferase II deficiency
+equivalent_to: Orphanet:157 ! DISCARD: [] 
+
+[Term]
+id: DOID:12177 ! common variable immunodeficiency
+equivalent_to: Orphanet:1572 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050545 ! visceral heterotaxy
+equivalent_to: Orphanet:157769 ! DISCARD: [] 
+
+[Term]
+id: DC:0000687 ! Polyposis Syndrome, Hereditary Mixed
+equivalent_to: Orphanet:157794 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0060294 ! cold-induced sweating syndrome
+equivalent_to: Orphanet:157820 ! DISCARD: [] 
+
+[Term]
+id: DOID:7280 ! congenital epulis
+equivalent_to: Orphanet:157826 ! DISCARD: [] 
+
+[Term]
+id: DOID:3981 ! pantothenate kinase-associated neurodegeneration
+equivalent_to: Orphanet:157850 ! DISCARD: [] 
+
+[Term]
+id: DOID:225 ! syndrome
+equivalent_to: Orphanet:157954 ! DISCARD: [] 
+
+[Term]
+id: DOID:4330 ! non-langerhans-cell histiocytosis
+equivalent_to: Orphanet:157987 ! DISCARD: [] 
+
+[Term]
+id: DOID:14365 ! systemic primary carnitine deficiency disease
+equivalent_to: Orphanet:158 ! DISCARD: [] 
+
+[Term]
+id: DOID:4424 ! juvenile xanthogranuloma
+equivalent_to: Orphanet:158000 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050120 ! hemophagocytic lymphohistiocytosis
+equivalent_to: Orphanet:158032 ! DISCARD: [] 
+
+[Term]
+id: DOID:1307 ! dementia
+equivalent_to: Orphanet:158124 ! DISCARD: [] 
+
+[Term]
+id: DC:0000649 ! Huntington Disease-Like
+equivalent_to: Orphanet:158266 ! DISCARD: [] 
+
+[Term]
+id: DOID:701 ! dentin dysplasia
+equivalent_to: Orphanet:1635 ! DISCARD: [] 
+
+[Term]
+id: DOID:104 ! bacterial infectious disease
+equivalent_to: Orphanet:163582 ! DISCARD: [] 
+
+[Term]
+id: DOID:934 ! viral infectious disease
+equivalent_to: Orphanet:163585 ! DISCARD: [] 
+
+[Term]
+id: DOID:1564 ! fungal infectious disease
+equivalent_to: Orphanet:163591 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060221 ! Maffucci syndrome
+equivalent_to: Orphanet:163634 ! DISCARD: [] 
+
+[Term]
+id: DOID:5100 ! middle ear disease
+equivalent_to: Orphanet:164004 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050628 ! advanced sleep phase syndrome
+equivalent_to: Orphanet:164736 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050729 ! neutral lipid storage disease
+equivalent_to: Orphanet:165 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050699 ! Dent disease
+equivalent_to: Orphanet:1652 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:701 ! dentin dysplasia
+equivalent_to: Orphanet:1653 ! DISCARD: [] 
+
+[Term]
+id: DOID:8505 ! dermatitis herpetiformis
+equivalent_to: Orphanet:1656 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:5295 ! intestinal disease
+equivalent_to: Orphanet:165655 ! DISCARD: [] 
+
+[Term]
+id: DOID:10595 ! Charcot-Marie-Tooth disease
+equivalent_to: Orphanet:166 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060273 ! pontocerebellar hypoplasia type 4
+equivalent_to: Orphanet:166063 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060274 ! pontocerebellar hypoplasia type 5
+equivalent_to: Orphanet:166068 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060275 ! pontocerebellar hypoplasia type 6
+equivalent_to: Orphanet:166073 ! DISCARD: [] 
+
+[Term]
+id: DOID:13884 ! sick sinus syndrome
+equivalent_to: Orphanet:166282 ! DISCARD: [] 
+
+[Term]
+id: DOID:1082 ! dirofilariasis
+equivalent_to: Orphanet:166291 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060281 ! photosensitive epilepsy
+equivalent_to: Orphanet:166409 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1826 ! epilepsy syndrome
+equivalent_to: Orphanet:166463 ! DISCARD: [] 
+
+[Term]
+id: DOID:9565 ! dextrocardia
+equivalent_to: Orphanet:1666 ! DISCARD: [] 
+
+[Term]
+id: DOID:14218 ! dihydropyrimidine dehydrogenase deficiency
+equivalent_to: Orphanet:1675 ! DISCARD: [] 
+
+[Term]
+id: DOID:4154 ! dentinogenesis imperfecta
+equivalent_to: Orphanet:167762 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050700 ! cardiomyopathy
+equivalent_to: Orphanet:167848 ! DISCARD: [] 
+
+[Term]
+id: DOID:11405 ! diphtheria
+equivalent_to: Orphanet:1679 ! DISCARD: [] 
+
+[Term]
+id: DOID:117 ! heart cancer
+equivalent_to: Orphanet:168194 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060040 ! pervasive developmental disorder
+equivalent_to: Orphanet:168778 ! DISCARD: [] 
+
+[Term]
+id: DOID:13487 ! childhood disintegrative disease
+equivalent_to: Orphanet:168782 ! DISCARD: [] 
+
+[Term]
+id: DOID:1791 ! peritoneal carcinoma
+equivalent_to: Orphanet:168829 ! DISCARD: [] 
+
+[Term]
+id: DOID:5820 ! composite lymphoma
+equivalent_to: Orphanet:168966 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060028 ! Good syndrome
+equivalent_to: Orphanet:169105 ! DISCARD: [] 
+
+[Term]
+id: DOID:624 ! transient hypogammaglobulinemia of infancy
+equivalent_to: Orphanet:169139 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060295 ! complement component 2 deficiency
+equivalent_to: Orphanet:169147 ! DISCARD: [DOID:0060297,DOID:0060298] 
+
+[Term]
+id: DOID:0060299 ! complement component 6 deficiency
+equivalent_to: Orphanet:169150 ! DISCARD: [DOID:0060301,DOID:0060302,DOID:0060303] 
+
+[Term]
+id: DOID:0060300 ! complement component 7 deficiency
+equivalent_to: Orphanet:1695150 ! DISCARD: [] 
+
+[Term]
+id: DOID:13088 ! periventricular leukomalacia
+equivalent_to: Orphanet:171676 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050448 ! hereditary mucosal leukokeratosis
+equivalent_to: Orphanet:171723 ! DISCARD: [] 
+
+[Term]
+id: DOID:1852 ! intrahepatic cholestasis
+equivalent_to: Orphanet:172 ! DISCARD: [] 
+
+[Term]
+id: DOID:1498 ! cholera
+equivalent_to: Orphanet:173 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080021 ! Schmid metaphyseal chondrodysplasia
+equivalent_to: Orphanet:174 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080022 ! McKusick type metaphyseal dysplasia
+equivalent_to: Orphanet:175 ! DISCARD: [DOID:14773] 
+
+[Term]
+id: DOID:11589 ! Riley-Day syndrome
+equivalent_to: Orphanet:1764 ! DISCARD: [] 
+
+[Term]
+id: DOID:2580 ! rhizomelic chondrodysplasia punctata
+equivalent_to: Orphanet:177 ! DISCARD: [] 
+
+[Term]
+id: DOID:2729 ! dyskeratosis congenita
+equivalent_to: Orphanet:1775 ! DISCARD: [] 
+
+[Term]
+id: DOID:3302 ! chordoma
+equivalent_to: Orphanet:178 ! DISCARD: [] 
+
+[Term]
+id: DOID:12388 ! neurohypophyseal diabetes insipidus
+equivalent_to: Orphanet:178029 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060258 ! reticulate acropigmentation of Kitamura
+equivalent_to: Orphanet:178307 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060240 ! UV-sensitive syndrome
+equivalent_to: Orphanet:178338 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050905 ! inflammatory myofibroblastic tumor
+equivalent_to: Orphanet:178342 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060247 ! Smith-McCort dysplasia
+equivalent_to: Orphanet:178355 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060226 ! acrofrontofacionasal dysostosis
+equivalent_to: Orphanet:1784 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060307 ! autosomal dominant non-syndromic intellectual disability
+equivalent_to: Orphanet:178469 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050353 ! wound botulism
+equivalent_to: Orphanet:178475 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050354 ! infant botulism
+equivalent_to: Orphanet:178478 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050141 ! intestinal botulism
+equivalent_to: Orphanet:178481 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050568 ! spondylocostal dysostosis
+equivalent_to: Orphanet:1797 ! DISCARD: [] 
+
+[Term]
+id: DOID:9821 ! choroideremia
+equivalent_to: Orphanet:180 ! DISCARD: [] 
+
+[Term]
+id: DOID:3308 ! embryonal carcinoma
+equivalent_to: Orphanet:180226 ! DISCARD: [] 
+
+[Term]
+id: DOID:3306 ! mixed germ cell cancer
+equivalent_to: Orphanet:180234 ! DISCARD: [] 
+
+[Term]
+id: DOID:1964 ! fallopian tube cancer
+equivalent_to: Orphanet:180242 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050918 ! vaginal carcinoma
+equivalent_to: Orphanet:180247 ! DISCARD: [] 
+
+[Term]
+id: DOID:1612 ! breast cancer
+equivalent_to: Orphanet:180250 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1612 ! breast cancer
+equivalent_to: Orphanet:180257 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12849 ! autistic disorder
+equivalent_to: Orphanet:180772 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1793 ! pancreatic cancer
+equivalent_to: Orphanet:180824 ! DISCARD: [] 
+
+[Term]
+id: DOID:9744 ! type 1 diabetes mellitus
+equivalent_to: Orphanet:181371 ! DISCARD: [] 
+
+[Term]
+id: DOID:9352 ! type 2 diabetes mellitus
+equivalent_to: Orphanet:181376 ! DISCARD: [] 
+
+[Term]
+id: DOID:1921 ! Klinefelter's syndrome
+equivalent_to: Orphanet:181387 ! DISCARD: [] 
+
+[Term]
+id: DOID:1459 ! hypothyroidism
+equivalent_to: Orphanet:181396 ! DISCARD: [] 
+
+[Term]
+id: DOID:7998 ! hyperthyroidism
+equivalent_to: Orphanet:181399 ! DISCARD: [] 
+
+[Term]
+id: DOID:11199 ! hypoparathyroidism
+equivalent_to: Orphanet:181402 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11199 ! hypoparathyroidism
+equivalent_to: Orphanet:181405 ! DISCARD: [] 
+
+[Term]
+id: DOID:13543 ! hyperparathyroidism
+equivalent_to: Orphanet:181408 ! DISCARD: [] 
+
+[Term]
+id: DOID:12028 ! Conn's syndrome
+equivalent_to: Orphanet:181415 ! DISCARD: [] 
+
+[Term]
+id: DOID:1168 ! familial hyperlipidemia
+equivalent_to: Orphanet:181422 ! DISCARD: [] 
+
+[Term]
+id: DOID:5426 ! premature ovarian failure
+equivalent_to: Orphanet:181441 ! DISCARD: [] 
+
+[Term]
+id: DOID:1562 ! chromoblastomycosis
+equivalent_to: Orphanet:182 ! DISCARD: [] 
+
+[Term]
+id: DOID:3070 ! malignant glioma
+equivalent_to: Orphanet:182067 ! DISCARD: [] 
+
+[Term]
+id: DOID:1289 ! neurodegenerative disease
+equivalent_to: Orphanet:182070 ! DISCARD: [] 
+
+[Term]
+id: DOID:3082 ! interstitial lung disease
+equivalent_to: Orphanet:182095 ! DISCARD: [] 
+
+[Term]
+id: DOID:10316 ! pneumoconiosis
+equivalent_to: Orphanet:182098 ! DISCARD: [] 
+
+[Term]
+id: DOID:170 ! endocrine gland cancer
+equivalent_to: Orphanet:182130 ! DISCARD: [] 
+
+[Term]
+id: DOID:4 ! disease
+equivalent_to: Orphanet:182222 ! DISCARD: [] 
+
+[Term]
+id: DOID:417 ! hypersensitivity reaction type II disease
+equivalent_to: Orphanet:182228 ! DISCARD: [] 
+
+[Term]
+id: DOID:3805 ! porokeratosis
+equivalent_to: Orphanet:183444 ! DISCARD: [] 
+
+[Term]
+id: DOID:421 ! hair disease
+equivalent_to: Orphanet:183450 ! DISCARD: [] 
+
+[Term]
+id: DOID:4123 ! nail disease
+equivalent_to: Orphanet:183454 ! DISCARD: [] 
+
+[Term]
+id: DOID:9098 ! sebaceous gland disease
+equivalent_to: Orphanet:183460 ! DISCARD: [] 
+
+[Term]
+id: DOID:9540 ! vascular skin disease
+equivalent_to: Orphanet:183478 ! DISCARD: [] 
+
+[Term]
+id: DOID:3165 ! skin benign neoplasm
+equivalent_to: Orphanet:183487 ! DISCARD: [DOID:4159] 
+
+[Term]
+id: DOID:440 ! neuromuscular disease
+equivalent_to: Orphanet:183497 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1289 ! neurodegenerative disease
+equivalent_to: Orphanet:183500 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1826 ! epilepsy syndrome
+equivalent_to: Orphanet:183512 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:480 ! movement disease
+equivalent_to: Orphanet:183521 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080001 ! bone disease
+equivalent_to: Orphanet:183524 ! DISCARD: [] 
+
+[Term]
+id: DOID:184 ! bone cancer
+equivalent_to: Orphanet:183527 ! DISCARD: [] 
+
+[Term]
+id: DOID:263 ! kidney cancer
+equivalent_to: Orphanet:183595 ! DISCARD: [] 
+
+[Term]
+id: DOID:9835 ! refractive error
+equivalent_to: Orphanet:183601 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:9351 ! diabetes mellitus
+equivalent_to: Orphanet:183625 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:7166 ! thyroiditis
+equivalent_to: Orphanet:183631 ! DISCARD: [] 
+
+[Term]
+id: DOID:627 ! severe combined immunodeficiency
+equivalent_to: Orphanet:183660 ! DISCARD: [] 
+
+[Term]
+id: DOID:2583 ! agammaglobulinemia
+equivalent_to: Orphanet:183669 ! DISCARD: [] 
+
+[Term]
+id: DOID:1059 ! intellectual disability
+equivalent_to: Orphanet:183757 ! DISCARD: [] 
+
+[Term]
+id: DOID:2914 ! immune system disease
+equivalent_to: Orphanet:183770 ! DISCARD: [] 
+
+[Term]
+id: DOID:1856 ! cherubism
+equivalent_to: Orphanet:184 ! DISCARD: [] 
+
+[Term]
+id: DOID:4297 ! scimitar syndrome
+equivalent_to: Orphanet:185 ! DISCARD: [] 
+
+[Term]
+id: DOID:12236 ! primary biliary cirrhosis
+equivalent_to: Orphanet:186 ! DISCARD: [] 
+
+[Term]
+id: DOID:13481 ! thanatophoric dysplasia
+equivalent_to: Orphanet:1860 ! DISCARD: [] 
+
+[Term]
+id: DOID:9273 ! citrullinemia
+equivalent_to: Orphanet:187 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050572 ! cone-rod dystrophy
+equivalent_to: Orphanet:1872 ! DISCARD: [] 
+
+[Term]
+id: DOID:14400 ! capillary leak syndrome
+equivalent_to: Orphanet:188 ! DISCARD: [] 
+
+[Term]
+id: DC:0000511 ! Ectopia Lentis, Isolated
+equivalent_to: Orphanet:1885 ! DISCARD: [] 
+
+[Term]
+id: DOID:14693 ! Clouston syndrome
+equivalent_to: Orphanet:189 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060280 ! primary pigmented nodular adrenocortical disease
+equivalent_to: Orphanet:189439 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050573 ! 2-hydroxyglutaric aciduria
+equivalent_to: Orphanet:19 ! DISCARD: [] 
+
+[Term]
+id: DOID:7765 ! Coats disease
+equivalent_to: Orphanet:190 ! DISCARD: [] 
+
+[Term]
+id: DOID:10242 ! ehrlichiosis
+equivalent_to: Orphanet:1902 ! DISCARD: [] 
+
+[Term]
+id: DOID:2962 ! Cockayne syndrome
+equivalent_to: Orphanet:191 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050665 ! fetal alcohol syndrome
+equivalent_to: Orphanet:1915 ! DISCARD: [] 
+
+[Term]
+id: DOID:3783 ! Coffin-Lowry syndrome
+equivalent_to: Orphanet:192 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050709 ! Ohtahara syndrome
+equivalent_to: Orphanet:1934 ! DISCARD: [] 
+
+[Term]
+id: DOID:308 ! early myoclonic encephalopathy
+equivalent_to: Orphanet:1935 ! DISCARD: [] 
+
+[Term]
+id: DOID:12270 ! coloboma
+equivalent_to: Orphanet:194 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060172 ! juvenile absence epilepsy
+equivalent_to: Orphanet:1941 ! DISCARD: [] 
+
+[Term]
+id: DOID:3329 ! benign epilepsy with centrotemporal spikes
+equivalent_to: Orphanet:1945 ! DISCARD: [] 
+
+[Term]
+id: DOID:14264 ! benign neonatal seizures
+equivalent_to: Orphanet:1949 ! DISCARD: [] 
+
+[Term]
+id: DOID:9240 ! erythromelalgia
+equivalent_to: Orphanet:1956 ! DISCARD: [] 
+
+[Term]
+id: DOID:11725 ! Cornelia de Lange syndrome
+equivalent_to: Orphanet:199 ! DISCARD: [] 
+
+[Term]
+id: DOID:4968 ! Nelson syndrome
+equivalent_to: Orphanet:199244 ! DISCARD: [] 
+
+[Term]
+id: DOID:3315 ! lipoma
+equivalent_to: Orphanet:199276 ! DISCARD: [] 
+
+[Term]
+id: DOID:4692 ! endophthalmitis
+equivalent_to: Orphanet:199323 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060042 ! atypical autism
+equivalent_to: Orphanet:199627 ! DISCARD: [] 
+
+[Term]
+id: DOID:6457 ! Cowden disease
+equivalent_to: Orphanet:201 ! DISCARD: [] 
+
+[Term]
+id: DOID:674 ! cleft palate
+equivalent_to: Orphanet:2014 ! DISCARD: [] 
+
+[Term]
+id: DC:0000519 ! Fibrochondrogenesis
+equivalent_to: Orphanet:2021 ! DISCARD: [] 
+
+[Term]
+id: DC:0000280 ! Microphthalmia, Syndromic
+equivalent_to: Orphanet:202948 ! DISCARD: [] 
+
+[Term]
+id: DOID:3355 ! fibrosarcoma
+equivalent_to: Orphanet:2030 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050156 ! idiopathic pulmonary fibrosis
+equivalent_to: Orphanet:2032 ! DISCARD: [] 
+
+[Term]
+id: DOID:1080 ! filariasis
+equivalent_to: Orphanet:2034 ! DISCARD: [] 
+
+[Term]
+id: DOID:11949 ! Creutzfeldt-Jakob disease
+equivalent_to: Orphanet:204 ! DISCARD: [] 
+
+[Term]
+id: DOID:3803 ! Crigler-Najjar syndrome
+equivalent_to: Orphanet:205 ! DISCARD: [] 
+
+[Term]
+id: DC:0000704 ! Cole-Carpenter Syndrome
+equivalent_to: Orphanet:2050 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050646 ! distal arthrogryposis
+equivalent_to: Orphanet:2053 ! DISCARD: [] 
+
+[Term]
+id: DOID:1919 ! Lesch-Nyhan syndrome
+equivalent_to: Orphanet:206428 ! DISCARD: [] 
+
+[Term]
+id: DOID:3578 ! ovarian gonadoblastoma
+equivalent_to: Orphanet:206484 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060174 ! GABA aminotransferase deficiency
+equivalent_to: Orphanet:2066 ! DISCARD: [] 
+
+[Term]
+id: DC:0000127 ! Myotonic Dystrophy
+equivalent_to: Orphanet:206647 ! DISCARD: [] 
+
+[Term]
+id: DOID:699 ! mitochondrial myopathy
+equivalent_to: Orphanet:206966 ! DISCARD: [] 
+
+[Term]
+id: DOID:450 ! myotonic disease
+equivalent_to: Orphanet:206970 ! DISCARD: [] 
+
+[Term]
+id: DOID:1029 ! familial periodic paralysis
+equivalent_to: Orphanet:206976 ! DISCARD: [] 
+
+[Term]
+id: DOID:3428 ! granulomatous myositis
+equivalent_to: Orphanet:206979 ! DISCARD: [] 
+
+[Term]
+id: DOID:2339 ! Crouzon syndrome
+equivalent_to: Orphanet:207 ! DISCARD: [] 
+
+[Term]
+id: DOID:4031 ! eosinophilic gastroenteritis
+equivalent_to: Orphanet:2070 ! DISCARD: [] 
+
+[Term]
+id: DOID:8986 ! narcolepsy
+equivalent_to: Orphanet:2073 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11199 ! hypoparathyroidism
+equivalent_to: Orphanet:208593 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13543 ! hyperparathyroidism
+equivalent_to: Orphanet:208596 ! DISCARD: [] 
+
+[Term]
+id: DOID:3144 ! cutis laxa
+equivalent_to: Orphanet:209 ! DISCARD: [] 
+
+[Term]
+id: DOID:2120 ! focal dermal hypoplasia
+equivalent_to: Orphanet:2092 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080052 ! acromesomelic dysplasia, Grebe type
+equivalent_to: Orphanet:2098 ! DISCARD: [] 
+
+[Term]
+id: DOID:6496 ! extraskeletal myxoid chondrosarcoma
+equivalent_to: Orphanet:209916 ! DISCARD: [] 
+
+[Term]
+id: DOID:10970 ! spastic quadriplegia
+equivalent_to: Orphanet:210141 ! DISCARD: [] 
+
+[Term]
+id: DOID:496 ! spindle cell hemangioma
+equivalent_to: Orphanet:210584 ! DISCARD: [] 
+
+[Term]
+id: DOID:4534 ! Hallermann-Streiff syndrome
+equivalent_to: Orphanet:2108 ! DISCARD: [] 
+
+[Term]
+id: DOID:175 ! vascular cancer
+equivalent_to: Orphanet:211237 ! DISCARD: [] 
+
+[Term]
+id: DOID:178 ! vascular disease
+equivalent_to: Orphanet:211240 ! DISCARD: [] 
+
+[Term]
+id: DOID:11294 ! arteriovenous malformation
+equivalent_to: Orphanet:211266 ! DISCARD: [] 
+
+[Term]
+id: DOID:1060 ! Hartnup disease
+equivalent_to: Orphanet:2116 ! DISCARD: [] 
+
+[Term]
+id: DOID:1064 ! cystinosis
+equivalent_to: Orphanet:213 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050635 ! alternating hemiplegia of childhood
+equivalent_to: Orphanet:2131 ! DISCARD: [] 
+
+[Term]
+id: DOID:2859 ! hemoglobin C disease
+equivalent_to: Orphanet:2132 ! DISCARD: [] 
+
+[Term]
+id: DOID:5379 ! hemoglobin E disease
+equivalent_to: Orphanet:2133 ! DISCARD: [] 
+
+[Term]
+id: DOID:12554 ! hemolytic-uremic syndrome
+equivalent_to: Orphanet:2134 ! DISCARD: [] 
+
+[Term]
+id: DOID:2394 ! ovarian cancer
+equivalent_to: Orphanet:213500 ! DISCARD: [] 
+
+[Term]
+id: DOID:3713 ! ovary adenocarcinoma
+equivalent_to: Orphanet:213504 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2394 ! ovarian cancer
+equivalent_to: Orphanet:213517 ! DISCARD: [] 
+
+[Term]
+id: DOID:3458 ! breast adenocarcinoma
+equivalent_to: Orphanet:213528 ! DISCARD: [] 
+
+[Term]
+id: DOID:4680 ! breast metaplastic carcinoma
+equivalent_to: Orphanet:213531 ! DISCARD: [] 
+
+[Term]
+id: DOID:363 ! uterine cancer
+equivalent_to: Orphanet:213564 ! DISCARD: [] 
+
+[Term]
+id: DOID:9460 ! uterine corpus cancer
+equivalent_to: Orphanet:213569 ! DISCARD: [] 
+
+[Term]
+id: DOID:5165 ! uterine corpus sarcoma
+equivalent_to: Orphanet:213620 ! DISCARD: [] 
+
+[Term]
+id: DOID:5289 ! uterus leiomyosarcoma
+equivalent_to: Orphanet:213625 ! DISCARD: [] 
+
+[Term]
+id: DOID:4226 ! endometrial stromal sarcoma
+equivalent_to: Orphanet:213711 ! DISCARD: [] 
+
+[Term]
+id: DOID:4362 ! cervical cancer
+equivalent_to: Orphanet:213761 ! DISCARD: [] 
+
+[Term]
+id: DOID:3744 ! cervical squamous cell carcinoma
+equivalent_to: Orphanet:213767 ! DISCARD: [] 
+
+[Term]
+id: DOID:3702 ! cervical adenocarcinoma
+equivalent_to: Orphanet:213772 ! DISCARD: [] 
+
+[Term]
+id: DOID:4867 ! cervical adenoid cystic carcinoma
+equivalent_to: Orphanet:213823 ! DISCARD: [] 
+
+[Term]
+id: DOID:9266 ! cystinuria
+equivalent_to: Orphanet:214 ! DISCARD: [] 
+
+[Term]
+id: DOID:3827 ! congenital diaphragmatic hernia
+equivalent_to: Orphanet:2140 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050534 ! congenital stationary night blindness
+equivalent_to: Orphanet:215 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060168 ! histidinemia
+equivalent_to: Orphanet:2157 ! DISCARD: [] 
+
+[Term]
+id: DOID:14503 ! neuronal ceroid lipofuscinosis
+equivalent_to: Orphanet:216 ! DISCARD: [] 
+
+[Term]
+id: DOID:4621 ! holoprosencephaly
+equivalent_to: Orphanet:2162 ! DISCARD: [] 
+
+[Term]
+id: DC:0000602 ! Transposition of the Great Arteries
+equivalent_to: Orphanet:216675 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060177 ! homocarnosinosis
+equivalent_to: Orphanet:2168 ! DISCARD: [] 
+
+[Term]
+id: DOID:14227 ! azoospermia
+equivalent_to: Orphanet:217034 ! DISCARD: [] 
+
+[Term]
+id: DOID:4450 ! renal cell carcinoma
+equivalent_to: Orphanet:217071 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1793 ! pancreatic cancer
+equivalent_to: Orphanet:217074 ! DISCARD: [] 
+
+[Term]
+id: DOID:643 ! progressive multifocal leukoencephalopathy
+equivalent_to: Orphanet:217260 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060062 ! familial juvenile hyperuricemic nephropathy
+equivalent_to: Orphanet:217330 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11984 ! hypertrophic cardiomyopathy
+equivalent_to: Orphanet:217569 ! DISCARD: [] 
+
+[Term]
+id: DOID:12930 ! dilated cardiomyopathy
+equivalent_to: Orphanet:217604 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12930 ! dilated cardiomyopathy
+equivalent_to: Orphanet:217607 ! DISCARD: [] 
+
+[Term]
+id: DOID:397 ! restrictive cardiomyopathy
+equivalent_to: Orphanet:217632 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:397 ! restrictive cardiomyopathy
+equivalent_to: Orphanet:217635 ! DISCARD: [] 
+
+[Term]
+id: DOID:4626 ! hydranencephaly
+equivalent_to: Orphanet:2177 ! DISCARD: [] 
+
+[Term]
+id: DOID:10908 ! hydrocephalus
+equivalent_to: Orphanet:2182 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:10908 ! hydrocephalus
+equivalent_to: Orphanet:2185 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050779 ! hydrolethalus syndrome
+equivalent_to: Orphanet:2189 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060175 ! succinic semialdehyde dehydrogenase deficiency
+equivalent_to: Orphanet:22 ! DISCARD: [] 
+
+[Term]
+id: DOID:3764 ! Denys-Drash syndrome
+equivalent_to: Orphanet:220 ! DISCARD: [] 
+
+[Term]
+id: DOID:9274 ! hyperlysinemia
+equivalent_to: Orphanet:2203 ! DISCARD: [] 
+
+[Term]
+id: DOID:1577 ! limited scleroderma
+equivalent_to: Orphanet:220402 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1577 ! limited scleroderma
+equivalent_to: Orphanet:220407 ! DISCARD: [] 
+
+[Term]
+id: DOID:11202 ! primary hyperparathyroidism
+equivalent_to: Orphanet:2207 ! DISCARD: [] 
+
+[Term]
+id: DOID:10223 ! dermatomyositis
+equivalent_to: Orphanet:221 ! DISCARD: [] 
+
+[Term]
+id: DOID:12098 ! trigeminal neuralgia
+equivalent_to: Orphanet:221091 ! DISCARD: [] 
+
+[Term]
+id: DOID:14423 ! glossopharyngeal neuralgia
+equivalent_to: Orphanet:221098 ! DISCARD: [] 
+
+[Term]
+id: DOID:4969 ! Gerstmann syndrome
+equivalent_to: Orphanet:221117 ! DISCARD: [] 
+
+[Term]
+id: DOID:14670 ! hypertelorism, microtia, facial clefting syndrome
+equivalent_to: Orphanet:2213 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050591 ! tooth agenesis
+equivalent_to: Orphanet:2227 ! DISCARD: [] 
+
+[Term]
+id: DOID:12387 ! nephrogenic diabetes insipidus
+equivalent_to: Orphanet:223 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060058 ! lymphoma
+equivalent_to: Orphanet:223735 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11199 ! hypoparathyroidism
+equivalent_to: Orphanet:2238 ! DISCARD: [] 
+
+[Term]
+id: DOID:11717 ! neonatal diabetes mellitus
+equivalent_to: Orphanet:224 ! DISCARD: [] 
+
+[Term]
+id: DOID:9955 ! hypoplastic left heart syndrome
+equivalent_to: Orphanet:2248 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060265 ! pontocerebellar hypoplasia type 1A
+equivalent_to: Orphanet:2254 ! DISCARD: [DOID:0060266] 
+
+! MERGES
+[Term]
+id: DOID:1612 ! breast cancer
+equivalent_to: Orphanet:227535 ! DISCARD: [DOID:5683] 
+
+[Term]
+id: DOID:11105 ! fundus albipunctatus
+equivalent_to: Orphanet:227796 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050289 ! fusariosis
+equivalent_to: Orphanet:228119 ! DISCARD: [] 
+
+[Term]
+id: DOID:13450 ! coccidioidomycosis
+equivalent_to: Orphanet:228123 ! DISCARD: [] 
+
+[Term]
+id: DC:0000527 ! Heart-Hand Syndrome
+equivalent_to: Orphanet:228184 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11976 ! botulism
+equivalent_to: Orphanet:228371 ! DISCARD: [] 
+
+[Term]
+id: DOID:14755 ! argininosuccinic aciduria
+equivalent_to: Orphanet:23 ! DISCARD: [] 
+
+[Term]
+id: DOID:14671 ! multiple intestinal atresia
+equivalent_to: Orphanet:2300 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050449 ! pachyonychia congenita
+equivalent_to: Orphanet:2309 ! DISCARD: [] 
+
+[Term]
+id: DOID:14418 ! dracunculiasis
+equivalent_to: Orphanet:231 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050568 ! spondylocostal dysostosis
+equivalent_to: Orphanet:2311 ! DISCARD: [] 
+
+[Term]
+id: DOID:3672 ! rhabdoid cancer
+equivalent_to: Orphanet:231108 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060228 ! intracranial berry aneurysm
+equivalent_to: Orphanet:231160 ! DISCARD: [] 
+
+[Term]
+id: DOID:14694 ! Johanson-Blizzard syndrome
+equivalent_to: Orphanet:2315 ! DISCARD: [] 
+
+[Term]
+id: DOID:10923 ! sickle cell anemia
+equivalent_to: Orphanet:232 ! DISCARD: [] 
+
+[Term]
+id: DC:0000547 ! Kabuki Syndrome
+equivalent_to: Orphanet:2322 ! DISCARD: [] 
+
+[Term]
+id: DOID:12557 ! Duane retraction syndrome
+equivalent_to: Orphanet:233 ! DISCARD: [] 
+
+[Term]
+id: DOID:13378 ! Kawasaki disease
+equivalent_to: Orphanet:2331 ! DISCARD: [] 
+
+[Term]
+id: DOID:14780 ! KBG syndrome
+equivalent_to: Orphanet:2332 ! DISCARD: [] 
+
+[Term]
+id: DC:0000549 ! Kenny-Caffey Syndrome
+equivalent_to: Orphanet:2333 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:178 ! vascular disease
+equivalent_to: Orphanet:233655 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050428 ! nonepidermolytic palmoplantar keratoderma
+equivalent_to: Orphanet:2337 ! DISCARD: [] 
+
+[Term]
+id: DOID:12308 ! Dubin-Johnson syndrome
+equivalent_to: Orphanet:234 ! DISCARD: [] 
+
+[Term]
+id: DC:0000550 ! Keratosis Follicularis Spinulosa Decalvans
+equivalent_to: Orphanet:2340 ! DISCARD: [] 
+
+[Term]
+id: DOID:10426 ! Klippel-Feil syndrome
+equivalent_to: Orphanet:2345 ! DISCARD: [] 
+
+[Term]
+id: DOID:14796 ! Dubowitz Syndrome
+equivalent_to: Orphanet:235 ! DISCARD: [] 
+
+[Term]
+id: DOID:446 ! hyperaldosteronism
+equivalent_to: Orphanet:235936 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050331 ! LADD syndrome
+equivalent_to: Orphanet:2363 ! DISCARD: [] 
+
+[Term]
+id: DOID:11044 ! gastroschisis
+equivalent_to: Orphanet:2368 ! DISCARD: [] 
+
+[Term]
+id: DOID:1930 ! Laurence-Moon syndrome
+equivalent_to: Orphanet:2377 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050561 ! Lennox-Gastaut syndrome
+equivalent_to: Orphanet:2382 ! DISCARD: [] 
+
+[Term]
+id: DOID:14793 ! hypohidrotic ectodermal dysplasia
+equivalent_to: Orphanet:238468 ! DISCARD: [] 
+
+[Term]
+id: DC:0000259 ! Lymphoproliferative Syndrome
+equivalent_to: Orphanet:238510 ! DISCARD: [] 
+
+[Term]
+id: DOID:8283 ! peritonitis
+equivalent_to: Orphanet:238593 ! DISCARD: [] 
+
+[Term]
+id: DOID:11459 ! pseudotumor cerebri
+equivalent_to: Orphanet:238624 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4330 ! non-langerhans-cell histiocytosis
+equivalent_to: Orphanet:240266 ! DISCARD: [] 
+
+[Term]
+id: DOID:13523 ! loiasis
+equivalent_to: Orphanet:2404 ! DISCARD: [] 
+
+[Term]
+id: DOID:12697 ! locked-in syndrome
+equivalent_to: Orphanet:2406 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060304 ! dyschromatosis universalis hereditaria
+equivalent_to: Orphanet:241 ! DISCARD: [] 
+
+[Term]
+id: DOID:14450 ! 46 XX gonadal dysgenesis
+equivalent_to: Orphanet:243 ! DISCARD: [] 
+
+[Term]
+id: DOID:10825 ! essential hypertension
+equivalent_to: Orphanet:243761 ! DISCARD: [] 
+
+[Term]
+id: DOID:9562 ! primary ciliary dyskinesia
+equivalent_to: Orphanet:244 ! DISCARD: [] 
+
+[Term]
+id: DC:0000416 ! Split-Hand/Foot Malformation
+equivalent_to: Orphanet:2440 ! DISCARD: [] 
+
+[Term]
+id: DOID:1081 ! mansonelliasis
+equivalent_to: Orphanet:2459 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060246 ! MASA syndrome
+equivalent_to: Orphanet:2466 ! DISCARD: [] 
+
+[Term]
+id: DOID:349 ! systemic mastocytosis
+equivalent_to: Orphanet:2467 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050431 ! arrhythmogenic right ventricular cardiomyopathy
+equivalent_to: Orphanet:247 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050819 ! Matthew-Wood syndrome
+equivalent_to: Orphanet:2470 ! DISCARD: [] 
+
+[Term]
+id: DOID:4464 ! collecting duct carcinoma
+equivalent_to: Orphanet:247203 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050160 ! inhalation anthrax
+equivalent_to: Orphanet:247257 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050430 ! multiple endocrine neoplasia type 2A
+equivalent_to: Orphanet:247698 ! DISCARD: [] 
+
+[Term]
+id: DOID:10016 ! multiple endocrine neoplasia type 2B
+equivalent_to: Orphanet:247709 ! DISCARD: [] 
+
+[Term]
+id: DC:0000645 ! Ectodermal Dysplasia-Syndactyly Syndrome
+equivalent_to: Orphanet:247820 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050578 ! occult macular dystrophy
+equivalent_to: Orphanet:247834 ! DISCARD: [] 
+
+[Term]
+id: DOID:14283 ! primary hypertrophic osteoarthropathy
+equivalent_to: Orphanet:248095 ! DISCARD: [] 
+
+[Term]
+id: DOID:13121 ! deficiency anemia
+equivalent_to: Orphanet:248293 ! DISCARD: [] 
+
+[Term]
+id: DOID:1761 ! Melkersson-Rosenthal syndrome
+equivalent_to: Orphanet:2483 ! DISCARD: [] 
+
+[Term]
+id: DOID:2213 ! hemorrhagic disease
+equivalent_to: Orphanet:248308 ! DISCARD: [] 
+
+[Term]
+id: DOID:4253 ! melorheostosis
+equivalent_to: Orphanet:2485 ! DISCARD: [] 
+
+[Term]
+id: DOID:1858 ! McCune Albright syndrome
+equivalent_to: Orphanet:249 ! DISCARD: [] 
+
+[Term]
+id: DOID:8757 ! gastric mucosal hypertrophy
+equivalent_to: Orphanet:2494 ! DISCARD: [] 
+
+[Term]
+id: DOID:3565 ! meningioma
+equivalent_to: Orphanet:2495 ! DISCARD: [] 
+
+[Term]
+id: DC:0000166 ! Frontonasal Dysplasia
+equivalent_to: Orphanet:250 ! DISCARD: [] 
+
+[Term]
+id: DOID:8432 ! polycythemia
+equivalent_to: Orphanet:250165 ! DISCARD: [] 
+
+[Term]
+id: DOID:12721 ! multiple epiphyseal dysplasia
+equivalent_to: Orphanet:251 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060237 ! Warburg micro syndrome
+equivalent_to: Orphanet:2510 ! DISCARD: [] 
+
+[Term]
+id: DC:0000277 ! Microcephaly, Primary, Autosomal Recessive
+equivalent_to: Orphanet:2512 ! DISCARD: [] 
+
+[Term]
+id: DOID:84 ! osteochondritis dissecans
+equivalent_to: Orphanet:251262 ! DISCARD: [] 
+
+[Term]
+id: DC:0000668 ! Ataxia-Telangiectasia-Like Disorder
+equivalent_to: Orphanet:251347 ! DISCARD: [] 
+
+[Term]
+id: DOID:14725 ! autosomal dominant microcephaly
+equivalent_to: Orphanet:2514 ! DISCARD: [] 
+
+[Term]
+id: DOID:3071 ! gliosarcoma
+equivalent_to: Orphanet:251576 ! DISCARD: [] 
+
+[Term]
+id: DOID:3074 ! giant cell glioblastoma
+equivalent_to: Orphanet:251579 ! DISCARD: [] 
+
+[Term]
+id: DOID:6128 ! gliomatosis cerebri
+equivalent_to: Orphanet:251582 ! DISCARD: [] 
+
+[Term]
+id: DOID:3078 ! grade III astrocytoma
+equivalent_to: Orphanet:251589 ! DISCARD: [] 
+
+[Term]
+id: DOID:6726 ! fibrillary astrocytoma
+equivalent_to: Orphanet:251595 ! DISCARD: [] 
+
+[Term]
+id: DOID:7008 ! protoplasmic astrocytoma
+equivalent_to: Orphanet:251598 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:6726 ! fibrillary astrocytoma
+equivalent_to: Orphanet:251601 ! DISCARD: [] 
+
+[Term]
+id: DOID:7005 ! gemistocytic astrocytoma
+equivalent_to: Orphanet:251604 ! DISCARD: [] 
+
+[Term]
+id: DOID:4852 ! pleomorphic xanthoastrocytoma
+equivalent_to: Orphanet:251607 ! DISCARD: [] 
+
+[Term]
+id: DOID:4851 ! pilocytic astrocytoma
+equivalent_to: Orphanet:251612 ! DISCARD: [] 
+
+[Term]
+id: DOID:4845 ! pilomyxoid astrocytoma
+equivalent_to: Orphanet:251615 ! DISCARD: [] 
+
+[Term]
+id: DOID:5077 ! subependymal giant cell astrocytoma
+equivalent_to: Orphanet:251618 ! DISCARD: [] 
+
+[Term]
+id: DOID:3181 ! oligodendroglioma
+equivalent_to: Orphanet:251627 ! DISCARD: [] 
+
+[Term]
+id: DOID:5075 ! myxopapillary ependymoma
+equivalent_to: Orphanet:251643 ! DISCARD: [] 
+
+[Term]
+id: DOID:3774 ! chordoid glioma
+equivalent_to: Orphanet:251674 ! DISCARD: [] 
+
+[Term]
+id: DOID:7305 ! astroblastoma
+equivalent_to: Orphanet:251679 ! DISCARD: [] 
+
+[Term]
+id: DOID:4163 ! ganglioneuroblastoma
+equivalent_to: Orphanet:251877 ! DISCARD: [] 
+
+[Term]
+id: DOID:4794 ! ependymoblastoma
+equivalent_to: Orphanet:251880 ! DISCARD: [] 
+
+[Term]
+id: DOID:4790 ! medulloepithelioma
+equivalent_to: Orphanet:251883 ! DISCARD: [] 
+
+[Term]
+id: DOID:3540 ! choroid plexus cancer
+equivalent_to: Orphanet:251896 ! DISCARD: [] 
+
+[Term]
+id: DOID:5648 ! choroid plexus carcinoma
+equivalent_to: Orphanet:251899 ! DISCARD: [] 
+
+[Term]
+id: DOID:3544 ! atypical choroid plexus papilloma
+equivalent_to: Orphanet:251902 ! DISCARD: [] 
+
+[Term]
+id: DOID:1664 ! pineoblastoma
+equivalent_to: Orphanet:251909 ! DISCARD: [] 
+
+[Term]
+id: DOID:6458 ! cerebellar liponeurocytoma
+equivalent_to: Orphanet:251931 ! DISCARD: [] 
+
+[Term]
+id: DOID:2426 ! gangliocytoma
+equivalent_to: Orphanet:251937 ! DISCARD: [] 
+
+[Term]
+id: DOID:2679 ! dysembryoplastic neuroepithelial tumor
+equivalent_to: Orphanet:251946 ! DISCARD: [] 
+
+[Term]
+id: DOID:5078 ! ganglioglioma
+equivalent_to: Orphanet:251949 ! DISCARD: [] 
+
+[Term]
+id: DOID:4817 ! ganglioneuroma
+equivalent_to: Orphanet:251992 ! DISCARD: [] 
+
+[Term]
+id: DOID:3640 ! central nervous system teratoma
+equivalent_to: Orphanet:252018 ! DISCARD: [] 
+
+[Term]
+id: DOID:5900 ! meningeal melanocytoma
+equivalent_to: Orphanet:252046 ! DISCARD: [] 
+
+[Term]
+id: DOID:5241 ! hemangioblastoma
+equivalent_to: Orphanet:252054 ! DISCARD: [] 
+
+[Term]
+id: DOID:12689 ! acoustic neuroma
+equivalent_to: Orphanet:252175 ! DISCARD: [] 
+
+[Term]
+id: DOID:962 ! neurofibroma
+equivalent_to: Orphanet:252183 ! DISCARD: [] 
+
+[Term]
+id: DOID:6707 ! malignant triton tumor
+equivalent_to: Orphanet:252212 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060267 ! pontocerebellar hypoplasia type 2A
+equivalent_to: Orphanet:2524 ! DISCARD: [DOID:0060268,DOID:0060269,DOID:0060270] 
+
+[Term]
+id: DC:0000598 ! Spondylometaphyseal Dysplasia
+equivalent_to: Orphanet:254 ! DISCARD: [] 
+
+[Term]
+id: DOID:9201 ! lichen planus
+equivalent_to: Orphanet:254367 ! DISCARD: [] 
+
+[Term]
+id: DOID:3593 ! epithelioid trophoblastic tumor
+equivalent_to: Orphanet:254698 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050768 ! mitochondrial complex V (ATP synthase) deficiency, nuclear type 1
+equivalent_to: Orphanet:254913 ! DISCARD: [DOID:0060332,DOID:0060333] 
+
+[Term]
+id: DOID:4271 ! microsporidiosis
+equivalent_to: Orphanet:2552 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060306 ! Meier-Gorlin syndrome
+equivalent_to: Orphanet:2554 ! DISCARD: [] 
+
+[Term]
+id: DOID:13099 ! Moyamoya disease
+equivalent_to: Orphanet:2573 ! DISCARD: [] 
+
+[Term]
+id: DOID:14291 ! LEOPARD syndrome
+equivalent_to: Orphanet:2574 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050436 ! mulibrey nanism
+equivalent_to: Orphanet:2576 ! DISCARD: [] 
+
+[Term]
+id: DC:0000567 ! Myofibromatosis, Infantile
+equivalent_to: Orphanet:2591 ! DISCARD: [] 
+
+[Term]
+id: DC:0000667 ! Myopathy, Tubular Aggregate
+equivalent_to: Orphanet:2593 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050760 ! X-linked myopathy with excessive autophagy
+equivalent_to: Orphanet:25980 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050769 ! N syndrome
+equivalent_to: Orphanet:2608 ! DISCARD: [] 
+
+[Term]
+id: DOID:11726 ! Emery-Dreifuss muscular dystrophy
+equivalent_to: Orphanet:261 ! DISCARD: [] 
+
+[Term]
+id: DC:0000523 ! Gastric Cancer
+equivalent_to: Orphanet:26106 ! DISCARD: [] 
+
+[Term]
+id: DOID:9467 ! nail-patella syndrome
+equivalent_to: Orphanet:2614 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060241 ! 3-M syndrome
+equivalent_to: Orphanet:2616 ! DISCARD: [] 
+
+[Term]
+id: DC:0000524 ! Geleophysic Dysplasia
+equivalent_to: Orphanet:2623 ! DISCARD: [] 
+
+[Term]
+id: DOID:11724 ! limb-girdle muscular dystrophy
+equivalent_to: Orphanet:263 ! DISCARD: [] 
+
+[Term]
+id: DOID:0001816 ! angiosarcoma
+equivalent_to: Orphanet:263413 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050765 ! neuroacanthocytosis
+equivalent_to: Orphanet:263440 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050813 ! spondyloepiphyseal dysplasia with congenital joint dislocations
+equivalent_to: Orphanet:263463 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060283 ! peeling skin syndrome
+equivalent_to: Orphanet:263543 ! DISCARD: [] 
+
+[Term]
+id: DOID:12120 ! pulmonary alveolar proteinosis
+equivalent_to: Orphanet:264675 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3082 ! interstitial lung disease
+equivalent_to: Orphanet:264992 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13481 ! thanatophoric dysplasia
+equivalent_to: Orphanet:2655 ! DISCARD: [] 
+
+[Term]
+id: DC:0000672 ! Neu-Laxova Syndrome
+equivalent_to: Orphanet:2671 ! DISCARD: [] 
+
+[Term]
+id: DOID:3559 ! pseudomyxoma peritonei
+equivalent_to: Orphanet:26790 ! DISCARD: [] 
+
+[Term]
+id: DOID:5339 ! cyclic hematopoiesis
+equivalent_to: Orphanet:2686 ! DISCARD: [] 
+
+[Term]
+id: DC:0000479 ! Bifid Nose
+equivalent_to: Orphanet:2695 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050763 ! ARC syndrome
+equivalent_to: Orphanet:2697 ! DISCARD: [] 
+
+[Term]
+id: DOID:11719 ! oculopharyngeal muscular dystrophy
+equivalent_to: Orphanet:270 ! DISCARD: [] 
+
+[Term]
+id: DOID:9672 ! noma
+equivalent_to: Orphanet:2700 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050816 ! urofacial syndrome
+equivalent_to: Orphanet:2704 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060291 ! oculodentodigital dysplasia
+equivalent_to: Orphanet:2710 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060123 ! connective tissue benign neoplasm
+equivalent_to: Orphanet:271832 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:117 ! heart cancer
+equivalent_to: Orphanet:271841 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:170 ! endocrine gland cancer
+equivalent_to: Orphanet:271847 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050559 ! Fukuyama congenital muscular dystrophy
+equivalent_to: Orphanet:272 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060289 ! Ohdo syndrome
+equivalent_to: Orphanet:2728 ! DISCARD: [] 
+
+[Term]
+id: DOID:11722 ! myotonic dystrophy type 1
+equivalent_to: Orphanet:273 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060288 ! omodysplasia
+equivalent_to: Orphanet:2733 ! DISCARD: [] 
+
+[Term]
+id: DOID:11678 ! onchocerciasis
+equivalent_to: Orphanet:2737 ! DISCARD: [] 
+
+[Term]
+id: DOID:2217 ! Bernard-Soulier syndrome
+equivalent_to: Orphanet:274 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050780 ! Opitz-GBBB syndrome
+equivalent_to: Orphanet:2745 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060316 ! orofaciodigital syndrome type I
+equivalent_to: Orphanet:2750 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0060246 ! MASA syndrome
+equivalent_to: Orphanet:275543 ! DISCARD: [] 
+
+[Term]
+id: DOID:10591 ! pre-eclampsia
+equivalent_to: Orphanet:275555 ! DISCARD: [] 
+
+[Term]
+id: DOID:5223 ! infertility
+equivalent_to: Orphanet:275742 ! DISCARD: [] 
+
+[Term]
+id: DOID:8850 ! salivary gland cancer
+equivalent_to: Orphanet:276142 ! DISCARD: [] 
+
+[Term]
+id: DC:0000291 ! Multiple Endocrine Neoplasia
+equivalent_to: Orphanet:276161 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050489 ! multinodular goiter
+equivalent_to: Orphanet:276399 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:84 ! osteochondritis dissecans
+equivalent_to: Orphanet:2764 ! DISCARD: [] 
+
+[Term]
+id: DOID:2018 ! hyperinsulinism
+equivalent_to: Orphanet:276525 ! DISCARD: [] 
+
+[Term]
+id: DOID:14798 ! Blount's disease
+equivalent_to: Orphanet:2768 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060231 ! Bruck syndrome
+equivalent_to: Orphanet:2771 ! DISCARD: [] 
+
+[Term]
+id: DOID:13533 ! osteopetrosis
+equivalent_to: Orphanet:2781 ! DISCARD: [] 
+
+[Term]
+id: DOID:4448 ! macular degeneration
+equivalent_to: Orphanet:279 ! DISCARD: [] 
+
+[Term]
+id: DC:0000698 ! Otofaciocervical Syndrome
+equivalent_to: Orphanet:2792 ! DISCARD: [] 
+
+[Term]
+id: DOID:12185 ! otosclerosis
+equivalent_to: Orphanet:2794 ! DISCARD: [] 
+
+[Term]
+id: DOID:11752 ! acute endophthalmitis
+equivalent_to: Orphanet:279888 ! DISCARD: [] 
+
+[Term]
+id: DOID:10697 ! chronic endophthalmitis
+equivalent_to: Orphanet:279891 ! DISCARD: [] 
+
+[Term]
+id: DOID:775 ! intraocular lymphoma
+equivalent_to: Orphanet:279904 ! DISCARD: [] 
+
+[Term]
+id: DOID:12732 ! intermediate uveitis
+equivalent_to: Orphanet:279914 ! DISCARD: [] 
+
+[Term]
+id: DOID:9389 ! infectious anterior uveitis
+equivalent_to: Orphanet:279922 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050460 ! Wolf-Hirschhorn syndrome
+equivalent_to: Orphanet:280 ! DISCARD: [] 
+
+[Term]
+id: DOID:4734 ! calciphylaxis
+equivalent_to: Orphanet:280062 ! DISCARD: [] 
+
+[Term]
+id: DOID:5408 ! Paget's disease of bone
+equivalent_to: Orphanet:280110 ! DISCARD: [] 
+
+[Term]
+id: DOID:8354 ! complement component 3 deficiency
+equivalent_to: Orphanet:280133 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050554 ! X-linked sideroblastic anemia with ataxia
+equivalent_to: Orphanet:2802 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050877 ! pancreatic agenesis
+equivalent_to: Orphanet:2805 ! DISCARD: [] 
+
+[Term]
+id: DOID:4776 ! rapidly progressive glomerulonephritis
+equivalent_to: Orphanet:280569 ! DISCARD: [] 
+
+[Term]
+id: DC:0000565 ! Multiple Congenital Anomalies-Hypotonia-Seizures Syndrome
+equivalent_to: Orphanet:280633 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13099 ! Moyamoya disease
+equivalent_to: Orphanet:280679 ! DISCARD: [] 
+
+[Term]
+id: DOID:2626 ! choroid plexus papilloma
+equivalent_to: Orphanet:2807 ! DISCARD: [] 
+
+[Term]
+id: DC:0000670 ! Laryngeal Abductor Paralysis
+equivalent_to: Orphanet:2808 ! DISCARD: [] 
+
+[Term]
+id: DOID:1407 ! anterior uveitis
+equivalent_to: Orphanet:280886 ! DISCARD: [] 
+
+[Term]
+id: DOID:12574 ! posterior uveitis
+equivalent_to: Orphanet:280892 ! DISCARD: [] 
+
+[Term]
+id: DOID:12030 ! panuveitis
+equivalent_to: Orphanet:280898 ! DISCARD: [] 
+
+[Term]
+id: DC:0000652 ! Ichthyosis, Congenital, Autosomal Recessive
+equivalent_to: Orphanet:281097 ! DISCARD: [] 
+
+[Term]
+id: DOID:1700 ! X-linked ichthyosis
+equivalent_to: Orphanet:281210 ! DISCARD: [] 
+
+[Term]
+id: DOID:9255 ! frontotemporal dementia
+equivalent_to: Orphanet:282 ! DISCARD: [] 
+
+[Term]
+id: DOID:14040 ! autoimmune polyendocrine syndrome
+equivalent_to: Orphanet:282196 ! DISCARD: [] 
+
+[Term]
+id: DOID:14330 ! Parkinson's disease
+equivalent_to: Orphanet:2828 ! DISCARD: [] 
+
+[Term]
+id: DOID:12148 ! alveolar echinococcosis
+equivalent_to: Orphanet:284 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050429 ! Hailey-Hailey disease
+equivalent_to: Orphanet:2841 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060276 ! pontocerebellar hypoplasia type 7
+equivalent_to: Orphanet:284339 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1852 ! intrahepatic cholestasis
+equivalent_to: Orphanet:284385 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050723 ! PSAT deficiency
+equivalent_to: Orphanet:284417 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050633 ! ocular albinism
+equivalent_to: Orphanet:284804 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050857 ! Perrault syndrome
+equivalent_to: Orphanet:2855 ! DISCARD: [] 
+
+[Term]
+id: DOID:3852 ! Peutz-Jeghers syndrome
+equivalent_to: Orphanet:2869 ! DISCARD: [] 
+
+[Term]
+id: DOID:2373 ! hereditary elliptocytosis
+equivalent_to: Orphanet:288 ! DISCARD: [] 
+
+[Term]
+id: DOID:3263 ! piebaldism
+equivalent_to: Orphanet:2884 ! DISCARD: [] 
+
+[Term]
+id: DOID:12714 ! Ellis-Van Creveld syndrome
+equivalent_to: Orphanet:289 ! DISCARD: [] 
+
+[Term]
+id: DOID:10609 ! rickets
+equivalent_to: Orphanet:289157 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050544 ! hypermethioninemia
+equivalent_to: Orphanet:289290 ! DISCARD: [] 
+
+[Term]
+id: DOID:321 ! tropical spastic paraparesis
+equivalent_to: Orphanet:289326 ! DISCARD: [] 
+
+[Term]
+id: DOID:9620 ! vesicoureteral reflux
+equivalent_to: Orphanet:289365 ! DISCARD: [] 
+
+[Term]
+id: DOID:9212 ! pityriasis rubra pilaris
+equivalent_to: Orphanet:2897 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060159 ! organic acidemia
+equivalent_to: Orphanet:289899 ! DISCARD: [] 
+
+[Term]
+id: DC:0000004 ! 3-Methylglutaconic Aciduria
+equivalent_to: Orphanet:289902 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050452 ! mevalonic aciduria
+equivalent_to: Orphanet:29 ! DISCARD: [] 
+
+[Term]
+id: DOID:10383 ! amyotrophic neuralgia
+equivalent_to: Orphanet:2901 ! DISCARD: [] 
+
+[Term]
+id: DOID:14039 ! POEMS syndrome
+equivalent_to: Orphanet:2905 ! DISCARD: [] 
+
+[Term]
+id: DOID:9538 ! multiple myeloma
+equivalent_to: Orphanet:29073 ! DISCARD: [] 
+
+[Term]
+id: DOID:11934 ! head and neck cancer
+equivalent_to: Orphanet:290849 ! DISCARD: [] 
+
+[Term]
+id: DOID:2732 ! Rothmund-Thomson syndrome
+equivalent_to: Orphanet:2909 ! DISCARD: [] 
+
+[Term]
+id: DOID:12961 ! Poland syndrome
+equivalent_to: Orphanet:2911 ! DISCARD: [] 
+
+[Term]
+id: DOID:4953 ! poliomyelitis
+equivalent_to: Orphanet:2912 ! DISCARD: [] 
+
+[Term]
+id: DOID:1148 ! polydactyly
+equivalent_to: Orphanet:2913 ! DISCARD: [] 
+
+[Term]
+id: DOID:6196 ! reactive arthritis
+equivalent_to: Orphanet:29207 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050787 ! juvenile polyposis syndrome
+equivalent_to: Orphanet:2929 ! DISCARD: [] 
+
+[Term]
+id: DOID:6225 ! Cronkhite-Canada syndrome
+equivalent_to: Orphanet:2930 ! DISCARD: [] 
+
+[Term]
+id: DOID:3250 ! pleomorphic rhabdomyosarcoma
+equivalent_to: Orphanet:293199 ! DISCARD: [] 
+
+[Term]
+id: DOID:6193 ! epithelioid sarcoma
+equivalent_to: Orphanet:293202 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060225 ! 3MC syndrome
+equivalent_to: Orphanet:293843 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060263 ! porencephaly
+equivalent_to: Orphanet:2940 ! DISCARD: [] 
+
+[Term]
+id: DC:0000674 ! Inflammatory Skin and Bowel Disease, Neonatal
+equivalent_to: Orphanet:294023 ! DISCARD: [] 
+
+[Term]
+id: DC:0000292 ! Multiple Pterygium Syndrome
+equivalent_to: Orphanet:294060 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060259 ! renal-hepatic-pancreatic dysplasia
+equivalent_to: Orphanet:294415 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050581 ! brachydactyly
+equivalent_to: Orphanet:294937 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060055 ! popliteal pterygium syndrome
+equivalent_to: Orphanet:294963 ! DISCARD: [] 
+
+[Term]
+id: DC:0000241 ! Lethal Congenital Contractural Syndrome
+equivalent_to: Orphanet:294965 ! DISCARD: [] 
+
+[Term]
+id: DOID:11193 ! syndactyly
+equivalent_to: Orphanet:295012 ! DISCARD: [] 
+
+[Term]
+id: DOID:4624 ! Ollier disease
+equivalent_to: Orphanet:296 ! DISCARD: [] 
+
+[Term]
+id: DOID:5394 ! prolactinoma
+equivalent_to: Orphanet:2965 ! DISCARD: [] 
+
+[Term]
+id: DOID:611 ! leukocyte-adhesion deficiency syndrome
+equivalent_to: Orphanet:2968 ! DISCARD: [DOID:6612] 
+
+[Term]
+id: DOID:0050175 ! tick-borne encephalitis
+equivalent_to: Orphanet:297 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050797 ! peroxisomal acyl-CoA oxidase deficiency
+equivalent_to: Orphanet:2971 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060229 ! Baraitser-Winter syndrome
+equivalent_to: Orphanet:2995 ! DISCARD: [] 
+
+[Term]
+id: DOID:4916 ! pituitary carcinoma
+equivalent_to: Orphanet:300385 ! DISCARD: [] 
+
+[Term]
+id: DOID:4932 ! ampulla of Vater carcinoma
+equivalent_to: Orphanet:300557 ! DISCARD: [] 
+
+[Term]
+id: DOID:3651 ! pyruvate carboxylase deficiency disease
+equivalent_to: Orphanet:3008 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050748 ! marginal zone B-cell lymphoma
+equivalent_to: Orphanet:300912 ! DISCARD: [] 
+
+[Term]
+id: DOID:5074 ! malignant ependymoma
+equivalent_to: Orphanet:301 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050740 ! Qazi Markouizos syndrome
+equivalent_to: Orphanet:3010 ! DISCARD: [] 
+
+[Term]
+id: DOID:13777 ! epidermodysplasia verruciformis
+equivalent_to: Orphanet:302 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050774 ! rapadilino syndrome
+equivalent_to: Orphanet:3021 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060330 ! Rapp-Hodgkin syndrome
+equivalent_to: Orphanet:3022 ! DISCARD: [] 
+
+[Term]
+id: DOID:4959 ! epidermolysis bullosa dystrophica
+equivalent_to: Orphanet:303 ! DISCARD: [] 
+
+[Term]
+id: DOID:13608 ! biliary atresia
+equivalent_to: Orphanet:30391 ! DISCARD: [] 
+
+[Term]
+id: DOID:4644 ! epidermolysis bullosa simplex
+equivalent_to: Orphanet:304 ! DISCARD: [] 
+
+[Term]
+id: DOID:1785 ! pituitary cancer
+equivalent_to: Orphanet:304055 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060290 ! blepharophimosis-intellectual disability syndrome, SBBYS type
+equivalent_to: Orphanet:3047 ! DISCARD: [] 
+
+[Term]
+id: DOID:3209 ! junctional epidermolysis bullosa
+equivalent_to: Orphanet:305 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060169 ! benign familial infantile epilepsy
+equivalent_to: Orphanet:306 ! DISCARD: [] 
+
+[Term]
+id: DOID:4607 ! biliary tract cancer
+equivalent_to: Orphanet:306633 ! DISCARD: [] 
+
+[Term]
+id: DOID:3571 ! liver cancer
+equivalent_to: Orphanet:306636 ! DISCARD: [] 
+
+[Term]
+id: DC:0000445 ! Tumoral Calcinosis
+equivalent_to: Orphanet:306661 ! DISCARD: [] 
+
+[Term]
+id: DC:0000537 ! Hyperekplexia
+equivalent_to: Orphanet:306773 ! DISCARD: [] 
+
+[Term]
+id: DOID:4890 ! juvenile myoclonic epilepsy
+equivalent_to: Orphanet:307 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050469 ! Costello syndrome
+equivalent_to: Orphanet:3071 ! DISCARD: [] 
+
+[Term]
+id: DC:0000653 ! Keratoderma, Palmoplantar Punctate
+equivalent_to: Orphanet:307967 ! DISCARD: [] 
+
+[Term]
+id: DOID:3535 ! Unverricht-Lundborg syndrome
+equivalent_to: Orphanet:308 ! DISCARD: [] 
+
+[Term]
+id: DOID:2234 ! focal epilepsy
+equivalent_to: Orphanet:309 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3146 ! lipid metabolism disorder
+equivalent_to: Orphanet:309005 ! DISCARD: [] 
+
+[Term]
+id: DOID:14118 ! familial lipoprotein lipase deficiency
+equivalent_to: Orphanet:309015 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050452 ! mevalonic aciduria
+equivalent_to: Orphanet:309025 ! DISCARD: [] 
+
+[Term]
+id: DOID:2368 ! gangliosidosis
+equivalent_to: Orphanet:309144 ! DISCARD: [] 
+
+[Term]
+id: DOID:3321 ! gangliosidosis GM2
+equivalent_to: Orphanet:309152 ! DISCARD: [] 
+
+[Term]
+id: DOID:3343 ! mucolipidosis
+equivalent_to: Orphanet:309294 ! DISCARD: [] 
+
+[Term]
+id: DOID:1712 ! aortic valve stenosis
+equivalent_to: Orphanet:3093 ! DISCARD: [] 
+
+[Term]
+id: DOID:14525 ! Reye syndrome
+equivalent_to: Orphanet:3096 ! DISCARD: [] 
+
+[Term]
+id: DOID:1586 ! rheumatic fever
+equivalent_to: Orphanet:3099 ! DISCARD: [] 
+
+[Term]
+id: DOID:2548 ! reflex epilepsy
+equivalent_to: Orphanet:310 ! DISCARD: [] 
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+equivalent_to: Orphanet:310050 ! DISCARD: [] 
+
+[Term]
+id: DOID:5325 ! Roberts syndrome
+equivalent_to: Orphanet:3103 ! DISCARD: [] 
+
+[Term]
+id: DOID:3507 ! dermatofibrosarcoma protuberans
+equivalent_to: Orphanet:31112 ! DISCARD: [] 
+
+[Term]
+id: DOID:1388 ! Tangier disease
+equivalent_to: Orphanet:31150 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1388 ! Tangier disease
+equivalent_to: Orphanet:31153 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1386 ! abetalipoproteinemia
+equivalent_to: Orphanet:31154 ! DISCARD: [DOID:1390] 
+
+[Term]
+id: DOID:5052 ! melioidosis
+equivalent_to: Orphanet:31202 ! DISCARD: [] 
+
+[Term]
+id: DOID:2312 ! nocardiosis
+equivalent_to: Orphanet:31204 ! DISCARD: [] 
+
+[Term]
+id: DOID:1699 ! congenital ichthyosiform erythroderma
+equivalent_to: Orphanet:313 ! DISCARD: [] 
+
+[Term]
+id: DOID:13300 ! Scheuermann's disease
+equivalent_to: Orphanet:3135 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050883 ! infantile cerebellar-retinal degeneration
+equivalent_to: Orphanet:313850 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050775 ! schneckenbecken dysplasia
+equivalent_to: Orphanet:3144 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050894 ! ameloblastoma
+equivalent_to: Orphanet:314419 ! DISCARD: [] 
+
+[Term]
+id: DOID:3982 ! Meige syndrome
+equivalent_to: Orphanet:314451 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060238 ! Van Maldergem syndrome
+equivalent_to: Orphanet:314679 ! DISCARD: [] 
+
+[Term]
+id: DOID:5395 ! functioning pituitary adenoma
+equivalent_to: Orphanet:314753 ! DISCARD: [] 
+
+[Term]
+id: DOID:5940 ! malignant peripheral nerve sheath tumor
+equivalent_to: Orphanet:3148 ! DISCARD: [] 
+
+[Term]
+id: DOID:1572 ! normal pressure hydrocephalus
+equivalent_to: Orphanet:314928 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060251 ! sclerosteosis
+equivalent_to: Orphanet:3152 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050576 ! Senior-Loken syndrome
+equivalent_to: Orphanet:3156 ! DISCARD: [] 
+
+[Term]
+id: DC:0000409 ! Spastic Ataxia
+equivalent_to: Orphanet:316226 ! DISCARD: [] 
+
+[Term]
+id: DOID:3659 ! sialuria
+equivalent_to: Orphanet:3166 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050467 ! erythrokeratodermia variabilis
+equivalent_to: Orphanet:317 ! DISCARD: [] 
+
+[Term]
+id: DOID:841 ! extrinsic allergic alveolitis
+equivalent_to: Orphanet:31740 ! DISCARD: [] 
+
+[Term]
+id: DOID:5453 ! pulmonary venoocclusive disease
+equivalent_to: Orphanet:31837 ! DISCARD: [] 
+
+[Term]
+id: DOID:3369 ! peripheral primitive neuroectodermal tumor
+equivalent_to: Orphanet:319 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050202 ! lujo hemorrhagic fever
+equivalent_to: Orphanet:319213 ! DISCARD: [] 
+
+[Term]
+id: DOID:4325 ! Ebola hemorrhagic fever
+equivalent_to: Orphanet:319218 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050194 ! Argentine hemorrhagic fever
+equivalent_to: Orphanet:319223 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050195 ! Bolivian hemorrhagic fever
+equivalent_to: Orphanet:319229 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050196 ! Venezuelan hemorrhagic fever
+equivalent_to: Orphanet:319234 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050197 ! Brazilian hemorrhagic fever
+equivalent_to: Orphanet:319239 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050198 ! Chapare hemorrhagic fever
+equivalent_to: Orphanet:319244 ! DISCARD: [] 
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+equivalent_to: Orphanet:319247 ! DISCARD: [] 
+
+[Term]
+id: DOID:1328 ! Rift Valley fever
+equivalent_to: Orphanet:319251 ! DISCARD: [] 
+
+[Term]
+id: DOID:11320 ! Kyasanur forest disease
+equivalent_to: Orphanet:319254 ! DISCARD: [] 
+
+[Term]
+id: DOID:992 ! Omsk hemorrhagic fever
+equivalent_to: Orphanet:319266 ! DISCARD: [] 
+
+[Term]
+id: DOID:4467 ! renal clear cell carcinoma
+equivalent_to: Orphanet:319276 ! DISCARD: [] 
+
+[Term]
+id: DOID:4465 ! papillary renal cell carcinoma
+equivalent_to: Orphanet:319298 ! DISCARD: [] 
+
+[Term]
+id: DOID:1929 ! supravalvular aortic stenosis
+equivalent_to: Orphanet:3193 ! DISCARD: [] 
+
+[Term]
+id: DOID:4471 ! chromophobe adenocarcinoma
+equivalent_to: Orphanet:319303 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4464 ! collecting duct carcinoma
+equivalent_to: Orphanet:319319 ! DISCARD: [] 
+
+[Term]
+id: DOID:13909 ! red-green color blindness
+equivalent_to: Orphanet:319698 ! DISCARD: [] 
+
+[Term]
+id: DOID:13366 ! Stiff-Person syndrome
+equivalent_to: Orphanet:3198 ! DISCARD: [] 
+
+[Term]
+id: DOID:4367 ! apparent mineralocorticoid excess syndrome
+equivalent_to: Orphanet:320 ! DISCARD: [] 
+
+[Term]
+id: DOID:206 ! hereditary multiple exostoses
+equivalent_to: Orphanet:321 ! DISCARD: [] 
+
+[Term]
+id: DOID:14711 ! FG syndrome
+equivalent_to: Orphanet:323 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050794 ! multiple synostoses syndrome
+equivalent_to: Orphanet:3237 ! DISCARD: [] 
+
+[Term]
+id: DOID:14499 ! Fabry disease
+equivalent_to: Orphanet:324 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060179 ! Renpenning syndrome
+equivalent_to: Orphanet:3242 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060277 ! pontocerebellar hypoplasia type 8
+equivalent_to: Orphanet:324569 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050012 ! chikungunya
+equivalent_to: Orphanet:324625 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050569 ! Seckel syndrome
+equivalent_to: Orphanet:324761 ! DISCARD: [] 
+
+[Term]
+id: DC:0000443 ! Trichorhinophalangeal Syndrome
+equivalent_to: Orphanet:324764 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050553 ! JMP syndrome
+equivalent_to: Orphanet:324999 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050788 ! proximal symphalangism
+equivalent_to: Orphanet:3250 ! DISCARD: [] 
+
+[Term]
+id: DOID:6688 ! autoimmune lymphoproliferative syndrome
+equivalent_to: Orphanet:3261 ! DISCARD: [] 
+
+[Term]
+id: DC:0000532 ! Humeroradial Synostosis
+equivalent_to: Orphanet:3265 ! DISCARD: [] 
+
+[Term]
+id: DOID:9827 ! radioulnar synostosis
+equivalent_to: Orphanet:3269 ! DISCARD: [] 
+
+[Term]
+id: DOID:5485 ! synovial sarcoma
+equivalent_to: Orphanet:3273 ! DISCARD: [] 
+
+[Term]
+id: DOID:327 ! syringomyelia
+equivalent_to: Orphanet:3280 ! DISCARD: [] 
+
+[Term]
+id: DC:0000665 ! Ventricular Tachycardia, Catecholaminergic Polymorphic
+equivalent_to: Orphanet:3286 ! DISCARD: [] 
+
+[Term]
+id: DOID:2508 ! Takayasu's arteritis
+equivalent_to: Orphanet:3287 ! DISCARD: [] 
+
+[Term]
+id: DOID:2229 ! factor XI deficiency
+equivalent_to: Orphanet:329 ! DISCARD: [] 
+
+[Term]
+id: DOID:11338 ! tetanus
+equivalent_to: Orphanet:3299 ! DISCARD: [] 
+
+[Term]
+id: DOID:14753 ! isovaleric acidemia
+equivalent_to: Orphanet:33 ! DISCARD: [] 
+
+[Term]
+id: DOID:6419 ! tetralogy of Fallot
+equivalent_to: Orphanet:3303 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080020 ! Jansen's metaphyseal chondrodysplasia
+equivalent_to: Orphanet:33067 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060171 ! Dravet Syndrome
+equivalent_to: Orphanet:33069 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050222 ! selective IgM deficiency disease
+equivalent_to: Orphanet:331235 ! DISCARD: [] 
+
+[Term]
+id: DOID:2224 ! hemorrhagic thrombocythemia
+equivalent_to: Orphanet:3318 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050734 ! congenital intrinsic factor deficiency
+equivalent_to: Orphanet:332 ! DISCARD: [] 
+
+[Term]
+id: DOID:14699 ! thrombocytopenia-absent radius syndrome
+equivalent_to: Orphanet:3320 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050747 ! lymphoplasmacytic lymphoma
+equivalent_to: Orphanet:33226 ! DISCARD: [] 
+
+[Term]
+id: DOID:8632 ! Kaposi's sarcoma
+equivalent_to: Orphanet:33276 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050464 ! Farber lipogranulomatosis
+equivalent_to: Orphanet:333 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060020 ! reticular dysgenesis
+equivalent_to: Orphanet:33355 ! DISCARD: [] 
+
+[Term]
+id: DOID:2960 ! photosensitive trichothiodystrophy
+equivalent_to: Orphanet:33364 ! DISCARD: [] 
+
+[Term]
+id: DOID:1062 ! Fanconi syndrome
+equivalent_to: Orphanet:3337 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060224 ! atrial fibrillation
+equivalent_to: Orphanet:334 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050645 ! arterial tortuosity syndrome
+equivalent_to: Orphanet:3342 ! DISCARD: [] 
+
+[Term]
+id: DOID:9790 ! toxocariasis
+equivalent_to: Orphanet:3343 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060165 ! Kleine-Levin syndrome
+equivalent_to: Orphanet:33543 ! DISCARD: [] 
+
+[Term]
+id: DOID:1525 ! nodular nonsuppurative panniculitis
+equivalent_to: Orphanet:33577 ! DISCARD: [] 
+
+[Term]
+id: DOID:13374 ! fibrodysplasia ossificans progressiva
+equivalent_to: Orphanet:337 ! DISCARD: [] 
+
+[Term]
+id: DOID:11665 ! Patau syndrome
+equivalent_to: Orphanet:3378 ! DISCARD: [] 
+
+[Term]
+id: DOID:1085 ! Edwards syndrome
+equivalent_to: Orphanet:3380 ! DISCARD: [] 
+
+[Term]
+id: DOID:10112 ! sleeping sickness
+equivalent_to: Orphanet:3385 ! DISCARD: [] 
+
+[Term]
+id: DOID:12140 ! Chagas disease
+equivalent_to: Orphanet:3386 ! DISCARD: [] 
+
+[Term]
+id: DC:0000318 ! Neural Tube Defects
+equivalent_to: Orphanet:3388 ! DISCARD: [] 
+
+[Term]
+id: DOID:399 ! tuberculosis
+equivalent_to: Orphanet:3389 ! DISCARD: [] 
+
+[Term]
+id: DOID:2123 ! tularemia
+equivalent_to: Orphanet:3392 ! DISCARD: [] 
+
+[Term]
+id: DOID:2994 ! germ cell cancer
+equivalent_to: Orphanet:3399 ! DISCARD: [] 
+
+[Term]
+id: DOID:11266 ! hemorrhagic fever with renal syndrome
+equivalent_to: Orphanet:340 ! DISCARD: [] 
+
+[Term]
+id: DOID:2987 ! familial Mediterranean fever
+equivalent_to: Orphanet:342 ! DISCARD: [] 
+
+[Term]
+id: DOID:6406 ! double outlet right ventricle
+equivalent_to: Orphanet:3426 ! DISCARD: [] 
+
+[Term]
+id: DOID:12297 ! Vogt-Koyanagi-Harada disease
+equivalent_to: Orphanet:3437 ! DISCARD: [] 
+
+[Term]
+id: DOID:9258 ! Waardenburg's syndrome
+equivalent_to: Orphanet:3440 ! DISCARD: [] 
+
+[Term]
+id: DOID:14731 ! Weaver syndrome
+equivalent_to: Orphanet:3447 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14731 ! Weaver syndrome
+equivalent_to: Orphanet:3448 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050475 ! Weill-Marchesani syndrome
+equivalent_to: Orphanet:3449 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050562 ! West syndrome
+equivalent_to: Orphanet:3451 ! DISCARD: [] 
+
+[Term]
+id: DOID:8476 ! Whipple disease
+equivalent_to: Orphanet:3452 ! DISCARD: [] 
+
+[Term]
+id: DOID:2566 ! corneal dystrophy
+equivalent_to: Orphanet:34533 ! DISCARD: [] 
+
+[Term]
+id: DOID:10632 ! Wolfram syndrome
+equivalent_to: Orphanet:3463 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060236 ! xanthinuria
+equivalent_to: Orphanet:3467 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050438 ! Frasier syndrome
+equivalent_to: Orphanet:347 ! DISCARD: [] 
+
+[Term]
+id: DC:0000708 ! Zimmermann-Laband Syndrome
+equivalent_to: Orphanet:3473 ! DISCARD: [] 
+
+[Term]
+id: DOID:5204 ! fructose-1,6-bisphosphatase deficiency
+equivalent_to: Orphanet:348 ! DISCARD: [] 
+
+[Term]
+id: DOID:14500 ! fucosidosis
+equivalent_to: Orphanet:349 ! DISCARD: [] 
+
+[Term]
+id: DOID:14701 ! propionic acidemia
+equivalent_to: Orphanet:35 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060292 ! X-linked chondrodysplasia punctata
+equivalent_to: Orphanet:35173 ! DISCARD: [] 
+
+[Term]
+id: DOID:9870 ! galactosemia
+equivalent_to: Orphanet:352 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050639 ! primary cutaneous amyloidosis
+equivalent_to: Orphanet:353220 ! DISCARD: [] 
+
+[Term]
+id: DOID:3322 ! gangliosidosis GM1
+equivalent_to: Orphanet:354 ! DISCARD: [] 
+
+[Term]
+id: DOID:1926 ! Gaucher's disease
+equivalent_to: Orphanet:355 ! DISCARD: [] 
+
+[Term]
+id: DOID:4249 ! Gerstmann-Straussler-Scheinker syndrome
+equivalent_to: Orphanet:356 ! DISCARD: [] 
+
+[Term]
+id: DOID:10629 ! microphthalmia
+equivalent_to: Orphanet:35612 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050730 ! coenzyme Q10 deficiency disease
+equivalent_to: Orphanet:35656 ! DISCARD: [] 
+
+[Term]
+id: DOID:4329 ! Erdheim-Chester disease
+equivalent_to: Orphanet:35687 ! DISCARD: [] 
+
+[Term]
+id: DOID:230 ! lateral sclerosis
+equivalent_to: Orphanet:35689 ! DISCARD: [] 
+
+[Term]
+id: DC:0000284 ! Mitochondrial DNA Depletion Syndrome
+equivalent_to: Orphanet:35698 ! DISCARD: [] 
+
+[Term]
+id: DOID:768 ! retinoblastoma
+equivalent_to: Orphanet:357027 ! DISCARD: [] 
+
+[Term]
+id: DOID:4651 ! unilateral retinoblastoma
+equivalent_to: Orphanet:357034 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050712 ! AGAT deficiency
+equivalent_to: Orphanet:35704 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060196 ! amyotrophic lateral sclerosis type 4
+equivalent_to: Orphanet:357043 ! DISCARD: [] 
+
+[Term]
+id: DOID:5773 ! oral submucous fibrosis
+equivalent_to: Orphanet:357154 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050450 ! Gitelman syndrome
+equivalent_to: Orphanet:358 ! DISCARD: [] 
+
+[Term]
+id: DC:0000517 ! Factor V and Factor VIII, Combined Deficiency of
+equivalent_to: Orphanet:35909 ! DISCARD: [] 
+
+[Term]
+id: DC:0000363 ! Polymicrogyria
+equivalent_to: Orphanet:35981 ! DISCARD: [] 
+
+[Term]
+id: DOID:9250 ! acrocallosal syndrome
+equivalent_to: Orphanet:36 ! DISCARD: [] 
+
+[Term]
+id: DC:0000175 ! Glucocorticoid Deficiency
+equivalent_to: Orphanet:361 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060183 ! collagenous colitis
+equivalent_to: Orphanet:36205 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DC:0000583 ! Progeroid Syndrome
+equivalent_to: Orphanet:363245 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050814 ! temtamy preaxial brachydactyly syndrome
+equivalent_to: Orphanet:363417 ! DISCARD: [] 
+
+[Term]
+id: DOID:4086 ! testicular germ cell tumor non-seminomatous
+equivalent_to: Orphanet:363494 ! DISCARD: [DOID:5345] 
+
+[Term]
+id: DOID:5557 ! testicular germ cell cancer
+equivalent_to: Orphanet:363504 ! DISCARD: [] 
+
+[Term]
+id: DOID:4717 ! extragonadal germ cell cancer
+equivalent_to: Orphanet:363579 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:5557 ! testicular germ cell cancer
+equivalent_to: Orphanet:3636504 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060170 ! generalized epilepsy with febrile seizures plus
+equivalent_to: Orphanet:36387 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050880 ! Koolen de Vries syndrome
+equivalent_to: Orphanet:363958 ! DISCARD: [] 
+
+[Term]
+id: DOID:3928 ! adiposis dolorosa
+equivalent_to: Orphanet:36397 ! DISCARD: [] 
+
+[Term]
+id: DOID:4305 ! bone giant cell tumor
+equivalent_to: Orphanet:363976 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050426 ! Stevens-Johnson syndrome
+equivalent_to: Orphanet:36426 ! DISCARD: [] 
+
+[Term]
+id: DOID:1934 ! dysostosis
+equivalent_to: Orphanet:364559 ! DISCARD: [] 
+
+[Term]
+id: DC:0000463 ! Acrofacial Dysostosis
+equivalent_to: Orphanet:364574 ! DISCARD: [] 
+
+[Term]
+id: DOID:2754 ! glycogen storage disease VI
+equivalent_to: Orphanet:369 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060278 ! pontocerebellar hypoplasia type 9
+equivalent_to: Orphanet:369920 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050605 ! acrodermatitis enteropathica
+equivalent_to: Orphanet:37 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:327 ! syringomyelia
+equivalent_to: Orphanet:370034 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3369 ! peripheral primitive neuroectodermal tumor
+equivalent_to: Orphanet:370348 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050588 ! muscular dystrophy-dystroglycanopathy
+equivalent_to: Orphanet:370953 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1029 ! familial periodic paralysis
+equivalent_to: Orphanet:371433 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:446 ! hyperaldosteronism
+equivalent_to: Orphanet:371861 ! DISCARD: [] 
+
+[Term]
+id: DOID:13949 ! interstitial cystitis
+equivalent_to: Orphanet:37202 ! DISCARD: [DOID:1678] 
+
+[Term]
+id: DOID:0060248 ! Simpson-Golabi-Behmel syndrome
+equivalent_to: Orphanet:373 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2907 ! Goldenhar syndrome
+equivalent_to: Orphanet:374 ! DISCARD: [] 
+
+[Term]
+id: DOID:9808 ! Goodpasture syndrome
+equivalent_to: Orphanet:375 ! DISCARD: [] 
+
+[Term]
+id: DOID:963 ! episodic ataxia
+equivalent_to: Orphanet:37612 ! DISCARD: [] 
+
+[Term]
+id: DOID:4371 ! Schnitzler syndrome
+equivalent_to: Orphanet:37748 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4 ! disease
+equivalent_to: Orphanet:377788 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4 ! disease
+equivalent_to: Orphanet:377794 ! DISCARD: [] 
+
+[Term]
+id: DOID:3265 ! chronic granulomatous disease
+equivalent_to: Orphanet:379 ! DISCARD: [] 
+
+[Term]
+id: DOID:14761 ! Greig cephalopolysyndactyly syndrome
+equivalent_to: Orphanet:380 ! DISCARD: [] 
+
+[Term]
+id: DC:0000356 ! Griscelli Syndrome
+equivalent_to: Orphanet:381 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050799 ! guanidinoacetate methyltransferase deficiency
+equivalent_to: Orphanet:382 ! DISCARD: [] 
+
+[Term]
+id: DC:0000320 ! Neurodegeneration with Brain Iron Accumulation
+equivalent_to: Orphanet:385 ! DISCARD: [] 
+
+[Term]
+id: DOID:10487 ! Hirschsprung's disease
+equivalent_to: Orphanet:388 ! DISCARD: [] 
+
+[Term]
+id: DOID:2571 ! Langerhans-cell histiocytosis
+equivalent_to: Orphanet:389 ! DISCARD: [] 
+
+[Term]
+id: DOID:1731 ! histoplasmosis
+equivalent_to: Orphanet:390 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060010 ! Omenn syndrome
+equivalent_to: Orphanet:39041 ! DISCARD: [] 
+
+[Term]
+id: DOID:6039 ! uveal melanoma
+equivalent_to: Orphanet:39044 ! DISCARD: [] 
+
+[Term]
+id: DC:0000616 ! Episodic Pain Syndrome, Familial
+equivalent_to: Orphanet:391384 ! DISCARD: [] 
+
+[Term]
+id: DOID:2431 ! glomus tumor
+equivalent_to: Orphanet:391651 ! DISCARD: [] 
+
+[Term]
+id: DOID:543 ! dystonia
+equivalent_to: Orphanet:391799 ! DISCARD: [] 
+
+[Term]
+id: DOID:9263 ! homocystinuria
+equivalent_to: Orphanet:394 ! DISCARD: [] 
+
+[Term]
+id: DOID:13375 ! temporal arteritis
+equivalent_to: Orphanet:397 ! DISCARD: [] 
+
+[Term]
+id: DOID:12700 ! hyperprolactinemia
+equivalent_to: Orphanet:397685 ! DISCARD: [] 
+
+[Term]
+id: DC:0000696 ! Polyglucosan Body Myopathy
+equivalent_to: Orphanet:397937 ! DISCARD: [] 
+
+[Term]
+id: DOID:5518 ! penis squamous cell carcinoma
+equivalent_to: Orphanet:398058 ! DISCARD: [] 
+
+[Term]
+id: DC:0000521 ! Focal Facial Dermal Dysplasia
+equivalent_to: Orphanet:398166 ! DISCARD: [] 
+
+[Term]
+id: DOID:6331 ! immature teratoma of ovary
+equivalent_to: Orphanet:398987 ! DISCARD: [] 
+
+[Term]
+id: DOID:12858 ! Huntington's disease
+equivalent_to: Orphanet:399 ! DISCARD: [] 
+
+[Term]
+id: DOID:11720 ! distal muscular dystrophy
+equivalent_to: Orphanet:399086 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11720 ! distal muscular dystrophy
+equivalent_to: Orphanet:399096 ! DISCARD: [] 
+
+[Term]
+id: DOID:10159 ! osteonecrosis
+equivalent_to: Orphanet:399158 ! DISCARD: [] 
+
+[Term]
+id: DOID:8125 ! osteochondrosis
+equivalent_to: Orphanet:399319 ! DISCARD: [] 
+
+[Term]
+id: DOID:12336 ! male infertility
+equivalent_to: Orphanet:399980 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080050 ! acromesomelic dysplasia, Maroteaux type
+equivalent_to: Orphanet:40 ! DISCARD: [] 
+
+[Term]
+id: DOID:1495 ! cystic echinococcosis
+equivalent_to: Orphanet:400 ! DISCARD: [] 
+
+[Term]
+id: DOID:10074 ! hymenolepiasis
+equivalent_to: Orphanet:401 ! DISCARD: [] 
+
+[Term]
+id: DOID:5015 ! hepatocellular fibrolamellar carcinoma
+equivalent_to: Orphanet:401920 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13099 ! Moyamoya disease
+equivalent_to: Orphanet:401945 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1712 ! aortic valve stenosis
+equivalent_to: Orphanet:402075 ! DISCARD: [] 
+
+[Term]
+id: DOID:10041 ! dysplastic nevus syndrome
+equivalent_to: Orphanet:404560 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0080006 ! bone development disease
+equivalent_to: Orphanet:404584 ! DISCARD: [] 
+
+[Term]
+id: DC:0000209 ! Hypocalciuric Hypercalcemia
+equivalent_to: Orphanet:405 ! DISCARD: [] 
+
+[Term]
+id: DOID:13810 ! familial hypercholesterolemia
+equivalent_to: Orphanet:406 ! DISCARD: [] 
+
+[Term]
+id: DOID:9268 ! glycine encephalopathy
+equivalent_to: Orphanet:407 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060257 ! dyschromatosis symmetrica hereditaria
+equivalent_to: Orphanet:41 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060279 ! pontocerebellar hypoplasia type 10
+equivalent_to: Orphanet:411493 ! DISCARD: [] 
+
+[Term]
+id: DOID:2977 ! primary hyperoxaluria
+equivalent_to: Orphanet:416 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050811 ! congenital adrenal hyperplasia
+equivalent_to: Orphanet:418 ! DISCARD: [] 
+
+[Term]
+id: DOID:14557 ! primary pulmonary hypertension
+equivalent_to: Orphanet:422 ! DISCARD: [] 
+
+[Term]
+id: DOID:8545 ! malignant hyperthermia
+equivalent_to: Orphanet:423 ! DISCARD: [] 
+
+[Term]
+id: DOID:14021 ! Tietze's syndrome
+equivalent_to: Orphanet:42665 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050590 ! severe congenital neutropenia
+equivalent_to: Orphanet:42738 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080041 ! hypochondroplasia
+equivalent_to: Orphanet:429 ! DISCARD: [] 
+
+[Term]
+id: DOID:10588 ! adrenoleukodystrophy
+equivalent_to: Orphanet:43 ! DISCARD: [] 
+
+[Term]
+id: DOID:12926 ! hypodermyiasis
+equivalent_to: Orphanet:430 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050214 ! Lambert-Eaton myasthenic syndrome
+equivalent_to: Orphanet:43393 ! DISCARD: [] 
+
+[Term]
+id: DOID:3156 ! incontinentia pigmenti achromians
+equivalent_to: Orphanet:435 ! DISCARD: [] 
+
+[Term]
+id: DOID:14213 ! hypophosphatasia
+equivalent_to: Orphanet:436 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050445 ! X-linked hypophosphatemia
+equivalent_to: Orphanet:437 ! DISCARD: [] 
+
+[Term]
+id: DOID:10892 ! hypospadias
+equivalent_to: Orphanet:440 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050328 ! congenital hypothyroidism
+equivalent_to: Orphanet:442 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060284 ! paroxysmal nocturnal hemoglobinuria
+equivalent_to: Orphanet:447 ! DISCARD: [] 
+
+[Term]
+id: DOID:9253 ! gastrointestinal stromal tumor
+equivalent_to: Orphanet:44890 ! DISCARD: [] 
+
+[Term]
+id: DOID:687 ! hepatoblastoma
+equivalent_to: Orphanet:449 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050545 ! visceral heterotaxy
+equivalent_to: Orphanet:450 ! DISCARD: [] 
+
+[Term]
+id: DC:0000163 ! Fibrosis Of Extraocular Muscles, Congenital
+equivalent_to: Orphanet:45358 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1700 ! X-linked ichthyosis
+equivalent_to: Orphanet:461 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3181 ! oligodendroglioma
+equivalent_to: Orphanet:46484 ! DISCARD: [] 
+
+[Term]
+id: DOID:4313 ! epidermolysis bullosa acquisita
+equivalent_to: Orphanet:46487 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050433 ! fatal familial insomnia
+equivalent_to: Orphanet:466 ! DISCARD: [] 
+
+[Term]
+id: DOID:9869 ! hereditary fructose intolerance syndrome
+equivalent_to: Orphanet:469 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4465 ! papillary renal cell carcinoma
+equivalent_to: Orphanet:47044 ! DISCARD: [] 
+
+[Term]
+id: DOID:2112 ! cystoisosporiasis
+equivalent_to: Orphanet:472 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050592 ! asphyxiating thoracic dystrophy
+equivalent_to: Orphanet:474 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050777 ! Joubert syndrome
+equivalent_to: Orphanet:475 ! DISCARD: [] 
+
+[Term]
+id: DOID:11042 ! Felty's syndrome
+equivalent_to: Orphanet:47612 ! DISCARD: [] 
+
+[Term]
+id: DOID:3614 ! Kallmann syndrome
+equivalent_to: Orphanet:478 ! DISCARD: [] 
+
+[Term]
+id: DOID:12934 ! Kearns-Sayre syndrome
+equivalent_to: Orphanet:480 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060161 ! Kennedy's disease
+equivalent_to: Orphanet:481 ! DISCARD: [] 
+
+[Term]
+id: DOID:8553 ! pyoderma gangrenosum
+equivalent_to: Orphanet:48104 ! DISCARD: [] 
+
+[Term]
+id: DOID:7365 ! Kimura disease
+equivalent_to: Orphanet:482 ! DISCARD: [] 
+
+[Term]
+id: DOID:8508 ! subcorneal pustular dermatosis
+equivalent_to: Orphanet:48377 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050453 ! lissencephaly
+equivalent_to: Orphanet:48471 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080045 ! Kniest dysplasia
+equivalent_to: Orphanet:485 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050590 ! severe congenital neutropenia
+equivalent_to: Orphanet:486 ! DISCARD: [] 
+
+[Term]
+id: DOID:10587 ! Krabbe disease
+equivalent_to: Orphanet:487 ! DISCARD: [] 
+
+[Term]
+id: DOID:7232 ! central nervous system embryonal carcinoma
+equivalent_to: Orphanet:48736 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050711 ! aceruloplasminemia
+equivalent_to: Orphanet:48818 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4154 ! dentinogenesis imperfecta
+equivalent_to: Orphanet:49042 ! DISCARD: [] 
+
+[Term]
+id: DOID:3149 ! keratoacanthoma
+equivalent_to: Orphanet:493 ! DISCARD: [] 
+
+[Term]
+id: DOID:13911 ! achromatopsia
+equivalent_to: Orphanet:49382 ! DISCARD: [] 
+
+[Term]
+id: DOID:8461 ! Aicardi syndrome
+equivalent_to: Orphanet:50 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14291 ! LEOPARD syndrome
+equivalent_to: Orphanet:500 ! DISCARD: [] 
+
+[Term]
+id: DOID:3534 ! Lafora disease
+equivalent_to: Orphanet:501 ! DISCARD: [] 
+
+[Term]
+id: DOID:4998 ! trichorhinophalangeal syndrome type II
+equivalent_to: Orphanet:502 ! DISCARD: [] 
+
+[Term]
+id: DOID:3652 ! Leigh disease
+equivalent_to: Orphanet:506 ! DISCARD: [] 
+
+[Term]
+id: DOID:9065 ! leishmaniasis
+equivalent_to: Orphanet:507 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050470 ! Donohue Syndrome
+equivalent_to: Orphanet:508 ! DISCARD: [] 
+
+[Term]
+id: DOID:11258 ! cat-scratch disease
+equivalent_to: Orphanet:50839 ! DISCARD: [] 
+
+[Term]
+id: DOID:2297 ! leptospirosis
+equivalent_to: Orphanet:509 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050629 ! Aicardi-Goutieres syndrome
+equivalent_to: Orphanet:51 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1919 ! Lesch-Nyhan syndrome
+equivalent_to: Orphanet:510 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050793 ! short QT syndrome
+equivalent_to: Orphanet:51083 ! DISCARD: [] 
+
+[Term]
+id: DOID:9269 ! maple syrup urine disease
+equivalent_to: Orphanet:511 ! DISCARD: [] 
+
+[Term]
+id: DOID:10581 ! metachromatic leukodystrophy
+equivalent_to: Orphanet:512 ! DISCARD: [] 
+
+[Term]
+id: DOID:9952 ! acute lymphocytic leukemia
+equivalent_to: Orphanet:513 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050644 ! arterial calcification of infancy
+equivalent_to: Orphanet:51608 ! DISCARD: [] 
+
+[Term]
+id: DOID:9119 ! acute myeloid leukemia
+equivalent_to: Orphanet:519 ! DISCARD: [] 
+
+[Term]
+id: DOID:9245 ! Alagille syndrome
+equivalent_to: Orphanet:52 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060318 ! acute promyelocytic leukemia
+equivalent_to: Orphanet:520 ! DISCARD: [] 
+
+[Term]
+id: DOID:8552 ! chronic myeloid leukemia
+equivalent_to: Orphanet:521 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050757 ! deafness dystonia syndrome
+equivalent_to: Orphanet:52368 ! DISCARD: [] 
+
+[Term]
+id: DOID:3012 ! Li-Fraumeni syndrome
+equivalent_to: Orphanet:524 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050746 ! mantle cell lymphoma
+equivalent_to: Orphanet:52416 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050909 ! MALT lymphoma
+equivalent_to: Orphanet:52417 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11105 ! fundus albipunctatus
+equivalent_to: Orphanet:52427 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0060232 ! branchiootic syndrome
+equivalent_to: Orphanet:52429 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050881 ! inclusion body myopathy with Paget disease of bone and frontotemporal dementia
+equivalent_to: Orphanet:52430 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050477 ! Liddle syndrome
+equivalent_to: Orphanet:526 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050908 ! myelodysplastic syndrome
+equivalent_to: Orphanet:52688 ! DISCARD: [] 
+
+[Term]
+id: DOID:865 ! vasculitis
+equivalent_to: Orphanet:52759 ! DISCARD: [] 
+
+[Term]
+id: DOID:14498 ! lipoid proteinosis
+equivalent_to: Orphanet:530 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050876 ! Caroli disease
+equivalent_to: Orphanet:53035 ! DISCARD: [] 
+
+[Term]
+id: DOID:11573 ! listeriosis
+equivalent_to: Orphanet:533 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050692 ! Brody myopathy
+equivalent_to: Orphanet:53347 ! DISCARD: [] 
+
+[Term]
+id: DOID:1056 ! oculocerebrorenal syndrome
+equivalent_to: Orphanet:534 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050169 ! cutaneous lupus erythematosus
+equivalent_to: Orphanet:535 ! DISCARD: [] 
+
+[Term]
+id: DOID:9074 ! systemic lupus erythematosus
+equivalent_to: Orphanet:536 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060296 ! congenital secretory chloride diarrhea 1
+equivalent_to: Orphanet:53689 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060287 ! cornea plana
+equivalent_to: Orphanet:53691 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DC:0000445 ! Tumoral Calcinosis
+equivalent_to: Orphanet:53715 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050582 ! distal hereditary motor neuropathy
+equivalent_to: Orphanet:53739 ! DISCARD: [] 
+
+[Term]
+id: DOID:3319 ! lymphangioleiomyomatosis
+equivalent_to: Orphanet:538 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050120 ! hemophagocytic lymphohistiocytosis
+equivalent_to: Orphanet:540 ! DISCARD: [] 
+
+[Term]
+id: DOID:10772 ! thrombotic thrombocytopenic purpura
+equivalent_to: Orphanet:54057 ! DISCARD: [] 
+
+[Term]
+id: DC:0000237 ! Left Ventricular Noncompaction
+equivalent_to: Orphanet:54260 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050868 ! hepatocellular adenoma
+equivalent_to: Orphanet:54272 ! DISCARD: [] 
+
+[Term]
+id: DOID:8584 ! Burkitt lymphoma
+equivalent_to: Orphanet:543 ! DISCARD: [] 
+
+[Term]
+id: DOID:9640 ! sarcocystosis
+equivalent_to: Orphanet:54368 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050745 ! diffuse large B-cell lymphoma
+equivalent_to: Orphanet:544 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11720 ! distal muscular dystrophy
+equivalent_to: Orphanet:5448 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050873 ! follicular lymphoma
+equivalent_to: Orphanet:545 ! DISCARD: [] 
+
+[Term]
+id: DOID:3840 ! craniopharyngioma
+equivalent_to: Orphanet:54595 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060060 ! non-Hodgkin lymphoma
+equivalent_to: Orphanet:547 ! DISCARD: [] 
+
+[Term]
+id: DOID:1024 ! leprosy
+equivalent_to: Orphanet:548 ! DISCARD: [] 
+
+[Term]
+id: DOID:10458 ! legionellosis
+equivalent_to: Orphanet:549 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050632 ! oculocutaneous albinism
+equivalent_to: Orphanet:55 ! DISCARD: [] 
+
+[Term]
+id: DOID:3687 ! MELAS syndrome
+equivalent_to: Orphanet:550 ! DISCARD: [] 
+
+[Term]
+id: DOID:310 ! MERRF syndrome
+equivalent_to: Orphanet:551 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050524 ! maturity-onset diabetes of the young
+equivalent_to: Orphanet:552 ! DISCARD: [] 
+
+[Term]
+id: DOID:12252 ! Cushing's syndrome
+equivalent_to: Orphanet:553 ! DISCARD: [] 
+
+[Term]
+id: DOID:10608 ! celiac disease
+equivalent_to: Orphanet:555 ! DISCARD: [] 
+
+[Term]
+id: DOID:4535 ! hypotrichosis
+equivalent_to: Orphanet:55654 ! DISCARD: [] 
+
+[Term]
+id: DOID:14323 ! Marfan syndrome
+equivalent_to: Orphanet:558 ! DISCARD: [] 
+
+[Term]
+id: DOID:3371 ! chondrosarcoma
+equivalent_to: Orphanet:55880 ! DISCARD: [] 
+
+[Term]
+id: DOID:2776 ! adamantinoma
+equivalent_to: Orphanet:55881 ! DISCARD: [] 
+
+[Term]
+id: DOID:9270 ! alkaptonuria
+equivalent_to: Orphanet:56 ! DISCARD: [] 
+
+[Term]
+id: DOID:4948 ! gallbladder carcinoma
+equivalent_to: Orphanet:56044 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050858 ! Marshall-Smith syndrome
+equivalent_to: Orphanet:561 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1858 ! McCune Albright syndrome
+equivalent_to: Orphanet:562 ! DISCARD: [] 
+
+[Term]
+id: DOID:9997 ! peripartum cardiomyopathy
+equivalent_to: Orphanet:563 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050778 ! Meckel syndrome
+equivalent_to: Orphanet:564 ! DISCARD: [] 
+
+[Term]
+id: DOID:1838 ! Menkes disease
+equivalent_to: Orphanet:565 ! DISCARD: [] 
+
+[Term]
+id: DOID:12583 ! velocardiofacial syndrome
+equivalent_to: Orphanet:567 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060178 ! familial hemiplegic migraine
+equivalent_to: Orphanet:569 ! DISCARD: [] 
+
+[Term]
+id: DOID:649 ! prion disease
+equivalent_to: Orphanet:56970 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:409 ! liver disease
+equivalent_to: Orphanet:57146 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050472 ! monilethrix
+equivalent_to: Orphanet:573 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050854 ! Muckle-Wells syndrome
+equivalent_to: Orphanet:575 ! DISCARD: [] 
+
+[Term]
+id: DOID:12802 ! mucopolysaccharidosis I
+equivalent_to: Orphanet:579 ! DISCARD: [] 
+
+[Term]
+id: DOID:4252 ! Alexander disease
+equivalent_to: Orphanet:58 ! DISCARD: [] 
+
+[Term]
+id: DOID:285 ! hairy cell leukemia
+equivalent_to: Orphanet:58017 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060098 ! osteoblastoma
+equivalent_to: Orphanet:58040 ! DISCARD: [] 
+
+[Term]
+id: DOID:1787 ! pericarditis
+equivalent_to: Orphanet:58208 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060182 ! microscopic colitis
+equivalent_to: Orphanet:58220 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050441 ! mucosulfatidosis
+equivalent_to: Orphanet:585 ! DISCARD: [] 
+
+[Term]
+id: DOID:1485 ! cystic fibrosis
+equivalent_to: Orphanet:586 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050465 ! Muir-Torre syndrome
+equivalent_to: Orphanet:587 ! DISCARD: [] 
+
+[Term]
+id: DOID:437 ! myasthenia gravis
+equivalent_to: Orphanet:589 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050631 ! Allan-Herndon-Dudley syndrome
+equivalent_to: Orphanet:59 ! DISCARD: [] 
+
+[Term]
+id: DOID:3635 ! congenital myasthenic syndrome
+equivalent_to: Orphanet:590 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11720 ! distal muscular dystrophy
+equivalent_to: Orphanet:59135 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:10588 ! adrenoleukodystrophy
+equivalent_to: Orphanet:59298 ! DISCARD: [] 
+
+[Term]
+id: DC:0000305 ! Myopathy, Myofibrillar
+equivalent_to: Orphanet:593 ! DISCARD: [] 
+
+[Term]
+id: DOID:3590 ! gestational trophoblastic neoplasm
+equivalent_to: Orphanet:59305 ! DISCARD: [] 
+
+[Term]
+id: DOID:14717 ! centronuclear myopathy
+equivalent_to: Orphanet:595 ! DISCARD: [] 
+
+[Term]
+id: DOID:3529 ! central core myopathy
+equivalent_to: Orphanet:597 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11720 ! distal muscular dystrophy
+equivalent_to: Orphanet:599 ! DISCARD: [] 
+
+[Term]
+id: DOID:13372 ! alpha 1-antitrypsin deficiency
+equivalent_to: Orphanet:60 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060285 ! parietal foramina
+equivalent_to: Orphanet:60015 ! DISCARD: [] 
+
+[Term]
+id: DOID:12117 ! pulmonary alveolar microlithiasis
+equivalent_to: Orphanet:60025 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050466 ! Loeys-Dietz syndrome
+equivalent_to: Orphanet:60030 ! DISCARD: [] 
+
+[Term]
+id: DOID:9563 ! bronchiectasis
+equivalent_to: Orphanet:60033 ! DISCARD: [] 
+
+[Term]
+id: DOID:990 ! congenital heart block
+equivalent_to: Orphanet:60041 ! DISCARD: [] 
+
+[Term]
+id: DOID:3429 ! inclusion body myositis
+equivalent_to: Orphanet:602 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050759 ! myotonic dystrophy type 2
+equivalent_to: Orphanet:606 ! DISCARD: [] 
+
+[Term]
+id: DOID:3191 ! nemaline myopathy
+equivalent_to: Orphanet:607 ! DISCARD: [] 
+
+[Term]
+id: DOID:3413 ! alpha-mannosidosis
+equivalent_to: Orphanet:61 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050663 ! Bethlem myopathy
+equivalent_to: Orphanet:610 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3429 ! inclusion body myositis
+equivalent_to: Orphanet:611 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050902 ! medulloblastoma
+equivalent_to: Orphanet:616 ! DISCARD: [] 
+
+[Term]
+id: DOID:1909 ! melanoma
+equivalent_to: Orphanet:618 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:5426 ! premature ovarian failure
+equivalent_to: Orphanet:619 ! DISCARD: [] 
+
+[Term]
+id: DOID:10983 ! Alport syndrome
+equivalent_to: Orphanet:63 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11720 ! distal muscular dystrophy
+equivalent_to: Orphanet:63273 ! DISCARD: [] 
+
+[Term]
+id: DOID:9521 ! Laron syndrome
+equivalent_to: Orphanet:633 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050474 ! Netherton syndrome
+equivalent_to: Orphanet:634 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DC:0000523 ! Gastric Cancer
+equivalent_to: Orphanet:63443 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050604 ! acrocapitofemoral dysplasia
+equivalent_to: Orphanet:63446 ! DISCARD: [] 
+
+[Term]
+id: DOID:769 ! neuroblastoma
+equivalent_to: Orphanet:635 ! DISCARD: [] 
+
+[Term]
+id: DOID:8712 ! neurofibromatosis
+equivalent_to: Orphanet:636 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:8712 ! neurofibromatosis
+equivalent_to: Orphanet:637 ! DISCARD: [] 
+
+[Term]
+id: DOID:1825 ! childhood absence epilepsy
+equivalent_to: Orphanet:64280 ! DISCARD: [] 
+
+[Term]
+id: DC:0000525 ! Giant Axonal Neuropathy
+equivalent_to: Orphanet:643 ! DISCARD: [] 
+
+[Term]
+id: DOID:14504 ! Niemann-Pick disease
+equivalent_to: Orphanet:646 ! DISCARD: [] 
+
+[Term]
+id: DOID:1278 ! tolosa-hunt syndrome
+equivalent_to: Orphanet:64686 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050398 ! Carrion's Disease
+equivalent_to: Orphanet:64692 ! DISCARD: [] 
+
+[Term]
+id: DOID:11101 ! trench fever
+equivalent_to: Orphanet:64694 ! DISCARD: [] 
+
+[Term]
+id: DOID:7400 ! Nijmegen breakage syndrome
+equivalent_to: Orphanet:647 ! DISCARD: [] 
+
+[Term]
+id: DOID:1967 ! leiomyosarcoma
+equivalent_to: Orphanet:64720 ! DISCARD: [] 
+
+[Term]
+id: DOID:5425 ! ovarian hyperstimulation syndrome
+equivalent_to: Orphanet:64739 ! DISCARD: [] 
+
+[Term]
+id: DOID:4765 ! pulmonary blastoma
+equivalent_to: Orphanet:64741 ! DISCARD: [] 
+
+[Term]
+id: DOID:4769 ! pleuropulmonary blastoma
+equivalent_to: Orphanet:64742 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050539 ! Charcot-Marie-Tooth disease type 2
+equivalent_to: Orphanet:64746 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050542 ! Charcot-Marie-Tooth disease type X
+equivalent_to: Orphanet:64747 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050540 ! Charcot-Marie-Tooth disease type 3
+equivalent_to: Orphanet:64748 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050541 ! Charcot-Marie-Tooth disease type 4
+equivalent_to: Orphanet:64749 ! DISCARD: [] 
+
+[Term]
+id: DOID:3490 ! Noonan syndrome
+equivalent_to: Orphanet:648 ! DISCARD: [] 
+
+[Term]
+id: DOID:14791 ! Leber congenital amaurosis
+equivalent_to: Orphanet:65 ! DISCARD: [] 
+
+[Term]
+id: DOID:9649 ! congenital nystagmus
+equivalent_to: Orphanet:651 ! DISCARD: [] 
+
+[Term]
+id: DOID:10017 ! multiple endocrine neoplasia type 1
+equivalent_to: Orphanet:652 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060184 ! lymphocytic colitis
+equivalent_to: Orphanet:65279 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060173 ! Timothy syndrome
+equivalent_to: Orphanet:65283 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050659 ! biotin-responsive basal ganglia disease
+equivalent_to: Orphanet:65284 ! DISCARD: [] 
+
+[Term]
+id: DOID:2154 ! nephroblastoma
+equivalent_to: Orphanet:654 ! DISCARD: [] 
+
+[Term]
+id: DOID:12712 ! nephronophthisis
+equivalent_to: Orphanet:655 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1852 ! intrahepatic cholestasis
+equivalent_to: Orphanet:65682 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050538 ! Charcot-Marie-Tooth disease type 1
+equivalent_to: Orphanet:65753 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060234 ! Carpenter syndrome
+equivalent_to: Orphanet:65759 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060327 ! omphalocele
+equivalent_to: Orphanet:660 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050468 ! yellow nail syndrome
+equivalent_to: Orphanet:662 ! DISCARD: [] 
+
+[Term]
+id: DOID:9271 ! ornithine carbamoyltransferase deficiency
+equivalent_to: Orphanet:664 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080053 ! Albright's hereditary osteodystrophy
+equivalent_to: Orphanet:665 ! DISCARD: [] 
+
+[Term]
+id: DOID:12347 ! osteogenesis imperfecta
+equivalent_to: Orphanet:666 ! DISCARD: [] 
+
+[Term]
+id: DOID:2702 ! pigmented villonodular synovitis
+equivalent_to: Orphanet:66627 ! DISCARD: [] 
+
+[Term]
+id: DOID:3663 ! cutaneous mastocytosis
+equivalent_to: Orphanet:66646 ! DISCARD: [] 
+
+[Term]
+id: DOID:355 ! mast-cell sarcoma
+equivalent_to: Orphanet:66661 ! DISCARD: [] 
+
+[Term]
+id: DOID:4659 ! extracutaneous mastocytoma
+equivalent_to: Orphanet:66662 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13533 ! osteopetrosis
+equivalent_to: Orphanet:667 ! DISCARD: [] 
+
+[Term]
+id: DOID:3347 ! osteosarcoma
+equivalent_to: Orphanet:668 ! DISCARD: [] 
+
+[Term]
+id: DC:0000342 ! Oto-Palato-Digital Syndrome
+equivalent_to: Orphanet:669 ! DISCARD: [] 
+
+[Term]
+id: DOID:5520 ! head and neck squamous cell carcinoma
+equivalent_to: Orphanet:67037 ! DISCARD: [] 
+
+[Term]
+id: DOID:1040 ! chronic lymphocytic leukemia
+equivalent_to: Orphanet:67038 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DC:0000004 ! 3-Methylglutaconic Aciduria
+equivalent_to: Orphanet:67047 ! DISCARD: [] 
+
+[Term]
+id: DOID:9248 ! Pallister-Hall syndrome
+equivalent_to: Orphanet:672 ! DISCARD: [] 
+
+[Term]
+id: DOID:12365 ! malaria
+equivalent_to: Orphanet:673 ! DISCARD: [] 
+
+[Term]
+id: DOID:6823 ! pancreatoblastoma
+equivalent_to: Orphanet:677 ! DISCARD: [] 
+
+[Term]
+id: DOID:14452 ! hypokalemic periodic paralysis
+equivalent_to: Orphanet:681 ! DISCARD: [] 
+
+[Term]
+id: DOID:14451 ! hyperkalemic periodic paralysis
+equivalent_to: Orphanet:682 ! DISCARD: [] 
+
+[Term]
+id: DOID:678 ! progressive supranuclear palsy
+equivalent_to: Orphanet:683 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080014 ! chromosomal disease
+equivalent_to: Orphanet:68335 ! DISCARD: [] 
+
+[Term]
+id: DOID:162 ! cancer
+equivalent_to: Orphanet:68336 ! DISCARD: [] 
+
+[Term]
+id: DOID:37 ! skin disease
+equivalent_to: Orphanet:68346 ! DISCARD: [] 
+
+[Term]
+id: DOID:535 ! sleep disorder
+equivalent_to: Orphanet:68354 ! DISCARD: [] 
+
+[Term]
+id: DOID:10579 ! leukodystrophy
+equivalent_to: Orphanet:68356 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:178 ! vascular disease
+equivalent_to: Orphanet:68362 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:543 ! dystonia
+equivalent_to: Orphanet:68363 ! DISCARD: [] 
+
+[Term]
+id: DOID:2860 ! hemoglobinopathy
+equivalent_to: Orphanet:68364 ! DISCARD: [] 
+
+[Term]
+id: DOID:655 ! inherited metabolic disorder
+equivalent_to: Orphanet:68367 ! DISCARD: [] 
+
+[Term]
+id: DOID:906 ! peroxisomal disease
+equivalent_to: Orphanet:68373 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:440 ! neuromuscular disease
+equivalent_to: Orphanet:68381 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:184 ! bone cancer
+equivalent_to: Orphanet:68411 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050117 ! disease by infectious agent
+equivalent_to: Orphanet:68416 ! DISCARD: [] 
+
+[Term]
+id: DOID:2476 ! hereditary spastic paraplegia
+equivalent_to: Orphanet:685 ! DISCARD: [] 
+
+[Term]
+id: DOID:9120 ! amyloidosis
+equivalent_to: Orphanet:69 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050581 ! brachydactyly
+equivalent_to: Orphanet:69028 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3672 ! rhabdoid cancer
+equivalent_to: Orphanet:69077 ! DISCARD: [] 
+
+[Term]
+id: DOID:3382 ! liposarcoma
+equivalent_to: Orphanet:69078 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060025 ! immunoglobulin alpha deficiency
+equivalent_to: Orphanet:69127 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14717 ! centronuclear myopathy
+equivalent_to: Orphanet:69186 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14717 ! centronuclear myopathy
+equivalent_to: Orphanet:69189 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1852 ! intrahepatic cholestasis
+equivalent_to: Orphanet:69665 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050682 ! Athabaskan brainstem dysgenesis syndrome
+equivalent_to: Orphanet:69739 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060067 ! Pearson syndrome
+equivalent_to: Orphanet:699 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050634 ! alopecia universalis
+equivalent_to: Orphanet:701 ! DISCARD: [] 
+
+[Term]
+id: DOID:3210 ! Pelizaeus-Merzbacher disease
+equivalent_to: Orphanet:702 ! DISCARD: [] 
+
+[Term]
+id: DOID:8506 ! bullous pemphigoid
+equivalent_to: Orphanet:703 ! DISCARD: [] 
+
+[Term]
+id: DOID:1107 ! esophageal carcinoma
+equivalent_to: Orphanet:70482 ! DISCARD: [] 
+
+[Term]
+id: DOID:4947 ! cholangiocarcinoma
+equivalent_to: Orphanet:70567 ! DISCARD: [] 
+
+[Term]
+id: DOID:11049 ! meconium aspiration syndrome
+equivalent_to: Orphanet:70588 ! DISCARD: [] 
+
+[Term]
+id: DOID:3482 ! plague
+equivalent_to: Orphanet:707 ! DISCARD: [] 
+
+[Term]
+id: DOID:14705 ! Pfeiffer syndrome
+equivalent_to: Orphanet:710 ! DISCARD: [] 
+
+[Term]
+id: DOID:6432 ! pulmonary hypertension
+equivalent_to: Orphanet:71198 ! DISCARD: [] 
+
+[Term]
+id: DOID:2861 ! congenital nonspherocytic hemolytic anemia
+equivalent_to: Orphanet:712 ! DISCARD: [] 
+
+[Term]
+id: DOID:1587 ! thrombocytopenia due to platelet alloimmunization
+equivalent_to: Orphanet:71203 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0060123 ! connective tissue benign neoplasm
+equivalent_to: Orphanet:71209 ! DISCARD: [] 
+
+[Term]
+id: DOID:8869 ! neuromyelitis optica
+equivalent_to: Orphanet:71211 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050641 ! Rh deficiency syndrome
+equivalent_to: Orphanet:71275 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2224 ! hemorrhagic thrombocythemia
+equivalent_to: Orphanet:71493 ! DISCARD: [DOID:2228] 
+
+[Term]
+id: DOID:9281 ! phenylketonuria
+equivalent_to: Orphanet:716 ! DISCARD: [] 
+
+[Term]
+id: DOID:8501 ! fundus dystrophy
+equivalent_to: Orphanet:71862 ! DISCARD: [] 
+
+[Term]
+id: DOID:1932 ! Angelman syndrome
+equivalent_to: Orphanet:72 ! DISCARD: [] 
+
+[Term]
+id: DOID:11339 ! pneumocystosis
+equivalent_to: Orphanet:723 ! DISCARD: [] 
+
+[Term]
+id: DOID:1442 ! Alpers syndrome
+equivalent_to: Orphanet:726 ! DISCARD: [] 
+
+[Term]
+id: DOID:2556 ! relapsing polychondritis
+equivalent_to: Orphanet:728 ! DISCARD: [] 
+
+[Term]
+id: DOID:8997 ! polycythemia vera
+equivalent_to: Orphanet:729 ! DISCARD: [] 
+
+[Term]
+id: DOID:4837 ! Gorham's disease
+equivalent_to: Orphanet:73 ! DISCARD: [] 
+
+[Term]
+id: DOID:898 ! polycystic kidney disease
+equivalent_to: Orphanet:730 ! DISCARD: [] 
+
+[Term]
+id: DOID:13922 ! eosinophilic esophagitis
+equivalent_to: Orphanet:73247 ! DISCARD: [] 
+
+[Term]
+id: DOID:14174 ! central neurocytoma
+equivalent_to: Orphanet:73256 ! DISCARD: [] 
+
+[Term]
+id: DOID:12662 ! paracoccidioidomycosis
+equivalent_to: Orphanet:73260 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050424 ! familial adenomatous polyposis
+equivalent_to: Orphanet:733 ! DISCARD: [] 
+
+[Term]
+id: DOID:13268 ! porphyria
+equivalent_to: Orphanet:738 ! DISCARD: [] 
+
+[Term]
+id: DOID:11983 ! Prader-Willi syndrome
+equivalent_to: Orphanet:739 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050256 ! angiostrongyliasis
+equivalent_to: Orphanet:74 ! DISCARD: [] 
+
+[Term]
+id: DOID:3911 ! progeria
+equivalent_to: Orphanet:740 ! DISCARD: [] 
+
+[Term]
+id: DOID:988 ! mitral valve prolapse
+equivalent_to: Orphanet:741 ! DISCARD: [] 
+
+[Term]
+id: DOID:13482 ! Proteus syndrome
+equivalent_to: Orphanet:744 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080047 ! pseudoachondroplasia
+equivalent_to: Orphanet:750 ! DISCARD: [] 
+
+[Term]
+id: DOID:11080 ! myiasis
+equivalent_to: Orphanet:75110 ! DISCARD: [] 
+
+[Term]
+id: DOID:14497 ! Wolman disease
+equivalent_to: Orphanet:75233 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:397 ! restrictive cardiomyopathy
+equivalent_to: Orphanet:75249 ! DISCARD: [] 
+
+[Term]
+id: DOID:9822 ! partial central choroid dystrophy
+equivalent_to: Orphanet:75377 ! DISCARD: [] 
+
+[Term]
+id: DOID:4674 ! androgen insensitivity syndrome
+equivalent_to: Orphanet:754 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050802 ! Ehlers-Danlos syndrome progeroid type
+equivalent_to: Orphanet:75496 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060063 ! X-linked sideroblastic anemia
+equivalent_to: Orphanet:75563 ! DISCARD: [] 
+
+[Term]
+id: DOID:396 ! Loeffler endocarditis
+equivalent_to: Orphanet:75566 ! DISCARD: [] 
+
+[Term]
+id: DOID:2738 ! pseudoxanthoma elasticum
+equivalent_to: Orphanet:758 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050558 ! Ullrich congenital muscular dystrophy
+equivalent_to: Orphanet:75840 ! DISCARD: [] 
+
+[Term]
+id: DOID:10955 ! strongyloidiasis
+equivalent_to: Orphanet:76 ! DISCARD: [] 
+
+[Term]
+id: DOID:5813 ! purine nucleoside phosphorylase deficiency
+equivalent_to: Orphanet:760 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080038 ! pycnodysostosis
+equivalent_to: Orphanet:763 ! DISCARD: [] 
+
+[Term]
+id: DOID:876 ! pyomyositis
+equivalent_to: Orphanet:764 ! DISCARD: [] 
+
+[Term]
+id: DOID:3649 ! pyruvate decarboxylase deficiency
+equivalent_to: Orphanet:765 ! DISCARD: [] 
+
+[Term]
+id: DOID:9810 ! polyarteritis nodosa
+equivalent_to: Orphanet:767 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2843 ! long QT syndrome
+equivalent_to: Orphanet:768 ! DISCARD: [] 
+
+[Term]
+id: DOID:12271 ! aniridia
+equivalent_to: Orphanet:77 ! DISCARD: [] 
+
+[Term]
+id: DOID:11260 ! rabies
+equivalent_to: Orphanet:770 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050444 ! infantile refsum disease
+equivalent_to: Orphanet:772 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14504 ! Niemann-Pick disease
+equivalent_to: Orphanet:77292 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14504 ! Niemann-Pick disease
+equivalent_to: Orphanet:77293 ! DISCARD: [] 
+
+[Term]
+id: DOID:10582 ! Refsum disease
+equivalent_to: Orphanet:773 ! DISCARD: [] 
+
+[Term]
+id: DOID:1270 ! hereditary hemorrhagic telangiectasia
+equivalent_to: Orphanet:774 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050776 ! non-syndromic X-linked intellectual disability
+equivalent_to: Orphanet:777 ! DISCARD: [] 
+
+[Term]
+id: DOID:1206 ! Rett syndrome
+equivalent_to: Orphanet:778 ! DISCARD: [] 
+
+[Term]
+id: DOID:9970 ! obesity
+equivalent_to: Orphanet:77828 ! DISCARD: [] 
+
+[Term]
+id: DOID:3247 ! rhabdomyosarcoma
+equivalent_to: Orphanet:780 ! DISCARD: [] 
+
+[Term]
+id: DOID:11100 ! Q fever
+equivalent_to: Orphanet:781 ! DISCARD: [] 
+
+[Term]
+id: DOID:14686 ! Axenfeld-Rieger syndrome
+equivalent_to: Orphanet:782 ! DISCARD: [] 
+
+[Term]
+id: DOID:1933 ! Rubinstein-Taybi syndrome
+equivalent_to: Orphanet:783 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:768 ! retinoblastoma
+equivalent_to: Orphanet:790 ! DISCARD: [] 
+
+[Term]
+id: DOID:12900 ! Mikulicz disease
+equivalent_to: Orphanet:79078 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050674 ! congenital bile acid synthesis defect
+equivalent_to: Orphanet:79095 ! DISCARD: [] 
+
+[Term]
+id: DOID:12029 ! sympathetic ophthalmia
+equivalent_to: Orphanet:79098 ! DISCARD: [] 
+
+[Term]
+id: DOID:10584 ! retinitis pigmentosa
+equivalent_to: Orphanet:791 ! DISCARD: [] 
+
+[Term]
+id: DC:0000438 ! Thyrotoxic Periodic Paralysis
+equivalent_to: Orphanet:79102 ! DISCARD: [] 
+
+[Term]
+id: DOID:2800 ! acute interstitial pneumonia
+equivalent_to: Orphanet:79126 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050159 ! lymphoid interstitial pneumonia
+equivalent_to: Orphanet:79128 ! DISCARD: [] 
+
+[Term]
+id: DOID:10844 ! Japanese encephalitis
+equivalent_to: Orphanet:79139 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060256 ! Dowling-Degos disease
+equivalent_to: Orphanet:79145 ! DISCARD: [] 
+
+[Term]
+id: DC:0000540 ! Hyperpigmentation, Familial Progressive
+equivalent_to: Orphanet:79146 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050606 ! acrokeratosis verruciformis
+equivalent_to: Orphanet:79151 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3805 ! porokeratosis
+equivalent_to: Orphanet:79152 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050013 ! carbohydrate metabolism disease
+equivalent_to: Orphanet:79161 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060176 ! gamma-amino butyric acid metabolism disorder
+equivalent_to: Orphanet:79175 ! DISCARD: [] 
+
+[Term]
+id: DOID:9265 ! histidine metabolism disease
+equivalent_to: Orphanet:79181 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050832 ! pyrimidine metabolic disorder
+equivalent_to: Orphanet:79193 ! DISCARD: [] 
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+equivalent_to: Orphanet:79201 ! DISCARD: [] 
+
+[Term]
+id: DOID:9455 ! lipid storage disease
+equivalent_to: Orphanet:79204 ! DISCARD: [] 
+
+[Term]
+id: DOID:13809 ! familial combined hyperlipidemia
+equivalent_to: Orphanet:79211 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3343 ! mucolipidosis
+equivalent_to: Orphanet:79212 ! DISCARD: [] 
+
+[Term]
+id: DOID:12798 ! mucopolysaccharidosis
+equivalent_to: Orphanet:79213 ! DISCARD: [] 
+
+[Term]
+id: DOID:1927 ! sphingolipidosis
+equivalent_to: Orphanet:79225 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2352 ! hemochromatosis
+equivalent_to: Orphanet:79230 ! DISCARD: [] 
+
+[Term]
+id: DOID:14695 ! galactokinase deficiency
+equivalent_to: Orphanet:79237 ! DISCARD: [] 
+
+[Term]
+id: DOID:856 ! biotinidase deficiency
+equivalent_to: Orphanet:79241 ! DISCARD: [] 
+
+[Term]
+id: DOID:859 ! holocarboxylase synthetase deficiency
+equivalent_to: Orphanet:79242 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14503 ! neuronal ceroid lipofuscinosis
+equivalent_to: Orphanet:79262 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050756 ! Batten disease
+equivalent_to: Orphanet:79264 ! DISCARD: [] 
+
+[Term]
+id: DOID:12801 ! mucopolysaccharidosis III
+equivalent_to: Orphanet:79269 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12801 ! mucopolysaccharidosis III
+equivalent_to: Orphanet:79270 ! DISCARD: [] 
+
+[Term]
+id: DOID:13269 ! hereditary coproporphyria
+equivalent_to: Orphanet:79273 ! DISCARD: [] 
+
+[Term]
+id: DOID:3890 ! acute intermittent porphyria
+equivalent_to: Orphanet:79276 ! DISCARD: [] 
+
+[Term]
+id: DOID:13270 ! erythropoietic protoporphyria
+equivalent_to: Orphanet:79278 ! DISCARD: [] 
+
+[Term]
+id: DOID:13677 ! SAPHO syndrome
+equivalent_to: Orphanet:793 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050574 ! L-2-hydroxyglutaric aciduria
+equivalent_to: Orphanet:79314 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050575 ! D-2-hydroxyglutaric aciduria
+equivalent_to: Orphanet:79315 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060293 ! autosomal dominant chondrodysplasia punctata
+equivalent_to: Orphanet:79344 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3805 ! porokeratosis
+equivalent_to: Orphanet:79358 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:421 ! hair disease
+equivalent_to: Orphanet:79363 ! DISCARD: [] 
+
+[Term]
+id: DOID:987 ! alopecia
+equivalent_to: Orphanet:79364 ! DISCARD: [] 
+
+[Term]
+id: DOID:420 ! hypertrichosis
+equivalent_to: Orphanet:79365 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4123 ! nail disease
+equivalent_to: Orphanet:79368 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:9098 ! sebaceous gland disease
+equivalent_to: Orphanet:79372 ! DISCARD: [] 
+
+[Term]
+id: DC:0000128 ! Ectodermal Dysplasia
+equivalent_to: Orphanet:79373 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:9540 ! vascular skin disease
+equivalent_to: Orphanet:79379 ! DISCARD: [] 
+
+[Term]
+id: DOID:4977 ! lymphedema
+equivalent_to: Orphanet:79383 ! DISCARD: [] 
+
+[Term]
+id: DOID:1555 ! urticaria
+equivalent_to: Orphanet:79384 ! DISCARD: [] 
+
+[Term]
+id: DC:0000581 ! Premature Aging Syndrome
+equivalent_to: Orphanet:79389 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1699 ! congenital ichthyosiform erythroderma
+equivalent_to: Orphanet:79394 ! DISCARD: [] 
+
+[Term]
+id: DOID:14768 ! Saethre-Chotzen syndrome
+equivalent_to: Orphanet:794 ! DISCARD: [] 
+
+[Term]
+id: DOID:3753 ! Hermansky-Pudlak syndrome
+equivalent_to: Orphanet:79430 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0080053 ! Albright's hereditary osteodystrophy
+equivalent_to: Orphanet:79443 ! DISCARD: [] 
+
+[Term]
+id: DOID:4183 ! pseudopseudohypoparathyroidism
+equivalent_to: Orphanet:79445 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050580 ! hereditary lymphedema
+equivalent_to: Orphanet:79452 ! DISCARD: [] 
+
+[Term]
+id: DOID:3665 ! diffuse cutaneous mastocytosis
+equivalent_to: Orphanet:79456 ! DISCARD: [] 
+
+[Term]
+id: DOID:3081 ! cystic lymphangioma
+equivalent_to: Orphanet:79486 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050693 ! Brooke-Spiegler syndrome
+equivalent_to: Orphanet:79493 ! DISCARD: [] 
+
+[Term]
+id: DOID:3323 ! Sandhoff disease
+equivalent_to: Orphanet:796 ! DISCARD: [] 
+
+[Term]
+id: DOID:11335 ! sarcoidosis
+equivalent_to: Orphanet:797 ! DISCARD: [] 
+
+[Term]
+id: DOID:419 ! scleroderma
+equivalent_to: Orphanet:801 ! DISCARD: [] 
+
+[Term]
+id: DOID:332 ! amyotrophic lateral sclerosis
+equivalent_to: Orphanet:803 ! DISCARD: [] 
+
+[Term]
+id: DOID:13515 ! tuberous sclerosis
+equivalent_to: Orphanet:805 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050569 ! Seckel syndrome
+equivalent_to: Orphanet:808 ! DISCARD: [] 
+
+[Term]
+id: DOID:3492 ! mixed connective tissue disease
+equivalent_to: Orphanet:809 ! DISCARD: [] 
+
+[Term]
+id: DOID:12385 ! shigellosis
+equivalent_to: Orphanet:810 ! DISCARD: [] 
+
+[Term]
+id: DOID:14681 ! Silver-Russell syndrome
+equivalent_to: Orphanet:813 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0060283 ! peeling skin syndrome
+equivalent_to: Orphanet:817 ! DISCARD: [] 
+
+[Term]
+id: DOID:14692 ! Smith-Lemli-Opitz syndrome
+equivalent_to: Orphanet:818 ! DISCARD: [] 
+
+[Term]
+id: DOID:3755 ! antithrombin III deficiency
+equivalent_to: Orphanet:82 ! DISCARD: [] 
+
+[Term]
+id: DOID:13096 ! Sneddon syndrome
+equivalent_to: Orphanet:820 ! DISCARD: [] 
+
+[Term]
+id: DOID:14748 ! Sotos syndrome
+equivalent_to: Orphanet:821 ! DISCARD: [] 
+
+[Term]
+id: DOID:12971 ! hereditary spherocytosis
+equivalent_to: Orphanet:822 ! DISCARD: [] 
+
+[Term]
+id: DOID:7147 ! ankylosing spondylitis
+equivalent_to: Orphanet:825 ! DISCARD: [] 
+
+[Term]
+id: DOID:14484 ! sporotrichosis
+equivalent_to: Orphanet:826 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050817 ! Stargardt disease
+equivalent_to: Orphanet:827 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080046 ! Stickler syndrome
+equivalent_to: Orphanet:828 ! DISCARD: [] 
+
+[Term]
+id: DOID:14256 ! adult-onset Still's disease
+equivalent_to: Orphanet:829 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050462 ! Antley-Bixler syndrome
+equivalent_to: Orphanet:83 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050052 ! Rocky Mountain spotted fever
+equivalent_to: Orphanet:83311 ! DISCARD: [] 
+
+[Term]
+id: DOID:11103 ! rickettsialpox
+equivalent_to: Orphanet:83312 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14095 ! boutonneuse fever
+equivalent_to: Orphanet:83313 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050480 ! epidemic typhus
+equivalent_to: Orphanet:83314 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050481 ! endemic typhus
+equivalent_to: Orphanet:83315 ! DISCARD: [] 
+
+[Term]
+id: DOID:13371 ! scrub typhus
+equivalent_to: Orphanet:83317 ! DISCARD: [] 
+
+[Term]
+id: DOID:3223 ! complex regional pain syndrome
+equivalent_to: Orphanet:83452 ! DISCARD: [] 
+
+[Term]
+id: DOID:11367 ! congenital aphakia
+equivalent_to: Orphanet:83461 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:8986 ! narcolepsy
+equivalent_to: Orphanet:83465 ! DISCARD: [] 
+
+[Term]
+id: DOID:2365 ! West Nile encephalitis
+equivalent_to: Orphanet:83476 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050118 ! La Crosse encephalitis
+equivalent_to: Orphanet:83483 ! DISCARD: [] 
+
+[Term]
+id: DOID:10845 ! St. Louis encephalitis
+equivalent_to: Orphanet:83484 ! DISCARD: [] 
+
+[Term]
+id: DOID:10843 ! Western equine encephalitis
+equivalent_to: Orphanet:83593 ! DISCARD: [] 
+
+[Term]
+id: DOID:10841 ! Eastern equine encephalitis
+equivalent_to: Orphanet:83594 ! DISCARD: [] 
+
+[Term]
+id: DOID:4885 ! Colorado tick fever
+equivalent_to: Orphanet:83595 ! DISCARD: [] 
+
+[Term]
+id: DOID:639 ! acute disseminated encephalomyelitis
+equivalent_to: Orphanet:83597 ! DISCARD: [] 
+
+[Term]
+id: DOID:5225 ! von Economo's disease
+equivalent_to: Orphanet:83600 ! DISCARD: [] 
+
+[Term]
+id: DOID:13636 ! Fanconi's anemia
+equivalent_to: Orphanet:84 ! DISCARD: [] 
+
+[Term]
+id: DOID:5445 ! syringocystadenoma papilliferum
+equivalent_to: Orphanet:840 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:963 ! episodic ataxia
+equivalent_to: Orphanet:84142 ! DISCARD: [] 
+
+[Term]
+id: DOID:13087 ! Lown-Ganong-Levine syndrome
+equivalent_to: Orphanet:844 ! DISCARD: [] 
+
+[Term]
+id: DOID:3320 ! Tay-Sachs disease
+equivalent_to: Orphanet:845 ! DISCARD: [] 
+
+[Term]
+id: DOID:1099 ! alpha thalassemia
+equivalent_to: Orphanet:846 ! DISCARD: [] 
+
+[Term]
+id: DOID:12241 ! beta thalassemia
+equivalent_to: Orphanet:848 ! DISCARD: [] 
+
+[Term]
+id: DOID:2219 ! Glanzmann's thrombasthenia
+equivalent_to: Orphanet:849 ! DISCARD: [] 
+
+[Term]
+id: DOID:1338 ! congenital dyserythropoietic anemia
+equivalent_to: Orphanet:85 ! DISCARD: [] 
+
+[Term]
+id: DOID:4697 ! perineurioma
+equivalent_to: Orphanet:85102 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050831 ! familial encephalopathy with neuroserpin inclusion bodies
+equivalent_to: Orphanet:85110 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050683 ! Bothnia retinal dystrophy
+equivalent_to: Orphanet:85128 ! DISCARD: [] 
+
+[Term]
+id: DOID:13774 ! Addison's disease
+equivalent_to: Orphanet:85138 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050885 ! IMAGe syndrome
+equivalent_to: Orphanet:85173 ! DISCARD: [] 
+
+[Term]
+id: DOID:12559 ! idiopathic juvenile osteoporosis
+equivalent_to: Orphanet:85193 ! DISCARD: [] 
+
+[Term]
+id: DOID:1588 ! thrombocytopenia
+equivalent_to: Orphanet:852 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050764 ! Armfield syndrome
+equivalent_to: Orphanet:85276 ! DISCARD: [] 
+
+[Term]
+id: DOID:11695 ! portal vein thrombosis
+equivalent_to: Orphanet:854 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050638 ! transthyretin amyloidosis
+equivalent_to: Orphanet:85447 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050637 ! Finnish type amyloidosis
+equivalent_to: Orphanet:85448 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050636 ! familial visceral amyloidosis
+equivalent_to: Orphanet:85450 ! DISCARD: [] 
+
+[Term]
+id: DOID:9246 ! cerebral amyloid angiopathy
+equivalent_to: Orphanet:85458 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050887 ! Townes-Brocks syndrome
+equivalent_to: Orphanet:857 ! DISCARD: [] 
+
+[Term]
+id: DOID:13336 ! congenital toxoplasmosis
+equivalent_to: Orphanet:858 ! DISCARD: [] 
+
+[Term]
+id: DOID:7693 ! abdominal aortic aneurysm
+equivalent_to: Orphanet:86 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2908 ! Treacher Collins syndrome
+equivalent_to: Orphanet:861 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4890 ! juvenile myoclonic epilepsy
+equivalent_to: Orphanet:862 ! DISCARD: [DOID:4990] 
+
+[Term]
+id: DC:0000442 ! Trichoepithelioma, Multiple Familial
+equivalent_to: Orphanet:867 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050884 ! triosephosphate isomerase deficiency
+equivalent_to: Orphanet:868 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050458 ! juvenile myelomonocytic leukemia
+equivalent_to: Orphanet:86834 ! DISCARD: [] 
+
+[Term]
+id: DOID:8683 ! myeloid sarcoma
+equivalent_to: Orphanet:86850 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050750 ! splenic marginal zone lymphoma
+equivalent_to: Orphanet:86854 ! DISCARD: [] 
+
+[Term]
+id: DOID:3721 ! plasmacytoma
+equivalent_to: Orphanet:86855 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060125 ! heavy chain disease
+equivalent_to: Orphanet:86864 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050751 ! T-cell large granular lymphocyte leukemia
+equivalent_to: Orphanet:86872 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050523 ! adult T-cell leukemia
+equivalent_to: Orphanet:86875 ! DISCARD: [] 
+
+[Term]
+id: DOID:7146 ! Langerhans cell sarcoma
+equivalent_to: Orphanet:86897 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050602 ! triple-A syndrome
+equivalent_to: Orphanet:869 ! DISCARD: [] 
+
+[Term]
+id: DOID:7848 ! interdigitating dendritic cell sarcoma
+equivalent_to: Orphanet:86900 ! DISCARD: [] 
+
+[Term]
+id: DOID:6262 ! follicular dendritic cell sarcoma
+equivalent_to: Orphanet:86902 ! DISCARD: [] 
+
+[Term]
+id: DOID:12960 ! acrocephalosyndactylia
+equivalent_to: Orphanet:87 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1059 ! intellectual disability
+equivalent_to: Orphanet:87277 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:170 ! endocrine gland cancer
+equivalent_to: Orphanet:877 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050563 ! nonsyndromic deafness
+equivalent_to: Orphanet:87884 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050266 ! tungiasis
+equivalent_to: Orphanet:879 ! DISCARD: [] 
+
+[Term]
+id: DOID:3491 ! Turner syndrome
+equivalent_to: Orphanet:881 ! DISCARD: [] 
+
+[Term]
+id: DOID:3307 ! teratoma
+equivalent_to: Orphanet:883 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050439 ! Usher syndrome
+equivalent_to: Orphanet:886 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060308 ! autosomal recessive non-syndromic intellectual disability
+equivalent_to: Orphanet:88616 ! DISCARD: [] 
+
+[Term]
+id: DOID:11661 ! blue color blindness
+equivalent_to: Orphanet:88629 ! DISCARD: [] 
+
+[Term]
+id: DOID:2187 ! amelogenesis imperfecta
+equivalent_to: Orphanet:88661 ! DISCARD: [] 
+
+[Term]
+id: DOID:684 ! hepatocellular carcinoma
+equivalent_to: Orphanet:88673 ! DISCARD: [] 
+
+[Term]
+id: DOID:14679 ! VACTERL association
+equivalent_to: Orphanet:887 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060239 ! Van der Woude syndrome
+equivalent_to: Orphanet:888 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1307 ! dementia
+equivalent_to: Orphanet:89043 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050535 ! exudative vitreoretinopathy
+equivalent_to: Orphanet:891 ! DISCARD: [] 
+
+[Term]
+id: DOID:14175 ! von Hippel-Lindau disease
+equivalent_to: Orphanet:892 ! DISCARD: [] 
+
+[Term]
+id: DOID:14515 ! WAGR syndrome
+equivalent_to: Orphanet:893 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:9258 ! Waardenburg's syndrome
+equivalent_to: Orphanet:895 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:9258 ! Waardenburg's syndrome
+equivalent_to: Orphanet:897 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:37 ! skin disease
+equivalent_to: Orphanet:89826 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050560 ! Walker-Warburg syndrome
+equivalent_to: Orphanet:899 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050445 ! X-linked hypophosphatemia
+equivalent_to: Orphanet:89936 ! DISCARD: [] 
+
+[Term]
+id: DOID:9278 ! hyperargininemia
+equivalent_to: Orphanet:90 ! DISCARD: [] 
+
+[Term]
+id: DOID:918 ! liver inflammatory pseudotumor
+equivalent_to: Orphanet:90003 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11193 ! syndactyly
+equivalent_to: Orphanet:90025 ! DISCARD: [] 
+
+[Term]
+id: DOID:5378 ! hemoglobin D disease
+equivalent_to: Orphanet:90039 ! DISCARD: [] 
+
+[Term]
+id: DOID:10780 ! primary polycythemia
+equivalent_to: Orphanet:90042 ! DISCARD: [] 
+
+[Term]
+id: DOID:13025 ! retinopathy of prematurity
+equivalent_to: Orphanet:90050 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3982 ! Meige syndrome
+equivalent_to: Orphanet:90186 ! DISCARD: [] 
+
+[Term]
+id: DOID:5688 ! Werner syndrome
+equivalent_to: Orphanet:902 ! DISCARD: [] 
+
+[Term]
+id: DC:0000493 ! Chilblain Lupus
+equivalent_to: Orphanet:90280 ! DISCARD: [] 
+
+[Term]
+id: DOID:8472 ! localized scleroderma
+equivalent_to: Orphanet:90289 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060218 ! CREST syndrome
+equivalent_to: Orphanet:90290 ! DISCARD: [] 
+
+[Term]
+id: DOID:418 ! systemic scleroderma
+equivalent_to: Orphanet:90291 ! DISCARD: [] 
+
+[Term]
+id: DOID:12531 ! von Willebrand's disease
+equivalent_to: Orphanet:903 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2962 ! Cockayne syndrome
+equivalent_to: Orphanet:90321 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2962 ! Cockayne syndrome
+equivalent_to: Orphanet:90322 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2962 ! Cockayne syndrome
+equivalent_to: Orphanet:90324 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050678 ! Blau syndrome
+equivalent_to: Orphanet:90340 ! DISCARD: [] 
+
+[Term]
+id: DOID:14775 ! type VI Ehlers-Danlos syndrome
+equivalent_to: Orphanet:90354 ! DISCARD: [] 
+
+[Term]
+id: DOID:893 ! Wilson disease
+equivalent_to: Orphanet:905 ! DISCARD: [] 
+
+[Term]
+id: DOID:9169 ! Wiskott-Aldrich syndrome
+equivalent_to: Orphanet:906 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050566 ! X-linked nonsyndromic deafness
+equivalent_to: Orphanet:90625 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050564 ! autosomal dominant nonsyndromic deafness
+equivalent_to: Orphanet:90635 ! DISCARD: [DOID:0050565] 
+
+[Term]
+id: DOID:2842 ! Jervell-Lange Nielsen syndrome
+equivalent_to: Orphanet:90647 ! DISCARD: [] 
+
+[Term]
+id: DOID:9410 ! panhypopituitarism
+equivalent_to: Orphanet:90695 ! DISCARD: [] 
+
+[Term]
+id: DOID:14261 ! fragile X syndrome
+equivalent_to: Orphanet:908 ! DISCARD: [] 
+
+[Term]
+id: DOID:4810 ! cerebrotendinous xanthomatosis
+equivalent_to: Orphanet:909 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050427 ! xeroderma pigmentosum
+equivalent_to: Orphanet:910 ! DISCARD: [] 
+
+[Term]
+id: DOID:905 ! Zellweger syndrome
+equivalent_to: Orphanet:912 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050782 ! Zollinger-Ellison Syndrome
+equivalent_to: Orphanet:913 ! DISCARD: [] 
+
+[Term]
+id: DOID:6275 ! TSH producing pituitary tumor
+equivalent_to: Orphanet:91347 ! DISCARD: [] 
+
+[Term]
+id: DOID:4438 ! central nervous system germinoma
+equivalent_to: Orphanet:91352 ! DISCARD: [] 
+
+[Term]
+id: DOID:9476 ! Sheehan syndrome
+equivalent_to: Orphanet:91355 ! DISCARD: [] 
+
+[Term]
+id: DOID:2801 ! nonspecific interstitial pneumonia
+equivalent_to: Orphanet:91364 ! DISCARD: [] 
+
+[Term]
+id: DOID:14735 ! hereditary angioedema
+equivalent_to: Orphanet:91378 ! DISCARD: [] 
+
+[Term]
+id: DOID:14004 ! thoracic aortic aneurysm
+equivalent_to: Orphanet:91387 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060261 ! congenital ptosis
+equivalent_to: Orphanet:91411 ! DISCARD: [] 
+
+[Term]
+id: DOID:560 ! jaw-winking syndrome
+equivalent_to: Orphanet:91412 ! DISCARD: [] 
+
+[Term]
+id: DOID:5374 ! pilomatrixoma
+equivalent_to: Orphanet:91414 ! DISCARD: [] 
+
+[Term]
+id: DOID:2725 ! capillary hemangioma
+equivalent_to: Orphanet:91415 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060305 ! megalocornea
+equivalent_to: Orphanet:91489 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060252 ! sclerocornea
+equivalent_to: Orphanet:91490 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060282 ! persistent hyperplastic primary vitreous
+equivalent_to: Orphanet:91495 ! DISCARD: [] 
+
+[Term]
+id: DOID:6683 ! Aarskog-Scott syndrome
+equivalent_to: Orphanet:915 ! DISCARD: [] 
+
+[Term]
+id: DOID:11729 ! Lyme disease
+equivalent_to: Orphanet:91546 ! DISCARD: [] 
+
+[Term]
+id: DOID:13034 ! relapsing fever
+equivalent_to: Orphanet:91547 ! DISCARD: [] 
+
+[Term]
+id: DOID:676 ! juvenile rheumatoid arthritis
+equivalent_to: Orphanet:92 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050796 ! achalasia microcephaly syndrome
+equivalent_to: Orphanet:929 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050461 ! aspartylglucosaminuria
+equivalent_to: Orphanet:93 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050603 ! acheiropody
+equivalent_to: Orphanet:931 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080043 ! achondrogenesis
+equivalent_to: Orphanet:932 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050879 ! fragile X-associated tremor/ataxia syndrome
+equivalent_to: Orphanet:93256 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13481 ! thanatophoric dysplasia
+equivalent_to: Orphanet:93274 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13481 ! thanatophoric dysplasia
+equivalent_to: Orphanet:93275 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1858 ! McCune Albright syndrome
+equivalent_to: Orphanet:93276 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050812 ! spondyloepimetaphyseal dysplasia, Pakistani type
+equivalent_to: Orphanet:93282 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080044 ! hypochondrogenesis
+equivalent_to: Orphanet:93297 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050640 ! anauxetic dysplasia
+equivalent_to: Orphanet:93347 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080030 ! spondyloepimetaphyseal dysplasia, Missouri type
+equivalent_to: Orphanet:93356 ! DISCARD: [] 
+
+[Term]
+id: DOID:5684 ! spondyloepimetaphyseal dysplasia, Sponastrime type
+equivalent_to: Orphanet:93357 ! DISCARD: [] 
+
+[Term]
+id: DC:0000688 ! Spondyloepimetaphyseal Dysplasia with Joint Laxity
+equivalent_to: Orphanet:93359 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11193 ! syndactyly
+equivalent_to: Orphanet:93402 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11193 ! syndactyly
+equivalent_to: Orphanet:93403 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0080001 ! bone disease
+equivalent_to: Orphanet:93419 ! DISCARD: [] 
+
+[Term]
+id: DOID:0080049 ! acromesomelic dysplasia
+equivalent_to: Orphanet:93437 ! DISCARD: [] 
+
+[Term]
+id: DOID:2581 ! chondrodysplasia punctata
+equivalent_to: Orphanet:93442 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12802 ! mucopolysaccharidosis I
+equivalent_to: Orphanet:93473 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060222 ! Scheie syndrome
+equivalent_to: Orphanet:93474 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12802 ! mucopolysaccharidosis I
+equivalent_to: Orphanet:93476 ! DISCARD: [] 
+
+[Term]
+id: DOID:853 ! polymyalgia rheumatica
+equivalent_to: Orphanet:93569 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1099 ! alpha thalassemia
+equivalent_to: Orphanet:93616 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:263 ! kidney cancer
+equivalent_to: Orphanet:93619 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050699 ! Dent disease
+equivalent_to: Orphanet:93622 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050699 ! Dent disease
+equivalent_to: Orphanet:93623 ! DISCARD: [] 
+
+[Term]
+id: DOID:14203 ! childhood type dermatomyositis
+equivalent_to: Orphanet:93672 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:8712 ! neurofibromatosis
+equivalent_to: Orphanet:93921 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14711 ! FG syndrome
+equivalent_to: Orphanet:93932 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050843 ! oromandibular dystonia
+equivalent_to: Orphanet:93958 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060326 ! myelomeningocele
+equivalent_to: Orphanet:93969 ! DISCARD: [] 
+
+[Term]
+id: DOID:3069 ! astrocytoma
+equivalent_to: Orphanet:94 ! DISCARD: [] 
+
+[Term]
+id: DOID:1687 ! neovascular glaucoma
+equivalent_to: Orphanet:94058 ! DISCARD: [] 
+
+[Term]
+id: DOID:14789 ! spondyloepiphyseal dysplasia congenita
+equivalent_to: Orphanet:94068 ! DISCARD: [] 
+
+[Term]
+id: DOID:14744 ! Partington syndrome
+equivalent_to: Orphanet:94083 ! DISCARD: [] 
+
+[Term]
+id: DOID:14464 ! neuroleptic malignant syndrome
+equivalent_to: Orphanet:94093 ! DISCARD: [] 
+
+[Term]
+id: DOID:12705 ! Friedreich ataxia
+equivalent_to: Orphanet:95 ! DISCARD: [] 
+
+[Term]
+id: DOID:14669 ! acrodysostosis
+equivalent_to: Orphanet:950 ! DISCARD: [] 
+
+[Term]
+id: DOID:5230 ! hepatoerythropoietic porphyria
+equivalent_to: Orphanet:95159 ! DISCARD: [] 
+
+[Term]
+id: DOID:4028 ! angioma serpiginosum
+equivalent_to: Orphanet:95429 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060313 ! tracheomalacia
+equivalent_to: Orphanet:95430 ! DISCARD: [] 
+
+[Term]
+id: DOID:13576 ! twin-to-twin transfusion syndrome
+equivalent_to: Orphanet:95431 ! DISCARD: [] 
+
+[Term]
+id: DOID:5644 ! tricuspid valve prolapse
+equivalent_to: Orphanet:95458 ! DISCARD: [] 
+
+[Term]
+id: DOID:9406 ! hypopituitarism
+equivalent_to: Orphanet:95494 ! DISCARD: [] 
+
+[Term]
+id: DOID:1129 ! pituitary apoplexy
+equivalent_to: Orphanet:95613 ! DISCARD: [] 
+
+[Term]
+id: DC:0000367 ! Precocious Puberty
+equivalent_to: Orphanet:95708 ! DISCARD: [] 
+
+[Term]
+id: DC:0000436 ! Thyroid Dyshormonogenesis
+equivalent_to: Orphanet:95716 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050880 ! Koolen de Vries syndrome
+equivalent_to: Orphanet:96169 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12252 ! Cushing's syndrome
+equivalent_to: Orphanet:96253 ! DISCARD: [] 
+
+[Term]
+id: DOID:2449 ! acromegaly
+equivalent_to: Orphanet:963 ! DISCARD: [] 
+
+[Term]
+id: DC:0000465 ! Acrorenal Syndrome
+equivalent_to: Orphanet:971 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050646 ! distal arthrogryposis
+equivalent_to: Orphanet:97120 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060255 ! rippling muscle disease
+equivalent_to: Orphanet:97238 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050557 ! congenital muscular dystrophy
+equivalent_to: Orphanet:97242 ! DISCARD: [] 
+
+[Term]
+id: DC:0000302 ! Myopathy, Congenital
+equivalent_to: Orphanet:97245 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060272 ! pontocerebellar hypoplasia type 3
+equivalent_to: Orphanet:97249 ! DISCARD: [] 
+
+[Term]
+id: DOID:9588 ! encephalitis
+equivalent_to: Orphanet:97275 ! DISCARD: [] 
+
+[Term]
+id: DOID:3892 ! insulinoma
+equivalent_to: Orphanet:97279 ! DISCARD: [] 
+
+[Term]
+id: DOID:5574 ! VIPoma
+equivalent_to: Orphanet:97282 ! DISCARD: [] 
+
+[Term]
+id: DOID:4430 ! somatostatinoma
+equivalent_to: Orphanet:97283 ! DISCARD: [] 
+
+[Term]
+id: DOID:10011 ! thyroid lymphoma
+equivalent_to: Orphanet:97285 ! DISCARD: [] 
+
+[Term]
+id: DOID:3103 ! thoracic outlet syndrome
+equivalent_to: Orphanet:97330 ! DISCARD: [] 
+
+[Term]
+id: DOID:7489 ! Osgood-Schlatter's disease
+equivalent_to: Orphanet:97335 ! DISCARD: [] 
+
+[Term]
+id: DOID:14332 ! postencephalitic Parkinson disease
+equivalent_to: Orphanet:97349 ! DISCARD: [] 
+
+[Term]
+id: DOID:8457 ! pellagra
+equivalent_to: Orphanet:97352 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060254 ! Robinow syndrome
+equivalent_to: Orphanet:97360 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060227 ! Adams-Oliver syndrome
+equivalent_to: Orphanet:974 ! DISCARD: [] 
+
+[Term]
+id: DOID:4184 ! pseudohypoparathyroidism
+equivalent_to: Orphanet:97593 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050601 ! ADULT syndrome
+equivalent_to: Orphanet:978 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:1579 ! respiratory system disease
+equivalent_to: Orphanet:97955 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:5614 ! eye disease
+equivalent_to: Orphanet:97966 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:28 ! endocrine system disease
+equivalent_to: Orphanet:97978 ! DISCARD: [] 
+
+[Term]
+id: DOID:74 ! hematopoietic system disease
+equivalent_to: Orphanet:97992 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2914 ! immune system disease
+equivalent_to: Orphanet:98004 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:5223 ! infertility
+equivalent_to: Orphanet:98047 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12336 ! male infertility
+equivalent_to: Orphanet:98048 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:4 ! disease
+equivalent_to: Orphanet:98053 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:162 ! cancer
+equivalent_to: Orphanet:98057 ! DISCARD: [] 
+
+[Term]
+id: DOID:3119 ! gastrointestinal system cancer
+equivalent_to: Orphanet:98059 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050615 ! respiratory system cancer
+equivalent_to: Orphanet:98060 ! DISCARD: [] 
+
+[Term]
+id: DOID:3093 ! nervous system cancer
+equivalent_to: Orphanet:98062 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050739 ! autosomal genetic disease
+equivalent_to: Orphanet:98127 ! DISCARD: [] 
+
+[Term]
+id: DOID:13359 ! Ehlers-Danlos syndrome
+equivalent_to: Orphanet:98249 ! DISCARD: [] 
+
+[Term]
+id: DOID:891 ! progressive myoclonus epilepsy
+equivalent_to: Orphanet:98261 ! DISCARD: [] 
+
+[Term]
+id: DOID:4960 ! bone marrow cancer
+equivalent_to: Orphanet:98274 ! DISCARD: [] 
+
+[Term]
+id: DOID:4972 ! myelodysplastic myeloproliferative cancer
+equivalent_to: Orphanet:98275 ! DISCARD: [] 
+
+[Term]
+id: DOID:5621 ! histiocytic and dendritic cell cancer
+equivalent_to: Orphanet:98287 ! DISCARD: [] 
+
+[Term]
+id: DOID:350 ! mastocytosis
+equivalent_to: Orphanet:98292 ! DISCARD: [] 
+
+[Term]
+id: DOID:8567 ! Hodgkin's lymphoma
+equivalent_to: Orphanet:98293 ! DISCARD: [] 
+
+[Term]
+id: DOID:2797 ! idiopathic interstitial pneumonia
+equivalent_to: Orphanet:98300 ! DISCARD: [] 
+
+[Term]
+id: DOID:811 ! lipodystrophy
+equivalent_to: Orphanet:98305 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050440 ! familial partial lipodystrophy
+equivalent_to: Orphanet:98306 ! DISCARD: [] 
+
+[Term]
+id: DOID:583 ! hemolytic anemia
+equivalent_to: Orphanet:98363 ! DISCARD: [] 
+
+[Term]
+id: DOID:718 ! autoimmune hemolytic anemia
+equivalent_to: Orphanet:98375 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:8432 ! polycythemia
+equivalent_to: Orphanet:98427 ! DISCARD: [] 
+
+[Term]
+id: DOID:2834 ! acquired polycythemia
+equivalent_to: Orphanet:98428 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060309 ! syndromic X-linked intellectual disability
+equivalent_to: Orphanet:98464 ! DISCARD: [] 
+
+[Term]
+id: DOID:9884 ! muscular dystrophy
+equivalent_to: Orphanet:98473 ! DISCARD: [] 
+
+[Term]
+id: DOID:439 ! neuromuscular junction disease
+equivalent_to: Orphanet:98491 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:439 ! neuromuscular junction disease
+equivalent_to: Orphanet:98495 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060053 ! peripheral neuropathy
+equivalent_to: Orphanet:98496 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0060053 ! peripheral neuropathy
+equivalent_to: Orphanet:98497 ! DISCARD: [] 
+
+[Term]
+id: DOID:231 ! motor neuron disease
+equivalent_to: Orphanet:98503 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:231 ! motor neuron disease
+equivalent_to: Orphanet:98505 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060260 ! ptosis
+equivalent_to: Orphanet:98578 ! DISCARD: [] 
+
+[Term]
+id: DOID:4251 ! conjunctival disease
+equivalent_to: Orphanet:98610 ! DISCARD: [] 
+
+[Term]
+id: DOID:10989 ! conjunctival vascular disease
+equivalent_to: Orphanet:98611 ! DISCARD: [] 
+
+[Term]
+id: DOID:5467 ! conjunctival cancer
+equivalent_to: Orphanet:98616 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:9835 ! refractive error
+equivalent_to: Orphanet:98618 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050786 ! iridogoniodysgenesis syndrome
+equivalent_to: Orphanet:98634 ! DISCARD: [] 
+
+[Term]
+id: DOID:83 ! cataract
+equivalent_to: Orphanet:98640 ! DISCARD: [] 
+
+[Term]
+id: DC:0000263 ! Macular Dystrophy
+equivalent_to: Orphanet:98664 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:5723 ! optic atrophy
+equivalent_to: Orphanet:98673 ! DISCARD: [] 
+
+[Term]
+id: DOID:13141 ! uveitis
+equivalent_to: Orphanet:98715 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050651 ! atrioventricular septal defect
+equivalent_to: Orphanet:98722 ! DISCARD: [] 
+
+[Term]
+id: DOID:14784 ! olivopontocerebellar atrophy
+equivalent_to: Orphanet:98755 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14784 ! olivopontocerebellar atrophy
+equivalent_to: Orphanet:98756 ! DISCARD: [] 
+
+[Term]
+id: DOID:1440 ! Machado-Joseph disease
+equivalent_to: Orphanet:98757 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050882 ! spinocerebellar ataxia type 5
+equivalent_to: Orphanet:98766 ! DISCARD: [] 
+
+[Term]
+id: DOID:2538 ! Landau-Kleffner syndrome
+equivalent_to: Orphanet:98818 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050744 ! anaplastic large cell lymphoma
+equivalent_to: Orphanet:98841 ! DISCARD: [] 
+
+[Term]
+id: DOID:8838 ! Hodgkin's lymphoma, nodular sclerosis
+equivalent_to: Orphanet:98843 ! DISCARD: [] 
+
+[Term]
+id: DOID:8628 ! Hodgkin's lymphoma, lymphocytic depletion
+equivalent_to: Orphanet:98846 ! DISCARD: [] 
+
+[Term]
+id: DOID:4660 ! indolent systemic mastocytosis
+equivalent_to: Orphanet:98848 ! DISCARD: [] 
+
+[Term]
+id: DOID:4798 ! aggressive systemic mastocytosis
+equivalent_to: Orphanet:98850 ! DISCARD: [] 
+
+[Term]
+id: DOID:9254 ! mast-cell leukemia
+equivalent_to: Orphanet:98851 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050158 ! desquamative interstitial pneumonia
+equivalent_to: Orphanet:98852 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11726 ! Emery-Dreifuss muscular dystrophy
+equivalent_to: Orphanet:98853 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11726 ! Emery-Dreifuss muscular dystrophy
+equivalent_to: Orphanet:98855 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11726 ! Emery-Dreifuss muscular dystrophy
+equivalent_to: Orphanet:98863 ! DISCARD: [] 
+
+[Term]
+id: DOID:12259 ! hemophilia B
+equivalent_to: Orphanet:98879 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050454 ! periventricular nodular heterotopia
+equivalent_to: Orphanet:98892 ! DISCARD: [] 
+
+[Term]
+id: DOID:9883 ! Becker muscular dystrophy
+equivalent_to: Orphanet:98895 ! DISCARD: [] 
+
+[Term]
+id: DOID:11723 ! Duchenne muscular dystrophy
+equivalent_to: Orphanet:98896 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050729 ! neutral lipid storage disease
+equivalent_to: Orphanet:98907 ! DISCARD: [] 
+
+[Term]
+id: DOID:12889 ! Miller Fisher syndrome
+equivalent_to: Orphanet:98919 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:12270 ! coloboma
+equivalent_to: Orphanet:98945 ! DISCARD: [] 
+
+[Term]
+id: DOID:2565 ! macular corneal dystrophy
+equivalent_to: Orphanet:98969 ! DISCARD: [] 
+
+[Term]
+id: DC:0000644 ! Corneal Dystrophy, Posterior Polymorphous
+equivalent_to: Orphanet:98973 ! DISCARD: [] 
+
+[Term]
+id: DOID:11555 ! Fuchs' endothelial dystrophy
+equivalent_to: Orphanet:98974 ! DISCARD: [] 
+
+[Term]
+id: DOID:1068 ! juvenile glaucoma
+equivalent_to: Orphanet:98977 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14686 ! Axenfeld-Rieger syndrome
+equivalent_to: Orphanet:98978 ! DISCARD: [] 
+
+[Term]
+id: DOID:11554 ! Chandler syndrome
+equivalent_to: Orphanet:98979 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060217 ! Cogan-Reese syndrome
+equivalent_to: Orphanet:98980 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050537 ! posterior polar cataract
+equivalent_to: Orphanet:98993 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050661 ! vitelliform macular dystrophy
+equivalent_to: Orphanet:99000 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:14504 ! Niemann-Pick disease
+equivalent_to: Orphanet:99022 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:6406 ! double outlet right ventricle
+equivalent_to: Orphanet:99045 ! DISCARD: [] 
+
+[Term]
+id: DOID:13620 ! patent foramen ovale
+equivalent_to: Orphanet:99103 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13620 ! patent foramen ovale
+equivalent_to: Orphanet:99108 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3491 ! Turner syndrome
+equivalent_to: Orphanet:99226 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3973 ! thyroid medullary carcinoma
+equivalent_to: Orphanet:99361 ! DISCARD: [] 
+
+[Term]
+id: DOID:3829 ! pituitary adenoma
+equivalent_to: Orphanet:99408 ! DISCARD: [] 
+
+[Term]
+id: DOID:9164 ! achalasia
+equivalent_to: Orphanet:99723 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11984 ! hypertrophic cardiomyopathy
+equivalent_to: Orphanet:99739 ! DISCARD: [] 
+
+[Term]
+id: DOID:13258 ! typhoid fever
+equivalent_to: Orphanet:99745 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050150 ! Pontiac fever
+equivalent_to: Orphanet:99748 ! DISCARD: [] 
+
+[Term]
+id: DOID:4051 ! alveolar rhabdomyosarcoma
+equivalent_to: Orphanet:99756 ! DISCARD: [] 
+
+[Term]
+id: DOID:3246 ! embryonal rhabdomyosarcoma
+equivalent_to: Orphanet:99757 ! DISCARD: [] 
+
+[Term]
+id: DOID:13714 ! anodontia
+equivalent_to: Orphanet:99797 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050591 ! tooth agenesis
+equivalent_to: Orphanet:99798 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0060263 ! porencephaly
+equivalent_to: Orphanet:99810 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060021 ! DNA ligase IV deficiency
+equivalent_to: Orphanet:99812 ! DISCARD: [] 
+
+[Term]
+id: DOID:9537 ! Lassa fever
+equivalent_to: Orphanet:99824 ! DISCARD: [] 
+
+[Term]
+id: DOID:4327 ! Marburg hemorrhagic fever
+equivalent_to: Orphanet:99826 ! DISCARD: [] 
+
+[Term]
+id: DOID:12287 ! Crimean-Congo hemorrhagic fever
+equivalent_to: Orphanet:99827 ! DISCARD: [] 
+
+[Term]
+id: DOID:12205 ! dengue disease
+equivalent_to: Orphanet:99828 ! DISCARD: [] 
+
+[Term]
+id: DOID:9682 ! yellow fever
+equivalent_to: Orphanet:99829 ! DISCARD: [] 
+
+[Term]
+id: DOID:5834 ! spermatocytoma
+equivalent_to: Orphanet:99865 ! DISCARD: [] 
+
+[Term]
+id: DOID:3275 ! thymoma
+equivalent_to: Orphanet:99867 ! DISCARD: [] 
+
+[Term]
+id: DOID:3284 ! thymic carcinoma
+equivalent_to: Orphanet:99868 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:2571 ! Langerhans-cell histiocytosis
+equivalent_to: Orphanet:99870 ! DISCARD: [] 
+
+[Term]
+id: DOID:7608 ! parathyroid adenoma
+equivalent_to: Orphanet:99877 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:11202 ! primary hyperparathyroidism
+equivalent_to: Orphanet:99878 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:13543 ! hyperparathyroidism
+equivalent_to: Orphanet:99879 ! DISCARD: [] 
+
+[Term]
+id: DOID:0060334 ! transient neonatal diabetes mellitus
+equivalent_to: Orphanet:99886 ! DISCARD: [] 
+
+[Term]
+id: DOID:13238 ! Haverhill fever
+equivalent_to: Orphanet:99905 ! DISCARD: [] 
+
+[Term]
+id: DOID:14453 ! farmer's lung
+equivalent_to: Orphanet:99906 ! DISCARD: [] 
+
+[Term]
+id: DOID:11656 ! cicatricial pemphigoid
+equivalent_to: Orphanet:99922 ! DISCARD: [] 
+
+[Term]
+id: DOID:2025 ! gestational choriocarcinoma
+equivalent_to: Orphanet:99926 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:3590 ! gestational trophoblastic neoplasm
+equivalent_to: Orphanet:99927 ! DISCARD: [] 
+
+[Term]
+id: DOID:3596 ! placental site trophoblastic tumor
+equivalent_to: Orphanet:99928 ! DISCARD: [] 
+
+[Term]
+id: DOID:12118 ! pulmonary hemosiderosis
+equivalent_to: Orphanet:99931 ! DISCARD: [] 
+
+[Term]
+id: DOID:2129 ! atypical teratoid rhabdoid tumor
+equivalent_to: Orphanet:99966 ! DISCARD: [] 
+
+[Term]
+id: DOID:5702 ! pleomorphic liposarcoma
+equivalent_to: Orphanet:99969 ! DISCARD: [] 
+
+[Term]
+id: DOID:4927 ! Klatskin's tumor
+equivalent_to: Orphanet:99978 ! DISCARD: [] 
+
+[Term]
+id: DOID:11254 ! Brill-Zinsser disease
+equivalent_to: Orphanet:99990 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050769 ! N syndrome
+equivalent_to: Orphanet:ORPHA2608 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050857 ! Perrault syndrome
+equivalent_to: Orphanet:ORPHA2855 ! DISCARD: [] 
+
+[Term]
+id: DOID:0050867 ! Jensen syndrome
+equivalent_to: Orphanet:ORPHA3213 ! DISCARD: [] 
+
+! MERGES
+[Term]
+id: DOID:0050858 ! Marshall-Smith syndrome
+equivalent_to: Orphanet:ORPHA561 ! DISCARD: [] 
+
