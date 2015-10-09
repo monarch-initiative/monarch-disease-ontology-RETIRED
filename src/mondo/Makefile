@@ -269,12 +269,15 @@ mondo_no_mesh.obo: new_ordo_merged.obo new_ordo_equivs.obo
 merged_with_mesh.obo:  mondo_no_mesh.obo mesh_rest.obo
 	owltools $^ --merge-support-ontologies -o -f obo $@
 
-equiv_axioms.owl: merged_with_mesh.obo
-	owltools  $< --extract-axioms -t EquivalentClasses -o -f ofn $@
+remaining_equiv_axioms.obo: mondo_no_mesh.obo
+	blip-findall  -i $< -consult munger.pro write_remaining_equivs > $@.tmp && mv $@.tmp $@
+
+equiv_axioms.owl: merged_with_mesh.obo remaining_equiv_axioms.obo
+	owltools  $^ --merge-support-ontologies --extract-axioms -t EquivalentClasses -o -f ofn $@
 
 # squish in MESH
 mondo_squished.obo: merged_with_mesh.obo
-	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7 -l DOID 10 -l Orphanet 5 -l MESH 3 -l OMIM 1 --set-ontology-id $(OBO)/mondo.owl -o -f obo --no-check $@.tmp && ./fix-final.pl $@.tmp > $@
+	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7 -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1 --set-ontology-id $(OBO)/mondo.owl -o -f obo --no-check $@.tmp && ./fix-final.pl $@.tmp > $@
 
 new_ordo_subs.tsv: mondo_squished.obo
 	blip-findall -consult munger.pro -debug index -i super_ignore.pro -u metadata_nlp -i $< -index "entity_nlabel_scope_stemmed(+,+,0,0)" "inferred_subclass(X,Y,'DC','DOID',LX,LY),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,LX,LY)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
