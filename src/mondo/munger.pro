@@ -661,6 +661,41 @@ is_sub_disease_type(X) :- entity_partition(X,etiological_subtype).
 is_sub_disease_type(X) :- entity_partition(X,clinical_subtype).
 is_sub_disease_type(X) :- entity_partition(X,histopathological_subtype).
 
+:- dynamic(has_equiv_in/2).
+
+equiv_idspace('Orphanet').
+equiv_idspace('DECIPHER').
+
+write_remaining_equivs :-
+        setof(X,D^(entity_xref_idspace(D,X,S),equiv_idspace(S)),Xs),
+        member(X,Xs),
+        \+ equivalent_class(_,X),
+        write_best_equiv_axiom(X),
+        fail.
+
+write_best_equiv_axiom(X) :-
+        id_idspace(X,S),
+        setof(D,entity_xref(D,X),Ds),
+        setof(D,most_general_member(D,Ds),[D|Rest]),
+        class2n(D,DN),
+        (   has_equiv_in(D,S)
+        ->  format('! MERGES~n')
+        ;   true),
+        format('[Term]~n'),
+        format('id: ~w ! ~w~n',[D,DN]),
+        format('equivalent_to: ~w ! DISCARD: ~w ~n',[X,Rest]),
+        nl,
+        assert(has_equiv_in(D,S)).
+
+        
+
+most_general_member(D,Ds) :-
+        member(D,Ds),
+        \+ ((member(Z,Ds),
+             Z\=D,
+             subclassT(D,Z))).
+
+
 /*
 % DEPREC:
 % push OMIMs up a level        
