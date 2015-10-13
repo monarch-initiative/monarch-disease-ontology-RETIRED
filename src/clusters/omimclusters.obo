@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 06:10:2015 16:52
+date: 13:10:2015 10:43
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44682,7 +44682,17 @@ name: Mental Retardation, Autosomal Dominant 40; MRD40
 is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
 
 [Term]
+id: OMIM:616580
+name: Au-Kline Syndrome; AUKS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
 id: OMIM:616583
 name: Spondyloepiphyseal Dysplasia, Stanescu Type; SEDSTN
 is_a: DC:0000420 ! Spondyloepiphyseal Dysplasia
+
+[Term]
+id: OMIM:616589
+name: Adams-Oliver Syndrome 6; AOS6
+is_a: DC:0000466 ! Adams Oliver Syndrome
 
