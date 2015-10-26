@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 06:10:2015 16:52
+date: 19:10:2015 11:01
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -15367,11 +15367,6 @@ name: Bone Dysplasia, Lethal, Holmgren Type
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
-id: OMIM:211170
-name: Borrone Dermatocardioskeletal Syndrome
-is_a: DC:0000138 ! Disease Cluster
-
-[Term]
 id: OMIM:211180
 name: Bowen-Conradi syndrome
 is_a: DC:0000138 ! Disease Cluster
@@ -18896,6 +18891,9 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:249420
 name: FRANK-TER HAAR SYNDROME
+alt_id: OMIM:211170
+comment: OMIM moved 211170 to 249420 so I merged these. smb.
+synonym: "Borrone Dermatocardioskeletal Syndrome" EXACT []
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
@@ -44682,7 +44680,37 @@ name: Mental Retardation, Autosomal Dominant 40; MRD40
 is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
 
 [Term]
+id: OMIM:616580
+name: Au-Kline Syndrome; AUKS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
 id: OMIM:616583
 name: Spondyloepiphyseal Dysplasia, Stanescu Type; SEDSTN
 is_a: DC:0000420 ! Spondyloepiphyseal Dysplasia
+
+[Term]
+id: OMIM:616586
+name: Spastic Paraplegia 9b, Autosomal Recessive; SPG9B
+is_a: DC:0000410 ! Spastic Paraplegia
+
+[Term]
+id: OMIM:616589
+name: Adams-Oliver Syndrome 6; AOS6
+is_a: DC:0000466 ! Adams Oliver Syndrome
+
+[Term]
+id: OMIM:616592
+name: Kosaki Overgrowth Syndrome; KOGS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616602
+name: Craniosynostosis 6; CRS6
+is_a: DC:0000104 ! Craniosynostosis
+
+[Term]
+id: OMIM:616603
+name: Cutis Laxa, Autosomal Dominant 3; ADCL3
+is_a: DC:0000106 ! Cutis Laxa
 
