@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 19:10:2015 11:01
+date: 26:10:2015 12:01
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44713,4 +44713,14 @@ is_a: DC:0000104 ! Craniosynostosis
 id: OMIM:616603
 name: Cutis Laxa, Autosomal Dominant 3; ADCL3
 is_a: DC:0000106 ! Cutis Laxa
+
+[Term]
+id: OMIM:616604
+name: Chromosome 14q32 Duplication Syndrome, 700-Kb
+is_a: DC:0000495 ! Chromosome Duplication Syndrome
+
+[Term]
+id: OMIM:616606
+name: Ring Chromosome 14 Syndrome
+is_a: DC:0000138 ! Disease Cluster
 
