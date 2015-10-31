@@ -42,7 +42,7 @@ omim-genes.obo: $(OMIM_OBO)
 	blip ontol-query -consult munger.pro -i $< -i ordo.obo -query "omim_gene(ID)" -to obo > $@
 
 # omimclusters with DO dupes carved out (and genes removed too)
-omc-minimal.obo: omc-mapped-to-do.obo omim-genes.obo
+omc-minimal.obo: omc-mapped-to-do.obo omim-genes.obo $(DOID_OBO)
 	obo-subtract.pl $< $(DOID_OBO) omim-genes.obo  > $@.tmp && obo-grep.pl --neg -r is_obsolete $@.tmp > $@
 
 ## --
@@ -64,29 +64,29 @@ omimps-min.obo: $(OMIM_OBO)
 
 DOID = $(DOID_OBO)
 align-doid-to-omim.tsv: omim-leaf.obo
-	blip-findall -i ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-decipher.tsv: $(CLUSTERS)/decipherclusters.obo
-	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-mesh.tsv: mesh.obo
-	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-omc.tsv: omc.obo
-	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-omimps.tsv: omimps.obo
-	blip-findall -i ignore.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-ordo.tsv: ordo.obo $(DOID)
-	blip-findall -i ignore.pro -i ignore_rare_genetic.pro -u metadata_nlp -i $< -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -i ignore.pro -i ignore_rare_genetic.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-ordo-nosyn.tsv: ordo_nosyn.obo disease_nosyn.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -i disease_nosyn.obo -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,false),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 
 align-doid-to-hp.tsv: $(DOID)
-	blip-findall -i ignore.pro -u metadata_nlp -r HP -r disease -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+	blip-findall -i ignore.pro -u metadata_nlp -r HP -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 
 
@@ -115,10 +115,10 @@ m.pro: $(CLUSTERS)/MesH.contrib/mesh_list.txt
 	perl -npe 's/:.*//;s/^/MESH:/' $< | tbl2p -p m > m.pro
 
 mesh-missing-from-doid.tsv:
-	blip-findall -i mesh.obo -r disease -i xrefs-doid-to-mesh.obo -i m.pro "m(X),\+entity_xref(D,X)" -select X -use_tabs  -label > $@
+	blip-findall -i mesh.obo -i $(DOID_OBO) -i xrefs-doid-to-mesh.obo -i m.pro "m(X),\+entity_xref(D,X)" -select X -use_tabs  -label > $@
 
 mesh-missing-nearest-parent-doid.tsv: xrefs-doid-to-mesh.obo
-	blip-findall -i mesh.obo -r disease -i $< -i m.pro "m(X),\+entity_xref(D,X),subclassT(X,X1),entity_xref(D,X1),\\+((subclassT(X,X2),subclassT(X2,X1),entity_xref(_,X2)))" -select X-D -no_pred -use_tabs  -label > $@
+	blip-findall -i mesh.obo -i $(DOID_OBO) -i $< -i m.pro "m(X),\+entity_xref(D,X),subclassT(X,X1),entity_xref(D,X1),\\+((subclassT(X,X2),subclassT(X2,X1),entity_xref(_,X2)))" -select X-D -no_pred -use_tabs  -label > $@
 
 
 
@@ -151,13 +151,13 @@ missing-%.obo: %.obo ixrefs-doid-to-%.obo sim-ixrefs-%.obo
 ## --
 
 sim-omc.tsv: $(CLUSTERS)/omimclusters.obo
-	blip-findall -debug index -consult jaccard.pro -i $< -r disease -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
+	blip-findall -debug index -consult jaccard.pro -i $< -i $(DOID_OBO) -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
 
 omcrest.obo:  $(CLUSTERS)/omimclusters.obo ixrefs-doid-to-omc.obo 
 	obo-subtract.pl $^ > $@
 
 sim-omcrest.tsv: omcrest.obo
-	blip-findall -debug index -consult jaccard.pro -i $< -r disease -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
+	blip-findall -debug index -consult jaccard.pro -i $< -i $(DOID_OBO) -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
 
 #sim-omc.pro: sim-omc.tsv
 #	tbl2p -p s $< > $@
@@ -206,9 +206,9 @@ suggest-omimcluster.tsv: omimclusters.obo
 ## Summary Report
 ## --
 mapping.tsv:
-	blip-findall -i d2p.pro -consult summary.pro -i omimclusters.obo -i ordo.obo -r disease -i omimps-min.obo s/6 -label -no_pred | grep ^OMIM > $@
+	blip-findall -i d2p.pro -consult summary.pro -i omimclusters.obo -i ordo.obo -i $(DOID_OBO) -i omimps-min.obo s/6 -label -no_pred | grep ^OMIM > $@
 mapping2.tsv:
-	blip-findall -i d2p.pro -consult summary.pro -i omimclusters.obo -i ordo.obo -i efo.obo -r disease s/6 -label -no_pred | grep ^OMIM > $@
+	blip-findall -i d2p.pro -consult summary.pro -i omimclusters.obo -i ordo.obo -i efo.obo -i $(DOID_OBO) s/6 -label -no_pred | grep ^OMIM > $@
 
 ordo-missing.tsv: ordo.obo
 	blip-findall -i d2p.pro -i $< "d2p(D,_),id_idspace(D,'Orphanet'),\+class(D)" -select D | sort -u > $@
@@ -242,7 +242,7 @@ IG = -i super_ignore.pro
 # Assign each ORDO class to a category
 # The same methods are used for new_ordo
 ordo_category.tsv: ordo.obo $(DOID_OBO)
-	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match   -r disease -i omcrest.obo -i $< -consult munger.pro -r hpoa all_ordo_category/3 -label -no_pred > $@
+	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match   -i $(DOID_OBO) -i omcrest.obo -i $< -consult munger.pro -r hpoa all_ordo_category/3 -label -no_pred > $@
 
 ordo_leaves.obo: ordo.obo
 	blip -index "ontol_db:subclassT(+,+)" -i $< ontol-query -query "class(P,phenome),class(G,'group of disorders'),subclassT(ID,P),\+subclassRT(ID,G)" -to obo > $@
@@ -250,12 +250,12 @@ ordo_leaves.obo: ordo.obo
 # Rewrite of ORDO, removing classes and rewiring classes, swapping in DOID or DC where available.
 # Note: as a result of the rewiring, there may be redundancies in the hierarchy
 new_ordo.obo: ordo.obo omc-minimal.obo $(DOID_OBO)
-	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match  -r disease -i omc-minimal.obo -i $< -consult munger.pro -r hpoa $(G) -label > $@.tmp && grep -v $(G) $@.tmp > $@
+	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match  -i $(DOID_OBO) -i omc-minimal.obo -i $< -consult munger.pro -r hpoa $(G) -label > $@.tmp && grep -v $(G) $@.tmp > $@
 
 # merge in the set of DCs we are using. 
 # Also: Remove redundancy from the hierarchy
 new_ordo_merged.obo: new_ordo.obo omc-minimal.obo
-	blip-ddb -debug xontol -i $< -i omc-minimal.obo -r disease  -u ontol_management -goal remove_simple_redundant_facts io-convert -to obo -o $@
+	blip-ddb -debug xontol -i $< -i omc-minimal.obo -i $(DOID_OBO)  -u ontol_management -goal remove_simple_redundant_facts io-convert -to obo -o $@
 
 # 
 new_ordo_equivs.obo: new_ordo_merged.obo
@@ -287,8 +287,8 @@ new_ordo_sim.tsv: mondo_squished.obo
 
 
 mesh_rest.obo: xrefs-mesh.obo mondo_no_mesh.obo
-	blip-findall -consult munger.pro -i $< -i mondo_no_mesh.obo -i mesh.obo -r disease "write_mesh(M),fail" > $@
-###	blip-findall -i m.pro -consult munger.pro -i $< -i mesh.obo -r disease "write_mesh(M),fail" > $@
+	blip-findall -consult munger.pro -i $< -i mondo_no_mesh.obo -i mesh.obo -i $(DOID_OBO) "write_mesh(M),fail" > $@
+###	blip-findall -i m.pro -consult munger.pro -i $< -i mesh.obo -i $(DOID_OBO) "write_mesh(M),fail" > $@
 
 mondo.obo: mondo_squished.obo $(CLUSTERS)/decipherclusters.obo
 	obo-cat.pl -i $^ >  $@
