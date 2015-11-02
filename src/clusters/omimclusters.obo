@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 26:10:2015 12:01
+date: 02:11:2015 13:15
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5810,6 +5810,14 @@ xref: PS:188550
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2015-09-15T11:54:29Z
+
+[Term]
+id: DC:0000712
+name: Heimler Syndrome
+comment: See genetic heterogeneity section of OMIM 234580.
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2015-11-02T13:06:24Z
 
 [Term]
 id: OMIM:100050
@@ -17615,7 +17623,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:234580
 name: Hearing Loss, Sensorineural, with Enamel Hypoplasia and Nail Defects
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000712 ! Heimler Syndrome
 
 [Term]
 id: OMIM:234700
@@ -44367,7 +44375,7 @@ is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
 [Term]
 id: OMIM:616433
 name: Immunodeficiency 40; IMD40
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000615 ! Immunodeficiency
 
 [Term]
 id: OMIM:616435
@@ -44723,4 +44731,14 @@ is_a: DC:0000495 ! Chromosome Duplication Syndrome
 id: OMIM:616606
 name: Ring Chromosome 14 Syndrome
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616617
+name: Heimler Syndrome 2; HMLR2
+is_a: DC:0000712 ! Heimler Syndrome
+
+[Term]
+id: OMIM:616622
+name: Immunodeficiency 42; IMD42
+is_a: DC:0000615 ! Immunodeficiency
 
