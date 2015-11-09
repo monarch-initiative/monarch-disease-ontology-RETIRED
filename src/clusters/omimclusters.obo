@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 02:11:2015 13:15
+date: 09:11:2015 10:47
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44741,4 +44741,24 @@ is_a: DC:0000712 ! Heimler Syndrome
 id: OMIM:616622
 name: Immunodeficiency 42; IMD42
 is_a: DC:0000615 ! Immunodeficiency
+
+[Term]
+id: OMIM:616625
+name: Charcot-Marie-Tooth Disease, Axonal, Type 2w; CMT2W
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
+id: OMIM:616629
+name: Senior-Loken Syndrome 9; SLSN9
+is_a: DC:0000403 ! Senior-Loken Syndrome
+
+[Term]
+id: OMIM:616631
+name: Porokeratosis 9, Multiple Types; POROK9
+is_a: DC:0000365 ! Porokeratosis
+
+[Term]
+id: OMIM:616632
+name: Seizures, Cortical Blindness, Microcephaly Syndrome; SCBMS
+is_a: DC:0000138 ! Disease Cluster
 
