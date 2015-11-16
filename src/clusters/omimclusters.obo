@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 09:11:2015 10:47
+date: 16:11:2015 10:43
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -22190,6 +22190,8 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:300049
 name: HETEROTOPIA, PERIVENTRICULAR, X-LINKED DOMINANT
+alt_id: OMIM:300537
+synonym: "Heterotopia, Periventricular, Ehlers-Danlos Variant" EXACT []
 is_a: DC:0000186 ! Heterotopia, Periventricular
 
 [Term]
@@ -22813,11 +22815,6 @@ is_a: DC:0000138 ! Disease Cluster
 id: OMIM:300534
 name: Mental Retardation, X-Linked, Syndromic, Jarid1c-Related
 is_a: DC:0000273 ! Mental Retardation, X-Linked, Syndromic
-
-[Term]
-id: OMIM:300537
-name: Heterotopia, Periventricular, Ehlers-Danlos Variant
-is_a: DC:0000186 ! Heterotopia, Periventricular
 
 [Term]
 id: OMIM:300539
@@ -44761,4 +44758,14 @@ is_a: DC:0000365 ! Porokeratosis
 id: OMIM:616632
 name: Seizures, Cortical Blindness, Microcephaly Syndrome; SCBMS
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616638
+name: Smith-Kingsmore Syndrome; SKS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616640
+name: Epilepsy, Progressive Myoclonic, 10; EPM10
+is_a: DC:0000625 ! Epilepsy, Progressive Myoclonic
 
