@@ -3,6 +3,7 @@ all: mondo.obo mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassi
 all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
 OMIM_OBO=../omim/omim.obo
+OMIA_OBO=../omim/omia.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
@@ -25,6 +26,10 @@ disease_nosyn.obo: $(DOID_OBO)
 # todo: add def back later, but watch for multiple def tags
 omimclusters.obo: $(CLUSTERS)/omimclusters.obo $(OMIM_OBO)
 	obo-merge-tags.pl  -t synonym -t name -t def $^ > $@.tmp && obo2obo $@.tmp -o $@
+
+# TODO:
+#omiaclusters.obo: $(CLUSTERS)/omiaclusters.obo $(OMIA_OBO)
+#	obo-merge-tags.pl  -t synonym -t name -t def $^ > $@.tmp && obo2obo $@.tmp -o $@
 
 # subset that includes only the clusters/groupings
 omc.obo: omimclusters.obo
@@ -290,8 +295,8 @@ mesh_rest.obo: xrefs-mesh.obo mondo_no_mesh.obo
 	blip-findall -consult munger.pro -i $< -i mondo_no_mesh.obo -i mesh.obo -i $(DOID_OBO) "write_mesh(M),fail" > $@
 ###	blip-findall -i m.pro -consult munger.pro -i $< -i mesh.obo -i $(DOID_OBO) "write_mesh(M),fail" > $@
 
-mondo.obo: mondo_squished.obo $(CLUSTERS)/decipherclusters.obo
-	obo-cat.pl -i $^ >  $@
+mondo.obo: mondo_squished.obo $(CLUSTERS)/decipherclusters.obo $(OMIA_OBO)
+	obo-cat.pl -i $^ >  $@ 
 
 mondo-simple.obo: mondo.obo
 	owltools $< --reasoner elk --merge-equivalence-sets -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7 -l DOID 10 -l Orphanet 5 -l MESH 3 -l OMIM 1 --set-ontology-id $(OBO)/mondo.owl -o -f obo --no-check  $@
