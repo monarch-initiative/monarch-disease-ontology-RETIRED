@@ -3,7 +3,7 @@ all: mondo.obo mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassi
 all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
 OMIM_OBO=../omim/omim.obo
-OMIA_OBO=../omim/omia.obo
+OMIA_OBO=../omia/omia.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo

@@ -9,4 +9,4 @@ omia.owl: mirror-omia.ttl
 .PRECIOUS: omia.owl
 
 omia.obo: omia.owl
-	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp > $@
+	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value > $@
