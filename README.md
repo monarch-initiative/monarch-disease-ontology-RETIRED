@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/13996/cmungall/monarch-disease-ontology.svg)](https://zenodo.org/badge/latestdoi/13996/cmungall/monarch-disease-ontology)
 
 ## Editors Instructions
 
