@@ -1,4 +1,4 @@
-all: mondo.obo mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
+all: mondo.obo mondo.owl mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
 
 all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
