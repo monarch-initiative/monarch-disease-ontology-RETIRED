@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 16:11:2015 10:43
+date: 04:12:2015 11:54
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5818,6 +5818,14 @@ comment: See genetic heterogeneity section of OMIM 234580.
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2015-11-02T13:06:24Z
+
+[Term]
+id: DC:0000713
+name: Ritscher-Schinzel Syndrome
+xref: PS:220210
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2015-12-02T11:29:20Z
 
 [Term]
 id: OMIM:100050
@@ -16352,8 +16360,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:220210
-name: Dandy-Walker-Like Malformation with Atrioventricular Septal Defect
-is_a: DC:0000138 ! Disease Cluster
+name: Ritscher-Schinzel Syndrome 1
+is_a: DC:0000713 ! Ritscher-Schinzel Syndrome
 
 [Term]
 id: OMIM:220219
@@ -16802,7 +16810,7 @@ is_a: DC:0000129 ! Ehlers Danlos Syndrome
 [Term]
 id: OMIM:225450
 name: Elliptocytosis, Atypical
-is_a: DC:0000130 ! Elliptocytosis
+is_obsolete: true
 
 [Term]
 id: OMIM:225500
@@ -22437,11 +22445,6 @@ name: DANON DISEASE
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
-id: OMIM:300258
-name: Roifman syndrome
-is_a: DC:0000138 ! Disease Cluster
-
-[Term]
 id: OMIM:300259
 name: MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO, X-LINKED
 is_a: DC:0000298 ! Mycobacterium Tuberculosis, Susceptibility
@@ -23536,6 +23539,11 @@ is_a: DC:0000656 ! Mental Retardation, X-linked, Nonsyndromic
 id: OMIM:300960
 name: Mend Syndrome; MEND
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:300963
+name: Ritscher-Schinzel Syndrome 2; RTSC2
+is_a: DC:0000713 ! Ritscher-Schinzel Syndrome
 
 [Term]
 id: OMIM:301000
@@ -28817,7 +28825,10 @@ is_a: DC:0000154 ! Epilepsy, Nocturnal Frontal Lobe
 [Term]
 id: OMIM:605376
 name: HETEROTAXY, VISCERAL, 2, AUTOSOMAL
+alt_id: OMIM:613853
+synonym: "Transposition of the Great Arteries, Dextro-Looped 2; DTGA2" EXACT []
 is_a: DC:0000531 ! Heterotaxy, Visceral
+is_a: DC:0000602 ! Transposition of the Great Arteries
 
 [Term]
 id: OMIM:605387
@@ -38456,11 +38467,6 @@ name: Fucosyltransferase 6 Deficiency
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
-id: OMIM:613853
-name: Transposition of the Great Arteries, Dextro-Looped 2; DTGA2
-is_a: DC:0000602 ! Transposition of the Great Arteries
-
-[Term]
 id: OMIM:613854
 name: Transposition of the Great Arteries, Dextro-Looped 3; DTGA3
 is_a: DC:0000602 ! Transposition of the Great Arteries
@@ -44040,7 +44046,7 @@ is_a: DC:0000241 ! Lethal Congenital Contractural Syndrome
 
 [Term]
 id: OMIM:616289
-name: Optic Atrophy 8; OPA8
+name: Optic Atrophy 9; OPA9
 is_a: DC:0000333 ! Optic Atrophy
 
 [Term]
@@ -44768,4 +44774,46 @@ is_a: DC:0000138 ! Disease Cluster
 id: OMIM:616640
 name: Epilepsy, Progressive Myoclonic, 10; EPM10
 is_a: DC:0000625 ! Epilepsy, Progressive Myoclonic
+
+[Term]
+id: OMIM:616645
+name: Epileptic Encephalopathy, Early Infantile, 34; EIEE34
+is_a: DC:0000137 ! Epileptic Encephalopathy, Early Infantile
+
+[Term]
+id: OMIM:616647
+name: Epileptic Encephalopathy, Early Infantile, 35; EIEE35
+is_a: DC:0000137 ! Epileptic Encephalopathy, Early Infantile
+
+[Term]
+id: OMIM:616648
+name: Optic Atrophy 8; OPA8
+is_a: DC:0000333 ! Optic Atrophy
+
+[Term]
+id: OMIM:616649
+name: Spherocytosis, Type 2; SPH2
+is_a: DC:0000412 ! Spherocytosis
+
+[Term]
+id: OMIM:616651
+name: Roifman Syndrome; RFMN
+alt_id: OMIM:300258
+synonym: "Roifman syndrome" EXACT []
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616652
+name: Yuan-Harel-Lupski Syndrome; YUHAL
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616654
+name: Joubert Syndrome 24; JBTS24
+is_a: DC:0000231 ! Joubert Syndrome
+
+[Term]
+id: OMIM:616657
+name: Spastic Tetraplegia, Thin Corpus Callosum, and Progressive Microcephaly;
+is_a: DC:0000138 ! Disease Cluster
 
