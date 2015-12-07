@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 04:12:2015 11:54
+date: 07:12:2015 10:48
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44766,6 +44766,11 @@ name: Seizures, Cortical Blindness, Microcephaly Syndrome; SCBMS
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
+id: OMIM:616636
+name: Immunodeficiency 44; IMD44
+is_a: DC:0000615 ! Immunodeficiency
+
+[Term]
 id: OMIM:616638
 name: Smith-Kingsmore Syndrome; SKS
 is_a: DC:0000138 ! Disease Cluster
@@ -44816,4 +44821,19 @@ is_a: DC:0000231 ! Joubert Syndrome
 id: OMIM:616657
 name: Spastic Tetraplegia, Thin Corpus Callosum, and Progressive Microcephaly;
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616668
+name: Charcot-Marie-Tooth Disease, Axonal, Type 2x; CMT2X
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
+id: OMIM:616669
+name: Immunodeficiency 45; IMD45
+is_a: DC:0000615 ! Immunodeficiency
+
+[Term]
+id: OMIM:616672
+name: Combined Oxidative Phosphorylation Deficiency 27; COXPD27
+is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
 
