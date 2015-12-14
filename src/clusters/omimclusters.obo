@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 07:12:2015 10:48
+date: 14:12:2015 11:02
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -2522,7 +2522,7 @@ creation_date: 2013-09-09T14:53:27Z
 [Term]
 id: DC:0000308
 name: Myopathy, Inclusion Body
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 created_by: smb
 creation_date: 2013-09-09T14:55:47Z
 
@@ -5826,6 +5826,14 @@ xref: PS:220210
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2015-12-02T11:29:20Z
+
+[Term]
+id: DC:0000714
+name: Dehydrated Hereditary Stomatocytosis
+comment: See genetic heterogeneity of OMIM 194380. smb
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2015-12-14T10:44:39Z
 
 [Term]
 id: OMIM:100050
@@ -14430,8 +14438,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:194380
-name: Dehydrated Hereditary Stomatocytosis, Pseudohyperkalemia, and Perinatal Edema
-is_a: DC:0000138 ! Disease Cluster
+name: Dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema
+is_a: DC:0000714 ! Dehydrated Hereditary Stomatocytosis
 
 [Term]
 id: OMIM:194400
@@ -25615,11 +25623,6 @@ name: Velofacioskeletal Syndrome
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
-id: OMIM:600737
-name: Inclusion body myopathy autosomal recessive
-is_a: DC:0000308 ! Myopathy, Inclusion Body
-
-[Term]
 id: OMIM:600740
 name: HYPOCALCIURIC HYPERCALCEMIA, FAMILIAL, TYPE III
 is_a: DC:0000209 ! Hypocalciuric Hypercalcemia
@@ -28984,8 +28987,8 @@ is_a: DC:0000193 ! Hyperaldosteronism, Familial
 
 [Term]
 id: OMIM:605637
-name: Inclusion body myopathy, autosomal dominant
-is_a: DC:0000308 ! Myopathy, Inclusion Body
+name: Proximal myopathy and ophthalmoplegia
+is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:605642
@@ -29115,6 +29118,8 @@ is_a: DC:0000110 ! Deafness, Autosomal Recessive
 [Term]
 id: OMIM:605820
 name: Distal myopathy, Nonaka type
+alt_id: OMIM:600737
+synonym: "Inclusion body myopathy autosomal recessive" EXACT []
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
@@ -44308,7 +44313,7 @@ is_a: DC:0000347 ! Palmoplantar Keratoderma, Nonepidermolytic
 [Term]
 id: OMIM:616402
 name: Microcephaly 14, Primary, Autosomal Recessive; MCPH14
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000277 ! Microcephaly, Primary, Autosomal Recessive
 
 [Term]
 id: OMIM:616407
@@ -44493,7 +44498,7 @@ is_a: DC:0000134 ! Liver Failure, Infantile
 [Term]
 id: OMIM:616486
 name: Microcephaly 15, Primary, Autosomal Recessive; MCPH15
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000277 ! Microcephaly, Primary, Autosomal Recessive
 
 [Term]
 id: OMIM:616487
@@ -44836,4 +44841,19 @@ is_a: DC:0000615 ! Immunodeficiency
 id: OMIM:616672
 name: Combined Oxidative Phosphorylation Deficiency 27; COXPD27
 is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
+
+[Term]
+id: OMIM:616680
+name: Spastic Paraplegia 75, Autosomal Recessive; SPG75
+is_a: DC:0000410 ! Spastic Paraplegia
+
+[Term]
+id: OMIM:616681
+name: Microcephaly 16, Primary, Autosomal Recessive; MCPH16
+is_a: DC:0000277 ! Microcephaly, Primary, Autosomal Recessive
+
+[Term]
+id: OMIM:616689
+name: Dehydrated Hereditary Stomatocytosis 2; DHS2
+is_a: DC:0000714 ! Dehydrated Hereditary Stomatocytosis
 
