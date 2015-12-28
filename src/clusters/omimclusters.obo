@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 14:12:2015 11:02
+date: 28:12:2015 12:02
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44853,7 +44853,42 @@ name: Microcephaly 16, Primary, Autosomal Recessive; MCPH16
 is_a: DC:0000277 ! Microcephaly, Primary, Autosomal Recessive
 
 [Term]
+id: OMIM:616684
+name: Charcot-Marie-Tooth Disease, Type 4k; CMT4K
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
+id: OMIM:616685
+name: Epilepsy, Idiopathic Generalized, Susceptibility to, 14; EIG14
+is_a: DC:0000152 ! Epilepsy, Idiopathic Generalized
+
+[Term]
+id: OMIM:616687
+name: Charcot-Marie-Tooth Disease, Axonal, Type 2y; CMT2Y
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
+id: OMIM:616688
+name: Charcot-Marie-Tooth Disease, Axonal, Type 2z; CMT2Z
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
 id: OMIM:616689
 name: Dehydrated Hereditary Stomatocytosis 2; DHS2
 is_a: DC:0000714 ! Dehydrated Hereditary Stomatocytosis
+
+[Term]
+id: OMIM:616705
+name: Deafness, Autosomal Recessive 97; DFNB97
+is_a: DC:0000110 ! Deafness, Autosomal Recessive
+
+[Term]
+id: OMIM:616707
+name: Deafness, Autosomal Dominant 68; DFNA68
+is_a: DC:0000109 ! Deafness, Autosomal Dominant
+
+[Term]
+id: OMIM:616716
+name: Rhizomelic Chondrodysplasia Punctata, Type 5; RCDP5
+is_a: DC:0000392 ! Rhizomelic Chondrodysplasia Punctata
 
