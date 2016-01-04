@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 28:12:2015 12:02
+date: 04:01:2016 11:55
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -44853,6 +44853,11 @@ name: Microcephaly 16, Primary, Autosomal Recessive; MCPH16
 is_a: DC:0000277 ! Microcephaly, Primary, Autosomal Recessive
 
 [Term]
+id: OMIM:616682
+name: Seizures, Scoliosis, and Macrocephaly Syndrome; SSMS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
 id: OMIM:616684
 name: Charcot-Marie-Tooth Disease, Type 4k; CMT4K
 is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
@@ -44878,6 +44883,11 @@ name: Dehydrated Hereditary Stomatocytosis 2; DHS2
 is_a: DC:0000714 ! Dehydrated Hereditary Stomatocytosis
 
 [Term]
+id: OMIM:616697
+name: Deafness, Congenital, Unilateral or Asymmetric; DCUA
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
 id: OMIM:616705
 name: Deafness, Autosomal Recessive 97; DFNB97
 is_a: DC:0000110 ! Deafness, Autosomal Recessive
@@ -44888,7 +44898,42 @@ name: Deafness, Autosomal Dominant 68; DFNA68
 is_a: DC:0000109 ! Deafness, Autosomal Dominant
 
 [Term]
+id: OMIM:616710
+name: Parkinson Disease 22, Autosomal Dominant; PARK22
+is_a: DC:0000351 ! Parkinson Disease
+
+[Term]
 id: OMIM:616716
 name: Rhizomelic Chondrodysplasia Punctata, Type 5; RCDP5
 is_a: DC:0000392 ! Rhizomelic Chondrodysplasia Punctata
+
+[Term]
+id: OMIM:616719
+name: Spinocerebellar Ataxia, Autosomal Recessive 21; SCAR21
+is_a: DC:0000414 ! Spinocerebellar Ataxia
+
+[Term]
+id: OMIM:616720
+name: Myasthenic Syndrome, Congenital, 19; CMS19
+is_a: DC:0000297 ! Myasthenic Syndrome, Congenital
+
+[Term]
+id: OMIM:616721
+name: Congenital Disorder of Glycosylation, Type Iin; CDG2N
+is_a: DC:0000629 ! Congenital Disorders of Glycosylation, Type II
+
+[Term]
+id: OMIM:616722
+name: Retinal Dystrophy and Iris Coloboma with or without Congenital Cataract;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616723
+name: Spondyloepimetaphyseal Dysplasia, Faden-Alkuraya Type; SEMDFA
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616724
+name: Tooth Agenesis, Selective, 7; STHAG7
+is_a: DC:0000439 ! Tooth Agenesis, Selective
 
