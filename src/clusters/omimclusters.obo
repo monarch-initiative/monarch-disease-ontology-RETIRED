@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 04:01:2016 11:55
+date: 11:01:2016 10:43
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5836,6 +5836,22 @@ created_by: smb
 creation_date: 2015-12-14T10:44:39Z
 
 [Term]
+id: DC:0000715
+name: Skin Creases, Congenital Symmetric Circumferential
+xref: PS:156610
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-01-11T10:28:00Z
+
+[Term]
+id: DC:0000716
+name: Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia
+comment: See genetic heterogeneity of OMIM 605432.
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-01-11T10:33:10Z
+
+[Term]
 id: OMIM:100050
 name: Aarskog Syndrome, Autosomal Dominant
 is_a: DC:0000138 ! Disease Cluster
@@ -10849,8 +10865,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:156610
-name: Skin Creases, Multiple Benign Ring-Shaped, of Limbs
-is_a: DC:0000138 ! Disease Cluster
+name: Symmetric Circumferential Skin Creases, Congenital, 1
+is_a: DC:0000715 ! Skin Creases, Congenital Symmetric Circumferential
 
 [Term]
 id: OMIM:156620
@@ -28875,8 +28891,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:605432
-name: Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia
-is_a: DC:0000138 ! Disease Cluster
+name: Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia 1: RUSAT1
+is_a: DC:0000716 ! Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia
 
 [Term]
 id: OMIM:605462
@@ -44936,4 +44952,34 @@ is_a: DC:0000138 ! Disease Cluster
 id: OMIM:616724
 name: Tooth Agenesis, Selective, 7; STHAG7
 is_a: DC:0000439 ! Tooth Agenesis, Selective
+
+[Term]
+id: OMIM:616728
+name: Cleft Palate, Psychomotor Retardation, and Distinctive Facial Features;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616732
+name: Optic Atrophy 10 with or without Ataxia, Mental Retardation, and Seizures;
+is_a: DC:0000333 ! Optic Atrophy
+
+[Term]
+id: OMIM:616734
+name: Skin Creases, Congenital Symmetric Circumferential, 2; CSCSC2
+is_a: DC:0000715 ! Skin Creases, Congenital Symmetric Circumferential
+
+[Term]
+id: OMIM:616737
+name: Takenouchi-Kosaki Syndrome; TKS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616738
+name: Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia 2; RUSAT2
+is_a: DC:0000716 ! Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia
+
+[Term]
+id: OMIM:616740
+name: Immunodeficiency 46; IMD46
+is_a: DC:0000615 ! Immunodeficiency
 
