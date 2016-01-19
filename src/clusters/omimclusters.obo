@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 11:01:2016 10:43
+date: 19:01:2016 11:17
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -23570,6 +23570,11 @@ name: Ritscher-Schinzel Syndrome 2; RTSC2
 is_a: DC:0000713 ! Ritscher-Schinzel Syndrome
 
 [Term]
+id: OMIM:300966
+name: Mental Retardation, X-Linked, Syndromic 33; MRXS33
+is_a: DC:0000273 ! Mental Retardation, X-Linked, Syndromic
+
+[Term]
 id: OMIM:301000
 name: Wiskott-Aldrich Syndrome; WAS
 is_a: DC:0000613 ! Wiskott-Aldrich Syndrome
@@ -44874,6 +44879,11 @@ name: Seizures, Scoliosis, and Macrocephaly Syndrome; SSMS
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
+id: OMIM:616683
+name: Leukodystrophy, Hypomyelinating, 12; HLD12
+is_a: DC:0000245 ! Leukodystrophy, Hypomyelinating
+
+[Term]
 id: OMIM:616684
 name: Charcot-Marie-Tooth Disease, Type 4k; CMT4K
 is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
@@ -44912,6 +44922,11 @@ is_a: DC:0000110 ! Deafness, Autosomal Recessive
 id: OMIM:616707
 name: Deafness, Autosomal Dominant 68; DFNA68
 is_a: DC:0000109 ! Deafness, Autosomal Dominant
+
+[Term]
+id: OMIM:616708
+name: Desanto-Shinawi Syndrome; DESSH
+is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:616710
@@ -44954,9 +44969,19 @@ name: Tooth Agenesis, Selective, 7; STHAG7
 is_a: DC:0000439 ! Tooth Agenesis, Selective
 
 [Term]
+id: OMIM:616726
+name: Ciliary Dyskinesia, Primary, 33; CILD33
+is_a: DC:0000086 ! Ciliary Dyskinesia, Primary
+
+[Term]
 id: OMIM:616728
 name: Cleft Palate, Psychomotor Retardation, and Distinctive Facial Features;
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616730
+name: Nephrotic Syndrome, Type 11; NPHS11
+is_a: DC:0000317 ! Nephrotic Syndrome
 
 [Term]
 id: OMIM:616732
@@ -44964,9 +44989,19 @@ name: Optic Atrophy 10 with or without Ataxia, Mental Retardation, and Seizures;
 is_a: DC:0000333 ! Optic Atrophy
 
 [Term]
+id: OMIM:616733
+name: Coenzyme Q10 Deficiency, Primary, 8; COQ10D8
+is_a: DC:0000496 ! Coenzyme Q10 Deficiency, Primary
+
+[Term]
 id: OMIM:616734
 name: Skin Creases, Congenital Symmetric Circumferential, 2; CSCSC2
 is_a: DC:0000715 ! Skin Creases, Congenital Symmetric Circumferential
+
+[Term]
+id: OMIM:616736
+name: Tremor, Hereditary Essential, 5; ETM5
+is_a: DC:0000603 ! Tremor, Hereditary Essential
 
 [Term]
 id: OMIM:616737
@@ -44979,7 +45014,27 @@ name: Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia 2; RUSAT2
 is_a: DC:0000716 ! Radioulnar Synostosis with Amegakaryocytic Thrombocytopenia
 
 [Term]
+id: OMIM:616739
+name: Mental Retardation, Autosomal Recessive 51; MRT51
+is_a: DC:0000655 ! Mental Retardation, Autosomal Recessive
+
+[Term]
 id: OMIM:616740
 name: Immunodeficiency 46; IMD46
 is_a: DC:0000615 ! Immunodeficiency
+
+[Term]
+id: OMIM:616744
+name: Autoinflammatory Syndrome, Familial, Behcet-Like; AISBL
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616754
+name: Bombay Phenotype
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616760
+name: Woolly Hair, Autosomal Recessive 3; ARWH3
+is_a: DC:0000138 ! Disease Cluster
 
