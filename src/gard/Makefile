@@ -1,4 +1,4 @@
-ONT=gard
+ ONT=gard
 O=$(ONT).obo
 
 all: suggest_new.txt
