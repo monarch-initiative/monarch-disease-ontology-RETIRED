@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 19:01:2016 11:17
+date: 08:02:2016 10:47
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5852,6 +5852,13 @@ created_by: smb
 creation_date: 2016-01-11T10:33:10Z
 
 [Term]
+id: DC:0000717
+name: Cerebral Arteriopathy, Autosomal Dominant, with Subcortical Infarcts and Leukoencephalopathy; CADASIL
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-02-08T10:29:08Z
+
+[Term]
 id: OMIM:100050
 name: Aarskog Syndrome, Autosomal Dominant
 is_a: DC:0000138 ! Disease Cluster
@@ -7485,7 +7492,7 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:119600
-name: Cleidocranial Dysplasia
+name: Cleidocranial Dysplasia; CCD
 is_a: DC:0000505 ! Cleidocranial Dysplasia
 
 [Term]
@@ -7970,8 +7977,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:125310
-name: CADASIL
-is_a: DC:0000138 ! Disease Cluster
+name: CADASIL1
+is_a: DC:0000717 ! Cerebral Arteriopathy, Autosomal Dominant, with Subcortical Infarcts and Leukoencephalopathy; CADASIL
 
 [Term]
 id: OMIM:125320
@@ -18850,7 +18857,7 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:248600
-name: Maple Syrup Urine Disease
+name: Maple Syrup Urine Disease; MSUD
 is_a: DC:0000555 ! Maple Syrup Urine Disease
 
 [Term]
@@ -45029,12 +45036,67 @@ name: Autoinflammatory Syndrome, Familial, Behcet-Like; AISBL
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
+id: OMIM:616749
+name: Heterotaxy, Visceral, 7, Autosomal; HTX7
+is_a: DC:0000531 ! Heterotaxy, Visceral
+
+[Term]
 id: OMIM:616754
 name: Bombay Phenotype
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616756
+name: Spastic Paraplegia and Psychomotor Retardation with or without Seizures;
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:616760
 name: Woolly Hair, Autosomal Recessive 3; ARWH3
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616763
+name: Leukodystrophy and Acquired Microcephaly with or without Dystonia;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616777
+name: Seckel Syndrome 9; SCKL9
+is_a: DC:0000401 ! Seckel Syndrome
+
+[Term]
+id: OMIM:616779
+name: Cerebral Arteriopathy, Autosomal Dominant, with Subcortical Infarcts and Leukoencephalopathy, Type 2; CADASIL2
+is_a: DC:0000717 ! Cerebral Arteriopathy, Autosomal Dominant, with Subcortical Infarcts and Leukoencephalopathy; CADASIL
+
+[Term]
+id: OMIM:616780
+name: Oocyte Maturation Defect; OOMD
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616781
+name: Joubert Syndrome 25; JBTS25
+is_a: DC:0000231 ! Joubert Syndrome
+
+[Term]
+id: OMIM:616784
+name: Joubert Syndrome 26; JBTS26
+is_a: DC:0000231 ! Joubert Syndrome
+
+[Term]
+id: OMIM:616788
+name: Orofacial Cleft 15; OFC15
+is_a: DC:0000334 ! Orofacial Cleft
+
+[Term]
+id: OMIM:616789
+name: Mental Retardation and Distinctive Facial Features with or without Cardiac Defects; MRFACD
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616792
+name: Neuroblastoma, Susceptibility to, 7; NBLST7
+is_a: DC:0000319 ! Neuroblastoma
 
