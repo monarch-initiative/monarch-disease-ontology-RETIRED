@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 08:02:2016 10:47
+date: 15:02:2016 10:48
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5857,6 +5857,13 @@ name: Cerebral Arteriopathy, Autosomal Dominant, with Subcortical Infarcts and L
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2016-02-08T10:29:08Z
+
+[Term]
+id: DC:0000718
+name: Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-02-15T10:44:04Z
 
 [Term]
 id: OMIM:100050
@@ -42097,8 +42104,8 @@ is_a: DC:0000284 ! Mitochondrial DNA Depletion Syndrome
 
 [Term]
 id: OMIM:615419
-name: Neuroaxonal Neurodegeneration, Infantile, with Facial Dysmorphism;
-is_a: DC:0000138 ! Disease Cluster
+name: Hypotonia, infantile, with psychomotor retardation and characteristic facies 1
+is_a: DC:0000718 ! Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies
 
 [Term]
 id: OMIM:615420
@@ -45099,4 +45106,39 @@ is_a: DC:0000138 ! Disease Cluster
 id: OMIM:616792
 name: Neuroblastoma, Susceptibility to, 7; NBLST7
 is_a: DC:0000319 ! Neuroblastoma
+
+[Term]
+id: OMIM:616794
+name: Combined Oxidative Phosphorylation Deficiency 28; COXPD28
+is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
+
+[Term]
+id: OMIM:616795
+name: Spinocerebellar Ataxia 42; SCA42
+is_a: DC:0000414 ! Spinocerebellar Ataxia
+
+[Term]
+id: OMIM:616801
+name: Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies 2; IHPRF2
+is_a: DC:0000718 ! Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies
+
+[Term]
+id: OMIM:616803
+name: Lamb-Shaffer Syndrome; LAMSHF
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616806
+name: Wilms Tumor 6; WT6
+is_a: DC:0000457 ! Wilms Tumor
+
+[Term]
+id: OMIM:616809
+name: Hyperphosphatasia with Mental Retardation Syndrome 6; HPMRS6
+is_a: DC:0000203 ! Hyperphosphatasia with Mental Retardation Syndrome
+
+[Term]
+id: OMIM:616811
+name: Combined Oxidative Phosphorylation Deficiency 29; COXPD29
+is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
 
