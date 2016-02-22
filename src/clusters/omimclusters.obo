@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 15:02:2016 10:48
+date: 22:02:2016 10:24
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5864,6 +5864,13 @@ name: Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Faci
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2016-02-15T10:44:04Z
+
+[Term]
+id: DC:0000719
+name: Microcephaly, Short Stature, and Impaired Glucose Metabolism
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-02-22T10:21:04Z
 
 [Term]
 id: OMIM:100050
@@ -23586,6 +23593,11 @@ is_a: DC:0000713 ! Ritscher-Schinzel Syndrome
 [Term]
 id: OMIM:300966
 name: Mental Retardation, X-Linked, Syndromic 33; MRXS33
+is_a: DC:0000273 ! Mental Retardation, X-Linked, Syndromic
+
+[Term]
+id: OMIM:300967
+name: Mental Retardation, X-Linked, Syndromic 34; MRXS34
 is_a: DC:0000273 ! Mental Retardation, X-Linked, Syndromic
 
 [Term]
@@ -43536,8 +43548,8 @@ is_a: DC:0000164 ! Focal Segmental Glomerulosclerosis
 
 [Term]
 id: OMIM:616033
-name: Microcephaly, Short Stature, and Impaired Glucose Metabolism; MSSGM
-is_a: DC:0000138 ! Disease Cluster
+name: Microcephaly, Short Stature, and Impaired Glucose Metabolism 1; MSSGM1
+is_a: DC:0000719 ! Microcephaly, Short Stature, and Impaired Glucose Metabolism
 
 [Term]
 id: OMIM:616034
@@ -45141,4 +45153,29 @@ is_a: DC:0000203 ! Hyperphosphatasia with Mental Retardation Syndrome
 id: OMIM:616811
 name: Combined Oxidative Phosphorylation Deficiency 29; COXPD29
 is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
+
+[Term]
+id: OMIM:616812
+name: Muscular Dystrophy, Limb-Girdle, Type 2x; LGMD2X
+is_a: DC:0000250 ! Muscular Dystrophy, Limb-Girdle
+
+[Term]
+id: OMIM:616816
+name: Hypotonia, Infantile, with Psychomotor Retardation; IHPMR
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616817
+name: Microcephaly, Short Stature, and Impaired Glucose Metabolism 2; MSSGM2
+is_a: DC:0000719 ! Microcephaly, Short Stature, and Impaired Glucose Metabolism
+
+[Term]
+id: OMIM:616818
+name: Iga Nephropathy, Susceptibility to, 3; IGAN3
+is_a: DC:0000694 ! IgA Nephropathy, Susceptibility to
+
+[Term]
+id: OMIM:616819
+name: Corpus Callosum, Agenesis of, with Facial Anomalies and Cerebellar Ataxia; CCAFCA
+is_a: DC:0000138 ! Disease Cluster
 
