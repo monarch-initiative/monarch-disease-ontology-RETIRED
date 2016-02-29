@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 22:02:2016 10:24
+date: 29:02:2016 12:05
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -2757,6 +2757,7 @@ creation_date: 2013-09-09T16:13:46Z
 id: DC:0000336
 name: Paget Disease of Bone
 comment: See text of OMIM 602080.
+xref: PS:167250
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2013-09-09T16:29:47Z
@@ -11843,7 +11844,7 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:167250
-name: PAGET DISEASE OF BONE 1
+name: PAGET DISEASE OF BONE 3
 is_a: DC:0000336 ! Paget Disease of Bone
 
 [Term]
@@ -18020,8 +18021,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:239000
-name: PAGET DISEASE, JUVENILE
-is_a: DC:0000138 ! Disease Cluster
+name: Paget disease of bone 5, juvenile-onset
+is_a: DC:0000336 ! Paget Disease of Bone
 
 [Term]
 id: OMIM:239100
@@ -26997,7 +26998,7 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:602080
-name: PAGET DISEASE OF BONE; PDB
+name: PAGET DISEASE OF BONE 2; PDB2
 is_a: DC:0000336 ! Paget Disease of Bone
 
 [Term]
@@ -45160,6 +45161,11 @@ name: Muscular Dystrophy, Limb-Girdle, Type 2x; LGMD2X
 is_a: DC:0000250 ! Muscular Dystrophy, Limb-Girdle
 
 [Term]
+id: OMIM:616814
+name: Preimplantation Embryonic Lethality; PREMBL
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
 id: OMIM:616816
 name: Hypotonia, Infantile, with Psychomotor Retardation; IHPMR
 is_a: DC:0000138 ! Disease Cluster
@@ -45178,4 +45184,34 @@ is_a: DC:0000694 ! IgA Nephropathy, Susceptibility to
 id: OMIM:616819
 name: Corpus Callosum, Agenesis of, with Facial Anomalies and Cerebellar Ataxia; CCAFCA
 is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616827
+name: Muscular Dystrophy, Limb-Girdle, Type 2w; LGMD2W
+is_a: DC:0000250 ! Muscular Dystrophy, Limb-Girdle
+
+[Term]
+id: OMIM:616828
+name: Congenital Disorder of Glycosylation, Type Iio; CDG2O
+is_a: DC:0000629 ! Congenital Disorders of Glycosylation, Type II
+
+[Term]
+id: OMIM:616831
+name: Luscan-Lumish Syndrome; LLS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616833
+name: Paget Disease of Bone 6; PDB6
+is_a: DC:0000336 ! Paget Disease of Bone
+
+[Term]
+id: OMIM:616834
+name: Microcephaly, Congenital Cataract, and Psoriasiform Dermatitis; MCCPD
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616835
+name: Meier-Gorlin Syndrome 6; MGORS6
+is_a: DC:0000270 ! Meier-Gorlin Syndrome
 
