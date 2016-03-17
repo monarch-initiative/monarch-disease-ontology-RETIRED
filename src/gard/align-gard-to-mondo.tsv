@@ -1829,8 +1829,6 @@ GARD:0001469	17-alpha-hydroxylase deficiency	MESH:C538237	Adrenal hyperplasia, c
 GARD:0001469	17-alpha-hydroxylase deficiency	MESH:C538237	Adrenal hyperplasia, congenital, type 5	true	
 GARD:0001469	17-alpha-hydroxylase deficiency	OMIM:202110	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	false	
 GARD:0001469	17-alpha-hydroxylase deficiency	OMIM:202110	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	true	
-GARD:0001470	Congenital alopecia X-linked	DOID:987	alopecia	false	
-GARD:0001470	Congenital alopecia X-linked	DOID:987	alopecia	true	
 GARD:0001470	Congenital alopecia X-linked	OMIM:300042	Alopecia, Congenital	false	
 GARD:0001470	Congenital alopecia X-linked	OMIM:300042	Alopecia, Congenital	true	
 GARD:0001471	Congenital amputation	OMIM:217100	Constricting Bands, Congenital	false	
@@ -1961,8 +1959,6 @@ GARD:0001617	Crossed polysyndactyly	OMIM:175690	Crossed polysyndactyly	false
 GARD:0001617	Crossed polysyndactyly	OMIM:175690	Crossed polysyndactyly	true	
 GARD:0001620	Cryptogenic organizing pneumonia	DOID:0050157	cryptogenic organizing pneumonia	false	
 GARD:0001620	Cryptogenic organizing pneumonia	DOID:0050157	cryptogenic organizing pneumonia	true	
-GARD:0001620	Cryptogenic organizing pneumonia	MESH:D018549	Cryptogenic Organizing Pneumonia	false	
-GARD:0001620	Cryptogenic organizing pneumonia	MESH:D018549	Cryptogenic Organizing Pneumonia	true	
 GARD:0001626	Currarino triad	OMIM:176450	Currarino triad	false	
 GARD:0001626	Currarino triad	OMIM:176450	Currarino triad	true	
 GARD:0001631	Cushing syndrome, familial	DOID:12252	Cushing's syndrome	false	
@@ -2071,10 +2067,10 @@ GARD:0001815	Dermochondrocorneal dystrophy of FranC'ois	OMIM:221800	Dermochondro
 GARD:0001815	Dermochondrocorneal dystrophy of FranC'ois	OMIM:221800	Dermochondrocorneal dystrophy	true	
 GARD:0001816	Dermoodontodysplasia	OMIM:125640	Dermo-odonto dysplasia	false	
 GARD:0001816	Dermoodontodysplasia	OMIM:125640	Dermo-odonto dysplasia	true	
+GARD:0001818	Desbuquois syndrome	DOID:0060462	Desbuquois dysplasia	false	
+GARD:0001818	Desbuquois syndrome	DOID:0060462	Desbuquois dysplasia	true	
 GARD:0001818	Desbuquois syndrome	OMIM:251450	Desbuquois Dysplasia 1	false	
 GARD:0001818	Desbuquois syndrome	OMIM:251450	Desbuquois Dysplasia 1	true	
-GARD:0001818	Desbuquois syndrome	Orphanet:1425	Desbuquois syndrome	false	
-GARD:0001818	Desbuquois syndrome	Orphanet:1425	Desbuquois syndrome	true	
 GARD:0001820	Desmoid tumor	OMIM:135290	Desmoid Disease, Hereditary	false	
 GARD:0001820	Desmoid tumor	OMIM:135290	Desmoid Disease, Hereditary	true	
 GARD:0001820	Desmoid tumor	Orphanet:873	Desmoid tumor	false	
@@ -2496,8 +2492,8 @@ GARD:0002317	FG syndrome	OMIM:305450	Opitz-Kaveggia Syndrome	false
 GARD:0002317	FG syndrome	OMIM:305450	Opitz-Kaveggia Syndrome	true	
 GARD:0002320	Fibrinogen deficiency, congenital	Orphanet:335	Congenital fibrinogen deficiency	false	
 GARD:0002320	Fibrinogen deficiency, congenital	Orphanet:335	Congenital fibrinogen deficiency	true	
-GARD:0002321	Fibrochondrogenesis	MESH:C562524	Fibrochondrogenesis	false	
-GARD:0002321	Fibrochondrogenesis	MESH:C562524	Fibrochondrogenesis	true	
+GARD:0002321	Fibrochondrogenesis	DOID:0060465	fibrochondrogenesis	false	
+GARD:0002321	Fibrochondrogenesis	DOID:0060465	fibrochondrogenesis	true	
 GARD:0002322	Birt-Hogg-Dube syndrome	OMIM:135150	Birt-Hogg-Dube syndrome	false	
 GARD:0002322	Birt-Hogg-Dube syndrome	OMIM:135150	Birt-Hogg-Dube syndrome	true	
 GARD:0002324	Gingival fibromatosis with hypertrichosis	OMIM:135400	Gingival fibromatosis-hypertrichosis syndrome	false	
@@ -2877,8 +2873,8 @@ GARD:0002736	Hordnes Engebretsen Knudtson syndrome	MESH:C536067	Hordnes Engebret
 GARD:0002736	Hordnes Engebretsen Knudtson syndrome	MESH:C536067	Hordnes Engebretsen Knudtson syndrome	true	
 GARD:0002737	Horn Kolb syndrome	OMIM:200500	acheiropody	false	
 GARD:0002737	Horn Kolb syndrome	OMIM:200500	acheiropody	true	
-GARD:0002748	Humeroradial synostosis	DC:0000532	Humeroradial Synostosis	false	
-GARD:0002748	Humeroradial synostosis	DC:0000532	Humeroradial Synostosis	true	
+GARD:0002748	Humeroradial synostosis	DOID:0060467	humeroradial synostosis	false	
+GARD:0002748	Humeroradial synostosis	DOID:0060467	humeroradial synostosis	true	
 GARD:0002748	Humeroradial synostosis	OMIM:143050	Humeroradial Synostosis	false	
 GARD:0002748	Humeroradial synostosis	OMIM:143050	Humeroradial Synostosis	true	
 GARD:0002748	Humeroradial synostosis	OMIM:236400	Humeroradial Synostosis	false	
@@ -3786,10 +3782,8 @@ GARD:0003659	Microphthalmia syndromic 7	OMIM:309801	Linear Skin Defects With Mul
 GARD:0003659	Microphthalmia syndromic 7	Orphanet:2556	Microphthalmia with linear skin defects syndrome	true	
 GARD:0003668	Miller-Fisher syndrome	DOID:12889	Miller Fisher syndrome	false	
 GARD:0003668	Miller-Fisher syndrome	DOID:12889	Miller Fisher syndrome	true	
-GARD:0003669	Miller-Dieker syndrome	OMIM:247200	Miller-Dieker Lissencephaly Syndrome	false	
-GARD:0003669	Miller-Dieker syndrome	OMIM:247200	Miller-Dieker Lissencephaly Syndrome	true	
-GARD:0003669	Miller-Dieker syndrome	Orphanet:531	Miller-Dieker syndrome	false	
-GARD:0003669	Miller-Dieker syndrome	Orphanet:531	Miller-Dieker syndrome	true	
+GARD:0003669	Miller-Dieker syndrome	DOID:0060469	Miller-Dieker lissencephaly syndrome	false	
+GARD:0003669	Miller-Dieker syndrome	DOID:0060469	Miller-Dieker lissencephaly syndrome	true	
 GARD:0003670	Milner Khallouf Gibson syndrome	MESH:C537473	Milner Khallouf Gibson syndrome	false	
 GARD:0003670	Milner Khallouf Gibson syndrome	MESH:C537473	Milner Khallouf Gibson syndrome	true	
 GARD:0003671	Mitochondrial DNA-associated Leigh syndrome	Orphanet:255210	Maternally-inherited Leigh syndrome	false	
@@ -3963,8 +3957,8 @@ GARD:0003881	Mitochondrial myopathy with diabetes	OMIM:500002	Mitochondrial Myop
 GARD:0003881	Mitochondrial myopathy with diabetes	OMIM:500002	Mitochondrial Myopathy With Diabetes	true	
 GARD:0003883	Myopathy congenital multicore with external ophthalmoplegia	Orphanet:98905	Congenital multicore myopathy with external ophthalmoplegia	false	
 GARD:0003883	Myopathy congenital multicore with external ophthalmoplegia	Orphanet:98905	Congenital multicore myopathy with external ophthalmoplegia	true	
-GARD:0003884	Tubular aggregate myopathy	DC:0000667	Myopathy, Tubular Aggregate	false	
-GARD:0003884	Tubular aggregate myopathy	DC:0000667	Myopathy, Tubular Aggregate	true	
+GARD:0003884	Tubular aggregate myopathy	DOID:0080089	tubular aggregate myopathy	false	
+GARD:0003884	Tubular aggregate myopathy	DOID:0080089	tubular aggregate myopathy	true	
 GARD:0003884	Tubular aggregate myopathy	OMIM:160565	Myopathy, Tubular Aggregate, 1	false	
 GARD:0003884	Tubular aggregate myopathy	OMIM:160565	Myopathy, Tubular Aggregate, 1	true	
 GARD:0003885	Sideroblastic anemia and mitochondrial myopathy	OMIM:600462	Myopathy, Lactic Acidosis, and Sideroblastic Anemia 1	false	
@@ -4490,10 +4484,8 @@ GARD:0004386	Pneumocystosis	DOID:11339	pneumocystosis	false
 GARD:0004386	Pneumocystosis	DOID:11339	pneumocystosis	true	
 GARD:0004387	Podder-Tolmie syndrome	MESH:C537518	Podder-Tolmie syndrome	false	
 GARD:0004387	Podder-Tolmie syndrome	MESH:C537518	Podder-Tolmie syndrome	true	
-GARD:0004391	Kindler syndrome	OMIM:173650	Kindler Syndrome	false	
-GARD:0004391	Kindler syndrome	OMIM:173650	Kindler Syndrome	true	
-GARD:0004391	Kindler syndrome	Orphanet:2908	Kindler syndrome	false	
-GARD:0004391	Kindler syndrome	Orphanet:2908	Kindler syndrome	true	
+GARD:0004391	Kindler syndrome	OMIM:173650	Kindler syndrome	false	
+GARD:0004391	Kindler syndrome	OMIM:173650	Kindler syndrome	true	
 GARD:0004392	Rothmund Thomson syndrome	OMIM:268400	Rothmund-Thomson syndrome	false	
 GARD:0004392	Rothmund Thomson syndrome	OMIM:268400	Rothmund-Thomson syndrome	true	
 GARD:0004395	Pointer syndrome	MESH:C536323	Pointer syndrome	false	
@@ -5617,8 +5609,8 @@ GARD:0005443	VACTERL association	OMIM:192350	Vater Association	false
 GARD:0005443	VACTERL association	OMIM:192350	Vater Association	true	
 GARD:0005445	Mayer-Rokitansky-Kuster-Hauser syndrome	OMIM:277000	Mayer-Rokitansky-Kuster-Hauser Syndrome	false	
 GARD:0005445	Mayer-Rokitansky-Kuster-Hauser syndrome	OMIM:277000	Mayer-Rokitansky-Kuster-Hauser Syndrome	true	
-GARD:0005447	Fetal valproate syndrome	OMIM:609442	Fetal valproate syndrome	false	
-GARD:0005447	Fetal valproate syndrome	OMIM:609442	Fetal valproate syndrome	true	
+GARD:0005447	Fetal valproate syndrome	OMIM:609442	fetal valproate syndrome	false	
+GARD:0005447	Fetal valproate syndrome	OMIM:609442	fetal valproate syndrome	true	
 GARD:0005453	Van Den Bosch syndrome	OMIM:314500	Van den Bosch syndrome	false	
 GARD:0005453	Van Den Bosch syndrome	OMIM:314500	Van den Bosch syndrome	true	
 GARD:0005456	Van Maldergem Wetzburger Verloes syndrome	DOID:0060238	Van Maldergem syndrome	false	
@@ -5714,8 +5706,8 @@ GARD:0005523	Waardenburg syndrome type 3	OMIM:148820	Waardenburg syndrome type 3
 GARD:0005523	Waardenburg syndrome type 3	OMIM:148820	Waardenburg syndrome type 3	true	
 GARD:0005525	Waardenburg syndrome	DOID:9258	Waardenburg's syndrome	false	
 GARD:0005525	Waardenburg syndrome	DOID:9258	Waardenburg's syndrome	true	
-GARD:0005525	Waardenburg syndrome	MESH:C538657	Van der Hoeve Halbertsma Waardenburg Gualdi Syndrome	false	
 GARD:0005525	Waardenburg syndrome	MESH:C538657	Van der Hoeve Halbertsma Waardenburg Gualdi Syndrome	true	
+GARD:0005525	Waardenburg syndrome	OMIA:001059	Waardenburg syndrome, generic	false	
 GARD:0005528	WAGR syndrome	DOID:14515	WAGR syndrome	false	
 GARD:0005528	WAGR syndrome	DOID:14515	WAGR syndrome	true	
 GARD:0005528	WAGR syndrome	OMIM:194072	Wilms Tumor, Aniridia, Genitourinary Anomalies, and Mental Retardation Syndrome	false	
@@ -5813,8 +5805,10 @@ GARD:0005621	Xanthinuria type 1	OMIM:278300	Xanthinuria type I	false
 GARD:0005621	Xanthinuria type 1	OMIM:278300	Xanthinuria type I	true	
 GARD:0005622	Cerebrotendinous xanthomatosis	OMIM:213700	cerebrotendinous xanthomatosis	false	
 GARD:0005622	Cerebrotendinous xanthomatosis	OMIM:213700	cerebrotendinous xanthomatosis	true	
-GARD:0005623	Dehydrated hereditary stomatocytosis	OMIM:194380	Dehydrated hereditary stomatocytosis	false	
-GARD:0005623	Dehydrated hereditary stomatocytosis	OMIM:194380	Dehydrated hereditary stomatocytosis	true	
+GARD:0005623	Dehydrated hereditary stomatocytosis	DC:0000714	Dehydrated Hereditary Stomatocytosis	false	
+GARD:0005623	Dehydrated hereditary stomatocytosis	DC:0000714	Dehydrated Hereditary Stomatocytosis	true	
+GARD:0005623	Dehydrated hereditary stomatocytosis	OMIM:194380	Dehydrated Hereditary Stomatocytosis With or Without Pseudohyperkalemia And/Or Perinatal Edema	false	
+GARD:0005623	Dehydrated hereditary stomatocytosis	OMIM:194380	Dehydrated Hereditary Stomatocytosis With or Without Pseudohyperkalemia And/Or Perinatal Edema	true	
 GARD:0005624	Xeroderma pigmentosum, type 1	OMIM:278700	Xeroderma pigmentosum complementation group A	false	
 GARD:0005624	Xeroderma pigmentosum, type 1	OMIM:278700	Xeroderma pigmentosum complementation group A	true	
 GARD:0005626	Xeroderma pigmentosum, type 3	OMIM:278720	Xeroderma pigmentosum complementation group C	false	
@@ -5857,6 +5851,8 @@ GARD:0005665	3 Methylcrotonyl-CoA carboxylase 1 deficiency	DOID:0050710	3-Methyl
 GARD:0005665	3 Methylcrotonyl-CoA carboxylase 1 deficiency	DOID:0050710	3-Methylcrotonyl-CoA carboxylase deficiency	true	
 GARD:0005665	3 Methylcrotonyl-CoA carboxylase 1 deficiency	OMIM:210200	3-Methylcrotonyl-Coa Carboxylase 1 Deficiency	false	
 GARD:0005665	3 Methylcrotonyl-CoA carboxylase 1 deficiency	OMIM:210200	3-Methylcrotonyl-Coa Carboxylase 1 Deficiency	true	
+GARD:0005666	Dandy-Walker like malformation with atrioventricular septal defect	DC:0000713	Ritscher-Schinzel Syndrome	false	
+GARD:0005666	Dandy-Walker like malformation with atrioventricular septal defect	DC:0000713	Ritscher-Schinzel Syndrome	true	
 GARD:0005666	Dandy-Walker like malformation with atrioventricular septal defect	OMIM:220210	3C syndrome	false	
 GARD:0005666	Dandy-Walker like malformation with atrioventricular septal defect	OMIM:220210	3C syndrome	true	
 GARD:0005667	3M syndrome	DOID:0060241	3-M syndrome	false	
@@ -6201,8 +6197,8 @@ GARD:0005890	Barth syndrome	OMIM:302060	Barth Syndrome	true
 GARD:0005893	Bartter syndrome	DOID:445	Bartter disease	false	
 GARD:0005893	Bartter syndrome	DOID:445	Bartter disease	true	
 GARD:0005896	Basilar migraine	OMIM:602481	Migraine, Familial Hemiplegic, 2	false	
-GARD:0005898	Myopathy congenital	DC:0000302	Myopathy, Congenital	false	
-GARD:0005898	Myopathy congenital	DC:0000302	Myopathy, Congenital	true	
+GARD:0005898	Myopathy congenital	DOID:0080100	congenital myopathy	false	
+GARD:0005898	Myopathy congenital	DOID:0080100	congenital myopathy	true	
 GARD:0005898	Myopathy congenital	OMIA:000694	Myopathy, congenital	false	
 GARD:0005898	Myopathy congenital	OMIA:000694	Myopathy, congenital	true	
 GARD:0005898	Myopathy congenital	OMIM:255300	Myopathy, Congenital	false	
@@ -6256,10 +6252,10 @@ GARD:0005948	Bowen's disease	MESH:D001913	Bowen's Disease	false
 GARD:0005948	Bowen's disease	MESH:D001913	Bowen's Disease	true	
 GARD:0005950	Bowen-Conradi syndrome	OMIM:211180	Bowen-Conradi syndrome	false	
 GARD:0005950	Bowen-Conradi syndrome	OMIM:211180	Bowen-Conradi syndrome	true	
-GARD:0005961	Bronchiolitis obliterans organizing pneumonia	DOID:2798	bronchiolitis obliterans organizing pneumonia	false	
-GARD:0005961	Bronchiolitis obliterans organizing pneumonia	DOID:2798	bronchiolitis obliterans organizing pneumonia	true	
-GARD:0005961	Bronchiolitis obliterans organizing pneumonia	DOID:2799	bronchiolitis obliterans	false	
-GARD:0005961	Bronchiolitis obliterans organizing pneumonia	DOID:2799	bronchiolitis obliterans	true	
+GARD:0005961	Bronchiolitis obliterans organizing pneumonia	DOID:0050157	cryptogenic organizing pneumonia	false	
+GARD:0005961	Bronchiolitis obliterans organizing pneumonia	DOID:0050157	cryptogenic organizing pneumonia	true	
+GARD:0005961	Bronchiolitis obliterans organizing pneumonia	Orphanet:1303	Bronchiolitis obliterans with obstructive pulmonary disease	false	
+GARD:0005961	Bronchiolitis obliterans organizing pneumonia	Orphanet:1303	Bronchiolitis obliterans with obstructive pulmonary disease	true	
 GARD:0005962	Bronchopulmonary dysplasia	Orphanet:70589	Bronchopulmonary dysplasia	false	
 GARD:0005962	Bronchopulmonary dysplasia	Orphanet:70589	Bronchopulmonary dysplasia	true	
 GARD:0005963	Brown syndrome	OMIM:616407	Brown Syndrome	false	
@@ -6380,10 +6376,8 @@ GARD:0006059	Choriocarcinoma	DOID:3594	choriocarcinoma	false
 GARD:0006059	Choriocarcinoma	DOID:3594	choriocarcinoma	true	
 GARD:0006060	Chorioretinitis	DOID:8886	chorioretinitis	false	
 GARD:0006060	Chorioretinitis	DOID:8886	chorioretinitis	true	
-GARD:0006061	Choroideremia	DOID:9821	choroideremia	false	
-GARD:0006061	Choroideremia	DOID:9821	choroideremia	true	
-GARD:0006061	Choroideremia	OMIM:303100	Choroideremia	false	
-GARD:0006061	Choroideremia	OMIM:303100	Choroideremia	true	
+GARD:0006061	Choroideremia	OMIM:303100	choroideremia	false	
+GARD:0006061	Choroideremia	OMIM:303100	choroideremia	true	
 GARD:0006062	Choroiditis	DOID:11406	choroiditis	false	
 GARD:0006062	Choroiditis	DOID:11406	choroiditis	true	
 GARD:0006062	Choroiditis	DOID:1417	choroid disease	true	
@@ -6478,8 +6472,8 @@ GARD:0006148	Hereditary antithrombin deficiency	DOID:3755	antithrombin III defic
 GARD:0006148	Hereditary antithrombin deficiency	DOID:3755	antithrombin III deficiency	true	
 GARD:0006149	Congenital aplastic anemia	DOID:1342	congenital hypoplastic anemia	false	
 GARD:0006149	Congenital aplastic anemia	DOID:1342	congenital hypoplastic anemia	true	
-GARD:0006161	Congenital fiber type disproportion	MESH:C580011	Congenital Fiber-Type Disproportion	false	
-GARD:0006161	Congenital fiber type disproportion	MESH:C580011	Congenital Fiber-Type Disproportion	true	
+GARD:0006161	Congenital fiber type disproportion	DOID:0080102	congenital fiber-type disproportion	false	
+GARD:0006161	Congenital fiber type disproportion	DOID:0080102	congenital fiber-type disproportion	true	
 GARD:0006163	Congenital generalized fibromatosis	OMIM:228550	Myofibromatosis, Infantile, 1	false	
 GARD:0006163	Congenital generalized fibromatosis	OMIM:228550	Myofibromatosis, Infantile, 1	true	
 GARD:0006164	Congenital heart block	OMIM:234700	congenital heart block	false	
@@ -6563,6 +6557,8 @@ GARD:0006236	Cystinosis	DOID:1064	cystinosis	false
 GARD:0006236	Cystinosis	DOID:1064	cystinosis	true	
 GARD:0006237	Cystinuria	DOID:9266	cystinuria	false	
 GARD:0006237	Cystinuria	DOID:9266	cystinuria	true	
+GARD:0006237	Cystinuria	OMIA:001878	Cystinuria, generic	false	
+GARD:0006237	Cystinuria	OMIA:001878	Cystinuria, generic	true	
 GARD:0006237	Cystinuria	OMIM:220100	Cystinuria	false	
 GARD:0006237	Cystinuria	OMIM:220100	Cystinuria	true	
 GARD:0006242	Dandy-Walker complex	Orphanet:217	Isolated Dandy-Walker malformation	false	
@@ -6743,6 +6739,7 @@ GARD:0006389	Evans syndrome	OMIA:001286	Evans syndrome	false
 GARD:0006389	Evans syndrome	OMIA:001286	Evans syndrome	true	
 GARD:0006389	Evans syndrome	Orphanet:1959	Evans syndrome	false	
 GARD:0006389	Evans syndrome	Orphanet:1959	Evans syndrome	true	
+GARD:0006390	Ewing's sarcoma	DOID:3369	Ewing sarcoma	false	
 GARD:0006393	Exfoliative dermatitis	MESH:D003873	Dermatitis, Exfoliative	false	
 GARD:0006393	Exfoliative dermatitis	MESH:D003873	Dermatitis, Exfoliative	true	
 GARD:0006394	Exogenous lipoid pneumonia	DOID:3241	lipid pneumonia	false	
@@ -7055,8 +7052,10 @@ GARD:0006665	Holoprosencephaly	DOID:4621	holoprosencephaly	false
 GARD:0006665	Holoprosencephaly	DOID:4621	holoprosencephaly	true	
 GARD:0006665	Holoprosencephaly	OMIA:000478	Holoprosencephaly	false	
 GARD:0006665	Holoprosencephaly	OMIA:000478	Holoprosencephaly	true	
-GARD:0006666	Holt-Oram syndrome	OMIM:142900	Holt-Oram syndrome	false	
-GARD:0006666	Holt-Oram syndrome	OMIM:142900	Holt-Oram syndrome	true	
+GARD:0006666	Holt-Oram syndrome	DOID:0060468	Holt-Oram syndrome	false	
+GARD:0006666	Holt-Oram syndrome	DOID:0060468	Holt-Oram syndrome	true	
+GARD:0006666	Holt-Oram syndrome	OMIM:142900	Holt-Oram Syndrome	false	
+GARD:0006666	Holt-Oram syndrome	OMIM:142900	Holt-Oram Syndrome	true	
 GARD:0006667	Homocystinuria due to CBS deficiency	OMIM:236200	Homocystinuria Due to Cystathionine Beta-Synthase Deficiency	false	
 GARD:0006667	Homocystinuria due to CBS deficiency	OMIM:236200	Homocystinuria Due to Cystathionine Beta-Synthase Deficiency	true	
 GARD:0006667	Homocystinuria due to CBS deficiency	Orphanet:394	Classical homocystinuria	true	
@@ -7210,8 +7209,8 @@ GARD:0006808	Juvenile myoclonic epilepsy	DOID:4890	juvenile myoclonic epilepsy	f
 GARD:0006808	Juvenile myoclonic epilepsy	DOID:4890	juvenile myoclonic epilepsy	true	
 GARD:0006808	Juvenile myoclonic epilepsy	OMIM:254770	Epilepsy, Myoclonic Juvenile	false	
 GARD:0006808	Juvenile myoclonic epilepsy	OMIM:254770	Epilepsy, Myoclonic Juvenile	true	
-GARD:0006810	Kabuki syndrome	DC:0000547	Kabuki Syndrome	false	
-GARD:0006810	Kabuki syndrome	DC:0000547	Kabuki Syndrome	true	
+GARD:0006810	Kabuki syndrome	DOID:0060473	Kabuki syndrome	false	
+GARD:0006810	Kabuki syndrome	DOID:0060473	Kabuki syndrome	true	
 GARD:0006810	Kabuki syndrome	OMIM:147920	Kabuki Syndrome 1	false	
 GARD:0006810	Kabuki syndrome	OMIM:147920	Kabuki Syndrome 1	true	
 GARD:0006811	Kallikrein hypertension	MESH:C537707	Kallikrein hypertension	false	
@@ -7466,8 +7465,6 @@ GARD:0007002	Medullary cystic kidney disease 1	OMIM:174000	Medullary Cystic Kidn
 GARD:0007004	Thyroid cancer, medullary	OMIM:155240	familial medullary thyroid carcinoma	false	
 GARD:0007005	Medulloblastoma	DOID:0050902	medulloblastoma	false	
 GARD:0007005	Medulloblastoma	DOID:0050902	medulloblastoma	true	
-GARD:0007005	Medulloblastoma	MESH:D008527	Medulloblastoma	false	
-GARD:0007005	Medulloblastoma	MESH:D008527	Medulloblastoma	true	
 GARD:0007005	Medulloblastoma	OMIM:155255	Medulloblastoma	false	
 GARD:0007005	Medulloblastoma	OMIM:155255	Medulloblastoma	true	
 GARD:0007006	Imerslund-Grasbeck syndrome	DOID:13382	megaloblastic anemia	false	
@@ -7585,8 +7582,6 @@ GARD:0007123	Mycobacterium Avium Complex	DOID:2755	Mycobacterium avium complex d
 GARD:0007130	Myelitis	DOID:322	myelitis	false	
 GARD:0007130	Myelitis	DOID:322	myelitis	true	
 GARD:0007132	Myelodysplastic syndromes	DOID:0050908	myelodysplastic syndrome	true	
-GARD:0007132	Myelodysplastic syndromes	OMIM:247200	Miller-Dieker Lissencephaly Syndrome	false	
-GARD:0007132	Myelodysplastic syndromes	OMIM:247200	Miller-Dieker Lissencephaly Syndrome	true	
 GARD:0007132	Myelodysplastic syndromes	OMIM:614286	Myelodysplastic Syndrome	true	
 GARD:0007137	Myocarditis	DOID:820	myocarditis	false	
 GARD:0007137	Myocarditis	DOID:820	myocarditis	true	
@@ -8673,8 +8668,8 @@ GARD:0008406	Sertoli cell-only syndrome	DOID:0050457	Sertoli cell-only syndrome	
 GARD:0008406	Sertoli cell-only syndrome	DOID:0050457	Sertoli cell-only syndrome	true	
 GARD:0008406	Sertoli cell-only syndrome	OMIM:305700	Spermatogenic Failure, X-Linked, 1	false	
 GARD:0008406	Sertoli cell-only syndrome	OMIM:305700	Spermatogenic Failure, X-Linked, 1	true	
-GARD:0008407	Feingold syndrome	DC:0000679	Feingold Syndrome	false	
-GARD:0008407	Feingold syndrome	DC:0000679	Feingold Syndrome	true	
+GARD:0008407	Feingold syndrome	DOID:0060464	Feingold syndrome	false	
+GARD:0008407	Feingold syndrome	DOID:0060464	Feingold syndrome	true	
 GARD:0008407	Feingold syndrome	OMIM:164280	Feingold syndrome type 1	false	
 GARD:0008407	Feingold syndrome	OMIM:164280	Feingold syndrome type 1	true	
 GARD:0008410	Miller syndrome	OMIM:263750	Postaxial acrofacial dysostosis	false	
@@ -9157,8 +9152,8 @@ GARD:0008707	Absence of Tibia	OMIM:275220	Tibial hemimelia	true
 GARD:0008708	Amyloid neuropathy	MESH:D017772	Amyloid Neuropathies	true	
 GARD:0008709	Absent patella	OMIM:168860	Patella aplasia/hypoplasia	false	
 GARD:0008709	Absent patella	OMIM:168860	Patella aplasia/hypoplasia	true	
-GARD:0008711	Spheroid body myopathy	OMIM:182920	Spheroid body myopathy	false	
-GARD:0008711	Spheroid body myopathy	OMIM:182920	Spheroid body myopathy	true	
+GARD:0008711	Spheroid body myopathy	OMIM:182920	spheroid body myopathy	false	
+GARD:0008711	Spheroid body myopathy	OMIM:182920	spheroid body myopathy	true	
 GARD:0008713	Achondrogenesis type 2	OMIM:200610	Achondrogenesis type 2	false	
 GARD:0008713	Achondrogenesis type 2	OMIM:200610	Achondrogenesis type 2	true	
 GARD:0008717	Spondylometaphyseal dysplasia with dentinogenesis imperfecta	OMIM:184260	Goldblatt syndrome	false	
@@ -9299,8 +9294,12 @@ GARD:0009162	Fallopian tube cancer	DOID:1963	fallopian tube carcinoma	false
 GARD:0009162	Fallopian tube cancer	DOID:1963	fallopian tube carcinoma	true	
 GARD:0009162	Fallopian tube cancer	DOID:1964	fallopian tube cancer	false	
 GARD:0009162	Fallopian tube cancer	DOID:1964	fallopian tube cancer	true	
-GARD:0009163	Roifman syndrome	OMIM:300258	Roifman syndrome	false	
-GARD:0009163	Roifman syndrome	OMIM:300258	Roifman syndrome	true	
+GARD:0009163	Roifman syndrome	MESH:C535866	Roifman syndrome	false	
+GARD:0009163	Roifman syndrome	MESH:C535866	Roifman syndrome	true	
+GARD:0009163	Roifman syndrome	OMIM:616651	Roifman Syndrome; RFMN	false	
+GARD:0009163	Roifman syndrome	OMIM:616651	Roifman Syndrome; RFMN	true	
+GARD:0009163	Roifman syndrome	Orphanet:353298	Roifman syndrome	false	
+GARD:0009163	Roifman syndrome	Orphanet:353298	Roifman syndrome	true	
 GARD:0009164	Rippling muscle disease	DOID:0060255	rippling muscle disease	false	
 GARD:0009164	Rippling muscle disease	DOID:0060255	rippling muscle disease	true	
 GARD:0009164	Rippling muscle disease	OMIM:606072	Rippling Muscle Disease	false	
@@ -10235,12 +10234,12 @@ GARD:0009757	Red skin pigment anomaly of New Guinea	OMIM:266350	Red Skin Pigment
 GARD:0009757	Red skin pigment anomaly of New Guinea	OMIM:266350	Red Skin Pigment Anomaly of New Guinea	true	
 GARD:0009758	Familial hypocalciuric hypercalcemia type 2	OMIM:145981	Familial hypocalciuric hypercalcemia type 2	false	
 GARD:0009758	Familial hypocalciuric hypercalcemia type 2	OMIM:145981	Familial hypocalciuric hypercalcemia type 2	true	
-GARD:0009759	Leukonychia totalis	OMIM:151600	Nail Disorder, Nonsyndromic Congenital, 3	false	
-GARD:0009759	Leukonychia totalis	OMIM:151600	Nail Disorder, Nonsyndromic Congenital, 3	true	
+GARD:0009759	Leukonychia totalis	OMIM:151600	nonsyndromic congenital nail disorder 3	false	
+GARD:0009759	Leukonychia totalis	OMIM:151600	nonsyndromic congenital nail disorder 3	true	
 GARD:0009759	Leukonychia totalis	Orphanet:2387	Leukonychia totalis	false	
 GARD:0009759	Leukonychia totalis	Orphanet:2387	Leukonychia totalis	true	
-GARD:0009760	Hereditary koilonychia	OMIM:149300	Nail Disorder, Nonsyndromic Congenital, 2	false	
-GARD:0009760	Hereditary koilonychia	OMIM:149300	Nail Disorder, Nonsyndromic Congenital, 2	true	
+GARD:0009760	Hereditary koilonychia	OMIM:149300	nonsyndromic congenital nail disorder 2	false	
+GARD:0009760	Hereditary koilonychia	OMIM:149300	nonsyndromic congenital nail disorder 2	true	
 GARD:0009762	Potocki-Shaffer syndrome	DECIPHER:34	Potocki-Shaffer Syndrome	false	
 GARD:0009762	Potocki-Shaffer syndrome	DECIPHER:34	Potocki-Shaffer Syndrome	true	
 GARD:0009762	Potocki-Shaffer syndrome	OMIM:601224	Potocki-Shaffer syndrome	false	
@@ -10418,8 +10417,10 @@ GARD:0009847	Tabatznik syndrome	Orphanet:1350	Heart-hand syndrome type 2	false
 GARD:0009847	Tabatznik syndrome	Orphanet:1350	Heart-hand syndrome type 2	true	
 GARD:0009848	Glutamine deficiency, congenital	OMIM:610015	Glutamine Deficiency, Congenital	false	
 GARD:0009848	Glutamine deficiency, congenital	OMIM:610015	Glutamine Deficiency, Congenital	true	
-GARD:0009849	Goldberg-Shprintzen megacolon syndrome	OMIM:609460	Goldberg-Shprintzen megacolon syndrome	false	
-GARD:0009849	Goldberg-Shprintzen megacolon syndrome	OMIM:609460	Goldberg-Shprintzen megacolon syndrome	true	
+GARD:0009849	Goldberg-Shprintzen megacolon syndrome	DOID:0060481	Goldberg-Shprintzen syndrome	false	
+GARD:0009849	Goldberg-Shprintzen megacolon syndrome	DOID:0060481	Goldberg-Shprintzen syndrome	true	
+GARD:0009849	Goldberg-Shprintzen megacolon syndrome	OMIM:609460	Goldberg-Shprintzen Syndrome	false	
+GARD:0009849	Goldberg-Shprintzen megacolon syndrome	OMIM:609460	Goldberg-Shprintzen Syndrome	true	
 GARD:0009850	Shprintzen omphalocele syndrome	OMIM:182210	Shprintzen Omphalocele Syndrome	false	
 GARD:0009850	Shprintzen omphalocele syndrome	OMIM:182210	Shprintzen Omphalocele Syndrome	true	
 GARD:0009851	Episodic ataxia	DOID:963	episodic ataxia	false	
@@ -11337,8 +11338,8 @@ GARD:0010361	Brugada syndrome 3	OMIM:611875	Brugada Syndrome 3	false
 GARD:0010361	Brugada syndrome 3	OMIM:611875	Brugada Syndrome 3	true	
 GARD:0010362	Brugada syndrome 4	OMIM:611876	Brugada Syndrome 4	false	
 GARD:0010362	Brugada syndrome 4	OMIM:611876	Brugada Syndrome 4	true	
-GARD:0010363	Twenty-nail dystrophy	OMIM:161050	Nail Disorder, Nonsyndromic Congenital, 1	false	
-GARD:0010363	Twenty-nail dystrophy	OMIM:161050	Nail Disorder, Nonsyndromic Congenital, 1	true	
+GARD:0010363	Twenty-nail dystrophy	OMIM:161050	nonsyndromic congenital nail disorder 1	false	
+GARD:0010363	Twenty-nail dystrophy	OMIM:161050	nonsyndromic congenital nail disorder 1	true	
 GARD:0010363	Twenty-nail dystrophy	Orphanet:79153	Autosomal dominant nail dysplasia	false	
 GARD:0010363	Twenty-nail dystrophy	Orphanet:79153	Autosomal dominant nail dysplasia	true	
 GARD:0010364	Jervell and Lange-Nielsen syndrome 2	OMIM:612347	Jervell and Lange-Nielsen Syndrome 2	false	
@@ -12005,6 +12006,7 @@ GARD:0010738	Primary hyperoxaluria type 3	OMIM:613616	Primary hyperoxaluria type
 GARD:0010738	Primary hyperoxaluria type 3	OMIM:613616	Primary hyperoxaluria type 3	true	
 GARD:0010739	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	false	
 GARD:0010739	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	true	
+GARD:0010739	Neuronal ceroid lipofuscinosis	OMIA:000181	Neuronal Ceroid Lipofuscinosis, generic	false	
 GARD:0010739	Neuronal ceroid lipofuscinosis	OMIA:000181-9615	Neuronal ceroid lipofuscinosis	false	
 GARD:0010739	Neuronal ceroid lipofuscinosis	OMIA:000181-9615	Neuronal ceroid lipofuscinosis	true	
 GARD:0010739	Neuronal ceroid lipofuscinosis	OMIA:000181-9685	neuronal ceroid lipofuscinosis	false	
@@ -12443,8 +12445,8 @@ GARD:0010983	Disseminated superficial actinic porokeratosis	DOID:3805	porokerato
 GARD:0010983	Disseminated superficial actinic porokeratosis	DOID:3805	porokeratosis	true	
 GARD:0010984	IL12RB1 deficiency	OMIM:614891	Immunodeficiency 30	false	
 GARD:0010984	IL12RB1 deficiency	OMIM:614891	Immunodeficiency 30	true	
-GARD:0010985	Left ventricular noncompaction	DC:0000237	Left Ventricular Noncompaction	false	
-GARD:0010985	Left ventricular noncompaction	DC:0000237	Left Ventricular Noncompaction	true	
+GARD:0010985	Left ventricular noncompaction	DOID:0060480	left ventricular noncompaction	false	
+GARD:0010985	Left ventricular noncompaction	DOID:0060480	left ventricular noncompaction	true	
 GARD:0010986	Granulomatous slack skin disease	Orphanet:33111	Granulomatous slack skin	false	
 GARD:0010986	Granulomatous slack skin disease	Orphanet:33111	Granulomatous slack skin	true	
 GARD:0010987	Cauda equina syndrome	DOID:11577	Cauda equina syndrome	false	
@@ -12527,10 +12529,10 @@ GARD:0011903	Specific antibody deficiency	Orphanet:70593	Immunodeficiency due to
 GARD:0011903	Specific antibody deficiency	Orphanet:70593	Immunodeficiency due to selective anti-polysaccharide antibody deficiency	true	
 GARD:0011904	Capillary malformation-arteriovenous malformation syndrome	OMIM:608354	Capillary malformation - arteriovenous malformation	false	
 GARD:0011904	Capillary malformation-arteriovenous malformation syndrome	OMIM:608354	Capillary malformation - arteriovenous malformation	true	
+GARD:0011906	Cylindrical spirals myopathy	DOID:0080103	cylindrical spirals myopathy	false	
+GARD:0011906	Cylindrical spirals myopathy	DOID:0080103	cylindrical spirals myopathy	true	
 GARD:0011906	Cylindrical spirals myopathy	OMIM:160990	Myotonic Myopathy With Cylindrical Spirals	false	
 GARD:0011906	Cylindrical spirals myopathy	OMIM:160990	Myotonic Myopathy With Cylindrical Spirals	true	
-GARD:0011906	Cylindrical spirals myopathy	Orphanet:171886	Cylindrical spirals myopathy	false	
-GARD:0011906	Cylindrical spirals myopathy	Orphanet:171886	Cylindrical spirals myopathy	true	
 GARD:0011907	Acute panmyelosis with myelofibrosis	Orphanet:86843	Acute panmyelosis with myelofibrosis	false	
 GARD:0011907	Acute panmyelosis with myelofibrosis	Orphanet:86843	Acute panmyelosis with myelofibrosis	true	
 GARD:0011908	Dirofilariasis	DOID:1082	dirofilariasis	false	
@@ -12665,8 +12667,8 @@ GARD:0012151	Crusted scabies	DOID:14374	norwegian scabies	false
 GARD:0012151	Crusted scabies	DOID:14374	norwegian scabies	true	
 GARD:0012155	Hypomagnesemia 6	Orphanet:34527	Familial primary hypomagnesemia with normocalciuria and normocalcemia	false	
 GARD:0012155	Hypomagnesemia 6	Orphanet:34527	Familial primary hypomagnesemia with normocalciuria and normocalcemia	true	
-GARD:0012162	Reducing body myopathy	Orphanet:97239	Reducing body myopathy	false	
-GARD:0012162	Reducing body myopathy	Orphanet:97239	Reducing body myopathy	true	
+GARD:0012162	Reducing body myopathy	DOID:0080090	reducing body myopathy	false	
+GARD:0012162	Reducing body myopathy	DOID:0080090	reducing body myopathy	true	
 GARD:0012163	Brain lung thyroid syndrome	OMIM:610978	Brain-lung-thyroid syndrome	false	
 GARD:0012163	Brain lung thyroid syndrome	OMIM:610978	Brain-lung-thyroid syndrome	true	
 GARD:0012166	5q14.3 microdeletion syndrome	Orphanet:228384	5q14.3 microdeletion syndrome	false	
@@ -13446,5 +13448,7 @@ GARD:0012892	Combined oxidative phosphorylation deficiency 16	OMIM:615395	Combin
 GARD:0012892	Combined oxidative phosphorylation deficiency 16	OMIM:615395	Combined Oxidative Phosphorylation Deficiency 16	true	
 GARD:0012893	Combined oxidative phosphorylation deficiency	DOID:0060286	combined oxidative phosphorylation deficiency	false	
 GARD:0012893	Combined oxidative phosphorylation deficiency	DOID:0060286	combined oxidative phosphorylation deficiency	true	
+GARD:0012894	Zika virus infection	DOID:0060478	Zika fever	false	
+GARD:0012894	Zika virus infection	DOID:0060478	Zika fever	true	
 GARD:0012901	Early infantile epileptic encephalopathy 25	OMIM:615905	Epileptic Encephalopathy, Early Infantile, 25	false	
 GARD:0012901	Early infantile epileptic encephalopathy 25	OMIM:615905	Epileptic Encephalopathy, Early Infantile, 25	true	
