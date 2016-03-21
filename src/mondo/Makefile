@@ -405,5 +405,3 @@ lm-doid-NEW.obo: test-ptable.tsv combined.obo
 
 lm-%-rpt.html: lm-%.obo
 	pandoc $*-rpt.md -o $@
-
-
