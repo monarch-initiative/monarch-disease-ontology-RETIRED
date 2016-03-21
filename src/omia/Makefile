@@ -11,6 +11,9 @@ omia.owl: mirror-omia.ttl
 omia.obo: omia.owl
 	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value > $@
 
+omia-generic.obo: omia.obo
+	obo-grep.pl -r 'id: OMIA:\d+\n' $< > $@
+
 OMIM= ../omim/omim.obo
 many_to_one.tsv: omia.obo $(OMIM)
 	blip-findall -i $< -i $(OMIM) "many_to_one_xref(X,Y,'OMIM')" -label > $@.tmp && mv $@.tmp $@

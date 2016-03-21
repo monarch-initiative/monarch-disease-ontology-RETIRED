@@ -3,8 +3,11 @@ O=$(ONT).obo
 
 all: suggest_new.txt
 
-$(ONT).obo: $(ONT).txt
-	./gard2obo.pl $< > $@
+#$(ONT).obo: $(ONT).txt
+#	./gard2obo.pl $< > $@
+
+gard.obo: gard.json
+	./gardjson2obo.pl $< > $@
 
 align-gard-to-mondo.tsv: $(O)
 	blip-findall -debug index -i ../mondo/super_ignore.pro -u metadata_nlp -i $< -r mondo -goal index_entity_pair_label_match "class(X),id_idspace(X,'GARD'),entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@

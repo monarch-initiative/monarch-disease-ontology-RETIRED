@@ -10,8 +10,15 @@ good_new_xref(X,Y) :-
              new_xref(X,Z),
              Z\=Y)).
 
-
-
+% Background: in the makefile we map GARD ids to Mondo (OMIM/Orphanet/DO) IDs
+% GARD has its own mappings; we verify our mappings to GARD by comparing with how they map
+% TODO: replace this with owlbag
+%
+%
+% holds IF X is a GARD id, and GARD has an xref to Y, Mappings is all text-mined mappings from X
+% AND neither the following holds:
+%  Y is not in Mappings (i.e. we do not directly recapitulate it)
+%  Y is not in any of the xrefs in Mappings (i.e. we do not indirectly recapitulate it)
 diff_xref(X,Y,Mappings) :-
         class(X),
         id_idspace(X,'GARD'),

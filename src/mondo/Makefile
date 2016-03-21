@@ -4,7 +4,9 @@ all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
 OMIM_OBO=../omim/omim.obo
 OMIA_OBO=../omia/omia.obo
+OMIAG_OBO=../omia/omia-generic.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
+ORDO_ISA=../orphanet/orphanet-isa.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
 
@@ -80,7 +82,7 @@ align-doid-to-mesh.tsv: mesh.obo
 align-doid-to-omc.tsv: omc.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-align-doid-to-omia.tsv: $(OMIA_OBO)
+align-doid-to-omia.tsv: $(OMIAG_OBO)
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-omimps.tsv: omimps.obo
@@ -363,3 +365,45 @@ doid-xp-%.owl: doid-xp-%.obo
 	owltools $< -o -f ofn $@
 %.axioms: %.owl
 	grep ^EquivalentClasses $< > $@
+
+
+
+### EXPERIMENTAL
+
+# hardcoded estimates of DOID-OMIM matches
+ptable-doid-omim.tsv: $(DOID_OBO)
+	blip-findall -i $(DOID_OBO) "entity_xref_idspace(D,X,'OMIM')" -no_pred -select "x(D,X,0.04,0.7,0.25,0.01)" | perl -npe 's@ORDO:@Orphanet:@' > $@.tmp && mv $@.tmp $@
+
+lm-doid-omim.obo: ptable-doid-omim.tsv omc-minimal.obo 
+	owltools --silence-elk $(DOID_OBO) omc-minimal.obo --merge-support-ontologies  --resolve-cliques -l 2 -m 8 -t $< -r elk -j lm-doid-omim-rpt.json -n --set-ontology-id $@ -o -f obo $@.tmp && mv $@.tmp $@
+
+ptable-doid-ordo.tsv: $(DOID_OBO)
+	blip-findall -i $(DOID_OBO) "entity_xref_idspace(D,X,'ORDO')" -no_pred -select "x(D,X,0.2,0.2,0.5,0.1)" | perl -npe 's@ORDO:@Orphanet:@' > $@.tmp && mv $@.tmp $@
+
+lm-doid-ordo.obo: ptable-doid-ordo.tsv $(ORDO_OBO)
+	owltools --silence-elk $(DOID_OBO) $(ORDO_OBO) --merge-support-ontologies  --resolve-cliques -l 0 -m 8 -t $< -r elk -j lm-doid-ordo-rpt.json -n --set-ontology-id $@ -o -f obo $@.tmp && mv $@.tmp $@
+
+ptable-ALL.tsv: ptable-doid-omim.tsv ptable-doid-ordo.tsv
+	cat $^ > $@
+
+lm-doid-ALL.obo: ptable-ALL.tsv combined.obo
+	owlbag -m lm-doid-ALL-rpt.md -j lm-doid-ALL-rpt.json -n -o $@.owl -t $< combined.obo
+
+# Union of DO, ORDO and disease subset of OMIM (no equivalence merging);
+# Note that we use the isa-version of ORDO
+combined.obo: $(DOID_OBO) $(ORDO_ISA) omc-minimal.obo
+	owltools $^ --merge-support-ontologies -o -f obo $@
+
+# translate xrefs to estimates of prior probabilities of equivalence
+test-ptable.tsv: combined.obo
+	blip-findall -debug index -debug prob -goal nlp_index_all -i $< -r omim xref_ptable/6 -consult probmatch.pro -no_pred > $@
+
+## MAX_E := 9  -- failing..?
+MAX_E := 7
+lm-doid-NEW.obo: test-ptable.tsv combined.obo
+	owlbag --max $(MAX_E) -m lm-doid-NEW-rpt.md -j lm-doid-NEW-rpt.json -n -o $@.owl -t $< combined.obo
+
+lm-%-rpt.html: lm-%.obo
+	pandoc $*-rpt.md -o $@
+
+

@@ -11,18 +11,10 @@ DOID:0050424	familial adenomatous polyposis	OMIA:001916	familial adenomatous pol
 DOID:0050424	familial adenomatous polyposis	OMIA:001916	familial adenomatous polyposis	true	
 DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIA:000878	Arrhythmogenic right ventricular cardiomyopathy	false	
 DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIA:000878	Arrhythmogenic right ventricular cardiomyopathy	true	
-DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIA:000878-9615	Arrhythmogenic right ventricular cardiomyopathy	false	
-DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	OMIA:000878-9615	Arrhythmogenic right ventricular cardiomyopathy	true	
 DOID:0050534	congenital stationary night blindness	OMIA:001486	Night blindness, congenital stationary	false	
 DOID:0050534	congenital stationary night blindness	OMIA:001486	Night blindness, congenital stationary	true	
-DOID:0050534	congenital stationary night blindness	OMIA:001486-9796	Congenital stationary night blindness	false	
-DOID:0050534	congenital stationary night blindness	OMIA:001486-9796	Congenital stationary night blindness	true	
-DOID:0050548	hereditary sensory neuropathy	OMIA:001514-9615	hereditary sensory neuropathy	false	
-DOID:0050548	hereditary sensory neuropathy	OMIA:001514-9615	hereditary sensory neuropathy	true	
 DOID:0050574	L-2-hydroxyglutaric aciduria	OMIA:001371	L-2-hydroxyglutaricacidemia	false	
 DOID:0050574	L-2-hydroxyglutaric aciduria	OMIA:001371	L-2-hydroxyglutaricacidemia	true	
-DOID:0050574	L-2-hydroxyglutaric aciduria	OMIA:001371-9615	L-2-hydroxyglutaric aciduria	false	
-DOID:0050574	L-2-hydroxyglutaric aciduria	OMIA:001371-9615	L-2-hydroxyglutaric aciduria	true	
 DOID:0050581	brachydactyly	OMIA:000146	Brachydactyly	false	
 DOID:0050581	brachydactyly	OMIA:000146	Brachydactyly	true	
 DOID:0050589	inflammatory bowel disease	OMIA:001687	Inflammatory bowel disease	false	
@@ -42,11 +34,8 @@ DOID:0050725	tyrosinemia type II	OMIA:001141	Tyrosinemia, type II	false
 DOID:0050725	tyrosinemia type II	OMIA:001141	Tyrosinemia, type II	true	
 DOID:0050753	cerebellar ataxia	OMIA:000078	Ataxia, cerebellar	false	
 DOID:0050753	cerebellar ataxia	OMIA:000078	Ataxia, cerebellar	true	
-DOID:0050756	Batten disease	OMIA:001443-9940	Battens disease	true	
 DOID:0050791	persistent mullerian duct syndrome	OMIA:000791	Persistent Mullerian duct syndrome	false	
 DOID:0050791	persistent mullerian duct syndrome	OMIA:000791	Persistent Mullerian duct syndrome	true	
-DOID:0050791	persistent mullerian duct syndrome	OMIA:000791-9615	Persistent Mullerian Duct Syndrome	false	
-DOID:0050791	persistent mullerian duct syndrome	OMIA:000791-9615	Persistent Mullerian Duct Syndrome	true	
 DOID:0050811	congenital adrenal hyperplasia	OMIA:000017	Adrenal hyperplasia, congenital	false	
 DOID:0050811	congenital adrenal hyperplasia	OMIA:000017	Adrenal hyperplasia, congenital	true	
 DOID:0050828	artery disease	OMIA:000062	Artery, anomaly of	false	
@@ -55,13 +44,16 @@ DOID:0060041	autism spectrum disorder	OMIA:001815	Autism spectrum disorder	false
 DOID:0060041	autism spectrum disorder	OMIA:001815	Autism spectrum disorder	true	
 DOID:0060053	peripheral neuropathy	OMIA:001150	Neuropathy, peripheral	false	
 DOID:0060053	peripheral neuropathy	OMIA:001150	Neuropathy, peripheral	true	
+DOID:0060058	lymphoma	OMIA:001733	Lymphoma, generic	false	
+DOID:0060058	lymphoma	OMIA:001733	Lymphoma, generic	true	
 DOID:0060060	non-Hodgkin lymphoma	OMIA:001708	Lymphoma, non-Hodgkin	false	
 DOID:0060060	non-Hodgkin lymphoma	OMIA:001708	Lymphoma, non-Hodgkin	true	
 DOID:0060218	CREST syndrome	OMIA:000240	Crest	false	
 DOID:0060218	CREST syndrome	OMIA:000240	Crest	true	
 DOID:0060224	atrial fibrillation	OMIA:001181	Atrial fibrillation	false	
 DOID:0060224	atrial fibrillation	OMIA:001181	Atrial fibrillation	true	
-DOID:0060232	branchiootic syndrome	NCBITaxon:9903	Bos	true	
+DOID:0060236	xanthinuria	OMIA:001283	Xanthinuria, generic	false	
+DOID:0060236	xanthinuria	OMIA:001283	Xanthinuria, generic	true	
 DOID:0060249	scoliosis	OMIA:000891	Scoliosis	false	
 DOID:0060249	scoliosis	OMIA:000891	Scoliosis	true	
 DOID:0060320	inguinal hernia	OMIA:000462	Hernia, inguinal	false	
@@ -95,8 +87,6 @@ DOID:10584	retinitis pigmentosa	OMIA:001413	Retinitis pigmentosa	false
 DOID:10584	retinitis pigmentosa	OMIA:001413	Retinitis pigmentosa	true	
 DOID:10587	Krabbe disease	OMIA:000578	Krabbe disease	false	
 DOID:10587	Krabbe disease	OMIA:000578	Krabbe disease	true	
-DOID:10587	Krabbe disease	OMIA:000578-9615	globoid cell leukodystrophy	false	
-DOID:10587	Krabbe disease	OMIA:000578-9615	globoid cell leukodystrophy	true	
 DOID:10611	protein-losing enteropathy	OMIA:001325	Protein-losing enteropathy	false	
 DOID:10611	protein-losing enteropathy	OMIA:001325	Protein-losing enteropathy	true	
 DOID:1062	Fanconi syndrome	OMIA:000366	Fanconi syndrome	false	
@@ -107,8 +97,6 @@ DOID:10652	Alzheimer's disease	OMIA:000033	Alzheimer disease	false
 DOID:10652	Alzheimer's disease	OMIA:000033	Alzheimer disease	true	
 DOID:1070	primary open angle glaucoma	OMIA:001870	Glaucoma, primary open angle	false	
 DOID:1070	primary open angle glaucoma	OMIA:001870	Glaucoma, primary open angle	true	
-DOID:1070	primary open angle glaucoma	OMIA:001870-9615	Primary open angle glaucoma	false	
-DOID:1070	primary open angle glaucoma	OMIA:001870-9615	Primary open angle glaucoma	true	
 DOID:10754	otitis media	OMIA:001266	Otitis media, susceptibility to	false	
 DOID:10763	hypertension	OMIA:000509	Hypertension	false	
 DOID:10763	hypertension	OMIA:000509	Hypertension	true	
@@ -128,8 +116,6 @@ DOID:1094	attention deficit hyperactivity disorder	OMIA:001882	Attention deficit
 DOID:1094	attention deficit hyperactivity disorder	OMIA:001882	Attention deficit hyperactivity disorder	true	
 DOID:10952	nephritis	OMIA:000708	Nephritis	false	
 DOID:10952	nephritis	OMIA:000708	Nephritis	true	
-DOID:10983	Alport syndrome	OMIA:001112-9615	Alport syndrome	false	
-DOID:10983	Alport syndrome	OMIA:001112-9615	Alport syndrome	true	
 DOID:11199	hypoparathyroidism	OMIA:000528	Hypoparathyroidism	false	
 DOID:11199	hypoparathyroidism	OMIA:000528	Hypoparathyroidism	true	
 DOID:11213	acute contagious conjunctivitis	OMIA:001384	Pink eye	false	
@@ -162,8 +148,6 @@ DOID:11723	Duchenne muscular dystrophy	OMIA:001131	Muscular dystrophy, Duchenne	
 DOID:11723	Duchenne muscular dystrophy	OMIA:001131	Muscular dystrophy, Duchenne	true	
 DOID:11830	myopia	OMIA:001487	Myopia	false	
 DOID:11830	myopia	OMIA:001487	Myopia	true	
-DOID:11836	clubfoot	OMIA:000271-9825	Club foot	false	
-DOID:11836	clubfoot	OMIA:000271-9825	Club foot	true	
 DOID:1184	nephrotic syndrome	OMIA:000712	Nephrotic syndrome	false	
 DOID:1184	nephrotic syndrome	OMIA:000712	Nephrotic syndrome	true	
 DOID:11984	hypertrophic cardiomyopathy	OMIA:000515	Cardiomyopathy, hypertrophic	false	
@@ -185,6 +169,7 @@ DOID:12377	spinal muscular atrophy	OMIA:000939	Spinal muscular atrophy	false
 DOID:12377	spinal muscular atrophy	OMIA:000939	Spinal muscular atrophy	true	
 DOID:12397	entropion	OMIA:000337	Entropion	false	
 DOID:12397	entropion	OMIA:000337	Entropion	true	
+DOID:12531	von Willebrand's disease	OMIA:001056	Von Willebrand disease, generic	false	
 DOID:12639	pyloric stenosis	OMIA:000843	Pyloric stenosis	false	
 DOID:12639	pyloric stenosis	OMIA:000843	Pyloric stenosis	true	
 DOID:12642	hiatus hernia	OMIA:000461	Hernia, hiatal	false	
@@ -199,8 +184,6 @@ DOID:12801	mucopolysaccharidosis III	OMIA:001342	Mucopolysaccharidosis IIIB	fals
 DOID:12801	mucopolysaccharidosis III	OMIA:001342	Mucopolysaccharidosis IIIB	true	
 DOID:12802	mucopolysaccharidosis I	OMIA:000664	Mucopolysaccharidosis I	false	
 DOID:12802	mucopolysaccharidosis I	OMIA:000664	Mucopolysaccharidosis I	true	
-DOID:12802	mucopolysaccharidosis I	OMIA:000664-9615	Mucopolysaccharidosis I	false	
-DOID:12802	mucopolysaccharidosis I	OMIA:000664-9615	Mucopolysaccharidosis I	true	
 DOID:12803	Sly syndrome	OMIA:000667	Mucopolysaccharidosis VII	false	
 DOID:12803	Sly syndrome	OMIA:000667	Mucopolysaccharidosis VII	true	
 DOID:12858	Huntington's disease	OMIA:000485	Huntington disease	false	
@@ -209,8 +192,6 @@ DOID:12929	endocardial fibroelastosis	OMIA:001803	Endocardial fibroelastosis	fal
 DOID:12929	endocardial fibroelastosis	OMIA:001803	Endocardial fibroelastosis	true	
 DOID:12930	dilated cardiomyopathy	OMIA:000162	Cardiomyopathy, dilated	false	
 DOID:12930	dilated cardiomyopathy	OMIA:000162	Cardiomyopathy, dilated	true	
-DOID:12930	dilated cardiomyopathy	OMIA:000162-9615	Dilated cardiomyopathy	false	
-DOID:12930	dilated cardiomyopathy	OMIA:000162-9615	Dilated cardiomyopathy	true	
 DOID:13270	erythropoietic protoporphyria	OMIA:000836	Protoporphyria	false	
 DOID:13270	erythropoietic protoporphyria	OMIA:000836	Protoporphyria	true	
 DOID:13316	exocrine pancreatic insufficiency	OMIA:000765	Pancreatic insufficiency, exocrine	false	
@@ -241,36 +222,19 @@ DOID:13832	patent ductus arteriosus	OMIA:000779	Patent ductus arteriosus	false
 DOID:13832	patent ductus arteriosus	OMIA:000779	Patent ductus arteriosus	true	
 DOID:1389	polyneuropathy	OMIA:001292	Polyneuropathy	false	
 DOID:1389	polyneuropathy	OMIA:001292	Polyneuropathy	true	
-DOID:1389	polyneuropathy	OMIA:001917-9615	polyneuropathy	false	
-DOID:1389	polyneuropathy	OMIA:001917-9615	polyneuropathy	true	
 DOID:14004	thoracic aortic aneurysm	OMIA:001419	Aortic aneurysm, familial thoracic	false	
 DOID:14221	metabolic syndrome X	OMIA:001898	Metabolic syndrome	false	
 DOID:14221	metabolic syndrome X	OMIA:001898	Metabolic syndrome	true	
 DOID:14261	fragile X syndrome	OMIA:000391	Fragile X	false	
-DOID:14291	LEOPARD syndrome	NCBITaxon:9691	Panthera pardus	false	
-DOID:14291	LEOPARD syndrome	NCBITaxon:9691	Panthera pardus	true	
 DOID:1432	blindness	OMIA:000114	Blindness	false	
 DOID:1432	blindness	OMIA:000114	Blindness	true	
 DOID:14323	Marfan syndrome	OMIA:000628	Marfan syndrome	false	
 DOID:14323	Marfan syndrome	OMIA:000628	Marfan syndrome	true	
-DOID:14323	Marfan syndrome	OMIA:000628-9913	Marfan Syndrome	false	
-DOID:14323	Marfan syndrome	OMIA:000628-9913	Marfan Syndrome	true	
 DOID:1441	autosomal dominant cerebellar ataxia	OMIA:001820	Ataxia, spinocerebellar	false	
 DOID:1441	autosomal dominant cerebellar ataxia	OMIA:001820	Ataxia, spinocerebellar	true	
 DOID:14452	hypokalemic periodic paralysis	OMIA:000523	Periodic paralysis I	false	
 DOID:14452	hypokalemic periodic paralysis	OMIA:000523	Periodic paralysis I	true	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9615	Neuronal ceroid lipofuscinosis	false	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9615	Neuronal ceroid lipofuscinosis	true	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9685	neuronal ceroid lipofuscinosis	false	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9685	neuronal ceroid lipofuscinosis	true	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9796	Neuronal ceroid lipofuscinosis	false	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9796	Neuronal ceroid lipofuscinosis	true	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9913	Neuronal ceroid lipofuscinosis	false	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9913	Neuronal ceroid lipofuscinosis	true	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9925	neuronal ceroid lipofuscinosis	false	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9925	neuronal ceroid lipofuscinosis	true	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9940	Neuronal ceroid lipofuscinosis	false	
-DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181-9940	Neuronal ceroid lipofuscinosis	true	
+DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181	Neuronal Ceroid Lipofuscinosis, generic	false	
 DOID:14504	Niemann-Pick disease	OMIA:000724	Niemann-Pick disease	false	
 DOID:14504	Niemann-Pick disease	OMIA:000724	Niemann-Pick disease	true	
 DOID:14504	Niemann-Pick disease	OMIA:000725	Niemann-Pick disease, type C	false	
@@ -295,6 +259,8 @@ DOID:1673	pneumothorax	OMIA:000804	Pneumothorax	false
 DOID:1673	pneumothorax	OMIA:000804	Pneumothorax	true	
 DOID:1682	congenital heart disease	OMIA:000446	Heart defect, congenital	false	
 DOID:1682	congenital heart disease	OMIA:000446	Heart defect, congenital	true	
+DOID:1686	glaucoma	OMIA:000411	Glaucoma, generic	false	
+DOID:1686	glaucoma	OMIA:000411	Glaucoma, generic	true	
 DOID:1754	mitral valve stenosis	OMIA:000653	Mitral stenosis	false	
 DOID:1754	mitral valve stenosis	OMIA:000653	Mitral stenosis	true	
 DOID:1754	mitral valve stenosis	OMIA:000655	Mitral valve stenosis	false	
@@ -355,16 +321,13 @@ DOID:2518	orchitis	OMIA:000745	Orchitis	true
 DOID:2566	corneal dystrophy	OMIA:000230	Corneal dystrophy	false	
 DOID:2566	corneal dystrophy	OMIA:000230	Corneal dystrophy	true	
 DOID:2590	familial nephrotic syndrome	OMIA:000712	Nephrotic syndrome	false	
-DOID:263	kidney cancer	OMIA:001335-9615	Renal cancer syndrome	false	
-DOID:263	kidney cancer	OMIA:001335-9615	Renal cancer syndrome	true	
 DOID:2671	transitional cell carcinoma	OMIA:001512	Transitional cell carcinoma	false	
 DOID:2671	transitional cell carcinoma	OMIA:001512	Transitional cell carcinoma	true	
 DOID:2730	epidermolysis bullosa	OMIA:000340	Epidermolysis bullosa	false	
 DOID:2730	epidermolysis bullosa	OMIA:000340	Epidermolysis bullosa	true	
 DOID:2746	glycogen storage disease V	OMIA:001139	Glycogen storage disease V	false	
 DOID:2746	glycogen storage disease V	OMIA:001139	Glycogen storage disease V	true	
-DOID:2746	glycogen storage disease V	OMIA:001139-9913	Myophosphorylase deficiency	false	
-DOID:2746	glycogen storage disease V	OMIA:001139-9913	Myophosphorylase deficiency	true	
+DOID:2747	glycogen storage disease	OMIA:001883	Glycogen storage disease, generic	false	
 DOID:2750	glycogen storage disease IV	OMIA:000420	Glycogen storage disease IV	false	
 DOID:2750	glycogen storage disease IV	OMIA:000420	Glycogen storage disease IV	true	
 DOID:2752	glycogen storage disease II	OMIA:000419	Glycogen storage disease II	false	
@@ -396,6 +359,7 @@ DOID:3310	atopic dermatitis	OMIA:000269	Dermatitis, atopic	false
 DOID:3310	atopic dermatitis	OMIA:000269	Dermatitis, atopic	true	
 DOID:3315	lipoma	OMIA:000606	Lipomatosis, multiple	false	
 DOID:3315	lipoma	OMIA:000606	Lipomatosis, multiple	true	
+DOID:3321	gangliosidosis GM2	OMIA:000403	Gangliosidosis, GM2, generic	false	
 DOID:3322	gangliosidosis GM1	OMIA:000402	Gangliosidosis, GM1	false	
 DOID:3322	gangliosidosis GM1	OMIA:000402	Gangliosidosis, GM1	true	
 DOID:3347	osteosarcoma	OMIA:001441	Osteosarcoma	false	
@@ -408,9 +372,6 @@ DOID:3633	beta-mannosidosis	OMIA:000626	Mannosidosis, beta	false
 DOID:3633	beta-mannosidosis	OMIA:000626	Mannosidosis, beta	true	
 DOID:3635	congenital myasthenic syndrome	OMIA:000685	Myasthenic syndrome, congenital	false	
 DOID:3635	congenital myasthenic syndrome	OMIA:000685	Myasthenic syndrome, congenital	true	
-DOID:3635	congenital myasthenic syndrome	OMIA:000685-9615	Congenital myasthenic syndrome	false	
-DOID:3635	congenital myasthenic syndrome	OMIA:000685-9615	Congenital myasthenic syndrome	true	
-DOID:3635	congenital myasthenic syndrome	OMIA:001928-9615	Congenital myasthenic syndromes	true	
 DOID:3649	pyruvate decarboxylase deficiency	OMIA:001406	Pyruvate dehydrogenase deficiency	false	
 DOID:3649	pyruvate decarboxylase deficiency	OMIA:001406	Pyruvate dehydrogenase deficiency	true	
 DOID:3756	protein C deficiency	OMIA:000835	Protein C deficiency	false	
@@ -472,12 +433,6 @@ DOID:5338	gingival hypertrophy	OMIA:000409	Gingival hypertrophy	true
 DOID:5339	cyclic hematopoiesis	OMIA:000248	Neutropenia, cyclic	true	
 DOID:540	strabismus	OMIA:000949	Strabismus	false	
 DOID:540	strabismus	OMIA:000949	Strabismus	true	
-DOID:5434	scrapie	OMIA:000944-452646	Scrapie	false	
-DOID:5434	scrapie	OMIA:000944-452646	Scrapie	true	
-DOID:5434	scrapie	OMIA:000944-9925	Scrapie	false	
-DOID:5434	scrapie	OMIA:000944-9925	Scrapie	true	
-DOID:5434	scrapie	OMIA:000944-9940	Scrapie	false	
-DOID:5434	scrapie	OMIA:000944-9940	Scrapie	true	
 DOID:557	kidney disease	OMIA:000710	Nephropathy	false	
 DOID:557	kidney disease	OMIA:000710	Nephropathy	true	
 DOID:5614	eye disease	OMIA:001964	Eye infection, susceptibility to	false	
@@ -488,8 +443,6 @@ DOID:585	nephrolithiasis	OMIA:000709	Nephrolithiasis	true
 DOID:61	mitral valve disease	OMIA:000654	Mitral valve disease	false	
 DOID:61	mitral valve disease	OMIA:000654	Mitral valve disease	true	
 DOID:612	primary immunodeficiency disease	OMIA:000550	Immunodeficiency	false	
-DOID:628	combined T cell and B cell immunodeficiency	OMIA:000220-9615	Combined immunodeficiency disease	false	
-DOID:628	combined T cell and B cell immunodeficiency	OMIA:000220-9796	Combined immunodeficiency disease	false	
 DOID:6419	tetralogy of Fallot	OMIA:000994	Tetralogy of fallot	false	
 DOID:6419	tetralogy of Fallot	OMIA:000994	Tetralogy of fallot	true	
 DOID:6432	pulmonary hypertension	OMIA:000841	Pulmonary hypertension	false	
@@ -520,6 +473,8 @@ DOID:7998	hyperthyroidism	OMIA:000511	Hyperthyroidism	false
 DOID:7998	hyperthyroidism	OMIA:000511	Hyperthyroidism	true	
 DOID:8125	osteochondrosis	OMIA:000750	Osteochondrosis	false	
 DOID:8125	osteochondrosis	OMIA:000750	Osteochondrosis	true	
+DOID:83	cataract	OMIA:000168	Cataract, generic	false	
+DOID:83	cataract	OMIA:000168	Cataract, generic	true	
 DOID:8354	complement component 3 deficiency	OMIA:000155	C3 deficiency	false	
 DOID:8354	complement component 3 deficiency	OMIA:000155	C3 deficiency	true	
 DOID:8398	osteoarthritis	OMIA:000747	Osteoarthritis	false	
@@ -548,8 +503,6 @@ DOID:8580	malignant histiocytosis	OMIA:000620	Histiocytosis, malignant	false
 DOID:8580	malignant histiocytosis	OMIA:000620	Histiocytosis, malignant	true	
 DOID:8593	chronic monocytic leukemia	OMIA:001573	Leukemia, chronic monocytic	false	
 DOID:8593	chronic monocytic leukemia	OMIA:001573	Leukemia, chronic monocytic	true	
-DOID:8593	chronic monocytic leukemia	OMIA:001573-9615	Chronic monocytic leukemia	false	
-DOID:8593	chronic monocytic leukemia	OMIA:001573-9615	Chronic monocytic leukemia	true	
 DOID:863	nervous system disease	OMIA:000713	Nervous	false	
 DOID:8675	lymphosarcoma	OMIA:000615	Lymphosarcoma	false	
 DOID:8675	lymphosarcoma	OMIA:000615	Lymphosarcoma	true	
@@ -578,6 +531,9 @@ DOID:9182	pemphigus	OMIA:001188	Pemphigus	false
 DOID:9182	pemphigus	OMIA:001188	Pemphigus	true	
 DOID:9253	gastrointestinal stromal tumor	OMIA:001516	Gastrointestinal stromal tumor	false	
 DOID:9253	gastrointestinal stromal tumor	OMIA:001516	Gastrointestinal stromal tumor	true	
+DOID:9258	Waardenburg's syndrome	OMIA:001059	Waardenburg syndrome, generic	false	
+DOID:9266	cystinuria	OMIA:001878	Cystinuria, generic	false	
+DOID:9266	cystinuria	OMIA:001878	Cystinuria, generic	true	
 DOID:9269	maple syrup urine disease	OMIA:000627	Maple syrup urine disease	false	
 DOID:9269	maple syrup urine disease	OMIA:000627	Maple syrup urine disease	true	
 DOID:9270	alkaptonuria	OMIA:001243	Alkaptonuria	false	
@@ -599,8 +555,6 @@ DOID:9487	Meckel's diverticulum	OMIA:001217	Meckel diverticulum	false
 DOID:9487	Meckel's diverticulum	OMIA:001217	Meckel diverticulum	true	
 DOID:9562	primary ciliary dyskinesia	OMIA:001540	Ciliary dyskinesia, primary	false	
 DOID:9562	primary ciliary dyskinesia	OMIA:001540	Ciliary dyskinesia, primary	true	
-DOID:9562	primary ciliary dyskinesia	OMIA:001540-9615	Primary ciliary dyskinesia	false	
-DOID:9562	primary ciliary dyskinesia	OMIA:001540-9615	Primary ciliary dyskinesia	true	
 DOID:9574	choanal atresia	OMIA:001764	Choanal atresia	false	
 DOID:9574	choanal atresia	OMIA:001764	Choanal atresia	true	
 DOID:9631	Pelger-Huet anomaly	OMIA:000783	Pelger-Huet anomaly	false	
@@ -613,19 +567,16 @@ DOID:9744	type 1 diabetes mellitus	OMIA:001394	Diabetes mellitus, insulin-depend
 DOID:9744	type 1 diabetes mellitus	OMIA:001394	Diabetes mellitus, insulin-dependent	true	
 DOID:986	alopecia areata	OMIA:001702	Alopecia areata	false	
 DOID:986	alopecia areata	OMIA:001702	Alopecia areata	true	
+DOID:987	alopecia	OMIA:000030	Alopecia, generic	false	
+DOID:987	alopecia	OMIA:000030	Alopecia, generic	true	
 DOID:9870	galactosemia	OMIA:001144	Galactosemia	false	
 DOID:9870	galactosemia	OMIA:001144	Galactosemia	true	
 DOID:9883	Becker muscular dystrophy	OMIA:001888	Muscular dystrophy, Becker type	false	
 DOID:9883	Becker muscular dystrophy	OMIA:001888	Muscular dystrophy, Becker type	true	
 DOID:9884	muscular dystrophy	OMIA:000679	Muscular dystrophy	false	
 DOID:9884	muscular dystrophy	OMIA:000679	Muscular dystrophy	true	
-DOID:9884	muscular dystrophy	OMIA:001967-9615	Muscular Dystrophy	false	
-DOID:9884	muscular dystrophy	OMIA:001967-9615	Muscular Dystrophy	true	
 DOID:9970	obesity	OMIA:001258	Obesity	false	
 DOID:9970	obesity	OMIA:001258	Obesity	true	
-NCBITaxon:9691	Panthera pardus	DOID:14291	LEOPARD syndrome	false	
-NCBITaxon:9691	Panthera pardus	DOID:14291	LEOPARD syndrome	true	
-NCBITaxon:9903	Bos	DOID:0060232	branchiootic syndrome	true	
 OMIA:000004	Achondroplasia	DOID:4480	achondroplasia	false	
 OMIA:000004	Achondroplasia	DOID:4480	achondroplasia	true	
 OMIA:000008	Acromegaly	DOID:2449	acromegaly	false	
@@ -634,6 +585,8 @@ OMIA:000017	Adrenal hyperplasia, congenital	DOID:0050811	congenital adrenal hype
 OMIA:000017	Adrenal hyperplasia, congenital	DOID:0050811	congenital adrenal hyperplasia	true	
 OMIA:000027	Allergic rhinitis	DOID:4481	allergic rhinitis	false	
 OMIA:000027	Allergic rhinitis	DOID:4481	allergic rhinitis	true	
+OMIA:000030	Alopecia, generic	DOID:987	alopecia	false	
+OMIA:000030	Alopecia, generic	DOID:987	alopecia	true	
 OMIA:000032	Alpha-1-antitrypsin deficiency	DOID:13372	alpha 1-antitrypsin deficiency	false	
 OMIA:000032	Alpha-1-antitrypsin deficiency	DOID:13372	alpha 1-antitrypsin deficiency	true	
 OMIA:000033	Alzheimer disease	DOID:10652	Alzheimer's disease	false	
@@ -677,26 +630,15 @@ OMIA:000160	Cardiomyopathy	DOID:0050700	cardiomyopathy	false
 OMIA:000160	Cardiomyopathy	DOID:0050700	cardiomyopathy	true	
 OMIA:000162	Cardiomyopathy, dilated	DOID:12930	dilated cardiomyopathy	false	
 OMIA:000162	Cardiomyopathy, dilated	DOID:12930	dilated cardiomyopathy	true	
-OMIA:000162-9615	Dilated cardiomyopathy	DOID:12930	dilated cardiomyopathy	false	
-OMIA:000162-9615	Dilated cardiomyopathy	DOID:12930	dilated cardiomyopathy	true	
+OMIA:000168	Cataract, generic	DOID:83	cataract	false	
+OMIA:000168	Cataract, generic	DOID:83	cataract	true	
 OMIA:000170	Cauda equina syndrome	DOID:11577	Cauda equina syndrome	false	
 OMIA:000170	Cauda equina syndrome	DOID:11577	Cauda equina syndrome	true	
 OMIA:000172	Central core myopathy	DOID:3529	central core myopathy	false	
 OMIA:000172	Central core myopathy	DOID:3529	central core myopathy	true	
 OMIA:000178	Cerebellar disease	DOID:2786	cerebellar disease	false	
 OMIA:000178	Cerebellar disease	DOID:2786	cerebellar disease	true	
-OMIA:000181-9615	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	false	
-OMIA:000181-9615	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	true	
-OMIA:000181-9685	neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	false	
-OMIA:000181-9685	neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	true	
-OMIA:000181-9796	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	false	
-OMIA:000181-9796	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	true	
-OMIA:000181-9913	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	false	
-OMIA:000181-9913	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	true	
-OMIA:000181-9925	neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	false	
-OMIA:000181-9925	neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	true	
-OMIA:000181-9940	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	false	
-OMIA:000181-9940	Neuronal ceroid lipofuscinosis	DOID:14503	neuronal ceroid lipofuscinosis	true	
+OMIA:000181	Neuronal Ceroid Lipofuscinosis, generic	DOID:14503	neuronal ceroid lipofuscinosis	false	
 OMIA:000185	Chediak-Higashi syndrome	DOID:2935	Chediak-Higashi syndrome	false	
 OMIA:000185	Chediak-Higashi syndrome	DOID:2935	Chediak-Higashi syndrome	true	
 OMIA:000189	Chondrodystrophy	DOID:2256	osteochondrodysplasia	false	
@@ -705,8 +647,6 @@ OMIA:000197	Cleft palate	DOID:674	cleft palate	false
 OMIA:000197	Cleft palate	DOID:674	cleft palate	true	
 OMIA:000219	Coloboma	DOID:12270	coloboma	false	
 OMIA:000219	Coloboma	DOID:12270	coloboma	true	
-OMIA:000220-9615	Combined immunodeficiency disease	DOID:628	combined T cell and B cell immunodeficiency	false	
-OMIA:000220-9796	Combined immunodeficiency disease	DOID:628	combined T cell and B cell immunodeficiency	false	
 OMIA:000230	Corneal dystrophy	DOID:2566	corneal dystrophy	false	
 OMIA:000230	Corneal dystrophy	DOID:2566	corneal dystrophy	true	
 OMIA:000240	Crest	DOID:0060218	CREST syndrome	false	
@@ -721,8 +661,6 @@ OMIA:000269	Dermatitis, atopic	DOID:3310	atopic dermatitis	false
 OMIA:000269	Dermatitis, atopic	DOID:3310	atopic dermatitis	true	
 OMIA:000270	Dermatomyositis	DOID:10223	dermatomyositis	false	
 OMIA:000270	Dermatomyositis	DOID:10223	dermatomyositis	true	
-OMIA:000271-9825	Club foot	DOID:11836	clubfoot	false	
-OMIA:000271-9825	Club foot	DOID:11836	clubfoot	true	
 OMIA:000275	Retinal detachment	DOID:5327	retinal detachment	false	
 OMIA:000275	Retinal detachment	DOID:5327	retinal detachment	true	
 OMIA:000278	Diabetes insipidus	DOID:9409	diabetes insipidus	false	
@@ -763,8 +701,11 @@ OMIA:000401	Gangliosidosis	DOID:2368	gangliosidosis	false
 OMIA:000401	Gangliosidosis	DOID:2368	gangliosidosis	true	
 OMIA:000402	Gangliosidosis, GM1	DOID:3322	gangliosidosis GM1	false	
 OMIA:000402	Gangliosidosis, GM1	DOID:3322	gangliosidosis GM1	true	
+OMIA:000403	Gangliosidosis, GM2, generic	DOID:3321	gangliosidosis GM2	false	
 OMIA:000409	Gingival hypertrophy	DOID:5338	gingival hypertrophy	false	
 OMIA:000409	Gingival hypertrophy	DOID:5338	gingival hypertrophy	true	
+OMIA:000411	Glaucoma, generic	DOID:1686	glaucoma	false	
+OMIA:000411	Glaucoma, generic	DOID:1686	glaucoma	true	
 OMIA:000413	Glomerulonephritis	DOID:2921	glomerulonephritis	false	
 OMIA:000413	Glomerulonephritis	DOID:2921	glomerulonephritis	true	
 OMIA:000416	Glucose-6-phosphate dehydrogenase deficiency	DOID:13628	glucose-6-phosphate dehydrogenase deficiency	false	
@@ -841,8 +782,6 @@ OMIA:000573	Kartagener syndrome	DOID:0050144	Kartagener syndrome	false
 OMIA:000573	Kartagener syndrome	DOID:0050144	Kartagener syndrome	true	
 OMIA:000578	Krabbe disease	DOID:10587	Krabbe disease	false	
 OMIA:000578	Krabbe disease	DOID:10587	Krabbe disease	true	
-OMIA:000578-9615	globoid cell leukodystrophy	DOID:10587	Krabbe disease	false	
-OMIA:000578-9615	globoid cell leukodystrophy	DOID:10587	Krabbe disease	true	
 OMIA:000593	Acrodermatitis enteropathica	DOID:0050605	acrodermatitis enteropathica	false	
 OMIA:000593	Acrodermatitis enteropathica	DOID:0050605	acrodermatitis enteropathica	true	
 OMIA:000605	Lipidosis, hepatic	DOID:9452	fatty liver disease	false	
@@ -867,8 +806,6 @@ OMIA:000627	Maple syrup urine disease	DOID:9269	maple syrup urine disease	false
 OMIA:000627	Maple syrup urine disease	DOID:9269	maple syrup urine disease	true	
 OMIA:000628	Marfan syndrome	DOID:14323	Marfan syndrome	false	
 OMIA:000628	Marfan syndrome	DOID:14323	Marfan syndrome	true	
-OMIA:000628-9913	Marfan Syndrome	DOID:14323	Marfan syndrome	false	
-OMIA:000628-9913	Marfan Syndrome	DOID:14323	Marfan syndrome	true	
 OMIA:000629	Megacolon	DOID:11372	megacolon	false	
 OMIA:000629	Megacolon	DOID:11372	megacolon	true	
 OMIA:000640	Menkes syndrome	DOID:1838	Menkes disease	false	
@@ -884,8 +821,6 @@ OMIA:000655	Mitral valve stenosis	DOID:1754	mitral valve stenosis	false
 OMIA:000655	Mitral valve stenosis	DOID:1754	mitral valve stenosis	true	
 OMIA:000664	Mucopolysaccharidosis I	DOID:12802	mucopolysaccharidosis I	false	
 OMIA:000664	Mucopolysaccharidosis I	DOID:12802	mucopolysaccharidosis I	true	
-OMIA:000664-9615	Mucopolysaccharidosis I	DOID:12802	mucopolysaccharidosis I	false	
-OMIA:000664-9615	Mucopolysaccharidosis I	DOID:12802	mucopolysaccharidosis I	true	
 OMIA:000666	Mucopolysaccharidosis VI	DOID:12800	mucopolysaccharidosis VI	false	
 OMIA:000666	Mucopolysaccharidosis VI	DOID:12800	mucopolysaccharidosis VI	true	
 OMIA:000667	Mucopolysaccharidosis VII	DOID:12803	Sly syndrome	false	
@@ -898,8 +833,6 @@ OMIA:000684	Myasthenia gravis	DOID:437	myasthenia gravis	false
 OMIA:000684	Myasthenia gravis	DOID:437	myasthenia gravis	true	
 OMIA:000685	Myasthenic syndrome, congenital	DOID:3635	congenital myasthenic syndrome	false	
 OMIA:000685	Myasthenic syndrome, congenital	DOID:3635	congenital myasthenic syndrome	true	
-OMIA:000685-9615	Congenital myasthenic syndrome	DOID:3635	congenital myasthenic syndrome	false	
-OMIA:000685-9615	Congenital myasthenic syndrome	DOID:3635	congenital myasthenic syndrome	true	
 OMIA:000693	Myopathy	DOID:423	myopathy	false	
 OMIA:000693	Myopathy	DOID:423	myopathy	true	
 OMIA:000694	Myopathy, congenital	DOID:0080100	congenital myopathy	false	
@@ -954,8 +887,6 @@ OMIA:000783	Pelger-Huet anomaly	DOID:9631	Pelger-Huet anomaly	false
 OMIA:000783	Pelger-Huet anomaly	DOID:9631	Pelger-Huet anomaly	true	
 OMIA:000791	Persistent Mullerian duct syndrome	DOID:0050791	persistent mullerian duct syndrome	false	
 OMIA:000791	Persistent Mullerian duct syndrome	DOID:0050791	persistent mullerian duct syndrome	true	
-OMIA:000791-9615	Persistent Mullerian Duct Syndrome	DOID:0050791	persistent mullerian duct syndrome	false	
-OMIA:000791-9615	Persistent Mullerian Duct Syndrome	DOID:0050791	persistent mullerian duct syndrome	true	
 OMIA:000801	Pityriasis rosea	DOID:8892	pityriasis rosea	false	
 OMIA:000801	Pityriasis rosea	DOID:8892	pityriasis rosea	true	
 OMIA:000802	Platelet disorder	DOID:2218	blood platelet disease	false	
@@ -982,8 +913,6 @@ OMIA:000869	Retinal dystrophy	DOID:8501	fundus dystrophy	false
 OMIA:000869	Retinal dystrophy	DOID:8501	fundus dystrophy	true	
 OMIA:000878	Arrhythmogenic right ventricular cardiomyopathy	DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	false	
 OMIA:000878	Arrhythmogenic right ventricular cardiomyopathy	DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	true	
-OMIA:000878-9615	Arrhythmogenic right ventricular cardiomyopathy	DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	false	
-OMIA:000878-9615	Arrhythmogenic right ventricular cardiomyopathy	DOID:0050431	arrhythmogenic right ventricular cardiomyopathy	true	
 OMIA:000891	Scoliosis	DOID:0060249	scoliosis	false	
 OMIA:000891	Scoliosis	DOID:0060249	scoliosis	true	
 OMIA:000899	Severe combined immunodeficiency disease, X-linked	DOID:0060013	gamma chain deficiency	false	
@@ -998,12 +927,6 @@ OMIA:000939	Spinal muscular atrophy	DOID:12377	spinal muscular atrophy	false
 OMIA:000939	Spinal muscular atrophy	DOID:12377	spinal muscular atrophy	true	
 OMIA:000944	Spongiform encephalopathy	DOID:649	prion disease	false	
 OMIA:000944	Spongiform encephalopathy	DOID:649	prion disease	true	
-OMIA:000944-452646	Scrapie	DOID:5434	scrapie	false	
-OMIA:000944-452646	Scrapie	DOID:5434	scrapie	true	
-OMIA:000944-9925	Scrapie	DOID:5434	scrapie	false	
-OMIA:000944-9925	Scrapie	DOID:5434	scrapie	true	
-OMIA:000944-9940	Scrapie	DOID:5434	scrapie	false	
-OMIA:000944-9940	Scrapie	DOID:5434	scrapie	true	
 OMIA:000947	Stenosis, spinal	DOID:6725	spinal stenosis	false	
 OMIA:000947	Stenosis, spinal	DOID:6725	spinal stenosis	true	
 OMIA:000949	Strabismus	DOID:540	strabismus	false	
@@ -1032,6 +955,8 @@ OMIA:001041	Ventricular septal defect	DOID:1657	ventricular septal defect	false
 OMIA:001041	Ventricular septal defect	DOID:1657	ventricular septal defect	true	
 OMIA:001055	Vitiligo	DOID:12306	vitiligo	false	
 OMIA:001055	Vitiligo	DOID:12306	vitiligo	true	
+OMIA:001056	Von Willebrand disease, generic	DOID:12531	von Willebrand's disease	false	
+OMIA:001059	Waardenburg syndrome, generic	DOID:9258	Waardenburg's syndrome	false	
 OMIA:001071	Wilson disease	DOID:893	Wilson disease	false	
 OMIA:001071	Wilson disease	DOID:893	Wilson disease	true	
 OMIA:001081	Muscular dystrophy, Duchenne type	DOID:11723	Duchenne muscular dystrophy	false	
@@ -1045,16 +970,12 @@ OMIA:001104	Thrombocytopenic purpura, autoimmune	DOID:8924	autoimmune thrombocyt
 OMIA:001109	Mycosis fungoides	DOID:8691	mycosis fungoides	false	
 OMIA:001109	Mycosis fungoides	DOID:8691	mycosis fungoides	true	
 OMIA:001110	Otitis externa, susceptibility to	DOID:9463	otitis externa	false	
-OMIA:001112-9615	Alport syndrome	DOID:10983	Alport syndrome	false	
-OMIA:001112-9615	Alport syndrome	DOID:10983	Alport syndrome	true	
 OMIA:001127	Otocephaly	DOID:0060341	agnathia-otocephaly complex	false	
 OMIA:001127	Otocephaly	DOID:0060341	agnathia-otocephaly complex	true	
 OMIA:001131	Muscular dystrophy, Duchenne	DOID:11723	Duchenne muscular dystrophy	false	
 OMIA:001131	Muscular dystrophy, Duchenne	DOID:11723	Duchenne muscular dystrophy	true	
 OMIA:001139	Glycogen storage disease V	DOID:2746	glycogen storage disease V	false	
 OMIA:001139	Glycogen storage disease V	DOID:2746	glycogen storage disease V	true	
-OMIA:001139-9913	Myophosphorylase deficiency	DOID:2746	glycogen storage disease V	false	
-OMIA:001139-9913	Myophosphorylase deficiency	DOID:2746	glycogen storage disease V	true	
 OMIA:001141	Tyrosinemia, type II	DOID:0050725	tyrosinemia type II	false	
 OMIA:001141	Tyrosinemia, type II	DOID:0050725	tyrosinemia type II	true	
 OMIA:001144	Galactosemia	DOID:9870	galactosemia	false	
@@ -1118,6 +1039,8 @@ OMIA:001266	Otitis media, susceptibility to	DOID:10754	otitis media	false
 OMIA:001269	Hyperaldosteronism	DOID:446	hyperaldosteronism	false	
 OMIA:001269	Hyperaldosteronism	DOID:446	hyperaldosteronism	true	
 OMIA:001277	Otitis interna, susceptibility to	DOID:3930	otitis interna	false	
+OMIA:001283	Xanthinuria, generic	DOID:0060236	xanthinuria	false	
+OMIA:001283	Xanthinuria, generic	DOID:0060236	xanthinuria	true	
 OMIA:001285	Mitochondrial myopathy	DOID:699	mitochondrial myopathy	false	
 OMIA:001285	Mitochondrial myopathy	DOID:699	mitochondrial myopathy	true	
 OMIA:001287	Keratitis	DOID:4677	keratitis	false	
@@ -1136,14 +1059,10 @@ OMIA:001325	Protein-losing enteropathy	DOID:10611	protein-losing enteropathy	fal
 OMIA:001325	Protein-losing enteropathy	DOID:10611	protein-losing enteropathy	true	
 OMIA:001331	Eclampsia	DOID:13593	eclampsia	false	
 OMIA:001331	Eclampsia	DOID:13593	eclampsia	true	
-OMIA:001335-9615	Renal cancer syndrome	DOID:263	kidney cancer	false	
-OMIA:001335-9615	Renal cancer syndrome	DOID:263	kidney cancer	true	
 OMIA:001342	Mucopolysaccharidosis IIIB	DOID:12801	mucopolysaccharidosis III	false	
 OMIA:001342	Mucopolysaccharidosis IIIB	DOID:12801	mucopolysaccharidosis III	true	
 OMIA:001371	L-2-hydroxyglutaricacidemia	DOID:0050574	L-2-hydroxyglutaric aciduria	false	
 OMIA:001371	L-2-hydroxyglutaricacidemia	DOID:0050574	L-2-hydroxyglutaric aciduria	true	
-OMIA:001371-9615	L-2-hydroxyglutaric aciduria	DOID:0050574	L-2-hydroxyglutaric aciduria	false	
-OMIA:001371-9615	L-2-hydroxyglutaric aciduria	DOID:0050574	L-2-hydroxyglutaric aciduria	true	
 OMIA:001374	Myopathy, centronuclear	DOID:14717	centronuclear myopathy	false	
 OMIA:001374	Myopathy, centronuclear	DOID:14717	centronuclear myopathy	true	
 OMIA:001384	Pink eye	DOID:11213	acute contagious conjunctivitis	false	
@@ -1161,15 +1080,12 @@ OMIA:001417	Pulmonary fibrosis, idiopathic	DOID:0050156	idiopathic pulmonary fib
 OMIA:001419	Aortic aneurysm, familial thoracic	DOID:14004	thoracic aortic aneurysm	false	
 OMIA:001441	Osteosarcoma	DOID:3347	osteosarcoma	false	
 OMIA:001441	Osteosarcoma	DOID:3347	osteosarcoma	true	
-OMIA:001443-9940	Battens disease	DOID:0050756	Batten disease	true	
 OMIA:001457	Multiple acyl-CoA dehydrogenase deficiency	DOID:0060358	multiple acyl-CoA dehydrogenase deficiency	false	
 OMIA:001457	Multiple acyl-CoA dehydrogenase deficiency	DOID:0060358	multiple acyl-CoA dehydrogenase deficiency	true	
 OMIA:001465	Arthrogryposis multiplex congenita	DOID:0050646	distal arthrogryposis	false	
 OMIA:001465	Arthrogryposis multiplex congenita	DOID:0050646	distal arthrogryposis	true	
 OMIA:001486	Night blindness, congenital stationary	DOID:0050534	congenital stationary night blindness	false	
 OMIA:001486	Night blindness, congenital stationary	DOID:0050534	congenital stationary night blindness	true	
-OMIA:001486-9796	Congenital stationary night blindness	DOID:0050534	congenital stationary night blindness	false	
-OMIA:001486-9796	Congenital stationary night blindness	DOID:0050534	congenital stationary night blindness	true	
 OMIA:001487	Myopia	DOID:11830	myopia	false	
 OMIA:001487	Myopia	DOID:11830	myopia	true	
 OMIA:001493	Porphyria, acute intermittent	DOID:3890	acute intermittent porphyria	false	
@@ -1178,18 +1094,12 @@ OMIA:001512	Transitional cell carcinoma	DOID:2671	transitional cell carcinoma	fa
 OMIA:001512	Transitional cell carcinoma	DOID:2671	transitional cell carcinoma	true	
 OMIA:001513	Chronic myelogenous leukemia	DOID:8552	chronic myeloid leukemia	false	
 OMIA:001513	Chronic myelogenous leukemia	DOID:8552	chronic myeloid leukemia	true	
-OMIA:001514-9615	hereditary sensory neuropathy	DOID:0050548	hereditary sensory neuropathy	false	
-OMIA:001514-9615	hereditary sensory neuropathy	DOID:0050548	hereditary sensory neuropathy	true	
 OMIA:001516	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	false	
 OMIA:001516	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	true	
 OMIA:001540	Ciliary dyskinesia, primary	DOID:9562	primary ciliary dyskinesia	false	
 OMIA:001540	Ciliary dyskinesia, primary	DOID:9562	primary ciliary dyskinesia	true	
-OMIA:001540-9615	Primary ciliary dyskinesia	DOID:9562	primary ciliary dyskinesia	false	
-OMIA:001540-9615	Primary ciliary dyskinesia	DOID:9562	primary ciliary dyskinesia	true	
 OMIA:001573	Leukemia, chronic monocytic	DOID:8593	chronic monocytic leukemia	false	
 OMIA:001573	Leukemia, chronic monocytic	DOID:8593	chronic monocytic leukemia	true	
-OMIA:001573-9615	Chronic monocytic leukemia	DOID:8593	chronic monocytic leukemia	false	
-OMIA:001573-9615	Chronic monocytic leukemia	DOID:8593	chronic monocytic leukemia	true	
 OMIA:001607	Pigmentation	DOID:10123	pigmentation disease	false	
 OMIA:001687	Inflammatory bowel disease	DOID:0050589	inflammatory bowel disease	false	
 OMIA:001687	Inflammatory bowel disease	DOID:0050589	inflammatory bowel disease	true	
@@ -1201,6 +1111,8 @@ OMIA:001708	Lymphoma, non-Hodgkin	DOID:0060060	non-Hodgkin lymphoma	false
 OMIA:001708	Lymphoma, non-Hodgkin	DOID:0060060	non-Hodgkin lymphoma	true	
 OMIA:001724	Melanoma, malignant	DOID:1909	melanoma	false	
 OMIA:001724	Melanoma, malignant	DOID:1909	melanoma	true	
+OMIA:001733	Lymphoma, generic	DOID:0060058	lymphoma	false	
+OMIA:001733	Lymphoma, generic	DOID:0060058	lymphoma	true	
 OMIA:001760	Common Variable ImmunoDeficiency	DOID:12177	common variable immunodeficiency	false	
 OMIA:001760	Common Variable ImmunoDeficiency	DOID:12177	common variable immunodeficiency	true	
 OMIA:001764	Choanal atresia	DOID:9574	choanal atresia	false	
@@ -1223,10 +1135,11 @@ OMIA:001865	Cataract, diabetic	DOID:13328	diabetic cataract	false
 OMIA:001865	Cataract, diabetic	DOID:13328	diabetic cataract	true	
 OMIA:001870	Glaucoma, primary open angle	DOID:1070	primary open angle glaucoma	false	
 OMIA:001870	Glaucoma, primary open angle	DOID:1070	primary open angle glaucoma	true	
-OMIA:001870-9615	Primary open angle glaucoma	DOID:1070	primary open angle glaucoma	false	
-OMIA:001870-9615	Primary open angle glaucoma	DOID:1070	primary open angle glaucoma	true	
+OMIA:001878	Cystinuria, generic	DOID:9266	cystinuria	false	
+OMIA:001878	Cystinuria, generic	DOID:9266	cystinuria	true	
 OMIA:001882	Attention deficit hyperactivity disorder	DOID:1094	attention deficit hyperactivity disorder	false	
 OMIA:001882	Attention deficit hyperactivity disorder	DOID:1094	attention deficit hyperactivity disorder	true	
+OMIA:001883	Glycogen storage disease, generic	DOID:2747	glycogen storage disease	false	
 OMIA:001888	Muscular dystrophy, Becker type	DOID:9883	Becker muscular dystrophy	false	
 OMIA:001888	Muscular dystrophy, Becker type	DOID:9883	Becker muscular dystrophy	true	
 OMIA:001898	Metabolic syndrome	DOID:0014667	disease of metabolism	false	
@@ -1234,17 +1147,12 @@ OMIA:001898	Metabolic syndrome	DOID:14221	metabolic syndrome X	false
 OMIA:001898	Metabolic syndrome	DOID:14221	metabolic syndrome X	true	
 OMIA:001916	familial adenomatous polyposis	DOID:0050424	familial adenomatous polyposis	false	
 OMIA:001916	familial adenomatous polyposis	DOID:0050424	familial adenomatous polyposis	true	
-OMIA:001917-9615	polyneuropathy	DOID:1389	polyneuropathy	false	
-OMIA:001917-9615	polyneuropathy	DOID:1389	polyneuropathy	true	
 OMIA:001921	Rhabdomyosarcoma, embryonal	DOID:3246	embryonal rhabdomyosarcoma	false	
 OMIA:001921	Rhabdomyosarcoma, embryonal	DOID:3246	embryonal rhabdomyosarcoma	true	
 OMIA:001926	Achondrogenesis, type II	DOID:0080056	achondrogenesis type II	false	
 OMIA:001926	Achondrogenesis, type II	DOID:0080056	achondrogenesis type II	true	
-OMIA:001928-9615	Congenital myasthenic syndromes	DOID:3635	congenital myasthenic syndrome	true	
 OMIA:001930	Pneumonia, aspiration	DOID:0050152	aspiration pneumonia	false	
 OMIA:001930	Pneumonia, aspiration	DOID:0050152	aspiration pneumonia	true	
 OMIA:001963	Schwannomatosis	DOID:3204	neurilemmomatosis	false	
 OMIA:001963	Schwannomatosis	DOID:3204	neurilemmomatosis	true	
 OMIA:001964	Eye infection, susceptibility to	DOID:5614	eye disease	false	
-OMIA:001967-9615	Muscular Dystrophy	DOID:9884	muscular dystrophy	false	
-OMIA:001967-9615	Muscular Dystrophy	DOID:9884	muscular dystrophy	true	
