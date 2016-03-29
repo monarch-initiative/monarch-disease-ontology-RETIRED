@@ -15,6 +15,13 @@ while(<>) {
                 s@EXACT@NARROW@;
             }
         }
+        if ($syn =~ / \d+$/i) {
+            $syn =~ s/ \d+$//i;
+            if (lc($syn) eq lc($n)) {
+                print STDERR "FIXING: $_\n";
+                s@EXACT@NARROW@;
+            }
+        }
     }
     print "$_\n";
 }
