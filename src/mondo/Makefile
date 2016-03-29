@@ -396,12 +396,18 @@ combined.obo: $(DOID_OBO) $(ORDO_ISA) omc-minimal.obo
 
 # translate xrefs to estimates of prior probabilities of equivalence
 test-ptable.tsv: combined.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all -i $< -r omim xref_ptable/6 -consult probmatch.pro -no_pred > $@
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim xref_ptable/6 -consult probmatch.pro -no_pred > $@
 
+debug-ptable.tsv: combined.obo
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@
+
+combined.owl: combined.obo
+	owltools $< -o $@
 ## MAX_E := 9  -- failing..?
-MAX_E := 7
-lm-doid-NEW.obo: test-ptable.tsv combined.obo
-	owlbag --max $(MAX_E) -m lm-doid-NEW-rpt.md -j lm-doid-NEW-rpt.json -n -o $@.owl -t $< combined.obo
+MAX_E := 8
+lm-doid-NEW.obo: test-ptable.tsv combined.owl
+	owlbag --max $(MAX_E) -m lm-doid-NEW-rpt.md -j lm-doid-NEW-rpt.json -n -o $@.owl -t $< combined.owl && owltools $@.owl --set-ontology-id $(OBO)/mondo.owl -o -f obo --no-check $@
 
 lm-%-rpt.html: lm-%.obo
 	pandoc $*-rpt.md -o $@
+
