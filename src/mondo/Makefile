@@ -1,7 +1,6 @@
 all: mondo.obo mondo.owl
 #all: mondo.obo mondo.owl mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
-
-all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
+#all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
 OMIM_OBO=../omim/omim.obo
 OMIA_OBO=../omia/omia.obo
@@ -11,7 +10,6 @@ ORDO_ISA=../orphanet/orphanet-isa.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
 MESH_TRIM=ctd-mesh-no-omim-labels.obo
-
 
 
 ## --
@@ -25,7 +23,7 @@ MESH_TRIM=ctd-mesh-no-omim-labels.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_ISA) omc-minimal.obo $(MESH_TRIM)
+set-1.obo: $(DOID_OBO) $(ORDO_ISA) omc-minimal.obo $(MESH_TRIM) ixrefs-doid-to-omia.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@
 
 set-%.owl: set-%.obo
@@ -180,7 +178,7 @@ xrefs-%.obo: align-%.tsv
 	cut -f1-4 $< | sort -u | grep ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
 
 ixrefs-%.obo: align-%.tsv
-	cut -f1-4 $< | sort -u | grep -v ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
+	cut -f1-4 $< | sort -u | grep -v ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && (echo "ontology: mondo/$*" && echo && cat $@.tmp) > $@
 
 isa-%.obo: align-%.tsv
 	cut -f1-4 $< | sort -u | grep -v ^DOID | tbl2obolinks.pl --rel is_a > $@.tmp && mv $@.tmp $@
