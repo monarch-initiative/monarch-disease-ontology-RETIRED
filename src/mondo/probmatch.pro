@@ -109,7 +109,7 @@ is_type_token('xii').
 
 
 
-is_sub_atom_of(A,B) :-
+is_left_sub_atom_of(A,B) :-
         atom_concat(A,Rest,B),
         Rest\=''.
 
@@ -138,16 +138,16 @@ pair_relationship_scores_typematch(A,B,m(etype,0,0,150,0)) :-
 
 % Foo-type-N < Foo-type-NX, label/exact match
 % Note, this is fallible, e.g. parenthetical qualifiers
-pair_relationship_scores_typematch(A,B,m(etype,100,0,0,0)) :-
-        entity_ngenus_type(A,G,TypeA,label_or_exact),
-        entity_ngenus_type(B,G,TypeB,label_or_exact),
-        is_sub_atom_of(TypeA,TypeB),
-        !.
-% Foo-type-NX > Foo-type-N, label/exact match
 pair_relationship_scores_typematch(A,B,m(etype,0,100,0,0)) :-
         entity_ngenus_type(A,G,TypeA,label_or_exact),
         entity_ngenus_type(B,G,TypeB,label_or_exact),
-        is_sub_atom_of(TypeB,TypeA),
+        is_left_sub_atom_of(TypeA,TypeB),
+        !.
+% Foo-type-NX > Foo-type-N, label/exact match
+pair_relationship_scores_typematch(A,B,m(etype,100,0,0,0)) :-
+        entity_ngenus_type(A,G,TypeA,label_or_exact),
+        entity_ngenus_type(B,G,TypeB,label_or_exact),
+        is_left_sub_atom_of(TypeB,TypeA),
         !.
 
 % Foo-type-N, label/exact/related match
@@ -158,20 +158,20 @@ pair_relationship_scores_typematch(A,B,m(etype,0,0,50,0)) :-
         not_broad_or_narrow(Sc2),
         !.
 
-pair_relationship_scores_typematch(A,B,m(etype,25,0,0,0)) :-
-        entity_ngenus_type(A,G,TypeA,Sc1),
-        not_broad_or_narrow(Sc1),
-        entity_ngenus_type(B,G,TypeB,Sc2),
-        not_broad_or_narrow(Sc2),
-        is_sub_atom_of(TypeA,TypeB),
-        !.
-% Foo-type-NX > Foo-type-N, label match
 pair_relationship_scores_typematch(A,B,m(etype,0,25,0,0)) :-
         entity_ngenus_type(A,G,TypeA,Sc1),
         not_broad_or_narrow(Sc1),
         entity_ngenus_type(B,G,TypeB,Sc2),
         not_broad_or_narrow(Sc2),
-        is_sub_atom_of(TypeB,TypeA),
+        is_left_sub_atom_of(TypeA,TypeB),
+        !.
+% Foo-type-NX > Foo-type-N, label match
+pair_relationship_scores_typematch(A,B,m(etype,25,0,0,0)) :-
+        entity_ngenus_type(A,G,TypeA,Sc1),
+        not_broad_or_narrow(Sc1),
+        entity_ngenus_type(B,G,TypeB,Sc2),
+        not_broad_or_narrow(Sc2),
+        is_left_sub_atom_of(TypeB,TypeA),
         !.
 
 %% ========================================
@@ -205,6 +205,17 @@ pair_relationship_scores_lexical(A,B,m(lexical,S1,S1,S3,1)) :-
         scope_pair_score(SA,SB,St,S3),
         S1 is S3/2,
         !.
+pair_relationship_scores_lexical(A,B,m(lexical,21,1,2,1)) :-
+        entity_label_or_exact_synonym(A,NA),
+        entity_label_or_exact_synonym(B,NB),
+        sub_atom(NA,_,_,_,NB),  % NB is a substring of NA, and thus a superclass of NA
+        !.
+pair_relationship_scores_lexical(A,B,m(lexical,1,21,2,1)) :-
+        entity_label_or_exact_synonym(A,NA),
+        entity_label_or_exact_synonym(B,NB),
+        sub_atom(NB,_,_,_,NA),  % NA is a substring of NB, and thus a superclass of NB
+        !.
+
 % even if no lexical match can be found
 % we assume a default of equivalence
 % (essentially trusting the curator who supplied the xref)

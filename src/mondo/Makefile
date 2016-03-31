@@ -9,7 +9,7 @@ ORDO_OBO=../orphanet/orphanet-obostyle.obo
 ORDO_SLIM=../orphanet/orphanet-slim.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
-MESH_TRIM=ctd-mesh-no-omim-labels.obo
+MESH_TRIM=../medic/ctd-mesh-no-omim-labels.obo
 
 
 ## --
@@ -45,10 +45,11 @@ set-%-ptable-debug.tsv: set-%.obo
 
 # lBOOM parameters
 # MAX_E := 9  -- failing..?
-MAX_E := 8
+MAX_E := 7
 
 linked-%.owl: set-%-ptable.tsv set-%.owl
-	kboom --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
+	kboom  --splitSize 999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
+.PRECIOUS: linked-%.owl
 
 # use pandoc to convert markdown to html
 linked-%-rpt.md: linked-%.owl
@@ -62,13 +63,13 @@ lmerged-%.owl: set-%.owl linked-%.owl
 	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL) --set-ontology-id $(OBO)/mondo/$@ -o $@
 
 lmerged-%.obo: lmerged-%.owl
-	owltools $< --remove-dangling -f -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
+	owltools $< --remove-dangling -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
 
 mondo.obo: lmerged-1.obo
 	owltools $< --set-ontology-id $(OBO)/upheno/mondo.owl -o -f obo --no-check $@
 
 equiv_axioms.owl: linked-1.owl
-	owltools --extract-axioms -t EquivalentClasses -o -f ofn $@
+	owltools $< --extract-axioms -t EquivalentClasses -o -f ofn $@
 
 mondo.owl: mondo.obo equiv_axioms.owl
 	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
