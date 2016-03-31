@@ -65,8 +65,11 @@ lmerged-%.owl: set-%.owl linked-%.owl
 lmerged-%.obo: lmerged-%.owl
 	owltools $< --remove-dangling -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
 
-mondo.obo: lmerged-1.obo
+mondo_pre.obo: lmerged-1.obo
 	owltools $< --set-ontology-id $(OBO)/upheno/mondo.owl -o -f obo --no-check $@
+
+mondo.obo: mondo_pre.obo mesh-mega-antislim.obo
+	owltools $^ --merge-support-ontologies --remove-subset mesh_antislim -o -f obo --no-check $@
 
 equiv_axioms.owl: linked-1.owl
 	owltools $< --extract-axioms -t EquivalentClasses -o -f ofn $@
@@ -77,6 +80,8 @@ mondo.owl: mondo.obo equiv_axioms.owl
 mondoe.obo: mondo.owl
 	owltools $< -o -f obo --no-check $@
 
+mesh-mega-antislim.obo: mondo_pre.obo
+	blip-findall -i $< -consult checker.pro write_mesh_antislim > $@
 
 ## --
 ## DO
