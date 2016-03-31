@@ -20,9 +20,16 @@ entity_synonym_scopeI(E,N,inexact) :-
 entity_synonym_scopeI(E,N,inexact) :-
         entity_synonym_scope(E,N,narrow).
 
+entity_ngenus_type(E,G,T,Scope) :-
+        entity_ngenus_type_1(E,G,T,Scope).
+entity_ngenus_type(E,G,T,Scope) :-
+        entity_ngenus_type_1(E,G,T1,Scope),
+        type_token_syn(T1,T).
+
+
 % e.g. Foo type 1
 % uses tokenizer
-entity_ngenus_type(E,G,T,Scope) :-
+entity_ngenus_type_1(E,G,T,Scope) :-
         entity_synonym_scopeI(E,N,Scope),
         tokenize_atom_wrap(N,TL),
         maplist(downcase_atom,TL,TL2),
@@ -30,7 +37,7 @@ entity_ngenus_type(E,G,T,Scope) :-
         T\=''.
 
 % Foo, bar, baz type
-entity_ngenus_type(E,G,T,Scope) :-
+entity_ngenus_type_1(E,G,T,Scope) :-
         entity_synonym_scopeI(E,N,Scope),
         % e.g. Primary dystonia, DYT13 type
         concat_atom(TL,', ',N),
@@ -98,6 +105,9 @@ is_type_token('ix').
 is_type_token('x').
 is_type_token('xi').
 is_type_token('xii').
+
+
+
 
 is_sub_atom_of(A,B) :-
         atom_concat(A,Rest,B),
@@ -346,3 +356,16 @@ normalized_xref(A,B) :-
         setof(A-B,entity_xrefS(A,B),L),
         member(A-B,L).
 
+
+type_token_syn('i','1').
+type_token_syn('ii','2').
+type_token_syn('iii','3').
+type_token_syn('iv','4').
+type_token_syn('v','5').
+type_token_syn('vi','6').
+type_token_syn('vii','7').
+type_token_syn('viii','8').
+type_token_syn('ix','9').
+type_token_syn('x','10').
+type_token_syn('xi','11').
+type_token_syn('xii','12').

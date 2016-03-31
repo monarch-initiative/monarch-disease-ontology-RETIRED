@@ -1,0 +1,5 @@
+ontology: mondo/xlinks-curated
+
+[Term]
+id: Orphanet:2828 ! Young-onset Parkinson disease
+is_a: DOID:14330 ! Parkinson's disease

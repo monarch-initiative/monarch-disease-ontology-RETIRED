@@ -6,7 +6,7 @@ OMIM_OBO=../omim/omim.obo
 OMIA_OBO=../omia/omia.obo
 OMIAG_OBO=../omia/omia-generic.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
-ORDO_ISA=../orphanet/orphanet-isa.obo
+ORDO_SLIM=../orphanet/orphanet-slim.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
 MESH_TRIM=ctd-mesh-no-omim-labels.obo
@@ -23,7 +23,7 @@ MESH_TRIM=ctd-mesh-no-omim-labels.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_ISA) omc-minimal.obo $(MESH_TRIM) ixrefs-doid-to-omia.obo
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@
 
 set-%.owl: set-%.obo
@@ -48,28 +48,29 @@ set-%-ptable-debug.tsv: set-%.obo
 MAX_E := 8
 
 linked-%.owl: set-%-ptable.tsv set-%.owl
-	owlbag --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@.owl -t $^
+	kboom --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 
 # use pandoc to convert markdown to html
 linked-%-rpt.md: linked-%.owl
 %-rpt.html: %-rpt.md
 	pandoc $*-rpt.md -o $@
 
+# Merging most probable axioms plus original ontologies
 PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
 lmerged-%.owl: set-%.owl linked-%.owl
-	owltools $^ merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL) --set-ontology-id $(OBO)/mondo/lmerged-%.owl -o $@
+	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL) --set-ontology-id $(OBO)/mondo/$@ -o $@
 
 lmerged-%.obo: lmerged-%.owl
-	owltools $< -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
+	owltools $< --remove-dangling -f -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
 
 mondo.obo: lmerged-1.obo
-	cp $< $@
+	owltools $< --set-ontology-id $(OBO)/upheno/mondo.owl -o -f obo --no-check $@
 
 equiv_axioms.owl: linked-1.owl
 	owltools --extract-axioms -t EquivalentClasses -o -f ofn $@
 
-mondo.owl: mondo.owl equiv_axioms.owl
+mondo.owl: mondo.obo equiv_axioms.owl
 	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
 
 mondoe.obo: mondo.owl
@@ -175,7 +176,7 @@ align-doid-to-hp.tsv: $(DOID)
 ## --
 
 xrefs-%.obo: align-%.tsv
-	cut -f1-4 $< | sort -u | grep ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
+	cut -f1-4 $< | sort -u | grep ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@.tmp && (echo "ontology: mondo/$*" && echo && cat $@.tmp) > $@
 
 ixrefs-%.obo: align-%.tsv
 	cut -f1-4 $< | sort -u | grep -v ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && (echo "ontology: mondo/$*" && echo && cat $@.tmp) > $@
