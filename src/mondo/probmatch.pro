@@ -310,6 +310,12 @@ pair_relationship_scores_ont(A,B,m(ont,1,1,10,1)) :-
         \+ subclass(_,A),       % is a leaf
         id_idspace(B,'OMIM'),
         !.
+pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
+        id_idspace(B,'Orphanet'), % Orphent
+        id_idspace(A,'DOID'),   % is in DO and
+        class(B,BN),
+        atom_concat('Rare ',_,BN),   % Orphanet name is Rare X
+        !.
 
 %% ========================================
 %% score aggregation

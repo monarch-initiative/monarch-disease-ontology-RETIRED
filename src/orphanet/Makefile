@@ -27,3 +27,6 @@ slim.tsv: orphanet-isa.obo
 
 orphanet-slim.obo: orphanet-isa.obo slim.tsv
 	owltools $< --extract-ontology-subset -i slim.tsv --set-ontology-id $(OBO)/mondo/$@ -o -f obo --no-check $@
+
+orphanet_xp.obo: orphanet-slim.obo	
+	obol  qobol -i $< -r pato -r DOID -tag orphanet -idspace Orphanet -export obo > $@

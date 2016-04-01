@@ -10,6 +10,7 @@ ORDO_SLIM=../orphanet/orphanet-slim.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
 MESH_TRIM=../medic/ctd-mesh-no-omim-labels.obo
+DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
 
 
 ## --
@@ -23,7 +24,7 @@ MESH_TRIM=../medic/ctd-mesh-no-omim-labels.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@
 
 set-%.owl: set-%.obo
@@ -35,6 +36,7 @@ set-%.owl: set-%.obo
 # translate xrefs to estimates of prior probabilities of equivalence
 set-%-ptable.tsv: set-%.obo
 	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim xref_ptable/6 -consult probmatch.pro -no_pred > $@.tmp && mv $@.tmp $@
+.PRECIOUS: set-%-ptable.tsv
 
 set-%-ptable-debug.tsv: set-%.obo
 	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@
@@ -61,6 +63,7 @@ PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
 lmerged-%.owl: set-%.owl linked-%.owl
 	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL) --set-ontology-id $(OBO)/mondo/$@ -o $@
+.PRECIOUS: lmerged-%.owl
 
 lmerged-%.obo: lmerged-%.owl
 	owltools $< --remove-dangling -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
@@ -69,7 +72,7 @@ mondo_pre.obo: lmerged-1.obo
 	owltools $< --set-ontology-id $(OBO)/upheno/mondo.owl -o -f obo --no-check $@
 
 mondo.obo: mondo_pre.obo mesh-mega-antislim.obo
-	owltools $^ --merge-support-ontologies --remove-subset mesh_antislim -o -f obo --no-check $@
+	owltools $^ --merge-support-ontologies --remove-subset mesh_antislim --assert-inferred-subclass-axioms --removeRedundant -o -f obo --no-check $@
 
 equiv_axioms.owl: linked-1.owl
 	owltools $< --extract-axioms -t EquivalentClasses -o -f ofn $@
