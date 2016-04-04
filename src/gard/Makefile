@@ -12,6 +12,9 @@ gard.obo: gard.json
 align-gard-to-mondo.tsv: $(O)
 	blip-findall -debug index -i ../mondo/super_ignore.pro -u metadata_nlp -i $< -r mondo -goal index_entity_pair_label_match "class(X),id_idspace(X,'GARD'),entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+gard-to-mi-urls.tsv: align-gard-to-mondo.tsv
+	align2best.pl $< > $@.tmp && mv $@.tmp $@
+
 map_g2m.pro: align-gard-to-mondo.tsv
 	cut -f1,3 $< | tbl2p -p m > $@
 
