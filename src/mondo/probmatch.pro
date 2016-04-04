@@ -293,17 +293,21 @@ pair_relationship_scores_xref(A,B,m(xref,20,5,5,0)) :-
 %% ========================================
 %% scoring based on ontology structure
 %% ========================================
-pair_relationship_scores_ont(A,B,m(ont,0,500,1,1)) :-
-        subset(A,'Orphanet:377794'), % group of disorders
-        id_idspace(B,'OMIM'),
+pair_relationship_scores_ont(A,B,m(ont,100,0,0,1)) :-
+        subset(B,'Orphanet:377794'), % group of disorders
+        id_idspace(A,'OMIM'),
         !.
 pair_relationship_scores_ont(A,B,m(ont,10,10,20,1)) :-
-        subset(A,'Orphanet:377788'), % disease
-        id_idspace(B,'OMIM'),
+        subset(B,'Orphanet:377788'), % disease
+        id_idspace(A,'OMIM'),
         !.
-pair_relationship_scores_ont(A,B,m(ont,1,50,1,1)) :-
+pair_relationship_scores_ont(A,B,m(ont,1,20,1,1)) :-
         \+ \+ subclass(_,A),          % has a subclass - not a leaf
         id_idspace(B,'OMIM'),
+        !.
+pair_relationship_scores_ont(A,B,m(ont,20,1,1,1)) :-
+        \+ \+ subclass(_,B),          % has a subclass - not a leaf
+        id_idspace(A,'OMIM'),
         !.
 pair_relationship_scores_ont(A,B,m(ont,1,1,10,1)) :-
         id_idspace(A,'DOID'),   % is in DO and
@@ -311,8 +315,8 @@ pair_relationship_scores_ont(A,B,m(ont,1,1,10,1)) :-
         id_idspace(B,'OMIM'),
         !.
 pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
-        id_idspace(B,'Orphanet'), % Orphent
         id_idspace(A,'DOID'),   % is in DO and
+        id_idspace(B,'Orphanet'), % Orphanet
         class(B,BN),
         atom_concat('Rare ',_,BN),   % Orphanet name is Rare X
         !.
@@ -364,11 +368,11 @@ xref_ptable(A,B,P1,P2,P3,P0) :-
         debug(prob,'testing: ~w ~w',[A,B]),
         ptable(A,B,P1,P2,P3,P0).
 
-
 entity_xrefS(A,B) :- entity_xrefN(A,B), A@<B.
 entity_xrefS(A,B) :- entity_xrefN(B,A), A@<B.
 entity_xrefN(A,B) :- entity_xref(A,B),class(A),class(B).
 
+% A@<B
 normalized_xref(A,B) :-
         setof(A-B,entity_xrefS(A,B),L),
         member(A-B,L).
@@ -386,3 +390,10 @@ type_token_syn('ix','9').
 type_token_syn('x','10').
 type_token_syn('xi','11').
 type_token_syn('xii','12').
+
+
+/*
+
+  TODO: decide on pattern for e.g. DC_0000634 Autoimmune Thyroid Disease, Susceptibility to <-> DOID_7188 autoimmune thyroiditis
+
+*/

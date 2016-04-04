@@ -9,9 +9,9 @@ ORDO_OBO=../orphanet/orphanet-obostyle.obo
 ORDO_SLIM=../orphanet/orphanet-slim.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
-MESH_TRIM=../medic/ctd-mesh-no-omim-labels.obo
+MESH_TRIM=../medic/mesh-final.obo
 DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
-
+NCIT_OBO=../ncit/ncit_disease.obo
 
 ## --
 ## INITIAL INPUTS: ONTOLOGY
@@ -50,7 +50,7 @@ set-%-ptable-debug.tsv: set-%.obo
 MAX_E := 7
 
 linked-%.owl: set-%-ptable.tsv set-%.owl
-	kboom  --splitSize 999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
+	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 .PRECIOUS: linked-%.owl
 
 # use pandoc to convert markdown to html
