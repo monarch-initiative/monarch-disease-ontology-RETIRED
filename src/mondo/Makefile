@@ -61,7 +61,11 @@ linked-%-rpt.md: linked-%.owl
 # Merging most probable axioms plus original ontologies
 PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
-lmerged-%.owl: set-%.owl linked-%.owl
+
+# we do not include omia in set-1, as it's xrefs are potentially problematic
+#OTHERS_TO_MERGE := $(OMIA_OBO)
+OTHERS_TO_MERGE := 
+lmerged-%.owl: set-%.owl linked-%.owl $(OTHERS_TO_MERGE)
 	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL) --set-ontology-id $(OBO)/mondo/$@ -o $@
 .PRECIOUS: lmerged-%.owl
 
