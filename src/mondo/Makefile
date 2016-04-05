@@ -12,6 +12,7 @@ DOID_OBO=../doid/doid.obo
 MESH_TRIM=../medic/mesh-final.obo
 DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
 NCIT_OBO=../ncit/ncit_disease.obo
+GARD_OBO=../gard/gard.obo
 
 ## --
 ## INITIAL INPUTS: ONTOLOGY
@@ -24,7 +25,8 @@ NCIT_OBO=../ncit/ncit_disease.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
+# EXPERIMENTAL: gard
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(GARD_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@
 
 set-%.owl: set-%.obo
@@ -35,11 +37,11 @@ set-%.owl: set-%.obo
 ## --
 # translate xrefs to estimates of prior probabilities of equivalence
 set-%-ptable.tsv: set-%.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim xref_ptable/6 -consult probmatch.pro -no_pred > $@.tmp && mv $@.tmp $@
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  xref_ptable/6 -consult probmatch.pro -no_pred > $@.tmp && mv $@.tmp $@
 .PRECIOUS: set-%-ptable.tsv
 
 set-%-ptable-debug.tsv: set-%.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@
 
 ## --
 ## kBOOM - MERGE ONTOLOGIES

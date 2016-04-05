@@ -358,6 +358,10 @@ ptable(A,B,P1,P2,P3,P0) :-
         P3 is TotalEquiv / Sum,
         P0 is TotalNull / Sum.
 
+% ----------------------------------------
+% MAIN CALL
+% ----------------------------------------
+
 
 %% xref_ptable(?A,?B,?P1,?P2,?P3,?P0)
 %
@@ -370,7 +374,11 @@ xref_ptable(A,B,P1,P2,P3,P0) :-
 
 entity_xrefS(A,B) :- entity_xrefN(A,B), A@<B.
 entity_xrefS(A,B) :- entity_xrefN(B,A), A@<B.
-entity_xrefN(A,B) :- entity_xref(A,B),class(A),class(B).
+
+% we restict to named classes; this prevents:
+%  - OMIM genes from resurfacing
+%  - obsoletes
+entity_xrefN(A,B) :- entity_xref(A,B),class(A),class(B). 
 
 % A@<B
 normalized_xref(A,B) :-
