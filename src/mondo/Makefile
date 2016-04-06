@@ -25,9 +25,8 @@ GARD_OBO=../gard/gard.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-# EXPERIMENTAL: gard
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(GARD_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
-	owltools $^ --merge-support-ontologies -o -f obo --no-check $@
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
+	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp > $@
 
 set-%.owl: set-%.obo
 	owltools $< -o $@
@@ -203,3 +202,9 @@ isa-%.obo: align-%.tsv
 mesh.obo: ../medic/CTD_diseases.obo
 	perl -npe 's@\s+EXACT\s+@ RELATED @ if m@^synonym@' $< > $@ && add-ontology-tag.pl $@ mesh
 
+## --
+## EXPERIMENTAL
+## --
+
+gene_disease.tsv:
+	golr-fetcher.py -t gene-disease -k -n -m 50000  > $@.tmp && mv $@.tmp $@

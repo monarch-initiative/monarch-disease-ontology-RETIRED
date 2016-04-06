@@ -20,6 +20,9 @@ entity_synonym_scopeI(E,N,inexact) :-
 entity_synonym_scopeI(E,N,inexact) :-
         entity_synonym_scope(E,N,narrow).
 
+%% entity_ngenus_type(E,G,T,Scope)
+%
+% as entity_ngenus_type_1/4, but include type syn (e.g. III->3)
 entity_ngenus_type(E,G,T,Scope) :-
         entity_ngenus_type_1(E,G,T,Scope).
 entity_ngenus_type(E,G,T,Scope) :-
@@ -151,14 +154,24 @@ pair_relationship_scores_typematch(A,B,m(etype,100,0,0,0)) :-
         !.
 
 % Foo-type-N, label/exact/related match
-pair_relationship_scores_typematch(A,B,m(etype,0,0,50,0)) :-
+% note non-exacts can be very
+% unreliable; consider MESH, where MESH:D010013 ! Osteogenesis
+% Imperfecta has "type 1" as a related syn
+pair_relationship_scores_typematch(A,B,m(etype,0,0,20,0)) :-
         entity_ngenus_type(A,G,Type,Sc1),
         not_broad_or_narrow(Sc1),
         entity_ngenus_type(B,G,Type,Sc2),
         not_broad_or_narrow(Sc2),
         !.
+pair_relationship_scores_typematch(A,B,m(etype,0,0,0,500)) :-
+        entity_ngenus_type(A,G,Type1,label),
+        entity_ngenus_type(B,G,Type2,label),
+        atom_number(Type1,Num1),
+        atom_number(Type2,Num2),
+        Num1\=Num2,
+        !.
 
-pair_relationship_scores_typematch(A,B,m(etype,0,25,0,0)) :-
+pair_relationship_scores_typematch(A,B,m(etype,0,15,0,0)) :-
         entity_ngenus_type(A,G,TypeA,Sc1),
         not_broad_or_narrow(Sc1),
         entity_ngenus_type(B,G,TypeB,Sc2),
@@ -179,13 +192,25 @@ pair_relationship_scores_typematch(A,B,m(etype,25,0,0,0)) :-
 %% ========================================
 
 % identical labels
-pair_relationship_scores_lexical(A,B,m(lexical,10,10,30,0)) :-
+pair_relationship_scores_lexical(A,B,m(lexical,5,5,30,0)) :-
         class(A,NA),
         class(B,NB),
         downcase_atom(NA,X),
         downcase_atom(NB,X),
         !.
-
+% identical labels/exact syns
+pair_relationship_scores_lexical(A,B,m(lexical,5,5,20,0)) :-
+        entity_label_or_exact_synonym(A,NA),
+        entity_label_or_exact_synonym(B,NB),
+        term_nlabel_stemmed(NA,X,false),
+        term_nlabel_stemmed(NB,X,false),
+        !.
+pair_relationship_scores_lexical(A,B,m(lexical,5,5,15,0)) :-
+        entity_label_or_exact_synonym(A,NA),
+        entity_label_or_exact_synonym(B,NB),
+        term_nlabel_stemmed(NA,X,_),
+        term_nlabel_stemmed(NB,X,_),
+        !.
 % A>B if same synonym and B is NARROW
 pair_relationship_scores_lexical(A,B,m(lexical,0,30,0,1)) :-
         entity_nlabel_scope_stemmed(A,N,Scope1,_),
@@ -198,13 +223,7 @@ pair_relationship_scores_lexical(A,B,m(lexical,30,0,0,1)) :-
         label_or_exact(Scope1),
         entity_nlabel_scope_stemmed(B,N,broad,_),
         !.
-% lexical match weighted by scope. S3 (=) is double either < or >
-pair_relationship_scores_lexical(A,B,m(lexical,S1,S1,S3,1)) :-
-        entity_nlabel_scope_stemmed(A,N,SA,St),
-        entity_nlabel_scope_stemmed(B,N,SB,St),
-        scope_pair_score(SA,SB,St,S3),
-        S1 is S3/2,
-        !.
+% substrings
 pair_relationship_scores_lexical(A,B,m(lexical,21,1,2,1)) :-
         entity_label_or_exact_synonym(A,NA),
         entity_label_or_exact_synonym(B,NB),
@@ -214,6 +233,28 @@ pair_relationship_scores_lexical(A,B,m(lexical,1,21,2,1)) :-
         entity_label_or_exact_synonym(A,NA),
         entity_label_or_exact_synonym(B,NB),
         sub_atom(NB,_,_,_,NA),  % NA is a substring of NB, and thus a superclass of NB
+        !.
+% substrings; non-exact syn
+pair_relationship_scores_lexical(A,B,m(lexical,8,1,2,1)) :-
+        entity_label_scope(A,NA,SA),
+        entity_label_scope(B,NB,SB),
+        not_broad_or_narrow(SA),
+        not_broad_or_narrow(SB),
+        sub_atom(NA,_,_,_,NB),  % NB is a substring of NA, and thus a superclass of NA
+        !.
+pair_relationship_scores_lexical(A,B,m(lexical,1,8,2,1)) :-
+        entity_label_scope(A,NA,SA),
+        entity_label_scope(B,NB,SB),
+        not_broad_or_narrow(SA),
+        not_broad_or_narrow(SB),
+        sub_atom(NB,_,_,_,NA),  % NA is a substring of NB, and thus a superclass of NB
+        !.
+% lexical match weighted by scope. S3 (=) is double either < or >
+pair_relationship_scores_lexical(A,B,m(lexical,S1,S1,S3,1)) :-
+        entity_nlabel_scope_stemmed(A,N,SA,St),
+        entity_nlabel_scope_stemmed(B,N,SB,St),
+        scope_pair_score(SA,SB,St,S3),
+        S1 is S3/2,
         !.
 
 % even if no lexical match can be found
@@ -293,6 +334,9 @@ pair_relationship_scores_xref(A,B,m(xref,20,5,5,0)) :-
 %% ========================================
 %% scoring based on ontology structure
 %% ========================================
+pair_relationship_scores_ont(_,B,m(ont,1,95,1,1)) :-
+        id_idspace(B,'OMIA'),  %
+        !.
 pair_relationship_scores_ont(A,B,m(ont,100,0,0,1)) :-
         subset(B,'Orphanet:377794'), % group of disorders
         id_idspace(A,'OMIM'),
