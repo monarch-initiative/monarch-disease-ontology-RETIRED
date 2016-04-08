@@ -171,7 +171,8 @@ pair_relationship_scores_typematch(A,B,m(etype,0,0,0,500)) :-
         Num1\=Num2,
         !.
 
-pair_relationship_scores_typematch(A,B,m(etype,0,15,0,0)) :-
+% this is scored very weakly, as related synonyms can be v misleading
+pair_relationship_scores_typematch(A,B,m(etype,1,2,1,0)) :-
         entity_ngenus_type(A,G,TypeA,Sc1),
         not_broad_or_narrow(Sc1),
         entity_ngenus_type(B,G,TypeB,Sc2),
@@ -179,7 +180,7 @@ pair_relationship_scores_typematch(A,B,m(etype,0,15,0,0)) :-
         is_left_sub_atom_of(TypeA,TypeB),
         !.
 % Foo-type-NX > Foo-type-N, label match
-pair_relationship_scores_typematch(A,B,m(etype,25,0,0,0)) :-
+pair_relationship_scores_typematch(A,B,m(etype,2,1,1,0)) :-
         entity_ngenus_type(A,G,TypeA,Sc1),
         not_broad_or_narrow(Sc1),
         entity_ngenus_type(B,G,TypeB,Sc2),
@@ -234,15 +235,16 @@ pair_relationship_scores_lexical(A,B,m(lexical,1,21,2,1)) :-
         entity_label_or_exact_synonym(B,NB),
         sub_atom(NB,_,_,_,NA),  % NA is a substring of NB, and thus a superclass of NB
         !.
-% substrings; non-exact syn
-pair_relationship_scores_lexical(A,B,m(lexical,8,1,2,1)) :-
+
+% substrings; non-exact syn; weak score as relateds are unreliable
+pair_relationship_scores_lexical(A,B,m(lexical,4,1,2,1)) :-
         entity_label_scope(A,NA,SA),
         entity_label_scope(B,NB,SB),
         not_broad_or_narrow(SA),
         not_broad_or_narrow(SB),
         sub_atom(NA,_,_,_,NB),  % NB is a substring of NA, and thus a superclass of NA
         !.
-pair_relationship_scores_lexical(A,B,m(lexical,1,8,2,1)) :-
+pair_relationship_scores_lexical(A,B,m(lexical,1,4,2,1)) :-
         entity_label_scope(A,NA,SA),
         entity_label_scope(B,NB,SB),
         not_broad_or_narrow(SA),

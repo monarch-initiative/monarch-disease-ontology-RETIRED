@@ -28,6 +28,9 @@ GARD_OBO=../gard/gard.obo
 set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp > $@
 
+foobar:
+	grep -H '^id: http' $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
+
 set-%.owl: set-%.obo
 	owltools $< -o $@
 
@@ -42,6 +45,9 @@ set-%-ptable.tsv: set-%.obo
 set-%-ptable-debug.tsv: set-%.obo
 	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@
 
+set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv 
+	fix-probs.pl $^ > $@.tmp && mv $@.tmp $@
+
 ## --
 ## kBOOM - MERGE ONTOLOGIES
 ## --
@@ -50,7 +56,7 @@ set-%-ptable-debug.tsv: set-%.obo
 # MAX_E := 9  -- failing..?
 MAX_E := 7
 
-linked-%.owl: set-%-ptable.tsv set-%.owl
+linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 .PRECIOUS: linked-%.owl
 
@@ -90,6 +96,11 @@ mondoe.obo: mondo.owl
 
 mesh-mega-antislim.obo: mondo_pre.obo
 	blip-findall -i $< -consult checker.pro write_mesh_antislim > $@
+
+## REPORT
+
+unlikely.md: linked-1-rpt.md
+	./unlikely-axiom-report.pl $< | head -200 > $@
 
 ## --
 ## DO
