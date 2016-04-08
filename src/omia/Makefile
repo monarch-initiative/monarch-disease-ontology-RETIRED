@@ -1,7 +1,7 @@
-all: omia.obo
+all: omia.obo omia-generic.obo
 
 mirror-omia.ttl: 
-	wget http://nif-crawler.neuinfo.org/monarch/ttl/omia.ttl -O $@
+	wget http://data.monarchinitiative.org/ttl/omia.ttl -O $@
 .PRECIOUS: omia.ttl
 
 omia.owl: mirror-omia.ttl
@@ -9,7 +9,7 @@ omia.owl: mirror-omia.ttl
 .PRECIOUS: omia.owl
 
 omia.obo: omia.owl
-	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value > $@
+	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value | perl -npe 's@xref: OMIM:@relationship: RO:HOM0000001 OMIM:@' | obo-grep.pl --neg -r 'id: http' - | ./fix-omia-names.pl > $@
 
 omia-generic.obo: omia.obo
 	obo-grep.pl -r 'id: OMIA:\d+\n' $< > $@

@@ -13,7 +13,7 @@ orphanet-orig.owl:
 
 # use OBO tags/vocabulary; keep hierarchy in place
 orphanet-obostyle.obo: orphanet-orig.owl part_of.obo
-	owltools $^ --merge-support-ontologies --rename-entity $(EFO)/definition $(OBO)/IAO_0000115 --rename-entity $(EFO)/alternative_term $(OIO)hasExactSynonym  --add-obo-shorthand-to-properties -o -f obo --no-check $@
+	owltools $^ --merge-support-ontologies --rename-entity $(EFO)/definition $(OBO)/IAO_0000115 --rename-entity $(EFO)/alternative_term $(OIO)hasExactSynonym  --add-obo-shorthand-to-properties -o -f obo --no-check $@.tmp && perl -npe 's@MeSH@MESH@;s@ICD-10@ICD10@' $@.tmp > $@
 
 # phenome subset only, with partonomy turned to subclass
 orphanet-isa.obo: orphanet-obostyle.obo orphanet-subsets.pro
@@ -21,3 +21,12 @@ orphanet-isa.obo: orphanet-obostyle.obo orphanet-subsets.pro
 
 orphanet-subsets.pro: orphanet-obostyle.obo
 	blip-findall -i $< "class(R,phenome),subclass(X,R),subclassT(ID,X)" -select "metadata_db:entity_partition(ID,X)" -write_prolog > $@
+
+slim.tsv: orphanet-isa.obo
+	blip-findall -i $< -consult ordo_slimmer.pro in_subset/1 -no_pred > $@
+
+orphanet-slim.obo: orphanet-isa.obo slim.tsv
+	owltools $< --extract-ontology-subset -i slim.tsv --set-ontology-id $(OBO)/mondo/$@ -o -f obo --no-check $@
+
+orphanet_xp.obo: orphanet-slim.obo	
+	obol  qobol -i $< -r pato -r DOID -tag orphanet -idspace Orphanet -export obo > $@

@@ -210,8 +210,6 @@ DOID:13543	hyperparathyroidism	OMIA:000508	Hyperparathyroidism	false
 DOID:13543	hyperparathyroidism	OMIA:000508	Hyperparathyroidism	true	
 DOID:13593	eclampsia	OMIA:001331	Eclampsia	false	
 DOID:13593	eclampsia	OMIA:001331	Eclampsia	true	
-DOID:13628	glucose-6-phosphate dehydrogenase deficiency	OMIA:000416	Glucose-6-phosphate dehydrogenase deficiency	false	
-DOID:13628	glucose-6-phosphate dehydrogenase deficiency	OMIA:000416	Glucose-6-phosphate dehydrogenase deficiency	true	
 DOID:13714	anodontia	OMIA:000048	Anodontia	false	
 DOID:13714	anodontia	OMIA:000048	Anodontia	true	
 DOID:13757	excessive tearing	OMIA:001239	Epiphora	false	
@@ -237,8 +235,6 @@ DOID:14452	hypokalemic periodic paralysis	OMIA:000523	Periodic paralysis I	true
 DOID:14503	neuronal ceroid lipofuscinosis	OMIA:000181	Neuronal Ceroid Lipofuscinosis, generic	false	
 DOID:14504	Niemann-Pick disease	OMIA:000724	Niemann-Pick disease	false	
 DOID:14504	Niemann-Pick disease	OMIA:000724	Niemann-Pick disease	true	
-DOID:14504	Niemann-Pick disease	OMIA:000725	Niemann-Pick disease, type C	false	
-DOID:14504	Niemann-Pick disease	OMIA:000725	Niemann-Pick disease, type C	true	
 DOID:14504	Niemann-Pick disease	OMIA:001795	Niemann-Pick disease, type A	false	
 DOID:14504	Niemann-Pick disease	OMIA:001795	Niemann-Pick disease, type A	true	
 DOID:1459	hypothyroidism	OMIA:000536	Hypothyroidism	false	
@@ -342,7 +338,7 @@ DOID:2921	glomerulonephritis	OMIA:000413	Glomerulonephritis	false
 DOID:2921	glomerulonephritis	OMIA:000413	Glomerulonephritis	true	
 DOID:2935	Chediak-Higashi syndrome	OMIA:000185	Chediak-Higashi syndrome	false	
 DOID:2935	Chediak-Higashi syndrome	OMIA:000185	Chediak-Higashi syndrome	true	
-DOID:2975	cystic kidney	OMIA:001257	Renal cysts	true	
+DOID:2975	cystic kidney disease	OMIA:001257	Renal cysts	true	
 DOID:3132	porphyria cutanea tarda	OMIA:001176	Porphyria cutanea tarda	false	
 DOID:3132	porphyria cutanea tarda	OMIA:001176	Porphyria cutanea tarda	true	
 DOID:319	spinal cord disease	OMIA:001162	Myelopathy	false	
@@ -435,7 +431,6 @@ DOID:540	strabismus	OMIA:000949	Strabismus	false
 DOID:540	strabismus	OMIA:000949	Strabismus	true	
 DOID:557	kidney disease	OMIA:000710	Nephropathy	false	
 DOID:557	kidney disease	OMIA:000710	Nephropathy	true	
-DOID:5614	eye disease	OMIA:001964	Eye infection, susceptibility to	false	
 DOID:5805	subvalvular aortic stenosis	OMIA:000052	Aortic stenosis, subvalvular	false	
 DOID:5805	subvalvular aortic stenosis	OMIA:000052	Aortic stenosis, subvalvular	true	
 DOID:585	nephrolithiasis	OMIA:000709	Nephrolithiasis	false	
@@ -708,8 +703,6 @@ OMIA:000411	Glaucoma, generic	DOID:1686	glaucoma	false
 OMIA:000411	Glaucoma, generic	DOID:1686	glaucoma	true	
 OMIA:000413	Glomerulonephritis	DOID:2921	glomerulonephritis	false	
 OMIA:000413	Glomerulonephritis	DOID:2921	glomerulonephritis	true	
-OMIA:000416	Glucose-6-phosphate dehydrogenase deficiency	DOID:13628	glucose-6-phosphate dehydrogenase deficiency	false	
-OMIA:000416	Glucose-6-phosphate dehydrogenase deficiency	DOID:13628	glucose-6-phosphate dehydrogenase deficiency	true	
 OMIA:000416	Glucose-6-phosphate dehydrogenase deficiency	DOID:2862	glucosephosphate dehydrogenase deficiency	false	
 OMIA:000416	Glucose-6-phosphate dehydrogenase deficiency	DOID:2862	glucosephosphate dehydrogenase deficiency	true	
 OMIA:000419	Glycogen storage disease II	DOID:2752	glycogen storage disease II	false	
@@ -859,8 +852,6 @@ OMIA:000716	Neurofibromatosis	DOID:8712	neurofibromatosis	false
 OMIA:000716	Neurofibromatosis	DOID:8712	neurofibromatosis	true	
 OMIA:000724	Niemann-Pick disease	DOID:14504	Niemann-Pick disease	false	
 OMIA:000724	Niemann-Pick disease	DOID:14504	Niemann-Pick disease	true	
-OMIA:000725	Niemann-Pick disease, type C	DOID:14504	Niemann-Pick disease	false	
-OMIA:000725	Niemann-Pick disease, type C	DOID:14504	Niemann-Pick disease	true	
 OMIA:000731	Nystagmus, congenital	DOID:9649	congenital nystagmus	false	
 OMIA:000731	Nystagmus, congenital	DOID:9649	congenital nystagmus	true	
 OMIA:000740	Olivopontocerebellar atrophy	DOID:14784	olivopontocerebellar atrophy	false	
@@ -1032,7 +1023,7 @@ OMIA:001243	Alkaptonuria	DOID:9270	alkaptonuria	false
 OMIA:001243	Alkaptonuria	DOID:9270	alkaptonuria	true	
 OMIA:001248	Mucolipidosis II	DOID:0080070	inclusion-cell disease	false	
 OMIA:001248	Mucolipidosis II	DOID:0080070	inclusion-cell disease	true	
-OMIA:001257	Renal cysts	DOID:2975	cystic kidney	true	
+OMIA:001257	Renal cysts	DOID:2975	cystic kidney disease	true	
 OMIA:001258	Obesity	DOID:9970	obesity	false	
 OMIA:001258	Obesity	DOID:9970	obesity	true	
 OMIA:001266	Otitis media, susceptibility to	DOID:10754	otitis media	false	
@@ -1155,4 +1146,3 @@ OMIA:001930	Pneumonia, aspiration	DOID:0050152	aspiration pneumonia	false
 OMIA:001930	Pneumonia, aspiration	DOID:0050152	aspiration pneumonia	true	
 OMIA:001963	Schwannomatosis	DOID:3204	neurilemmomatosis	false	
 OMIA:001963	Schwannomatosis	DOID:3204	neurilemmomatosis	true	
-OMIA:001964	Eye infection, susceptibility to	DOID:5614	eye disease	false	
