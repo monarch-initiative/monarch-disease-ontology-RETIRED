@@ -1,6 +1,19 @@
 ontology: mondo/xlinks-curated
 
 [Term]
+id: OMIM:106100 ! Hereditary angioedema type 1
+comment: OMIM:106100 bundles types I and II
+equivalent_to: MESH:D056829 ! Hereditary Angioedema Types I and II
+
+[Term]
+id: Orphanet:100050 ! Hereditary angioedema type 1
+is_a: MESH:D056829 ! Hereditary Angioedema Types I and II
+
+[Term]
+id: Orphanet:100051 ! Hereditary angioedema type 2
+is_a: MESH:D056829 ! Hereditary Angioedema Types I and II
+
+[Term]
 id: Orphanet:2828 ! Young-onset Parkinson disease
 is_a: DOID:14330 ! Parkinson's disease
 
