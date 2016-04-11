@@ -1,0 +1,7427 @@
+ontology: mondo/doid-to-ncit
+
+[Term]
+id: DOID:4644 ! epidermolysis bullosa simplex
+xref: NCIT:C84692 ! epidermolysis bullosa simplex
+
+[Term]
+id: DOID:13033 ! balanitis
+xref: NCIT:C26705 ! balanitis
+
+[Term]
+id: DOID:10488 ! imperforate anus
+xref: NCIT:C84784 ! imperforate anus
+
+[Term]
+id: DOID:11266 ! hemorrhagic fever with renal syndrome
+xref: NCIT:C84753 ! hemorrhagic fever with renal syndrome
+
+[Term]
+id: DOID:1811 ! reflex sympathetic dystrophy
+xref: NCIT:C85042 ! complex regional pain syndrome i
+
+[Term]
+id: DOID:0050737 ! autosomal recessive disease
+xref: NCIT:C85866 ! autosomal recessive disorder
+
+[Term]
+id: DOID:9746 ! hemorrhoid
+xref: NCIT:C26792 ! hemorrhoid
+
+[Term]
+id: DOID:8408 ! Meckel's diverticulitis
+xref: NCIT:C27300 ! meckel diverticulitis
+
+[Term]
+id: DOID:8681 ! paraneoplastic polyneuropathy
+xref: NCIT:C3981 ! paraneoplastic polyneuropathy
+
+[Term]
+id: DOID:0080043 ! achondrogenesis
+xref: NCIT:C84527 ! achondrogenesis
+
+[Term]
+id: DOID:8252 ! chronic rhinitis
+xref: NCIT:C34479 ! chronic rhinitis
+
+[Term]
+id: DOID:5948 ! angiokeratoma of mibelli
+xref: NCIT:C3927 ! angiokeratoma of mibelli
+
+[Term]
+id: DOID:9268 ! glycine encephalopathy
+xref: NCIT:C84937 ! glycine encephalopathy
+
+[Term]
+id: DOID:0060072 ! benign neoplasm
+xref: NCIT:C3677 ! benign neoplasm
+
+[Term]
+id: DOID:5998 ! microglandular adenosis
+xref: NCIT:C3484 ! breast adenosis
+
+[Term]
+id: DOID:1679 ! cystitis
+xref: NCIT:C26738 ! cystitis
+
+[Term]
+id: DOID:5510 ! pineal dysgerminoma
+xref: NCIT:C7169 ! pineal region dysgerminoma
+
+[Term]
+id: DOID:2565 ! macular corneal dystrophy
+xref: NCIT:C34793 ! macular corneal dystrophy
+
+[Term]
+id: DOID:0050453 ! lissencephaly
+xref: NCIT:C103921 ! lissencephaly
+
+[Term]
+id: DOID:437 ! myasthenia gravis
+xref: NCIT:C60989 ! myasthenia gravis
+
+[Term]
+id: DOID:643 ! progressive multifocal leukoencephalopathy
+xref: NCIT:C26815 ! progressive multifocal leukoencephalopathy
+
+[Term]
+id: DOID:519 ! aortitis
+xref: NCIT:C97085 ! aortitis
+
+[Term]
+id: DOID:0050854 ! Muckle-Wells syndrome
+xref: NCIT:C119054 ! muckle-wells syndrome
+
+[Term]
+id: DOID:10970 ! spastic quadriplegia
+xref: NCIT:C116904 ! spastic quadriplegia
+
+[Term]
+id: DOID:1338 ! congenital dyserythropoietic anemia
+xref: NCIT:C84646 ! congenital dyserythropoietic anemia
+
+[Term]
+id: DOID:5224 ! acute hemorrhagic encephalitis
+xref: NCIT:C35796 ! acute hemorrhagic encephalitis
+
+[Term]
+id: DOID:9245 ! Alagille syndrome
+xref: NCIT:C35139 ! alagille syndrome
+
+[Term]
+id: DOID:4483 ! rhinitis
+xref: NCIT:C34986 ! rhinitis
+
+[Term]
+id: DOID:0050698 ! funisitis
+xref: NCIT:C97077 ! funisitis
+
+[Term]
+id: DOID:10930 ! borderline personality disorder
+xref: NCIT:C92633 ! borderline personality disorder
+
+[Term]
+id: DOID:3803 ! Crigler-Najjar syndrome
+xref: NCIT:C84656 ! crigler-najjar syndrome
+
+[Term]
+id: DOID:856 ! biotinidase deficiency
+xref: NCIT:C84598 ! biotinidase deficiency
+
+[Term]
+id: DOID:0050710 ! 3-Methylcrotonyl-CoA carboxylase deficiency
+xref: NCIT:C98674 ! methylcrotonyl-coa carboxylase deficiency
+
+[Term]
+id: DOID:10609 ! rickets
+xref: NCIT:C26878 ! rickets
+
+[Term]
+id: DOID:3762 ! cytochrome-c oxidase deficiency disease
+xref: NCIT:C98910 ! cytochrome-c oxidase deficiency
+
+[Term]
+id: DOID:13036 ! tick-borne relapsing fever
+xref: NCIT:C34976 ! tick-born relapsing fever
+
+[Term]
+id: DOID:3817 ! cranial nerve palsy
+xref: NCIT:C26941 ! cranial nerve palsy
+
+[Term]
+id: DOID:13147 ! fungal esophagitis
+xref: NCIT:C27107 ! fungal esophagitis
+
+[Term]
+id: DOID:10952 ! nephritis
+xref: NCIT:C26833 ! nephritis
+
+[Term]
+id: DOID:11243 ! anemia of prematurity
+xref: NCIT:C97167 ! anemia of prematurity
+
+[Term]
+id: DOID:12205 ! dengue disease
+xref: NCIT:C34528 ! dengue fever
+
+[Term]
+id: DOID:0060410 ! chromosome 1p36 deletion syndrome
+xref: NCIT:C74983 ! 1p36 deletion syndrome
+
+[Term]
+id: DOID:11503 ! diabetic autonomic neuropathy
+xref: NCIT:C27068 ! diabetic autonomic neuropathy
+
+[Term]
+id: DOID:626 ! complement deficiency
+xref: NCIT:C4691 ! complement deficiency
+
+[Term]
+id: DOID:13088 ! periventricular leukomalacia
+xref: NCIT:C99013 ! periventricular leukomalacia
+
+[Term]
+id: DOID:9565 ! dextrocardia
+xref: NCIT:C84669 ! dextrocardia
+
+[Term]
+id: DOID:8892 ! pityriasis rosea
+xref: NCIT:C26855 ! pityriasis rosea
+
+[Term]
+id: DOID:4271 ! microsporidiosis
+xref: NCIT:C84891 ! microsporidiosis
+
+[Term]
+id: DOID:10140 ! dry eye syndrome
+xref: NCIT:C34553 ! dry eye syndrome
+
+[Term]
+id: DOID:14464 ! neuroleptic malignant syndrome
+xref: NCIT:C94829 ! neuroleptic malignant syndrome
+
+[Term]
+id: DOID:10371 ! yaws
+xref: NCIT:C41353 ! yaws
+
+[Term]
+id: DOID:8924 ! autoimmune thrombocytopenic purpura
+xref: NCIT:C3446 ! idiopathic thrombocytopenic purpura
+
+[Term]
+id: DOID:585 ! nephrolithiasis
+xref: NCIT:C114667 ! nephrolithiasis
+
+[Term]
+id: DOID:83 ! cataract
+xref: NCIT:C26713 ! cataract
+
+[Term]
+id: DOID:11164 ! band keratopathy
+xref: NCIT:C118765 ! band keratopathy
+
+[Term]
+id: DOID:10603 ! glucose intolerance
+xref: NCIT:C34646 ! glucose intolerance
+
+[Term]
+id: DOID:3463 ! breast disease
+xref: NCIT:C26709 ! breast disorder
+
+[Term]
+id: DOID:12449 ! aplastic anemia
+xref: NCIT:C2870 ! aplastic anemia
+
+[Term]
+id: DOID:9317 ! lymphangitis
+xref: NCIT:C34790 ! lymphangitis
+
+[Term]
+id: DOID:4447 ! cystoid macular edema
+xref: NCIT:C34794 ! cystoid macular edema
+
+[Term]
+id: DOID:9088 ! parapsoriasis
+xref: NCIT:C3312 ! parapsoriasis
+
+[Term]
+id: DOID:3320 ! Tay-Sachs disease
+xref: NCIT:C85184 ! tay-sachs disease
+
+[Term]
+id: DOID:7475 ! diverticulitis
+xref: NCIT:C26752 ! diverticulitis
+
+[Term]
+id: DOID:14118 ! familial lipoprotein lipase deficiency
+xref: NCIT:C84771 ! hyperlipoproteinemia type i
+
+[Term]
+id: DOID:0050427 ! xeroderma pigmentosum
+xref: NCIT:C3452 ! xeroderma pigmentosum
+
+[Term]
+id: DOID:13407 ! hypercalcemic sarcoidosis
+xref: NCIT:C35807 ! hypercalcemic sarcoidosis
+
+[Term]
+id: DOID:0060192 ! Crohn's colitis
+xref: NCIT:C35211 ! crohn colitis
+
+[Term]
+id: DOID:0060182 ! microscopic colitis
+xref: NCIT:C38504 ! microscopic colitis
+
+[Term]
+id: DOID:950 ! dacryoadenitis
+xref: NCIT:C26971 ! dacryoadenitis
+
+[Term]
+id: DOID:48 ! male reproductive system disease
+xref: NCIT:C27019 ! male reproductive system disorder
+
+[Term]
+id: DOID:602 ! cancerophobia
+xref: NCIT:C35492 ! cancerphobia
+
+[Term]
+id: DOID:8781 ! rubella
+xref: NCIT:C85051 ! rubella infection
+
+[Term]
+id: DOID:9682 ! yellow fever
+xref: NCIT:C35547 ! yellow fever virus infection
+
+[Term]
+id: DOID:1003 ! pelvic inflammatory disease
+xref: NCIT:C3889 ! pelvic inflammatory disease
+
+[Term]
+id: DOID:10030 ! interstitial emphysema
+xref: NCIT:C34571 ! interstitial emphysema
+
+[Term]
+id: DOID:8483 ! retinal artery occlusion
+xref: NCIT:C34978 ! retinal artery occlusion
+
+[Term]
+id: DOID:2828 ! acalculous cholecystitis
+xref: NCIT:C35578 ! acalculous cholecystitis
+xref: NCIT:C35579 ! acute acalculous cholecystitis
+
+[Term]
+id: DOID:1727 ! retinal vein occlusion
+xref: NCIT:C34981 ! retinal vein occlusion
+
+[Term]
+id: DOID:14705 ! Pfeiffer syndrome
+xref: NCIT:C99100 ! type v acrocephalosyndactyly
+
+[Term]
+id: DOID:3649 ! pyruvate decarboxylase deficiency
+xref: NCIT:C103968 ! pyruvate dehydrogenase deficiency
+
+[Term]
+id: DOID:12351 ! alcoholic hepatitis
+xref: NCIT:C34352 ! acute alcoholic hepatitis
+xref: NCIT:C34684 ! alcoholic hepatitis
+
+[Term]
+id: DOID:14264 ! benign neonatal seizures
+xref: NCIT:C117307 ! benign familial convulsion
+
+[Term]
+id: DOID:11257 ! social phobia
+xref: NCIT:C34927 ! social anxiety disorder
+
+[Term]
+id: DOID:0060464 ! Feingold syndrome
+xref: NCIT:C74987 ! feingold syndrome
+
+[Term]
+id: DOID:5585 ! Ferguson-Smith tumor
+xref: NCIT:C4461 ! multiple self healing epithelioma of ferguson-smith
+
+[Term]
+id: DOID:11042 ! Felty's syndrome
+xref: NCIT:C84712 ! felty syndrome
+
+[Term]
+id: DOID:9905 ! follicular mucinosis
+xref: NCIT:C82859 ! alopecia mucinosa
+
+[Term]
+id: DOID:8538 ! reticulosarcoma
+xref: NCIT:C27824 ! reticulosarcoma
+xref: NCIT:C35382 ! true histiocytic lymphoma
+
+[Term]
+id: DOID:2768 ! transient tic disorder
+xref: NCIT:C116767 ! transient tic disorder
+
+[Term]
+id: DOID:12568 ! dyscalculia
+xref: NCIT:C97165 ! dyscalculia
+
+[Term]
+id: DOID:0050887 ! Townes-Brocks syndrome
+xref: NCIT:C99085 ! townes-brocks syndrome
+
+[Term]
+id: DOID:0080073 ! spina bifida occulta
+xref: NCIT:C101044 ! spina bifida occulta
+
+[Term]
+id: DOID:1757 ! facial hemiatrophy
+xref: NCIT:C116916 ! progressive hemifacial atrophy
+
+[Term]
+id: DOID:1229 ! paranoid schizophrenia
+xref: NCIT:C35006 ! paranoid type schizophrenia
+
+[Term]
+id: DOID:2835 ! polycythemia due to hypoxia
+xref: NCIT:C27312 ! polycythemia due to hypoxia
+
+[Term]
+id: DOID:3240 ! aspiration pneumonitis
+xref: NCIT:C34932 ! aspiration pneumonitis
+xref: NCIT:C35316 ! chemical pneumonitis
+
+[Term]
+id: DOID:11507 ! rumination disorder
+xref: NCIT:C92567 ! rumination disorder
+
+[Term]
+id: DOID:2297 ! leptospirosis
+xref: NCIT:C84825 ! leptospirosis
+
+[Term]
+id: DOID:11725 ! Cornelia de Lange syndrome
+xref: NCIT:C75016 ! cornelia de lange syndrome
+
+[Term]
+id: DOID:2920 ! membranoproliferative glomerulonephritis
+xref: NCIT:C34644 ! membranoproliferative glomerulonephritis
+
+[Term]
+id: DOID:3209 ! junctional epidermolysis bullosa
+xref: NCIT:C90598 ! junctional epidermolysis bullosa
+
+[Term]
+id: DOID:13521 ! tetanus neonatorum
+xref: NCIT:C116814 ! tetanus neonatorum
+
+[Term]
+id: DOID:3951 ! acute myocarditis
+xref: NCIT:C35206 ! acute myocarditis
+
+[Term]
+id: DOID:724 ! female stress incontinence
+xref: NCIT:C35042 ! female stress incontinence
+
+[Term]
+id: DOID:0050328 ! congenital hypothyroidism
+xref: NCIT:C26734 ! congenital hypothyroidism
+
+[Term]
+id: DOID:374 ! nutrition disease
+xref: NCIT:C26836 ! nutritional disorder
+
+[Term]
+id: DOID:1278 ! tolosa-hunt syndrome
+xref: NCIT:C85193 ! tolosa-hunt syndrome
+
+[Term]
+id: DOID:11184 ! acute conjunctivitis
+xref: NCIT:C35195 ! acute conjunctivitis
+
+[Term]
+id: DOID:1930 ! Laurence-Moon syndrome
+xref: NCIT:C34760 ! laurence-moon syndrome
+
+[Term]
+id: DOID:9248 ! Pallister-Hall syndrome
+xref: NCIT:C84987 ! pallister-hall syndrome
+
+[Term]
+id: DOID:9182 ! pemphigus
+xref: NCIT:C34909 ! pemphigus
+
+[Term]
+id: DOID:0060254 ! Robinow syndrome
+xref: NCIT:C85048 ! robinow syndrome
+
+[Term]
+id: DOID:2733 ! skin atrophy
+xref: NCIT:C35163 ! skin atrophy
+
+[Term]
+id: DOID:9766 ! xanthogranulomatous cholecystitis
+xref: NCIT:C35792 ! xanthogranulomatous cholecystitis
+
+[Term]
+id: DOID:5854 ! silent myocardial infarction
+xref: NCIT:C35400 ! silent myocardial infarction
+
+[Term]
+id: DOID:13316 ! exocrine pancreatic insufficiency
+xref: NCIT:C84316 ! pancreatic insufficiency
+
+[Term]
+id: DOID:2452 ! thrombophilia
+xref: NCIT:C84479 ! thrombophilia
+
+[Term]
+id: DOID:13300 ! Scheuermann's disease
+xref: NCIT:C34999 ! juvenile osteochondrosis of spine
+
+[Term]
+id: DOID:12556 ! acute kidney tubular necrosis
+xref: NCIT:C34749 ! acute tubular necrosis
+
+[Term]
+id: DOID:863 ! nervous system disease
+xref: NCIT:C26835 ! nervous system disorder
+
+[Term]
+id: DOID:0050661 ! vitelliform macular dystrophy
+xref: NCIT:C118788 ! vitelliform macular dystrophy
+
+[Term]
+id: DOID:3764 ! Denys-Drash syndrome
+xref: NCIT:C84668 ! denys-drash syndrome
+
+[Term]
+id: DOID:1686 ! glaucoma
+xref: NCIT:C26782 ! glaucoma
+
+[Term]
+id: DOID:12287 ! Crimean-Congo hemorrhagic fever
+xref: NCIT:C34682 ! congo-crimean hemorrhagic fever
+
+[Term]
+id: DOID:13207 ! proliferative diabetic retinopathy
+xref: NCIT:C84457 ! proliferative diabetic retinopathy
+
+[Term]
+id: DOID:7188 ! autoimmune thyroiditis
+xref: NCIT:C27191 ! hashimoto thyroiditis
+xref: NCIT:C38766 ! lymphocytic thyroiditis
+
+[Term]
+id: DOID:600 ! animal phobia
+xref: NCIT:C35273 ! animal phobia
+
+[Term]
+id: DOID:12801 ! mucopolysaccharidosis III
+xref: NCIT:C61262 ! sanfilippo syndrome
+xref: NCIT:C84897 ! mucopolysaccharidosis type iiia
+xref: NCIT:C84898 ! mucopolysaccharidosis type iiib
+
+[Term]
+id: DOID:9667 ! placental abruption
+xref: NCIT:C26685 ! placental abruption
+
+[Term]
+id: DOID:4257 ! Caffey disease
+xref: NCIT:C118423 ! infantile cortical hyperostosis
+xref: NCIT:C84645 ! congenital cortical hyperostosis
+
+[Term]
+id: DOID:7235 ! pancreatic mucinous cystadenoma
+xref: NCIT:C5718 ! pancreatic mucinous cystadenoma
+
+[Term]
+id: DOID:3211 ! lysosomal storage disease
+xref: NCIT:C61250 ! lysosomal storage disease
+
+[Term]
+id: DOID:594 ! panic disorder
+xref: NCIT:C34890 ! panic disorder
+
+[Term]
+id: DOID:5222 ! acute necrotizing encephalitis
+xref: NCIT:C35383 ! acute necrotizing encephalitis
+
+[Term]
+id: DOID:14064 ! acute poststreptococcal glomerulonephritis
+xref: NCIT:C35443 ! post-streptococcal glomerulonephritis
+
+[Term]
+id: DOID:3388 ! periodontal disease
+xref: NCIT:C63743 ! periodontal disorder
+
+[Term]
+id: DOID:0060485 ! Mowat-Wilson syndrome
+xref: NCIT:C74999 ! mowat-wilson syndrome
+
+[Term]
+id: DOID:3529 ! central core myopathy
+xref: NCIT:C83010 ! central core disease
+
+[Term]
+id: DOID:12139 ! dysthymic disorder
+xref: NCIT:C34562 ! dysthymic disorder
+
+[Term]
+id: DOID:10573 ! osteomalacia
+xref: NCIT:C26838 ! osteomalacia
+
+[Term]
+id: DOID:13533 ! osteopetrosis
+xref: NCIT:C26840 ! osteopetrosis
+
+[Term]
+id: DOID:14495 ! dumping syndrome
+xref: NCIT:C2994 ! dumping syndrome
+
+[Term]
+id: DOID:2217 ! Bernard-Soulier syndrome
+xref: NCIT:C84595 ! bernard-soulier syndrome
+
+[Term]
+id: DOID:12935 ! alcoholic cardiomyopathy
+xref: NCIT:C53653 ! alcoholic cardiomyopathy
+
+[Term]
+id: DOID:0050211 ! swine influenza
+xref: NCIT:C80444 ! h1n1 influenza
+
+[Term]
+id: DOID:8704 ! genital herpes
+xref: NCIT:C14364 ! genital herpes
+
+[Term]
+id: DOID:0060180 ! colitis
+xref: NCIT:C26723 ! colitis
+
+[Term]
+id: DOID:1702 ! ichthyosis vulgaris
+xref: NCIT:C84778 ! ichthyosis vulgaris
+
+[Term]
+id: DOID:1925 ! Coffin-Siris syndrome
+xref: NCIT:C35321 ! coffin-siris syndrome
+
+[Term]
+id: DOID:1921 ! Klinefelter's syndrome
+xref: NCIT:C113347 ! hypogonadotropic hypogonadism
+xref: NCIT:C34752 ! klinefelter syndrome
+
+[Term]
+id: DOID:12918 ! thromboangiitis obliterans
+xref: NCIT:C35070 ! buerger disease
+
+[Term]
+id: DOID:0050632 ! oculocutaneous albinism
+xref: NCIT:C84941 ! oculocutaneous albinism
+
+[Term]
+id: DOID:5893 ! childhood malignant mesenchymoma
+xref: NCIT:C8097 ! childhood malignant mesenchymoma
+
+[Term]
+id: DOID:864 ! phlebitis
+xref: NCIT:C38003 ! phlebitis
+
+[Term]
+id: DOID:5732 ! pyosalpinx
+xref: NCIT:C34968 ! pyosalpinx
+
+[Term]
+id: DOID:3429 ! inclusion body myositis
+xref: NCIT:C84786 ! inclusion body myositis
+
+[Term]
+id: DOID:8683 ! myeloid sarcoma
+xref: NCIT:C8613 ! myeloid sarcoma in remission
+
+[Term]
+id: DOID:2450 ! central retinal vein occlusion
+xref: NCIT:C118859 ! central retinal vein occlusion
+
+[Term]
+id: DOID:6713 ! cerebrovascular disease
+xref: NCIT:C2938 ! cerebrovascular disorder
+xref: NCIT:C3390 ! cerebrovascular accident
+
+[Term]
+id: DOID:0080031 ! fibrous dysplasia
+xref: NCIT:C34609 ! fibrous dysplasia
+
+[Term]
+id: DOID:7998 ! hyperthyroidism
+xref: NCIT:C3123 ! hyperthyroidism
+
+[Term]
+id: DOID:0050587 ! trichotillomania
+xref: NCIT:C94336 ! trichotillomania
+
+[Term]
+id: DOID:9008 ! psoriatic arthritis
+xref: NCIT:C61277 ! psoriatic arthritis
+
+[Term]
+id: DOID:674 ! cleft palate
+xref: NCIT:C87069 ! cleft palate
+
+[Term]
+id: DOID:865 ! vasculitis
+xref: NCIT:C26912 ! vasculitis
+
+[Term]
+id: DOID:11836 ! clubfoot
+xref: NCIT:C84641 ! clubfoot
+
+[Term]
+id: DOID:3491 ! Turner syndrome
+xref: NCIT:C26900 ! turner syndrome
+xref: NCIT:C34434 ! bonnevie-ullrich syndrome
+xref: NCIT:C85210 ! xo syndrome
+
+[Term]
+id: DOID:9976 ! heroin dependence
+xref: NCIT:C34694 ! heroin dependence
+
+[Term]
+id: DOID:0060165 ! Kleine-Levin syndrome
+xref: NCIT:C84800 ! kleine-levin syndrome
+
+[Term]
+id: DOID:9065 ! leishmaniasis
+xref: NCIT:C34767 ! leishmaniasis
+
+[Term]
+id: DOID:1724 ! duodenal ulcer
+xref: NCIT:C26755 ! duodenal ulcer
+xref: NCIT:C35263 ! stress ulcer
+
+[Term]
+id: DOID:14262 ! oral candidiasis
+xref: NCIT:C28137 ! oral candidiasis
+
+[Term]
+id: DOID:13548 ! secondary Parkinson disease
+xref: NCIT:C34899 ! secondary parkinsonism
+
+[Term]
+id: DOID:3522 ! lateral medullary syndrome
+xref: NCIT:C84807 ! lateral medullary syndrome
+
+[Term]
+id: DOID:14351 ! Riedel's fibrosing thyroiditis
+xref: NCIT:C35827 ! riedel fibrosing thyroiditis
+
+[Term]
+id: DOID:0050545 ! visceral heterotaxy
+xref: NCIT:C117273 ! heterotaxy syndrome
+xref: NCIT:C87121 ! situs inversus
+
+[Term]
+id: DOID:10443 ! hypopyon
+xref: NCIT:C50593 ! hypopyon
+
+[Term]
+id: DOID:11100 ! Q fever
+xref: NCIT:C34970 ! q fever
+
+[Term]
+id: DOID:0050439 ! Usher syndrome
+xref: NCIT:C85217 ! usher syndrome
+
+[Term]
+id: DOID:8712 ! neurofibromatosis
+xref: NCIT:C6727 ! neurofibromatosis
+
+[Term]
+id: DOID:6332 ! adult malignant hemangiopericytoma
+xref: NCIT:C7946 ! malignant adult hemangiopericytoma
+
+[Term]
+id: DOID:1932 ! Angelman syndrome
+xref: NCIT:C75462 ! angelman syndrome
+
+[Term]
+id: DOID:2485 ! phosphorus metabolism disease
+xref: NCIT:C97095 ! phosphorus metabolic disorder
+
+[Term]
+id: DOID:12714 ! Ellis-Van Creveld syndrome
+xref: NCIT:C84684 ! ellis-van creveld syndrome
+
+[Term]
+id: DOID:6873 ! skin tag
+xref: NCIT:C3337 ! fibroepithelial polyp
+xref: NCIT:C3374 ! skin tag
+
+[Term]
+id: DOID:11991 ! osteopoikilosis
+xref: NCIT:C84985 ! osteopoikilosis
+
+[Term]
+id: DOID:913 ! atrophic muscular disease
+xref: NCIT:C84574 ! atrophic muscular disorder
+
+[Term]
+id: DOID:361 ! cervix endometriosis
+xref: NCIT:C27623 ! cervical endometriosis
+
+[Term]
+id: DOID:0050467 ! erythrokeratodermia variabilis
+xref: NCIT:C84696 ! erythrokeratodermia variabilis
+
+[Term]
+id: DOID:3756 ! protein C deficiency
+xref: NCIT:C99025 ! protein c deficiency disease
+
+[Term]
+id: DOID:13626 ! photokeratitis
+xref: NCIT:C118750 ! photokeratitis
+
+[Term]
+id: DOID:891 ! progressive myoclonus epilepsy
+xref: NCIT:C7636 ! progressive myoclonus epilepsy
+
+[Term]
+id: DOID:869 ! cholesteatoma
+xref: NCIT:C2944 ! cholesteatoma
+
+[Term]
+id: DOID:2392 ! glandular cystitis
+xref: NCIT:C39860 ! cystitis glandularis
+
+[Term]
+id: DOID:11044 ! gastroschisis
+xref: NCIT:C84725 ! gastroschisis
+
+[Term]
+id: DOID:5379 ! hemoglobin E disease
+xref: NCIT:C35287 ! hemoglobin e disease
+
+[Term]
+id: DOID:9423 ! blepharitis
+xref: NCIT:C112183 ! blepharitis
+
+[Term]
+id: DOID:5999 ! apocrine adenosis of breast
+xref: NCIT:C5198 ! breast apocrine adenosis
+
+[Term]
+id: DOID:11824 ! multicentric reticulohistiocytosis
+xref: NCIT:C27896 ! multicentric reticulohistiocytosis
+
+[Term]
+id: DOID:9821 ! choroideremia
+xref: NCIT:C34469 ! choroideremia
+
+[Term]
+id: DOID:8481 ! rheumatic myocarditis
+xref: NCIT:C35202 ! acute rheumatic myocarditis
+
+[Term]
+id: DOID:10834 ! voyeurism
+xref: NCIT:C94360 ! voyeurism
+
+[Term]
+id: DOID:8255 ! vulva fibroepithelial polyp
+xref: NCIT:C6857 ! vulvar fibroepithelial polyp
+
+[Term]
+id: DOID:2801 ! nonspecific interstitial pneumonia
+xref: NCIT:C35717 ! nonspecific interstitial pneumonia
+
+[Term]
+id: DOID:10027 ! tabes dorsalis
+xref: NCIT:C35057 ! tabes dorsalis
+
+[Term]
+id: DOID:0060407 ! chromosome 18q deletion syndrome
+xref: NCIT:C84522 ! deletion 18q syndrome
+
+[Term]
+id: DOID:3850 ! hemangiopericytic tumor
+xref: NCIT:C7076 ! hemangiopericytic neoplasm
+
+[Term]
+id: DOID:13133 ! HELLP syndrome
+xref: NCIT:C84750 ! hellp syndrome
+
+[Term]
+id: DOID:12156 ! arachnoiditis
+xref: NCIT:C37913 ! arachnoiditis
+
+[Term]
+id: DOID:9598 ! fasciitis
+xref: NCIT:C50559 ! fasciitis
+
+[Term]
+id: DOID:11549 ! Adie syndrome
+xref: NCIT:C34357 ! holmes-adie syndrome
+
+[Term]
+id: DOID:13501 ! Mobius syndrome
+xref: NCIT:C84893 ! mobius syndrome
+
+[Term]
+id: DOID:5337 ! epulis
+xref: NCIT:C3948 ! gingival polyp
+
+[Term]
+id: DOID:13832 ! patent ductus arteriosus
+xref: NCIT:C84492 ! patent ductus arteriosus
+
+[Term]
+id: DOID:5330 ! dental pulp disease
+xref: NCIT:C34530 ! dental pulp disorder
+
+[Term]
+id: DOID:2730 ! epidermolysis bullosa
+xref: NCIT:C67383 ! epidermolysis bullosa
+
+[Term]
+id: DOID:14261 ! fragile X syndrome
+xref: NCIT:C84717 ! fragile x syndrome
+
+[Term]
+id: DOID:9296 ! cleft lip
+xref: NCIT:C87175 ! cleft lip
+
+[Term]
+id: DOID:817 ! interstitial myocarditis
+xref: NCIT:C35786 ! interstitial myocarditis
+
+[Term]
+id: DOID:14330 ! Parkinson's disease
+xref: NCIT:C26845 ! parkinson's disease
+
+[Term]
+id: DOID:6680 ! Capgras syndrome
+xref: NCIT:C34446 ! capgras syndrome
+
+[Term]
+id: DOID:1307 ! dementia
+xref: NCIT:C4786 ! dementia
+
+[Term]
+id: DOID:0060234 ! Carpenter syndrome
+xref: NCIT:C98873 ! type ii acrocephalopolysyndactyly
+
+[Term]
+id: DOID:11721 ! glycogen storage disease VII
+xref: NCIT:C118437 ! glycogen storage disease type vii
+
+[Term]
+id: DOID:9280 ! carbamoyl phosphate synthetase I deficiency disease
+xref: NCIT:C84612 ! carbamoyl-phosphate synthetase i deficiency
+
+[Term]
+id: DOID:5757 ! endocervicitis
+xref: NCIT:C26762 ! endocervicitis
+
+[Term]
+id: DOID:11119 ! Gilles de la Tourette syndrome
+xref: NCIT:C35078 ! tourette syndrome
+
+[Term]
+id: DOID:1393 ! visual pathway disease
+xref: NCIT:C35342 ! visual pathway disorder
+
+[Term]
+id: DOID:9744 ! type 1 diabetes mellitus
+xref: NCIT:C2986 ! type 1 diabetes mellitus
+
+[Term]
+id: DOID:13399 ! color blindness
+xref: NCIT:C3891 ! color blindness
+
+[Term]
+id: DOID:0060224 ! atrial fibrillation
+xref: NCIT:C50466 ! atrial fibrillation
+
+[Term]
+id: DOID:13576 ! twin-to-twin transfusion syndrome
+xref: NCIT:C113824 ! twin-twin transfusion syndrome
+
+[Term]
+id: DOID:303 ! substance-related disorder
+xref: NCIT:C92203 ! substance-related disorder
+
+[Term]
+id: DOID:0050696 ! fetal alcohol spectrum disorder
+xref: NCIT:C92780 ! fetal alcohol spectrum disorder
+
+[Term]
+id: DOID:11502 ! mitral valve insufficiency
+xref: NCIT:C50852 ! mitral valve regurgitation
+xref: NCIT:C50888 ! mitral valve insufficiency
+
+[Term]
+id: DOID:0050456 ! Buruli ulcer disease
+xref: NCIT:C84604 ! buruli ulcer
+
+[Term]
+id: DOID:11983 ! Prader-Willi syndrome
+xref: NCIT:C75463 ! prader-willi syndrome
+
+[Term]
+id: DOID:1428 ! endocrine pancreas disease
+xref: NCIT:C27067 ! endocrine pancreas disorder
+
+[Term]
+id: DOID:6419 ! tetralogy of Fallot
+xref: NCIT:C84505 ! tetralogy of fallot
+
+[Term]
+id: DOID:1176 ! bronchial disease
+xref: NCIT:C34439 ! bronchospasm
+
+[Term]
+id: DOID:8643 ! duodenitis
+xref: NCIT:C94409 ! duodenitis
+
+[Term]
+id: DOID:11719 ! oculopharyngeal muscular dystrophy
+xref: NCIT:C84942 ! oculopharyngeal muscular dystrophy
+
+[Term]
+id: DOID:0050144 ! Kartagener syndrome
+xref: NCIT:C84797 ! kartagener syndrome
+
+[Term]
+id: DOID:178 ! vascular disease
+xref: NCIT:C35117 ! vascular disorder
+
+[Term]
+id: DOID:0050472 ! monilethrix
+xref: NCIT:C84894 ! monilethrix
+
+[Term]
+id: DOID:6590 ! spondylitis
+xref: NCIT:C116779 ! spondylitis
+
+[Term]
+id: DOID:5373 ! retroperitoneal hemangiopericytoma
+xref: NCIT:C5386 ! retroperitoneal hemangiopericytoma
+
+[Term]
+id: DOID:5758 ! malignant mesenchymoma
+xref: NCIT:C4268 ! malignant mesenchymoma
+
+[Term]
+id: DOID:3526 ! cerebral infarction
+xref: NCIT:C50486 ! cerebral infarction
+
+[Term]
+id: DOID:14087 ! epicondylitis
+xref: NCIT:C34589 ! epicondylitis
+xref: NCIT:C35067 ! lateral epicondylitis
+
+[Term]
+id: DOID:10320 ! asbestosis
+xref: NCIT:C84573 ! asbestosis
+
+[Term]
+id: DOID:13137 ! Werdnig-Hoffmann disease
+xref: NCIT:C98670 ! werdnig-hoffmann disease
+
+[Term]
+id: DOID:0060262 ! gallbladder disease
+xref: NCIT:C34631 ! gallbladder disorder
+
+[Term]
+id: DOID:11031 ! bullous keratopathy
+xref: NCIT:C26970 ! bullous keratopathy
+
+[Term]
+id: DOID:8757 ! gastric mucosal hypertrophy
+xref: NCIT:C67277 ! giant hypertrophic gastritis
+
+[Term]
+id: DOID:0050830 ! peripheral artery disease
+xref: NCIT:C84496 ! peripheral arterial disorder
+
+[Term]
+id: DOID:583 ! hemolytic anemia
+xref: NCIT:C34376 ! hemolytic anemia
+
+[Term]
+id: DOID:13402 ! skin sarcoidosis
+xref: NCIT:C34996 ! cutaneous sarcoidosis
+
+[Term]
+id: DOID:14482 ! herpes gestationis
+xref: NCIT:C85003 ! pemphigoid gestationis
+
+[Term]
+id: DOID:93 ! language disorder
+xref: NCIT:C97155 ! language disorder
+
+[Term]
+id: DOID:8886 ! chorioretinitis
+xref: NCIT:C110923 ! chorioretinitis
+
+[Term]
+id: DOID:12129 ! bulimia nervosa
+xref: NCIT:C34440 ! bulimia nervosa
+
+[Term]
+id: DOID:0060217 ! Cogan-Reese syndrome
+xref: NCIT:C84644 ! cogan-reese syndrome
+
+[Term]
+id: DOID:10600 ! chronic tic disorder
+xref: NCIT:C116768 ! chronic tic disorder
+
+[Term]
+id: DOID:4500 ! hypokalemia
+xref: NCIT:C34939 ! potassium deficiency disorder
+
+[Term]
+id: DOID:3132 ! porphyria cutanea tarda
+xref: NCIT:C27725 ! porphyria cutanea tarda
+
+[Term]
+id: DOID:12783 ! migraine without aura
+xref: NCIT:C117004 ! migraine without aura
+
+[Term]
+id: DOID:0060242 ! synpolydactyly
+xref: NCIT:C75003 ! synpolydactyly
+
+[Term]
+id: DOID:1882 ! atrial heart septal defect
+xref: NCIT:C84473 ! atrial septal defect
+
+[Term]
+id: DOID:0050678 ! Blau syndrome
+xref: NCIT:C116794 ! blau syndrome
+
+[Term]
+id: DOID:10790 ! chronic frontal sinusitis
+xref: NCIT:C34473 ! chronic frontal sinusitis
+
+[Term]
+id: DOID:1729 ! retinal vascular occlusion
+xref: NCIT:C34980 ! retinal vascular occlusion
+
+[Term]
+id: DOID:0050440 ! familial partial lipodystrophy
+xref: NCIT:C84708 ! familial partial lipodystrophy
+
+[Term]
+id: DOID:9410 ! panhypopituitarism
+xref: NCIT:C110940 ! panhypopituitarism
+
+[Term]
+id: DOID:4542 ! basophil adenoma
+xref: NCIT:C2856 ! pituitary gland basophil adenoma
+
+[Term]
+id: DOID:2842 ! Jervell-Lange Nielsen syndrome
+xref: NCIT:C84793 ! jervell and lange nielsen syndrome
+
+[Term]
+id: DOID:10844 ! Japanese encephalitis
+xref: NCIT:C34577 ! japanese b encephalitis
+
+[Term]
+id: DOID:14291 ! LEOPARD syndrome
+xref: NCIT:C84820 ! leopard syndrome
+
+[Term]
+id: DOID:2962 ! Cockayne syndrome
+xref: NCIT:C9460 ! cockayne syndrome
+
+[Term]
+id: DOID:841 ! extrinsic allergic alveolitis
+xref: NCIT:C34369 ! extrinsic allergic alveolitis
+
+[Term]
+id: DOID:11049 ! meconium aspiration syndrome
+xref: NCIT:C87093 ! meconium aspiration syndrome
+
+[Term]
+id: DOID:1459 ! hypothyroidism
+xref: NCIT:C26800 ! hypothyroidism
+
+[Term]
+id: DOID:11406 ! choroiditis
+xref: NCIT:C34468 ! choroid disorder
+
+[Term]
+id: DOID:10931 ! dependent personality disorder
+xref: NCIT:C92637 ! dependent personality disorder
+
+[Term]
+id: DOID:13372 ! alpha 1-antitrypsin deficiency
+xref: NCIT:C84397 ! alpha-1 antitrypsin deficiency
+
+[Term]
+id: DOID:12978 ! Plasmodium vivax malaria
+xref: NCIT:C34800 ! vivax malaria
+
+[Term]
+id: DOID:12376 ! juvenile spinal muscular atrophy
+xref: NCIT:C118847 ! spinal muscular atrophy type 3
+xref: NCIT:C85075 ! spinal muscular atrophy
+xref: NCIT:C85076 ! spinal muscular atrophy of childhood
+
+[Term]
+id: DOID:6225 ! Cronkhite-Canada syndrome
+xref: NCIT:C7035 ! gastric cronkhite canada polyposis
+
+[Term]
+id: DOID:4782 ! subacute glomerulonephritis
+xref: NCIT:C35801 ! subacute glomerulonephritis
+
+[Term]
+id: DOID:8725 ! vascular dementia
+xref: NCIT:C34522 ! multi-infarct dementia
+xref: NCIT:C34525 ! vascular dementia
+
+[Term]
+id: DOID:12804 ! mucopolysaccharidosis IV
+xref: NCIT:C61263 ! morquio syndrome
+xref: NCIT:C84901 ! mucopolysaccharidosis type iva
+xref: NCIT:C84902 ! mucopolysaccharidosis type ivb
+
+[Term]
+id: DOID:3413 ! alpha-mannosidosis
+xref: NCIT:C84548 ! alpha-mannosidosis
+
+[Term]
+id: DOID:6687 ! Achenbach syndrome
+xref: NCIT:C35467 ! achenbach syndrome
+
+[Term]
+id: DOID:8642 ! Hodgkin's paragranuloma
+xref: NCIT:C26956 ! hodgkin's paragranuloma
+
+[Term]
+id: DOID:13452 ! scleritis
+xref: NCIT:C119046 ! scleritis
+
+[Term]
+id: DOID:0050670 ! ataxic cerebral palsy
+xref: NCIT:C116906 ! hypotonic cerebral palsy
+xref: NCIT:C97168 ! ataxic cerebral palsy
+
+[Term]
+id: DOID:9503 ! Loeffler syndrome
+xref: NCIT:C35301 ! loffler syndrome
+
+[Term]
+id: DOID:4783 ! mesangial proliferative glomerulonephritis
+xref: NCIT:C35445 ! mesangial proliferative glomerulonephritis
+
+[Term]
+id: DOID:445 ! Bartter disease
+xref: NCIT:C34412 ! bartter syndrome
+
+[Term]
+id: DOID:8881 ! rosacea
+xref: NCIT:C97136 ! rosacea
+
+[Term]
+id: DOID:13543 ! hyperparathyroidism
+xref: NCIT:C48259 ! hyperparathyroidism
+
+[Term]
+id: DOID:3127 ! proctitis
+xref: NCIT:C38011 ! proctitis
+
+[Term]
+id: DOID:47 ! prostate disease
+xref: NCIT:C26865 ! prostate disorder
+
+[Term]
+id: DOID:3436 ! viral laryngitis
+xref: NCIT:C27305 ! viral laryngitis
+
+[Term]
+id: DOID:11801 ! protein-energy malnutrition
+xref: NCIT:C34952 ! protein energy malnutrition
+
+[Term]
+id: DOID:9931 ! Waterhouse-Friderichsen syndrome
+xref: NCIT:C85225 ! waterhouse-friderichsen syndrome
+
+[Term]
+id: DOID:0050465 ! Muir-Torre syndrome
+xref: NCIT:C84905 ! muir-torre syndrome
+
+[Term]
+id: DOID:8461 ! Aicardi syndrome
+xref: NCIT:C35256 ! aicardi syndrome
+
+[Term]
+id: DOID:2583 ! agammaglobulinemia
+xref: NCIT:C26931 ! hypogammaglobulinemia
+
+[Term]
+id: DOID:486 ! glomeruloid hemangioma
+xref: NCIT:C27505 ! glomeruloid hemangioma
+
+[Term]
+id: DOID:4778 ! proliferative glomerulonephritis
+xref: NCIT:C35281 ! proliferative glomerulonephritis
+
+[Term]
+id: DOID:10652 ! Alzheimer's disease
+xref: NCIT:C2866 ! alzheimer's disease
+
+[Term]
+id: DOID:4662 ! thalamic disease
+xref: NCIT:C85186 ! thalamic disease
+
+[Term]
+id: DOID:480 ! movement disease
+xref: NCIT:C116757 ! movement disorder
+
+[Term]
+id: DOID:3431 ! cerebritis
+xref: NCIT:C27199 ! cerebritis
+
+[Term]
+id: DOID:13195 ! nontoxic goiter
+xref: NCIT:C35271 ! nontoxic goiter
+
+[Term]
+id: DOID:14283 ! primary hypertrophic osteoarthropathy
+xref: NCIT:C85023 ! primary hypertrophic osteoarthropathy
+
+[Term]
+id: DOID:0060379 ! acrofacial dysostosis
+xref: NCIT:C35795 ! acrofacial dysostosis
+
+[Term]
+id: DOID:7825 ! chronic toxic polyneuropathy
+xref: NCIT:C35603 ! chronic toxic polyneuropathy
+
+[Term]
+id: DOID:12387 ! nephrogenic diabetes insipidus
+xref: NCIT:C84919 ! nephrogenic diabetes insipidus
+
+[Term]
+id: DOID:13809 ! familial combined hyperlipidemia
+xref: NCIT:C34708 ! hyperlipoproteinemia type ii
+
+[Term]
+id: DOID:2491 ! sensory peripheral neuropathy
+xref: NCIT:C3501 ! peripheral sensory neuropathy
+
+[Term]
+id: DOID:2744 ! pyelitis
+xref: NCIT:C34964 ! pyelitis
+
+[Term]
+id: DOID:4744 ! placenta accreta
+xref: NCIT:C26856 ! placenta accreta
+
+[Term]
+id: DOID:418 ! systemic scleroderma
+xref: NCIT:C26746 ! scleroderma
+xref: NCIT:C72070 ! systemic scleroderma
+
+[Term]
+id: DOID:1934 ! dysostosis
+xref: NCIT:C34560 ! dysostosis
+
+[Term]
+id: DOID:0050840 ! cervical dystonia
+xref: NCIT:C85072 ! spasmodic torticollis
+
+[Term]
+id: DOID:9146 ! visceral leishmaniasis
+xref: NCIT:C34771 ! kala-azar
+
+[Term]
+id: DOID:664 ! angiokeratoma of Fordyce
+xref: NCIT:C7752 ! angiokeratoma of fordyce
+
+[Term]
+id: DOID:8504 ! impetigo
+xref: NCIT:C99088 ! impetigo
+
+[Term]
+id: DOID:870 ! neuropathy
+xref: NCIT:C4731 ! neuropathy
+
+[Term]
+id: DOID:7756 ! neonatal leukemia
+xref: NCIT:C3845 ! neonatal leukemia
+
+[Term]
+id: DOID:5162 ! arteriolosclerosis
+xref: NCIT:C35543 ! arteriolosclerosis
+
+[Term]
+id: DOID:6612 ! leukocyte adhesion deficiency
+xref: NCIT:C27874 ! leukocyte adhesion deficiency
+
+[Term]
+id: DOID:10223 ! dermatomyositis
+xref: NCIT:C26744 ! dermatomyositis
+
+[Term]
+id: DOID:3981 ! pantothenate kinase-associated neurodegeneration
+xref: NCIT:C84988 ! pantothenate kinase-associated neurodegeneration
+xref: NCIT:C8967 ! brain iron accumulation type i syndrome
+
+[Term]
+id: DOID:0060160 ! survival motor neuron spinal muscular atrophy
+xref: NCIT:C85076 ! spinal muscular atrophy of childhood
+
+[Term]
+id: DOID:3128 ! anus disease
+xref: NCIT:C26695 ! anal disorder
+
+[Term]
+id: DOID:0050697 ! chorioamnionitis
+xref: NCIT:C26720 ! chorioamnionitis
+
+[Term]
+id: DOID:5453 ! pulmonary venoocclusive disease
+xref: NCIT:C85039 ! pulmonary veno-occlusive disease
+
+[Term]
+id: DOID:12400 ! kleptomania
+xref: NCIT:C94333 ! kleptomania
+
+[Term]
+id: DOID:14203 ! childhood type dermatomyositis
+xref: NCIT:C27576 ! childhood dermatomyositis
+
+[Term]
+id: DOID:2451 ! protein S deficiency
+xref: NCIT:C99026 ! protein s deficiency disease
+
+[Term]
+id: DOID:1496 ! echinococcosis
+xref: NCIT:C84682 ! echinococcosis
+
+[Term]
+id: DOID:0060316 ! orofaciodigital syndrome I
+xref: NCIT:C75481 ! orofaciodigital syndrome type 1
+
+[Term]
+id: DOID:3138 ! acanthosis nigricans
+xref: NCIT:C26687 ! acanthosis nigricans
+
+[Term]
+id: DOID:57 ! aortic valve insufficiency
+xref: NCIT:C50861 ! aortic valve regurgitation
+xref: NCIT:C51223 ! aortic valve insufficiency
+
+[Term]
+id: DOID:10595 ! Charcot-Marie-Tooth disease
+xref: NCIT:C75467 ! charcot-marie-tooth disease
+
+[Term]
+id: DOID:636 ! central pontine myelinolysis
+xref: NCIT:C84623 ! central pontine myelinolysis
+
+[Term]
+id: DOID:14753 ! isovaleric acidemia
+xref: NCIT:C98964 ! isovaleric acidemia
+
+[Term]
+id: DOID:14702 ! branchiootorenal syndrome
+xref: NCIT:C98983 ! melnick-fraser syndrome
+
+[Term]
+id: DOID:12169 ! carpal tunnel syndrome
+xref: NCIT:C34450 ! carpal tunnel syndrome
+
+[Term]
+id: DOID:3783 ! Coffin-Lowry syndrome
+xref: NCIT:C84643 ! coffin-lowry syndrome
+
+[Term]
+id: DOID:1856 ! cherubism
+xref: NCIT:C84630 ! cherubism
+
+[Term]
+id: DOID:640 ! encephalomyelitis
+xref: NCIT:C34580 ! encephalomyelitis
+
+[Term]
+id: DOID:12638 ! hypertrophic pyloric stenosis
+xref: NCIT:C98952 ! hypertrophic pyloric stenosis
+
+[Term]
+id: DOID:319 ! spinal cord disease
+xref: NCIT:C97110 ! spinal cord disorder
+
+[Term]
+id: DOID:8476 ! Whipple disease
+xref: NCIT:C85228 ! whipple disease
+
+[Term]
+id: DOID:4562 ! subacute bacterial endocarditis
+xref: NCIT:C34583 ! subacute bacterial endocarditis
+
+[Term]
+id: DOID:10915 ! Wernicke-Korsakoff syndrome
+xref: NCIT:C35764 ! wernicke-korsakoff syndrome
+xref: NCIT:C84803 ! korsakoff syndrome
+
+[Term]
+id: DOID:11976 ! botulism
+xref: NCIT:C84599 ! botulism
+
+[Term]
+id: DOID:5104 ! testicular infarct
+xref: NCIT:C27617 ! testicular infarction
+
+[Term]
+id: DOID:2275 ! pharyngitis
+xref: NCIT:C26850 ! pharyngeal disorder
+xref: NCIT:C26851 ! pharyngitis
+xref: NCIT:C34355 ! acute pharyngitis
+
+[Term]
+id: DOID:14501 ! Sjogren-Larsson syndrome
+xref: NCIT:C85070 ! sjogren-larsson syndrome
+
+[Term]
+id: DOID:14761 ! Greig cephalopolysyndactyly syndrome
+xref: NCIT:C35255 ! greig syndrome
+
+[Term]
+id: DOID:525 ! central nervous system vasculitis
+xref: NCIT:C84622 ! central nervous system vasculitis
+
+[Term]
+id: DOID:2965 ! bursitis
+xref: NCIT:C94407 ! bursitis
+
+[Term]
+id: DOID:4394 ! reticulohistiocytic granuloma
+xref: NCIT:C3356 ! solitary reticulohistiocytoma
+
+[Term]
+id: DOID:0050434 ! Andersen-Tawil syndrome
+xref: NCIT:C84559 ! andersen syndrome
+
+[Term]
+id: DOID:0060184 ! lymphocytic colitis
+xref: NCIT:C27147 ! lymphocytic colitis
+
+[Term]
+id: DOID:0050477 ! Liddle syndrome
+xref: NCIT:C84827 ! liddle syndrome
+
+[Term]
+id: DOID:384 ! Wolff-Parkinson-White syndrome
+xref: NCIT:C35132 ! wolff-parkinson-white syndrome
+
+[Term]
+id: DOID:9477 ! pulmonary embolism
+xref: NCIT:C50713 ! pulmonary embolism
+
+[Term]
+id: DOID:4479 ! pseudohypoaldosteronism
+xref: NCIT:C85034 ! pseudohypoaldosteronism
+
+[Term]
+id: DOID:11246 ! DIC in newborn
+xref: NCIT:C111856 ! disseminated intravascular coagulation in newborn
+
+[Term]
+id: DOID:9201 ! lichen planus
+xref: NCIT:C3189 ! lichen planus
+
+[Term]
+id: DOID:0060222 ! Scheie syndrome
+xref: NCIT:C61265 ! scheie syndrome
+
+[Term]
+id: DOID:13094 ! branch retinal artery occlusion
+xref: NCIT:C34436 ! retinal arterial branch occlusion
+
+[Term]
+id: DOID:507 ! adjustment disorder
+xref: NCIT:C92191 ! adjustment disorder
+
+[Term]
+id: DOID:6102 ! herpetic gastritis
+xref: NCIT:C27341 ! herpetic gastritis
+
+[Term]
+id: DOID:540 ! strabismus
+xref: NCIT:C35040 ! strabismus
+
+[Term]
+id: DOID:10772 ! thrombotic thrombocytopenic purpura
+xref: NCIT:C78797 ! thrombotic thrombocytopenic purpura
+
+[Term]
+id: DOID:13014 ! shipyard eye
+xref: NCIT:C34590 ! epidemic keratoconjunctivitis
+
+[Term]
+id: DOID:5161 ! Monckeberg arteriosclerosis
+xref: NCIT:C35770 ! monckeberg arteriosclerosis
+
+[Term]
+id: DOID:12799 ! mucopolysaccharidosis II
+xref: NCIT:C61260 ! hunter syndrome
+
+[Term]
+id: DOID:13270 ! erythropoietic protoporphyria
+xref: NCIT:C84698 ! erythropoietic protoporphyria
+
+[Term]
+id: DOID:1441 ! autosomal dominant cerebellar ataxia
+xref: NCIT:C82341 ! spinocerebellar ataxia
+
+[Term]
+id: DOID:0060406 ! chromosome 18p deletion syndrome
+xref: NCIT:C84521 ! deletion 18p syndrome
+
+[Term]
+id: DOID:2170 ! vaginitis
+xref: NCIT:C26911 ! vaginitis
+
+[Term]
+id: DOID:11727 ! facioscapulohumeral muscular dystrophy
+xref: NCIT:C84704 ! facioscapulohumeral muscular dystrophy
+
+[Term]
+id: DOID:6677 ! diffuse infiltrative lymphocytosis syndrome
+xref: NCIT:C35699 ! diffuse infiltrative lymphocytosis syndrome
+
+[Term]
+id: DOID:12206 ! dengue hemorrhagic fever
+xref: NCIT:C34683 ! dengue hemorrhagic fever
+
+[Term]
+id: DOID:1005 ! endometrial disease
+xref: NCIT:C3504 ! endometrial disorder
+
+[Term]
+id: DOID:14784 ! olivopontocerebellar atrophy
+xref: NCIT:C84947 ! olivopontocerebellar atrophy
+
+[Term]
+id: DOID:14067 ! Plasmodium falciparum malaria
+xref: NCIT:C34798 ! falciparum malaria
+
+[Term]
+id: DOID:11339 ! pneumocystosis
+xref: NCIT:C3334 ! pneumocystis pneumonia
+
+[Term]
+id: DOID:12849 ! autistic disorder
+xref: NCIT:C97161 ! autism
+
+[Term]
+id: DOID:1731 ! histoplasmosis
+xref: NCIT:C34977 ! reticuloendothelial hyperplasia
+xref: NCIT:C77201 ! histoplasmosis
+
+[Term]
+id: DOID:13774 ! Addison's disease
+xref: NCIT:C26689 ! addison's disease
+
+[Term]
+id: DOID:6678 ! tooth and nail syndrome
+xref: NCIT:C40553 ! tooth and nail syndrome
+
+[Term]
+id: DOID:9588 ! encephalitis
+xref: NCIT:C26760 ! encephalitis
+
+[Term]
+id: DOID:2975 ! cystic kidney disease
+xref: NCIT:C34750 ! cystic kidney disease
+
+[Term]
+id: DOID:1575 ! rheumatic disease
+xref: NCIT:C27204 ! rheumatologic disorder
+
+[Term]
+id: DOID:1919 ! Lesch-Nyhan syndrome
+xref: NCIT:C61255 ! lesch-nyhan syndrome
+
+[Term]
+id: DOID:4624 ! Ollier disease
+xref: NCIT:C34556 ! dyschondroplasia
+
+[Term]
+id: DOID:12241 ! beta thalassemia
+xref: NCIT:C34375 ! thalassemia major
+
+[Term]
+id: DOID:3651 ! pyruvate carboxylase deficiency disease
+xref: NCIT:C85040 ! pyruvate carboxylase deficiency
+
+[Term]
+id: DOID:0060022 ! CD40 ligand deficiency
+xref: NCIT:C61244 ! cd40 ligand deficiency
+
+[Term]
+id: DOID:11729 ! Lyme disease
+xref: NCIT:C45161 ! borrelia burgdorferi infection
+
+[Term]
+id: DOID:11400 ! pyelonephritis
+xref: NCIT:C34965 ! pyelonephritis
+
+[Term]
+id: DOID:5339 ! cyclic hematopoiesis
+xref: NCIT:C3820 ! cyclic neutropenia
+
+[Term]
+id: DOID:7551 ! gonorrhea
+xref: NCIT:C92950 ! gonorrhea
+
+[Term]
+id: DOID:4407 ! phototoxic dermatitis
+xref: NCIT:C4816 ! photosensitive dermatitis
+
+[Term]
+id: DOID:14265 ! pulmonary valve insufficiency
+xref: NCIT:C50848 ! pulmonary valvular regurgitation
+
+[Term]
+id: DOID:8659 ! chickenpox
+xref: NCIT:C97132 ! chicken pox
+
+[Term]
+id: DOID:4138 ! bile duct disease
+xref: NCIT:C96716 ! bile duct disorder
+
+[Term]
+id: DOID:12466 ! secondary hyperparathyroidism
+xref: NCIT:C113335 ! secondary hyperparathyroidism
+
+[Term]
+id: DOID:14223 ! ochronosis
+xref: NCIT:C84938 ! ochronosis
+
+[Term]
+id: DOID:8499 ! night blindness
+xref: NCIT:C34850 ! night blindness
+
+[Term]
+id: DOID:13912 ! acquired color blindness
+xref: NCIT:C118712 ! acquired color blindness
+
+[Term]
+id: DOID:9409 ! diabetes insipidus
+xref: NCIT:C43263 ! diabetes insipidus
+
+[Term]
+id: DOID:12554 ! hemolytic-uremic syndrome
+xref: NCIT:C75545 ! hemolytic uremic syndrome
+
+[Term]
+id: DOID:10794 ! sphenoid sinusitis
+xref: NCIT:C35031 ! sphenoidal sinusitis
+
+[Term]
+id: DOID:9673 ! ulcerative stomatitis
+xref: NCIT:C35039 ! ulcerative stomatitis
+
+[Term]
+id: DOID:62 ! aortic valve disease
+xref: NCIT:C78650 ! aortic valve disorder
+
+[Term]
+id: DOID:1803 ! neuritis
+xref: NCIT:C116381 ! neuritis
+
+[Term]
+id: DOID:4621 ! holoprosencephaly
+xref: NCIT:C74988 ! holoprosencephaly
+
+[Term]
+id: DOID:10934 ! multiple personality disorder
+xref: NCIT:C94330 ! dissociative identity disorder
+
+[Term]
+id: DOID:13938 ! amenorrhea
+xref: NCIT:C61443 ! amenorrhea
+
+[Term]
+id: DOID:1858 ! McCune Albright syndrome
+xref: NCIT:C34610 ! polyostotic fibrous dysplasia
+
+[Term]
+id: DOID:9446 ! cholangitis
+xref: NCIT:C26718 ! cholangitis
+
+[Term]
+id: DOID:0050765 ! neuroacanthocytosis
+xref: NCIT:C84926 ! neuroacanthocytosis
+
+[Term]
+id: DOID:14503 ! neuronal ceroid lipofuscinosis
+xref: NCIT:C61257 ! neuronal ceroid lipofuscinosis
+
+[Term]
+id: DOID:1406 ! iritis
+xref: NCIT:C50621 ! iritis
+
+[Term]
+id: DOID:0050475 ! Weill-Marchesani syndrome
+xref: NCIT:C85226 ! weill-marchesani syndrome
+
+[Term]
+id: DOID:10605 ! short bowel syndrome
+xref: NCIT:C99059 ! short bowel syndrome
+
+[Term]
+id: DOID:0060336 ! 3-methylglutaconic aciduria
+xref: NCIT:C98678 ! 3-methylglutaconic aciduria
+
+[Term]
+id: DOID:3089 ! granulomatous orchitis
+xref: NCIT:C27162 ! non-specific granulomatous orchitis
+
+[Term]
+id: DOID:4730 ! vasomotor rhinitis
+xref: NCIT:C34988 ! vasomotor rhinitis
+
+[Term]
+id: DOID:10353 ! fibrosclerosis of breast
+xref: NCIT:C3660 ! breast fibrosis
+
+[Term]
+id: DOID:6050 ! esophageal disease
+xref: NCIT:C26950 ! esophageal ulcer
+xref: NCIT:C3027 ! esophageal disorder
+
+[Term]
+id: DOID:0050158 ! desquamative interstitial pneumonia
+xref: NCIT:C35288 ! desquamative interstitial pneumonia
+
+[Term]
+id: DOID:883 ! parasitic helminthiasis infectious disease
+xref: NCIT:C84751 ! helminthiasis
+
+[Term]
+id: DOID:859 ! holocarboxylase synthetase deficiency
+xref: NCIT:C98842 ! holocarboxylase synthetase deficiency
+
+[Term]
+id: DOID:15 ! reproductive system disease
+xref: NCIT:C4875 ! reproductive system disorder
+
+[Term]
+id: DOID:4481 ! allergic rhinitis
+xref: NCIT:C34987 ! atopic rhinitis
+xref: NCIT:C79532 ! allergic rhinitis
+xref: NCIT:C92188 ! seasonal allergic rhinitis
+
+[Term]
+id: DOID:639 ! acute disseminated encephalomyelitis
+xref: NCIT:C34578 ! acute disseminated encephalomyelitis
+
+[Term]
+id: DOID:11996 ! spermatic cord torsion
+xref: NCIT:C26885 ! testicular torsion
+
+[Term]
+id: DOID:308 ! early myoclonic encephalopathy
+xref: NCIT:C116593 ! early myoclonic encephalopathy
+
+[Term]
+id: DOID:649 ! prion disease
+xref: NCIT:C27585 ! spongiform encephalopathy
+
+[Term]
+id: DOID:5870 ! eosinophilic pneumonia
+xref: NCIT:C35150 ! eosinophilic pneumonia
+
+[Term]
+id: DOID:2841 ! asthma
+xref: NCIT:C26976 ! chronic obstructive asthma
+xref: NCIT:C28397 ! asthma
+
+[Term]
+id: DOID:3755 ! antithrombin III deficiency
+xref: NCIT:C98815 ! antithrombin iii deficiency
+
+[Term]
+id: DOID:10124 ! corneal disease
+xref: NCIT:C26731 ! corneal disorder
+
+[Term]
+id: DOID:2030 ! anxiety disorder
+xref: NCIT:C2878 ! anxiety disorder
+
+[Term]
+id: DOID:3407 ! carotid artery disease
+xref: NCIT:C84476 ! carotid artery disorder
+
+[Term]
+id: DOID:2277 ! gonadal disease
+xref: NCIT:C26786 ! gonadal disorder
+
+[Term]
+id: DOID:8893 ! psoriasis
+xref: NCIT:C3346 ! psoriasis
+
+[Term]
+id: DOID:0050155 ! sensory system disease
+xref: NCIT:C63711 ! sensory disorder
+
+[Term]
+id: DOID:3323 ! Sandhoff disease
+xref: NCIT:C85052 ! sandhoff disease
+
+[Term]
+id: DOID:8941 ! seborrheic infantile dermatitis
+xref: NCIT:C111888 ! seborrheic dermatitis
+
+[Term]
+id: DOID:334 ! histrionic personality disorder
+xref: NCIT:C92634 ! histrionic personality disorder
+
+[Term]
+id: DOID:14040 ! autoimmune polyendocrine syndrome
+xref: NCIT:C84576 ! autoimmune polyendocrinopathy syndrome
+
+[Term]
+id: DOID:9273 ! citrullinemia
+xref: NCIT:C84639 ! citrullinemia
+
+[Term]
+id: DOID:0060183 ! collagenous colitis
+xref: NCIT:C27021 ! collagenous colitis
+
+[Term]
+id: DOID:14472 ! hantavirus pulmonary syndrome
+xref: NCIT:C84747 ! hantavirus pulmonary syndrome
+
+[Term]
+id: DOID:2550 ! tactile epilepsy
+xref: NCIT:C4687 ! tactile epilepsy
+
+[Term]
+id: DOID:10112 ! sleeping sickness
+xref: NCIT:C84541 ! african trypanosomiasis
+
+[Term]
+id: DOID:4915 ! basophilic carcinoma
+xref: NCIT:C27392 ! pituitary gland basophil carcinoma
+
+[Term]
+id: DOID:288 ! endometriosis of uterus
+xref: NCIT:C6996 ! uterine adenomyosis
+
+[Term]
+id: DOID:2518 ! orchitis
+xref: NCIT:C97145 ! orchitis
+
+[Term]
+id: DOID:6691 ! Aagenaes syndrome
+xref: NCIT:C35709 ! aagenaes syndrome
+
+[Term]
+id: DOID:10329 ! pneumoconiosis due to talc
+xref: NCIT:C27026 ! talc pneumoconiosis
+
+[Term]
+id: DOID:0050464 ! Farber lipogranulomatosis
+xref: NCIT:C84710 ! farber lipogranulomatosis
+
+[Term]
+id: DOID:11723 ! Duchenne muscular dystrophy
+xref: NCIT:C75482 ! duchenne muscular dystrophy
+
+[Term]
+id: DOID:7427 ! anthrax disease
+xref: NCIT:C84565 ! anthrax
+
+[Term]
+id: DOID:2772 ! irritant dermatitis
+xref: NCIT:C27151 ! irritant contact dermatitis
+
+[Term]
+id: DOID:6543 ! acne
+xref: NCIT:C27195 ! acne
+
+[Term]
+id: DOID:11249 ! vitamin K deficiency hemorrhagic disease
+xref: NCIT:C99108 ! vitamin k deficiency
+
+[Term]
+id: DOID:678 ! progressive supranuclear palsy
+xref: NCIT:C85028 ! progressive supranuclear palsy
+
+[Term]
+id: DOID:10604 ! lactose intolerance
+xref: NCIT:C3154 ! lactose intolerance
+
+[Term]
+id: DOID:1233 ! transvestism
+xref: NCIT:C94359 ! transvestic fetishism
+
+[Term]
+id: DOID:13359 ! Ehlers-Danlos syndrome
+xref: NCIT:C34568 ! ehlers-danlos syndrome
+
+[Term]
+id: DOID:6620 ! X-linked hyper IgM syndrome
+xref: NCIT:C3990 ! hyperimmunoglobulin m syndrome
+
+[Term]
+id: DOID:9663 ! aphthous stomatitis
+xref: NCIT:C62546 ! canker sore
+
+[Term]
+id: DOID:6676 ! Froelich's syndrome
+xref: NCIT:C34625 ! frohlich syndrome
+
+[Term]
+id: DOID:0060260 ! ptosis
+xref: NCIT:C27298 ! ptosis
+
+[Term]
+id: DOID:5225 ! von Economo's disease
+xref: NCIT:C26761 ! encephalitis lethargica
+
+[Term]
+id: DOID:2053 ! reactive cutaneous fibrous lesion
+xref: NCIT:C27549 ! reactive cutaneous fibrous lesion
+
+[Term]
+id: DOID:8680 ! alcoholic gastritis
+xref: NCIT:C26977 ! alcoholic gastritis
+
+[Term]
+id: DOID:0050445 ! X-linked hypophosphatemic rickets
+xref: NCIT:C85234 ! x-linked dominant hypophosphatemic rickets
+
+[Term]
+id: DOID:3087 ! gingivitis
+xref: NCIT:C34474 ! chronic gingivitis
+xref: NCIT:C34636 ! gingivitis
+
+[Term]
+id: DOID:13406 ! pulmonary sarcoidosis
+xref: NCIT:C34997 ! pulmonary sarcoidosis
+
+[Term]
+id: DOID:0060056 ! hypersensitivity reaction disease
+xref: NCIT:C3114 ! hypersensitivity
+
+[Term]
+id: DOID:778 ! delusional disorder
+xref: NCIT:C94379 ! delusional disorder
+
+[Term]
+id: DOID:13677 ! SAPHO syndrome
+xref: NCIT:C119049 ! synovitis, acne, pustulosis, hyperostosis, and osteitis syndrome
+
+[Term]
+id: DOID:14749 ! methylmalonic acidemia
+xref: NCIT:C98986 ! methylmalonic acidemia
+
+[Term]
+id: DOID:7558 ! glossopharyngeal motor neuropathy
+xref: NCIT:C27212 ! glossopharyngeal motor neuropathy
+
+[Term]
+id: DOID:11577 ! Cauda equina syndrome
+xref: NCIT:C35436 ! cauda equina syndrome
+
+[Term]
+id: DOID:11335 ! sarcoidosis
+xref: NCIT:C34995 ! sarcoidosis
+
+[Term]
+id: DOID:106 ! pleural tuberculosis
+xref: NCIT:C26898 ! tuberculous pleuritis
+
+[Term]
+id: DOID:627 ! severe combined immunodeficiency
+xref: NCIT:C3472 ! severe combined immunodeficiency
+
+[Term]
+id: DOID:4448 ! macular degeneration
+xref: NCIT:C84391 ! macular degeneration
+
+[Term]
+id: DOID:12270 ! coloboma
+xref: NCIT:C98877 ! coloboma of the eye
+
+[Term]
+id: DOID:9307 ! rectal prolapse
+xref: NCIT:C34973 ! rectal prolapse
+
+[Term]
+id: DOID:9392 ! tracheitis
+xref: NCIT:C78643 ! tracheitis
+
+[Term]
+id: DOID:9884 ! muscular dystrophy
+xref: NCIT:C84910 ! muscular dystrophy
+
+[Term]
+id: DOID:3613 ! Canavan disease
+xref: NCIT:C84611 ! canavan disease
+
+[Term]
+id: DOID:8778 ! Crohn's disease
+xref: NCIT:C2965 ! crohn disease
+xref: NCIT:C37262 ! granulomatous colitis
+
+[Term]
+id: DOID:92 ! speech disorder
+xref: NCIT:C5041 ! speech disorder
+
+[Term]
+id: DOID:8482 ! transient retinal arterial occlusion
+xref: NCIT:C35193 ! transient retinal arterial occlusion
+
+[Term]
+id: DOID:11201 ! parathyroid gland disease
+xref: NCIT:C26844 ! parathyroid gland disorder
+
+[Term]
+id: DOID:10485 ! esophageal atresia
+xref: NCIT:C87072 ! esophageal atresia
+
+[Term]
+id: DOID:3261 ! Job's syndrome
+xref: NCIT:C3144 ! hyperimmunoglobulin e syndrome
+
+[Term]
+id: DOID:9267 ! urea cycle disorder
+xref: NCIT:C84785 ! urea cycle metabolism disorder
+
+[Term]
+id: DOID:3652 ! Leigh disease
+xref: NCIT:C84814 ! leigh disease
+
+[Term]
+id: DOID:4 ! disease
+xref: NCIT:C28193 ! syndrome
+xref: NCIT:C3101 ! genetic disorder
+xref: NCIT:C4873 ! rare disorder
+
+[Term]
+id: DOID:422 ! congenital structural myopathy
+xref: NCIT:C84648 ! congenital structural myopathy
+
+[Term]
+id: DOID:2348 ! arteriosclerotic cardiovascular disease
+xref: NCIT:C34403 ! arteriosclerotic cardiovascular disease
+xref: NCIT:C35771 ! atherosclerotic cardiovascular disease
+
+[Term]
+id: DOID:13921 ! bacterial esophagitis
+xref: NCIT:C27106 ! bacterial esophagitis
+
+[Term]
+id: DOID:2800 ! acute interstitial pneumonia
+xref: NCIT:C35806 ! acute interstitial pneumonia
+
+[Term]
+id: DOID:2339 ! Crouzon syndrome
+xref: NCIT:C84653 ! craniofacial dysostosis
+
+[Term]
+id: DOID:9577 ! neonatal candidiasis
+xref: NCIT:C116810 ! neonatal candidiasis
+
+[Term]
+id: DOID:1116 ! pertussis
+xref: NCIT:C85231 ! whooping cough
+
+[Term]
+id: DOID:8544 ! chronic fatigue syndrome
+xref: NCIT:C3037 ! chronic fatigue syndrome
+
+[Term]
+id: DOID:2581 ! chondrodysplasia punctata
+xref: NCIT:C84632 ! chondrodysplasia punctata
+
+[Term]
+id: DOID:0050120 ! hemophagocytic lymphohistiocytosis
+xref: NCIT:C34792 ! hemophagocytic lymphohistiocytosis
+xref: NCIT:C61276 ! familial hemophagocytic lymphohistiocytosis
+
+[Term]
+id: DOID:450 ! myotonic disease
+xref: NCIT:C84913 ! myotonic disorder
+
+[Term]
+id: DOID:12720 ! cerebral atherosclerosis
+xref: NCIT:C34459 ! cerebral atherosclerosis
+
+[Term]
+id: DOID:6827 ! pancreatic solid pseudopapillary carcinoma
+xref: NCIT:C5728 ! solid pseudopapillary carcinoma of the pancreas
+
+[Term]
+id: DOID:4737 ! somatoform disorder
+xref: NCIT:C34956 ! somatoform disorder
+xref: NCIT:C35186 ! physiological malfunction arising from mental factor
+
+[Term]
+id: DOID:5907 ! penis non-invasive verrucous carcinoma
+xref: NCIT:C27791 ! non-invasive verrucous carcinoma of the penis
+
+[Term]
+id: DOID:848 ! arthritis
+xref: NCIT:C2883 ! arthritis
+
+[Term]
+id: DOID:13148 ! acute cystitis
+xref: NCIT:C26934 ! acute cystitis
+xref: NCIT:C50791 ! urinary tract infection
+
+[Term]
+id: DOID:4890 ! juvenile myoclonic epilepsy
+xref: NCIT:C84796 ! juvenile myoclonic epilepsy
+
+[Term]
+id: DOID:10314 ! endocarditis
+xref: NCIT:C34582 ! endocarditis
+
+[Term]
+id: DOID:14701 ! propionic acidemia
+xref: NCIT:C85030 ! propionic acidemia
+
+[Term]
+id: DOID:13027 ! transient global amnesia
+xref: NCIT:C85198 ! transient global amnesia
+
+[Term]
+id: DOID:0050811 ! congenital adrenal hyperplasia
+xref: NCIT:C34360 ! congenital adrenal hyperplasia
+
+[Term]
+id: DOID:1432 ! blindness
+xref: NCIT:C97109 ! blindness
+
+[Term]
+id: DOID:1343 ! urethritis
+xref: NCIT:C26904 ! urethritis
+xref: NCIT:C27079 ! non-gonococcal urethritis
+
+[Term]
+id: DOID:8505 ! dermatitis herpetiformis
+xref: NCIT:C26742 ! dermatitis herpetiformis
+
+[Term]
+id: DOID:2112 ! cystoisosporiasis
+xref: NCIT:C4076 ! isosporiasis
+
+[Term]
+id: DOID:12932 ! endomyocardial fibrosis
+xref: NCIT:C34585 ! endomyocardial fibrosis
+
+[Term]
+id: DOID:11843 ! coronary artery anomaly
+xref: NCIT:C26732 ! coronary artery disease
+
+[Term]
+id: DOID:11227 ! acute hemorrhagic conjunctivitis
+xref: NCIT:C34505 ! acute hemorrhagic conjunctivitis
+
+[Term]
+id: DOID:2001 ! neuroma
+xref: NCIT:C3275 ! neuroma
+
+[Term]
+id: DOID:5996 ! blunt duct adenosis of breast
+xref: NCIT:C6941 ! breast blunt duct adenosis
+
+[Term]
+id: DOID:223 ! basilar artery insufficiency
+xref: NCIT:C34413 ! basilar artery syndrome
+
+[Term]
+id: DOID:9784 ! trichinosis
+xref: NCIT:C85199 ! trichinosis
+
+[Term]
+id: DOID:0050561 ! Lennox-Gastaut syndrome
+xref: NCIT:C84816 ! lennox-gastaut syndrome
+
+[Term]
+id: DOID:2839 ! erythropoietin polycythemia
+xref: NCIT:C35434 ! polycythaemia due to excess erythropoetin production
+
+[Term]
+id: DOID:10808 ! gastric ulcer
+xref: NCIT:C3388 ! gastric ulcer
+
+[Term]
+id: DOID:9351 ! diabetes mellitus
+xref: NCIT:C2985 ! diabetes mellitus
+
+[Term]
+id: DOID:14115 ! toxic shock syndrome
+xref: NCIT:C35498 ! toxic shock syndrome
+
+[Term]
+id: DOID:5691 ! visual cortex disease
+xref: NCIT:C35275 ! visual cortex disorder
+
+[Term]
+id: DOID:2106 ! myotonia congenita
+xref: NCIT:C84912 ! myotonia congenita
+
+[Term]
+id: DOID:0050834 ! CHARGE syndrome
+xref: NCIT:C75100 ! charge syndrome
+
+[Term]
+id: DOID:289 ! endometriosis
+xref: NCIT:C3014 ! endometriosis
+
+[Term]
+id: DOID:1875 ! impotence
+xref: NCIT:C34801 ! male erectile disorder
+
+[Term]
+id: DOID:6209 ! malignant mediastinum hemangiopericytoma
+xref: NCIT:C6608 ! malignant mediastinal hemangiopericytoma
+
+[Term]
+id: DOID:14221 ! metabolic syndrome X
+xref: NCIT:C3235 ! metabolic disorder
+xref: NCIT:C84442 ! metabolic syndrome
+
+[Term]
+id: DOID:11038 ! depersonalization disorder
+xref: NCIT:C94331 ! depersonalization disorder
+
+[Term]
+id: DOID:421 ! hair disease
+xref: NCIT:C34656 ! hair disorder
+
+[Term]
+id: DOID:0050429 ! Hailey-Hailey disease
+xref: NCIT:C82865 ! familial benign pemphigus
+
+[Term]
+id: DOID:14497 ! Wolman disease
+xref: NCIT:C61271 ! wolman disease
+
+[Term]
+id: DOID:0050602 ! triple-A syndrome
+xref: NCIT:C35710 ! allgrove syndrome
+
+[Term]
+id: DOID:3827 ! congenital diaphragmatic hernia
+xref: NCIT:C34687 ! diaphragmatic hernia
+xref: NCIT:C98893 ! congenital diaphragmatic hernia
+
+[Term]
+id: DOID:2834 ! acquired polycythemia
+xref: NCIT:C27178 ! secondary polycythemia
+
+[Term]
+id: DOID:934 ! viral infectious disease
+xref: NCIT:C3439 ! viral infection
+
+[Term]
+id: DOID:4037 ! necrotizing gastritis
+xref: NCIT:C27329 ! necrotizing gastritis
+
+[Term]
+id: DOID:1657 ! ventricular septal defect
+xref: NCIT:C84506 ! ventricular septal defect
+
+[Term]
+id: DOID:1089 ! tethered spinal cord syndrome
+xref: NCIT:C84923 ! neural tube defect
+xref: NCIT:C99080 ! tethered spinal cord syndrome
+
+[Term]
+id: DOID:3777 ! granuloma annulare
+xref: NCIT:C3470 ! granuloma annulare
+
+[Term]
+id: DOID:3083 ! chronic obstructive pulmonary disease
+xref: NCIT:C3199 ! chronic obstructive pulmonary disease
+
+[Term]
+id: DOID:3852 ! Peutz-Jeghers syndrome
+xref: NCIT:C4733 ! peutz-jeghers polyp
+xref: NCIT:C7755 ! peutz-jeghers polyp of the small intestine
+
+[Term]
+id: DOID:7166 ! thyroiditis
+xref: NCIT:C26894 ! thyroiditis
+
+[Term]
+id: DOID:9563 ! bronchiectasis
+xref: NCIT:C84475 ! bronchiectasis
+
+[Term]
+id: DOID:11612 ! polycystic ovary syndrome
+xref: NCIT:C26862 ! stein-leventhal syndrome
+
+[Term]
+id: DOID:9395 ! croup
+xref: NCIT:C26735 ! croup
+
+[Term]
+id: DOID:0080006 ! bone development disease
+xref: NCIT:C34432 ! bone development disorder
+
+[Term]
+id: DOID:7202 ! intermediate malignant teratoma
+xref: NCIT:C4288 ! intermediate immature teratoma
+
+[Term]
+id: DOID:1029 ! familial periodic paralysis
+xref: NCIT:C84709 ! familial periodic paralysis
+
+[Term]
+id: DOID:2749 ! glycogen storage disease I
+xref: NCIT:C84733 ! glycogen storage disease type i
+
+[Term]
+id: DOID:8335 ! microglandular adenosis of breast
+xref: NCIT:C5199 ! breast microglandular adenosis
+
+[Term]
+id: DOID:4080 ! tricuspid valve insufficiency
+xref: NCIT:C50842 ! tricuspid valve insufficiency
+xref: NCIT:C50843 ! tricuspid valve regurgitation
+
+[Term]
+id: DOID:2745 ! narcissistic personality disorder
+xref: NCIT:C92635 ! narcissistic personality disorder
+
+[Term]
+id: DOID:9471 ! meningitis
+xref: NCIT:C26828 ! meningitis
+
+[Term]
+id: DOID:10310 ! viral meningitis
+xref: NCIT:C118298 ! viral meningitis
+
+[Term]
+id: DOID:0060257 ! dyschromatosis symmetrica hereditaria
+xref: NCIT:C118435 ! dyschromatosis symmetrica hereditaria
+
+[Term]
+id: DOID:1100 ! ovarian disease
+xref: NCIT:C26841 ! ovarian disorder
+
+[Term]
+id: DOID:14773 ! cartilage-hair hypoplasia
+xref: NCIT:C61245 ! cartilage hair hypoplasia
+
+[Term]
+id: DOID:14289 ! Ebstein anomaly
+xref: NCIT:C84681 ! ebstein anomaly
+
+[Term]
+id: DOID:0050560 ! Walker-Warburg syndrome
+xref: NCIT:C99109 ! walker-warburg syndrome
+
+[Term]
+id: DOID:53 ! pituitary gland disease
+xref: NCIT:C26854 ! pituitary gland disorder
+
+[Term]
+id: DOID:9476 ! Sheehan syndrome
+xref: NCIT:C35300 ! sheehan syndrome
+
+[Term]
+id: DOID:12639 ! pyloric stenosis
+xref: NCIT:C34966 ! pyloric stenosis
+
+[Term]
+id: DOID:10568 ! early yaws
+xref: NCIT:C41352 ! early yaws
+
+[Term]
+id: DOID:1762 ! cheilitis
+xref: NCIT:C79545 ! cheilitis
+
+[Term]
+id: DOID:3109 ! idiopathic CD4-positive T-lymphocytopenia
+xref: NCIT:C84780 ! idiopathic cd4-positive t-lymphocytopenia
+
+[Term]
+id: DOID:114 ! heart disease
+xref: NCIT:C3079 ! heart disorder
+
+[Term]
+id: DOID:2043 ! hepatitis B
+xref: NCIT:C3097 ! hepatitis b infection
+
+[Term]
+id: DOID:9427 ! hypertensive encephalopathy
+xref: NCIT:C3503 ! hypertensive encephalopathy
+
+[Term]
+id: DOID:9643 ! babesiosis
+xref: NCIT:C84581 ! babesiosis
+
+[Term]
+id: DOID:2531 ! hematologic cancer
+xref: NCIT:C116915 ! liquid tumor
+
+[Term]
+id: DOID:0060239 ! Van der Woude syndrome
+xref: NCIT:C74986 ! van der woude syndrome
+
+[Term]
+id: DOID:14320 ! generalized anxiety disorder
+xref: NCIT:C92622 ! generalized anxiety disorder
+
+[Term]
+id: DOID:13129 ! severe pre-eclampsia
+xref: NCIT:C112843 ! severe preeclampsia
+
+[Term]
+id: DOID:2548 ! reflex epilepsy
+xref: NCIT:C85041 ! reflex epilepsy
+
+[Term]
+id: DOID:1529 ! penile disease
+xref: NCIT:C26846 ! penile disorder
+
+[Term]
+id: DOID:11405 ! diphtheria
+xref: NCIT:C34541 ! diphtheria
+
+[Term]
+id: DOID:4752 ! multiple system atrophy
+xref: NCIT:C84909 ! multiple system atrophy
+xref: NCIT:C85066 ! shy-drager syndrome
+
+[Term]
+id: DOID:12960 ! acrocephalosyndactylia
+xref: NCIT:C99099 ! type i acrocephalosyndactyly
+
+[Term]
+id: DOID:3213 ! demyelinating disease
+xref: NCIT:C34527 ! demyelinating disorder
+
+[Term]
+id: DOID:9470 ! bacterial meningitis
+xref: NCIT:C118297 ! bacterial meningitis
+
+[Term]
+id: DOID:0060345 ! bacillary angiomatosis
+xref: NCIT:C3477 ! bacillary angiomatosis
+
+[Term]
+id: DOID:4196 ! femoral neuropathy
+xref: NCIT:C27595 ! femoral neuropathy
+
+[Term]
+id: DOID:13450 ! coccidioidomycosis
+xref: NCIT:C84642 ! coccidioidomycosis
+
+[Term]
+id: DOID:14268 ! sclerosing cholangitis
+xref: NCIT:C4828 ! primary sclerosing cholangitis
+
+[Term]
+id: DOID:9246 ! cerebral amyloid angiopathy
+xref: NCIT:C84625 ! cerebral amyloid angiopathy
+
+[Term]
+id: DOID:9113 ! granuloma inguinale
+xref: NCIT:C3065 ! granuloma inguinale
+
+[Term]
+id: DOID:1680 ! chronic cystitis
+xref: NCIT:C27008 ! chronic cystitis
+
+[Term]
+id: DOID:7735 ! pancreatic colloid cystadenoma
+xref: NCIT:C5718 ! pancreatic mucinous cystadenoma
+
+[Term]
+id: DOID:12929 ! endocardial fibroelastosis
+xref: NCIT:C98922 ! endocardial fibroelastosis
+
+[Term]
+id: DOID:1289 ! neurodegenerative disease
+xref: NCIT:C27090 ! degenerative disorder
+
+[Term]
+id: DOID:1081 ! mansonelliasis
+xref: NCIT:C84882 ! mansonelliasis
+
+[Term]
+id: DOID:2475 ! chronic conjunctivitis
+xref: NCIT:C35197 ! chronic conjunctivitis
+
+[Term]
+id: DOID:11701 ! selective IgA deficiency disease
+xref: NCIT:C26964 ! selective iga immunodeficiency
+
+[Term]
+id: DOID:10854 ! salivary gland disease
+xref: NCIT:C26879 ! salivary gland disorder
+xref: NCIT:C27662 ! non-neoplastic salivary gland disorder
+
+[Term]
+id: DOID:12679 ! nephrocalcinosis
+xref: NCIT:C84918 ! nephrocalcinosis
+
+[Term]
+id: DOID:11199 ! hypoparathyroidism
+xref: NCIT:C78350 ! hypoparathyroidism
+
+[Term]
+id: DOID:419 ! scleroderma
+xref: NCIT:C26746 ! scleroderma
+xref: NCIT:C72070 ! systemic scleroderma
+
+[Term]
+id: DOID:0080041 ! hypochondroplasia
+xref: NCIT:C118697 ! hypochondroplasia
+
+[Term]
+id: DOID:12594 ! Potter's syndrome
+xref: NCIT:C40435 ! potter syndrome
+
+[Term]
+id: DOID:9439 ! chronic cholangitis
+xref: NCIT:C35335 ! chronic cholangitis
+
+[Term]
+id: DOID:2300 ! spondylolysis
+xref: NCIT:C35034 ! spondylolysis
+
+[Term]
+id: DOID:7280 ! congenital epulis
+xref: NCIT:C4675 ! congenital epulis
+
+[Term]
+id: DOID:2327 ! viral gastritis
+xref: NCIT:C27184 ! viral gastritis
+
+[Term]
+id: DOID:7319 ! axonal neuropathy
+xref: NCIT:C27301 ! axonal neuropathy
+
+[Term]
+id: DOID:4959 ! epidermolysis bullosa dystrophica
+xref: NCIT:C84691 ! epidermolysis bullosa dystrophica
+
+[Term]
+id: DOID:13800 ! inclusion conjunctivitis
+xref: NCIT:C116817 ! neonatal chlamydia conjunctivitis
+
+[Term]
+id: DOID:9007 ! sudden infant death syndrome
+xref: NCIT:C85173 ! sudden infant death syndrome
+
+[Term]
+id: DOID:10632 ! Wolfram syndrome
+xref: NCIT:C35133 ! wolfram syndrome
+
+[Term]
+id: DOID:0060328 ! anal fistula
+xref: NCIT:C60785 ! anorectal fistula
+
+[Term]
+id: DOID:824 ! periodontitis
+xref: NCIT:C34918 ! periodontitis
+
+[Term]
+id: DOID:0050673 ! mixed cerebral palsy
+xref: NCIT:C97177 ! mixed cerebral palsy
+
+[Term]
+id: DOID:14766 ! renal agenesis
+xref: NCIT:C99041 ! renal agenesis
+
+[Term]
+id: DOID:3982 ! Meige syndrome
+xref: NCIT:C3223 ! meigs syndrome
+
+[Term]
+id: DOID:9396 ! acute laryngitis
+xref: NCIT:C26688 ! acute laryngitis
+
+[Term]
+id: DOID:11202 ! primary hyperparathyroidism
+xref: NCIT:C48280 ! primary hyperparathyroidism
+
+[Term]
+id: DOID:2929 ! Newcastle disease
+xref: NCIT:C34849 ! newcastle disease
+
+[Term]
+id: DOID:574 ! peripheral nervous system disease
+xref: NCIT:C27580 ! peripheral nervous system disorder
+
+[Term]
+id: DOID:1557 ! hypersensitivity reaction type III disease
+xref: NCIT:C114346 ! type iii hypersensitivity
+
+[Term]
+id: DOID:0060161 ! Kennedy's disease
+xref: NCIT:C85233 ! x-linked bulbar-muscular atrophy
+
+[Term]
+id: DOID:10041 ! dysplastic nevus syndrome
+xref: NCIT:C27264 ! familial atypical mole melanoma syndrome
+xref: NCIT:C7584 ! dysplastic nevus syndrome
+
+[Term]
+id: DOID:552 ! pneumonia
+xref: NCIT:C27197 ! acute pneumonia
+xref: NCIT:C3333 ! pneumonia
+
+[Term]
+id: DOID:9263 ! homocystinuria
+xref: NCIT:C84765 ! homocystinuria
+
+[Term]
+id: DOID:9975 ! cocaine dependence
+xref: NCIT:C34492 ! cocaine dependence
+
+[Term]
+id: DOID:13608 ! biliary atresia
+xref: NCIT:C34421 ! biliary atresia
+
+[Term]
+id: DOID:2163 ! nasal cavity disease
+xref: NCIT:C27102 ! nasal cavity disorder
+
+[Term]
+id: DOID:9369 ! orbital plasma cell granuloma
+xref: NCIT:C117296 ! orbital myositis
+
+[Term]
+id: DOID:4353 ! ciliary body disease
+xref: NCIT:C35775 ! ciliary body disorder
+
+[Term]
+id: DOID:3557 ! superior mesenteric artery syndrome
+xref: NCIT:C85175 ! superior mesenteric artery syndrome
+
+[Term]
+id: DOID:13724 ! scurvy
+xref: NCIT:C35010 ! scurvy
+
+[Term]
+id: DOID:13500 ! hairy tongue
+xref: NCIT:C35075 ! hairy tongue
+
+[Term]
+id: DOID:12663 ! blastomycosis
+xref: NCIT:C34428 ! blastomycosis
+xref: NCIT:C34429 ! north american blastomycosis
+
+[Term]
+id: DOID:2562 ! suppurative periapical periodontitis
+xref: NCIT:C34913 ! periapical dental abscess
+
+[Term]
+id: DOID:13381 ! pernicious anemia
+xref: NCIT:C2871 ! pernicious anemia
+
+[Term]
+id: DOID:9726 ! vitreous detachment
+xref: NCIT:C50807 ! vitreous detachment
+
+[Term]
+id: DOID:1561 ! cognitive disorder
+xref: NCIT:C92196 ! cognitive disorder
+
+[Term]
+id: DOID:6364 ! migraine
+xref: NCIT:C89715 ! migraine
+
+[Term]
+id: DOID:9408 ! acute myocardial infarction
+xref: NCIT:C35204 ! acute myocardial infarction
+
+[Term]
+id: DOID:2658 ! dermoid cyst
+xref: NCIT:C67107 ! benign teratoma
+
+[Term]
+id: DOID:5730 ! salpingitis isthmica nodosa
+xref: NCIT:C40119 ! salpingitis isthmica nodosa
+
+[Term]
+id: DOID:8117 ! neuronitis
+xref: NCIT:C34847 ! neuronitis
+
+[Term]
+id: DOID:11252 ! microcytic anemia
+xref: NCIT:C35141 ! microcytic anemia
+
+[Term]
+id: DOID:10579 ! leukodystrophy
+xref: NCIT:C61253 ! leukodystrophy
+
+[Term]
+id: DOID:13141 ! uveitis
+xref: NCIT:C26909 ! uveitis
+
+[Term]
+id: DOID:526 ! Human immunodeficiency virus infectious disease
+xref: NCIT:C3108 ! hiv infection
+
+[Term]
+id: DOID:0060218 ! CREST syndrome
+xref: NCIT:C70646 ! crest syndrome
+
+[Term]
+id: DOID:5614 ! eye disease
+xref: NCIT:C26767 ! eye disorder
+
+[Term]
+id: DOID:13760 ! Pthirus pubis infestation
+xref: NCIT:C35777 ! pediculosis pubis
+
+[Term]
+id: DOID:2942 ! bronchiolitis
+xref: NCIT:C39658 ! bronchiolitis
+
+[Term]
+id: DOID:6652 ! diffuse idiopathic skeletal hyperostosis
+xref: NCIT:C84671 ! diffuse idiopathic skeletal hyperostosis
+
+[Term]
+id: DOID:14695 ! galactokinase deficiency
+xref: NCIT:C114767 ! galactokinase deficiency
+
+[Term]
+id: DOID:3263 ! piebaldism
+xref: NCIT:C85009 ! piebaldism
+
+[Term]
+id: DOID:4734 ! calciphylaxis
+xref: NCIT:C84607 ! calciphylaxis
+
+[Term]
+id: DOID:853 ! polymyalgia rheumatica
+xref: NCIT:C85018 ! polymyalgia rheumatica
+
+[Term]
+id: DOID:676 ! juvenile rheumatoid arthritis
+xref: NCIT:C114357 ! juvenile idiopathic arthritis
+xref: NCIT:C119031 ! systemic juvenile idiopathic arthritis
+xref: NCIT:C26979 ! juvenile chronic polyarthritis
+xref: NCIT:C27179 ! juvenile rheumatoid arthritis
+
+[Term]
+id: DOID:10273 ! heart conduction disease
+xref: NCIT:C78245 ! cardiac conduction disorder
+
+[Term]
+id: DOID:905 ! Zellweger syndrome
+xref: NCIT:C85239 ! zellweger syndrome
+
+[Term]
+id: DOID:10616 ! acute cervicitis
+xref: NCIT:C27056 ! acute cervicitis
+
+[Term]
+id: DOID:4781 ! diffuse glomerulonephritis
+xref: NCIT:C35799 ! diffuse glomerulonephritis
+
+[Term]
+id: DOID:630 ! genetic disease
+xref: NCIT:C28193 ! syndrome
+xref: NCIT:C3101 ! genetic disorder
+xref: NCIT:C4873 ! rare disorder
+
+[Term]
+id: DOID:1924 ! hypogonadism
+xref: NCIT:C9227 ! hypogonadism
+
+[Term]
+id: DOID:1586 ! rheumatic fever
+xref: NCIT:C34984 ! rheumatic fever
+
+[Term]
+id: DOID:2352 ! hemochromatosis
+xref: NCIT:C84481 ! hemochromatosis
+
+[Term]
+id: DOID:3642 ! empty sella syndrome
+xref: NCIT:C84686 ! empty sella syndrome
+
+[Term]
+id: DOID:9837 ! hypertropia
+xref: NCIT:C34716 ! hypertropia
+
+[Term]
+id: DOID:4964 ! neurotic disorder
+xref: NCIT:C34533 ! reactive depression
+xref: NCIT:C34848 ! neurosis
+xref: NCIT:C35369 ! neurotic depression
+
+[Term]
+id: DOID:4252 ! Alexander disease
+xref: NCIT:C84545 ! alexander disease
+
+[Term]
+id: DOID:2987 ! familial Mediterranean fever
+xref: NCIT:C84707 ! familial mediterranean fever
+
+[Term]
+id: DOID:1210 ! optic neuritis
+xref: NCIT:C84950 ! optic neuritis
+
+[Term]
+id: DOID:310 ! MERRF syndrome
+xref: NCIT:C84889 ! merrf syndrome
+
+[Term]
+id: DOID:11831 ! cortical blindness
+xref: NCIT:C118707 ! cortical blindness
+
+[Term]
+id: DOID:9043 ! uterine cervix leukoplakia
+xref: NCIT:C3976 ! cervical leukoplakia
+
+[Term]
+id: DOID:2952 ! inner ear disease
+xref: NCIT:C27166 ! inner ear disorder
+
+[Term]
+id: DOID:4702 ! mongolian spot
+xref: NCIT:C3945 ! mongolian spot
+
+[Term]
+id: DOID:2568 ! cervicitis
+xref: NCIT:C26716 ! cervicitis
+
+[Term]
+id: DOID:543 ! dystonia
+xref: NCIT:C34563 ! dystonia
+xref: NCIT:C35527 ! familial dystonia
+
+[Term]
+id: DOID:0050856 ! oppositional defiant disorder
+xref: NCIT:C92565 ! oppositional defiant disorder
+
+[Term]
+id: DOID:8913 ! dermatophytosis
+xref: NCIT:C26745 ! dermatophytosis
+
+[Term]
+id: DOID:7187 ! subacute lymphocytic thyroiditis
+xref: NCIT:C35829 ! subacute lymphocytic thyroiditis
+
+[Term]
+id: DOID:240 ! iris disease
+xref: NCIT:C34737 ! iris disorder
+
+[Term]
+id: DOID:12271 ! aniridia
+xref: NCIT:C84563 ! aniridia
+
+[Term]
+id: DOID:10685 ! separation anxiety disorder
+xref: NCIT:C35014 ! separation anxiety disorder
+
+[Term]
+id: DOID:1389 ! polyneuropathy
+xref: NCIT:C26951 ! polyneuropathy
+
+[Term]
+id: DOID:11256 ! typhus
+xref: NCIT:C84688 ! endemic typhus fever
+xref: NCIT:C84689 ! epidemic louse-borne typhus
+
+[Term]
+id: DOID:12134 ! factor VIII deficiency
+xref: NCIT:C27146 ! hemophilia a
+
+[Term]
+id: DOID:0050449 ! pachyonychia congenita
+xref: NCIT:C84986 ! pachyonychia congenita
+
+[Term]
+id: DOID:4534 ! Hallermann-Streiff syndrome
+xref: NCIT:C84746 ! hallermann syndrome
+
+[Term]
+id: DOID:8986 ! narcolepsy
+xref: NCIT:C84489 ! narcolepsy
+
+[Term]
+id: DOID:1766 ! factitious disorder
+xref: NCIT:C92198 ! factitious disorder
+
+[Term]
+id: DOID:4079 ! heart valve disease
+xref: NCIT:C45525 ! valvular heart disorder
+
+[Term]
+id: DOID:4297 ! scimitar syndrome
+xref: NCIT:C85056 ! scimitar syndrome
+xref: NCIT:C98585 ! total anomalous pulmonary venous return
+
+[Term]
+id: DOID:1205 ! hypersensitivity reaction type I disease
+xref: NCIT:C3114 ! hypersensitivity
+xref: NCIT:C3116 ! type i hypersensitivity
+
+[Term]
+id: DOID:11302 ! cercarial dermatitis
+xref: NCIT:C34457 ! cutaneous schistosomiasis
+
+[Term]
+id: DOID:8545 ! malignant hyperthermia
+xref: NCIT:C84869 ! malignant hyperthermia syndrome
+
+[Term]
+id: DOID:12930 ! dilated cardiomyopathy
+xref: NCIT:C84673 ! dilated cardiomyopathy
+
+[Term]
+id: DOID:3878 ! intestinal pseudo-obstruction
+xref: NCIT:C34733 ! intestinal pseudo-obstruction
+
+[Term]
+id: DOID:12365 ! malaria
+xref: NCIT:C34797 ! malaria
+
+[Term]
+id: DOID:13819 ! lymphogranuloma venereum
+xref: NCIT:C26822 ! lymphogranuloma venereum
+
+[Term]
+id: DOID:5679 ! retinal disease
+xref: NCIT:C26875 ! retinal disorder
+
+[Term]
+id: DOID:0060178 ! familial hemiplegic migraine
+xref: NCIT:C117009 ! familial hemiplegic migraine
+
+[Term]
+id: DOID:10964 ! cholesteatoma of middle ear
+xref: NCIT:C3654 ! middle ear cholesteatoma
+
+[Term]
+id: DOID:8651 ! Hodgkin's granuloma
+xref: NCIT:C6914 ! hodgkin's granuloma
+
+[Term]
+id: DOID:12030 ! panuveitis
+xref: NCIT:C84989 ! panuveitis
+
+[Term]
+id: DOID:2957 ! pulmonary tuberculosis
+xref: NCIT:C26899 ! pulmonary tuberculosis
+
+[Term]
+id: DOID:9903 ! meibomian cyst
+xref: NCIT:C26717 ! chalazion
+
+[Term]
+id: DOID:6682 ! spondylolisthesis
+xref: NCIT:C35033 ! spondylolisthesis
+
+[Term]
+id: DOID:0050596 ! taeniasis
+xref: NCIT:C85180 ! taeniasis
+
+[Term]
+id: DOID:2712 ! phimosis
+xref: NCIT:C26852 ! phimosis
+
+[Term]
+id: DOID:10581 ! metachromatic leukodystrophy
+xref: NCIT:C61251 ! metachromatic leukodystrophy
+
+[Term]
+id: DOID:0060325 ! cervical polyp
+xref: NCIT:C2939 ! cervical polyp
+
+[Term]
+id: DOID:11724 ! limb-girdle muscular dystrophy
+xref: NCIT:C84828 ! limb-girdle muscular dystrophy
+
+[Term]
+id: DOID:0050791 ! persistent mullerian duct syndrome
+xref: NCIT:C120188 ! persistent mullerian duct syndrome
+
+[Term]
+id: DOID:12259 ! hemophilia B
+xref: NCIT:C26721 ! hemophilia b
+
+[Term]
+id: DOID:1130 ! pituitary infarct
+xref: NCIT:C27117 ! pituitary gland infarction
+
+[Term]
+id: DOID:12177 ! common variable immunodeficiency
+xref: NCIT:C26725 ! common variable immunodeficiency
+
+[Term]
+id: DOID:12549 ! hepatitis A
+xref: NCIT:C3096 ! hepatitis a infection
+
+[Term]
+id: DOID:4626 ! hydranencephaly
+xref: NCIT:C98949 ! hydranencephaly
+
+[Term]
+id: DOID:0080022 ! McKusick type metaphyseal dysplasia
+xref: NCIT:C61245 ! cartilage hair hypoplasia
+
+[Term]
+id: DOID:2755 ! Mycobacterium avium complex disease
+xref: NCIT:C36197 ! mycobacterium avium infection
+
+[Term]
+id: DOID:4776 ! rapidly progressive glomerulonephritis
+xref: NCIT:C35264 ! rapidly progressive glomerulonephritis
+
+[Term]
+id: DOID:2833 ! dehydration polycythemia
+xref: NCIT:C27310 ! dehydration polycythemia
+
+[Term]
+id: DOID:11204 ! allergic conjunctivitis
+xref: NCIT:C34506 ! atopic conjunctivitis
+
+[Term]
+id: DOID:1485 ! cystic fibrosis
+xref: NCIT:C2975 ! cystic fibrosis
+
+[Term]
+id: DOID:10892 ! hypospadias
+xref: NCIT:C40341 ! hypospadias
+
+[Term]
+id: DOID:1417 ! choroid disease
+xref: NCIT:C34468 ! choroid disorder
+
+[Term]
+id: DOID:2120 ! focal dermal hypoplasia
+xref: NCIT:C84715 ! focal dermal hypoplasia
+
+[Term]
+id: DOID:7148 ! rheumatoid arthritis
+xref: NCIT:C27206 ! atrophic arthritis
+xref: NCIT:C2884 ! rheumatoid arthritis
+
+[Term]
+id: DOID:0050823 ! third-degree atrioventricular block
+xref: NCIT:C50501 ! complete atrioventricular block
+
+[Term]
+id: DOID:4810 ! cerebrotendinous xanthomatosis
+xref: NCIT:C84628 ! cerebrotendinous xanthomatosis
+
+[Term]
+id: DOID:9955 ! hypoplastic left heart syndrome
+xref: NCIT:C98894 ! hypoplastic left heart syndrome
+
+[Term]
+id: DOID:11427 ! endosalpingiosis
+xref: NCIT:C40121 ! endosalpingiosis
+
+[Term]
+id: DOID:5178 ! metachronous kidney Wilms' tumor
+xref: NCIT:C38158 ! metachronous wilms tumor
+
+[Term]
+id: DOID:613 ! T lymphocyte deficiency
+xref: NCIT:C27145 ! t-cell immunodeficiency
+
+[Term]
+id: DOID:0060520 ! penicillin allergy
+xref: NCIT:C34911 ! penicillin allergy
+
+[Term]
+id: DOID:0014667 ! disease of metabolism
+xref: NCIT:C3235 ! metabolic disorder
+xref: NCIT:C84442 ! metabolic syndrome
+
+[Term]
+id: DOID:1969 ! cerebral palsy
+xref: NCIT:C34460 ! cerebral palsy
+
+[Term]
+id: DOID:10646 ! schizotypal personality disorder
+xref: NCIT:C92632 ! schizotypal personality disorder
+
+[Term]
+id: DOID:10354 ! breast fibrocystic disease
+xref: NCIT:C3039 ! breast fibrocystic change
+
+[Term]
+id: DOID:750 ! peptic ulcer disease
+xref: NCIT:C3318 ! peptic ulcer
+
+[Term]
+id: DOID:0060001 ! withdrawal disorder
+xref: NCIT:C41341 ! withdrawal
+
+[Term]
+id: DOID:6686 ! Achard syndrome
+xref: NCIT:C35809 ! achard syndrome
+
+[Term]
+id: DOID:3329 ! benign epilepsy with centrotemporal spikes
+xref: NCIT:C116538 ! benign rolandic epilepsy
+
+[Term]
+id: DOID:5378 ! hemoglobin D disease
+xref: NCIT:C35344 ! hemoglobin d disease
+
+[Term]
+id: DOID:0050444 ! infantile refsum disease
+xref: NCIT:C84789 ! infantile refsum disease
+
+[Term]
+id: DOID:2355 ! anemia
+xref: NCIT:C2869 ! anemia
+
+[Term]
+id: DOID:9406 ! hypopituitarism
+xref: NCIT:C62591 ! hypopituitarism
+
+[Term]
+id: DOID:0060329 ! ectopic pregnancy
+xref: NCIT:C34945 ! ectopic pregnancy
+
+[Term]
+id: DOID:13095 ! vertebral artery insufficiency
+xref: NCIT:C35123 ! vertebral artery syndrome
+
+[Term]
+id: DOID:13444 ! glanders
+xref: NCIT:C34638 ! glanders
+
+[Term]
+id: DOID:9312 ! chronic ethmoiditis
+xref: NCIT:C34472 ! chronic ethmoidal sinusitis
+
+[Term]
+id: DOID:0050835 ! generalized dystonia
+xref: NCIT:C34563 ! dystonia
+xref: NCIT:C34564 ! idiopathic torsion dystonia
+xref: NCIT:C35437 ! familial idiopathic dystonia
+xref: NCIT:C35438 ! non-familial idiopathic dystonia
+xref: NCIT:C35527 ! familial dystonia
+
+[Term]
+id: DOID:12275 ! cutaneous diphtheria
+xref: NCIT:C34544 ! cutaneous diphtheria
+
+[Term]
+id: DOID:4249 ! Gerstmann-Straussler-Scheinker syndrome
+xref: NCIT:C84727 ! gerstmann-straussler-scheinker disease
+
+[Term]
+id: DOID:3156 ! incontinentia pigmenti achromians
+xref: NCIT:C7582 ! nevus of ito
+
+[Term]
+id: DOID:11832 ! visual epilepsy
+xref: NCIT:C3980 ! visual epilepsy
+
+[Term]
+id: DOID:5392 ! acidophil adenoma
+xref: NCIT:C6780 ! pituitary gland acidophil adenoma
+
+[Term]
+id: DOID:10486 ! intestinal atresia
+xref: NCIT:C84790 ! intestinal atresia
+
+[Term]
+id: DOID:0050468 ! yellow nail syndrome
+xref: NCIT:C85238 ! yellow nail syndrome
+
+[Term]
+id: DOID:0050433 ! fatal familial insomnia
+xref: NCIT:C84711 ! fatal familial insomnia
+
+[Term]
+id: DOID:0080047 ! pseudoachondroplasia
+xref: NCIT:C118635 ! pseudoachondroplasia
+
+[Term]
+id: DOID:0050782 ! Zollinger-Ellison Syndrome
+xref: NCIT:C3453 ! zollinger ellison syndrome
+
+[Term]
+id: DOID:7334 ! nephrogenic adenoma
+xref: NCIT:C7413 ! nephrogenic adenoma
+
+[Term]
+id: DOID:13868 ! hypoactive sexual desire disorder
+xref: NCIT:C94337 ! hypoactive sexual desire disorder
+
+[Term]
+id: DOID:12835 ! quadriplegia
+xref: NCIT:C50721 ! quadriplegia
+
+[Term]
+id: DOID:1195 ! ischemic neuropathy
+xref: NCIT:C27025 ! ischemic neuropathy
+
+[Term]
+id: DOID:28 ! endocrine system disease
+xref: NCIT:C27564 ! endocrine syndrome
+xref: NCIT:C3009 ! endocrine system disorder
+
+[Term]
+id: DOID:11396 ! pulmonary edema
+xref: NCIT:C26868 ! pulmonary edema
+
+[Term]
+id: DOID:112 ! esophageal varix
+xref: NCIT:C53506 ! esophageal varices
+
+[Term]
+id: DOID:0050013 ! carbohydrate metabolism disease
+xref: NCIT:C97089 ! carbohydrate metabolism disorder
+
+[Term]
+id: DOID:7263 ! selective IgD deficiency disease
+xref: NCIT:C27144 ! selective igd immunodeficiency
+
+[Term]
+id: DOID:14798 ! Blount's disease
+xref: NCIT:C118460 ! blount's disease
+
+[Term]
+id: DOID:13487 ! childhood disintegrative disease
+xref: NCIT:C97164 ! childhood disintegrative disorder
+
+[Term]
+id: DOID:607 ! paraplegia
+xref: NCIT:C50687 ! paraplegia
+
+[Term]
+id: DOID:2773 ! contact dermatitis
+xref: NCIT:C26743 ! contact dermatitis
+
+[Term]
+id: DOID:2742 ! auditory system disease
+xref: NCIT:C26757 ! ear disorder
+
+[Term]
+id: DOID:1342 ! congenital hypoplastic anemia
+xref: NCIT:C61236 ! congenital pure red cell aplasia
+
+[Term]
+id: DOID:10933 ! obsessive-compulsive disorder
+xref: NCIT:C88411 ! obsessive compulsive disorder
+
+[Term]
+id: DOID:0050859 ! hemorrhagic cystitis
+xref: NCIT:C114666 ! hemorrhagic cystitis
+
+[Term]
+id: DOID:898 ! polycystic kidney disease
+xref: NCIT:C75464 ! polycystic kidney disease
+
+[Term]
+id: DOID:12841 ! ancylostomiasis
+xref: NCIT:C35805 ! ancylostomiasis
+
+[Term]
+id: DOID:9808 ! Goodpasture syndrome
+xref: NCIT:C34649 ! goodpasture syndrome
+xref: NCIT:C84566 ! anti-glomerular basement membrane disease
+
+[Term]
+id: DOID:3805 ! porokeratosis
+xref: NCIT:C85019 ! porokeratosis
+
+[Term]
+id: DOID:2457 ! giant papillary conjunctivitis
+xref: NCIT:C34507 ! giant papillary conjunctivitis
+
+[Term]
+id: DOID:0060233 ! cardiofaciocutaneous syndrome
+xref: NCIT:C84617 ! cardiofaciocutaneous syndrome
+
+[Term]
+id: DOID:4399 ! acneiform dermatitis
+xref: NCIT:C35277 ! acneiform dermatitis
+
+[Term]
+id: DOID:0050742 ! nicotine dependence
+xref: NCIT:C35074 ! tobacco use disorder
+xref: NCIT:C54203 ! nicotine dependence
+
+[Term]
+id: DOID:8590 ! acute vascular insufficiency of intestine
+xref: NCIT:C34356 ! acute intestinal ischemia
+
+[Term]
+id: DOID:2736 ! Hajdu-Cheney syndrome
+xref: NCIT:C84745 ! hajdu-cheney syndrome
+
+[Term]
+id: DOID:13198 ! endemic goiter
+xref: NCIT:C35023 ! endemic goiter
+
+[Term]
+id: DOID:5100 ! middle ear disease
+xref: NCIT:C27065 ! middle ear disorder
+
+[Term]
+id: DOID:8738 ! leukoplakia of penis
+xref: NCIT:C3151 ! penile leukoplakia
+
+[Term]
+id: DOID:50 ! thyroid gland disease
+xref: NCIT:C26893 ! thyroid gland disorder
+
+[Term]
+id: DOID:8465 ! retinoschisis
+xref: NCIT:C85046 ! retinoschisis
+
+[Term]
+id: DOID:2722 ! acrodermatitis
+xref: NCIT:C84532 ! acrodermatitis
+
+[Term]
+id: DOID:2340 ! craniosynostosis
+xref: NCIT:C84655 ! craniosynostosis
+
+[Term]
+id: DOID:5698 ! fibroblastic liposarcoma
+xref: NCIT:C6509 ! fibroblastic liposarcoma
+
+[Term]
+id: DOID:5214 ! demyelinating polyneuropathy
+xref: NCIT:C27062 ! demyelinating polyneuropathy
+
+[Term]
+id: DOID:3177 ! verrucous papilloma
+xref: NCIT:C4101 ! verrucous papilloma
+
+[Term]
+id: DOID:14504 ! Niemann-Pick disease
+xref: NCIT:C61269 ! niemann-pick disease
+
+[Term]
+id: DOID:893 ! Wilson disease
+xref: NCIT:C84756 ! hepatolenticular degeneration
+
+[Term]
+id: DOID:13403 ! cerebral sarcoidosis
+xref: NCIT:C35441 ! cerebral sarcoidosis
+
+[Term]
+id: DOID:635 ! acquired immunodeficiency syndrome
+xref: NCIT:C2851 ! acquired immunodeficiency syndrome
+
+[Term]
+id: DOID:2734 ! keratosis follicularis
+xref: NCIT:C84665 ! darier disease
+
+[Term]
+id: DOID:1761 ! Melkersson-Rosenthal syndrome
+xref: NCIT:C84886 ! melkersson-rosenthal syndrome
+
+[Term]
+id: DOID:479 ! angiokeratoma
+xref: NCIT:C2874 ! angiokeratoma
+xref: NCIT:C4488 ! skin angiokeratoma
+
+[Term]
+id: DOID:11328 ! schizophreniform disorder
+xref: NCIT:C94376 ! schizophreniform disorder
+
+[Term]
+id: DOID:11917 ! tinea cruris
+xref: NCIT:C34535 ! dermatophytosis of groin and perianal area
+
+[Term]
+id: DOID:4428 ! dyslexia
+xref: NCIT:C96410 ! dyslexia
+
+[Term]
+id: DOID:5731 ! chronic salpingitis
+xref: NCIT:C40118 ! chronic salpingitis
+
+[Term]
+id: DOID:0050156 ! idiopathic pulmonary fibrosis
+xref: NCIT:C35716 ! idiopathic pulmonary fibrosis
+
+[Term]
+id: DOID:2703 ! synovitis
+xref: NCIT:C50766 ! synovitis
+
+[Term]
+id: DOID:2723 ! dermatitis
+xref: NCIT:C2983 ! dermatitis
+xref: NCIT:C3001 ! eczema
+
+[Term]
+id: DOID:13375 ! temporal arteritis
+xref: NCIT:C35065 ! temporal arteritis
+
+[Term]
+id: DOID:9669 ! senile cataract
+xref: NCIT:C35012 ! senile cataract
+
+[Term]
+id: DOID:573 ! nerve compression syndrome
+xref: NCIT:C27221 ! entrapment neuropathy
+
+[Term]
+id: DOID:13072 ! acquired hyperkeratosis
+xref: NCIT:C34746 ! acquired keratoderma
+
+[Term]
+id: DOID:13884 ! sick sinus syndrome
+xref: NCIT:C62244 ! sick sinus syndrome
+
+[Term]
+id: DOID:12028 ! Conn's syndrome
+xref: NCIT:C34510 ! conn syndrome
+
+[Term]
+id: DOID:3770 ! pulmonary fibrosis
+xref: NCIT:C26869 ! pulmonary fibrosis
+
+[Term]
+id: DOID:7997 ! thyrotoxicosis
+xref: NCIT:C61469 ! thyrotoxicosis
+
+[Term]
+id: DOID:0050562 ! West syndrome
+xref: NCIT:C84788 ! west syndrome
+
+[Term]
+id: DOID:0050476 ! Barth syndrome
+xref: NCIT:C84585 ! barth syndrome
+
+[Term]
+id: DOID:429 ! gynatresia
+xref: NCIT:C84743 ! gynatresia
+
+[Term]
+id: DOID:8677 ! perinatal necrotizing enterocolitis
+xref: NCIT:C84915 ! necrotizing enterocolitis
+
+[Term]
+id: DOID:12402 ! pyromania
+xref: NCIT:C94334 ! pyromania
+
+[Term]
+id: DOID:12859 ! choreatic disease
+xref: NCIT:C84633 ! chorea
+
+[Term]
+id: DOID:11561 ! hypertensive retinopathy
+xref: NCIT:C3514 ! hypertensive retinopathy
+
+[Term]
+id: DOID:2747 ! glycogen storage disease
+xref: NCIT:C61272 ! glycogen storage disease
+
+[Term]
+id: DOID:9700 ! bacterial conjunctivitis
+xref: NCIT:C53656 ! bacterial conjunctivitis
+
+[Term]
+id: DOID:783 ! end stage renal failure
+xref: NCIT:C9439 ! chronic kidney disease, stage 5
+
+[Term]
+id: DOID:14324 ! Plasmodium malariae malaria
+xref: NCIT:C34799 ! quartan malaria
+
+[Term]
+id: DOID:9788 ! myositis fibrosa
+xref: NCIT:C26985 ! interstitial myositis
+
+[Term]
+id: DOID:4535 ! hypotrichosis
+xref: NCIT:C34720 ! hypotrichosis
+
+[Term]
+id: DOID:0060480 ! left ventricular noncompaction
+xref: NCIT:C99544 ! left ventricular non-compaction syndrome
+
+[Term]
+id: DOID:3389 ! Papillon-Lefevre disease
+xref: NCIT:C84992 ! papillon-lefevre syndrome
+
+[Term]
+id: DOID:10691 ! fat necrosis of breast
+xref: NCIT:C3661 ! breast fat necrosis
+
+[Term]
+id: DOID:11486 ! Horner's syndrome
+xref: NCIT:C28155 ! horner syndrome
+
+[Term]
+id: DOID:11656 ! cicatricial pemphigoid
+xref: NCIT:C34907 ! benign mucous membrane pemphigoid
+
+[Term]
+id: DOID:4777 ! exudative glomerulonephritis
+xref: NCIT:C35706 ! exudative glomerulonephritis
+
+[Term]
+id: DOID:9021 ! esophageal leukoplakia
+xref: NCIT:C3953 ! esophageal leukoplakia
+
+[Term]
+id: DOID:9778 ! irritable bowel syndrome
+xref: NCIT:C82343 ! irritable bowel syndrome
+
+[Term]
+id: DOID:13949 ! interstitial cystitis
+xref: NCIT:C27189 ! interstitial cystitis
+
+[Term]
+id: DOID:365 ! bladder disease
+xref: NCIT:C2900 ! bladder disorder
+
+[Term]
+id: DOID:7234 ! pancreatic colloid cystadenocarcinoma
+xref: NCIT:C5713 ! pancreatic mucinous cystadenocarcinoma
+
+[Term]
+id: DOID:5844 ! myocardial infarction
+xref: NCIT:C27996 ! myocardial infarction
+
+[Term]
+id: DOID:9266 ! cystinuria
+xref: NCIT:C84664 ! cystinuria
+
+[Term]
+id: DOID:3309 ! neurodermatitis
+xref: NCIT:C111963 ! neurodermatitis
+
+[Term]
+id: DOID:0060471 ! fetal valproate syndrome
+xref: NCIT:C98930 ! fetal valproate syndrome
+
+[Term]
+id: DOID:535 ! sleep disorder
+xref: NCIT:C3376 ! sleep disorder
+
+[Term]
+id: DOID:262 ! kidney hemangiopericytoma
+xref: NCIT:C4527 ! kidney hemangiopericytoma
+
+[Term]
+id: DOID:10938 ! paranoid personality disorder
+xref: NCIT:C92630 ! paranoid personality disorder
+
+[Term]
+id: DOID:4031 ! eosinophilic gastroenteritis
+xref: NCIT:C35330 ! eosinophilic gastroenteritis
+
+[Term]
+id: DOID:4989 ! pancreatitis
+xref: NCIT:C3306 ! pancreatitis
+
+[Term]
+id: DOID:10331 ! kaolin pneumoconiosis
+xref: NCIT:C35315 ! kaolin pneumoconiosis
+
+[Term]
+id: DOID:10754 ! otitis media
+xref: NCIT:C34885 ! otitis media
+
+[Term]
+id: DOID:2529 ! splenic disease
+xref: NCIT:C35823 ! splenic disorder
+
+[Term]
+id: DOID:9923 ! developmental coordination disorder
+xref: NCIT:C92561 ! developmental coordination disorder
+
+[Term]
+id: DOID:8670 ! eating disorder
+xref: NCIT:C121669 ! disordered eating
+xref: NCIT:C89332 ! eating disorder
+
+[Term]
+id: DOID:7347 ! ovarian stromal hyperthecosis
+xref: NCIT:C40446 ! ovarian stromal hyperthecosis
+
+[Term]
+id: DOID:0060000 ! infective endocarditis
+xref: NCIT:C78265 ! infective endocarditis
+
+[Term]
+id: DOID:0060326 ! myelomeningocele
+xref: NCIT:C101201 ! myelomeningocele
+
+[Term]
+id: DOID:0050450 ! Gitelman syndrome
+xref: NCIT:C84730 ! gitelman syndrome
+
+[Term]
+id: DOID:7574 ! pancreatic intraductal papillary-colloid carcinoma
+xref: NCIT:C5725 ! pancreatic intraductal papillary-mucinous carcinoma
+
+[Term]
+id: DOID:5446 ! eccrine papillary adenoma
+xref: NCIT:C4173 ! papillary eccrine adenoma
+
+[Term]
+id: DOID:0050669 ! spastic cerebral palsy
+xref: NCIT:C116903 ! spastic cerebral palsy
+
+[Term]
+id: DOID:3928 ! adiposis dolorosa
+xref: NCIT:C84540 ! adiposis dolorosa
+
+[Term]
+id: DOID:13924 ! necrotizing ulcerative gingivitis
+xref: NCIT:C34637 ! necrotizing ulcerative gingivitis
+
+[Term]
+id: DOID:0050638 ! transthyretin amyloidosis
+xref: NCIT:C84554 ! familial amyloid neuropathy
+
+[Term]
+id: DOID:2373 ! hereditary elliptocytosis
+xref: NCIT:C35882 ! hereditary elliptocytosis
+
+[Term]
+id: DOID:11633 ! thyroid hormone resistance syndrome
+xref: NCIT:C85191 ! thyroid hormone resistance syndrome
+
+[Term]
+id: DOID:2856 ! euthyroid sick syndrome
+xref: NCIT:C113170 ! sick euthyroid syndrome
+
+[Term]
+id: DOID:11984 ! hypertrophic cardiomyopathy
+xref: NCIT:C34449 ! hypertrophic cardiomyopathy
+xref: NCIT:C84773 ! familial hypertrophic cardiomyopathy
+
+[Term]
+id: DOID:5733 ! salpingitis
+xref: NCIT:C26880 ! salpingitis
+
+[Term]
+id: DOID:121 ! vaginal disease
+xref: NCIT:C26910 ! vaginal disorder
+
+[Term]
+id: DOID:5334 ! paraphimosis
+xref: NCIT:C34893 ! paraphimosis
+
+[Term]
+id: DOID:11263 ! chlamydia
+xref: NCIT:C34463 ! chlamydial infection
+
+[Term]
+id: DOID:2349 ! arteriosclerosis
+xref: NCIT:C34398 ! arteriosclerosis
+
+[Term]
+id: DOID:8534 ! gastroesophageal reflux disease
+xref: NCIT:C26781 ! gastroesophageal reflux disease
+
+[Term]
+id: DOID:2907 ! Goldenhar syndrome
+xref: NCIT:C84740 ! goldenhar syndrome
+
+[Term]
+id: DOID:4029 ! gastritis
+xref: NCIT:C26780 ! gastritis
+xref: NCIT:C26928 ! hemorrhagic gastritis
+xref: NCIT:C26929 ! chronic gastritis
+xref: NCIT:C26933 ! acute gastritis
+xref: NCIT:C27013 ! erosive gastritis
+
+[Term]
+id: DOID:14305 ! tuberculous empyema
+xref: NCIT:C34575 ! tuberculous empyema
+
+[Term]
+id: DOID:0050700 ! cardiomyopathy
+xref: NCIT:C34830 ! cardiomyopathy
+
+[Term]
+id: DOID:0060312 ! angular cheilitis
+xref: NCIT:C112198 ! angular cheilitis
+
+[Term]
+id: DOID:0050759 ! myotonic dystrophy type 2
+xref: NCIT:C84680 ! dystrophia myotonica 2
+
+[Term]
+id: DOID:3310 ! atopic dermatitis
+xref: NCIT:C3001 ! eczema
+
+[Term]
+id: DOID:0060067 ! Pearson syndrome
+xref: NCIT:C115326 ! pearson marrow-pancreas syndrome
+
+[Term]
+id: DOID:3875 ! thrombophlebitis
+xref: NCIT:C3410 ! thrombophlebitis
+
+[Term]
+id: DOID:7880 ! luteoma
+xref: NCIT:C40445 ! leuteoma of pregnancy
+
+[Term]
+id: DOID:10300 ! Raynaud disease
+xref: NCIT:C116359 ! secondary raynaud phenomenon
+xref: NCIT:C50724 ! raynaud phenomenon
+
+[Term]
+id: DOID:7293 ! mucin-rich endometrial endometrioid adenocarcinoma
+xref: NCIT:C8717 ! mucin-rich endometrial endometrioid adenocarcinoma
+
+[Term]
+id: DOID:7875 ! adult xanthogranuloma
+xref: NCIT:C27514 ! adult xanthogranuloma
+
+[Term]
+id: DOID:2458 ! papillary conjunctivitis
+xref: NCIT:C35616 ! papillary conjunctivitis
+
+[Term]
+id: DOID:5426 ! premature ovarian failure
+xref: NCIT:C113348 ! hypergonadotropic hypogonadism
+xref: NCIT:C80099 ! premature menopause
+
+[Term]
+id: DOID:1947 ! trichomoniasis
+xref: NCIT:C35720 ! trichomonas infection
+
+[Term]
+id: DOID:1943 ! telogen effluvium
+xref: NCIT:C112200 ! telogen effluvium
+
+[Term]
+id: DOID:10138 ! xerophthalmia
+xref: NCIT:C34503 ! xerophthalmia
+
+[Term]
+id: DOID:5418 ! schizoaffective disorder
+xref: NCIT:C94378 ! schizoaffective disorder
+
+[Term]
+id: DOID:11258 ! cat-scratch disease
+xref: NCIT:C84620 ! cat-scratch disease
+
+[Term]
+id: DOID:12716 ! newborn respiratory distress syndrome
+xref: NCIT:C27560 ! neonatal respiratory distress syndrome
+xref: NCIT:C27562 ! hyaline membrane syndrome
+
+[Term]
+id: DOID:3312 ! bipolar disorder
+xref: NCIT:C34423 ! bipolar disorder
+xref: NCIT:C34424 ! bipolar depression
+xref: NCIT:C34805 ! manic bipolar affective disorder
+
+[Term]
+id: DOID:10126 ! keratoconus
+xref: NCIT:C26806 ! keratoconus
+
+[Term]
+id: DOID:612 ! primary immunodeficiency disease
+xref: NCIT:C3131 ! immunodeficiency syndrome
+
+[Term]
+id: DOID:1455 ! geographic tongue
+xref: NCIT:C84588 ! benign migratory glossitis
+
+[Term]
+id: DOID:10303 ! sialadenitis
+xref: NCIT:C26882 ! sialadenitis
+
+[Term]
+id: DOID:1405 ! primary angle-closure glaucoma
+xref: NCIT:C34640 ! primary angle closure glaucoma
+
+[Term]
+id: DOID:11459 ! pseudotumor cerebri
+xref: NCIT:C85035 ! pseudotumor cerebri
+
+[Term]
+id: DOID:11262 ! ornithosis
+xref: NCIT:C34873 ! ornithosis
+
+[Term]
+id: DOID:2741 ! bilirubin metabolic disorder
+xref: NCIT:C84761 ! hereditary hyperbilirubinemia
+
+[Term]
+id: DOID:3437 ! laryngitis
+xref: NCIT:C26811 ! laryngitis
+
+[Term]
+id: DOID:1206 ! Rett syndrome
+xref: NCIT:C75488 ! rett syndrome
+
+[Term]
+id: DOID:2048 ! autoimmune hepatitis
+xref: NCIT:C27029 ! autoimmune hepatitis
+xref: NCIT:C27778 ! autoimmune hepatitis with centrilobular necrosis
+
+[Term]
+id: DOID:341 ! peripheral vascular disease
+xref: NCIT:C35136 ! peripheral vascular disorder
+
+[Term]
+id: DOID:1391 ! Norum disease
+xref: NCIT:C84813 ! lecithin acyltransferase deficiency
+
+[Term]
+id: DOID:8295 ! scabies
+xref: NCIT:C34998 ! scabies
+
+[Term]
+id: DOID:2843 ! long QT syndrome
+xref: NCIT:C34786 ! long qt syndrome
+xref: NCIT:C85049 ! romano-ward syndrome
+
+[Term]
+id: DOID:12900 ! Mikulicz disease
+xref: NCIT:C34819 ! mikulicz disease
+
+[Term]
+id: DOID:11213 ! acute contagious conjunctivitis
+xref: NCIT:C34504 ! conjunctivitis
+xref: NCIT:C35704 ! acute contagious conjunctivitis
+
+[Term]
+id: DOID:1555 ! urticaria
+xref: NCIT:C3432 ! urticaria
+
+[Term]
+id: DOID:8431 ! physiological polycythemia
+xref: NCIT:C27311 ! physiological polycythemia
+
+[Term]
+id: DOID:8506 ! bullous pemphigoid
+xref: NCIT:C84389 ! bullous pemphigoid
+
+[Term]
+id: DOID:0050777 ! Joubert syndrome
+xref: NCIT:C74996 ! joubert syndrome
+
+[Term]
+id: DOID:0060321 ! umbilical hernia
+xref: NCIT:C118375 ! umbilical hernia
+
+[Term]
+id: DOID:4030 ! eosinophilic gastritis
+xref: NCIT:C27052 ! eosinophilic gastritis
+
+[Term]
+id: DOID:14183 ! alcoholic neuropathy
+xref: NCIT:C26926 ! alcoholic polyneuropathy
+
+[Term]
+id: DOID:12140 ! Chagas disease
+xref: NCIT:C84629 ! chagas disease
+
+[Term]
+id: DOID:0060358 ! multiple acyl-CoA dehydrogenase deficiency
+xref: NCIT:C84907 ! multiple acyl-coa dehydrogenase deficiency
+xref: NCIT:C99102 ! glutaric acidemia type 2
+
+[Term]
+id: DOID:0050431 ! arrhythmogenic right ventricular cardiomyopathy
+xref: NCIT:C84571 ! arrhythmogenic right ventricular dysplasia
+
+[Term]
+id: DOID:813 ! septic arthritis
+xref: NCIT:C26699 ! bacterial arthritis
+xref: NCIT:C26700 ! infective arthritis
+
+[Term]
+id: DOID:10936 ! schizoid personality disorder
+xref: NCIT:C92631 ! schizoid personality disorder
+
+[Term]
+id: DOID:1682 ! congenital heart disease
+xref: NCIT:C34666 ! heart malformation
+xref: NCIT:C95834 ! congenital heart disease
+
+[Term]
+id: DOID:605 ! flying phobia
+xref: NCIT:C35413 ! flying phobia
+
+[Term]
+id: DOID:10554 ! meningoencephalitis
+xref: NCIT:C34813 ! meningoencephalitis
+
+[Term]
+id: DOID:9809 ! hypersensitivity vasculitis
+xref: NCIT:C82863 ! leukocytoclastic vasculitis
+
+[Term]
+id: DOID:10932 ! obsessive-compulsive personality disorder
+xref: NCIT:C92638 ! obsessive-compulsive personality disorder
+
+[Term]
+id: DOID:4154 ! dentinogenesis imperfecta
+xref: NCIT:C84667 ! dentinogenesis imperfecta
+
+[Term]
+id: DOID:611 ! leukocyte-adhesion deficiency syndrome
+xref: NCIT:C27874 ! leukocyte adhesion deficiency
+
+[Term]
+id: DOID:399 ! tuberculosis
+xref: NCIT:C27347 ! tuberculous abscess
+xref: NCIT:C3423 ! tuberculosis
+
+[Term]
+id: DOID:7365 ! Kimura disease
+xref: NCIT:C26867 ! kimura disease
+
+[Term]
+id: DOID:14365 ! systemic primary carnitine deficiency disease
+xref: NCIT:C98864 ! primary carnitine deficiency
+
+[Term]
+id: DOID:0060040 ! pervasive developmental disorder
+xref: NCIT:C97179 ! pervasive developmental disorder
+
+[Term]
+id: DOID:14681 ! Silver-Russell syndrome
+xref: NCIT:C85068 ! russell-silver syndrome
+
+[Term]
+id: DOID:8469 ! influenza
+xref: NCIT:C53482 ! influenza
+
+[Term]
+id: DOID:12252 ! Cushing's syndrome
+xref: NCIT:C113210 ! cushing disease
+xref: NCIT:C2969 ! cushing syndrome
+
+[Term]
+id: DOID:1168 ! familial hyperlipidemia
+xref: NCIT:C34709 ! hyperlipoproteinemia
+
+[Term]
+id: DOID:10787 ! premature menopause
+xref: NCIT:C80099 ! premature menopause
+
+[Term]
+id: DOID:0050441 ! mucosulfatidosis
+xref: NCIT:C84908 ! multiple sulfatase deficiency disease
+
+[Term]
+id: DOID:14202 ! adult dermatomyositis
+xref: NCIT:C27313 ! adult dermatomyositis
+
+[Term]
+id: DOID:8108 ! fibroepithelial polyp of urethra
+xref: NCIT:C6170 ! urethra fibroepithelial polyp
+
+[Term]
+id: DOID:0050667 ! alcohol-related neurodevelopmental disorder
+xref: NCIT:C92728 ! alcohol related neurodevelopmental disorder
+
+[Term]
+id: DOID:379 ! external ear disease
+xref: NCIT:C26972 ! external ear disorder
+
+[Term]
+id: DOID:3042 ! allergic contact dermatitis
+xref: NCIT:C26998 ! allergic contact dermatitis
+
+[Term]
+id: DOID:13801 ! pharyngoconjunctival fever
+xref: NCIT:C34924 ! pharyngoconjunctival fever
+
+[Term]
+id: DOID:10783 ! methemoglobinemia
+xref: NCIT:C34817 ! methemoglobinemia
+
+[Term]
+id: DOID:6683 ! Aarskog-Scott syndrome
+xref: NCIT:C35255 ! greig syndrome
+
+[Term]
+id: DOID:3690 ! brachial plexus neuropathy
+xref: NCIT:C27194 ! brachial plexopathy
+
+[Term]
+id: DOID:0060235 ! carnitine palmitoyltransferase II deficiency
+xref: NCIT:C114766 ! carnitine palmitoyltransferase ii deficiency
+
+[Term]
+id: DOID:11432 ! endometriosis of ovary
+xref: NCIT:C27628 ! ovarian endometriosis
+
+[Term]
+id: DOID:8337 ! appendicitis
+xref: NCIT:C35145 ! appendicitis
+
+[Term]
+id: DOID:0060317 ! lung abscess
+xref: NCIT:C99090 ! lung abscess
+
+[Term]
+id: DOID:624 ! transient hypogammaglobulinemia of infancy
+xref: NCIT:C27071 ! transient hypogammaglobulinemia of infancy
+
+[Term]
+id: DOID:9155 ! mucocutaneous leishmaniasis
+xref: NCIT:C34769 ! american cutaneous leishmaniasis
+
+[Term]
+id: DOID:1235 ! fetishism
+xref: NCIT:C94353 ! fetishism
+
+[Term]
+id: DOID:9042 ! polyp of corpus uteri
+xref: NCIT:C3662 ! uterine polyp
+
+[Term]
+id: DOID:9743 ! diabetic neuropathy
+xref: NCIT:C26748 ! diabetic neuropathy
+
+[Term]
+id: DOID:936 ! brain disease
+xref: NCIT:C26920 ! encephalopathy
+xref: NCIT:C96413 ! brain disorder
+
+[Term]
+id: DOID:13711 ! dental fluorosis
+xref: NCIT:C85059 ! dental fluorosis
+
+[Term]
+id: DOID:8947 ! diabetic retinopathy
+xref: NCIT:C34538 ! diabetic retinopathy
+
+[Term]
+id: DOID:11088 ! asphyxia neonatorum
+xref: NCIT:C116313 ! perinatal depression
+
+[Term]
+id: DOID:13620 ! patent foramen ovale
+xref: NCIT:C34619 ! patent foramen ovale
+
+[Term]
+id: DOID:6034 ! heart malignant hemangiopericytoma
+xref: NCIT:C5365 ! malignant cardiac hemangiopericytoma
+
+[Term]
+id: DOID:14179 ! Bruton-type agammaglobulinemia
+xref: NCIT:C3822 ! x-linked agammaglobulinemia
+
+[Term]
+id: DOID:606 ! Brown-Sequard syndrome
+xref: NCIT:C84601 ! brown-sequard syndrome
+
+[Term]
+id: DOID:10582 ! Refsum disease
+xref: NCIT:C85043 ! refsum disease
+
+[Term]
+id: DOID:1080 ! filariasis
+xref: NCIT:C34611 ! filariasis
+
+[Term]
+id: DOID:2066 ! vulvar angiokeratoma
+xref: NCIT:C8596 ! vulvar angiokeratoma
+
+[Term]
+id: DOID:10587 ! Krabbe disease
+xref: NCIT:C61254 ! krabbe disease
+
+[Term]
+id: DOID:9278 ! hyperargininemia
+xref: NCIT:C84568 ! argininemia
+
+[Term]
+id: DOID:1577 ! limited scleroderma
+xref: NCIT:C70646 ! crest syndrome
+
+[Term]
+id: DOID:9790 ! toxocariasis
+xref: NCIT:C34758 ! visceral larva migrans
+xref: NCIT:C85194 ! toxocariasis
+
+[Term]
+id: DOID:4337 ! tinea capitis
+xref: NCIT:C34536 ! dermatophytosis of scalp and beard
+
+[Term]
+id: DOID:1699 ! congenital ichthyosiform erythroderma
+xref: NCIT:C84805 ! lamellar ichthyosis
+
+[Term]
+id: DOID:0050848 ! obstructive sleep apnea
+xref: NCIT:C27168 ! obstructive sleep apnea syndrome
+
+[Term]
+id: DOID:8622 ! measles
+xref: NCIT:C96406 ! measles
+
+[Term]
+id: DOID:0060010 ! Omenn syndrome
+xref: NCIT:C61240 ! omenn syndrome
+
+[Term]
+id: DOID:11450 ! allergic cutaneous vasculitis
+xref: NCIT:C35119 ! allergic cutaneous angiitis
+
+[Term]
+id: DOID:4784 ! immune-complex glomerulonephritis
+xref: NCIT:C35800 ! immune complex glomerulonephritis
+
+[Term]
+id: DOID:13186 ! megaesophagus
+xref: NCIT:C34811 ! megaesophagus
+
+[Term]
+id: DOID:8929 ! atrophic gastritis
+xref: NCIT:C7405 ! chronic atrophic gastritis
+
+[Term]
+id: DOID:0050589 ! inflammatory bowel disease
+xref: NCIT:C3138 ! inflammatory bowel disease
+
+[Term]
+id: DOID:1067 ! open-angle glaucoma
+xref: NCIT:C34641 ! open angle glaucoma
+
+[Term]
+id: DOID:9398 ! epiglottitis
+xref: NCIT:C116007 ! epiglottitis
+
+[Term]
+id: DOID:110 ! lens disease
+xref: NCIT:C26812 ! lens disorder
+
+[Term]
+id: DOID:0050709 ! Ohtahara syndrome
+xref: NCIT:C116552 ! early infantile epileptic encephalopathy with burst-suppression
+
+[Term]
+id: DOID:0050685 ! small cell carcinoma
+xref: NCIT:C4099 ! small cell intermediate cell carcinoma
+
+[Term]
+id: DOID:0060439 ! lysinuric protein intolerance
+xref: NCIT:C121563 ! lysinuric protein intolerance
+
+[Term]
+id: DOID:1098 ! fetal erythroblastosis
+xref: NCIT:C101304 ! hemolytic disease of the newborn
+
+[Term]
+id: DOID:4023 ! linitis plastica
+xref: NCIT:C3190 ! linitis plastica
+
+[Term]
+id: DOID:0060118 ! thoracic disease
+xref: NCIT:C35742 ! thoracic disorder
+
+[Term]
+id: DOID:8536 ! herpes zoster
+xref: NCIT:C71079 ! herpes zoster
+
+[Term]
+id: DOID:1673 ! pneumothorax
+xref: NCIT:C38006 ! pneumothorax
+
+[Term]
+id: DOID:11247 ! disseminated intravascular coagulation
+xref: NCIT:C2992 ! disseminated intravascular coagulation
+
+[Term]
+id: DOID:12297 ! Vogt-Koyanagi-Harada disease
+xref: NCIT:C85218 ! uveomeningoencephalitic syndrome
+
+[Term]
+id: DOID:3646 ! necrosis of pituitary
+xref: NCIT:C27066 ! pituitary gland necrosis
+
+[Term]
+id: DOID:1442 ! Alpers syndrome
+xref: NCIT:C35257 ! alper syndrome
+xref: NCIT:C84670 ! diffuse cerebral sclerosis of schilder
+
+[Term]
+id: DOID:2838 ! stress polycythemia
+xref: NCIT:C27174 ! stress polycythemia
+
+[Term]
+id: DOID:13258 ! typhoid fever
+xref: NCIT:C35089 ! typhoid fever
+
+[Term]
+id: DOID:12308 ! Dubin-Johnson syndrome
+xref: NCIT:C34741 ! dubin-johnson syndrome
+
+[Term]
+id: DOID:718 ! autoimmune hemolytic anemia
+xref: NCIT:C34378 ! autoimmune hemolytic anemia
+
+[Term]
+id: DOID:0050770 ! polycystic liver disease
+xref: NCIT:C82833 ! polycystic liver disease
+
+[Term]
+id: DOID:10973 ! acute salpingitis
+xref: NCIT:C40120 ! acute salpingitis
+
+[Term]
+id: DOID:12667 ! binocular vision disease
+xref: NCIT:C34422 ! binocular vision disorder
+
+[Term]
+id: DOID:11364 ! lens subluxation
+xref: NCIT:C34772 ! lens subluxation
+
+[Term]
+id: DOID:13025 ! retinopathy of prematurity
+xref: NCIT:C34982 ! retinopathy of prematurity
+
+[Term]
+id: DOID:699 ! mitochondrial myopathy
+xref: NCIT:C101328 ! mitochondrial myopathy
+
+[Term]
+id: DOID:9250 ! acrocallosal syndrome
+xref: NCIT:C84531 ! acrocallosal syndrome
+
+[Term]
+id: DOID:2959 ! hyperimmunoglobulin syndrome
+xref: NCIT:C27579 ! hyperimmunoglobulin syndrome
+
+[Term]
+id: DOID:7528 ! acute endometritis
+xref: NCIT:C27022 ! acute endometritis
+
+[Term]
+id: DOID:11634 ! myxedema
+xref: NCIT:C34834 ! myxedema
+
+[Term]
+id: DOID:4404 ! occupational dermatitis
+xref: NCIT:C34859 ! occupational dermatitis
+
+[Term]
+id: DOID:1395 ! schistosomiasis
+xref: NCIT:C35000 ! schistosomiasis
+
+[Term]
+id: DOID:8593 ! chronic monocytic leukemia
+xref: NCIT:C34774 ! chronic monocytic leukemia
+
+[Term]
+id: DOID:4033 ! bacterial gastritis
+xref: NCIT:C27340 ! bacterial gastritis
+
+[Term]
+id: DOID:8741 ! seborrheic dermatitis
+xref: NCIT:C111888 ! seborrheic dermatitis
+
+[Term]
+id: DOID:3633 ! beta-mannosidosis
+xref: NCIT:C84596 ! beta-mannosidosis
+
+[Term]
+id: DOID:5576 ! inhibited male orgasm
+xref: NCIT:C34959 ! male orgasmic disorder
+
+[Term]
+id: DOID:4977 ! lymphedema
+xref: NCIT:C3207 ! lymphedema
+
+[Term]
+id: DOID:14269 ! suppurative cholangitis
+xref: NCIT:C35336 ! suppurative cholangitis
+
+[Term]
+id: DOID:12217 ! Lewy body dementia
+xref: NCIT:C84826 ! lewy body dementia
+
+[Term]
+id: DOID:5692 ! cellular myxoid liposarcoma
+xref: NCIT:C4252 ! round cell liposarcoma
+
+[Term]
+id: DOID:1835 ! mononeuritis multiplex
+xref: NCIT:C70938 ! mononeuritis multiplex
+
+[Term]
+id: DOID:2051 ! maxillary sinusitis
+xref: NCIT:C34809 ! maxillary sinusitis
+
+[Term]
+id: DOID:1787 ! pericarditis
+xref: NCIT:C34915 ! pericarditis
+
+[Term]
+id: DOID:2667 ! benign mesenchymoma
+xref: NCIT:C4267 ! benign mesenchymoma
+
+[Term]
+id: DOID:0050826 ! tricuspid valve disease
+xref: NCIT:C78649 ! tricuspid valve disorder
+
+[Term]
+id: DOID:12662 ! paracoccidioidomycosis
+xref: NCIT:C34891 ! paracoccidioidomycosis
+
+[Term]
+id: DOID:4329 ! Erdheim-Chester disease
+xref: NCIT:C53972 ! erdheim-chester disease
+
+[Term]
+id: DOID:6197 ! conventional malignant hemangiopericytoma
+xref: NCIT:C9425 ! conventional malignant hemangiopericytoma
+
+[Term]
+id: DOID:0050127 ! sinusitis
+xref: NCIT:C35024 ! sinusitis
+
+[Term]
+id: DOID:12580 ! Cri-Du-Chat syndrome
+xref: NCIT:C34518 ! cri du chat syndrome
+
+[Term]
+id: DOID:9765 ! emphysematous cholecystitis
+xref: NCIT:C35592 ! emphysematous cholecystitis
+
+[Term]
+id: DOID:409 ! liver disease
+xref: NCIT:C3196 ! liver and intrahepatic bile duct disorder
+
+[Term]
+id: DOID:14448 ! 46 XY gonadal dysgenesis
+xref: NCIT:C120198 ! 46,xy gonadal dysgenesis
+
+[Term]
+id: DOID:10686 ! lactocele
+xref: NCIT:C3515 ! galactocele
+
+[Term]
+id: DOID:2797 ! idiopathic interstitial pneumonia
+xref: NCIT:C35714 ! idiopathic interstitial pneumonia
+
+[Term]
+id: DOID:0060189 ! ileitis
+xref: NCIT:C35329 ! crohn ileitis
+xref: NCIT:C84782 ! ileitis
+
+[Term]
+id: DOID:12401 ! intermittent explosive disorder
+xref: NCIT:C94332 ! intermittent explosive disorder
+
+[Term]
+id: DOID:0060334 ! transient neonatal diabetes mellitus
+xref: NCIT:C114899 ! transient neonatal diabetes mellitus
+
+[Term]
+id: DOID:4327 ! Marburg hemorrhagic fever
+xref: NCIT:C84883 ! marburg virus disease
+
+[Term]
+id: DOID:2739 ! Gilbert syndrome
+xref: NCIT:C84729 ! gilbert syndrome
+
+[Term]
+id: DOID:8580 ! malignant histiocytosis
+xref: NCIT:C7202 ! malignant histiocytosis
+
+[Term]
+id: DOID:8153 ! fibroosseous pseudotumor of digits
+xref: NCIT:C6573 ! fibroosseous pseudotumor of the digits
+
+[Term]
+id: DOID:3635 ! congenital myasthenic syndrome
+xref: NCIT:C84647 ! congenital myasthenic syndrome
+
+[Term]
+id: DOID:2113 ! coccidiosis
+xref: NCIT:C34493 ! coccidiosis
+
+[Term]
+id: DOID:11720 ! distal muscular dystrophy
+xref: NCIT:C84675 ! distal muscular dystrophy
+
+[Term]
+id: DOID:381 ! arthropathy
+xref: NCIT:C35760 ! arthropathy
+
+[Term]
+id: DOID:4201 ! peroneal neuropathy
+xref: NCIT:C27596 ! peroneal neuropathy
+
+[Term]
+id: DOID:12971 ! hereditary spherocytosis
+xref: NCIT:C97074 ! hereditary spherocytosis
+
+[Term]
+id: DOID:13268 ! porphyria
+xref: NCIT:C97096 ! porphyria
+
+[Term]
+id: DOID:2236 ! congenital afibrinogenemia
+xref: NCIT:C26692 ! factor i deficiency
+
+[Term]
+id: DOID:2058 ! chronic mucocutaneous candidiasis
+xref: NCIT:C34444 ! chronic mucocutaneous candidiasis
+
+[Term]
+id: DOID:13550 ! angle-closure glaucoma
+xref: NCIT:C34639 ! angle closure glaucoma
+
+[Term]
+id: DOID:2055 ! post-traumatic stress disorder
+xref: NCIT:C3389 ! post-traumatic stress disorder
+
+[Term]
+id: DOID:2860 ! hemoglobinopathy
+xref: NCIT:C3092 ! hemoglobinopathy
+
+[Term]
+id: DOID:2538 ! Landau-Kleffner syndrome
+xref: NCIT:C84806 ! landau-kleffner syndrome
+
+[Term]
+id: DOID:10325 ! silicosis
+xref: NCIT:C3369 ! silicosis
+
+[Term]
+id: DOID:1056 ! oculocerebrorenal syndrome
+xref: NCIT:C84940 ! oculocerebrorenal syndrome
+
+[Term]
+id: DOID:10966 ! lipoid nephrosis
+xref: NCIT:C34844 ! minimal change glomerulonephritis
+xref: NCIT:C35540 ! nephrotic syndrome with lesion of minimal change glomerulonephritis
+
+[Term]
+id: DOID:9507 ! ethmoid sinusitis
+xref: NCIT:C34597 ! ethmoidal sinusitis
+
+[Term]
+id: DOID:11338 ! tetanus
+xref: NCIT:C85185 ! tetanus
+
+[Term]
+id: DOID:8442 ! paralytic ileus
+xref: NCIT:C93045 ! paralytic ileus
+
+[Term]
+id: DOID:13994 ! cleidocranial dysplasia
+xref: NCIT:C75020 ! cleidocranial dysplasia
+
+[Term]
+id: DOID:906 ! peroxisomal disease
+xref: NCIT:C85005 ! peroxisomal disorder
+
+[Term]
+id: DOID:13099 ! Moyamoya disease
+xref: NCIT:C84895 ! moyamoya disease
+
+[Term]
+id: DOID:1926 ! Gaucher's disease
+xref: NCIT:C61268 ! gaucher disease
+
+[Term]
+id: DOID:6024 ! selective IgE deficiency disease
+xref: NCIT:C27143 ! selective ige immunodeficiency
+
+[Term]
+id: DOID:4779 ! focal embolic glomerulonephritis
+xref: NCIT:C35707 ! focal embolic glomerulonephritis
+
+[Term]
+id: DOID:423 ! myopathy
+xref: NCIT:C101216 ! myopathy
+
+[Term]
+id: DOID:1060 ! Hartnup disease
+xref: NCIT:C84748 ! hartnup disease
+
+[Term]
+id: DOID:2462 ! retinal vascular disease
+xref: NCIT:C35170 ! retinal vascular disorder
+
+[Term]
+id: DOID:0050436 ! mulibrey nanism
+xref: NCIT:C84906 ! mulibrey nanism
+
+[Term]
+id: DOID:5212 ! congenital disorder of glycosylation
+xref: NCIT:C84615 ! carbohydrate-deficient glycoprotein syndrome
+
+[Term]
+id: DOID:14374 ! norwegian scabies
+xref: NCIT:C34855 ! norwegian scabies
+
+[Term]
+id: DOID:5155 ! multiple mucosal neuroma
+xref: NCIT:C6559 ! multiple mucosal neuromas
+
+[Term]
+id: DOID:14146 ! ureterolithiasis
+xref: NCIT:C114696 ! ureterolithiasis
+
+[Term]
+id: DOID:12889 ! Miller Fisher syndrome
+xref: NCIT:C116958 ! fisher syndrome
+
+[Term]
+id: DOID:1272 ! telangiectasis
+xref: NCIT:C28194 ! telangiectasia
+
+[Term]
+id: DOID:646 ! viral encephalitis
+xref: NCIT:C34576 ! epidemic encephalitis
+xref: NCIT:C34579 ! tick-born viral encephalitis
+xref: NCIT:C34823 ! mosquito-born viral encephalitis
+xref: NCIT:C35302 ! viral encephalitis
+
+[Term]
+id: DOID:14735 ! hereditary angioedema
+xref: NCIT:C84758 ! hereditary angioedema
+
+[Term]
+id: DOID:2510 ! Kluver-Bucy syndrome
+xref: NCIT:C84802 ! kluver-bucy syndrome
+
+[Term]
+id: DOID:0050876 ! Caroli disease
+xref: NCIT:C84619 ! caroli disease
+
+[Term]
+id: DOID:3390 ! palmoplantar keratosis
+xref: NCIT:C34748 ! palmoplantar keratoderma
+
+[Term]
+id: DOID:3492 ! mixed connective tissue disease
+xref: NCIT:C84892 ! mixed connective tissue disease
+
+[Term]
+id: DOID:4468 ! clear cell adenocarcinoma
+xref: NCIT:C4156 ! water-clear cell adenocarcinoma
+
+[Term]
+id: DOID:14272 ! pericholangitis
+xref: NCIT:C34916 ! pericholangitis
+
+[Term]
+id: DOID:4997 ! Camurati-Engelmann disease
+xref: NCIT:C84610 ! camurati-engelmann syndrome
+
+[Term]
+id: DOID:683 ! motor neuritis
+xref: NCIT:C3500 ! peripheral motor neuropathy
+
+[Term]
+id: DOID:9270 ! alkaptonuria
+xref: NCIT:C84546 ! alkaptonuria
+
+[Term]
+id: DOID:9255 ! frontotemporal dementia
+xref: NCIT:C84719 ! frontotemporal dementia
+
+[Term]
+id: DOID:603 ! AIDS phobia
+xref: NCIT:C35614 ! aids phobia
+
+[Term]
+id: DOID:3322 ! gangliosidosis GM1
+xref: NCIT:C84739 ! gm1 gangliosidosis
+
+[Term]
+id: DOID:10608 ! celiac disease
+xref: NCIT:C26714 ! celiac disease
+
+[Term]
+id: DOID:12120 ! pulmonary alveolar proteinosis
+xref: NCIT:C85037 ! pulmonary alveolar proteinosis
+
+[Term]
+id: DOID:0050474 ! Netherton syndrome
+xref: NCIT:C84922 ! netherton syndrome
+
+[Term]
+id: DOID:12161 ! peripheral retinal degeneration
+xref: NCIT:C34919 ! peripheral retinal degeneration
+
+[Term]
+id: DOID:14777 ! benign familial neonatal epilepsy
+xref: NCIT:C84593 ! benign neonatal epilepsy
+
+[Term]
+id: DOID:10080 ! sparganosis
+xref: NCIT:C35030 ! sparganosis
+
+[Term]
+id: DOID:874 ! bacterial pneumonia
+xref: NCIT:C26704 ! bacterial pneumonia
+
+[Term]
+id: DOID:589 ! congenital hemolytic anemia
+xref: NCIT:C34379 ! hereditary hemolytic anemia
+
+[Term]
+id: DOID:10793 ! chronic sphenoidal sinusitis
+xref: NCIT:C34480 ! chronic sphenoidal sinusitis
+
+[Term]
+id: DOID:12798 ! mucopolysaccharidosis
+xref: NCIT:C61259 ! mucopolysaccharidosis
+
+[Term]
+id: DOID:593 ! agoraphobia
+xref: NCIT:C34362 ! agoraphobia
+
+[Term]
+id: DOID:9655 ! oral mucosa leukoplakia
+xref: NCIT:C3187 ! oral leukoplakia
+
+[Term]
+id: DOID:10074 ! hymenolepiasis
+xref: NCIT:C84768 ! hymenolepiasis
+
+[Term]
+id: DOID:7489 ! Osgood-Schlatter's disease
+xref: NCIT:C34874 ! osgood-schlatter's disease
+
+[Term]
+id: DOID:4184 ! pseudohypoparathyroidism
+xref: NCIT:C99027 ! pseudohypoparathyroidism
+
+[Term]
+id: DOID:4971 ! myelofibrosis
+xref: NCIT:C3248 ! myelofibrosis
+
+[Term]
+id: DOID:13413 ! hepatic encephalopathy
+xref: NCIT:C79596 ! hepatic encephalopathy
+
+[Term]
+id: DOID:1927 ! sphingolipidosis
+xref: NCIT:C117254 ! sphingolipidosis
+
+[Term]
+id: DOID:9602 ! necrotizing fasciitis
+xref: NCIT:C84916 ! necrotizing fasciitis
+
+[Term]
+id: DOID:9553 ! adrenal gland disease
+xref: NCIT:C26690 ! adrenal gland disorder
+
+[Term]
+id: DOID:90 ! degenerative disc disease
+xref: NCIT:C26983 ! intervertebral disc degenerative disorder
+xref: NCIT:C27154 ! lumbar disc degenerative disorder
+xref: NCIT:C27156 ! cervical disc degenerative disorder
+
+[Term]
+id: DOID:14292 ! vulvar dystrophy
+xref: NCIT:C34565 ! vulvar dystrophy
+
+[Term]
+id: DOID:13636 ! Fanconi's anemia
+xref: NCIT:C62505 ! fanconi anemia
+
+[Term]
+id: DOID:7725 ! epilepsy with generalized tonic-clonic seizures
+xref: NCIT:C3022 ! grand mal epilepsy
+
+[Term]
+id: DOID:2908 ! Treacher Collins syndrome
+xref: NCIT:C75018 ! treacher collins syndrome
+
+[Term]
+id: DOID:10967 ! spastic hemiplegia
+xref: NCIT:C116905 ! spastic hemiplegia
+
+[Term]
+id: DOID:9870 ! galactosemia
+xref: NCIT:C84723 ! galactosemia
+
+[Term]
+id: DOID:820 ! myocarditis
+xref: NCIT:C34831 ! myocarditis
+
+[Term]
+id: DOID:8743 ! erythema infectiosum
+xref: NCIT:C84695 ! erythema infectiosum
+
+[Term]
+id: DOID:77 ! gastrointestinal system disease
+xref: NCIT:C2990 ! digestive system disorder
+
+[Term]
+id: DOID:10584 ! retinitis pigmentosa
+xref: NCIT:C85045 ! retinitis pigmentosa
+
+[Term]
+id: DOID:8927 ! learning disability
+xref: NCIT:C89334 ! learning disorder
+
+[Term]
+id: DOID:5642 ! localized pulmonary fibrosis
+xref: NCIT:C27103 ! localized pulmonary fibrosis
+
+[Term]
+id: DOID:8466 ! retinal degeneration
+xref: NCIT:C34979 ! retinal degeneration
+
+[Term]
+id: DOID:4325 ! Ebola hemorrhagic fever
+xref: NCIT:C36171 ! ebola hemorrhagic fever
+
+[Term]
+id: DOID:11714 ! gestational diabetes
+xref: NCIT:C34942 ! gestational diabetes
+
+[Term]
+id: DOID:2361 ! macrocytic anemia
+xref: NCIT:C34381 ! macrocytic anemia
+
+[Term]
+id: DOID:11543 ! corneal abscess
+xref: NCIT:C26969 ! corneal abscess
+
+[Term]
+id: DOID:668 ! myositis ossificans
+xref: NCIT:C3253 ! myositis ossificans
+
+[Term]
+id: DOID:1002 ! endometritis
+xref: NCIT:C26764 ! endometritis
+
+[Term]
+id: DOID:625 ! transient hypogammaglobulinemia
+xref: NCIT:C27319 ! transient hypogammaglobulinemia
+
+[Term]
+id: DOID:11367 ! congenital aphakia
+xref: NCIT:C35172 ! congenital aphakia
+
+[Term]
+id: DOID:206 ! hereditary multiple exostoses
+xref: NCIT:C5183 ! hereditary multiple exostoses
+
+[Term]
+id: DOID:9502 ! chronic eosinophilic pneumonia
+xref: NCIT:C34471 ! chronic eosinophilic pneumonia
+
+[Term]
+id: DOID:8501 ! fundus dystrophy
+xref: NCIT:C35625 ! retinal dystrophy
+
+[Term]
+id: DOID:4336 ! tinea favosa
+xref: NCIT:C35072 ! favus
+
+[Term]
+id: DOID:11193 ! syndactyly
+xref: NCIT:C87125 ! syndactyly
+
+[Term]
+id: DOID:13709 ! premature ejaculation
+xref: NCIT:C94349 ! premature ejaculation
+
+[Term]
+id: DOID:1595 ! endogenous depression
+xref: NCIT:C34532 ! endogenous depression
+xref: NCIT:C35094 ! unipolar depression
+
+[Term]
+id: DOID:10321 ! baritosis
+xref: NCIT:C34410 ! baritosis
+
+[Term]
+id: DOID:8440 ! ileus
+xref: NCIT:C37979 ! ileus
+
+[Term]
+id: DOID:11190 ! pseudomembranous conjunctivitis
+xref: NCIT:C35196 ! pseudomembranous conjunctivitis
+
+[Term]
+id: DOID:13482 ! Proteus syndrome
+xref: NCIT:C85032 ! proteus syndrome
+
+[Term]
+id: DOID:8500 ! hereditary retinal dystrophy
+xref: NCIT:C35194 ! hereditary retinal dystrophy
+
+[Term]
+id: DOID:2988 ! antiphospholipid syndrome
+xref: NCIT:C61283 ! antiphospholipid syndrome
+
+[Term]
+id: DOID:7315 ! Jewett-Marshall bladder cancer
+xref: NCIT:C9368 ! stage ivb bladder cancer
+
+[Term]
+id: DOID:12894 ! Sjogren's syndrome
+xref: NCIT:C26883 ! sjogren syndrome
+xref: NCIT:C70647 ! sicca syndrome
+
+[Term]
+id: DOID:3225 ! tracheal disease
+xref: NCIT:C35079 ! tracheal disorder
+
+[Term]
+id: DOID:7444 ! diffuse intraductal papillomatosis
+xref: NCIT:C7364 ! diffuse intraductal papillomatosis
+
+[Term]
+id: DOID:5769 ! verruciform xanthoma of skin
+xref: NCIT:C4478 ! cutaneous verruciform xanthoma
+
+[Term]
+id: DOID:988 ! mitral valve prolapse
+xref: NCIT:C50655 ! mitral valve prolapse
+
+[Term]
+id: DOID:2750 ! glycogen storage disease IV
+xref: NCIT:C84737 ! glycogen storage disease type iv
+
+[Term]
+id: DOID:10241 ! thalassemia
+xref: NCIT:C35069 ! thalassemia
+
+[Term]
+id: DOID:2490 ! congenital nervous system abnormality
+xref: NCIT:C97172 ! congenital nervous system disorder
+
+[Term]
+id: DOID:9938 ! dacryocystitis
+xref: NCIT:C34521 ! dacryocystitis
+
+[Term]
+id: DOID:3688 ! plexopathy
+xref: NCIT:C27744 ! plexopathy
+
+[Term]
+id: DOID:6950 ! combat disorder
+xref: NCIT:C34498 ! combat neurosis
+
+[Term]
+id: DOID:9281 ! phenylketonuria
+xref: NCIT:C81315 ! phenylketonuria
+
+[Term]
+id: DOID:6000 ! congestive heart failure
+xref: NCIT:C3080 ! congestive heart failure
+
+[Term]
+id: DOID:4780 ! anti-basement membrane glomerulonephritis
+xref: NCIT:C35798 ! anti-basement membrane glomerulonephritis
+
+[Term]
+id: DOID:5587 ! Volkmann contracture
+xref: NCIT:C35130 ! volkmann's ischemic contracture
+
+[Term]
+id: DOID:1156 ! chondrocalcinosis
+xref: NCIT:C26719 ! chondrocalcinosis
+xref: NCIT:C34955 ! pseudogout
+
+[Term]
+id: DOID:2219 ! Glanzmann's thrombasthenia
+xref: NCIT:C61249 ! glanzmann thrombasthenia
+
+[Term]
+id: DOID:1234 ! gender identity disorder
+xref: NCIT:C94362 ! gender identity disorder
+
+[Term]
+id: DOID:1440 ! Machado-Joseph disease
+xref: NCIT:C84830 ! machado-joseph disease
+
+[Term]
+id: DOID:9561 ! nasopharyngeal disease
+xref: NCIT:C35723 ! nasopharyngeal disorder
+
+[Term]
+id: DOID:12995 ! conduct disorder
+xref: NCIT:C89329 ! conduct disorder
+
+[Term]
+id: DOID:2913 ! acute pancreatitis
+xref: NCIT:C95437 ! acute pancreatitis
+
+[Term]
+id: DOID:0080070 ! inclusion-cell disease
+xref: NCIT:C61270 ! i-cell disease
+
+[Term]
+id: DOID:2914 ! immune system disease
+xref: NCIT:C3507 ! immune system disorder
+
+[Term]
+id: DOID:2752 ! glycogen storage disease II
+xref: NCIT:C84734 ! glycogen storage disease type ii
+
+[Term]
+id: DOID:12803 ! Sly syndrome
+xref: NCIT:C84903 ! sly syndrome
+
+[Term]
+id: DOID:1884 ! viral hepatitis
+xref: NCIT:C35124 ! viral hepatitis
+
+[Term]
+id: DOID:7237 ! pancreatic non-invasive mucinous cystadenocarcinoma
+xref: NCIT:C41245 ! pancreatic non-invasive mucinous cystadenocarcinoma
+
+[Term]
+id: DOID:12961 ! Poland syndrome
+xref: NCIT:C85017 ! poland syndrome
+
+[Term]
+id: DOID:10159 ! osteonecrosis
+xref: NCIT:C34841 ! avascular necrosis of bone
+xref: NCIT:C34880 ! bone necrosis
+
+[Term]
+id: DOID:0060243 ! stuttering
+xref: NCIT:C35043 ! stutter
+
+[Term]
+id: DOID:2530 ! splenic abscess
+xref: NCIT:C35347 ! splenic abscess
+
+[Term]
+id: DOID:3911 ! progeria
+xref: NCIT:C34951 ! progeria
+
+[Term]
+id: DOID:780 ! placenta disease
+xref: NCIT:C26857 ! placenta disorder
+
+[Term]
+id: DOID:2456 ! blepharoconjunctivitis
+xref: NCIT:C34430 ! blepharoconjunctivitis
+
+[Term]
+id: DOID:10487 ! Hirschsprung's disease
+xref: NCIT:C101074 ! total intestinal aganglionosis
+xref: NCIT:C34700 ! hirschsprung disease
+
+[Term]
+id: DOID:2738 ! pseudoxanthoma elasticum
+xref: NCIT:C85036 ! pseudoxanthoma elasticum
+
+[Term]
+id: DOID:0050606 ! acrokeratosis verruciformis
+xref: NCIT:C27519 ! acrokeratosis verruciformis
+
+[Term]
+id: DOID:0080074 ! neural tube defect
+xref: NCIT:C84923 ! neural tube defect
+
+[Term]
+id: DOID:1099 ! alpha thalassemia
+xref: NCIT:C34368 ! alpha thalassemia
+xref: NCIT:C95504 ! hemoglobin h disease
+
+[Term]
+id: DOID:11277 ! Plummer's disease
+xref: NCIT:C35171 ! toxic nodular goiter
+
+[Term]
+id: DOID:1949 ! cholecystitis
+xref: NCIT:C34465 ! cholecystitis
+xref: NCIT:C35146 ! chronic cholecystitis
+xref: NCIT:C35152 ! acute cholecystitis
+
+[Term]
+id: DOID:65 ! connective tissue disease
+xref: NCIT:C26729 ! connective tissue disorder
+xref: NCIT:C27204 ! rheumatologic disorder
+
+[Term]
+id: DOID:5362 ! focal epithelial hyperplasia
+xref: NCIT:C97083 ! focal epithelial hyperplasia
+
+[Term]
+id: DOID:3482 ! plague
+xref: NCIT:C85015 ! plague
+
+[Term]
+id: DOID:10792 ! chronic maxillary sinusitis
+xref: NCIT:C34477 ! chronic maxillary sinusitis
+
+[Term]
+id: DOID:4560 ! non specific chronic endometritis
+xref: NCIT:C27625 ! non specific chronic endometritis
+
+[Term]
+id: DOID:9368 ! keratoconjunctivitis
+xref: NCIT:C34744 ! keratoconjunctivitis
+
+[Term]
+id: DOID:6297 ! viral esophagitis
+xref: NCIT:C27108 ! viral esophagitis
+
+[Term]
+id: DOID:397 ! restrictive cardiomyopathy
+xref: NCIT:C62798 ! restrictive cardiomyopathy
+
+[Term]
+id: DOID:0050650 ! familial atrial fibrillation
+xref: NCIT:C50466 ! atrial fibrillation
+
+[Term]
+id: DOID:0050214 ! Lambert-Eaton myasthenic syndrome
+xref: NCIT:C3155 ! lambert eaton myasthenic syndrome
+
+[Term]
+id: DOID:7559 ! asymmetric motor neuropathy
+xref: NCIT:C27953 ! asymmetric motor neuropathy
+
+[Term]
+id: DOID:14522 ! partial arterial retinal occlusion
+xref: NCIT:C35192 ! partial retinal arterial occlusion
+
+[Term]
+id: DOID:1381 ! fox fordyce disease
+xref: NCIT:C84716 ! fox-fordyce disease
+
+[Term]
+id: DOID:1340 ! pure red-cell aplasia
+xref: NCIT:C34974 ! pure red cell aplasia
+
+[Term]
+id: DOID:4677 ! keratitis
+xref: NCIT:C26805 ! keratitis
+
+[Term]
+id: DOID:10426 ! Klippel-Feil syndrome
+xref: NCIT:C98967 ! klippel-feil syndrome
+
+[Term]
+id: DOID:0050851 ! glomerulosclerosis
+xref: NCIT:C120888 ! glomerulosclerosis
+
+[Term]
+id: DOID:1063 ! interstitial nephritis
+xref: NCIT:C26834 ! interstitial nephritis
+
+[Term]
+id: DOID:854 ! collagen disease
+xref: NCIT:C27204 ! rheumatologic disorder
+
+[Term]
+id: DOID:5641 ! diffuse pulmonary fibrosis
+xref: NCIT:C27216 ! diffuse pulmonary fibrosis
+
+[Term]
+id: DOID:811 ! lipodystrophy
+xref: NCIT:C97093 ! lipodystrophy
+
+[Term]
+id: DOID:9297 ! lip disease
+xref: NCIT:C26818 ! lip disorder
+
+[Term]
+id: DOID:11758 ! iron deficiency anemia
+xref: NCIT:C84484 ! iron-deficiency anemia
+
+[Term]
+id: DOID:14271 ! acute cholangitis
+xref: NCIT:C35334 ! acute cholangitis
+
+[Term]
+id: DOID:3341 ! osteitis fibrosa
+xref: NCIT:C34875 ! osteitis fibrosa cystica
+
+[Term]
+id: DOID:14525 ! Reye syndrome
+xref: NCIT:C34983 ! reye syndrome
+
+[Term]
+id: DOID:0050448 ! hereditary mucosal leukokeratosis
+xref: NCIT:C84760 ! hereditary mucosal leukokeratosis
+
+[Term]
+id: DOID:2347 ! generalized atherosclerosis
+xref: NCIT:C35767 ! generalized atherosclerosis
+
+[Term]
+id: DOID:13378 ! Kawasaki disease
+xref: NCIT:C34825 ! kawasaki disease
+
+[Term]
+id: DOID:13117 ! paronychia
+xref: NCIT:C79702 ! paronychia
+
+[Term]
+id: DOID:14176 ! selective IgG deficiency disease
+xref: NCIT:C27024 ! selective immunoglobulin g subclass deficiency
+xref: NCIT:C27142 ! selective igg immunodeficiency
+
+[Term]
+id: DOID:1962 ! fallopian tube disease
+xref: NCIT:C26771 ! fallopian tube disorder
+
+[Term]
+id: DOID:14453 ! farmer's lung
+xref: NCIT:C34605 ! farmer's lung
+
+[Term]
+id: DOID:13523 ! loiasis
+xref: NCIT:C34784 ! loiasis
+
+[Term]
+id: DOID:10965 ! spastic diplegia
+xref: NCIT:C34781 ! spastic diplegia
+
+[Term]
+id: DOID:3890 ! acute intermittent porphyria
+xref: NCIT:C84536 ! acute intermittent porphyria
+
+[Term]
+id: DOID:0060159 ! organic acidemia
+xref: NCIT:C101334 ! organic acid metabolism disorder
+
+[Term]
+id: DOID:1426 ! ureteral disease
+xref: NCIT:C27148 ! ureter disorder
+
+[Term]
+id: DOID:8472 ! localized scleroderma
+xref: NCIT:C72069 ! localized scleroderma
+
+[Term]
+id: DOID:866 ! vein disease
+xref: NCIT:C35279 ! vein disorder
+
+[Term]
+id: DOID:5749 ! pulmonary valve disease
+xref: NCIT:C78579 ! pulmonary valve disorder
+
+[Term]
+id: DOID:10923 ! sickle cell anemia
+xref: NCIT:C34383 ! sickle cell disease
+xref: NCIT:C34676 ! sickle cell-hemoglobin c disease
+
+[Term]
+id: DOID:8354 ! complement component 3 deficiency
+xref: NCIT:C9468 ! c3 deficiency
+
+[Term]
+id: DOID:1883 ! hepatitis C
+xref: NCIT:C3098 ! hepatitis c infection
+
+[Term]
+id: DOID:12574 ! posterior uveitis
+xref: NCIT:C35111 ! posterior uveitis
+
+[Term]
+id: DOID:396 ! Loeffler endocarditis
+xref: NCIT:C27044 ! eosinophilic endomyocardial disease
+
+[Term]
+id: DOID:14723 ! beta-ketothiolase deficiency
+xref: NCIT:C98841 ! beta-ketothiolase deficiency
+
+[Term]
+id: DOID:7147 ! ankylosing spondylitis
+xref: NCIT:C84564 ! ankylosing spondylitis
+
+[Term]
+id: DOID:0060284 ! paroxysmal nocturnal hemoglobinuria
+xref: NCIT:C61233 ! paroxysmal nocturnal hemoglobinuria
+
+[Term]
+id: DOID:4346 ! variegate porphyria
+xref: NCIT:C85219 ! variegate porphyria
+
+[Term]
+id: DOID:2377 ! multiple sclerosis
+xref: NCIT:C3243 ! multiple sclerosis
+
+[Term]
+id: DOID:11481 ! constrictive pericarditis
+xref: NCIT:C78246 ! constrictive pericarditis
+
+[Term]
+id: DOID:12858 ! Huntington's disease
+xref: NCIT:C82342 ! huntington's disease
+
+[Term]
+id: DOID:10264 ! mumps
+xref: NCIT:C29888 ! mumps
+
+[Term]
+id: DOID:9675 ! pulmonary emphysema
+xref: NCIT:C3348 ! pulmonary emphysema
+
+[Term]
+id: DOID:4480 ! achondroplasia
+xref: NCIT:C34345 ! achondroplasia
+
+[Term]
+id: DOID:10079 ! cysticercosis
+xref: NCIT:C34520 ! cysticercosis
+xref: NCIT:C84932 ! neurocysticercosis
+
+[Term]
+id: DOID:1928 ! Williams-Beuren syndrome
+xref: NCIT:C85232 ! williams syndrome
+
+[Term]
+id: DOID:11949 ! Creutzfeldt-Jakob disease
+xref: NCIT:C26802 ! creutzfeldt-jakob disease
+
+[Term]
+id: DOID:7378 ! pituitary hypoplasia
+xref: NCIT:C27343 ! pituitary gland hypoplasia
+
+[Term]
+id: DOID:8398 ! osteoarthritis
+xref: NCIT:C3293 ! osteoarthritis
+
+[Term]
+id: DOID:2978 ! carbohydrate metabolic disorder
+xref: NCIT:C97089 ! carbohydrate metabolism disorder
+
+[Term]
+id: DOID:6195 ! conjunctivitis
+xref: NCIT:C34504 ! conjunctivitis
+
+[Term]
+id: DOID:10327 ! anthracosis
+xref: NCIT:C34390 ! anthracosis
+
+[Term]
+id: DOID:0060451 ! Meesmann corneal dystrophy
+xref: NCIT:C84795 ! meesmann corneal dystrophy
+
+[Term]
+id: DOID:8577 ! ulcerative colitis
+xref: NCIT:C2952 ! ulcerative colitis
+
+[Term]
+id: DOID:12176 ! goiter
+xref: NCIT:C26785 ! goiter
+
+[Term]
+id: DOID:0060071 ! pre-malignant neoplasm
+xref: NCIT:C36032 ! premalignant neoplasm
+
+[Term]
+id: DOID:13945 ! cadasil
+xref: NCIT:C84606 ! cadasil syndrome
+
+[Term]
+id: DOID:10606 ! blind loop syndrome
+xref: NCIT:C34431 ! blind loop syndrome
+
+[Term]
+id: DOID:13628 ! favism
+xref: NCIT:C34607 ! favism
+
+[Term]
+id: DOID:14039 ! POEMS syndrome
+xref: NCIT:C80303 ! poems syndrome
+
+[Term]
+id: DOID:14068 ! blackwater fever
+xref: NCIT:C34426 ! blackwater fever
+
+[Term]
+id: DOID:1700 ! X-linked ichthyosis
+xref: NCIT:C84779 ! x-linked ichthyosis
+
+[Term]
+id: DOID:14768 ! Saethre-Chotzen syndrome
+xref: NCIT:C75034 ! type iii acrocephalosyndactyly
+
+[Term]
+id: DOID:11695 ! portal vein thrombosis
+xref: NCIT:C78565 ! portal vein thrombosis
+
+[Term]
+id: DOID:8596 ! scarlet fever
+xref: NCIT:C94575 ! scarlet fever
+
+[Term]
+id: DOID:13368 ! tinea profunda
+xref: NCIT:C35073 ! deep seated dermatophytosis
+
+[Term]
+id: DOID:4166 ! syphilis
+xref: NCIT:C35055 ! syphilis
+
+[Term]
+id: DOID:2790 ! necatoriasis
+xref: NCIT:C34838 ! necatoriasis
+
+[Term]
+id: DOID:10989 ! conjunctival vascular disease
+xref: NCIT:C35116 ! conjunctival vascular disorder
+
+[Term]
+id: DOID:9097 ! erythematosquamous dermatosis
+xref: NCIT:C34591 ! erythematosquamous dermatosis
+
+[Term]
+id: DOID:0050428 ! nonepidermolytic palmoplantar keratoderma
+xref: NCIT:C3147 ! diffuse palmoplantar keratoderma
+
+[Term]
+id: DOID:7633 ! macular holes
+xref: NCIT:C34795 ! macular hole
+
+[Term]
+id: DOID:13139 ! crescentic glomerulonephritis
+xref: NCIT:C35444 ! crescentic glomerulonephritis
+
+[Term]
+id: DOID:8736 ! smallpox
+xref: NCIT:C35027 ! smallpox
+
+[Term]
+id: DOID:1059 ! intellectual disability
+xref: NCIT:C97250 ! intellectual disability
+
+[Term]
+id: DOID:0050651 ! atrioventricular septal defect
+xref: NCIT:C101029 ! atrioventricular septal defect
+
+[Term]
+id: DOID:14654 ! prostatitis
+xref: NCIT:C26866 ! prostatitis
+
+[Term]
+id: DOID:10376 ! amblyopia
+xref: NCIT:C118764 ! amblyopia
+
+[Term]
+id: DOID:2746 ! glycogen storage disease V
+xref: NCIT:C84738 ! glycogen storage disease type v
+
+[Term]
+id: DOID:13366 ! Stiff-Person syndrome
+xref: NCIT:C85170 ! stiff person syndrome
+
+[Term]
+id: DOID:4251 ! conjunctival disease
+xref: NCIT:C27605 ! conjunctival disorder
+
+[Term]
+id: DOID:8857 ! lupus erythematosus
+xref: NCIT:C27153 ! lupus erythematosus
+xref: NCIT:C3201 ! systemic lupus erythematosus
+
+[Term]
+id: DOID:0050726 ! tyrosinemia type I
+xref: NCIT:C98641 ! tyrosinemia type i
+
+[Term]
+id: DOID:12386 ! balantidiasis
+xref: NCIT:C84583 ! balantidiasis
+
+[Term]
+id: DOID:631 ! fibromyalgia
+xref: NCIT:C87497 ! fibromyalgia
+
+[Term]
+id: DOID:9383 ! iridocyclitis
+xref: NCIT:C34736 ! iridocyclitis
+
+[Term]
+id: DOID:14250 ! Down syndrome
+xref: NCIT:C2993 ! down syndrome
+
+[Term]
+id: DOID:10849 ! sexual masochism
+xref: NCIT:C94356 ! sexual masochism
+
+[Term]
+id: DOID:9749 ! internal hemorrhoid
+xref: NCIT:C35319 ! internal hemorrhoid
+
+[Term]
+id: DOID:13001 ! carotid stenosis
+xref: NCIT:C95804 ! carotid artery stenosis
+
+[Term]
+id: DOID:1312 ! focal segmental glomerulosclerosis
+xref: NCIT:C37308 ! focal segmental glomerulosclerosis
+
+[Term]
+id: DOID:13725 ! beriberi
+xref: NCIT:C34418 ! beri beri
+
+[Term]
+id: DOID:8109 ! nephrogenic adenoma of the urethra
+xref: NCIT:C7416 ! urethral nephrogenic adenoma
+
+[Term]
+id: DOID:0060020 ! reticular dysgenesis
+xref: NCIT:C27070 ! reticular dysgenesis
+
+[Term]
+id: DOID:0080016 ! spina bifida
+xref: NCIT:C101214 ! spina bifida
+
+[Term]
+id: DOID:1287 ! cardiovascular system disease
+xref: NCIT:C2931 ! cardiovascular disorder
+
+[Term]
+id: DOID:2729 ! dyskeratosis congenita
+xref: NCIT:C111802 ! dyskeratosis congenita
+
+[Term]
+id: DOID:1064 ! cystinosis
+xref: NCIT:C2976 ! cystinosis
+
+[Term]
+id: DOID:0060320 ! inguinal hernia
+xref: NCIT:C34690 ! inguinal hernia
+
+[Term]
+id: DOID:3146 ! lipid metabolism disorder
+xref: NCIT:C117115 ! fatty acid metabolism disorder
+xref: NCIT:C97092 ! lipid metabolism disorder
+
+[Term]
+id: DOID:11260 ! rabies
+xref: NCIT:C28182 ! rabies
+
+[Term]
+id: DOID:11424 ! fallopian tube endometriosis
+xref: NCIT:C26763 ! fallopian tube endometriosis
+
+[Term]
+id: DOID:5813 ! purine nucleoside phosphorylase deficiency
+xref: NCIT:C3963 ! purine-nucleoside phosphorylase deficiency
+
+[Term]
+id: DOID:9909 ! hordeolum
+xref: NCIT:C118722 ! stye
+
+[Term]
+id: DOID:13593 ! eclampsia
+xref: NCIT:C87167 ! eclampsia
+
+[Term]
+id: DOID:224 ! transient cerebral ischemia
+xref: NCIT:C50781 ! transient ischemic attack
+
+[Term]
+id: DOID:14418 ! dracunculiasis
+xref: NCIT:C84677 ! dracunculiasis
+
+[Term]
+id: DOID:2474 ! vernal conjunctivitis
+xref: NCIT:C34508 ! vernal conjunctivitis
+
+[Term]
+id: DOID:10024 ! migraine with aura
+xref: NCIT:C117005 ! migraine with aura
+
+[Term]
+id: DOID:1024 ! leprosy
+xref: NCIT:C84824 ! leprosy
+
+[Term]
+id: DOID:0050778 ! Meckel syndrome
+xref: NCIT:C98978 ! meckel-gruber syndrome
+
+[Term]
+id: DOID:12375 ! bronchopneumonia
+xref: NCIT:C26710 ! bronchopneumonia
+
+[Term]
+id: DOID:8955 ! sideroblastic anemia
+xref: NCIT:C36078 ! sideroblastic anemia
+
+[Term]
+id: DOID:0050536 ! SC phocomelia syndrome
+xref: NCIT:C4681 ! hypomelia hypotrichosis facial hemangioma syndrome
+
+[Term]
+id: DOID:5773 ! oral submucous fibrosis
+xref: NCIT:C34866 ! oral cavity submucous fibrosis
+
+[Term]
+id: DOID:1094 ! attention deficit hyperactivity disorder
+xref: NCIT:C35092 ! attention deficit disorder
+xref: NCIT:C97160 ! attention deficit hyperactivity disorder
+
+[Term]
+id: DOID:2283 ! keratopathy
+xref: NCIT:C27012 ! keratopathy
+
+[Term]
+id: DOID:4313 ! epidermolysis bullosa acquisita
+xref: NCIT:C84690 ! epidermolysis bullosa acquisita
+
+[Term]
+id: DOID:1513 ! chronic cervicitis
+xref: NCIT:C27057 ! chronic cervicitis
+
+[Term]
+id: DOID:3614 ! Kallmann syndrome
+xref: NCIT:C75479 ! kallmann syndrome
+
+[Term]
+id: DOID:4548 ! extraskeletal mesenchymal chondrosarcoma
+xref: NCIT:C27481 ! mesenchymal extraskeletal chondrosarcoma
+
+[Term]
+id: DOID:0050460 ! Wolf-Hirschhorn syndrome
+xref: NCIT:C35528 ! wolf-hirschhorn syndrome
+
+[Term]
+id: DOID:0050828 ! artery disease
+xref: NCIT:C35317 ! arterial disorder
+
+[Term]
+id: DOID:3612 ! retinitis
+xref: NCIT:C115993 ! retinitis
+
+[Term]
+id: DOID:3490 ! Noonan syndrome
+xref: NCIT:C34854 ! noonan syndrome
+
+[Term]
+id: DOID:9977 ! hallucinogen dependence
+xref: NCIT:C34657 ! hallucinogen dependence
+
+[Term]
+id: DOID:9269 ! maple syrup urine disease
+xref: NCIT:C34806 ! maple syrup urine disease
+
+[Term]
+id: DOID:3798 ! pleural empyema
+xref: NCIT:C34572 ! empyema
+xref: NCIT:C34573 ! empyema with fistula
+xref: NCIT:C45692 ! pyothorax
+
+[Term]
+id: DOID:0050169 ! cutaneous lupus erythematosus
+xref: NCIT:C26819 ! cutaneous lupus erythematosus
+
+[Term]
+id: DOID:14332 ! postencephalitic Parkinson disease
+xref: NCIT:C34898 ! postencephalitic parkinsonism
+
+[Term]
+id: DOID:0050157 ! cryptogenic organizing pneumonia
+xref: NCIT:C62586 ! cryptogenic organizing pneumonia
+
+[Term]
+id: DOID:37 ! skin disease
+xref: NCIT:C3371 ! skin disorder
+xref: NCIT:C35224 ! dermatitis due to unspecified substance taken internally
+
+[Term]
+id: DOID:8861 ! pulmonary subvalvular stenosis
+xref: NCIT:C34961 ! congenital infundibular stenosis
+
+[Term]
+id: DOID:4675 ! uremic neuropathy
+xref: NCIT:C27055 ! uremic neuropathy
+
+[Term]
+id: DOID:0060476 ! Perlman syndrome
+xref: NCIT:C103144 ! perlman syndrome
+
+[Term]
+id: DOID:8692 ! myeloid leukemia
+xref: NCIT:C4899 ! myeloid leukemia in remission
+
+[Term]
+id: DOID:3930 ! otitis interna
+xref: NCIT:C27339 ! infectious otitis interna
+
+[Term]
+id: DOID:10983 ! Alport syndrome
+xref: NCIT:C34842 ! alport syndrome
+
+[Term]
+id: DOID:12557 ! Duane retraction syndrome
+xref: NCIT:C84678 ! duane syndrome
+
+[Term]
+id: DOID:2748 ! glycogen storage disease III
+xref: NCIT:C84736 ! glycogen storage disease type iii
+
+[Term]
+id: DOID:0060313 ! tracheomalacia
+xref: NCIT:C98634 ! tracheomalacia
+
+[Term]
+id: DOID:11312 ! Mobitz type II atrioventricular block
+xref: NCIT:C62018 ! av block second degree mobitz type ii
+
+[Term]
+id: DOID:2237 ! hepatitis
+xref: NCIT:C3095 ! hepatitis
+xref: NCIT:C35331 ! acute hepatitis
+xref: NCIT:C82978 ! chronic hepatitis
+
+[Term]
+id: DOID:6088 ! acute stress disorder
+xref: NCIT:C92621 ! acute stress disorder
+
+[Term]
+id: DOID:3488 ! cellulitis
+xref: NCIT:C26715 ! cellulitis
+
+[Term]
+id: DOID:11963 ! esophagitis
+xref: NCIT:C9224 ! esophagitis
+xref: NCIT:C97066 ! acute esophagitis
+
+[Term]
+id: DOID:5997 ! non-proliferative fibrocystic change of the breast
+xref: NCIT:C6943 ! breast fibrocystic change, non-proliferative type
+
+[Term]
+id: DOID:13241 ! Behcet's disease
+xref: NCIT:C34416 ! behcet syndrome
+
+[Term]
+id: DOID:3210 ! Pelizaeus-Merzbacher disease
+xref: NCIT:C75487 ! pelizaeus-merzbacher disease
+
+[Term]
+id: DOID:1091 ! tooth disease
+xref: NCIT:C35077 ! dental disorder
+
+[Term]
+id: DOID:10319 ! mixed mineral dust pneumoconiosis
+xref: NCIT:C27559 ! mixed mineral dust pneumoconiosis
+
+[Term]
+id: DOID:4406 ! spongiotic dermatitis
+xref: NCIT:C27037 ! spongiotic dermatitis
+
+[Term]
+id: DOID:11504 ! autonomic neuropathy
+xref: NCIT:C27033 ! autonomic neuropathy
+
+[Term]
+id: DOID:14679 ! VACTERL association
+xref: NCIT:C99105 ! vacterl association
+
+[Term]
+id: DOID:628 ! combined T cell and B cell immunodeficiency
+xref: NCIT:C27871 ! congenital combined immunodeficiency
+
+[Term]
+id: DOID:9212 ! pityriasis rubra pilaris
+xref: NCIT:C85014 ! pityriasis rubra pilaris
+
+[Term]
+id: DOID:11294 ! arteriovenous malformation
+xref: NCIT:C2882 ! arteriovenous hemangioma/malformation
+
+[Term]
+id: DOID:14159 ! obstructive hydrocephalus
+xref: NCIT:C116347 ! non-communicating hydrocephalus
+
+[Term]
+id: DOID:327 ! syringomyelia
+xref: NCIT:C85179 ! syringomyelia
+
+[Term]
+id: DOID:14450 ! 46 XX gonadal dysgenesis
+xref: NCIT:C120197 ! 46,xx gonadal dysgenesis
+
+[Term]
+id: DOID:2477 ! motor peripheral neuropathy
+xref: NCIT:C3500 ! peripheral motor neuropathy
+xref: NCIT:C75467 ! charcot-marie-tooth disease
+
+[Term]
+id: DOID:9810 ! polyarteritis nodosa
+xref: NCIT:C26847 ! polyarteritis nodosa
+
+[Term]
+id: DOID:0050827 ! rheumatic heart disease
+xref: NCIT:C34882 ! rheumatic heart disease
+
+[Term]
+id: DOID:4423 ! sea-blue histiocyte syndrome
+xref: NCIT:C85062 ! sea-blue histiocyte syndrome
+
+[Term]
+id: DOID:557 ! kidney disease
+xref: NCIT:C3149 ! kidney disorder
+xref: NCIT:C34843 ! nephropathy
+
+[Term]
+id: DOID:14270 ! ascending cholangitis
+xref: NCIT:C35372 ! ascending cholangitis
+
+[Term]
+id: DOID:4194 ! glucose metabolism disease
+xref: NCIT:C53655 ! glucose metabolism disorder
+
+[Term]
+id: DOID:5082 ! liver cirrhosis
+xref: NCIT:C2951 ! cirrhosis
+
+[Term]
+id: DOID:14422 ! dipetalonemiasis
+xref: NCIT:C34540 ! dipetalonemiasis
+
+[Term]
+id: DOID:3480 ! uveal disease
+xref: NCIT:C26908 ! uveal disorder
+
+[Term]
+id: DOID:0050741 ! alcohol dependence
+xref: NCIT:C93040 ! alcohol dependence
+
+[Term]
+id: DOID:0080102 ! congenital fiber-type disproportion
+xref: NCIT:C120046 ! congenital fiber-type disproportion
+
+[Term]
+id: DOID:14066 ! acute diffuse nephritis
+xref: NCIT:C35587 ! acute diffuse glomerulonephritis
+
+[Term]
+id: DOID:5295 ! intestinal disease
+xref: NCIT:C26801 ! intestinal disorder
+
+[Term]
+id: DOID:3828 ! chromophobe adenoma
+xref: NCIT:C2857 ! pituitary gland chromophobe adenoma
+
+[Term]
+id: DOID:13269 ! hereditary coproporphyria
+xref: NCIT:C84759 ! hereditary coproporphyria
+
+[Term]
+id: DOID:332 ! amyotrophic lateral sclerosis
+xref: NCIT:C34373 ! amyotrophic lateral sclerosis
+
+[Term]
+id: DOID:11726 ! Emery-Dreifuss muscular dystrophy
+xref: NCIT:C84685 ! emery-dreifuss muscular dystrophy
+
+[Term]
+id: DOID:7512 ! localized Intraductal papillomatosis
+xref: NCIT:C7365 ! focal intraductal papillomatosis
+
+[Term]
+id: DOID:10330 ! slate pneumoconiosis
+xref: NCIT:C35397 ! slate pneumoconiosis
+
+[Term]
+id: DOID:10316 ! pneumoconiosis
+xref: NCIT:C26861 ! pneumoconiosis
+
+[Term]
+id: DOID:9220 ! central sleep apnea
+xref: NCIT:C27169 ! central sleep apnea syndrome
+
+[Term]
+id: DOID:2926 ! Klippel-Trenaunay syndrome
+xref: NCIT:C84801 ! klippel-trenaunay-weber syndrome
+
+[Term]
+id: DOID:2590 ! familial nephrotic syndrome
+xref: NCIT:C34845 ! nephrotic syndrome
+xref: NCIT:C35337 ! congenital nephrotic syndrome
+
+[Term]
+id: DOID:9672 ! noma
+xref: NCIT:C34852 ! gangrenous stomatitis
+
+[Term]
+id: DOID:12132 ! Wegener's granulomatosis
+xref: NCIT:C3444 ! wegener granulomatosis
+
+[Term]
+id: DOID:7962 ! tamoxifen-Related endometrial Lesion
+xref: NCIT:C40159 ! tamoxifen-related endometrial disorder
+
+[Term]
+id: DOID:530 ! eyelid disease
+xref: NCIT:C26768 ! eyelid disorder
+
+[Term]
+id: DOID:10939 ! antisocial personality disorder
+xref: NCIT:C88413 ! antisocial personality disorder
+
+[Term]
+id: DOID:12236 ! primary biliary cirrhosis
+xref: NCIT:C27167 ! primary biliary cirrhosis
+xref: NCIT:C51225 ! biliary cirrhosis
+
+[Term]
+id: DOID:14452 ! hypokalemic periodic paralysis
+xref: NCIT:C84775 ! hypokalemic periodic paralysis
+
+[Term]
+id: DOID:0050466 ! Loeys-Dietz syndrome
+xref: NCIT:C75006 ! loeys-dietz syndrome
+
+[Term]
+id: DOID:12119 ! hemosiderosis
+xref: NCIT:C82892 ! hemosiderosis
+
+[Term]
+id: DOID:7518 ! inhibited female orgasm
+xref: NCIT:C34958 ! female orgasmic disorder
+
+[Term]
+id: DOID:1838 ! Menkes disease
+xref: NCIT:C75486 ! menkes disease
+
+[Term]
+id: DOID:14447 ! gonadal dysgenesis
+xref: NCIT:C61420 ! gonadal dysgenesis
+
+[Term]
+id: DOID:10907 ! microcephaly
+xref: NCIT:C85874 ! microcephaly
+
+[Term]
+id: DOID:12573 ! neonatal thyrotoxicosis
+xref: NCIT:C114906 ! neonatal thyrotoxicosis
+
+[Term]
+id: DOID:682 ! compartment syndrome
+xref: NCIT:C118422 ! compartment syndrome
+
+[Term]
+id: DOID:1935 ! Bardet-Biedl syndrome
+xref: NCIT:C118632 ! bardet-biedl syndrome
+
+[Term]
+id: DOID:264 ! hemangiopericytoma
+xref: NCIT:C3087 ! hemangiopericytoma
+xref: NCIT:C4301 ! malignant hemangiopericytoma
+
+[Term]
+id: DOID:5221 ! chronic polyneuropathy
+xref: NCIT:C36071 ! chronic polyneuropathy
+
+[Term]
+id: DOID:318 ! progressive muscular atrophy
+xref: NCIT:C85027 ! progressive muscular atrophy
+
+[Term]
+id: DOID:0060350 ! adenine phosphoribosyltransferase deficiency
+xref: NCIT:C121564 ! adenine phosphoribosyltransferase deficiency
+
+[Term]
+id: DOID:1415 ! gyrate atrophy
+xref: NCIT:C84744 ! gyrate atrophy
+
+[Term]
+id: DOID:10301 ! parotitis
+xref: NCIT:C114281 ! parotitis
+
+[Term]
+id: DOID:11329 ! ainhum
+xref: NCIT:C84544 ! ainhum
+
+[Term]
+id: DOID:74 ! hematopoietic system disease
+xref: NCIT:C26323 ! hematologic and lymphocytic disorder
+
+[Term]
+id: DOID:14323 ! Marfan syndrome
+xref: NCIT:C34807 ! marfan syndrome
+
+[Term]
+id: DOID:203 ! exostosis
+xref: NCIT:C3029 ! exostosis
+
+[Term]
+id: DOID:784 ! chronic kidney failure
+xref: NCIT:C9438 ! chronic renal failure
+
+[Term]
+id: DOID:8283 ! peritonitis
+xref: NCIT:C26849 ! peritonitis
+
+[Term]
+id: DOID:9271 ! ornithine carbamoyltransferase deficiency
+xref: NCIT:C84957 ! ornithine carbamoyltransferase deficiency disease
+
+[Term]
+id: DOID:4970 ! prosopagnosia
+xref: NCIT:C85031 ! prosopagnosia
+
+[Term]
+id: DOID:2273 ! vulvovaginitis
+xref: NCIT:C35131 ! vulvovaginitis
+
+[Term]
+id: DOID:1470 ! major depressive disorder
+xref: NCIT:C35094 ! unipolar depression
+
+[Term]
+id: DOID:0060155 ! visual agnosia
+xref: NCIT:C35276 ! visual agnosia
+
+[Term]
+id: DOID:9111 ! cutaneous leishmaniasis
+xref: NCIT:C34768 ! cutaneous leishmaniasis
+xref: NCIT:C34770 ! asian desert cutaneous leishmaniasis
+
+[Term]
+id: DOID:438 ! autoimmune disease of the nervous system
+xref: NCIT:C99383 ! autoimmune nervous system disorder
+
+[Term]
+id: DOID:12899 ! benign lymphoepithelial lesion of salivary gland
+xref: NCIT:C3949 ! benign lymphoepithelial lesion of the salivary gland
+
+[Term]
+id: DOID:867 ! maxillary sinus cholesteatoma
+xref: NCIT:C35868 ! maxillary sinus cholesteatoma
+
+[Term]
+id: DOID:1062 ! Fanconi syndrome
+xref: NCIT:C3034 ! fanconi syndrome
+xref: NCIT:C4377 ! adult fanconi syndrome
+
+[Term]
+id: DOID:11198 ! DiGeorge syndrome
+xref: NCIT:C2989 ! digeorge syndrome
+
+[Term]
+id: DOID:225 ! syndrome
+xref: NCIT:C28193 ! syndrome
+xref: NCIT:C3101 ! genetic disorder
+xref: NCIT:C4873 ! rare disorder
+
+[Term]
+id: DOID:12043 ! kernicterus due to isoimmunization
+xref: NCIT:C101270 ! kernicterus related to isoimmunization
+
+[Term]
+id: DOID:11722 ! myotonic dystrophy type 1
+xref: NCIT:C84914 ! myotonic dystrophy
+
+[Term]
+id: DOID:9869 ! hereditary fructose intolerance syndrome
+xref: NCIT:C84720 ! hereditary fructose intolerance
+
+[Term]
+id: DOID:12377 ! spinal muscular atrophy
+xref: NCIT:C85075 ! spinal muscular atrophy
+
+[Term]
+id: DOID:2272 ! vulvovaginal candidiasis
+xref: NCIT:C2914 ! vulvovaginal candidiasis
+
+[Term]
+id: DOID:10460 ! nasopharyngitis
+xref: NCIT:C34837 ! nasopharyngitis
+
+[Term]
+id: DOID:6925 ! peroneal nerve paralysis
+xref: NCIT:C27061 ! peroneal nerve paralysis
+
+[Term]
+id: DOID:331 ! central nervous system disease
+xref: NCIT:C2934 ! central nervous system disorder
+
+[Term]
+id: DOID:11555 ! Fuchs' endothelial dystrophy
+xref: NCIT:C84721 ! fuchs endothelial dystrophy
+
+[Term]
+id: DOID:11797 ! chronic laryngitis
+xref: NCIT:C26975 ! chronic laryngitis
+
+[Term]
+id: DOID:4398 ! pustulosis of palm and sole
+xref: NCIT:C34888 ! palmoplantar pustulosis
+
+[Term]
+id: DOID:13477 ! balanitis xerotica obliterans
+xref: NCIT:C3523 ! balanitis xerotica obliterans
+
+[Term]
+id: DOID:2519 ! testicular disease
+xref: NCIT:C26890 ! testicular disorder
+
+[Term]
+id: DOID:9631 ! Pelger-Huet anomaly
+xref: NCIT:C85002 ! pelger-huet anomaly
+
+[Term]
+id: DOID:205 ! hyperostosis
+xref: NCIT:C34712 ! hyperostosis
+
+[Term]
+id: DOID:0050793 ! short QT syndrome
+xref: NCIT:C71060 ! short qt syndrome
+
+[Term]
+id: DOID:1936 ! atherosclerosis
+xref: NCIT:C35768 ! atherosclerosis
+
+[Term]
+id: DOID:5894 ! adult malignant mesenchymoma
+xref: NCIT:C7947 ! adult malignant mesenchymoma
+
+[Term]
+id: DOID:2493 ! gastric antral vascular ectasia
+xref: NCIT:C84724 ! gastric antral vascular ectasia
+
+[Term]
+id: DOID:0050665 ! fetal alcohol syndrome
+xref: NCIT:C84713 ! fetal alcohol syndrome
+
+[Term]
+id: DOID:10688 ! hypertrophy of breast
+xref: NCIT:C3125 ! breast hypertrophy
+
+[Term]
+id: DOID:14213 ! hypophosphatasia
+xref: NCIT:C26798 ! hypophosphatasia
+
+[Term]
+id: DOID:10629 ! microphthalmia
+xref: NCIT:C98989 ! microphthalmos
+
+[Term]
+id: DOID:10992 ! acute hemorrhagic leukoencephalitis
+xref: NCIT:C84535 ! acute hemorrhagic leukoencephalitis
+
+[Term]
+id: DOID:229 ! female reproductive system disease
+xref: NCIT:C27020 ! female reproductive system disorder
+
+[Term]
+id: DOID:12318 ! corneal granular dystrophy
+xref: NCIT:C34651 ! granular corneal dystrophy
+
+[Term]
+id: DOID:2921 ! glomerulonephritis
+xref: NCIT:C26784 ! glomerulonephritis
+
+[Term]
+id: DOID:12399 ! pathological gambling
+xref: NCIT:C94335 ! pathological gambling
+
+[Term]
+id: DOID:3602 ! toxic encephalopathy
+xref: NCIT:C27961 ! neurotoxicity syndrome
+
+[Term]
+id: DOID:9965 ! toxoplasmosis
+xref: NCIT:C3418 ! toxoplasmosis
+
+[Term]
+id: DOID:115 ! cardiac tamponade
+xref: NCIT:C50481 ! cardiac tamponade
+
+[Term]
+id: DOID:6692 ! Barre-Lieou syndrome
+xref: NCIT:C34411 ! cervicocranial syndrome
+
+[Term]
+id: DOID:9352 ! type 2 diabetes mellitus
+xref: NCIT:C26747 ! type 2 diabetes mellitus
+
+[Term]
+id: DOID:11037 ! dissociative amnesia
+xref: NCIT:C94328 ! dissociative amnesia
+
+[Term]
+id: DOID:9974 ! drug dependence
+xref: NCIT:C3894 ! drug dependence
+
+[Term]
+id: DOID:3486 ! necrobiosis lipoidica
+xref: NCIT:C34840 ! necrobiosis lipoidica
+
+[Term]
+id: DOID:1849 ! cannabis dependence
+xref: NCIT:C34445 ! cannabis dependence
+
+[Term]
+id: DOID:0050597 ! intestinal schistosomiasis
+xref: NCIT:C35001 ! schistosoma japonicum infection
+
+[Term]
+id: DOID:0050592 ! asphyxiating thoracic dystrophy
+xref: NCIT:C84794 ! jeune syndrome
+
+[Term]
+id: DOID:14400 ! capillary leak syndrome
+xref: NCIT:C62578 ! capillary leak syndrome
+
+[Term]
+id: DOID:14499 ! Fabry disease
+xref: NCIT:C27528 ! angiokeratoma corporis diffusum
+xref: NCIT:C84701 ! fabry disease
+
+[Term]
+id: DOID:0060185 ! Clostridium difficile colitis
+xref: NCIT:C35286 ! clostridium difficile colitis
+
+[Term]
+id: DOID:2544 ! extratemporal epilepsy
+xref: NCIT:C7760 ! extratemporal epilepsy
+
+[Term]
+id: DOID:749 ! active peptic ulcer disease
+xref: NCIT:C7923 ! active peptic ulcer
+
+[Term]
+id: DOID:1129 ! pituitary apoplexy
+xref: NCIT:C26853 ! pituitary gland apoplexy
+
+[Term]
+id: DOID:5327 ! retinal detachment
+xref: NCIT:C26874 ! retinal detachment
+
+[Term]
+id: DOID:4038 ! granulomatous gastritis
+xref: NCIT:C27348 ! granulomatous gastritis
+
+[Term]
+id: DOID:987 ! alopecia
+xref: NCIT:C50575 ! alopecia
+
+[Term]
+id: DOID:3324 ! mood disorder
+xref: NCIT:C92200 ! mood disorder
+
+[Term]
+id: DOID:12531 ! von Willebrand's disease
+xref: NCIT:C68677 ! von willebrand disease
+
+[Term]
+id: DOID:732 ! urethral disease
+xref: NCIT:C26903 ! urethra disorder
+
+[Term]
+id: DOID:14415 ! Legg-Calve-Perthes Disease
+xref: NCIT:C34766 ! perthes disease
+
+[Term]
+id: DOID:0050631 ! Allan-Herndon-Dudley syndrome
+xref: NCIT:C118843 ! allan-herndon-dudley syndrome
+
+[Term]
+id: DOID:2115 ! B cell deficiency
+xref: NCIT:C27141 ! immunoglobulin heavy chain deletion
+xref: NCIT:C4799 ! deficiency of humoral immunity
+
+[Term]
+id: DOID:12705 ! Friedreich ataxia
+xref: NCIT:C84718 ! friedreich ataxia
+
+[Term]
+id: DOID:9540 ! vascular skin disease
+xref: NCIT:C35254 ! skin vascular disorder
+
+[Term]
+id: DOID:11823 ! hepatorenal syndrome
+xref: NCIT:C113400 ! hepatorenal syndrome
+
+[Term]
+id: DOID:9478 ! postpartum depression
+xref: NCIT:C92852 ! postpartum depression
+
+[Term]
+id: DOID:10003 ! sensorineural hearing loss
+xref: NCIT:C26739 ! sensorineural hearing loss
+xref: NCIT:C26973 ! sensory hearing loss
+xref: NCIT:C34662 ! central hearing loss
+xref: NCIT:C34663 ! high frequency hearing loss
+
+[Term]
+id: DOID:1184 ! nephrotic syndrome
+xref: NCIT:C34845 ! nephrotic syndrome
+
+[Term]
+id: DOID:819 ! mediastinitis
+xref: NCIT:C26827 ! mediastinitis
+
+[Term]
+id: DOID:9240 ! erythromelalgia
+xref: NCIT:C34593 ! erythromelalgia
+
+[Term]
+id: DOID:13208 ! background diabetic retinopathy
+xref: NCIT:C34408 ! background diabetic retinopathy
+xref: NCIT:C35668 ! non-proliferative diabetic retinopathy
+
+[Term]
+id: DOID:3049 ! Churg-Strauss syndrome
+xref: NCIT:C34481 ! churg-strauss syndrome
+
+[Term]
+id: DOID:13351 ! pedophilia
+xref: NCIT:C94355 ! pedophilia
+
+[Term]
+id: DOID:850 ! lung disease
+xref: NCIT:C3198 ! lung disorder
+
+[Term]
+id: DOID:1824 ! status epilepticus
+xref: NCIT:C85079 ! status epilepticus
+
+[Term]
+id: DOID:162 ! cancer
+xref: NCIT:C9305 ! malignant neoplasm
+
+[Term]
+id: DOID:1352 ! paranasal sinus disease
+xref: NCIT:C26843 ! paranasal sinus disorder
+
+[Term]
+id: DOID:2917 ! cryoglobulinemia
+xref: NCIT:C26736 ! cryoglobulinemia
+
+[Term]
+id: DOID:4561 ! granulomatous endometritis
+xref: NCIT:C27626 ! granulomatous endometritis
+
+[Term]
+id: DOID:3527 ! cerebral arterial disease
+xref: NCIT:C2938 ! cerebrovascular disorder
+
+[Term]
+id: DOID:7731 ! childhood malignant hemangiopericytoma
+xref: NCIT:C8090 ! malignant childhood hemangiopericytoma
+
+[Term]
+id: DOID:11123 ! Henoch-Schoenlein purpura
+xref: NCIT:C34963 ! henoch-schonlein purpura
+
+[Term]
+id: DOID:10588 ! adrenoleukodystrophy
+xref: NCIT:C61252 ! adrenoleukodystrophy
+
+[Term]
+id: DOID:12583 ! velocardiofacial syndrome
+xref: NCIT:C2989 ! digeorge syndrome
+
+[Term]
+id: DOID:10817 ! sexual sadism
+xref: NCIT:C94358 ! sexual sadism
+
+[Term]
+id: DOID:11476 ! osteoporosis
+xref: NCIT:C3298 ! osteoporosis
+
+[Term]
+id: DOID:12053 ! cryptococcosis
+xref: NCIT:C2967 ! cryptococcosis
+
+[Term]
+id: DOID:8432 ! polycythemia
+xref: NCIT:C26863 ! polycythemia
+xref: NCIT:C26955 ! familial polycythemia
+
+[Term]
+id: DOID:3689 ! brachial plexus neuritis
+xref: NCIT:C84600 ! brachial plexus neuritis
+
+[Term]
+id: DOID:12157 ! aseptic meningitis
+xref: NCIT:C118299 ! aseptic meningitis
+
+[Term]
+id: DOID:10095 ! intracranial abscess
+xref: NCIT:C34734 ! intracranial abscess
+
+[Term]
+id: DOID:12084 ! transient arthropathy
+xref: NCIT:C35761 ! transient arthropathy
+
+[Term]
+id: DOID:0060053 ! peripheral neuropathy
+xref: NCIT:C119734 ! peripheral neuropathy
+
+[Term]
+id: DOID:417 ! hypersensitivity reaction type II disease
+xref: NCIT:C114345 ! type ii hypersensitivity
+xref: NCIT:C2889 ! autoimmune disease
+
+[Term]
+id: DOID:5723 ! optic atrophy
+xref: NCIT:C34863 ! optic atrophy
+
+[Term]
+id: DOID:12934 ! Kearns-Sayre syndrome
+xref: NCIT:C84798 ! kearns-sayre syndrome
+
+[Term]
+id: DOID:720 ! normocytic anemia
+xref: NCIT:C35142 ! normocytic anemia
+
+[Term]
+id: DOID:0050821 ! first-degree atrioventricular block
+xref: NCIT:C62015 ! av block first degree
+
+[Term]
+id: DOID:3393 ! coronary artery disease
+xref: NCIT:C26732 ! coronary artery disease
+xref: NCIT:C50625 ! ischemic heart disease
+
+[Term]
+id: DOID:10937 ! impulse control disorder
+xref: NCIT:C34723 ! impulse-control disorder
+
+[Term]
+id: DOID:0050425 ! restless legs syndrome
+xref: NCIT:C84501 ! restless leg syndrome
+
+[Term]
+id: DOID:0050822 ! second-degree atrioventricular block
+xref: NCIT:C111119 ! av block second degree
+
+[Term]
+id: DOID:9258 ! Waardenburg's syndrome
+xref: NCIT:C85222 ! waardenburg syndrome
+
+[Term]
+id: DOID:0050756 ! Batten disease
+xref: NCIT:C61258 ! batten disease
+
+[Term]
+id: DOID:5200 ! urinary tract obstruction
+xref: NCIT:C3675 ! obstructive uropathy
+
+[Term]
+id: DOID:5419 ! schizophrenia
+xref: NCIT:C3362 ! schizophrenia
+
+[Term]
+id: DOID:8478 ! actinomycosis
+xref: NCIT:C34350 ! actinomycosis
+
+[Term]
+id: DOID:8869 ! neuromyelitis optica
+xref: NCIT:C84934 ! neuromyelitis optica
+
+[Term]
+id: DOID:13405 ! cardiac sarcoidosis
+xref: NCIT:C35589 ! cardiac sarcoidosis
+
+[Term]
+id: DOID:4674 ! androgen insensitivity syndrome
+xref: NCIT:C27226 ! androgen insensitivity syndrome
+
+[Term]
+id: DOID:8970 ! subacute sclerosing panencephalitis
+xref: NCIT:C85171 ! subacute sclerosing panencephalitis
+
+[Term]
+id: DOID:14755 ! argininosuccinic aciduria
+xref: NCIT:C84569 ! argininosuccinic aciduria
+
+[Term]
+id: DOID:12361 ! Graves' disease
+xref: NCIT:C3071 ! graves disease
+
+[Term]
+id: DOID:10459 ! common cold
+xref: NCIT:C34500 ! acute nasopharyngitis
+
+[Term]
+id: DOID:10456 ! tonsillitis
+xref: NCIT:C116006 ! tonsillitis
+
+[Term]
+id: DOID:13042 ! persistent fetal circulation syndrome
+xref: NCIT:C85006 ! persistent fetal circulation
+
+[Term]
+id: DOID:2239 ! granulomatous hepatitis
+xref: NCIT:C27015 ! granulomatous hepatitis
+
+[Term]
+id: DOID:8125 ! osteochondrosis
+xref: NCIT:C34879 ! osteochondrosis
+
+[Term]
+id: DOID:13382 ! megaloblastic anemia
+xref: NCIT:C34382 ! megaloblastic anemia
+
+[Term]
+id: DOID:17 ! musculoskeletal system disease
+xref: NCIT:C107377 ! musculoskeletal system disorder
+
+[Term]
+id: DOID:322 ! myelitis
+xref: NCIT:C26832 ! myelitis
+
+[Term]
+id: DOID:10699 ! paragonimiasis
+xref: NCIT:C84995 ! paragonimiasis
+
+[Term]
+id: DOID:5230 ! hepatoerythropoietic porphyria
+xref: NCIT:C84754 ! hepatoerythropoietic porphyria
+
+[Term]
+id: DOID:4186 ! articulation disorder
+xref: NCIT:C92564 ! phonological disorder
+
+[Term]
+id: DOID:3753 ! Hermansky-Pudlak syndrome
+xref: NCIT:C37261 ! hermansky-pudlak syndrome
+
+[Term]
+id: DOID:10591 ! pre-eclampsia
+xref: NCIT:C34943 ! toxemia of pregnancy
+xref: NCIT:C85021 ! preeclampsia
+xref: NCIT:C9243 ! hypertension-associated pregnancy disorder
+
+[Term]
+id: DOID:0060041 ! autism spectrum disorder
+xref: NCIT:C88412 ! autism spectrum disorder
+
+[Term]
+id: DOID:0050473 ! Alstrom syndrome
+xref: NCIT:C84549 ! alstrom syndrome
+
+[Term]
+id: DOID:11759 ! hypochromic anemia
+xref: NCIT:C34380 ! hypochromic anemia
+
+[Term]
+id: DOID:6406 ! double outlet right ventricle
+xref: NCIT:C98916 ! double outlet right ventricle
+
+[Term]
+id: DOID:9861 ! miliary tuberculosis
+xref: NCIT:C35086 ! miliary tuberculosis
+
+[Term]
+id: DOID:1508 ! candidiasis
+xref: NCIT:C116812 ! disseminated candidiasis
+xref: NCIT:C26711 ! candidiasis
+
+[Term]
+id: DOID:4307 ! polyradiculopathy
+xref: NCIT:C34934 ! polyradiculopathy
+
+[Term]
+id: DOID:12842 ! Guillain-Barre syndrome
+xref: NCIT:C116345 ! guillain-barre syndrome
+xref: NCIT:C26790 ! acute infective polyneuritis
+
+[Term]
+id: DOID:0080056 ! achondrogenesis type II
+xref: NCIT:C3816 ! type ii achondrogenesis
+
+[Term]
+id: DOID:11678 ! onchocerciasis
+xref: NCIT:C34861 ! onchocerciasis
+
+[Term]
+id: DOID:10935 ! dissociative disorder
+xref: NCIT:C92197 ! dissociative disorder
+
+[Term]
+id: DOID:1579 ! respiratory system disease
+xref: NCIT:C26871 ! respiratory system disorder
+
+[Term]
+id: DOID:6977 ! pancreatic cholera
+xref: NCIT:C3488 ! wdha syndrome
+
+[Term]
+id: DOID:7165 ! subacute thyroiditis
+xref: NCIT:C35071 ! subacute thyroiditis
+xref: NCIT:C35828 ! subacute granulomatous thyroiditis
+
+[Term]
+id: DOID:8920 ! leukoplakia of vagina
+xref: NCIT:C3663 ! vaginal leukoplakia
+
+[Term]
+id: DOID:2799 ! bronchiolitis obliterans
+xref: NCIT:C62580 ! bronchiolitis obliterans
+
+[Term]
+id: DOID:1022 ! pinta disease
+xref: NCIT:C85011 ! pinta
+
+[Term]
+id: DOID:14500 ! fucosidosis
+xref: NCIT:C61274 ! fucosidosis
+
+[Term]
+id: DOID:9275 ! tyrosinemia
+xref: NCIT:C98640 ! tyrosinemia
+
+[Term]
+id: DOID:7350 ! thymic dysplasia
+xref: NCIT:C27802 ! thymic dysplasia
+
+[Term]
+id: DOID:8433 ! thyroid malformation
+xref: NCIT:C27331 ! thyroid gland malformation
+
+[Term]
+id: DOID:3274 ! proliferative type fibrocystic change of breast
+xref: NCIT:C5204 ! breast fibrocystic change, proliferative type without atypia
+xref: NCIT:C6940 ! breast fibrocystic change, proliferative type
+xref: NCIT:C8365 ! breast fibrocystic change, proliferative type with atypia
+
+[Term]
+id: DOID:10567 ! late yaws
+xref: NCIT:C41354 ! late yaws
+
+[Term]
+id: DOID:1019 ! osteomyelitis
+xref: NCIT:C27577 ! osteomyelitis
+
+[Term]
+id: DOID:3265 ! chronic granulomatous disease
+xref: NCIT:C26788 ! chronic granulomatous disease
+
+[Term]
+id: DOID:13481 ! thanatophoric dysplasia
+xref: NCIT:C85187 ! thanatophoric dysplasia
+
+[Term]
+id: DOID:6196 ! reactive arthritis
+xref: NCIT:C34975 ! reiter syndrome
+
+[Term]
+id: DOID:0050117 ! disease by infectious agent
+xref: NCIT:C26726 ! infectious disorder
+
+[Term]
+id: DOID:2862 ! glucosephosphate dehydrogenase deficiency
+xref: NCIT:C98933 ! glucose-6-phosphate dehydrogenase deficiency
+
+[Term]
+id: DOID:12306 ! vitiligo
+xref: NCIT:C26915 ! vitiligo
+
+[Term]
+id: DOID:10908 ! hydrocephalus
+xref: NCIT:C3111 ! hydrocephalus
+
+[Term]
+id: DOID:1394 ! urinary schistosomiasis
+xref: NCIT:C35362 ! bladder schistosomiasis
+xref: NCIT:C39294 ! schistosoma hematobium infection
+
+[Term]
+id: DOID:13317 ! hyperinsulinemic hypoglycemia
+xref: NCIT:C4375 ! nesidioblastosis
+
+[Term]
+id: DOID:4400 ! dermatosis papulosa nigra
+xref: NCIT:C2984 ! dermatosis papulosa nigra
+
+[Term]
+id: DOID:3534 ! Lafora disease
+xref: NCIT:C84804 ! lafora disease
+
+[Term]
+id: DOID:7400 ! Nijmegen breakage syndrome
+xref: NCIT:C4692 ! nijmegen breakage syndrome
+
+[Term]
+id: DOID:5949 ! angiokeratoma circumscriptum
+xref: NCIT:C7751 ! angiokeratoma circumscriptum
+
+[Term]
+id: DOID:13166 ! allergic bronchopulmonary aspergillosis
+xref: NCIT:C84547 ! allergic bronchopulmonary aspergillosis
+
+[Term]
+id: DOID:9279 ! hyperhomocysteinemia
+xref: NCIT:C84770 ! hyperhomocysteinemia
+
+[Term]
+id: DOID:14692 ! Smith-Lemli-Opitz syndrome
+xref: NCIT:C85071 ! smith-lemli-opitz syndrome
+
+[Term]
+id: DOID:3401 ! inappropriate ADH syndrome
+xref: NCIT:C3988 ! syndrome of inappropriate antidiuretic hormone secretion
+
+[Term]
+id: DOID:1148 ! polydactyly
+xref: NCIT:C87110 ! polydactyly
+
+[Term]
+id: DOID:0080046 ! Stickler syndrome
+xref: NCIT:C74984 ! stickler syndrome
+
+[Term]
+id: DOID:345 ! uterine disease
+xref: NCIT:C26907 ! uterine disorder
+
+[Term]
+id: DOID:9531 ! latent syphilis
+xref: NCIT:C35056 ! latent syphilis
+
+[Term]
+id: DOID:9467 ! nail-patella syndrome
+xref: NCIT:C75120 ! nail-patella syndrome
+
+[Term]
+id: DOID:7441 ! chronic metabolic polyneuropathy
+xref: NCIT:C35602 ! chronic metabolic polyneuropathy
+
+[Term]
+id: DOID:10690 ! mastitis
+xref: NCIT:C53662 ! mastitis
+
+[Term]
+id: DOID:3687 ! MELAS syndrome
+xref: NCIT:C84885 ! melas syndrome
+
+[Term]
+id: DOID:0050585 ! congenital generalized lipodystrophy
+xref: NCIT:C84594 ! berardinelli-seip congenital lipodystrophy
+
+[Term]
+id: DOID:8455 ! pyridoxine deficiency anemia
+xref: NCIT:C85221 ! vitamin b6 deficiency
+
+[Term]
+id: DOID:2229 ! factor XI deficiency
+xref: NCIT:C84705 ! hereditary factor xi deficiency disease
+
+[Term]
+id: DOID:82 ! myotonic cataract
+xref: NCIT:C34833 ! myotonic cataract
+
+[Term]
+id: DOID:0060055 ! popliteal pterygium syndrome
+xref: NCIT:C118786 ! popliteal pterygium syndrome
+
+[Term]
+id: DOID:10324 ! anthracosilicosis
+xref: NCIT:C34389 ! anthracosilicosis
+
+[Term]
+id: DOID:9584 ! Venezuelan equine encephalitis
+xref: NCIT:C35121 ! venezuelan equine fever
+
+[Term]
+id: DOID:13822 ! tetanic cataract
+xref: NCIT:C35068 ! tetanic cataract
+
+[Term]
+id: DOID:1143 ! exotropia
+xref: NCIT:C34601 ! divergent strabismus
+
+[Term]
+id: DOID:11372 ! megacolon
+xref: NCIT:C34810 ! megacolon
+
+[Term]
+id: DOID:2566 ! corneal dystrophy
+xref: NCIT:C34513 ! corneal dystrophy
+
+[Term]
+id: DOID:2326 ! gastroenteritis
+xref: NCIT:C34632 ! gastroenteritis
+
+[Term]
+id: DOID:12347 ! osteogenesis imperfecta
+xref: NCIT:C26837 ! osteogenesis imperfecta
+
+[Term]
+id: DOID:61 ! mitral valve disease
+xref: NCIT:C78446 ! mitral valve disorder
+
+[Term]
+id: DOID:9252 ! amino acid metabolic disorder
+xref: NCIT:C97090 ! amino acid metabolism disorder
+
+[Term]
+id: DOID:14218 ! dihydropyrimidine dehydrogenase deficiency
+xref: NCIT:C3964 ! dihydrouracil dehydrogenase deficiency
+xref: NCIT:C84672 ! dihydropyrimidine dehydrogenase deficiency
+
+[Term]
+id: DOID:5408 ! Paget's disease of bone
+xref: NCIT:C3292 ! bone paget disease
+
+[Term]
+id: DOID:11385 ! expressive language disorder
+xref: NCIT:C92562 ! expressive language disorder
+
+[Term]
+id: DOID:12685 ! mixed receptive-expressive language disorder
+xref: NCIT:C92563 ! mixed receptive-expressive language disorder
+
+[Term]
+id: DOID:11870 ! Pick's disease
+xref: NCIT:C85008 ! pick's disease
+
+[Term]
+id: DOID:2945 ! severe acute respiratory syndrome
+xref: NCIT:C85064 ! severe acute respiratory syndrome
+
+[Term]
+id: DOID:12732 ! intermediate uveitis
+xref: NCIT:C35110 ! intermediate uveitis
+
+[Term]
+id: DOID:9181 ! amebiasis
+xref: NCIT:C84551 ! amebiasis
+
+[Term]
+id: DOID:1270 ! hereditary hemorrhagic telangiectasia
+xref: NCIT:C35064 ! hereditary hemorrhagic telangiectasia
+
+[Term]
+id: DOID:4692 ! endophthalmitis
+xref: NCIT:C34586 ! endophthalmitis
+
+[Term]
+id: DOID:12388 ! neurohypophyseal diabetes insipidus
+xref: NCIT:C84933 ! neurogenic diabetes insipidus
+
+[Term]
+id: DOID:7179 ! mixed eosinophil-basophil adenoma
+xref: NCIT:C4148 ! pituitary gland mixed acidophil-basophil adenoma
+
+[Term]
+id: DOID:9463 ! otitis externa
+xref: NCIT:C79601 ! otitis externa
+
+[Term]
+id: DOID:13146 ! esophageal candidiasis
+xref: NCIT:C27027 ! candida esophagitis
+
+[Term]
+id: DOID:14699 ! thrombocytopenia-absent radius syndrome
+xref: NCIT:C99038 ! radial aplasia-thrombocytopenia syndrome
+
+[Term]
+id: DOID:11234 ! orbital cellulitis
+xref: NCIT:C99000 ! orbital cellulitis
+
+[Term]
+id: DOID:2368 ! gangliosidosis
+xref: NCIT:C84896 ! mucolipidosis type iv
+
+[Term]
+id: DOID:1388 ! Tangier disease
+xref: NCIT:C84774 ! hypoalphalipoproteinemia
+xref: NCIT:C85182 ! tangier disease
+
+[Term]
+id: DOID:2859 ! hemoglobin C disease
+xref: NCIT:C34675 ! hemoglobin c disease
+
+[Term]
+id: DOID:4397 ! granulomatous dermatitis
+xref: NCIT:C3505 ! granulomatous dermatitis
+
+[Term]
+id: DOID:8463 ! corneal ulcer
+xref: NCIT:C50515 ! corneal ulcer
+
+[Term]
+id: DOID:4035 ! lymphocytic gastritis
+xref: NCIT:C27051 ! lymphocytic gastritis
+
+[Term]
+id: DOID:2580 ! rhizomelic chondrodysplasia punctata
+xref: NCIT:C85047 ! rhizomelic chondrodysplasia punctata
+
+[Term]
+id: DOID:0050461 ! aspartylglucosaminuria
+xref: NCIT:C61273 ! aspartylglycosaminuria
+
+[Term]
+id: DOID:758 ! situs inversus
+xref: NCIT:C87121 ! situs inversus
+
+[Term]
+id: DOID:9856 ! congenital syphilis
+xref: NCIT:C84649 ! congenital syphilis
+
+[Term]
+id: DOID:1425 ! pyoureter
+xref: NCIT:C35666 ! ureter abscess
+
+[Term]
+id: DOID:4449 ! macular retinal edema
+xref: NCIT:C35468 ! macular edema
+
+[Term]
+id: DOID:9828 ! neonatal abstinence syndrome
+xref: NCIT:C101321 ! neonatal drug withdrawal
+xref: NCIT:C87101 ! neonatal abstinence syndrome
+
+[Term]
+id: DOID:11713 ! diabetic angiopathy
+xref: NCIT:C35610 ! diabetic vascular disorder
+
+[Term]
+id: DOID:12802 ! mucopolysaccharidosis I
+xref: NCIT:C61261 ! hurler syndrome
+xref: NCIT:C85053 ! mucopolysaccharidosis type i
+
+[Term]
+id: DOID:9699 ! ophthalmia neonatorum
+xref: NCIT:C116815 ! ophthalmia neonatorum
+xref: NCIT:C116816 ! gonococcal ophthalmia neonatorum
+
+[Term]
+id: DOID:0050646 ! distal arthrogryposis
+xref: NCIT:C98931 ! freeman-sheldon syndrome
+
+[Term]
+id: DOID:84 ! osteochondritis dissecans
+xref: NCIT:C34878 ! osteochondritis dissecans
+
+[Term]
+id: DOID:7333 ! nephrogenic adenoma of urinary bladder
+xref: NCIT:C7415 ! urinary bladder nephrogenic adenoma
+
+[Term]
+id: DOID:10976 ! membranous glomerulonephritis
+xref: NCIT:C34645 ! membranous glomerulonephritis
+
+[Term]
+id: DOID:13189 ! gout
+xref: NCIT:C34650 ! gout
+
+[Term]
+id: DOID:13313 ! pancreatic mucinous ductal ectasia
+xref: NCIT:C5717 ! pancreatic mucinous ductal ectasia
+
+[Term]
+id: DOID:9601 ! ischemic fasciitis
+xref: NCIT:C6483 ! ischemic fasciitis
+
+[Term]
+id: DOID:6307 ! ectopic thymus
+xref: NCIT:C27804 ! ectopic thymus
+
+[Term]
+id: DOID:1556 ! arthus reaction
+xref: NCIT:C34400 ! arthus reaction
+
+[Term]
+id: DOID:12731 ! pars planitis
+xref: NCIT:C34903 ! pars planitis
+
+[Term]
+id: DOID:10871 ! age related macular degeneration
+xref: NCIT:C84391 ! macular degeneration
+
+[Term]
+id: DOID:2508 ! Takayasu's arteritis
+xref: NCIT:C34391 ! aortic arch syndrome
+xref: NCIT:C35062 ! takayasu arteritis
+
+[Term]
+id: DOID:1339 ! Diamond-Blackfan anemia
+xref: NCIT:C61236 ! congenital pure red cell aplasia
+
+[Term]
+id: DOID:4968 ! Nelson syndrome
+xref: NCIT:C84917 ! nelson syndrome
+
+[Term]
+id: DOID:13922 ! eosinophilic esophagitis
+xref: NCIT:C27105 ! eosinophilic esophagitis
+
+[Term]
+id: DOID:11162 ! respiratory failure
+xref: NCIT:C26872 ! respiratory failure
+xref: NCIT:C27043 ! acute respiratory failure
+
+[Term]
+id: DOID:2123 ! tularemia
+xref: NCIT:C85208 ! tularemia
+
+[Term]
+id: DOID:1407 ! anterior uveitis
+xref: NCIT:C35109 ! anterior uveitis
+
+[Term]
+id: DOID:13336 ! congenital toxoplasmosis
+xref: NCIT:C50503 ! congenital toxoplasmosis
+
+[Term]
+id: DOID:2960 ! photosensitive trichothiodystrophy
+xref: NCIT:C4924 ! trichothiodystrophy
+
+[Term]
+id: DOID:11717 ! neonatal diabetes mellitus
+xref: NCIT:C99248 ! neonatal diabetes mellitus
+
+[Term]
+id: DOID:3052 ! Balkan nephropathy
+xref: NCIT:C84584 ! balkan endemic nephropathy
+
+[Term]
+id: DOID:10607 ! tropical sprue
+xref: NCIT:C45428 ! tropical sprue
+
+[Term]
+id: DOID:8310 ! sclerosing adenosis of breast
+xref: NCIT:C5205 ! breast sclerosing adenosis
+
+[Term]
+id: DOID:0050463 ! campomelic dysplasia
+xref: NCIT:C120205 ! acampomelic campomelic dysplasia
+xref: NCIT:C84609 ! campomelic dysplasia
+
+[Term]
+id: DOID:10236 ! exhibitionism
+xref: NCIT:C94352 ! exhibitionism
+
+[Term]
+id: DOID:1681 ! heart septal defect
+xref: NCIT:C84482 ! congenital septal defect
+
+[Term]
+id: DOID:7039 ! Borst-Jadassohn intraepidermal carcinoma
+xref: NCIT:C4110 ! intraepidermal epithelioma of jadassohn
+
+[Term]
+id: DOID:3103 ! thoracic outlet syndrome
+xref: NCIT:C85188 ! thoracic outlet syndrome
+
+[Term]
+id: DOID:4409 ! folliculitis
+xref: NCIT:C94408 ! folliculitis
+
+[Term]
+id: DOID:1532 ! pleural disease
+xref: NCIT:C26859 ! pleural disorder
+xref: NCIT:C27563 ! non-neoplastic pleural disorder
+
+[Term]
+id: DOID:0050736 ! autosomal dominant disease
+xref: NCIT:C98829 ! autosomal dominant disorder
+
+[Term]
+id: DOID:9637 ! stomatitis
+xref: NCIT:C26887 ! stomatitis
+
+[Term]
+id: DOID:2449 ! acromegaly
+xref: NCIT:C84533 ! acromegaly
+
+[Term]
+id: DOID:11589 ! Riley-Day syndrome
+xref: NCIT:C53439 ! dysautonomia
+xref: NCIT:C84706 ! familial dysautonomia
+
+[Term]
+id: DOID:3385 ! bacterial vaginosis
+xref: NCIT:C116973 ! bacterial vaginosis
+
+[Term]
+id: DOID:13138 ! acute proliferative glomerulonephritis
+xref: NCIT:C35443 ! post-streptococcal glomerulonephritis
+
+[Term]
+id: DOID:2668 ! mesenchymoma
+xref: NCIT:C3233 ! mesenchymoma
+
+[Term]
+id: DOID:8675 ! lymphosarcoma
+xref: NCIT:C26919 ! lymphosarcoma
+
+[Term]
+id: DOID:10423 ! acute pericementitis
+xref: NCIT:C34354 ! acute periodontitis
+
+[Term]
+id: DOID:9210 ! geniculate herpes zoster
+xref: NCIT:C84763 ! herpes zoster oticus
+
+[Term]
+id: DOID:7312 ! breast adenomyoepithelial adenosis
+xref: NCIT:C40391 ! breast adenomyoepithelial adenosis
+
+[Term]
+id: DOID:4331 ! burning mouth syndrome
+xref: NCIT:C62545 ! burning mouth syndrome
+
+[Term]
+id: DOID:8515 ! Cor pulmonale
+xref: NCIT:C34478 ! cor pulmonale
+
+[Term]
+id: DOID:633 ! myositis
+xref: NCIT:C27578 ! myositis
+
+[Term]
+id: DOID:8170 ! fibroepithelial polyp of the anus
+xref: NCIT:C4435 ! anal fibroepithelial polyp
+
+[Term]
+id: DOID:3118 ! hepatobiliary disease
+xref: NCIT:C3959 ! hepatobiliary disorder
+
+[Term]
+id: DOID:5484 ! fibrous synovial sarcoma
+xref: NCIT:C6533 ! fibrous synovial sarcoma
+
+[Term]
+id: DOID:10323 ! byssinosis
+xref: NCIT:C84605 ! byssinosis
+
+[Term]
+id: DOID:96 ! staphyloenterotoxemia
+xref: NCIT:C35037 ! staphylococcal food poisoning
+
+[Term]
+id: DOID:8689 ! anorexia nervosa
+xref: NCIT:C34387 ! anorexia nervosa
+
+[Term]
+id: DOID:11077 ! brucellosis
+xref: NCIT:C84602 ! brucellosis
+
+[Term]
+id: DOID:1386 ! abetalipoproteinemia
+xref: NCIT:C84525 ! abetalipoproteinemia
+
+[Term]
+id: DOID:11203 ! Angelucci's syndrome
+xref: NCIT:C34353 ! acute atopic conjunctivitis
+
+[Term]
+id: DOID:0050432 ! Asperger syndrome
+xref: NCIT:C97159 ! asperger syndrome
+
+[Term]
+id: DOID:0050185 ! erythema multiforme
+xref: NCIT:C3024 ! erythema multiforme
+
+[Term]
+id: DOID:2256 ! osteochondrodysplasia
+xref: NCIT:C34466 ! cartilage development disorder
+xref: NCIT:C84978 ! osteochondrodysplasia
+
+[Term]
+id: DOID:2935 ! Chediak-Higashi syndrome
+xref: NCIT:C2941 ! chediak-higashi syndrome
+
+[Term]
+id: DOID:11153 ! miliaria rubra
+xref: NCIT:C34820 ! miliaria
+
+[Term]
+id: DOID:11394 ! adult respiratory distress syndrome
+xref: NCIT:C3353 ! acute respiratory distress syndrome
+
+[Term]
+id: DOID:9123 ! eczema herpeticum
+xref: NCIT:C35620 ! herpes simplex dermatitis
+
+[Term]
+id: DOID:4889 ! lymph node tuberculosis
+xref: NCIT:C26896 ! lymph node tuberculosis
+
+[Term]
+id: DOID:13564 ! aspergillosis
+xref: NCIT:C2886 ! aspergillosis
+
+[Term]
+id: DOID:9074 ! systemic lupus erythematosus
+xref: NCIT:C27153 ! lupus erythematosus
+xref: NCIT:C3201 ! systemic lupus erythematosus
+
+[Term]
+id: DOID:1074 ! kidney failure
+xref: NCIT:C4376 ! renal failure
+
+[Term]
+id: DOID:4253 ! melorheostosis
+xref: NCIT:C84887 ! melorheostosis
+
+[Term]
+id: DOID:272 ! hepatic vascular disease
+xref: NCIT:C35442 ! liver vascular disorder
+
+[Term]
+id: DOID:3055 ! paratyphoid fever
+xref: NCIT:C34894 ! paratyphoid fever a
+xref: NCIT:C34895 ! paratyphoid fever b
+xref: NCIT:C34896 ! paratyphoid fever c
+xref: NCIT:C34897 ! paratyphoid fever
+
+[Term]
+id: DOID:12526 ! tarsal tunnel syndrome
+xref: NCIT:C85183 ! tarsal tunnel syndrome
+
+[Term]
+id: DOID:10493 ! adrenal cortical hypofunction
+xref: NCIT:C26691 ! adrenocortical insufficiency
+
+[Term]
+id: DOID:0050668 ! alcohol-related birth defect
+xref: NCIT:C92727 ! alcohol related birth defect
+
+[Term]
+id: DOID:11111 ! hydronephrosis
+xref: NCIT:C26796 ! hydronephrosis
+
+[Term]
+id: DOID:1573 ! communicating hydrocephalus
+xref: NCIT:C34501 ! communicating hydrocephalus
+
+[Term]
+id: DOID:12698 ! gynecomastia
+xref: NCIT:C3073 ! gynecomastia
+
+[Term]
+id: DOID:0050524 ! maturity-onset diabetes of the young
+xref: NCIT:C114769 ! maturity-onset diabetes of the young
+
+[Term]
+id: DOID:5810 ! adenosine deaminase deficiency
+xref: NCIT:C3962 ! adenosine deaminase deficiency
+
+[Term]
+id: DOID:0050470 ! Donohue Syndrome
+xref: NCIT:C84676 ! donohue syndrome
+
+[Term]
+id: DOID:2382 ! kernicterus
+xref: NCIT:C84799 ! kernicterus
+
+[Term]
+id: DOID:13911 ! achromatopsia
+xref: NCIT:C84528 ! achromatopsia
+
+[Term]
+id: DOID:1510 ! personality disorder
+xref: NCIT:C34922 ! personality disorder
+
+[Term]
+id: DOID:4961 ! bone marrow disease
+xref: NCIT:C34433 ! bone marrow disorder
+
+[Term]
+id: DOID:12800 ! mucopolysaccharidosis VI
+xref: NCIT:C61264 ! maroteaux-lamy syndrome
+
+[Term]
+id: DOID:2059 ! vulvar disease
+xref: NCIT:C27631 ! vulvar disorder
+
+[Term]
+id: DOID:1726 ! partial of retinal vein occlusion
+xref: NCIT:C35341 ! partial retinal vein occlusion
+
+[Term]
+id: DOID:13891 ! bird fancier's lung
+xref: NCIT:C34425 ! bird fancier's lung
+
+[Term]
+id: DOID:2986 ! IgA glomerulonephritis
+xref: NCIT:C34643 ! iga nephropathy
+xref: NCIT:C35280 ! focal glomerulonephritis
+
+[Term]
+id: DOID:9840 ! esotropia
+xref: NCIT:C34596 ! internal strabismus
+
+[Term]
+id: DOID:1509 ! avoidant personality disorder
+xref: NCIT:C92636 ! avoidant personality disorder
+
+[Term]
+id: DOID:681 ! progressive bulbar palsy
+xref: NCIT:C85026 ! progressive bulbar palsy
+
+[Term]
+id: DOID:0080053 ! Albright's hereditary osteodystrophy
+xref: NCIT:C118434 ! albright's hereditary osteodystrophy
+
+[Term]
+id: DOID:4034 ! fungal gastritis
+xref: NCIT:C27342 ! fungal gastritis
+
+[Term]
+id: DOID:18 ! urinary system disease
+xref: NCIT:C27599 ! non-neoplastic urinary system disorder
+xref: NCIT:C3430 ! urinary system disorder
+
+[Term]
+id: DOID:0050452 ! mevalonic aciduria
+xref: NCIT:C84890 ! mevalonate kinase deficiency
+
+[Term]
+id: DOID:693 ! dental enamel hypoplasia
+xref: NCIT:C34529 ! enamel hypoplasia
+
+[Term]
+id: DOID:2785 ! Dandy-Walker syndrome
+xref: NCIT:C75012 ! dandy-walker malformation
+
+[Term]
+id: DOID:2033 ! communication disorder
+xref: NCIT:C2958 ! communication disorder
+
+[Term]
+id: DOID:0060327 ! omphalocele
+xref: NCIT:C98997 ! omphalocele
+
+[Term]
+id: DOID:12522 ! bagassosis
+xref: NCIT:C34409 ! bagassosis
+
+[Term]
+id: DOID:6132 ! bronchitis
+xref: NCIT:C26722 ! chronic bronchitis
+xref: NCIT:C26932 ! acute bronchitis
+xref: NCIT:C2911 ! bronchitis
+
+[Term]
+id: DOID:13098 ! central retinal artery occlusion
+xref: NCIT:C34456 ! central retinal artery occlusion
+
+[Term]
+id: DOID:14018 ! alcoholic liver cirrhosis
+xref: NCIT:C34782 ! alcoholic cirrhosis
+xref: NCIT:C35532 ! portal cirrhosis
+
+[Term]
+id: DOID:11573 ! listeriosis
+xref: NCIT:C82994 ! listeriosis
+
+[Term]
+id: DOID:4090 ! agnosia
+xref: NCIT:C84542 ! agnosia
+
+[Term]
+id: DOID:7138 ! cystitis cystica
+xref: NCIT:C96230 ! cystitis cystica
+
+[Term]
+id: DOID:0060249 ! scoliosis
+xref: NCIT:C78603 ! scoliosis
+
+[Term]
+id: DOID:2916 ! hypersensitivity reaction type IV disease
+xref: NCIT:C3115 ! type iv hypersensitivity
+
+[Term]
+id: DOID:0060479 ! Shwachman-Diamond syndrome
+xref: NCIT:C61235 ! shwachman-diamond syndrome
+
+[Term]
+id: DOID:0060013 ! gamma chain deficiency
+xref: NCIT:C4682 ! x-linked severe combined immunodeficiency
+
+[Term]
+id: DOID:0050426 ! Stevens-Johnson syndrome
+xref: NCIT:C79484 ! stevens-johnson syndrome
+
+[Term]
+id: DOID:5370 ! breast hemangiopericytoma
+xref: NCIT:C40396 ! breast hemangiopericytoma
+
+[Term]
+id: DOID:2034 ! encephalomalacia
+xref: NCIT:C98920 ! encephalomalacia
+
+[Term]
+id: DOID:8158 ! complement component 5 deficiency
+xref: NCIT:C9469 ! c5 deficiency
+
+[Term]
+id: DOID:655 ! inherited metabolic disorder
+xref: NCIT:C34816 ! congenital metabolic disorder
+
+[Term]
+id: DOID:2388 ! renal artery disease
+xref: NCIT:C101254 ! renal artery disease
+xref: NCIT:C35338 ! kidney vascular disorder
+
+[Term]
+id: DOID:11343 ! scleral disease
+xref: NCIT:C79717 ! sclera disorder
+
+[Term]
+id: DOID:599 ! specific phobia
+xref: NCIT:C35284 ! specific phobia
+
+[Term]
+id: DOID:12642 ! hiatus hernia
+xref: NCIT:C98945 ! hiatal hernia
+
+[Term]
+id: DOID:14748 ! Sotos syndrome
+xref: NCIT:C75019 ! sotos syndrome
+
+[Term]
+id: DOID:11383 ! cryptorchidism
+xref: NCIT:C12326 ! undescended testes
+
+[Term]
+id: DOID:1070 ! primary open angle glaucoma
+xref: NCIT:C35394 ! primary open angle glaucoma
+
+[Term]
+id: DOID:786 ! laryngeal disease
+xref: NCIT:C26810 ! laryngeal disorder
+
+[Term]
+id: DOID:13074 ! tinea unguium
+xref: NCIT:C112214 ! onychomycosis
+
+[Term]
+id: DOID:3140 ! scleredema adultorum
+xref: NCIT:C85057 ! scleredema adultorum
+
+[Term]
+id: DOID:0050817 ! Stargardt disease
+xref: NCIT:C85078 ! stargardt disease
+
+[Term]
+id: DOID:10791 ! frontal sinusitis
+xref: NCIT:C34626 ! frontal sinusitis
+
+[Term]
+id: DOID:3144 ! cutis laxa
+xref: NCIT:C84663 ! cutis laxa
+
+[Term]
+id: DOID:1088 ! meningocele
+xref: NCIT:C105595 ! meningocele
+
+[Term]
+id: DOID:13002 ! subclavian steal syndrome
+xref: NCIT:C35044 ! subclavian steal syndrome
+
+[Term]
+id: DOID:76 ! stomach disease
+xref: NCIT:C26886 ! stomach disorder
+
+[Term]
+id: DOID:0060171 ! Dravet Syndrome
+xref: NCIT:C116573 ! dravet syndrome
+
+[Term]
+id: DOID:1382 ! miliaria
+xref: NCIT:C34820 ! miliaria
+
