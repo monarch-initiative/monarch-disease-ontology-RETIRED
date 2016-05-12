@@ -25,7 +25,7 @@ GARD_OBO=../gard/gard.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(NCIT_OBO) xrefs-doid-to-ncit.obo
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp > $@
 
 foobar:
@@ -54,7 +54,7 @@ set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv
 
 # lBOOM parameters
 # MAX_E := 9  -- failing..?
-MAX_E := 8
+MAX_E := 9
 
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
@@ -221,4 +221,10 @@ mesh.obo: ../medic/CTD_diseases.obo
 ## --
 
 gene_disease.tsv:
-	golr-fetcher.py -t gene-disease -k -n -m 50000  > $@.tmp && mv $@.tmp $@
+	golr-fetcher.py -t gene-disease -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,4 | sort -u > $@
+
+te.out:
+	owltools mondo.obo go-min.obo go-group.obo --merge-support-ontologies --load-instances gene_disease.tsv --load-instances gene2term.tsv --all-by-all-enrichment-analysis -p 0.0001 DOID:4 GOROOT:0 > $@.tmp && mv $@.tmp $@
+
+# moved to genesets-human-go
+#gene2term.tsv
