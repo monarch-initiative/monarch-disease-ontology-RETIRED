@@ -186,7 +186,7 @@ align-doid-to-omia.tsv: $(OMIAG_OBO)
 align-doid-to-omimps.tsv: omimps.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-align-doid-to-ordo.tsv: ordo.obo $(DOID)
+align-doid-to-ordo.tsv: ../orphanet/orphanet-phenome-obostyle.obo  $(DOID)
 	blip-findall -i ignore.pro -i ignore_rare_genetic.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-ordo-nosyn.tsv: ordo_nosyn.obo disease_nosyn.obo
