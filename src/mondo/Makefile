@@ -186,7 +186,7 @@ align-doid-to-omia.tsv: $(OMIAG_OBO)
 align-doid-to-omimps.tsv: omimps.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-align-doid-to-ordo.tsv: ../orphanet/orphanet-phenome-obostyle.obo  $(DOID)
+align-doid-to-ordo.tsv: ../orphanet/orphanet-phenome-obostyle.obo $(DOID)
 	blip-findall -i ignore.pro -i ignore_rare_genetic.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-ordo-nosyn.tsv: ordo_nosyn.obo disease_nosyn.obo
@@ -224,7 +224,10 @@ gene_disease.tsv:
 	golr-fetcher.py -t gene-disease -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,4 | sort -u > $@
 
 te.out:
-	owltools mondo.obo go-min.obo go-group.obo --merge-support-ontologies --load-instances gene_disease.tsv --load-instances gene2term.tsv --all-by-all-enrichment-analysis -p 0.0001 DOID:4 GOROOT:0 > $@.tmp && mv $@.tmp $@
+	owltools mondo.obo go-min.obo go-group.obo --merge-support-ontologies --load-instances gene_disease.tsv --load-instances gene2term.tsv --all-by-all-enrichment-analysis -m 100 -p 0.0001 DOID:4 GOROOT:0 > $@.tmp && mv $@.tmp $@
 
 # moved to genesets-human-go
 #gene2term.tsv
+
+disease2go.tsv:
+	blip-findall -i go-group.obo -i mondo.obo  -i te.pro -consult elim_redundant.pro -goal ix -debug index nr/10 -no_pred > $@
