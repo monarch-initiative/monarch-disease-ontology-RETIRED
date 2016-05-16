@@ -16,7 +16,7 @@ orphanet-obostyle.obo: orphanet-orig.owl part_of.obo
 	owltools $^ --merge-support-ontologies --rename-entity $(EFO)/definition $(OBO)/IAO_0000115 --rename-entity $(EFO)/alternative_term $(OIO)hasExactSynonym  --add-obo-shorthand-to-properties -o -f obo --no-check $@.tmp && perl -npe 's@MeSH@MESH@;s@ICD-10@ICD10@' $@.tmp > $@
 
 # phenome subset only, with partonomy turned to subclass
-orphanet-phenome-obostyle.obo.obo: orphanet-obostyle.obo orphanet-subsets.pro
+orphanet-phenome-obostyle.obo: orphanet-obostyle.obo orphanet-subsets.pro
 	blip ontol-query -i $< -i orphanet-subsets.pro -query "class(R,phenome),subclassRT(ID,R)" -to obo | perl -npe 's@relationship: part_of@is_a:@' > $@.tmp && mv $@.tmp $@
 
 orphanet-subsets.pro: orphanet-obostyle.obo

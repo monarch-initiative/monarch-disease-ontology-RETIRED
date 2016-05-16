@@ -47,4 +47,10 @@ these with our own using approaches such as entity matching.
 
 See [README-editors](README-editors.md)
 
+## Disease2GO
+
+ * [disease2go.tsv](src/ontology/disease2go.tsv)
+ * [disease2go.obo](src/ontology/disease2go.obo)
+
+
 

@@ -229,5 +229,12 @@ te.out:
 # moved to genesets-human-go
 #gene2term.tsv
 
+te.tsv: te.out
+	./enr2tsv.pl $< > $@
+
 disease2go.tsv:
-	blip-findall -i go-group.obo -i mondo.obo  -i te.pro -consult elim_redundant.pro -goal ix -debug index nr/10 -no_pred > $@
+	blip-findall -i go-min.obo -i mondo.obo  -i te.pro -consult elim_redundant.pro -goal ix -debug index nr/10 -no_pred > $@
+.PRECIOUS: disease2go.tsv
+
+disease2go.obo: disease2go.tsv
+	cut -f1-4 $< | tbl2obolinks.pl --rel has_pathway - 
