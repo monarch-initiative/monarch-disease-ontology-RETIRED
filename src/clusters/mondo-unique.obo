@@ -1,0 +1,7 @@
+ontology: mondo
+
+[Term]
+id: MONDO:0000001
+name: macular dystrophy due to a CRX mutation
+is_a: DOID:4448 ! macular degeneration
+relationship: has_defect_in NCBIGene:1406 ! CRX
