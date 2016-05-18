@@ -1,6 +1,6 @@
 MEDGEN = medgen-disease-extract.obo
 
-all: $(MEDGEN)
+all: fetch $(MEDGEN)
 
 fetch:
 	wget -r -np ftp://ftp.ncbi.nlm.nih.gov/pub/medgen/
