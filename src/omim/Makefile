@@ -1,7 +1,7 @@
 all: omim.obo
 
 mirror-omim.ttl: 
-	wget http://nif-crawler.neuinfo.org/monarch/ttl/omim.ttl -O $@
+	wget http://data.monarchinitiative.org/ttl/omim.ttl -O $@
 .PRECIOUS: omim.ttl
 
 omim.owl: mirror-omim.ttl
@@ -9,4 +9,4 @@ omim.owl: mirror-omim.ttl
 .PRECIOUS: omim.owl
 
 omim.obo: omim.owl
-	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | perl -npe 's@ EXACT @ RELATED @' > $@
+	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | perl -npe 's@ EXACT @ RELATED @'  | ./hide-defs.pl	 > $@

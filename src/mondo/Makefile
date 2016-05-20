@@ -60,6 +60,9 @@ linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 .PRECIOUS: linked-%.owl
 
+test-%.owl: set-1-amended-ptable.tsv set-1.owl
+	kboom --experimental -c $*  --splitSize 9999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
+
 # use pandoc to convert markdown to html
 linked-%-rpt.md: linked-%.owl
 %-rpt.html: %-rpt.md
@@ -68,6 +71,7 @@ linked-%-rpt.md: linked-%.owl
 # Merging most probable axioms plus original ontologies
 PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
+PRIORITIES_DEF := -l Orphanet 10 -l DOID 5  -l MESH 3 -l OMIM 1
 
 # we do not include omia in set-1, as it's xrefs are potentially problematic
 #OTHERS_TO_MERGE := $(OMIA_OBO)
@@ -238,3 +242,7 @@ disease2go.tsv:
 
 disease2go.obo: disease2go.tsv
 	cut -f1-4 $< | tbl2obolinks.pl --rel has_pathway - 
+
+sync-report:
+	cp set-1.owl linked-1*{md,json,html} set-1-ptable*tsv ~/Dropbox/MonDO-Reports/
+	rsync -az target ~/Dropbox/MonDO-Reports/target
