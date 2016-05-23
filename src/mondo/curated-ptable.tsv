@@ -6,3 +6,4 @@
 1.0 MESH_C565902 Biemond Syndrome II EquivalentTo OMIM_210350 Biemond Syndrome 2 
 0.8 MESH_D009800 Oculocerebrorenal Syndrome EquivalentTo OMIM_309000 Lowe Oculocerebrorenal Syndrome
 0.8 MESH_D011371 Progeria EquivalentTo OMIM_176670 Hutchinson-Gilford Progeria Syndrome
+0.00    OMIM_609241 Schindler Disease, Type 1 SubClassOf Orphanet_79281 Alpha-N-acetylgalactosaminidase deficiency type 3
