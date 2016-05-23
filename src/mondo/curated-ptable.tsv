@@ -9,3 +9,4 @@
 0.00    OMIM_609241 Schindler Disease, Type 1 SubClassOf Orphanet_79281 Alpha-N-acetylgalactosaminidase deficiency type 3
 0.00    Orphanet_139373 Recessive hereditary methemoglobinemia type 1 SubClassOf OMIM_250800 Methemoglobinemia Due to Deficiency of Methemoglobin Reductase
 0.8    Orphanet_408 Isolated glycerol kinase deficiency SubClassOf OMIM_307030 Glycerol Kinase Deficiency
+1.0 MESH_D012516 Osteosarcoma EquivalentTo OMIM_259500 Osteogenic Sarcoma
