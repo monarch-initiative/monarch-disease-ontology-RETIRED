@@ -13,6 +13,7 @@ MESH_TRIM=../medic/mesh-final.obo
 DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
 NCIT_OBO=../ncit/ncit_disease.obo
 GARD_OBO=../gard/gard.obo
+GARD_XREFS=../gard/gard-xrefs.obo
 
 ## --
 ## INITIAL INPUTS: ONTOLOGY
@@ -25,8 +26,8 @@ GARD_OBO=../gard/gard.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
-	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp > $@
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS)
+	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
 foobar:
 	grep -H '^id: http' $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
@@ -43,7 +44,7 @@ set-%-ptable.tsv: set-%.obo
 .PRECIOUS: set-%-ptable.tsv
 
 set-%-ptable-debug.tsv: set-%.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@.tmp && mv $@.tmp $@
 
 set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv 
 	fix-probs.pl $^ > $@.tmp && mv $@.tmp $@
@@ -61,7 +62,7 @@ linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 .PRECIOUS: linked-%.owl
 
 test-%.owl: set-1-amended-ptable.tsv set-1.owl
-	kboom --experimental -c $*  --splitSize 9999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
+	kboom --experimental -c $*  --splitSize 9999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
 
 # use pandoc to convert markdown to html
 linked-%-rpt.md: linked-%.owl
@@ -71,20 +72,28 @@ linked-%-rpt.md: linked-%.owl
 # Merging most probable axioms plus original ontologies
 PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
-PRIORITIES_DEF := -l Orphanet 10 -l DOID 5  -l MESH 3 -l OMIM 1
+PRIORITIES_DEF := -d Orphanet 10 -d DOID 5  -d MESH 3 -d OMIM 1
 
 # we do not include omia in set-1, as it's xrefs are potentially problematic
 #OTHERS_TO_MERGE := $(OMIA_OBO)
 OTHERS_TO_MERGE := 
 lmerged-%.owl: set-%.owl linked-%.owl $(OTHERS_TO_MERGE)
-	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL) --set-ontology-id $(OBO)/mondo/$@ -o $@
+	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --set-ontology-id $(OBO)/mondo/$@ -o $@
 .PRECIOUS: lmerged-%.owl
 
 lmerged-%.obo: lmerged-%.owl
 	owltools $< --remove-dangling -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
 
+# Generate version of MonDO ready for post-processing;
+# this is a trivial copy of the kBOOM step
 mondo_pre.obo: lmerged-1.obo
 	owltools $< --set-ontology-id $(OBO)/upheno/mondo.owl -o -f obo --no-check $@
+
+# POST-PROCESSING:
+# we remove mesh classes that are non-intermediates (ie have only mesh as superclasses);
+# we first create an antislim
+mesh-mega-antislim.obo: mondo_pre.obo
+	blip-findall -i $< -consult checker.pro write_mesh_antislim > $@
 
 mondo.obo: mondo_pre.obo mesh-mega-antislim.obo
 	owltools $^ --merge-support-ontologies --remove-subset mesh_antislim --assert-inferred-subclass-axioms --removeRedundant -o -f obo --no-check $@
@@ -98,8 +107,6 @@ mondo.owl: mondo.obo equiv_axioms.owl
 mondoe.obo: mondo.owl
 	owltools $< -o -f obo --no-check $@
 
-mesh-mega-antislim.obo: mondo_pre.obo
-	blip-findall -i $< -consult checker.pro write_mesh_antislim > $@
 
 ## REPORT
 
@@ -184,12 +191,16 @@ align-doid-to-ncit.tsv: $(NCIT_OBO)
 align-doid-to-omc.tsv: omc.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+## REQUIRED FOR MONDO
+## There are no externally supplied mappings for OMIA to grouping classes
 align-doid-to-omia.tsv: $(OMIAG_OBO)
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-omimps.tsv: omimps.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+## REQUIRED FOR MONDO
+## Orphanet mappings may not be complete
 align-doid-to-ordo.tsv: ../orphanet/orphanet-phenome-obostyle.obo $(DOID)
 	blip-findall -i ignore.pro -i ignore_rare_genetic.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
@@ -224,8 +235,20 @@ mesh.obo: ../medic/CTD_diseases.obo
 ## EXPERIMENTAL
 ## --
 
+br08901.keg:
+	wget 'http://www.genome.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext'  -O $@
+
 gene_disease.tsv:
 	golr-fetcher.py -t gene-disease -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,4 | sort -u > $@
+
+gene_disease-x.tsv:
+	golr-fetcher.py -t gene-disease -k -n -m 50000 -x subject_closure  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,3,4,5,6 | sort -u > $@
+
+gene_pathway.tsv:
+	golr-fetcher.py -t gene-pathway -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,4 | sort -u > $@
+
+disease_pathway-labeled.tsv:
+	golr-fetcher.py -t disease-pathway -f subject subject_label object object_label  -k -n -m 50000  > $@.tmp && sort -u $@.tmp  > $@
 
 te.out:
 	owltools mondo.obo go-min.obo go-group.obo --merge-support-ontologies --load-instances gene_disease.tsv --load-instances gene2term.tsv --all-by-all-enrichment-analysis -m 100 -p 0.0001 DOID:4 GOROOT:0 > $@.tmp && mv $@.tmp $@
@@ -245,4 +268,4 @@ disease2go.obo: disease2go.tsv
 
 sync-report:
 	cp set-1.owl linked-1*{md,json,html} set-1-ptable*tsv ~/Dropbox/MonDO-Reports/
-	rsync -az target ~/Dropbox/MonDO-Reports/target
+	rsync -az target ~/Dropbox/MonDO-Reports/
