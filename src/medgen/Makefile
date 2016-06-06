@@ -35,5 +35,7 @@ align-medgen.tsv: $(MEDGEN)
 xrefs-%.obo:  align-%.tsv
 	cut -f1-4 $^  | sort -u| tbl2obolinks.pl --swap --rel xref - > $@
 
+
+# takes too long
 mprobs-medgen.tsv: $(MEDGEN)
-	blip-findall -debug index -i ../mondo/super_ignore.pro -u metadata_nlp -i $< -r mondo -goal "class(A),id_idspace(A,'UMLS'),entity_pair_mprobs(A,B,P1,P2,P3,P0)" -select "entity_pair_mprobs(A,B,P1,P2,P3,P0)" > $@.tmp && mv $@.tmp $@
+	blip-findall -debug index -i ../mondo/super_ignore.pro -u metadata_nlp -i $< -r mondo -goal index_entity_pair_label_match "class(B),id_idspace(B,'UMLS'),entity_pair_mprobs(A,B,P1,P2,P3,P0)" -select "entity_pair_mprobs(A,B,P1,P2,P3,P0)" -no_pred > $@.tmp && mv $@.tmp $@
