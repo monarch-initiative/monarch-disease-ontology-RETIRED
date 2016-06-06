@@ -14,6 +14,7 @@ DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
 NCIT_OBO=../ncit/ncit_disease.obo
 GARD_OBO=../gard/gard.obo
 GARD_XREFS=../gard/gard-xrefs.obo
+MEDGEN = ../medgen/medgen-disease-extract.obo
 
 ## --
 ## INITIAL INPUTS: ONTOLOGY
@@ -62,7 +63,7 @@ linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 .PRECIOUS: linked-%.owl
 
 test-%.owl: set-1-amended-ptable.tsv set-1.owl
-	kboom --experimental -c $*  --splitSize 9999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
+	kboom --experimental -c $*  --splitSize 9999 --max 2 -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
 
 # use pandoc to convert markdown to html
 linked-%-rpt.md: linked-%.owl
@@ -98,8 +99,10 @@ mesh-mega-antislim.obo: mondo_pre.obo
 mondo.obo: mondo_pre.obo mesh-mega-antislim.obo
 	owltools $^ --merge-support-ontologies --remove-subset mesh_antislim --assert-inferred-subclass-axioms --removeRedundant -o -f obo --no-check $@
 
-equiv_axioms.owl: linked-1.owl
-	owltools $< --extract-axioms -t EquivalentClasses -o -f ofn $@
+# equivalence sets have by now been merged, which eliminates equivalence axioms:
+# we bring these back in for the OWL version
+equiv_axioms.owl: linked-1.owl mondo-medgen-equiv.owl
+	owltools $^ --merge-support-ontologies --extract-axioms -t EquivalentClasses -o -f ofn $@
 
 mondo.owl: mondo.obo equiv_axioms.owl
 	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
@@ -211,7 +214,15 @@ align-doid-to-ordo-nosyn.tsv: ordo_nosyn.obo disease_nosyn.obo
 align-doid-to-hp.tsv: $(DOID)
 	blip-findall -i ignore.pro -u metadata_nlp -r HP -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+# post-build alignment
+align-mondo-to-medgen.tsv: $(MEDGEN)
+	blip-findall -debug index -i super_ignore.pro -u metadata_nlp -i $< -i mondo.obo -goal index_entity_pair_label_match "class(X),id_idspace(X,'UMLS'),entity_pair_label_reciprocal_best_intermatch(X,Y,S)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+mondo-medgen-equiv.tsv: align-mondo-to-medgen.tsv
+	../medgen/align2best.pl align-mondo-to-medgen.tsv $< > $@.tmp && mv $@.tmp $@
+
+mondo-medgen-equiv.owl: mondo-medgen-equiv.tsv
+	owltools --create-ontology $(OBO)/mondo/$@.tmp --parse-tsv  -a EquivalentClasses $< --extract-axioms -t EquivalentClasses --set-ontology-id $(OBO)/mondo/$@ -o -f ofn $@
 
 
 ## --
