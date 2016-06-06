@@ -12,3 +12,4 @@
 1.0 MESH_D012516 Osteosarcoma EquivalentTo OMIM_259500 Osteogenic Sarcoma
 0.0 DOID_4464 collecting duct carcinoma EquivalentTo Orphanet_319319 Renal medullary carcinoma
 0.0 DOID_4468 clear cell renal carcinoma EquivalentTo Orphanet_319276 Clear cell renal carcinoma
+0.0 MESH_D008649 Mesonephroma EquivalentTo DOID_4468 clear cell adenocarcinoma
