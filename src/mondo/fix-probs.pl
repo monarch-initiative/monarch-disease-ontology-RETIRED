@@ -67,6 +67,9 @@ sub recalc {
     elsif ($t eq 'EquivalentTo') {
         $ix = 2;
     }
+    elsif ($t eq 'SiblingOf') {
+        $ix = 3;
+    }
     else {
         die "TYPE=$t";
     }
