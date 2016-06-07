@@ -2,6 +2,9 @@ all: mondo.obo mondo.owl
 #all: mondo.obo mondo.owl mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
 #all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
+test:
+	owltools mondo.obo --run-reasoner -r elk -u
+
 OMIM_OBO=../omim/omim.obo
 OMIA_OBO=../omia/omia.obo
 OMIAG_OBO=../omia/omia-generic.obo
