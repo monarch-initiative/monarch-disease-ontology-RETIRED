@@ -70,6 +70,10 @@ sub recalc {
     elsif ($t eq 'SiblingOf') {
         $ix = 3;
     }
+    elsif ($t eq 'DisjointWith') {
+        # we treat this as the same as SiblingOf for now, but in fact it should be stronger
+        $ix = 3;
+    }
     else {
         die "TYPE=$t";
     }
