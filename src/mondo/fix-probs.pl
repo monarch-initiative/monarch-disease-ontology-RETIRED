@@ -8,7 +8,7 @@ while(<>) {
     next if m@^#@;
     if (@vals == 1) {
         ## OVERRIDES
-        if (m@^(\S+)\s+(\S+) (.*) (SubClassOf|EquivalentTo|SuperClassOf) (\S+) (.*)$@) {
+        if (m@^(\S+)\s+(\S+) (.*) (SubClassOf|EquivalentTo|SuperClassOf|SiblingOf|DisjointWith) (\S+) (.*)$@) {
             my @tuple = ($1,$2,$3,$4,$5);
             my ($p,$x,$xn,$rel,$y,$yn) = @tuple;
             $x =~ s@_@:@;
