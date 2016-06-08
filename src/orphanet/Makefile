@@ -13,7 +13,7 @@ orphanet-orig.owl:
 
 # use OBO tags/vocabulary; keep hierarchy in place
 orphanet-obostyle.obo: orphanet-orig.owl part_of.obo
-	owltools $^ --merge-support-ontologies --rename-entity $(EFO)/definition $(OBO)/IAO_0000115 --rename-entity $(EFO)/alternative_term $(OIO)hasExactSynonym  --add-obo-shorthand-to-properties -o -f obo --no-check $@.tmp && perl -npe 's@MeSH@MESH@;s@ICD-10@ICD10@' $@.tmp > $@
+	owltools $^ --merge-support-ontologies --rename-entity $(EFO)/definition $(OBO)/IAO_0000115 --rename-entity $(EFO)/alternative_term $(OIO)hasExactSynonym  --add-obo-shorthand-to-properties -o -f obo --no-check $@.tmp && ./fix-ordo.pl $@.tmp > $@
 
 # phenome subset only, with partonomy turned to subclass
 orphanet-phenome-obostyle.obo: orphanet-obostyle.obo orphanet-subsets.pro
