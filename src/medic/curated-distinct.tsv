@@ -1,0 +1,47 @@
+MESH:C563311	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive	MESH:C563440	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative	unrelated
+MESH:C563311	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive	MESH:C563822	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive	unrelated
+MESH:C563440	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative	MESH:C563822	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive	unrelated
+MESH:C566006	Long Qt Syndrome 1-2	MESH:C567842	Long Qt Syndrome 12	unrelated
+MESH:D004194	Disease	MESH:D004198	Disease Susceptibility	unrelated
+MESH:D004194	Disease	MESH:D013577	Syndrome	direct_superclass
+MESH:D004198	Disease Susceptibility	MESH:D013577	Syndrome	unrelated
+MESH:C531598	Familial acanthosis nigricans	MESH:D000052	Acanthosis Nigricans	direct_subclass
+MESH:C531622	Familial antiphospholipid syndrome	MESH:D016736	Antiphospholipid Syndrome	direct_subclass
+MESH:C531673	Familial ependymoma	MESH:D004806	Ependymoma	direct_subclass
+MESH:C531774	Familial pars planitis	MESH:D015868	Pars Planitis	direct_subclass
+MESH:C531784	Familial pityriasis rubra pilaris	MESH:D010916	Pityriasis Rubra Pilaris	direct_subclass
+MESH:C535510	Erythema nodosum, familial	MESH:D004893	Erythema Nodosum	direct_subclass
+MESH:C536011	Achalasia, familial esophageal	MESH:D004931	Esophageal Achalasia	direct_subclass
+MESH:C536077	Hydroa vacciniforme, familial	MESH:D006837	Hydroa Vacciniforme	direct_subclass
+MESH:C536150	Keratoacanthoma familial	MESH:D007636	Keratoacanthoma	direct_subclass
+MESH:C536184	Familial ectopia lentis	MESH:D004479	Ectopia Lentis	direct_subclass
+MESH:C536231	Familial dilated cardiomyopathy	MESH:D002311	Cardiomyopathy, Dilated	direct_subclass
+MESH:C536851	Familial renal cell carcinoma	MESH:D002292	Carcinoma, Renal Cell	direct_subclass
+MESH:C536889	Weber Klippel Trenaunay	MESH:D007715	Klippel-Trenaunay-Weber Syndrome	direct_subclass
+MESH:C537422	Apparent mineralocorticoid excess	MESH:D043204	Mineralocorticoid Excess Syndrome, Apparent	direct_subclass
+MESH:C537443	Meningioma, familial	MESH:D008579	Meningioma	direct_subclass
+MESH:C538118	Hidradenitis suppurativa, familial	MESH:D017497	Hidradenitis Suppurativa	direct_subclass
+MESH:C538218	Dermatitis herpetiformis, familial	MESH:D003874	Dermatitis Herpetiformis	direct_subclass
+MESH:C538572	Familial progressive supranuclear palsy	MESH:D013494	Supranuclear Palsy, Progressive	direct_subclass
+MESH:C562654	Hypokalemia, Familial	MESH:D007008	Hypokalemia	direct_subclass
+MESH:C562722	Eosinophilia, Familial	MESH:D004802	Eosinophilia	direct_subclass
+MESH:C563624	Lichen Planus, Familial	MESH:D008010	Lichen Planus	direct_subclass
+MESH:C564198	Hemifacial Spasm, Familial	MESH:D019569	Hemifacial Spasm	direct_subclass
+MESH:C564416	Gynecomastia, Familial	MESH:D006177	Gynecomastia	direct_subclass
+MESH:C564767	Thymoma, Familial	MESH:D013945	Thymoma	direct_subclass
+MESH:C565853	Chondrodysplasia Punctata Syndrome	MESH:D002806	Chondrodysplasia Punctata	direct_subclass
+MESH:C566104	Striae Distensae, Familial	MESH:D057896	Striae Distensae	direct_subclass
+MESH:C566117	Cluster Headache, Familial	MESH:D003027	Cluster Headache	direct_subclass
+MESH:C566172	Familial Sudden Death	MESH:D003645	Death, Sudden	direct_subclass
+MESH:C566305	Dysalbuminemic Hyperthyroxinemia	MESH:D050010	Hyperthyroxinemia, Familial Dysalbuminemic	direct_subclass
+MESH:C567190	Keratosis, Familial Actinic	MESH:D055623	Keratosis, Actinic	direct_subclass
+MESH:C580087	Familial Hyperaldosteronism	MESH:D006929	Hyperaldosteronism	direct_subclass
+MESH:C580095	Familial Osteochondritis Dissecans	MESH:D010008	Osteochondritis Dissecans	direct_subclass
+MESH:D000686	Amyloidosis	MESH:D028226	Amyloidosis, Familial	direct_superclass
+MESH:D002312	Cardiomyopathy, Hypertrophic	MESH:D024741	Cardiomyopathy, Hypertrophic, Familial	direct_superclass
+MESH:D004342	Drug Hypersensitivity	MESH:D063926	Drug Hypersensitivity Syndrome	transitive_superclass
+MESH:D007015	Hypophosphatemia, Familial	MESH:D017674	Hypophosphatemia	direct_subclass
+MESH:D012871	Skin Diseases	MESH:D012873	Skin Diseases, Genetic	direct_superclass
+MESH:D016657	Cerebral Amyloid Angiopathy	MESH:D028243	Cerebral Amyloid Angiopathy, Familial	direct_superclass
+MESH:D017772	Amyloid Neuropathies	MESH:D028227	Amyloid Neuropathies, Familial	direct_superclass
+MESH:D053098	Familial Hypophosphatemic Rickets	MESH:D063730	Rickets, Hypophosphatemic	direct_subclass
