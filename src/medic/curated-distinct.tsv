@@ -46,3 +46,4 @@ MESH:D016657	Cerebral Amyloid Angiopathy	MESH:D028243	Cerebral Amyloid Angiopath
 MESH:D017772	Amyloid Neuropathies	MESH:D028227	Amyloid Neuropathies, Familial	direct_superclass
 MESH:D053098	Familial Hypophosphatemic Rickets	MESH:D063730	Rickets, Hypophosphatemic	direct_subclass
 MESH:C538664	PICA syndrome	MESH:D010842	Pica	unrelated
+MESH:D008538	Meige Syndrome	MESH:D008539	Meigs Syndrome	true		label		label		unrelated	
