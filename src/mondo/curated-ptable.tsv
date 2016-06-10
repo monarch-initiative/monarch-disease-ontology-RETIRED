@@ -17,3 +17,6 @@
 0.9 OMIM_614592 Bent Bone Dysplasia Syndrome SiblingOf DOID_10591 pre-eclampsia
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo MESH_D012174 Retinitis Pigmentosa
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo Orphanet_791 Retinitis Pigmentosa
+0.95 DOID_3429 inclusion body myositis EquivalentTo MESH_D018979 Myositis, Inclusion Body
+0.95 DOID_3429 inclusion body myositis EquivalentTo Orphanet_611 Inclusion body myositis
+0.0 OMIM_235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 SiblingOf Orphanet_90038 Typical hemolytic-uremic syndrome
