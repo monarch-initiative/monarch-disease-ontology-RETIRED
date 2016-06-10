@@ -20,3 +20,7 @@
 0.95 DOID_3429 inclusion body myositis EquivalentTo MESH_D018979 Myositis, Inclusion Body
 0.95 DOID_3429 inclusion body myositis EquivalentTo Orphanet_611 Inclusion body myositis
 0.0 OMIM_235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 SiblingOf Orphanet_90038 Typical hemolytic-uremic syndrome
+0.8 OMIM_300100 Adrenoleukodystrophy SubClassOf DOID_10588 adrenoleukodystrophy
+0.8 OMIM_300100 Adrenoleukodystrophy EquivalentTo Orphanet_139396 X-linked cerebral adrenoleukodystrophy
+0.8 DOID_10588 adrenoleukodystrophy SiblingOf Orphanet_59298 Schilder disease
+0.8 Orphanet_139399 Adrenomyeloneuropathy SubClassOf OMIM_300100 Adrenoleukodystrophy
