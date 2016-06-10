@@ -37,12 +37,12 @@ mesh-final.obo: ctd-mesh-no-omim-labels.obo xrefs-omim.obo
 # ----------------------------------------
 # See: https://github.com/monarch-initiative/monarch-disease-ontology/issues/81
 
-SELFIGNORE= ignore_selfcheck.pro
-#SELFIGNORE= ../mondo/super_ignore.pro
+#SELFIGNORE= ignore_selfcheck.pro
+SELFIGNORE= ../mondo/super_ignore.pro
 
 # align mesh with self
-align-self.tsv: ctd-mesh-no-omim-labels.obo
-	blip-findall -i $(SELFIGNORE) -u metadata_nlp -i $<  -goal index_entity_pair_label_match "entity_pair_label_match_rel/6" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+align-self.tsv: ctd-mesh-no-omim-labels.obo cur.pro
+	blip-findall -i $(SELFIGNORE) -i cur.pro -u metadata_nlp -i $<  -goal index_entity_pair_label_match "entity_pair_label_match_rel(A,B,SA,SB,St,R),\+cur(A,_,B,_)" -select "x(A,B,SA,SB,St,R)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 .PRECIOUS: align-self.tsv
 
 # filter matches that are due to syns
@@ -56,3 +56,4 @@ align-self-strict.tsv: align-self-by-label.tsv
 
 cur.pro: curated-distinct.tsv curated-duplicates.tsv
 	cut -f1-4 $^ | tbl2p -p cur > $@
+
