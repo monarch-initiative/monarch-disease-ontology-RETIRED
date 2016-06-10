@@ -1,3 +1,5 @@
+OBO = http://purl.obolibrary.org/obo
+
 all: ctd-mesh-no-omim-labels.obo
 
 CTD_diseases.obo:
@@ -29,8 +31,11 @@ align-omim-etype.tsv: combined.obo
 xrefs-omim.obo:  align-omim.tsv align-omim-etype.tsv
 	cut -f1-4 $^  | sort -u| tbl2obolinks.pl --swap --rel xref - > $@
 
-mesh-final.obo: ctd-mesh-no-omim-labels.obo xrefs-omim.obo
+mesh-final-unmerged.obo: ctd-mesh-no-omim-labels.obo xrefs-omim.obo
 	obo-merge-tags.pl -t xref $^ > $@
+
+mesh-final.obo:  mesh-final-unmerged.obo mesh-self-equivs.obo
+	owltools --create-ontology $(OBO)/mesh.owl $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets -o -f obo --no-check $@
 
 # ----------------------------------------
 # MESH SELF-DETECTION
@@ -57,3 +62,6 @@ align-self-strict.tsv: align-self-by-label.tsv
 cur.pro: curated-distinct.tsv curated-duplicates.tsv
 	cut -f1-4 $^ | tbl2p -p cur > $@
 
+
+mesh-self-equivs.obo: curated-duplicates.tsv
+	(echo ontology: mesh-equiv && echo && tbl2obolinks.pl --rel equivalent_to $<) > $@.tmp && mv $@.tmp $@
