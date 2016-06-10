@@ -45,3 +45,4 @@ MESH:D012871	Skin Diseases	MESH:D012873	Skin Diseases, Genetic	direct_superclass
 MESH:D016657	Cerebral Amyloid Angiopathy	MESH:D028243	Cerebral Amyloid Angiopathy, Familial	direct_superclass
 MESH:D017772	Amyloid Neuropathies	MESH:D028227	Amyloid Neuropathies, Familial	direct_superclass
 MESH:D053098	Familial Hypophosphatemic Rickets	MESH:D063730	Rickets, Hypophosphatemic	direct_subclass
+MESH:C538664	PICA syndrome	MESH:D010842	Pica	unrelated
