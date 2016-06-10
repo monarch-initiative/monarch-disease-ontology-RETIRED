@@ -1,0 +1,19 @@
+MESH:C535439	Biemond syndrome type 2	MESH:C565902	Biemond Syndrome II	unrelated
+MESH:C536046	Osteogenesis imperfecta, type 5	MESH:C567042	Osteogenesis Imperfecta, Type V	unrelated
+MESH:C536047	Osteogenesis imperfecta, type 6	MESH:C567041	Osteogenesis Imperfecta, Type VI	unrelated
+MESH:C536048	Osteogenesis imperfecta, type 7	MESH:C565200	Osteogenesis Imperfecta Type VII	unrelated
+MESH:C536585	Alpha-mannosidosis, type 2	MESH:C565418	alpha-Mannosidosis, Type II	unrelated
+MESH:C536765	Xeroderma pigmentosum, type 9	MESH:C564731	Xeroderma Pigmentosum IX	unrelated
+MESH:C536998	Leber congenital amaurosis type 3	MESH:C565814	Leber Congenital Amaurosis 3	unrelated
+MESH:C536999	Leber congenital amaurosis, type 4	MESH:C565778	Leber Congenital Amaurosis 4	unrelated
+MESH:C537034	Long QT syndrome type 3	MESH:C565840	Long Qt Syndrome 3	unrelated
+MESH:C537971	Camptodactyly syndrome Guadalajara type 2	MESH:C567138	Camptodactyly Syndrome, Guadalajara, Type II	unrelated
+MESH:C537978	Camurati Engelmann disease, type 2	MESH:C564689	Camurati-Engelmann Disease, Type II	unrelated
+MESH:C538417	Spinal muscular atrophy 4	MESH:C563948	Spinal Muscular Atrophy, Type IV	unrelated
+MESH:C563311	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive	MESH:C563440	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative	unrelated
+MESH:C563311	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Negative, NK Cell-Positive	MESH:C563822	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive	unrelated
+MESH:C563440	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell-Negative, B Cell-Positive, NK Cell-Negative	MESH:C563822	Severe Combined Immunodeficiency, Autosomal Recessive, T Cell Negative, B Cell Positive, NK Cell Positive	unrelated
+MESH:C566006	Long Qt Syndrome 1-2	MESH:C567842	Long Qt Syndrome 12	unrelated
+MESH:D004194	Disease	MESH:D004198	Disease Susceptibility	unrelated
+MESH:D004194	Disease	MESH:D013577	Syndrome	direct_superclass
+MESH:D004198	Disease Susceptibility	MESH:D013577	Syndrome	unrelated
