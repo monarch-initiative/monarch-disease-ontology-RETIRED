@@ -24,3 +24,42 @@
 0.8 OMIM_300100 Adrenoleukodystrophy EquivalentTo Orphanet_139396 X-linked cerebral adrenoleukodystrophy
 0.8 DOID_10588 adrenoleukodystrophy SiblingOf Orphanet_59298 Schilder disease
 0.8 Orphanet_139399 Adrenomyeloneuropathy SubClassOf OMIM_300100 Adrenoleukodystrophy
+1.0 OMIM_601539 Peroxisome Biogenesis Disorder 1B SubClassOf MESH_D052919 Refsum Disease, Infantile
+1.0 OMIM_266510 Peroxisome Biogenesis Disorder 3B SubClassOf DOID_10582 Refsum disease
+0.9 OMIM_614895 Charcot-Marie-Tooth Disease, Demyelinating, Type 4F EquivalentTo Orphanet_99952 Charcot-Marie-Tooth disease type 4F
+1.0 DOID_10595 Charcot-Marie-Tooth disease EquivalentTo Orphanet_166 Charcot-Marie-Tooth disease
+0.95 OMIM_608591 CMT2G EquivalentTo Orphanet_99941 Autosomal dominant Charcot-Marie-Tooth disease type 2G
+0.95 MESH_C535414 Charcot-Marie-Tooth disease, Type 2G EquivalentTo OMIM_608591 CMT2G
+0.95 OMIM_613287 Charcot-Marie-Tooth Disease, Axonal, Type 2N EquivalentTo Orphanet_228174 Autosomal dominant Charcot-Marie-Tooth disease type 2N
+0.95 OMIM_182960 HMN1 SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4 
+0.95 OMIM_118210 Charcot-Marie-Tooth Disease, Axonal, Type 2A1 EquivalentTo Orphanet_99946 Autosomal dominant Charcot-Marie-Tooth disease type 2A1 
+0.95 MESH_C535418 Charcot-Marie-Tooth disease, Type 2K EquivalentTo OMIM_607831 Charcot-Marie-Tooth Disease, Axonal, Type 2K 
+0.95 OMIM_607736 Charcot-Marie-Tooth Disease, Axonal, Type 2J EquivalentTo Orphanet_99943 Autosomal dominant Charcot-Marie-Tooth disease type 2J 
+0.75 OMIM_614751 Neuronopathy, Distal Hereditary Motor, Type 5B SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
+0.95 OMIM_606071 Hereditary Motor and Sensory Neuropathy, Type 2C EquivalentTo Orphanet_99937 Autosomal dominant Charcot-Marie-Tooth disease type 2C
+0.95 OMIM_616155 Charcot-Marie-Tooth Disease, Axonal, Type 2S SubClassOf DOID_0050539 Charcot-Marie-Tooth disease type 2
+0.95 OMIM_608634 Neuronopathy, Distal Hereditary Motor, Type 2B SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
+0.95 OMIM_615490 Charcot-Marie-Tooth Disease, Axonal, Type 2R EquivalentTo Orphanet_397968 Charcot-Marie-Tooth disease type 2R
+0.95 OMIM_118220 Charcot-Marie-Tooth Disease, Demyelinating, Type 1A EquivalentTo Orphanet_101081 Charcot-Marie-Tooth disease type 1A
+0.95 OMIM_614228 Charcot-Marie-Tooth Disease, Axonal, Type 2O EquivalentTo Orphanet_284232 Autosomal dominant Charcot-Marie-Tooth disease type 2O
+0.95 OMIM_614436 Charcot-Marie-Tooth Disease, Axonal, Type 2P EquivalentTo Orphanet_300319 Charcot-Marie-Tooth disease type 2P
+0.95 OMIM_607734 Charcot-Marie-Tooth Disease, Demyelinating, Type 1F EquivalentTo Orphanet_101085 Charcot-Marie-Tooth disease type 1F
+0.75 OMIM_600794 Neuronopathy, Distal Hereditary Motor, Type 5A SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
+0.95 OMIM_609260 Charcot-Marie-Tooth Disease, Axonal, Type 2A2 EquivalentTo Orphanet_99947 Autosomal dominant Charcot-Marie-Tooth disease type 2A2
+0.95 OMIM_607677 Charcot-Marie-Tooth Disease, Axonal, Type 2I EquivalentTo Orphanet_99942 Autosomal dominant Charcot-Marie-Tooth disease type 2I
+0.95 OMIM_616155 Charcot-Marie-Tooth Disease, Axonal, Type 2S EquivalentTo Orphanet_443073 Charcot-Marie-Tooth disease type 2S
+0.50 DOID_0050541 Charcot-Marie-Tooth disease type 4 SiblingOf Orphanet_53739 Distal hereditary motor neuropathy
+0.95 DOID_0050538 Charcot-Marie-Tooth disease type 1 SuperClassOf OMIM_118200 Charcot-Marie-Tooth Disease, Demyelinating, Type 1B
+0.95 OMIM_615025 Charcot-Marie-Tooth Disease, Axonal, Type 2Q EquivalentTo Orphanet_329258 Autosomal dominant Charcot-Marie-Tooth disease type 2Q
+0.85 OMIM_118300 Charcot-Marie-Tooth Disease and Deafness EquivalentTo Orphanet_90658 Charcot-Marie-Tooth disease type 1E
+0.85 MESH_C537986 Charcot-Marie-Tooth disease, Type 1E EquivalentTo Orphanet_90658 Charcot-Marie-Tooth disease type 1E
+0.95 OMIM_607684 Charcot-Marie-Tooth Disease, Axonal, Type 2E EquivalentTo Orphanet_99939 Autosomal dominant Charcot-Marie-Tooth disease type 2E
+0.95 MESH_C535415 Charcot-Marie-Tooth disease, Type 2H EquivalentTo OMIM_607731 CMT2H
+0.95 OMIM_601472 Charcot-Marie-Tooth Disease, Axonal, Type 2D EquivalentTo Orphanet_99938 Autosomal dominant Charcot-Marie-Tooth disease type 2D
+0.65 OMIM_158590 Neuronopathy, Distal Hereditary Motor, Type 2A SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
+0.95 OMIM_606595 Charcot-Marie-Tooth Disease, Axonal, Type 2F EquivalentTo Orphanet_99940 Autosomal dominant Charcot-Marie-Tooth disease type 2F
+
+# See https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/156#issuecomment-225341679
+0.99 DOID_0050541 Charcot-Marie-Tooth disease type 4 SiblingOf OMIM_145900 Hypertrophic Neuropathy of Dejerine-Sottas
+0.99 OMIM_158580 Neuronopathy, Distal Hereditary Motor, Type 7A SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
+
