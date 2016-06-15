@@ -1,4 +1,6 @@
+ontology: upheno/mondo/omim/blacklist
 
 [Term]
 id: OMIM:302700 ! CEREBRAL SCLEROSIS, DIFFUSE, SCHOLZ TYPE
 is_obsolete: true
+consider: OMIM:300100
