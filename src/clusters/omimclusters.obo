@@ -23761,7 +23761,7 @@ is_a: DC:0000414 ! Spinocerebellar Ataxia
 [Term]
 id: OMIM:302700
 name: Cerebral Sclerosis, Diffuse, Scholz Type
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 
 [Term]
 id: OMIM:302800
