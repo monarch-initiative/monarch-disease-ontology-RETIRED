@@ -62,4 +62,6 @@
 # See https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/156#issuecomment-225341679
 0.99 DOID_0050541 Charcot-Marie-Tooth disease type 4 SiblingOf OMIM_145900 Hypertrophic Neuropathy of Dejerine-Sottas
 0.99 OMIM_158580 Neuronopathy, Distal Hereditary Motor, Type 7A SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
+0.75 MESH_D025063 Chromosome Disorders EquivalentTo Orphanet_68335 Chromosomal anomaly
+
 
