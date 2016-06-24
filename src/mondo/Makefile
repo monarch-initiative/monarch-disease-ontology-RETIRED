@@ -136,7 +136,7 @@ disease_nosyn.obo: $(DOID_OBO)
 # todo: add def back later, but watch for multiple def tags
 # xrefs to: PS
 omimclusters.obo: $(CLUSTERS)/omimclusters.obo $(OMIM_OBO)
-	obo-merge-tags.pl  -t synonym -t name -t xref -t def $^ > $@.tmp && obo2obo $@.tmp -o $@
+	obo-merge-tags.pl -t is_obsolete -t synonym -t name -t xref -t def $^ > $@.tmp && obo2obo $@.tmp -o $@
 
 # TODO:
 #omiaclusters.obo: $(CLUSTERS)/omiaclusters.obo $(OMIA_OBO)
