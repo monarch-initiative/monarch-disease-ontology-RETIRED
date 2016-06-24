@@ -462,3 +462,7 @@ synonym: "allergic disease" EXACT []
 id: DOID:409 ! liver disease
 synonym: "hepatic disease" EXACT []
 
+[Term]
+id: DOID:12804 ! mucopolysaccharidosis IV
+synonym: "mucopolysaccharidosis type IV" EXACT []
+synonym: "mucopolysaccharidosis type 4" EXACT []

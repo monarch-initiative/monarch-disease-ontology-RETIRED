@@ -342,11 +342,11 @@ pair_relationship_scores_ont(_,B,m(ont,1,95,1,1)) :-
         id_idspace(B,'OMIA'),  %
         !.
 pair_relationship_scores_ont(A,B,m(ont,100,0,0,1)) :-
-        subset(B,'Orphanet:377794'), % group of disorders
+        entity_partition(B,'Orphanet:377794'), % group of disorders
         id_idspace(A,'OMIM'),
         !.
 pair_relationship_scores_ont(A,B,m(ont,10,10,20,1)) :-
-        subset(B,'Orphanet:377788'), % disease
+        entity_partition(B,'Orphanet:377788'), % disease
         id_idspace(A,'OMIM'),
         !.
 pair_relationship_scores_ont(A,B,m(ont,1,20,1,1)) :-
