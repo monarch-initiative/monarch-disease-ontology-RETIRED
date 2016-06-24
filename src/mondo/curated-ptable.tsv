@@ -19,6 +19,7 @@
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo Orphanet_791 Retinitis Pigmentosa
 0.95 DOID_3429 inclusion body myositis EquivalentTo MESH_D018979 Myositis, Inclusion Body
 0.95 DOID_3429 inclusion body myositis EquivalentTo Orphanet_611 Inclusion body myositis
+0.80 OMIM_605637 Myopathy, Proximal, and Ophthalmoplegia SubClassOf DOID_3429 inclusion body myositis 
 0.0 OMIM_235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 SiblingOf Orphanet_90038 Typical hemolytic-uremic syndrome
 0.8 OMIM_300100 Adrenoleukodystrophy SubClassOf DOID_10588 adrenoleukodystrophy
 0.8 OMIM_300100 Adrenoleukodystrophy EquivalentTo Orphanet_139396 X-linked cerebral adrenoleukodystrophy
