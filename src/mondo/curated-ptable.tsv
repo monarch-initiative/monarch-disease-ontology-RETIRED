@@ -64,4 +64,7 @@
 0.99 OMIM_158580 Neuronopathy, Distal Hereditary Motor, Type 7A SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
 0.75 MESH_D025063 Chromosome Disorders EquivalentTo Orphanet_68335 Chromosomal anomaly
 
+# See https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/163
+0.99 Orphanet_309310 Mucopolysaccharidosis type 4B SubClassOf DOID_12804 mucopolysaccharidosis IV
+0.99 Orphanet_309297 Mucopolysaccharidosis type 4A SubClassOf DOID_12804 mucopolysaccharidosis IV
 
