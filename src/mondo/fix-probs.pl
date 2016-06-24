@@ -6,6 +6,7 @@ while(<>) {
     chomp;
     my @vals = split(/\t/,$_);
     next if m@^#@;
+    next if m@^\s*$@;
     if (@vals == 1) {
         ## OVERRIDES
         if (m@^(\S+)\s+(\S+) (.*) (SubClassOf|EquivalentTo|SuperClassOf|SiblingOf|DisjointWith) (\S+) (.*)$@) {
@@ -26,7 +27,7 @@ while(<>) {
             push(@{$curh{"$x-$y"}}, \@tuple);
         }
         else {
-            die $_;
+            die "Line: '$_' does not match pattern";
         }
     }
     elsif (@vals == 6) {
@@ -44,7 +45,7 @@ while(<>) {
         print join("\t", ($x,$y,@probs))."\n";
     }
     else {
-        die "$_ has cols == ".scalar(@vals);
+        die "Line: '$_' has cols == ".scalar(@vals);
     }
 }
 print STDERR "FIXED: $n\n";
