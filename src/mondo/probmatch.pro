@@ -417,6 +417,8 @@ ptable(A,B,P1,P2,P3,P0) :-
 % of the relationship between A and B being (SubClassOf, SuperClassOf, EquivalentTo, Sibling)
 xref_ptable(A,B,P1,P2,P3,P0) :-
         normalized_xref(A,B),
+        \+ entity_obsolete(A,_),
+        \+ entity_obsolete(B,_),
         debug(prob,'testing: ~w ~w',[A,B]),
         ptable(A,B,P1,P2,P3,P0).
 

@@ -8,5 +8,5 @@ omim.owl: mirror-omim.ttl
 	owltools $< --set-ontology-id $(OBO)/doid/$@ -o $@
 .PRECIOUS: omim.owl
 
-omim.obo: omim.owl
-	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | perl -npe 's@ EXACT @ RELATED @'  | ./hide-defs.pl	 > $@
+omim.obo: omim.owl blacklist.obo
+	owltools $^ --merge-support-ontologies -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | perl -npe 's@ EXACT @ RELATED @'  | ./hide-defs.pl	 > $@
