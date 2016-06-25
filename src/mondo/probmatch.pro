@@ -238,6 +238,12 @@ pair_relationship_scores_lexical(A,B,m(lexical,1,21,2,1)) :-
         sub_atom(NB,_,_,_,NA),  % NA is a substring of NB, and thus a superclass of NB
         !.
 
+% match, but where at least one scope is unreliable
+pair_relationship_scores_lexical(A,B,m(lexical,2,2,5,1)) :-
+        entity_nlabel_scope_stemmed(A,N,_,_),
+        entity_nlabel_scope_stemmed(B,N,_,_),
+        !.
+
 % substrings; non-exact syn; weak score as relateds are unreliable
 pair_relationship_scores_lexical(A,B,m(lexical,4,1,2,1)) :-
         entity_label_scope(A,NA,SA),
