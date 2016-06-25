@@ -69,11 +69,11 @@
 0.99 Orphanet_309310 Mucopolysaccharidosis type 4B SubClassOf DOID_12804 mucopolysaccharidosis IV
 0.99 Orphanet_309297 Mucopolysaccharidosis type 4A SubClassOf DOID_12804 mucopolysaccharidosis IV
 
-1.0 Orphanet:2134 Atypical hemolytic-uremic syndrome SubclassOf OMIM:235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 
-1.0 Orphanet:2134 Atypical hemolytic-uremic syndrome SubclassOf OMIM:612922 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 2
-1.0 Orphanet:2134 Atypical hemolytic-uremic syndrome SubclassOf OMIM:612923 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 3
-1.0 Orphanet:2134 Atypical hemolytic-uremic syndrome SubclassOf OMIM:612924 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 4
-1.0 Orphanet:2134 Atypical hemolytic-uremic syndrome SubclassOf OMIM:612925 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 5
-1.0 Orphanet:2134 Atypical hemolytic-uremic syndrome SubclassOf OMIM:612926 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 6
-1.0 Orphanet:2134 Atypical hemolytic-uremic syndrome SubclassOf OMIM:615008 Nephrotic Syndrome, Type 7
-1.0 DOID:1686 glaucoma EquivalentTo MESH_D005901 Glaucoma
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612922 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 2
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612923 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 3
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612924 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 4
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612925 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 5
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612926 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 6
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_615008 Nephrotic Syndrome, Type 7
+1.0 DOID_1686 glaucoma EquivalentTo MESH_D005901 Glaucoma
