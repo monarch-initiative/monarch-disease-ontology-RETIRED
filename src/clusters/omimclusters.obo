@@ -5,7 +5,7 @@ auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
 remark: Filtered by ID contains "omim"
 generated-by: $Id: MGIOBOFileGeneratorMgr.java
-+ontology: doid/contrib/omimclusters
+ontology: doid/contrib/omimclusters
 
 [Term]
 id: DC:0000000
@@ -1341,6 +1341,7 @@ creation_date: 2013-09-03T16:23:18Z
 id: DC:0000163
 name: Fibrosis Of Extraocular Muscles, Congenital
 comment: Based on OMIM disease listed in the general description on 135700.
+xref: Orphanet:45358
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2013-09-03T16:25:05Z
@@ -23832,7 +23833,7 @@ is_a: DC:0000414 ! Spinocerebellar Ataxia
 [Term]
 id: OMIM:302700
 name: Cerebral Sclerosis, Diffuse, Scholz Type
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 
 [Term]
 id: OMIM:302800

@@ -1,0 +1,1129 @@
+OMIM:606864	Carney-Stratakis syndrome	GO:0000104	succinate dehydrogenase activity	3.687494753989995e-12	8.132769679924934e-8	3	4	3	18671
+OMIM:606864	Carney-Stratakis syndrome	GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	3.687494753989995e-12	8.132769679924934e-8	3	4	3	18671
+OMIM:606864	Carney-Stratakis syndrome	GO:0006099	tricarboxylic acid cycle	3.368854750718242e-9	7.430009152709083e-5	3	29	3	18671
+OMIM:163950	Noonan Syndrome 1	GO:0007409	axonogenesis	6.7087446709024334e-12	1.4796136371675317e-7	8	406	11	18671
+OMIM:163950	Noonan Syndrome 1	GO:0060324	face development	5.102462896644511e-11	1.1253481918549468e-6	5	50	11	18671
+OMIM:163950	Noonan Syndrome 1	GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	3.010588445206963e-10	6.639852815903957e-6	8	647	11	18671
+OMIM:163950	Noonan Syndrome 1	GO:0030878	thyroid gland development	9.68148672342295e-10	2.1352518968509315e-5	4	26	11	18671
+OMIM:163950	Noonan Syndrome 1	GO:0045860	positive regulation of protein kinase activity	1.3688699063152399e-9	3.0190425783782615e-5	7	450	11	18671
+OMIM:163950	Noonan Syndrome 1	GO:0043410	positive regulation of MAPK cascade	1.6968468852240903e-9	3.742395805361731e-5	7	464	11	18671
+OMIM:163950	Noonan Syndrome 1	GO:0070371	ERK1 and ERK2 cascade	2.2043182834607933e-9	4.8616239741727796e-5	6	247	11	18671
+OMIM:100300	Adams-Oliver syndrome	GO:0061314	Notch signaling involved in heart development	1.1057530446834107e-9	2.4387383400492624e-5	3	10	5	18671
+OMIM:100300	Adams-Oliver syndrome	GO:0003222	ventricular trabecula myocardium morphogenesis	1.5202816783244089e-9	3.352981241544484e-5	3	11	5	18671
+OMIM:268150	Rh deficiency syndrome	GO:0019740	nitrogen utilization	5.162592575658209e-11	1.138609792561418e-6	3	8	3	18671
+OMIM:268150	Rh deficiency syndrome	GO:0015695	organic cation transport	1.0510335934910131e-9	2.3180545904444294e-5	3	20	3	18671
+OMIM:268150	Rh deficiency syndrome	GO:0072488	ammonium transmembrane transport	1.8660706313511355e-9	4.115618777444929e-5	3	24	3	18671
+OMIM:268150	Rh deficiency syndrome	GO:0008519	ammonium transmembrane transporter activity	2.397144815979857e-9	5.2869028916435745e-5	3	26	3	18671
+DOID:0050577	Sensenbrenner syndrome	GO:0035721	intraciliary retrograde transport	1.021405182655144e-14	2.2527091303459201e-10	4	9	4	18671
+DOID:0050577	Sensenbrenner syndrome	GO:0030991	intraciliary transport particle A	1.176836406102666e-14	2.5955126936594297e-10	4	8	4	18671
+DOID:0050577	Sensenbrenner syndrome	GO:0097542	ciliary tip	2.4488411298762003e-11	5.40091911194196e-7	4	43	4	18671
+DOID:0050576	Senior-Loken syndrome	GO:0032391	photoreceptor connecting cilium	8.555378627761456e-13	1.8868887563527892e-8	5	30	9	18671
+DOID:0050580	hereditary lymphedema	GO:0001946	lymphangiogenesis	3.352998878547453e-9	7.395039026636407e-5	3	14	5	18671
+DOID:0050581	brachydactyly	GO:0008285	negative regulation of cell proliferation	3.443800800084773e-12	7.595302664586967e-8	9	634	11	18671
+DOID:0050581	brachydactyly	GO:0030326	embryonic limb morphogenesis	3.601385856200068e-11	7.94285650584925e-7	6	125	11	18671
+DOID:0050581	brachydactyly	GO:0030509	BMP signaling pathway	5.993505691748169e-11	1.3218676803150586e-6	6	136	11	18671
+DOID:0050581	brachydactyly	GO:0007389	pattern specification process	1.0325270638489314e-9	2.2772384393188183e-5	7	432	11	18671
+DOID:0050581	brachydactyly	GO:0002062	chondrocyte differentiation	1.3825685041268798e-9	3.0492548358518334e-5	5	95	11	18671
+DOID:0050581	brachydactyly	GO:0045667	regulation of osteoblast differentiation	3.0455619137725876e-9	6.716986800825442e-5	5	111	11	18671
+DOID:0050567	orofacial cleft	GO:0051241	negative regulation of multicellular organismal process	3.1389569832285247e-9	6.922969626510511e-5	17	966	58	18671
+DOID:0050564	autosomal dominant nonsyndromic deafness	GO:0007605	sensory perception of sound	2.220446049250313e-15	4.8971937616215655e-11	23	138	31	18671
+DOID:0050564	autosomal dominant nonsyndromic deafness	GO:0048839	inner ear development	2.640442309242985e-10	5.823495513035404e-6	8	170	31	18671
+DOID:0050565	autosomal recessive nonsyndromic deafness	GO:0007605	sensory perception of sound	1.7119639039719914e-13	3.775736390210227e-9	36	138	57	18671
+DOID:0050565	autosomal recessive nonsyndromic deafness	GO:0032420	stereocilium	4.3520742565306136e-14	9.598499772778268e-10	21	36	57	18671
+DOID:0050565	autosomal recessive nonsyndromic deafness	GO:0045177	apical part of cell	4.08623135328412e-11	9.012183249668126e-7	13	356	57	18671
+DOID:0050565	autosomal recessive nonsyndromic deafness	GO:0060088	auditory receptor cell stereocilium organization	5.520228718580711e-11	1.2174864438829758e-6	5	10	57	18671
+DOID:0050565	autosomal recessive nonsyndromic deafness	GO:0050957	equilibrioception	2.712647995117834e-9	5.982745153232383e-5	4	7	57	18671
+DOID:0050565	autosomal recessive nonsyndromic deafness	GO:0005902	microvillus	2.853592140361627e-9	6.293597465567569e-5	7	75	57	18671
+DOID:0050569	Seckel syndrome	GO:0031570	DNA integrity checkpoint	1.1819800693757543e-10	2.606857043008226e-6	6	152	11	18671
+DOID:0050569	Seckel syndrome	GO:0007099	centriole replication	1.1362087937172305e-9	2.505908494543352e-5	4	27	11	18671
+DOID:0050569	Seckel syndrome	GO:0098535	de novo centriole assembly	1.5202744618747488e-9	3.3529653256647585e-5	3	5	11	18671
+DOID:0050569	Seckel syndrome	GO:0005814	centriole	1.7049641698463347e-9	3.760298476596091e-5	5	99	11	18671
+DOID:0050569	Seckel syndrome	GO:0044772	mitotic cell cycle phase transition	2.5147931514979405e-9	5.546376295628708e-5	7	491	11	18671
+DOID:0050570	congenital disorder of glycosylation type I	GO:0005789	endoplasmic reticulum membrane	8.770317805328887e-12	1.934293591965286e-7	22	977	39	18671
+DOID:0050570	congenital disorder of glycosylation type I	GO:0000030	mannosyltransferase activity	8.79296635503124e-14	1.93928872960214e-9	10	24	39	18671
+DOID:0050570	congenital disorder of glycosylation type I	GO:0006488	dolichol-linked oligosaccharide biosynthetic process	4.3520742565306136e-14	9.598499772778268e-10	12	20	39	18671
+DOID:0050570	congenital disorder of glycosylation type I	GO:0097502	mannosylation	1.5543122344752192e-15	3.428035633135096e-11	10	33	39	18671
+DOID:0050570	congenital disorder of glycosylation type I	GO:0018279	protein N-linked glycosylation via asparagine	1.2729817200352045e-12	2.8075611835376435e-8	7	38	39	18671
+DOID:0050570	congenital disorder of glycosylation type I	GO:0019348	dolichol metabolic process	2.430055046076518e-10	5.3594864041217605e-6	4	6	39	18671
+DOID:0050573	2-hydroxyglutaric aciduria	GO:0006103	2-oxoglutarate metabolic process	4.201340386700281e-9	9.266056222867469e-5	3	20	4	18671
+DOID:0050572	cone-rod dystrophy	GO:0007601	visual perception	3.610445276081009e-13	7.962837056396666e-9	17	207	27	18671
+DOID:0050572	cone-rod dystrophy	GO:0001750	photoreceptor outer segment	6.661338147750939e-14	1.4691581284864696e-9	9	69	27	18671
+DOID:0050572	cone-rod dystrophy	GO:0009584	detection of visible light	2.841171742318238e-12	6.266204277682874e-8	7	62	27	18671
+DOID:0050572	cone-rod dystrophy	GO:0060170	ciliary membrane	1.5491163907199734e-11	3.4165761997329014e-7	7	79	27	18671
+DOID:0050572	cone-rod dystrophy	GO:0007602	phototransduction	2.3938873106033043e-10	5.279718463535588e-6	6	60	27	18671
+DOID:0050572	cone-rod dystrophy	GO:0001895	retina homeostasis	4.319125057605788e-10	9.525830314549566e-6	6	66	27	18671
+DOID:0050588	muscular dystrophy-dystroglycanopathy	GO:0031501	mannosyltransferase complex	3.283917582308504e-11	7.242680227781406e-7	4	8	17	18671
+DOID:0050589	inflammatory bowel disease	GO:0045429	positive regulation of nitric oxide biosynthetic process	2.2171153801764376e-12	4.889847970979133e-8	9	40	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0071407	cellular response to organic cyclic compound	2.5867086250741522e-12	5.704985872601043e-8	21	416	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	2.8332891588433995e-12	6.248819239829118e-8	24	647	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0032729	positive regulation of interferon-gamma production	7.253531109085998e-12	1.5997662861089168e-7	10	65	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0001101	response to acid chemical	7.94164733974867e-12	1.751530320781569e-7	17	315	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0045582	positive regulation of T cell differentiation	9.769851594398915e-12	2.1547407691446807e-7	10	67	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0097305	response to alcohol	1.0989209542344724e-11	2.423670164564129e-7	18	369	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0032755	positive regulation of interleukin-6 production	1.1468936911285255e-11	2.529474035783963e-7	10	68	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0032735	positive regulation of interleukin-12 production	1.96707095057036e-11	4.3383749814829287e-7	8	33	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0043066	negative regulation of apoptotic process	2.2158830326191037e-11	4.887130028441433e-7	25	795	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0032611	interleukin-1 beta production	6.512290706695012e-11	1.4362857153615849e-6	9	57	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0002526	acute inflammatory response	6.854206091588821e-11	1.5116951534999146e-6	12	141	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0042108	positive regulation of cytokine biosynthetic process	9.019274216370832e-11	1.989200928420587e-6	9	59	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0051091	positive regulation of sequence-specific DNA binding transcription factor activity	1.1152589962648563e-10	2.4597037162621405e-6	14	225	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0050729	positive regulation of inflammatory response	1.1248824094423071e-10	2.4809281540250083e-6	11	114	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0071900	regulation of protein serine/threonine kinase activity	1.519484538192728e-10	3.3512231489840616e-6	18	431	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0050678	regulation of epithelial cell proliferation	1.6149637183104915e-10	3.561802480733789e-6	15	277	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0042346	positive regulation of NF-kappaB import into nucleus	1.6690238080485642e-10	3.6810320086511084e-6	7	26	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0030099	myeloid cell differentiation	1.6847567785305273e-10	3.715731075049078e-6	16	327	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0070372	regulation of ERK1 and ERK2 cascade	1.7610179980920293e-10	3.883925194791971e-6	14	233	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0070555	response to interleukin-1	1.7925938511353934e-10	3.95356573867911e-6	11	119	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0051770	positive regulation of nitric-oxide synthase biosynthetic process	2.289640699260076e-10	5.0498025622180975e-6	6	15	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0007584	response to nutrient	2.5709889772684846e-10	5.670316189365643e-6	13	197	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0001666	response to hypoxia	3.37333383448879e-10	7.439887771965026e-6	15	292	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0032870	cellular response to hormone stimulus	4.0643677312601767e-10	8.96396303129432e-6	19	519	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0071346	cellular response to interferon-gamma	5.985354434301371e-10	1.3200699204851674e-5	11	133	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0050709	negative regulation of protein secretion	9.330736183699173e-10	2.0578938653148526e-5	10	105	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0043279	response to alkaloid	1.0373444325750825e-9	2.2878631460443444e-5	11	140	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0040008	regulation of growth	1.1037890601528488e-9	2.434406772167108e-5	20	617	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0042508	tyrosine phosphorylation of Stat1 protein	1.2165163321142813e-9	2.6830267704780475e-5	6	19	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	1.6169181549230416e-9	3.566112990682768e-5	10	111	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0032732	positive regulation of interleukin-1 production	1.6304622096896537e-9	3.595984403470531e-5	7	35	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0042522	regulation of tyrosine phosphorylation of Stat5 protein	1.7291647003148114e-9	3.8136727465443165e-5	6	20	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0002706	regulation of lymphocyte mediated immunity	1.766483181953049e-9	3.89597865779745e-5	10	112	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0042517	positive regulation of tyrosine phosphorylation of Stat3 protein	2.0137540523990083e-9	4.441334562566013e-5	7	36	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0010952	positive regulation of peptidase activity	2.014637123792795e-9	4.44328217652501e-5	11	149	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0031341	regulation of cell killing	2.40136355245113e-9	5.2962073149309674e-5	8	58	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0032147	activation of protein kinase activity	2.781221253300714e-9	6.133983474154725e-5	14	288	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	2.8927482631502244e-9	6.37995629437782e-5	12	195	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0014074	response to purine-containing compound	3.0610310952638997e-9	6.751104080604531e-5	11	155	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0070431	nucleotide-binding oligomerization domain containing 2 signaling pathway	3.6427981742193083e-9	8.034191373240684e-5	5	11	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0043410	positive regulation of MAPK cascade	3.665107217720731e-9	8.083393968683072e-5	17	464	115	18671
+DOID:0050589	inflammatory bowel disease	GO:0006935	chemotaxis	3.993631869647629e-9	8.807955088507846e-5	18	530	115	18671
+DOID:0050591	tooth agenesis	GO:0042476	odontogenesis	1.9105969029098446e-9	4.213821469367662e-5	5	114	10	18671
+DOID:0050594	glycogen storage disease IX	GO:0004689	phosphorylase kinase activity	9.218514840370062e-12	2.0331434480436172e-7	3	5	3	18671
+DOID:0050594	glycogen storage disease IX	GO:0005964	phosphorylase kinase complex	9.218514840370062e-12	2.0331434480436172e-7	3	5	3	18671
+DOID:0050594	glycogen storage disease IX	GO:0005980	glycogen catabolic process	3.0203937129158476e-9	6.661478333835902e-5	3	28	3	18671
+MESH:D017674	Hypophosphatemia	GO:0030643	cellular phosphate ion homeostasis	1.4432899320127035e-15	3.1831759450540176e-11	5	9	11	18671
+DOID:0050642	hypochromic microcytic anemia	GO:0097286	iron ion import	6.08308403649005e-10	1.3416241842478804e-5	3	11	4	18671
+DOID:0050646	distal arthrogryposis	GO:0030016	myofibril	2.3274555616126236e-9	5.133203241136641e-5	6	201	13	18671
+DOID:0050650	familial atrial fibrillation	GO:0086091	regulation of heart rate by cardiac conduction	8.570921750106208e-14	1.8903167919859243e-9	10	30	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0060371	regulation of atrial cardiac muscle cell membrane depolarization	3.4428015993626104e-13	7.593098927394237e-9	5	8	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0034703	cation channel complex	1.9380053117856733e-12	4.2742707151433024e-8	9	166	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0086043	bundle of His cell action potential	4.692357613578224e-12	1.0348994716746773e-7	4	4	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0060307	regulation of ventricular cardiac muscle cell membrane repolarization	3.8342995445361794e-11	8.456547645474544e-7	5	17	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0043270	positive regulation of ion transport	5.1283977064997543e-11	1.1310681141685208e-6	9	233	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0086012	membrane depolarization during cardiac muscle cell action potential	5.313161022257873e-11	1.1718176634589739e-6	5	18	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0060372	regulation of atrial cardiac muscle cell membrane repolarization	7.023037706943569e-11	1.5489309662664041e-6	4	6	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0005248	voltage-gated sodium channel activity	9.587874938432606e-11	2.114605817671311e-6	5	20	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0014704	intercalated disc	1.0799217076140621e-10	2.381767326142814e-6	6	49	29	18671
+DOID:0050650	familial atrial fibrillation	GO:1904062	regulation of cation transmembrane transport	1.146942540941609e-10	2.5295817740467186e-6	8	165	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0086008	voltage-gated potassium channel activity involved in cardiac muscle cell action potential repolarization	1.637024960032818e-10	3.61045854935238e-6	4	7	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0086005	ventricular cardiac muscle cell action potential	2.616994398962902e-10	5.77178114691268e-6	5	24	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0086015	SA node cell action potential	5.880399500668432e-10	1.2969221098724226e-5	4	9	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0086013	membrane repolarization during cardiac muscle cell action potential	9.790147581512088e-10	2.159217049102491e-5	4	10	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0050880	regulation of blood vessel size	1.4818163363017334e-9	3.268145929713473e-5	7	139	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0098797	plasma membrane protein complex	2.159306400351113e-9	4.76235026597438e-5	10	499	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0071435	potassium ion export	2.302735113701715e-9	5.078682293269132e-5	4	12	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0043266	regulation of potassium ion transport	2.6108140094294185e-9	5.7581502977965826e-5	6	82	29	18671
+DOID:0050650	familial atrial fibrillation	GO:0086017	Purkinje myocyte action potential	3.3688901668327276e-9	7.43008726294958e-5	3	3	29	18671
+DOID:0050650	familial atrial fibrillation	GO:1903524	positive regulation of blood circulation	4.300449218952451e-9	9.484640752399631e-5	6	89	29	18671
+Orphanet:158124	Genetic dementia	GO:0043523	regulation of neuron apoptotic process	1.184385922670117e-12	2.612163152448943e-8	21	190	263	18671
+Orphanet:158124	Genetic dementia	GO:0031329	regulation of cellular catabolic process	1.2056911025126738e-11	2.659151726591702e-7	35	624	263	18671
+Orphanet:158124	Genetic dementia	GO:0006066	alcohol metabolic process	4.039102385888782e-11	8.908240312077709e-7	26	382	263	18671
+Orphanet:158124	Genetic dementia	GO:0044456	synapse part	4.8045567524468424e-11	1.059644991752151e-6	33	613	263	18671
+Orphanet:158124	Genetic dementia	GO:0008202	steroid metabolic process	5.830802507489352e-11	1.2859834930267766e-6	22	275	263	18671
+Orphanet:158124	Genetic dementia	GO:0009636	response to toxic substance	5.962452753749403e-11	1.3150189548394309e-6	21	249	263	18671
+Orphanet:158124	Genetic dementia	GO:0043627	response to estrogen	2.6143243125886784e-10	5.76589227141433e-6	19	217	263	18671
+Orphanet:158124	Genetic dementia	GO:0060322	head development	4.3064174448659287e-10	9.497803674651806e-6	34	708	263	18671
+Orphanet:158124	Genetic dementia	GO:0005770	late endosome	5.021131288529546e-10	1.1074105056851913e-5	18	200	263	18671
+Orphanet:158124	Genetic dementia	GO:0006898	receptor-mediated endocytosis	5.80671399852406e-10	1.2806707723744815e-5	20	254	263	18671
+Orphanet:158124	Genetic dementia	GO:0007568	aging	9.859727478911395e-10	2.1745628954739082e-5	21	290	263	18671
+Orphanet:158124	Genetic dementia	GO:0030425	dendrite	1.3112653185487488e-9	2.8919956600592656e-5	26	451	263	18671
+Orphanet:158124	Genetic dementia	GO:0043065	positive regulation of apoptotic process	1.4063447073553448e-9	3.101693252072213e-5	29	556	263	18671
+Orphanet:158124	Genetic dementia	GO:0046916	cellular transition metal ion homeostasis	1.4190902897226465e-9	3.129803633983297e-5	12	81	263	18671
+Orphanet:158124	Genetic dementia	GO:0000302	response to reactive oxygen species	1.7472714386457255e-9	3.853607157933148e-5	18	216	263	18671
+Orphanet:158124	Genetic dementia	GO:0010876	lipid localization	2.1661529236993715e-9	4.777450273218964e-5	22	333	263	18671
+Orphanet:158124	Genetic dementia	GO:0051052	regulation of DNA metabolic process	2.419898503802642e-9	5.337086150136727e-5	22	335	263	18671
+Orphanet:158124	Genetic dementia	GO:0009314	response to radiation	2.444627833497748e-9	5.391626686779283e-5	25	431	263	18671
+Orphanet:158124	Genetic dementia	GO:0080135	regulation of cellular response to stress	2.4517994301476165e-9	5.407443643190568e-5	32	681	263	18671
+Orphanet:158124	Genetic dementia	GO:1901215	negative regulation of neuron death	2.468377169329017e-9	5.444005846955147e-5	16	170	263	18671
+Orphanet:158124	Genetic dementia	GO:0043025	neuronal cell body	2.8149841346802873e-9	6.208447509037374e-5	25	434	263	18671
+OMIM:209880	Haddad syndrome	GO:0001755	neural crest cell migration	7.375218213923063e-10	1.6266043770807315e-5	4	51	6	18671
+OMIM:209880	Haddad syndrome	GO:0048484	enteric nervous system development	3.0395868044763574e-9	6.703808697272606e-5	3	11	6	18671
+DOID:0050632	oculocutaneous albinism	GO:0030318	melanocyte differentiation	3.3519853559482726e-12	7.392803702543915e-8	10	26	294	18671
+DOID:0050632	oculocutaneous albinism	GO:0009314	response to radiation	1.1913140474106854e-9	2.6274431315642666e-5	27	431	294	18671
+DOID:0050632	oculocutaneous albinism	GO:0045637	regulation of myeloid cell differentiation	3.6577418871530654e-9	8.067149732116086e-5	17	179	294	18671
+DOID:0050632	oculocutaneous albinism	GO:0051250	negative regulation of lymphocyte activation	4.064850123164376e-9	8.965026946639032e-5	14	116	294	18671
+DOID:0050629	Aicardi-Goutieres syndrome	GO:0032299	ribonuclease H2 complex	5.162947847026089e-11	1.138688147661604e-6	3	3	8	18671
+DOID:0050629	Aicardi-Goutieres syndrome	GO:0004523	RNA-DNA hybrid ribonuclease activity	1.8056133255228701e-9	3.98228018944069e-5	3	7	8	18671
+DOID:4079	heart valve disease	GO:1901701	cellular response to oxygen-containing compound	1.373993141484675e-10	3.030341873544451e-6	35	873	217	18671
+DOID:4079	heart valve disease	GO:0031960	response to corticosteroid	3.181569452337385e-10	7.0169514271301026e-6	16	179	217	18671
+DOID:4079	heart valve disease	GO:0048514	blood vessel morphogenesis	4.758519134284711e-10	1.049491395066493e-5	25	484	217	18671
+DOID:4079	heart valve disease	GO:0006875	cellular metal ion homeostasis	5.716519480003512e-10	1.2607783713147747e-5	24	450	217	18671
+DOID:4079	heart valve disease	GO:0032403	protein complex binding	6.118171524960303e-10	1.3493627298299948e-5	35	924	217	18671
+DOID:4079	heart valve disease	GO:0042110	T cell activation	9.618579266401639e-10	2.1213776572048815e-5	23	424	217	18671
+DOID:4079	heart valve disease	GO:2001233	regulation of apoptotic signaling pathway	1.4005471227207522e-9	3.088906679160619e-5	21	359	217	18671
+DOID:4079	heart valve disease	GO:2000377	regulation of reactive oxygen species metabolic process	1.8411103752669078e-9	4.060568932651165e-5	14	147	217	18671
+DOID:4079	heart valve disease	GO:0048534	hematopoietic or lymphoid organ development	2.444048852190406e-9	5.39034974350594e-5	30	739	217	18671
+DOID:4079	heart valve disease	GO:0071901	negative regulation of protein serine/threonine kinase activity	3.2185686338337405e-9	7.098553121920315e-5	13	128	217	18671
+DOID:4079	heart valve disease	GO:0050865	regulation of cell activation	4.1792755922642755e-9	9.21739231873886e-5	23	458	217	18671
+DOID:0050624	gastrointestinal system benign neoplasm	GO:0042063	gliogenesis	2.14075290827509e-9	4.7214305392007105e-5	13	228	118	18671
+DOID:11720	distal muscular dystrophy	GO:0006936	muscle contraction	2.6442181777497353e-12	5.831823191027041e-8	9	323	16	18671
+DOID:11720	distal muscular dystrophy	GO:0030048	actin filament-based movement	3.461272379823299e-10	7.633836233700286e-6	6	114	16	18671
+DOID:11726	Emery-Dreifuss muscular dystrophy	GO:0031965	nuclear membrane	4.261830999219285e-9	9.399468268778133e-5	5	279	6	18671
+DOID:11725	Cornelia de Lange syndrome	GO:0007062	sister chromatid cohesion	1.1620926443356439e-11	2.5629953270822625e-7	5	123	5	18671
+DOID:11725	Cornelia de Lange syndrome	GO:0036033	mediator complex binding	3.687616878522704e-11	8.133039025581823e-7	3	4	5	18671
+DOID:11725	Cornelia de Lange syndrome	GO:0030893	meiotic cohesin complex	3.2259128701639384e-10	7.114750835146566e-6	3	7	5	18671
+DOID:11724	limb-girdle muscular dystrophy	GO:0055001	muscle cell development	1.6053824936079764e-11	3.540671089652392e-7	8	140	27	18671
+DOID:11724	limb-girdle muscular dystrophy	GO:0030018	Z disc	1.5344425730035027e-10	3.3842130947592253e-6	7	109	27	18671
+DOID:11724	limb-girdle muscular dystrophy	GO:0048738	cardiac muscle tissue development	3.214473687229713e-9	7.089521717185132e-5	7	168	27	18671
+DOID:6688	autoimmune lymphoproliferative syndrome	GO:0031265	CD95 death-inducing signaling complex	1.0319829435445627e-9	2.276038381987533e-5	3	6	8	18671
+DOID:11758	iron deficiency anemia	GO:0006879	cellular iron ion homeostasis	2.949074318081557e-11	6.504183408528874e-7	4	45	4	18671
+Orphanet:352301	Disorder of phospholipids, sphingolipids and fatty acids biosynthesis	GO:0046513	ceramide biosynthetic process	1.5661294483493293e-10	3.454098498334446e-6	6	52	29	18671
+Orphanet:352301	Disorder of phospholipids, sphingolipids and fatty acids biosynthesis	GO:0044242	cellular lipid catabolic process	2.0081813989492048e-10	4.429044075382471e-6	8	177	29	18671
+Orphanet:352301	Disorder of phospholipids, sphingolipids and fatty acids biosynthesis	GO:0005789	endoplasmic reticulum membrane	6.255870266258512e-10	1.3797321872233148e-5	13	977	29	18671
+Orphanet:352301	Disorder of phospholipids, sphingolipids and fatty acids biosynthesis	GO:0046486	glycerolipid metabolic process	4.080682902696253e-9	8.999946141896586e-5	9	383	29	18671
+Orphanet:352301	Disorder of phospholipids, sphingolipids and fatty acids biosynthesis	GO:0042439	ethanolamine-containing compound metabolic process	4.300449218952451e-9	9.484640752399631e-5	6	89	29	18671
+OMIM:220290	Deafness, Autosomal Recessive 1A	GO:0005922	connexon complex	1.0510335934910131e-9	2.3180545904444294e-5	3	20	3	18671
+Orphanet:220493	Joubert syndrome with ocular defect	GO:0042384	cilium assembly	5.239411127178073e-10	1.155552124099124e-5	5	184	6	18671
+Orphanet:220493	Joubert syndrome with ocular defect	GO:0036038	TCTN-B9D complex	4.052278845811941e-9	8.937300994438235e-5	3	12	6	18671
+Orphanet:220489	Rare hereditary hemochromatosis	GO:0006879	cellular iron ion homeostasis	2.949074318081557e-11	6.504183408528874e-7	4	45	4	18671
+Orphanet:220452	Inherited giant platelet disorder	GO:0030168	platelet activation	2.699729328980993e-12	5.9542530350675804e-8	7	162	12	18671
+Orphanet:109007	Arthrogryposis syndrome	GO:0003009	skeletal muscle contraction	5.687283977096058e-11	1.2543304811485356e-6	6	40	32	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0030324	lung development	5.661027202563673e-13	1.2485395495254181e-8	17	175	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0048754	branching morphogenesis of an epithelial tube	5.13922238098985e-12	1.1334554961273113e-7	15	147	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0045596	negative regulation of cell differentiation	5.877631714668041e-12	1.2963116746700365e-7	27	597	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:2000648	positive regulation of stem cell proliferation	7.51620987671231e-12	1.6577000883089e-7	11	61	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0045944	positive regulation of transcription from RNA polymerase II promoter	1.4739098830318653e-11	3.250708247026779e-7	34	996	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0048546	digestive tract morphogenesis	1.8077761509971424e-11	3.9870503010241976e-7	10	49	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0016331	morphogenesis of embryonic epithelium	4.177402868066338e-11	9.213262025520308e-7	14	141	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:2000027	regulation of organ morphogenesis	5.548228543261757e-11	1.2236618052163806e-6	17	236	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0000122	negative regulation of transcription from RNA polymerase II promoter	1.2245904290608678e-10	2.700834191293744e-6	28	732	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0035116	embryonic hindlimb morphogenesis	1.4594725428196398e-10	3.2188666931887155e-6	8	29	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0050679	positive regulation of epithelial cell proliferation	1.489478540506184e-10	3.2850449210863886e-6	14	155	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0001942	hair follicle development	1.5689671784002712e-10	3.460357111961798e-6	11	80	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0061035	regulation of cartilage development	2.532792864329281e-10	5.586074662278229e-6	10	63	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0035115	embryonic forelimb morphogenesis	3.4955105476797144e-10	7.70934851290761e-6	8	32	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0009952	anterior/posterior pattern specification	4.175524370708672e-10	9.209118999597976e-6	15	199	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0060601	lateral sprouting from an epithelium	4.605495984577601e-10	1.01574213939859e-5	6	12	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0001701	in utero embryonic development	5.537703628988311e-10	1.221340535373372e-5	18	312	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0030279	negative regulation of ossification	5.538612901645479e-10	1.2215410754579104e-5	10	68	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0003205	cardiac chamber development	5.862286212021672e-10	1.2929272240613798e-5	13	142	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0001654	eye development	1.1736668303896636e-9	2.588522194424403e-5	18	327	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0003007	heart morphogenesis	1.3055330150280042e-9	2.8793530646442633e-5	15	216	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0060038	cardiac muscle cell proliferation	1.551522688103546e-9	3.421883288612371e-5	8	38	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0009953	dorsal/ventral pattern formation	1.625170331642778e-9	3.584313166438147e-5	11	99	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0016202	regulation of striated muscle tissue development	1.8118074818218588e-9	3.9959414011581096e-5	11	100	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0006661	phosphatidylinositol biosynthetic process	1.9094115177864524e-9	4.2112071024780207e-5	12	127	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0035148	tube formation	2.7305928629317577e-9	6.022322559195992e-5	12	131	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0008285	negative regulation of cell proliferation	3.4152765060468937e-9	7.532392334086424e-5	24	634	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0045669	positive regulation of osteoblast differentiation	3.4522397163172514e-9	7.613914694337698e-5	9	60	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0060572	morphogenesis of an epithelial bud	3.872639542379375e-9	8.541106510717711e-5	6	16	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0030509	BMP signaling pathway	4.1971069952850826e-9	9.25671947810125e-5	12	136	170	18671
+Orphanet:109009	Syndrome with limb malformations as a major feature	GO:0007548	sex differentiation	4.446803592017545e-9	9.807425322194696e-5	16	274	170	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0001942	hair follicle development	2.7049029682757464e-11	5.965663496532159e-7	9	80	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0048839	inner ear development	6.51653175864908e-11	1.4372210793700546e-6	11	170	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0060513	prostatic bud formation	1.0608847134108146e-10	2.3397812354275516e-6	5	9	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0048704	embryonic skeletal system morphogenesis	1.0774947600822316e-10	2.3764146933613617e-6	9	93	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0045165	cell fate commitment	1.9406642959296505e-10	4.280135104672844e-6	12	243	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0035050	embryonic heart tube development	5.045314166451931e-10	1.1127440394109733e-5	8	74	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0072001	renal system development	8.338655321793453e-10	1.839090431221546e-5	12	276	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0048546	digestive tract morphogenesis	8.64026739044732e-10	1.9056109729631565e-5	7	49	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0060021	palate development	1.5560972510542115e-9	3.4319724872000634e-5	8	85	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0060828	regulation of canonical Wnt signaling pathway	2.0693744495758892e-9	4.564005348539624e-5	11	235	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0009954	proximal/distal pattern formation	2.632381979061904e-9	5.8057184548210294e-5	6	32	74	18671
+Orphanet:109011	Non-syndromic limb malformation	GO:0021522	spinal cord motor neuron differentiation	3.8824350401256424e-9	8.562710480997104e-5	6	34	74	18671
+DOID:0050459	hyperphosphatemia	GO:0071774	response to fibroblast growth factor	2.5365273215172124e-9	5.594311007606212e-5	4	134	4	18671
+OMIM:604302	juvenile rheumatoid arthritis	GO:0051249	regulation of lymphocyte activation	3.6319880436508356e-10	8.010349630271918e-6	7	372	11	18671
+DOID:0050444	infantile refsum disease	GO:0005779	integral component of peroxisomal membrane	9.325873406851315e-15	2.0568213798810575e-10	8	14	13	18671
+DOID:0050444	infantile refsum disease	GO:0045046	protein import into peroxisome membrane	4.884981308350689e-15	1.0773826275567444e-10	5	6	13	18671
+DOID:0050444	infantile refsum disease	GO:0016558	protein import into peroxisome matrix	2.098321516541546e-14	4.6278481047323794e-10	10	13	13	18671
+DOID:0050449	pachyonychia congenita	GO:0005200	structural constituent of cytoskeleton	8.064626744186398e-10	1.77865342843031e-5	4	101	4	18671
+DOID:0050453	lissencephaly	GO:0021801	cerebral cortex radial glia guided migration	2.2385659992352203e-10	4.937157311313278e-6	5	20	34	18671
+DOID:0050451	Brugada syndrome	GO:0035725	sodium ion transmembrane transport	3.3114622155494544e-12	7.303429916394322e-8	7	126	15	18671
+DOID:0050451	Brugada syndrome	GO:1904062	regulation of cation transmembrane transport	2.2576718272659946e-11	4.979295215035151e-7	7	165	15	18671
+DOID:0050451	Brugada syndrome	GO:0010959	regulation of metal ion transport	4.2718384385409536e-11	9.421539676202073e-7	8	321	15	18671
+DOID:0050451	Brugada syndrome	GO:0086009	membrane repolarization	5.908562528134098e-11	1.3031334655799753e-6	5	36	15	18671
+DOID:0050451	Brugada syndrome	GO:0044325	ion channel binding	1.6543144631953055e-10	3.6485905485772463e-6	6	109	15	18671
+DOID:0050451	Brugada syndrome	GO:0030315	T-tubule	1.907084490326838e-10	4.206074843415841e-6	5	45	15	18671
+DOID:0050451	Brugada syndrome	GO:0043270	positive regulation of ion transport	2.5485391574875393e-10	5.620803111838768e-6	7	233	15	18671
+DOID:0050451	Brugada syndrome	GO:0086014	atrial cardiac muscle cell action potential	2.686599831491776e-10	5.925295928355112e-6	4	14	15	18671
+DOID:0050451	Brugada syndrome	GO:0086045	membrane depolarization during AV node cell action potential	1.6771865007925157e-9	3.6990348274978935e-5	3	4	15	18671
+DOID:0050451	Brugada syndrome	GO:0032412	regulation of ion transmembrane transporter activity	2.8052741241069157e-9	6.187032080717803e-5	6	174	15	18671
+DOID:0050451	Brugada syndrome	GO:0086005	ventricular cardiac muscle cell action potential	2.8384019579164033e-9	6.260095518184627e-5	4	24	15	18671
+DOID:0050451	Brugada syndrome	GO:0086007	voltage-gated calcium channel activity involved in cardiac muscle cell action potential	4.190931046643698e-9	9.243098423372675e-5	3	5	15	18671
+DOID:0050534	congenital stationary night blindness	GO:0007601	visual perception	1.2967404927621828e-13	2.8599611567869943e-9	14	207	14	18671
+DOID:0050534	congenital stationary night blindness	GO:0022400	regulation of rhodopsin mediated signaling pathway	1.2351897282769642e-11	2.7242109457148445e-7	5	29	14	18671
+DOID:0050534	congenital stationary night blindness	GO:0097381	photoreceptor disc membrane	6.014346798366432e-10	1.3264641863797166e-5	4	18	14	18671
+DOID:0050534	congenital stationary night blindness	GO:0001654	eye development	1.4650541890759428e-9	3.231177014006992e-5	7	327	14	18671
+DOID:0050535	exudative vitreoretinopathy	GO:0035426	extracellular matrix-cell signaling	1.8434598292316196e-10	4.065750653370337e-6	3	5	6	18671
+DOID:0050535	exudative vitreoretinopathy	GO:0061299	retina vasculature morphogenesis in camera-type eye	1.5477993331458606e-9	3.4136714292531956e-5	3	9	6	18671
+DOID:0050523	adult T-cell leukemia	GO:0045058	T cell selection	4.691802502065912e-13	1.0347770418306368e-8	7	44	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0042035	regulation of cytokine biosynthetic process	1.4962475702873235e-12	3.299974016268692e-8	8	95	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0045589	regulation of regulatory T cell differentiation	4.944045173260747e-12	1.0904091629626578e-7	5	12	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0031295	T cell costimulation	2.2238322294754198e-11	4.904661982108038e-7	7	77	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0048304	positive regulation of isotype switching to IgG isotypes	7.023037706943569e-11	1.5489309662664041e-6	4	6	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0050852	T cell receptor signaling pathway	1.146942540941609e-10	2.5295817740467186e-6	8	165	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0001819	positive regulation of cytokine production	1.5844192624570042e-10	3.4944366833489227e-6	10	381	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0030888	regulation of B cell proliferation	1.7635948257321843e-10	3.8896083881523325e-6	6	53	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0031347	regulation of defense response	4.439595358007864e-10	9.791527562086344e-6	12	749	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0050671	positive regulation of lymphocyte proliferation	7.857371420172399e-10	1.7329432667190225e-5	7	127	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0045944	positive regulation of transcription from RNA polymerase II promoter	8.009408691833642e-10	1.7664750869839096e-5	13	996	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0043370	regulation of CD4-positive, alpha-beta T cell differentiation	1.4470687981216201e-9	3.191510234257233e-5	5	33	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0046427	positive regulation of JAK-STAT cascade	1.6403781666340933e-9	3.617854046511493e-5	6	76	29	18671
+DOID:0050523	adult T-cell leukemia	GO:0042129	regulation of T cell proliferation	1.7210206593176736e-9	3.795711064125129e-5	7	142	29	18671
+DOID:0050524	maturity-onset diabetes of the young	GO:0050796	regulation of insulin secretion	1.4614420784653248e-11	3.223210504055274e-7	7	169	14	18671
+DOID:0050524	maturity-onset diabetes of the young	GO:0042593	glucose homeostasis	7.05919767085561e-11	1.5569060463072049e-6	7	212	14	18671
+DOID:0050524	maturity-onset diabetes of the young	GO:0009749	response to glucose	1.8170646098880638e-9	4.007535997108125e-5	6	176	14	18671
+MESH:D054506	Chloracne	GO:0005833	hemoglobin complex	9.866885086751154e-12	2.176141505882967e-7	5	12	33	18671
+MESH:D054506	Chloracne	GO:0005344	oxygen transporter activity	2.488242945020147e-11	5.487819815241934e-7	5	14	33	18671
+MESH:D054506	Chloracne	GO:0015671	oxygen transport	3.7267966490617255e-11	8.219450009505636e-7	5	15	33	18671
+OMIM:220110	cytochrome-c oxidase deficiency disease	GO:0004129	cytochrome-c oxidase activity	1.8207657603852567e-14	4.0156988845296837e-10	6	27	17	18671
+OMIM:220110	cytochrome-c oxidase deficiency disease	GO:0008535	respiratory chain complex IV assembly	1.1213252548714081e-14	2.4730828496188906e-10	8	18	17	18671
+OMIM:220110	cytochrome-c oxidase deficiency disease	GO:0006123	mitochondrial electron transport, cytochrome c to oxygen	3.8187231155006884e-12	8.422193831236768e-8	5	19	17	18671
+OMIM:220110	cytochrome-c oxidase deficiency disease	GO:1902600	hydrogen ion transmembrane transport	4.049199864297748e-10	8.930510300708683e-6	6	109	17	18671
+OMIM:220110	cytochrome-c oxidase deficiency disease	GO:0009060	aerobic respiration	2.0550583457179528e-9	4.532431181480945e-5	5	62	17	18671
+OMIM:220110	cytochrome-c oxidase deficiency disease	GO:0005743	mitochondrial inner membrane	3.4570047935389425e-9	7.624424072150138e-5	8	478	17	18671
+DOID:0050557	congenital muscular dystrophy	GO:0042383	sarcolemma	9.116037924528086e-10	2.0105421642546695e-5	7	125	30	18671
+DOID:0050557	congenital muscular dystrophy	GO:0030198	extracellular matrix organization	1.190702314524117e-9	2.6260939546829398e-5	9	320	30	18671
+DOID:0050558	Ullrich congenital muscular dystrophy	GO:0030574	collagen catabolic process	1.5149681509285529e-10	3.3412622568729233e-6	4	67	4	18671
+DOID:0050558	Ullrich congenital muscular dystrophy	GO:0005581	collagen trimer	4.605857917283629e-10	1.0158219636569044e-5	4	88	4	18671
+DOID:0050560	Walker-Warburg syndrome	GO:0008375	acetylglucosaminyltransferase activity	1.7819279385378195e-10	3.930042068445161e-6	5	48	14	18671
+DOID:0050545	visceral heterotaxy	GO:0007507	heart development	1.822678674656686e-10	4.019917816955321e-6	11	487	31	18671
+MESH:D005532	Foot Deformities, Congenital	GO:0030326	embryonic limb morphogenesis	6.994405055138486e-14	1.5426160349107931e-9	10	125	30	18671
+MESH:D005532	Foot Deformities, Congenital	GO:0001501	skeletal system development	6.677991493120317e-13	1.4728310238076858e-8	15	482	30	18671
+MESH:D005532	Foot Deformities, Congenital	GO:0045667	regulation of osteoblast differentiation	6.2484462048928435e-12	1.3780948104891166e-7	8	111	30	18671
+MESH:D005532	Foot Deformities, Congenital	GO:0009887	organ morphogenesis	5.2353787971526344e-11	1.1546627937120135e-6	14	950	30	18671
+MESH:D005532	Foot Deformities, Congenital	GO:0045944	positive regulation of transcription from RNA polymerase II promoter	1.3438806734100694e-9	2.963928825205908e-5	13	996	30	18671
+MESH:D005532	Foot Deformities, Congenital	GO:0060537	muscle tissue development	1.8236752108435894e-9	4.0221156775155364e-5	9	336	30	18671
+Orphanet:158038	Primary hemophagocytic lymphohistiocytosis	GO:0046635	positive regulation of alpha-beta T cell activation	2.494640716221852e-9	5.5019300996272946e-5	10	50	275	18671
+Orphanet:158038	Primary hemophagocytic lymphohistiocytosis	GO:0001909	leukocyte mediated cytotoxicity	2.719201863676801e-9	5.997199710339185e-5	12	82	275	18671
+Orphanet:158038	Primary hemophagocytic lymphohistiocytosis	GO:1903409	reactive oxygen species biosynthetic process	3.1375356757123996e-9	6.919834932783697e-5	12	83	275	18671
+Orphanet:158038	Primary hemophagocytic lymphohistiocytosis	GO:0042832	defense response to protozoan	3.860209929484881e-9	8.513692999478906e-5	7	18	275	18671
+DOID:6536	plasma cell neoplasm	GO:0043066	negative regulation of apoptotic process	8.551226393649358e-10	1.885972981119366e-5	13	795	35	18671
+DOID:0001816	angiosarcoma	GO:0050679	positive regulation of epithelial cell proliferation	1.9628743075372768e-13	4.329119285273464e-9	9	155	17	18671
+DOID:0001816	angiosarcoma	GO:0045766	positive regulation of angiogenesis	6.682210340613892e-12	1.473761490622394e-7	7	119	17	18671
+DOID:0001816	angiosarcoma	GO:0097285	cell-type specific apoptotic process	3.7512437600639714e-11	8.273368112821089e-7	9	429	17	18671
+DOID:0001816	angiosarcoma	GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	3.802802517327564e-11	8.387080951965942e-7	10	647	17	18671
+DOID:0001816	angiosarcoma	GO:0043410	positive regulation of MAPK cascade	6.973777111340951e-11	1.5380665419062467e-6	9	464	17	18671
+DOID:0001816	angiosarcoma	GO:0050900	leukocyte migration	3.234070788948884e-10	7.132743125026764e-6	8	354	17	18671
+DOID:0001816	angiosarcoma	GO:0070848	response to growth factor	9.02118935108831e-10	1.9896233113825268e-5	9	621	17	18671
+DOID:0001816	angiosarcoma	GO:0010595	positive regulation of endothelial cell migration	2.618953387489853e-9	5.776101696108871e-5	5	65	17	18671
+DOID:0001816	angiosarcoma	GO:0050926	regulation of positive chemotaxis	3.4049851826978283e-9	7.50969482044006e-5	4	22	17	18671
+DOID:0001816	angiosarcoma	GO:0043534	blood vessel endothelial cell migration	4.114821816614267e-9	9.075239516542766e-5	5	71	17	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0030218	erythrocyte differentiation	5.785372181321691e-12	1.275963834590499e-7	19	90	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0006275	regulation of DNA replication	1.3810064203312322e-11	3.0458096600405327e-7	24	157	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0000302	response to reactive oxygen species	1.5322187962851785e-11	3.3793085552069613e-7	28	216	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0043603	cellular amide metabolic process	4.250089169488547e-11	9.37357166330699e-7	65	955	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0006605	protein targeting	6.03188610170946e-11	1.3303324797320215e-6	52	675	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0002673	regulation of acute inflammatory response	1.8700130333115794e-10	4.124313744968688e-6	16	74	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0046982	protein heterodimerization activity	2.7476032560258545e-10	6.059838981165022e-6	40	459	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0070613	regulation of protein processing	6.412759212537367e-10	1.4143340443251162e-5	16	80	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0046906	tetrapyrrole binding	1.1341700911771113e-9	2.501412136091119e-5	20	134	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0010039	response to iron ion	1.8082256802998131e-9	3.988041737901238e-5	11	35	526	18671
+Orphanet:158300	Rare genetic hematologic disease	GO:0034504	protein localization to nucleus	3.5538837428461534e-9	7.838090594847191e-5	32	344	526	18671
+DOID:0060170	generalized epilepsy with febrile seizures plus	GO:0007268	synaptic transmission	1.1304202018891374e-9	2.4931417552664925e-5	6	605	6	18671
+DOID:0060170	generalized epilepsy with febrile seizures plus	GO:0034702	ion channel complex	3.89195098371431e-9	8.58369789458191e-5	5	274	6	18671
+DOID:0060123	connective tissue benign neoplasm	GO:0007050	cell cycle arrest	7.369829191361532e-10	1.625415828154786e-5	12	242	83	18671
+DOID:0060123	connective tissue benign neoplasm	GO:0036293	response to decreased oxygen levels	7.69199370864726e-10	1.6964692124421532e-5	13	302	83	18671
+DOID:0060123	connective tissue benign neoplasm	GO:0045859	regulation of protein kinase activity	1.6124426238661727e-9	3.556242206936844e-5	18	709	83	18671
+DOID:0060123	connective tissue benign neoplasm	GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding	2.021627087955835e-9	4.4586985424865944e-5	13	327	83	18671
+DOID:0060123	connective tissue benign neoplasm	GO:0061061	muscle structure development	2.2198415328134047e-9	4.895860500619964e-5	16	551	83	18671
+DOID:0060123	connective tissue benign neoplasm	GO:0048729	tissue morphogenesis	2.222385053762821e-9	4.9014702360739015e-5	17	635	83	18671
+DOID:0060123	connective tissue benign neoplasm	GO:0009790	embryo development	3.0905501491318432e-9	6.81620835391028e-5	20	932	83	18671
+DOID:0060158	acquired metabolic disease	GO:0016324	apical plasma membrane	1.0624834345662748e-13	2.343307214935919e-9	40	286	583	18671
+DOID:0060158	acquired metabolic disease	GO:0005179	hormone activity	1.836308882730009e-13	4.049979240861035e-9	24	117	583	18671
+DOID:0060158	acquired metabolic disease	GO:0061448	connective tissue development	8.858469513484124e-13	1.9537354511989236e-8	33	233	583	18671
+DOID:0060158	acquired metabolic disease	GO:0006898	receptor-mediated endocytosis	9.345857421294568e-13	2.061228854266517e-8	35	254	583	18671
+DOID:0060158	acquired metabolic disease	GO:0032094	response to food	1.3044010316320964e-12	2.8768564752645887e-8	14	36	583	18671
+DOID:0060158	acquired metabolic disease	GO:0030856	regulation of epithelial cell differentiation	2.926214826004525e-12	6.45376679875298e-8	23	122	583	18671
+DOID:0060158	acquired metabolic disease	GO:0001822	kidney development	3.919309321531728e-12	8.644036708638225e-8	34	262	583	18671
+DOID:0060158	acquired metabolic disease	GO:0030139	endocytic vesicle	4.980238443863527e-12	1.0983915887941009e-7	33	251	583	18671
+DOID:0060158	acquired metabolic disease	GO:0007162	negative regulation of cell adhesion	7.662204204450518e-12	1.6898991372915617e-7	30	218	583	18671
+DOID:0060158	acquired metabolic disease	GO:0031100	organ regeneration	8.981149157705204e-12	1.9807924467318827e-7	19	84	583	18671
+DOID:0060158	acquired metabolic disease	GO:0048608	reproductive structure development	1.0591749699528918e-11	2.336010396231103e-7	43	418	583	18671
+DOID:0060158	acquired metabolic disease	GO:0007507	heart development	1.0622391855008573e-11	2.3427685236221407e-7	50	487	583	18671
+DOID:0060158	acquired metabolic disease	GO:0048568	embryonic organ development	1.3679057886406554e-11	3.0169162168469654e-7	42	408	583	18671
+DOID:0060158	acquired metabolic disease	GO:0009755	hormone-mediated signaling pathway	1.6365797605999433e-11	3.609476662003175e-7	20	97	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042803	protein homodimerization activity	1.7800538820722522e-11	3.9259088369103523e-7	59	703	583	18671
+DOID:0060158	acquired metabolic disease	GO:0032963	collagen metabolic process	1.9563795028432196e-11	4.314794993520721e-7	21	109	583	18671
+DOID:0060158	acquired metabolic disease	GO:0009897	external side of plasma membrane	2.287880995766045e-11	5.045921536162012e-7	29	212	583	18671
+DOID:0060158	acquired metabolic disease	GO:0032370	positive regulation of lipid transport	2.4681034993534468e-11	5.443402267824027e-7	15	51	583	18671
+DOID:0060158	acquired metabolic disease	GO:0050728	negative regulation of inflammatory response	2.946554111815658e-11	6.498625093609434e-7	20	100	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002367	cytokine production involved in immune response	4.3393622028986556e-11	9.570463338492985e-7	17	71	583	18671
+DOID:0060158	acquired metabolic disease	GO:0046982	protein heterodimerization activity	4.8055670553992513e-11	1.0598678140683049e-6	44	459	583	18671
+DOID:0060158	acquired metabolic disease	GO:0014066	regulation of phosphatidylinositol 3-kinase signaling	4.91293672411075e-11	1.083548194502626e-6	23	138	583	18671
+DOID:0060158	acquired metabolic disease	GO:1902930	regulation of alcohol biosynthetic process	4.915179374620493e-11	1.0840428110725497e-6	14	45	583	18671
+DOID:0060158	acquired metabolic disease	GO:0016049	cell growth	5.5550342104027095e-11	1.2251627951043176e-6	45	479	583	18671
+DOID:0060158	acquired metabolic disease	GO:0015672	monovalent inorganic cation transport	5.79002401579487e-11	1.2769897966835586e-6	50	572	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002065	columnar/cuboidal epithelial cell differentiation	6.915290562403698e-11	1.5251673335381355e-6	22	128	583	18671
+DOID:0060158	acquired metabolic disease	GO:0030879	mammary gland development	6.915290562403698e-11	1.5251673335381355e-6	22	128	583	18671
+DOID:0060158	acquired metabolic disease	GO:0045833	negative regulation of lipid metabolic process	8.888412228458265e-11	1.9603393169864702e-6	17	74	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002576	platelet degranulation	8.922063088334653e-11	1.9677610141322077e-6	20	106	583	18671
+DOID:0060158	acquired metabolic disease	GO:0051092	positive regulation of NF-kappaB transcription factor activity	9.478073881297178e-11	2.0903891945200925e-6	22	130	583	18671
+DOID:0060158	acquired metabolic disease	GO:0040014	regulation of multicellular organism growth	1.0458955923553503e-10	2.306722728939725e-6	16	65	583	18671
+DOID:0060158	acquired metabolic disease	GO:1901215	negative regulation of neuron death	1.1592882209754407e-10	2.5568101713613345e-6	25	170	583	18671
+DOID:0060158	acquired metabolic disease	GO:0045862	positive regulation of proteolysis	1.742164190687845e-10	3.842343122562042e-6	37	357	583	18671
+DOID:0060158	acquired metabolic disease	GO:0051196	regulation of coenzyme metabolic process	1.7701762278221622e-10	3.904123670461779e-6	14	49	583	18671
+DOID:0060158	acquired metabolic disease	GO:0016485	protein processing	1.776911950912563e-10	3.918979307737658e-6	34	308	583	18671
+DOID:0060158	acquired metabolic disease	GO:0048754	branching morphogenesis of an epithelial tube	1.8198254014833992e-10	4.013624922971637e-6	23	147	583	18671
+DOID:0060158	acquired metabolic disease	GO:0046686	response to cadmium ion	1.8554169312068325e-10	4.092122041776669e-6	13	41	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002683	negative regulation of immune system process	2.044383551336182e-10	4.508887922471949e-6	37	359	583	18671
+DOID:0060158	acquired metabolic disease	GO:0045596	negative regulation of cell differentiation	2.438941271165618e-10	5.37908497355577e-6	50	597	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042108	positive regulation of cytokine biosynthetic process	2.452152925158657e-10	5.408223276437418e-6	15	59	583	18671
+DOID:0060158	acquired metabolic disease	GO:0051591	response to cAMP	3.33681415831677e-10	7.359343626167636e-6	19	102	583	18671
+DOID:0060158	acquired metabolic disease	GO:0030098	lymphocyte differentiation	3.348510357881196e-10	7.3851395943069775e-6	33	299	583	18671
+DOID:0060158	acquired metabolic disease	GO:0072562	blood microparticle	3.5069869230852646e-10	7.734659658864551e-6	20	114	583	18671
+DOID:0060158	acquired metabolic disease	GO:0034765	regulation of ion transmembrane transport	3.78988507243605e-10	8.358591527257708e-6	37	367	583	18671
+DOID:0060158	acquired metabolic disease	GO:0043534	blood vessel endothelial cell migration	4.3390313564373173e-10	9.569733656622503e-6	16	71	583	18671
+DOID:0060158	acquired metabolic disease	GO:0035270	endocrine system development	5.35981703464472e-10	1.1821076469908931e-5	21	129	583	18671
+DOID:0060158	acquired metabolic disease	GO:0016491	oxidoreductase activity	5.422103876995266e-10	1.1958450100713058e-5	55	710	583	18671
+DOID:0060158	acquired metabolic disease	GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	6.853806411299956e-10	1.5116070040122054e-5	13	45	583	18671
+DOID:0060158	acquired metabolic disease	GO:0045787	positive regulation of cell cycle	7.233583732002558e-10	1.595366892093164e-5	33	308	583	18671
+DOID:0060158	acquired metabolic disease	GO:0050767	regulation of neurogenesis	8.187787114977141e-10	1.8058164482082084e-5	52	658	583	18671
+DOID:0060158	acquired metabolic disease	GO:0009314	response to radiation	8.582019539460362e-10	1.8927644094279827e-5	40	431	583	18671
+DOID:0060158	acquired metabolic disease	GO:0001654	eye development	8.818006325128636e-10	1.9448112950071206e-5	34	327	583	18671
+DOID:0060158	acquired metabolic disease	GO:0043405	regulation of MAP kinase activity	8.999443412704977e-10	1.9848272446720827e-5	31	278	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042445	hormone metabolic process	9.197094197332945e-10	2.028419125221781e-5	25	187	583	18671
+DOID:0060158	acquired metabolic disease	GO:0031093	platelet alpha granule lumen	9.602710848710672e-10	2.1178778776831386e-5	14	55	583	18671
+DOID:0060158	acquired metabolic disease	GO:0005901	caveola	1.0332057431838848e-9	2.278735266592058e-5	16	75	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002819	regulation of adaptive immune response	1.049052733570477e-9	2.3136858038896868e-5	20	121	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042562	hormone binding	1.0718484988458954e-9	2.3639618642046223e-5	15	65	583	18671
+DOID:0060158	acquired metabolic disease	GO:0009266	response to temperature stimulus	1.224314649661551e-9	2.7002259598285505e-5	27	219	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042307	positive regulation of protein import into nucleus	1.2379888225666491e-9	2.7303843481707446e-5	18	98	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042692	muscle cell differentiation	1.5337335845799771e-9	3.3826494207911395e-5	34	334	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002703	regulation of leukocyte mediated immunity	1.8348756958275203e-9	4.046818347147596e-5	22	151	583	18671
+DOID:0060158	acquired metabolic disease	GO:0031649	heat generation	1.854334241713218e-9	4.0897341700985024e-5	9	19	583	18671
+DOID:0060158	acquired metabolic disease	GO:0098662	inorganic cation transmembrane transport	1.8764122478032164e-9	4.138427212529994e-5	47	575	583	18671
+DOID:0060158	acquired metabolic disease	GO:0048565	digestive tract development	1.915922753781274e-9	4.2255676334646e-5	21	138	583	18671
+DOID:0060158	acquired metabolic disease	GO:0046006	regulation of activated T cell proliferation	1.929291837399205e-9	4.255053147383947e-5	12	40	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002449	lymphocyte mediated immunity	2.0484937079956467e-9	4.517952872984399e-5	26	209	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042531	positive regulation of tyrosine phosphorylation of STAT protein	2.0521720989208347e-9	4.526065564169901e-5	14	58	583	18671
+DOID:0060158	acquired metabolic disease	GO:1900407	regulation of cellular response to oxidative stress	2.0521720989208347e-9	4.526065564169901e-5	14	58	583	18671
+DOID:0060158	acquired metabolic disease	GO:0001938	positive regulation of endothelial cell proliferation	2.1028454533222884e-9	4.637825647302307e-5	15	68	583	18671
+DOID:0060158	acquired metabolic disease	GO:0050866	negative regulation of cell activation	2.3645119195947473e-9	5.214931038666215e-5	22	153	583	18671
+DOID:0060158	acquired metabolic disease	GO:0048598	embryonic morphogenesis	2.4092595696245667e-9	5.313621980806982e-5	46	560	583	18671
+DOID:0060158	acquired metabolic disease	GO:0046660	female sex differentiation	2.5207734788423863e-9	5.559565907586883e-5	20	127	583	18671
+DOID:0060158	acquired metabolic disease	GO:0060416	response to growth hormone	2.5969090211575008e-9	5.727482846162868e-5	11	33	583	18671
+DOID:0060158	acquired metabolic disease	GO:0002260	lymphocyte homeostasis	2.6143147646706666e-9	5.765871213481155e-5	14	59	583	18671
+DOID:0060158	acquired metabolic disease	GO:0046364	monosaccharide biosynthetic process	2.7226949583791793e-9	6.00490373070528e-5	17	91	583	18671
+DOID:0060158	acquired metabolic disease	GO:0000303	response to superoxide	2.7615111308776363e-9	6.090512799150627e-5	10	26	583	18671
+DOID:0060158	acquired metabolic disease	GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	2.8862114920258364e-9	6.365539445662982e-5	13	50	583	18671
+DOID:0060158	acquired metabolic disease	GO:0060326	cell chemotaxis	2.9945889101767875e-9	6.604565841394905e-5	27	228	583	18671
+DOID:0060158	acquired metabolic disease	GO:0042762	regulation of sulfur metabolic process	3.278381677240816e-9	7.23047078915462e-5	9	20	583	18671
+DOID:0060158	acquired metabolic disease	GO:0060135	maternal process involved in female pregnancy	3.313285423800494e-9	7.307451002191989e-5	14	60	583	18671
+DOID:0060158	acquired metabolic disease	GO:0030819	positive regulation of cAMP biosynthetic process	3.412856774964723e-9	7.527055617184697e-5	16	81	583	18671
+DOID:0060158	acquired metabolic disease	GO:0046850	regulation of bone remodeling	3.6068498188157605e-9	7.95490727539816e-5	12	42	583	18671
+DOID:0060158	acquired metabolic disease	GO:0051098	regulation of binding	3.995571873360859e-9	8.812233766697375e-5	30	279	583	18671
+DOID:0060158	acquired metabolic disease	GO:0007420	brain development	4.04399624898133e-9	8.919033727128323e-5	51	669	583	18671
+DOID:0060158	acquired metabolic disease	GO:0048145	regulation of fibroblast proliferation	4.119370511368459e-9	9.085271662823136e-5	16	82	583	18671
+DOID:0060159	organic acidemia	GO:0050662	coenzyme binding	2.0534751676848373e-10	4.528939482328909e-6	10	185	57	18671
+DOID:0060159	organic acidemia	GO:0055114	oxidation-reduction process	1.7845256383708374e-9	3.935771295426882e-5	17	949	57	18671
+MESH:D003286	Contracture	GO:0030198	extracellular matrix organization	3.2751579226442118e-12	7.223360798391809e-8	9	320	16	18671
+MESH:D003286	Contracture	GO:0031012	extracellular matrix	7.14030723436565e-10	1.5747947605393442e-5	8	423	16	18671
+DOID:870	neuropathy	GO:0033273	response to vitamin	1.907496383068974e-11	4.206983272858622e-7	25	104	906	18671
+DOID:870	neuropathy	GO:0048878	chemical homeostasis	2.948374877576043e-11	6.502640792493963e-7	96	988	906	18671
+DOID:870	neuropathy	GO:0019216	regulation of lipid metabolic process	9.820799728998963e-11	2.1659773802307214e-6	41	272	906	18671
+DOID:870	neuropathy	GO:0006733	oxidoreduction coenzyme metabolic process	1.9745249879576932e-10	4.354814860940692e-6	27	133	906	18671
+DOID:870	neuropathy	GO:0031099	regeneration	2.1496482371929915e-10	4.741049187129143e-6	32	182	906	18671
+DOID:870	neuropathy	GO:0044708	single-organism behavior	3.877693721676678e-10	8.552253503157914e-6	51	404	906	18671
+DOID:870	neuropathy	GO:0008610	lipid biosynthetic process	4.093901884161255e-10	9.029100605517648e-6	68	627	906	18671
+DOID:870	neuropathy	GO:0045664	regulation of neuron differentiation	4.6518922047766864e-10	1.0259748257634982e-5	62	548	906	18671
+DOID:870	neuropathy	GO:0007417	central nervous system development	6.240451488892518e-10	1.3763315758752448e-5	86	889	906	18671
+DOID:870	neuropathy	GO:1901615	organic hydroxy compound metabolic process	1.1720746595500486e-9	2.5850106616376323e-5	60	534	906	18671
+DOID:870	neuropathy	GO:0022857	transmembrane transporter activity	1.2030620943903614e-9	2.653353449177942e-5	92	990	906	18671
+DOID:870	neuropathy	GO:0032496	response to lipopolysaccharide	1.262290938441879e-9	2.783982664733564e-5	43	319	906	18671
+DOID:870	neuropathy	GO:0044420	extracellular matrix component	1.2837841900648073e-9	2.8313860311879324e-5	25	125	906	18671
+DOID:870	neuropathy	GO:1901701	cellular response to oxygen-containing compound	1.3053415015562564e-9	2.8789306816823235e-5	84	873	906	18671
+DOID:870	neuropathy	GO:0032355	response to estradiol	1.4967530548304353e-9	3.301088862428525e-5	27	145	906	18671
+DOID:870	neuropathy	GO:0051050	positive regulation of transport	1.5324811419858975e-9	3.379887158649897e-5	87	920	906	18671
+DOID:870	neuropathy	GO:0080135	regulation of cellular response to stress	2.2605438632083974e-9	4.9856294903061205e-5	70	681	906	18671
+DOID:870	neuropathy	GO:0050769	positive regulation of neurogenesis	2.6513444773001993e-9	5.8475402446855895e-5	47	376	906	18671
+DOID:870	neuropathy	GO:0030258	lipid modification	4.030430988954947e-9	8.889115546140136e-5	35	237	906	18671
+DOID:0050888	syndromic intellectual disability	GO:0045944	positive regulation of transcription from RNA polymerase II promoter	9.10893582783956e-12	2.0089757968300148e-7	75	996	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0021915	neural tube development	8.22675261247241e-13	1.81441028868079e-8	27	151	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0007411	axon guidance	5.60440582830779e-13	1.2360517054332831e-8	32	215	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0003682	chromatin binding	5.297762228906322e-12	1.1684214595852893e-7	52	433	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0033044	regulation of chromosome organization	1.5276335751934766e-11	3.369195850089213e-7	33	271	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0000122	negative regulation of transcription from RNA polymerase II promoter	2.116995467815741e-11	4.669033504267617e-7	59	732	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0030324	lung development	2.3260282588921655e-11	5.130055324986671e-7	26	175	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0001701	in utero embryonic development	3.609690324424264e-11	7.961172010517714e-7	35	312	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0048638	regulation of developmental growth	4.5915826696329987e-11	1.0126735577875579e-6	33	283	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0044454	nuclear chromosome part	4.7618908816104977e-11	1.0502350339391953e-6	45	486	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0042063	gliogenesis	8.608724844094695e-11	1.898654264365085e-6	29	228	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0019827	stem cell population maintenance	9.10641562157366e-11	2.0084199653380708e-6	23	145	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0001503	ossification	1.5734835656644464e-10	3.4703180040729364e-6	37	363	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0001568	blood vessel development	2.2264889931733478e-10	4.910521474443819e-6	48	569	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0045664	regulation of neuron differentiation	6.265525875903677e-10	1.381861731930556e-5	46	548	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0061053	somite development	6.558998899564017e-10	1.446587207298844e-5	17	85	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0021536	diencephalon development	1.1556879897511863e-9	2.5488698613962413e-5	16	77	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0072091	regulation of stem cell proliferation	1.1567632407505357e-9	2.5512413274753065e-5	17	88	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0044212	transcription regulatory region DNA binding	1.354738765613206e-9	2.9878763475599257e-5	58	807	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0050769	positive regulation of neurogenesis	1.5301594435968013e-9	3.3747666528527454e-5	36	376	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0021954	central nervous system neuron development	1.5845015299831289e-9	3.494618124377791e-5	15	68	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0008284	positive regulation of cell proliferation	1.953822215128298e-9	4.309154895465461e-5	58	815	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0016331	morphogenesis of embryonic epithelium	1.9765593606280163e-9	4.35930166986509e-5	21	141	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0042733	embryonic digit morphogenesis	2.5386647228842207e-9	5.599025046321149e-5	14	60	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0001655	urogenital system development	2.5476570852944747e-9	5.618857701616964e-5	32	313	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0035148	tube formation	3.0833259279106073e-9	6.800275334006844e-5	20	131	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0043010	camera-type eye development	3.4577124496948386e-9	7.625984807801967e-5	30	283	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0061351	neural precursor cell proliferation	3.5319384084075978e-9	7.789690159742957e-5	20	132	571	18671
+DOID:0050888	syndromic intellectual disability	GO:0060485	mesenchyme development	4.4880984484407804e-9	9.898501128036141e-5	27	237	571	18671
+DOID:0050890	synucleinopathy	GO:0044297	cell body	2.6168289757322327e-11	5.771416305977439e-7	19	494	102	18671
+DOID:0050890	synucleinopathy	GO:0043524	negative regulation of neuron apoptotic process	1.75024994497619e-10	3.860176253644987e-6	11	134	102	18671
+DOID:0050890	synucleinopathy	GO:0009150	purine ribonucleotide metabolic process	2.2320367776273997e-10	4.92275711305723e-6	18	501	102	18671
+DOID:0050890	synucleinopathy	GO:0043005	neuron projection	1.0226381963462927e-9	2.2554285420417486e-5	23	941	102	18671
+DOID:0050890	synucleinopathy	GO:1902533	positive regulation of intracellular signal transduction	1.0899899871574803e-9	2.4039729166758228e-5	22	860	102	18671
+DOID:0050890	synucleinopathy	GO:0042493	response to drug	1.629537171865536e-9	3.59394423254944e-5	16	433	102	18671
+DOID:0050890	synucleinopathy	GO:0036477	somatodendritic compartment	1.9824490937736527e-9	4.372291476317791e-5	19	649	102	18671
+DOID:0050890	synucleinopathy	GO:0032107	regulation of response to nutrient levels	2.2427167900573863e-9	4.9463118804715656e-5	11	170	102	18671
+DOID:0050890	synucleinopathy	GO:0048878	chemical homeostasis	2.5994036922938335e-9	5.73298484335405e-5	23	988	102	18671
+DOID:0050890	synucleinopathy	GO:1901699	cellular response to nitrogen compound	2.867471038392466e-9	6.324207375174584e-5	17	518	102	18671
+DOID:865	vasculitis	GO:0050776	regulation of immune response	8.757872205222839e-11	1.931548714861897e-6	14	816	35	18671
+DOID:865	vasculitis	GO:0002684	positive regulation of immune system process	1.9892354430339765e-10	4.387258769611435e-6	14	872	35	18671
+DOID:865	vasculitis	GO:0031347	regulation of defense response	4.149238730377647e-10	9.1511460198479e-6	13	749	35	18671
+DOID:865	vasculitis	GO:0002697	regulation of immune effector process	3.1651999909954043e-9	6.980848580140364e-5	10	418	35	18671
+DOID:0060241	3-M syndrome	GO:1990393	3M complex	3.687494753989995e-12	8.132769679924934e-8	3	4	3	18671
+DOID:0060237	Warburg micro syndrome	GO:0071786	endoplasmic reticulum tubular network organization	8.11041234172194e-10	1.7887514419667738e-5	3	12	4	18671
+DOID:0060237	Warburg micro syndrome	GO:0034389	lipid particle organization	1.341791233677725e-9	2.9593205658762223e-5	3	14	4	18671
+DOID:850	lung disease	GO:0010038	response to metal ion	1.886713008047991e-12	4.161145539249844e-8	39	335	439	18671
+DOID:850	lung disease	GO:0050715	positive regulation of cytokine secretion	9.614531393253856e-14	2.120484898782138e-9	20	95	439	18671
+DOID:850	lung disease	GO:0032872	regulation of stress-activated MAPK cascade	9.43689570931383e-14	2.0813073486891653e-9	26	194	439	18671
+DOID:850	lung disease	GO:0030324	lung development	4.107825191113079e-14	9.059808458999896e-10	27	175	439	18671
+DOID:850	lung disease	GO:1903035	negative regulation of response to wounding	3.2862601528904634e-14	7.247846767199917e-10	25	159	439	18671
+DOID:850	lung disease	GO:0032722	positive regulation of chemokine production	7.205347429817266e-14	1.589139375646198e-9	16	50	439	18671
+DOID:850	lung disease	GO:0043122	regulation of I-kappaB kinase/NF-kappaB signaling	2.403632848313464e-13	5.301212246955345e-9	28	233	439	18671
+DOID:850	lung disease	GO:0032355	response to estradiol	4.645173135031655e-13	1.0244929349312315e-8	26	145	439	18671
+DOID:850	lung disease	GO:0009612	response to mechanical stimulus	7.209788321915767e-13	1.5901188143985223e-8	27	210	439	18671
+DOID:850	lung disease	GO:0071456	cellular response to hypoxia	1.2785328351583303e-12	2.8198041679416974e-8	22	134	439	18671
+DOID:850	lung disease	GO:2000021	regulation of ion homeostasis	2.0317081350640365e-12	4.4809322918837324e-8	25	189	439	18671
+DOID:850	lung disease	GO:0001938	positive regulation of endothelial cell proliferation	3.3633096307994492e-12	7.417779390728185e-8	16	68	439	18671
+DOID:850	lung disease	GO:0043434	response to peptide hormone	3.4682257066265265e-12	7.649171795964804e-8	36	389	439	18671
+DOID:850	lung disease	GO:0045429	positive regulation of nitric oxide biosynthetic process	3.8727909767999336e-12	8.541440499332253e-8	13	40	439	18671
+DOID:850	lung disease	GO:0019955	cytokine binding	3.892441924335799e-12	8.584780664122604e-8	18	92	439	18671
+DOID:850	lung disease	GO:0045580	regulation of T cell differentiation	4.687583654572336e-12	1.0338465750159287e-7	19	105	439	18671
+DOID:850	lung disease	GO:0032845	negative regulation of homeostatic process	4.829470157119431e-12	1.0651396431526905e-7	23	162	439	18671
+DOID:850	lung disease	GO:0043065	positive regulation of apoptotic process	8.171241461241152e-12	1.802167304276736e-7	48	556	439	18671
+DOID:850	lung disease	GO:0032870	cellular response to hormone stimulus	9.368839037904308e-12	2.0662974498097952e-7	44	519	439	18671
+DOID:850	lung disease	GO:0060249	anatomical structure homeostasis	1.4588774632784407e-11	3.217554245260601e-7	33	351	439	18671
+DOID:850	lung disease	GO:0005578	proteinaceous extracellular matrix	1.8031354187542092e-11	3.9768151660624085e-7	33	354	439	18671
+DOID:850	lung disease	GO:0060284	regulation of cell development	1.9362844660975043e-11	4.2704753899780457e-7	54	828	439	18671
+DOID:850	lung disease	GO:0010634	positive regulation of epithelial cell migration	2.117928055156426e-11	4.671090325647498e-7	18	101	439	18671
+DOID:850	lung disease	GO:0061082	myeloid leukocyte cytokine production	2.3469337584458572e-11	5.176162404252338e-7	10	22	439	18671
+DOID:850	lung disease	GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress	2.3469337584458572e-11	5.176162404252338e-7	10	22	439	18671
+DOID:850	lung disease	GO:0010212	response to ionizing radiation	2.8373414728832813e-11	6.257756618444077e-7	21	145	439	18671
+DOID:850	lung disease	GO:0009790	embryo development	2.8941182783626118e-11	6.38297786292874e-7	57	932	439	18671
+DOID:850	lung disease	GO:0032760	positive regulation of tumor necrosis factor production	3.0379698756632934e-11	6.700242560775393e-7	14	56	439	18671
+DOID:850	lung disease	GO:0002285	lymphocyte activation involved in immune response	3.259548186917982e-11	7.18893352624761e-7	21	146	439	18671
+DOID:850	lung disease	GO:0032755	positive regulation of interleukin-6 production	4.1732506339542397e-11	9.204104273186076e-7	15	68	439	18671
+DOID:850	lung disease	GO:0060402	calcium ion transport into cytosol	4.353717386607059e-11	9.602123696161868e-7	19	119	439	18671
+DOID:850	lung disease	GO:0071887	leukocyte apoptotic process	6.0188853900911e-11	1.327465172784592e-6	17	94	439	18671
+DOID:850	lung disease	GO:0030855	epithelial cell differentiation	6.079159398098e-11	1.3407586052505138e-6	42	568	439	18671
+DOID:850	lung disease	GO:0003012	muscle system process	6.765543680842256e-11	1.4921406588097597e-6	34	393	439	18671
+DOID:850	lung disease	GO:0007596	blood coagulation	6.963107868074303e-11	1.5357134403037875e-6	32	352	439	18671
+DOID:850	lung disease	GO:0006925	inflammatory cell apoptotic process	8.157419184584569e-11	1.7991188011601267e-6	9	18	439	18671
+DOID:850	lung disease	GO:1900542	regulation of purine nucleotide metabolic process	8.503964199491065e-11	1.8755493041977545e-6	24	203	439	18671
+DOID:850	lung disease	GO:0001657	ureteric bud development	1.015674211402029e-10	2.240069473247175e-6	17	97	439	18671
+DOID:850	lung disease	GO:0042116	macrophage activation	1.190297860276246e-10	2.6252019308392605e-6	13	51	439	18671
+DOID:850	lung disease	GO:0043523	regulation of neuron apoptotic process	1.3057033232399817e-10	2.8797286794057797e-6	23	190	439	18671
+DOID:850	lung disease	GO:0045121	membrane raft	1.4453627183996787e-10	3.1877474754304913e-6	28	282	439	18671
+DOID:850	lung disease	GO:0042306	regulation of protein import into nucleus	1.5920587070894499e-10	3.5112854784857817e-6	22	175	439	18671
+DOID:850	lung disease	GO:0040008	regulation of growth	2.1825252716212162e-10	4.813559486560592e-6	43	617	439	18671
+DOID:850	lung disease	GO:0015833	peptide transport	2.214164407376984e-10	4.883339600469938e-6	29	307	439	18671
+DOID:850	lung disease	GO:0043086	negative regulation of catalytic activity	2.621819428227923e-10	5.782422748956684e-6	51	822	439	18671
+DOID:850	lung disease	GO:0048754	branching morphogenesis of an epithelial tube	2.629289008737601e-10	5.798896908770779e-6	20	147	439	18671
+DOID:850	lung disease	GO:1903829	positive regulation of cellular protein localization	2.8571822685563575e-10	6.3015154933010464e-6	31	351	439	18671
+DOID:850	lung disease	GO:0097193	intrinsic apoptotic signaling pathway	3.12994519191534e-10	6.903094120769282e-6	27	272	439	18671
+DOID:850	lung disease	GO:0002020	protease binding	3.174102092273756e-10	7.000482164509769e-6	17	104	439	18671
+DOID:850	lung disease	GO:0048608	reproductive structure development	3.494179390273189e-10	7.706412645247518e-6	34	418	439	18671
+DOID:850	lung disease	GO:0051353	positive regulation of oxidoreductase activity	3.504139201027101e-10	7.728379007865271e-6	12	45	439	18671
+DOID:850	lung disease	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	3.504139201027101e-10	7.728379007865271e-6	12	45	439	18671
+DOID:850	lung disease	GO:0022612	gland morphogenesis	3.561178019140243e-10	7.854178121213806e-6	18	119	439	18671
+DOID:850	lung disease	GO:1990267	response to transition metal nanoparticle	3.7903102878544814e-10	8.359529339863059e-6	20	150	439	18671
+DOID:850	lung disease	GO:0019932	second-messenger-mediated signaling	4.142046705624125e-10	9.135284009254008e-6	24	219	439	18671
+DOID:850	lung disease	GO:0031669	cellular response to nutrient levels	4.1559833352522446e-10	9.166021245898825e-6	21	167	439	18671
+DOID:850	lung disease	GO:0002675	positive regulation of acute inflammatory response	4.190452429497782e-10	9.242042833257358e-6	10	28	439	18671
+DOID:850	lung disease	GO:0043005	neuron projection	4.2207770611923934e-10	9.308923808459824e-6	55	941	439	18671
+DOID:850	lung disease	GO:0043542	endothelial cell migration	4.276005105552372e-10	9.430729260295756e-6	20	151	439	18671
+DOID:850	lung disease	GO:0002761	regulation of myeloid leukocyte differentiation	4.3175396591266235e-10	9.522333718203768e-6	17	106	439	18671
+DOID:850	lung disease	GO:0019430	removal of superoxide radicals	4.632152439398851e-10	1.0216212205094166e-5	9	21	439	18671
+DOID:850	lung disease	GO:0007566	embryo implantation	4.640753337170622e-10	1.0235181485129807e-5	12	46	439	18671
+DOID:850	lung disease	GO:0001818	negative regulation of cytokine production	4.983332635433158e-10	1.0990740127447829e-5	23	203	439	18671
+DOID:850	lung disease	GO:0042742	defense response to bacterium	5.489043664042015e-10	1.2106085801044664e-5	24	222	439	18671
+DOID:850	lung disease	GO:0000187	activation of MAPK activity	6.019753584496357e-10	1.3276566530606715e-5	19	138	439	18671
+DOID:850	lung disease	GO:0033028	myeloid cell apoptotic process	6.262673712953415e-10	1.3812326873918757e-5	10	29	439	18671
+DOID:850	lung disease	GO:0048145	regulation of fibroblast proliferation	6.912123096114442e-10	1.5244687488480402e-5	15	82	439	18671
+DOID:850	lung disease	GO:0051051	negative regulation of transport	7.101830235001216e-10	1.5663086583295183e-5	35	452	439	18671
+DOID:850	lung disease	GO:0042542	response to hydrogen peroxide	7.10879466403469e-10	1.567844663152851e-5	18	124	439	18671
+DOID:850	lung disease	GO:0030728	ovulation	7.67744978702467e-10	1.693261550528291e-5	9	22	439	18671
+DOID:850	lung disease	GO:0070265	necrotic cell death	7.96129717706151e-10	1.755864092400916e-5	12	48	439	18671
+DOID:850	lung disease	GO:0048872	homeostasis of number of cells	8.088800740324587e-10	1.7839850032785876e-5	23	208	439	18671
+DOID:850	lung disease	GO:0071229	cellular response to acid chemical	8.931804185152714e-10	1.969909413035431e-5	21	174	439	18671
+DOID:850	lung disease	GO:0034111	negative regulation of homotypic cell-cell adhesion	9.221563512795683e-10	2.033815832747088e-5	16	97	439	18671
+DOID:850	lung disease	GO:0061061	muscle structure development	9.884864038411934e-10	2.180106763671752e-5	39	551	439	18671
+DOID:850	lung disease	GO:0031329	regulation of cellular catabolic process	9.975597015099424e-10	2.200117921680178e-5	42	624	439	18671
+DOID:850	lung disease	GO:0003044	regulation of systemic arterial blood pressure mediated by a chemical signal	1.0321237198240851e-9	2.2763488640720198e-5	12	49	439	18671
+DOID:850	lung disease	GO:0046982	protein heterodimerization activity	1.068478971966158e-9	2.3565303726713616e-5	35	459	439	18671
+DOID:850	lung disease	GO:0009408	response to heat	1.0826080032444452e-9	2.3876919511556238e-5	20	159	439	18671
+DOID:850	lung disease	GO:0010001	glial cell differentiation	1.1040248715232792e-9	2.4349268541445923e-5	21	176	439	18671
+DOID:850	lung disease	GO:0031620	regulation of fever generation	1.1525858045757786e-9	2.5420279919918798e-5	7	11	439	18671
+DOID:850	lung disease	GO:0046545	development of primary female sexual characteristics	1.204212285443873e-9	2.655890195546462e-5	17	113	439	18671
+DOID:850	lung disease	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	1.2933311088758614e-9	2.8524417606257124e-5	22	195	439	18671
+DOID:850	lung disease	GO:0060627	regulation of vesicle-mediated transport	1.3234797702210699e-9	2.9189346332225696e-5	34	440	439	18671
+DOID:850	lung disease	GO:0044089	positive regulation of cellular component biogenesis	1.3602711179672156e-9	3.000077950676694e-5	33	418	439	18671
+DOID:850	lung disease	GO:0043409	negative regulation of MAPK cascade	1.4125201008852173e-9	3.115313082502347e-5	19	145	439	18671
+DOID:850	lung disease	GO:0002757	immune response-activating signal transduction	1.4461248865060838e-9	3.189428437189168e-5	33	419	439	18671
+DOID:850	lung disease	GO:0019724	B cell mediated immunity	1.4671456272097316e-9	3.235789680811063e-5	16	100	439	18671
+DOID:850	lung disease	GO:0002702	positive regulation of production of molecular mediator of immune response	1.640790725510044e-9	3.618763945112402e-5	13	62	439	18671
+DOID:850	lung disease	GO:0046934	phosphatidylinositol-4,5-bisphosphate 3-kinase activity	1.640790725510044e-9	3.618763945112402e-5	13	62	439	18671
+DOID:850	lung disease	GO:0007611	learning or memory	2.0361220487430387e-9	4.490667178502772e-5	23	218	439	18671
+DOID:850	lung disease	GO:0019882	antigen processing and presentation	2.2267671040410164e-9	4.911134847962462e-5	23	219	439	18671
+DOID:850	lung disease	GO:0046824	positive regulation of nucleocytoplasmic transport	2.387704034489957e-9	5.2660812480676e-5	17	118	439	18671
+DOID:850	lung disease	GO:0042698	ovulation cycle	2.387704034489957e-9	5.2660812480676e-5	17	118	439	18671
+DOID:850	lung disease	GO:0007420	brain development	2.5126414282539145e-9	5.541630670014008e-5	43	669	439	18671
+DOID:850	lung disease	GO:1904019	epithelial cell apoptotic process	2.79612433207177e-9	6.166852214384289e-5	14	77	439	18671
+DOID:850	lung disease	GO:0002695	negative regulation of leukocyte activation	2.890844674752202e-9	6.375757930165982e-5	18	135	439	18671
+DOID:850	lung disease	GO:1901653	cellular response to peptide	2.955563016548979e-9	6.518494232998773e-5	27	301	439	18671
+DOID:850	lung disease	GO:0036477	somatodendritic compartment	3.1862782412517276e-9	7.027336661080685e-5	42	649	439	18671
+DOID:850	lung disease	GO:0001959	regulation of cytokine-mediated signaling pathway	3.260854253284151e-9	7.191814055618195e-5	18	136	439	18671
+DOID:850	lung disease	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors	3.690438177272881e-9	8.13926139997534e-5	10	34	439	18671
+DOID:850	lung disease	GO:0051962	positive regulation of nervous system development	3.6917691126348018e-9	8.142196777916055e-5	33	435	439	18671
+DOID:850	lung disease	GO:0009187	cyclic nucleotide metabolic process	3.694663797126907e-9	8.148581004563393e-5	21	188	439	18671
+DOID:850	lung disease	GO:0032612	interleukin-1 production	3.7074439074302745e-9	8.17676753783747e-5	13	66	439	18671
+DOID:850	lung disease	GO:0051091	positive regulation of sequence-specific DNA binding transcription factor activity	3.764733413902377e-9	8.303119544361692e-5	23	225	439	18671
+DOID:850	lung disease	GO:0045639	positive regulation of myeloid cell differentiation	3.968222306305336e-9	8.751914296556418e-5	14	79	439	18671
+DOID:850	lung disease	GO:0009895	negative regulation of catabolic process	4.3763367374438644e-9	9.652010674432443e-5	22	208	439	18671
+DOID:854	collagen disease	GO:0005788	endoplasmic reticulum lumen	5.906386491005833e-13	1.3026535405913364e-8	14	199	79	18671
+DOID:854	collagen disease	GO:0009611	response to wounding	2.831541556780337e-9	6.244964903479033e-5	19	875	79	18671
+MESH:D003294	Seizures, Febrile	GO:0034702	ion channel complex	3.89195098371431e-9	8.58369789458191e-5	5	274	6	18671
+DOID:0060224	atrial fibrillation	GO:0086006	voltage-gated sodium channel activity involved in cardiac muscle cell action potential	1.3433698597964394e-14	2.962802225781047e-10	5	5	36	18671
+DOID:0060224	atrial fibrillation	GO:0001518	voltage-gated sodium channel complex	9.114931032172535e-14	2.0102980391456526e-9	6	14	36	18671
+DOID:0060224	atrial fibrillation	GO:0044325	ion channel binding	2.7530200341630007e-11	6.071785685346498e-7	8	109	36	18671
+DOID:0060224	atrial fibrillation	GO:0086014	atrial cardiac muscle cell action potential	3.943478876777817e-11	8.697342662733476e-7	5	14	36	18671
+DOID:0060224	atrial fibrillation	GO:0016247	channel regulator activity	9.4560914654096e-11	2.085540972696087e-6	8	127	36	18671
+DOID:0060224	atrial fibrillation	GO:0060078	regulation of postsynaptic membrane potential	2.3638568880102184e-10	5.213486366506537e-6	7	85	36	18671
+DOID:0060224	atrial fibrillation	GO:0055007	cardiac muscle cell differentiation	2.79044454210009e-10	6.154325437601749e-6	7	87	36	18671
+DOID:0060224	atrial fibrillation	GO:0086016	AV node cell action potential	8.101137538574221e-10	1.7867058841325445e-5	4	8	36	18671
+DOID:0060224	atrial fibrillation	GO:0035725	sodium ion transmembrane transport	3.8229288623625735e-9	8.431469605940656e-5	7	126	36	18671
+DOID:0060224	atrial fibrillation	GO:0055002	striated muscle cell development	4.040391465842674e-9	8.911083377916018e-5	7	127	36	18671
+DOID:848	arthritis	GO:1902532	negative regulation of intracellular signal transduction	6.759037773917953e-12	1.4907057810376045e-7	36	426	400	18671
+DOID:848	arthritis	GO:2001234	negative regulation of apoptotic signaling pathway	7.508105248632546e-12	1.655912612585908e-7	24	199	400	18671
+DOID:848	arthritis	GO:0032870	cellular response to hormone stimulus	9.647949106295073e-12	2.1278551753933783e-7	41	519	400	18671
+DOID:848	arthritis	GO:0097285	cell-type specific apoptotic process	1.8386292488514755e-11	4.055096808341929e-7	35	429	400	18671
+DOID:848	arthritis	GO:0048661	positive regulation of smooth muscle cell proliferation	2.4247048813208494e-11	5.347686615753133e-7	14	60	400	18671
+DOID:848	arthritis	GO:0043627	response to estrogen	5.091982391292049e-11	1.1230367163994615e-6	24	217	400	18671
+DOID:848	arthritis	GO:0071417	cellular response to organonitrogen compound	1.1238199260077408e-10	2.4785848468100724e-6	35	462	400	18671
+DOID:848	arthritis	GO:0070371	ERK1 and ERK2 cascade	1.3893197703396254e-10	3.064144753484044e-6	25	247	400	18671
+DOID:848	arthritis	GO:0001568	blood vessel development	1.7228574122896134e-10	3.7997620228047424e-6	39	569	400	18671
+DOID:848	arthritis	GO:0045860	positive regulation of protein kinase activity	2.1336366007318475e-10	4.70573552291409e-6	34	450	400	18671
+DOID:848	arthritis	GO:0032677	regulation of interleukin-8 production	2.1745760747649e-10	4.796027532893987e-6	13	58	400	18671
+DOID:848	arthritis	GO:0051090	regulation of sequence-specific DNA binding transcription factor activity	2.2817892020299269e-10	5.032486085077004e-6	30	359	400	18671
+DOID:848	arthritis	GO:0097191	extrinsic apoptotic signaling pathway	4.0449144034226947e-10	8.921058716748753e-6	23	220	400	18671
+DOID:848	arthritis	GO:0043410	positive regulation of MAPK cascade	4.740460246566158e-10	1.0455085073801662e-5	34	464	400	18671
+DOID:848	arthritis	GO:0022603	regulation of anatomical structure morphogenesis	6.034376331953695e-10	1.3308817000123874e-5	53	986	400	18671
+DOID:848	arthritis	GO:0019900	kinase binding	7.01730340502138e-10	1.5476662659774654e-5	39	598	400	18671
+DOID:848	arthritis	GO:0098542	defense response to other organism	8.460233624774105e-10	1.865904525943929e-5	37	550	400	18671
+DOID:848	arthritis	GO:0051897	positive regulation of protein kinase B signaling	1.2021691420116554e-9	2.651384042706706e-5	14	79	400	18671
+DOID:848	arthritis	GO:0032642	regulation of chemokine production	1.206530320096988e-9	2.6610026209739068e-5	13	66	400	18671
+DOID:848	arthritis	GO:0001933	negative regulation of protein phosphorylation	1.212659528349036e-9	2.674520589773799e-5	30	385	400	18671
+DOID:848	arthritis	GO:0042542	response to hydrogen peroxide	1.280432204708859e-9	2.8239932274853885e-5	17	124	400	18671
+DOID:848	arthritis	GO:0002526	acute inflammatory response	1.3565754075628433e-9	2.991927061379851e-5	18	141	400	18671
+DOID:848	arthritis	GO:0032963	collagen metabolic process	1.4165314476954904e-9	3.124160107892404e-5	16	109	400	18671
+DOID:848	arthritis	GO:0097305	response to alcohol	1.901288237959875e-9	4.193291208820504e-5	29	369	400	18671
+DOID:848	arthritis	GO:0071363	cellular response to growth factor stimulus	1.9995805011774337e-9	4.41007479534683e-5	38	594	400	18671
+DOID:848	arthritis	GO:0030855	epithelial cell differentiation	2.0272208356431065e-9	4.4710355530108714e-5	37	568	400	18671
+DOID:848	arthritis	GO:0048520	positive regulation of behavior	2.1442183584241548e-9	4.729073589504473e-5	18	145	400	18671
+DOID:848	arthritis	GO:0006909	phagocytosis	3.1264090205596062e-9	6.895295094844212e-5	21	204	400	18671
+DOID:848	arthritis	GO:0051384	response to glucocorticoid	3.3695145562617768e-9	7.431464353835349e-5	19	167	400	18671
+DOID:848	arthritis	GO:0007417	central nervous system development	3.749623722626438e-9	8.26979512025261e-5	48	889	400	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0050679	positive regulation of epithelial cell proliferation	7.651657085716579e-13	1.6875729702547915e-8	18	155	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0009952	anterior/posterior pattern specification	5.966338534335591e-13	1.3158759637477146e-8	18	199	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060021	palate development	1.7053025658242404e-13	3.761044808925362e-9	15	85	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001658	branching involved in ureteric bud morphogenesis	1.4144241333724494e-13	3.1195124261529372e-9	12	59	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001568	blood vessel development	2.886579864025407e-15	6.366351890108035e-11	26	569	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0048704	embryonic skeletal system morphogenesis	4.363176486776865e-14	9.622985741586376e-10	14	93	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060513	prostatic bud formation	7.083222897108499e-14	1.5622048099572794e-9	7	9	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001942	hair follicle development	1.3422596367718143e-13	2.9603536289002363e-9	13	80	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001837	epithelial to mesenchymal transition	1.4632739464559563e-13	3.2272506889086117e-9	14	109	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0030279	negative regulation of ossification	2.5368596112684827e-13	5.5950438726526386e-9	12	68	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0050680	negative regulation of epithelial cell proliferation	4.79061235125755e-13	1.0565695540698528e-8	14	112	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0030324	lung development	5.467848396278896e-13	1.2059339637993105e-8	16	175	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0030855	epithelial cell differentiation	6.441513988875158e-13	1.4206759102464162e-8	26	568	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0035116	embryonic hindlimb morphogenesis	1.0468292899190601e-12	2.308781998916487e-8	9	29	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0030510	regulation of BMP signaling pathway	1.2252421299763228e-12	2.70227151766278e-8	12	77	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0045669	positive regulation of osteoblast differentiation	1.5806245201588354e-12	3.4860673792103114e-8	11	60	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060602	branch elongation of an epithelium	1.861732989993925e-12	4.1060521094316016e-8	8	20	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:2000648	positive regulation of stem cell proliferation	2.077893412888443e-12	4.582793922125461e-8	11	61	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0003156	regulation of organ formation	2.1740387268209815e-12	4.794842412003675e-8	9	31	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0035115	embryonic forelimb morphogenesis	2.993605363599272e-12	6.602396629418195e-8	9	32	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0021510	spinal cord development	3.0483393587132923e-12	6.723112455642166e-8	13	106	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0032330	regulation of chondrocyte differentiation	3.089639655229348e-12	6.814200259608327e-8	10	46	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0048566	embryonic digestive tract development	3.972600026713735e-12	8.761569358917143e-8	9	33	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0010720	positive regulation of cell development	7.806977286861638e-12	1.7218288406173343e-7	23	469	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001701	in utero embryonic development	9.084066832087956e-12	2.0034909398169987e-7	19	312	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060828	regulation of canonical Wnt signaling pathway	9.549583346313284e-12	2.1061606070293948e-7	17	235	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0045664	regulation of neuron differentiation	1.905420266012925e-11	4.202404396691506e-7	24	548	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0030177	positive regulation of Wnt signaling pathway	2.5322077767953033e-11	5.584784251722041e-7	14	152	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0021983	pituitary gland development	4.399014486011765e-11	9.702026448898948e-7	9	42	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060174	limb bud formation	5.38973310426627e-11	1.1887056361459258e-6	6	10	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0010092	specification of organ identity	5.948586068171835e-11	1.3119606573352982e-6	8	29	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0051146	striated muscle cell differentiation	6.511302608203096e-11	1.4360677902391927e-6	16	230	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0009954	proximal/distal pattern formation	1.429104612427068e-10	3.151890222707898e-6	8	32	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0048663	neuron fate commitment	1.5805501352161855e-10	3.485903323219297e-6	10	67	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0009798	axis specification	1.7322143719411542e-10	3.820398797316216e-6	11	90	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0010001	glial cell differentiation	1.8210777330551764e-10	4.0163869402531915e-6	14	176	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0030500	regulation of bone mineralization	2.1362633884081106e-10	4.711528903134088e-6	10	69	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001502	cartilage condensation	2.179649793987437e-10	4.8072176206392925e-6	7	21	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0042472	inner ear morphogenesis	2.2076473982224343e-10	4.868966336779579e-6	11	92	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:2000738	positive regulation of stem cell differentiation	2.332017912110018e-10	5.143265505158645e-6	9	50	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0051148	negative regulation of muscle cell differentiation	2.332017912110018e-10	5.143265505158645e-6	9	50	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0031175	neuron projection development	2.7656843482049e-10	6.099716829965907e-6	27	796	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0003203	endocardial cushion morphogenesis	3.1753888407592967e-10	7.003320088294629e-6	7	22	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0051961	negative regulation of nervous system development	3.7843916889102047e-10	8.346475869891457e-6	16	259	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:1901862	negative regulation of muscle tissue development	3.998643638425392e-10	8.819008544547202e-6	8	36	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0048593	camera-type eye morphogenesis	5.50006040711537e-10	1.2130383227892949e-5	11	100	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:2000826	regulation of heart morphogenesis	6.356349890879187e-10	1.4018929684334047e-5	7	24	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0005578	proteinaceous extracellular matrix	6.678861907971623e-10	1.4730229938031414e-5	18	354	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060592	mammary gland formation	6.938373209308679e-10	1.5302582113130292e-5	5	7	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0007442	hindgut morphogenesis	6.938373209308679e-10	1.5302582113130292e-5	5	7	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0021953	central nervous system neuron differentiation	6.959938181338998e-10	1.535014365894316e-5	13	161	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0035051	cardiocyte differentiation	1.1457799153902215e-9	2.5270176033931335e-5	11	107	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0061037	negative regulation of cartilage development	1.1917202780153957e-9	2.6283390731629552e-5	7	26	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0048806	genitalia development	1.2200639387671686e-9	2.6908510169509903e-5	8	41	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001843	neural tube closure	1.2295278128959808e-9	2.7117235913420856e-5	10	82	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0061371	determination of heart left/right asymmetry	1.4961583083561436e-9	3.299777149079475e-5	9	61	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0010463	mesenchymal cell proliferation	1.4968600803300092e-9	3.301324907167835e-5	8	42	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0003279	cardiac septum development	1.5649714857346453e-9	3.45154461178776e-5	10	84	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0003143	embryonic heart tube morphogenesis	2.0138657408352856e-9	4.4415808914122223e-5	9	63	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0019827	stem cell population maintenance	2.44001618909806e-9	5.381455705055771e-5	12	145	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0001656	metanephros development	2.4885032923194217e-9	5.4883940112104845e-5	10	88	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0031128	developmental induction	2.7704685212626146e-9	6.110268323644696e-5	7	29	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0055025	positive regulation of cardiac muscle tissue development	2.7704685212626146e-9	6.110268323644696e-5	7	29	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0003179	heart valve morphogenesis	2.7704685212626146e-9	6.110268323644696e-5	7	29	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0010631	epithelial cell migration	3.0308030529724306e-9	6.684436133330696e-5	14	218	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0010721	negative regulation of cell development	3.033059803314586e-9	6.68941339621032e-5	16	299	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060350	endochondral bone morphogenesis	3.2192513099715825e-9	7.100058764142325e-5	8	46	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0002011	morphogenesis of an epithelial sheet	3.852976826479448e-9	8.497740390800423e-5	8	47	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0030334	regulation of cell migration	3.947136395510142e-9	8.705409320297619e-5	23	660	152	18671
+MESH:D017880	Limb Deformities, Congenital	GO:0060039	pericardium development	4.514908447106336e-9	9.957630580093024e-5	6	18	152	18671
+DOID:11934	head and neck cancer	GO:0009790	embryo development	2.2448709557920665e-13	4.951062892999403e-9	42	932	255	18671
+DOID:11934	head and neck cancer	GO:0070374	positive regulation of ERK1 and ERK2 cascade	7.91033905045424e-13	1.7446252775776827e-8	19	168	255	18671
+DOID:11934	head and neck cancer	GO:0048608	reproductive structure development	6.4426242118997834e-12	1.4209207699344972e-7	29	418	255	18671
+DOID:11934	head and neck cancer	GO:0097285	cell-type specific apoptotic process	6.704858890316245e-12	1.478756628259248e-7	30	429	255	18671
+DOID:11934	head and neck cancer	GO:0043065	positive regulation of apoptotic process	9.29079035927316e-12	2.0490838137376954e-7	34	556	255	18671
+DOID:11934	head and neck cancer	GO:0071396	cellular response to lipid	1.056665865917239e-11	2.3304765672804706e-7	28	416	255	18671
+DOID:11934	head and neck cancer	GO:0010212	response to ionizing radiation	1.354738543568601e-11	2.9878758578405495e-7	17	145	255	18671
+DOID:11934	head and neck cancer	GO:0010243	response to organonitrogen compound	1.3712808666355158e-11	3.02435995136463e-7	43	780	255	18671
+DOID:11934	head and neck cancer	GO:0008284	positive regulation of cell proliferation	1.5000001241105565e-11	3.3082502737258324e-7	42	815	255	18671
+DOID:11934	head and neck cancer	GO:0007568	aging	1.5329293390209386e-11	3.38087565721068e-7	23	290	255	18671
+DOID:11934	head and neck cancer	GO:0001101	response to acid chemical	1.559774531756375e-11	3.440082729788685e-7	24	315	255	18671
+DOID:11934	head and neck cancer	GO:0034097	response to cytokine	2.3737345422603084e-11	5.23527153295511e-7	38	784	255	18671
+DOID:11934	head and neck cancer	GO:0097193	intrinsic apoptotic signaling pathway	2.5430768602063836e-11	5.608756015185179e-7	22	272	255	18671
+DOID:11934	head and neck cancer	GO:0071407	cellular response to organic cyclic compound	2.8220314973737004e-11	6.223990467457696e-7	27	416	255	18671
+DOID:11934	head and neck cancer	GO:0045596	negative regulation of cell differentiation	4.983624624088634e-11	1.0991384108427482e-6	32	597	255	18671
+DOID:11934	head and neck cancer	GO:0071900	regulation of protein serine/threonine kinase activity	5.386813217711506e-11	1.1880616551662726e-6	27	431	255	18671
+DOID:11934	head and neck cancer	GO:0001525	angiogenesis	1.0727907451268948e-10	2.3660399883773664e-6	26	413	255	18671
+DOID:11934	head and neck cancer	GO:0030155	regulation of cell adhesion	1.1948197986555442e-10	2.6351750659348028e-6	32	621	255	18671
+DOID:11934	head and neck cancer	GO:0031647	regulation of protein stability	1.2091327938890117e-10	2.6667423769222154e-6	19	214	255	18671
+DOID:11934	head and neck cancer	GO:0051384	response to glucocorticoid	1.3913892260575267e-10	3.068708938069875e-6	17	167	255	18671
+DOID:11934	head and neck cancer	GO:0051348	negative regulation of transferase activity	1.50195966774902e-10	3.3125720472204634e-6	24	357	255	18671
+DOID:11934	head and neck cancer	GO:0007507	heart development	1.5781709272744138e-10	3.4806559801037196e-6	28	487	255	18671
+DOID:11934	head and neck cancer	GO:0048511	rhythmic process	1.682021188997851e-10	3.70969773233476e-6	23	329	255	18671
+DOID:11934	head and neck cancer	GO:0048754	branching morphogenesis of an epithelial tube	1.8043455618510507e-10	3.979484136662492e-6	16	147	255	18671
+DOID:11934	head and neck cancer	GO:0098609	cell-cell adhesion	2.0127544075876358e-10	4.439129845934531e-6	38	867	255	18671
+DOID:11934	head and neck cancer	GO:0001503	ossification	2.087332529043806e-10	4.603611892806114e-6	24	363	255	18671
+DOID:11934	head and neck cancer	GO:0060284	regulation of cell development	2.1332036137522437e-10	4.704780570130573e-6	37	828	255	18671
+DOID:11934	head and neck cancer	GO:1901214	regulation of neuron death	2.554558786727057e-10	5.634079404126524e-6	20	250	255	18671
+DOID:11934	head and neck cancer	GO:0000904	cell morphogenesis involved in differentiation	2.991369374427677e-10	6.597465155300242e-6	34	720	255	18671
+DOID:11934	head and neck cancer	GO:0070848	response to growth factor	4.942918296890753e-10	1.0901606303792555e-5	31	621	255	18671
+DOID:11934	head and neck cancer	GO:0031329	regulation of cellular catabolic process	5.556903825976178e-10	1.2255751388190461e-5	31	624	255	18671
+DOID:11934	head and neck cancer	GO:0018108	peptidyl-tyrosine phosphorylation	6.97760071943776e-10	1.538909838671998e-5	23	354	255	18671
+DOID:11934	head and neck cancer	GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	7.137939128654125e-10	1.5742724748246673e-5	13	97	255	18671
+DOID:11934	head and neck cancer	GO:0048471	perinuclear region of cytoplasm	8.75801653421604e-10	1.9315805466213476e-5	31	636	255	18671
+DOID:11934	head and neck cancer	GO:0030855	epithelial cell differentiation	1.1113612252700023e-9	2.45110718233299e-5	29	568	255	18671
+DOID:11934	head and neck cancer	GO:0010631	epithelial cell migration	1.2366511148442783e-9	2.7274340337890557e-5	18	218	255	18671
+DOID:11934	head and neck cancer	GO:0010638	positive regulation of organelle organization	1.3552674538175324e-9	2.9890423693945678e-5	29	573	255	18671
+DOID:11934	head and neck cancer	GO:0030878	thyroid gland development	1.370159208313737e-9	3.021886133935947e-5	8	26	255	18671
+DOID:11934	head and neck cancer	GO:0042542	response to hydrogen peroxide	1.573281616096267e-9	3.469872604300317e-5	14	124	255	18671
+DOID:11934	head and neck cancer	GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	1.5742149805930694e-9	3.4719311396980146e-5	17	195	255	18671
+DOID:11934	head and neck cancer	GO:0007167	enzyme linked receptor protein signaling pathway	1.6004499947541717e-9	3.529792463430326e-5	38	935	255	18671
+DOID:11934	head and neck cancer	GO:0030522	intracellular receptor signaling pathway	1.9725224786881768e-9	4.350398326746774e-5	20	281	255	18671
+DOID:11934	head and neck cancer	GO:1903034	regulation of response to wounding	2.0280792600857467e-9	4.472928808119114e-5	24	407	255	18671
+DOID:11934	head and neck cancer	GO:0034614	cellular response to reactive oxygen species	2.1598084432028486e-9	4.7634575214838826e-5	14	127	255	18671
+DOID:11934	head and neck cancer	GO:0042063	gliogenesis	2.539347176977458e-9	5.600530198823783e-5	18	228	255	18671
+DOID:11934	head and neck cancer	GO:0001558	regulation of cell growth	2.587738801018702e-9	5.707257925646747e-5	23	379	255	18671
+DOID:11934	head and neck cancer	GO:0002521	leukocyte differentiation	2.833653423017779e-9	6.249622624465712e-5	25	448	255	18671
+DOID:11934	head and neck cancer	GO:0032870	cellular response to hormone stimulus	2.8966670173602438e-9	6.388599106788018e-5	27	519	255	18671
+DOID:11934	head and neck cancer	GO:0045926	negative regulation of growth	2.9180199367928594e-9	6.435692970596651e-5	18	230	255	18671
+DOID:11934	head and neck cancer	GO:0032147	activation of protein kinase activity	3.0161759756452966e-9	6.652176114285702e-5	20	288	255	18671
+DOID:11934	head and neck cancer	GO:0032496	response to lipopolysaccharide	3.1263911459689098e-9	6.89525567243443e-5	21	319	255	18671
+DOID:11934	head and neck cancer	GO:1902041	regulation of extrinsic apoptotic signaling pathway via death domain receptors	3.2276719075241544e-9	7.118630392044523e-5	10	55	255	18671
+DOID:11934	head and neck cancer	GO:0007610	behavior	3.5646716689541336e-9	7.861883365878342e-5	32	714	255	18671
+DOID:11934	head and neck cancer	GO:0005925	focal adhesion	4.0436416437472644e-9	8.918251645284592e-5	23	388	255	18671
+DOID:11934	head and neck cancer	GO:0031099	regeneration	4.2731579386057206e-9	9.424449833594917e-5	16	182	255	18671
+DOID:11934	head and neck cancer	GO:0048666	neuron development	4.2822155821298225e-9	9.444426466387323e-5	37	926	255	18671
+OMIM:185050	Platelet storage pool disease	GO:0007596	blood coagulation	1.39703626444998e-9	3.081163481244431e-5	24	352	289	18671
+OMIM:185050	Platelet storage pool disease	GO:0071456	cellular response to hypoxia	2.561037715231862e-9	5.6483686809438716e-5	15	134	289	18671
+OMIM:185050	Platelet storage pool disease	GO:0001889	liver development	2.8416901054484356e-9	6.267347527566525e-5	15	135	289	18671
+OMIM:185050	Platelet storage pool disease	GO:0006935	chemotaxis	4.176233692199105e-9	9.210683408145126e-5	29	530	289	18671
+DOID:898	polycystic kidney disease	GO:0042384	cilium assembly	6.463718449367661e-13	1.4255731040080377e-8	9	184	21	18671
+DOID:898	polycystic kidney disease	GO:0072001	renal system development	3.563905837111747e-10	7.860194323749958e-6	8	276	21	18671
+DOID:898	polycystic kidney disease	GO:0002009	morphogenesis of an epithelium	1.619748557502021e-9	3.572355443570707e-5	9	506	21	18671
+DOID:896	metal metabolism disorder	GO:0051353	positive regulation of oxidoreductase activity	1.6240553346591469e-10	3.5818540405907484e-6	7	45	64	18671
+DOID:896	metal metabolism disorder	GO:1902930	regulation of alcohol biosynthetic process	1.6240553346591469e-10	3.5818540405907484e-6	7	45	64	18671
+DOID:896	metal metabolism disorder	GO:0032940	secretion by cell	1.923258885483392e-9	4.241747471933621e-5	18	956	64	18671
+DOID:896	metal metabolism disorder	GO:0046915	transition metal ion transmembrane transporter activity	3.2324307674969077e-9	7.12912605771443e-5	6	38	64	18671
+DOID:890	mitochondrial encephalomyopathy	GO:0032981	mitochondrial respiratory chain complex I assembly	3.939726322954584e-11	8.689066405276336e-7	7	61	39	18671
+DOID:890	mitochondrial encephalomyopathy	GO:0008137	NADH dehydrogenase (ubiquinone) activity	4.261310193598433e-10	9.398319631981344e-6	6	45	39	18671
+DOID:890	mitochondrial encephalomyopathy	GO:0005747	mitochondrial respiratory chain complex I	6.389991868971379e-10	1.4093127067016376e-5	6	48	39	18671
+DOID:890	mitochondrial encephalomyopathy	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	1.1861800430779113e-9	2.6161200850083333e-5	6	53	39	18671
+DOID:890	mitochondrial encephalomyopathy	GO:0009055	electron carrier activity	3.655093450127822e-9	8.061308604256912e-5	7	115	39	18671
+DOID:0050865	tongue squamous cell carcinoma	GO:0042493	response to drug	7.412848113119708e-12	1.6349036513485515e-7	19	433	104	18671
+DOID:0050865	tongue squamous cell carcinoma	GO:0010038	response to metal ion	4.8966719567999917e-11	1.0799610000722382e-6	16	335	104	18671
+DOID:0050865	tongue squamous cell carcinoma	GO:0045944	positive regulation of transcription from RNA polymerase II promoter	8.400259376983854e-10	1.852677205593789e-5	24	996	104	18671
+DOID:0050865	tongue squamous cell carcinoma	GO:0097305	response to alcohol	1.99722149929471e-9	4.404872016694483e-5	15	369	104	18671
+DOID:0050865	tongue squamous cell carcinoma	GO:0043066	negative regulation of apoptotic process	2.2814528044534654e-9	5.031744160222118e-5	21	795	104	18671
+DOID:0050865	tongue squamous cell carcinoma	GO:0071456	cellular response to hypoxia	3.8044234429435164e-9	8.390655903411925e-5	10	134	104	18671
+DOID:0050815	eye adnexa disease	GO:0007268	synaptic transmission	3.681440929881319e-9	8.119417970853249e-5	18	605	101	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0035115	embryonic forelimb morphogenesis	3.1530333899354446e-14	6.954015141502623e-10	11	32	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0001701	in utero embryonic development	1.5976109324356003e-13	3.5235309114867164e-9	22	312	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0048754	branching morphogenesis of an epithelial tube	3.540501225529624e-13	7.808575452905586e-9	16	147	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0001942	hair follicle development	7.465139617579553e-13	1.6464365426571703e-8	13	80	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0007548	sex differentiation	8.378853166846056e-13	1.8479560659478977e-8	20	274	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0030324	lung development	8.874012635828876e-13	1.9571634868320587e-8	17	175	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0035116	embryonic hindlimb morphogenesis	4.245936935376449e-12	9.364413910972758e-8	9	29	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:2000648	positive regulation of stem cell proliferation	1.1372458530445329e-11	2.508195728889717e-7	11	61	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0045165	cell fate commitment	1.739219879226539e-11	3.8358494436341317e-7	18	243	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0006661	phosphatidylinositol biosynthetic process	1.739797195199344e-11	3.8371227140121533e-7	14	127	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0000122	negative regulation of transcription from RNA polymerase II promoter	2.2501334129287898e-11	4.962669242214446e-7	30	732	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0060021	palate development	2.6065261060637113e-11	5.748693326923515e-7	12	85	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0048546	digestive tract morphogenesis	2.716005198521998e-11	5.990149465340266e-7	10	49	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0030279	negative regulation of ossification	3.9235392712555495e-11	8.653365862754114e-7	11	68	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0035148	tube formation	3.5248592933356804e-10	7.774077171451843e-6	13	131	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0061053	somite development	4.725373425884527e-10	1.0421811090788324e-5	11	85	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0009952	anterior/posterior pattern specification	7.353010422761486e-10	1.6217064487400457e-5	15	199	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0003205	cardiac chamber development	9.648040144583092e-10	2.127875253887801e-5	13	142	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0000785	chromatin	1.1833044544218296e-9	2.6097779742273453e-5	21	438	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0001944	vasculature development	1.7722266987263424e-9	3.908645984040948e-5	24	588	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0000975	regulatory region DNA binding	2.8564657306162644e-9	6.299935168874171e-5	28	810	177	18671
+Orphanet:364568	Dysostosis with limb anomaly as a major feature	GO:0001947	heart looping	3.6028138250543407e-9	7.946005891157348e-5	9	58	177	18671
+DOID:0050811	congenital adrenal hyperplasia	GO:0042446	hormone biosynthetic process	1.0791367799356522e-13	2.380036168148081e-9	7	63	13	18671
+DOID:0050811	congenital adrenal hyperplasia	GO:0006704	glucocorticoid biosynthetic process	4.2443826231419735e-13	9.360985875339622e-9	5	17	13	18671
+DOID:0050811	congenital adrenal hyperplasia	GO:0032870	cellular response to hormone stimulus	7.430944748421098e-12	1.638894864264273e-7	9	519	13	18671
+DOID:0050811	congenital adrenal hyperplasia	GO:0016125	sterol metabolic process	1.835515073267402e-10	4.048228494091255e-6	6	132	13	18671
+DOID:0050811	congenital adrenal hyperplasia	GO:0008395	steroid hydroxylase activity	4.398264308314026e-9	9.700371931986584e-5	4	31	13	18671
+DOID:0050811	congenital adrenal hyperplasia	GO:0008207	C21-steroid hormone metabolic process	4.398264308314026e-9	9.700371931986584e-5	4	31	13	18671
+DOID:0050811	congenital adrenal hyperplasia	GO:1901652	response to peptide	4.450102730757521e-9	9.814701572685713e-5	7	423	13	18671
+DOID:11971	synostosis	GO:0002062	chondrocyte differentiation	9.728884364790247e-13	2.145705446654489e-8	10	95	65	18671
+DOID:11971	synostosis	GO:0042471	ear morphogenesis	5.99276184232167e-12	1.3217036243240443e-7	10	112	65	18671
+DOID:11971	synostosis	GO:0050678	regulation of epithelial cell proliferation	1.1747602890466169e-11	2.5909338174923136e-7	13	277	65	18671
+DOID:11971	synostosis	GO:0048839	inner ear development	1.423983153614472e-11	3.140594845296718e-7	11	170	65	18671
+DOID:11971	synostosis	GO:0001658	branching involved in ureteric bud morphogenesis	2.6649238371589945e-11	5.877489522854162e-7	8	59	65	18671
+DOID:11971	synostosis	GO:0008589	regulation of smoothened signaling pathway	4.030231703922027e-11	8.888676023000031e-7	8	62	65	18671
+DOID:11971	synostosis	GO:0016331	morphogenesis of embryonic epithelium	5.4676929650554484e-11	1.2058996834429792e-6	10	141	65	18671
+DOID:11971	synostosis	GO:0009952	anterior/posterior pattern specification	8.22364398800346e-11	1.813724681554163e-6	11	199	65	18671
+DOID:11971	synostosis	GO:0060541	respiratory system development	9.66744462260749e-11	2.132154911516082e-6	11	202	65	18671
+DOID:11971	synostosis	GO:0008285	negative regulation of cell proliferation	3.579162521916146e-10	7.89384294208606e-6	16	634	65	18671
+DOID:11971	synostosis	GO:0045944	positive regulation of transcription from RNA polymerase II promoter	6.618484649223433e-10	1.4597067893862281e-5	19	996	65	18671
+DOID:11971	synostosis	GO:0045165	cell fate commitment	6.998204238328753e-10	1.5434539447634066e-5	11	243	65	18671
+DOID:11971	synostosis	GO:0072089	stem cell proliferation	1.214190969989204e-9	2.6778981843111893e-5	9	139	65	18671
+DOID:11971	synostosis	GO:0045596	negative regulation of cell differentiation	1.4828874794758917e-9	3.270508335984079e-5	15	597	65	18671
+DOID:11971	synostosis	GO:0061035	regulation of cartilage development	2.1095233337931063e-9	4.652553712680696e-5	7	63	65	18671
+DOID:11971	synostosis	GO:0060284	regulation of cell development	2.1276067574405033e-9	4.69243670353503e-5	17	828	65	18671
+DOID:11971	synostosis	GO:0048557	embryonic digestive tract morphogenesis	2.6189215240890462e-9	5.7760314213783914e-5	5	17	65	18671
+DOID:11971	synostosis	GO:0035137	hindlimb morphogenesis	3.0025821828871813e-9	6.622195004357678e-5	6	37	65	18671
+DOID:11971	synostosis	GO:0060038	cardiac muscle cell proliferation	3.5559121203121435e-9	7.842564181348433e-5	6	38	65	18671
+DOID:11971	synostosis	GO:0001759	organ induction	3.616505539483228e-9	7.976202967330259e-5	5	18	65	18671
+DOID:11971	synostosis	GO:0001707	mesoderm formation	3.646253521338849e-9	8.041812141312832e-5	7	68	65	18671
+DOID:11971	synostosis	GO:0030279	negative regulation of ossification	3.646253521338849e-9	8.041812141312832e-5	7	68	65	18671
+DOID:0050832	pyrimidine metabolic disorder	GO:0046135	pyrimidine nucleoside catabolic process	6.624700787938309e-13	1.461077758779794e-8	5	22	11	18671
+DOID:0050832	pyrimidine metabolic disorder	GO:0006206	pyrimidine nucleobase metabolic process	2.5160329375495394e-10	5.549110643765509e-6	4	19	11	18671
+DOID:0050832	pyrimidine metabolic disorder	GO:0019482	beta-alanine metabolic process	6.08308403649005e-10	1.3416241842478804e-5	3	4	11	18671
+DOID:11984	hypertrophic cardiomyopathy	GO:0002026	regulation of the force of heart contraction	2.745137450688162e-12	6.054400647492741e-8	9	29	169	18671
+DOID:11984	hypertrophic cardiomyopathy	GO:0043066	negative regulation of apoptotic process	3.886613253456517e-11	8.571925530498348e-7	30	795	169	18671
+DOID:11984	hypertrophic cardiomyopathy	GO:0010243	response to organonitrogen compound	1.961740658806832e-9	4.326619022998468e-5	27	780	169	18671
+DOID:11984	hypertrophic cardiomyopathy	GO:0016655	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	2.807542864857737e-9	6.19203578844374e-5	9	59	169	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0007601	visual perception	1.9917401061775308e-13	4.392782804174544e-9	19	207	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0001750	photoreceptor outer segment	1.5543122344752192e-15	3.428035633135096e-11	9	69	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0045494	photoreceptor cell maintenance	8.01581023779363e-14	1.7678869479453851e-9	7	34	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0060170	ciliary membrane	2.141398169897002e-12	4.722853663707838e-8	7	79	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0060041	retina development in camera-type eye	7.625633458019365e-11	1.681833459166171e-6	7	131	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0022400	regulation of rhodopsin mediated signaling pathway	1.2571799157257146e-10	2.7727103041330636e-6	5	29	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0001917	photoreceptor inner segment	3.9704983745281197e-10	8.756934165021768e-6	5	36	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0001523	retinoid metabolic process	4.726982139047209e-10	1.042535910766862e-5	6	88	21	18671
+OMIM:268000	Retinitis Pigmentosa	GO:0046530	photoreceptor cell differentiation	2.209204708059076e-9	4.872400983624292e-5	5	50	21	18671
+DOID:0050828	artery disease	GO:0071375	cellular response to peptide hormone stimulus	4.2033043712308427e-13	9.270387790749623e-9	43	285	689	18671
+DOID:0050828	artery disease	GO:0032147	activation of protein kinase activity	1.8851586958135158e-13	4.157717503616709e-9	41	288	689	18671
+DOID:0050828	artery disease	GO:0071229	cellular response to acid chemical	1.3566925360919413e-13	2.9921853883507765e-9	33	174	689	18671
+DOID:0050828	artery disease	GO:0048662	negative regulation of smooth muscle cell proliferation	1.2501111257279263e-13	2.7571200877929414e-9	16	36	689	18671
+DOID:0050828	artery disease	GO:0031093	platelet alpha granule lumen	2.930988785010413e-14	6.464295765340466e-10	20	55	689	18671
+DOID:0050828	artery disease	GO:0010743	regulation of macrophage derived foam cell differentiation	5.329070518200751e-15	1.1753265027891757e-10	15	28	689	18671
+DOID:0050828	artery disease	GO:0030324	lung development	5.040412531798211e-14	1.1116629838880954e-9	32	175	689	18671
+DOID:0050828	artery disease	GO:0071260	cellular response to mechanical stimulus	1.4588330543574557e-13	3.2174563013853685e-9	23	80	689	18671
+DOID:0050828	artery disease	GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	1.5687451337953462e-13	3.459867392585636e-9	17	45	689	18671
+DOID:0050828	artery disease	GO:0071312	cellular response to alkaloid	1.7918999617450027e-13	3.952035365628603e-9	15	34	689	18671
+DOID:0050828	artery disease	GO:0030879	mammary gland development	1.9806378759312793e-13	4.3682968353664364e-9	27	128	689	18671
+DOID:0050828	artery disease	GO:0090303	positive regulation of wound healing	2.511324481702104e-13	5.5387261443939906e-9	17	47	689	18671
+DOID:0050828	artery disease	GO:0005901	caveola	4.235500838944972e-13	9.341397100293136e-9	21	75	689	18671
+DOID:0050828	artery disease	GO:2001235	positive regulation of apoptotic signaling pathway	4.2676973066591017e-13	9.412406409836649e-9	35	168	689	18671
+DOID:0050828	artery disease	GO:0014910	regulation of smooth muscle cell migration	6.31272811801864e-13	1.392272186429011e-8	17	49	689	18671
+DOID:0050828	artery disease	GO:0046034	ATP metabolic process	9.593437155785978e-13	2.1158325647085974e-8	41	230	689	18671
+DOID:0050828	artery disease	GO:0071248	cellular response to metal ion	1.2465584120491258e-12	2.749284577774347e-8	27	136	689	18671
+DOID:0050828	artery disease	GO:0032412	regulation of ion transmembrane transporter activity	1.4593881658697683e-12	3.218680599825774e-8	30	174	689	18671
+DOID:0050828	artery disease	GO:0055119	relaxation of cardiac muscle	1.6021628468365634e-12	3.5335701586980406e-8	11	17	689	18671
+DOID:0050828	artery disease	GO:0046677	response to antibiotic	2.3798740755864856e-12	5.248812273705994e-8	16	45	689	18671
+DOID:0050828	artery disease	GO:0043235	receptor complex	2.6429969324226477e-12	5.8291297344581494e-8	43	318	689	18671
+DOID:0050828	artery disease	GO:0001938	positive regulation of endothelial cell proliferation	3.043787444312329e-12	6.713073208430842e-8	19	68	689	18671
+DOID:0050828	artery disease	GO:1904019	epithelial cell apoptotic process	3.5973446443904322e-12	7.933943613203098e-8	20	77	689	18671
+DOID:0050828	artery disease	GO:0030336	negative regulation of cell migration	3.711142504414511e-12	8.184924793486203e-8	32	204	689	18671
+DOID:0050828	artery disease	GO:0014823	response to activity	3.754552224677354e-12	8.280664931525905e-8	19	69	689	18671
+DOID:0050828	artery disease	GO:0002683	negative regulation of immune system process	4.142686194086309e-12	9.136694401057355e-8	45	359	689	18671
+DOID:0050828	artery disease	GO:0030855	epithelial cell differentiation	5.124900503972185e-12	1.1302968061510654e-7	59	568	689	18671
+DOID:0050828	artery disease	GO:0045907	positive regulation of vasoconstriction	5.266564961914355e-12	1.161540902350211e-7	14	34	689	18671
+DOID:0050828	artery disease	GO:0007623	circadian rhythm	6.619704784327496e-12	1.4599758901834292e-7	31	196	689	18671
+DOID:0050828	artery disease	GO:0042391	regulation of membrane potential	6.738831714869775e-12	1.486249334714529e-7	42	340	689	18671
+DOID:0050828	artery disease	GO:0032941	secretion by tissue	9.652945109905886e-12	2.1289570439897432e-7	20	81	689	18671
+DOID:0050828	artery disease	GO:0050728	negative regulation of inflammatory response	1.0632494884532662e-11	2.3449967467836785e-7	22	100	689	18671
+DOID:0050828	artery disease	GO:0048145	regulation of fibroblast proliferation	1.2234324664461838e-11	2.6982803047470583e-7	20	82	689	18671
+DOID:0050828	artery disease	GO:0042803	protein homodimerization activity	1.3228529383013665e-11	2.917552155423664e-7	69	703	689	18671
+DOID:0050828	artery disease	GO:0042692	muscle cell differentiation	1.3593792758115342e-11	2.9981109928023386e-7	41	334	689	18671
+DOID:0050828	artery disease	GO:0090287	regulation of cellular response to growth factor stimulus	1.5299539413149432e-11	3.3743134175701073e-7	33	226	689	18671
+DOID:0050828	artery disease	GO:0044087	regulation of cellular component biogenesis	1.864997045686323e-11	4.1132509842611853e-7	67	735	689	18671
+DOID:0050828	artery disease	GO:0019901	protein kinase binding	2.0150325852341666e-11	4.4441543667339545e-7	54	532	689	18671
+DOID:0050828	artery disease	GO:0007517	muscle organ development	2.5816015991608765e-11	5.693722326949313e-7	41	340	689	18671
+DOID:0050828	artery disease	GO:0008134	transcription factor binding	2.7773672250930304e-11	6.125483414942678e-7	53	518	689	18671
+DOID:0050828	artery disease	GO:0014031	mesenchymal cell development	3.22866178237291e-11	7.120813561023454e-7	28	171	689	18671
+DOID:0050828	artery disease	GO:0002761	regulation of myeloid leukocyte differentiation	3.54685170123048e-11	7.822581427063824e-7	22	106	689	18671
+DOID:0050828	artery disease	GO:0044236	multicellular organismal metabolic process	3.746192245301927e-11	8.2622269970134e-7	24	127	689	18671
+DOID:0050828	artery disease	GO:0034614	cellular response to reactive oxygen species	3.746192245301927e-11	8.2622269970134e-7	24	127	689	18671
+DOID:0050828	artery disease	GO:0045940	positive regulation of steroid metabolic process	4.0237257969977236e-11	8.874327245278479e-7	11	21	689	18671
+DOID:0050828	artery disease	GO:0048037	cofactor binding	4.113465124078175e-11	9.072247331154415e-7	35	261	689	18671
+DOID:0050828	artery disease	GO:0043025	neuronal cell body	4.6013526322497e-11	1.0148283230426713e-6	47	434	689	18671
+DOID:0050828	artery disease	GO:0045639	positive regulation of myeloid cell differentiation	5.174494166482191e-11	1.1412346884176472e-6	19	79	689	18671
+DOID:0050828	artery disease	GO:0042306	regulation of protein import into nucleus	5.619982257343281e-11	1.2394870868570607e-6	28	175	689	18671
+DOID:0050828	artery disease	GO:0032735	positive regulation of interleukin-12 production	6.090317139495482e-11	1.3432194451157287e-6	13	33	689	18671
+DOID:0050828	artery disease	GO:0051781	positive regulation of cell division	6.244060823945574e-11	1.3771276147211964e-6	24	130	689	18671
+DOID:0050828	artery disease	GO:0042129	regulation of T cell proliferation	7.374623134381864e-11	1.62647313228792e-6	25	142	689	18671
+DOID:0050828	artery disease	GO:0030278	regulation of ossification	7.398970325311893e-11	1.631842905247538e-6	28	177	689	18671
+DOID:0050828	artery disease	GO:0007420	brain development	7.773970356339532e-11	1.7145491620906839e-6	61	669	689	18671
+DOID:0050828	artery disease	GO:0086064	cell communication by electrical coupling involved in cardiac conduction	7.78321851413466e-11	1.7165888432923992e-6	11	22	689	18671
+DOID:0050828	artery disease	GO:0018105	peptidyl-serine phosphorylation	8.148393071394366e-11	1.7971280918960275e-6	33	241	689	18671
+DOID:0050828	artery disease	GO:0019838	growth factor binding	8.469702716951133e-11	1.8679929342235724e-6	23	121	689	18671
+DOID:0050828	artery disease	GO:0022408	negative regulation of cell-cell adhesion	8.73144889723676e-11	1.9257210542855674e-6	24	132	689	18671
+DOID:0050828	artery disease	GO:0001818	negative regulation of cytokine production	8.8478779858292e-11	1.95139948977463e-6	30	203	689	18671
+DOID:0050828	artery disease	GO:0043491	protein kinase B signaling	1.0021239393864789e-10	2.2101843483168793e-6	25	144	689	18671
+DOID:0050828	artery disease	GO:0033344	cholesterol efflux	1.0657730253882391e-10	2.3505624074937614e-6	14	41	689	18671
+DOID:0050828	artery disease	GO:0044262	cellular carbohydrate metabolic process	1.1395451249285315e-10	2.5132667730298763e-6	35	271	689	18671
+DOID:0050828	artery disease	GO:0048598	embryonic morphogenesis	1.2196055276803008e-10	2.6898399912989035e-6	54	560	689	18671
+DOID:0050828	artery disease	GO:0003300	cardiac muscle hypertrophy	1.404852900677156e-10	3.0984030724434675e-6	16	57	689	18671
+DOID:0050828	artery disease	GO:0051928	positive regulation of calcium ion transport	1.7191559287255131e-10	3.7915984008041193e-6	21	104	689	18671
+DOID:0050828	artery disease	GO:0022602	ovulation cycle process	1.7355417103459558e-10	3.827737242168006e-6	20	94	689	18671
+DOID:0050828	artery disease	GO:0051592	response to calcium ion	1.916390379719246e-10	4.226598982470797e-6	22	115	689	18671
+DOID:0050828	artery disease	GO:0070851	growth factor receptor binding	1.9850654453534844e-10	4.37806183972711e-6	23	126	689	18671
+DOID:0050828	artery disease	GO:0008625	extrinsic apoptotic signaling pathway via death domain receptors	2.0145674017868487e-10	4.443128404640895e-6	19	85	689	18671
+DOID:0050828	artery disease	GO:0050671	positive regulation of lymphocyte proliferation	2.3391399928129886e-10	5.158973254149046e-6	23	127	689	18671
+DOID:0050828	artery disease	GO:0010770	positive regulation of cell morphogenesis involved in differentiation	2.55164778195649e-10	5.627659183105038e-6	26	162	689	18671
+DOID:0050828	artery disease	GO:0045088	regulation of innate immune response	2.563906864594401e-10	5.654696589862951e-6	40	351	689	18671
+DOID:0050828	artery disease	GO:0046688	response to copper ion	2.724638292761483e-10	6.009189754685451e-6	12	30	689	18671
+DOID:0050828	artery disease	GO:0071901	negative regulation of protein serine/threonine kinase activity	2.7538971103524545e-10	6.0737200768823385e-6	23	128	689	18671
+DOID:0050828	artery disease	GO:0050764	regulation of phagocytosis	2.781186392297741e-10	6.1339065882126675e-6	17	68	689	18671
+DOID:0050828	artery disease	GO:0022409	positive regulation of cell-cell adhesion	2.8352942216258725e-10	6.253241405795862e-6	32	239	689	18671
+DOID:0050828	artery disease	GO:0035994	response to muscle stretch	3.001385806555845e-10	6.6195563963589166e-6	10	19	689	18671
+DOID:0050828	artery disease	GO:0042594	response to starvation	3.3062197424271744e-10	7.291867641923133e-6	25	152	689	18671
+DOID:0050828	artery disease	GO:0032374	regulation of cholesterol transport	3.3073888072721047e-10	7.294446014438627e-6	13	37	689	18671
+DOID:0050828	artery disease	GO:0048638	regulation of developmental growth	3.760433076038794e-10	8.29363514920356e-6	35	283	689	18671
+DOID:0050828	artery disease	GO:1904062	regulation of cation transmembrane transport	3.8597791629513267e-10	8.512742943889151e-6	26	165	689	18671
+DOID:0050828	artery disease	GO:0043618	regulation of transcription from RNA polymerase II promoter in response to stress	4.292155519891594e-10	9.46634899912091e-6	16	61	689	18671
+DOID:0050828	artery disease	GO:0019217	regulation of fatty acid metabolic process	4.326956570821494e-10	9.543102716946805e-6	18	79	689	18671
+DOID:0050828	artery disease	GO:0050804	modulation of synaptic transmission	4.5715731200601795e-10	1.0082604516292726e-5	35	285	689	18671
+DOID:0050828	artery disease	GO:0007613	memory	4.634927996960414e-10	1.0222333697296193e-5	20	99	689	18671
+DOID:0050828	artery disease	GO:0001659	temperature homeostasis	4.859270763546419e-10	1.0717121669001628e-5	13	38	689	18671
+DOID:0050828	artery disease	GO:0034374	low-density lipoprotein particle remodeling	4.94184471122594e-10	1.089923851060881e-5	8	11	689	18671
+DOID:0050828	artery disease	GO:0002819	regulation of adaptive immune response	5.320321960766705e-10	1.1733970084470968e-5	22	121	689	18671
+DOID:0050828	artery disease	GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	5.589726459476196e-10	1.2328141706374751e-5	16	62	689	18671
+DOID:0050828	artery disease	GO:0002367	cytokine production involved in immune response	5.772285982530434e-10	1.2730776734470872e-5	17	71	689	18671
+DOID:0050828	artery disease	GO:0043534	blood vessel endothelial cell migration	5.772285982530434e-10	1.2730776734470872e-5	17	71	689	18671
+DOID:0050828	artery disease	GO:0048738	cardiac muscle tissue development	5.779104972347682e-10	1.2745816016512812e-5	26	168	689	18671
+DOID:0050828	artery disease	GO:0043525	positive regulation of neuron apoptotic process	6.116976924985806e-10	1.3490992608056196e-5	14	46	689	18671
+DOID:0050828	artery disease	GO:0032403	protein complex binding	6.279723407942583e-10	1.3849929976217368e-5	73	924	689	18671
+DOID:0050828	artery disease	GO:0050796	regulation of insulin secretion	6.59638343947222e-10	1.454832367575598e-5	26	169	689	18671
+DOID:0050828	artery disease	GO:0010506	regulation of autophagy	6.637518312757607e-10	1.4639046638786901e-5	32	247	689	18671
+DOID:0050828	artery disease	GO:0010634	positive regulation of epithelial cell migration	6.739950819678597e-10	1.4864961532801146e-5	20	101	689	18671
+DOID:0050828	artery disease	GO:0048010	vascular endothelial growth factor receptor signaling pathway	6.983137401661565e-10	1.5401309539364583e-5	19	91	689	18671
+DOID:0050828	artery disease	GO:0050767	regulation of neurogenesis	7.626962394979842e-10	1.682126556212804e-5	58	658	689	18671
+DOID:0050828	artery disease	GO:0051591	response to cAMP	8.099753090462514e-10	1.7864005441015074e-5	20	102	689	18671
+DOID:0050828	artery disease	GO:0051726	regulation of cell cycle	8.309190002719902e-10	1.8325918550998743e-5	73	930	689	18671
+DOID:0050828	artery disease	GO:0045444	fat cell differentiation	8.349304581045658e-10	1.84143912534962e-5	28	196	689	18671
+DOID:0050828	artery disease	GO:0086004	regulation of cardiac muscle cell contraction	8.418258312659077e-10	1.8566468708569595e-5	14	47	689	18671
+DOID:0050828	artery disease	GO:0008637	apoptotic mitochondrial changes	8.64681548584656e-10	1.9070551554034587e-5	21	113	689	18671
+DOID:0050828	artery disease	GO:0008083	growth factor activity	8.802150119890939e-10	1.9413142089419466e-5	25	159	689	18671
+DOID:0050828	artery disease	GO:0032637	interleukin-8 production	9.32297239408797e-10	2.0561815615161017e-5	16	64	689	18671
+DOID:0050828	artery disease	GO:0071548	response to dexamethasone	1.009503258764255e-9	2.2264594372045643e-5	12	33	689	18671
+DOID:0050828	artery disease	GO:1900182	positive regulation of protein localization to nucleus	1.014913042496346e-9	2.238390715225691e-5	22	125	689	18671
+DOID:0050828	artery disease	GO:0046849	bone remodeling	1.1537155675256372e-9	2.544519684177793e-5	17	74	689	18671
+DOID:0050828	artery disease	GO:0030522	intracellular receptor signaling pathway	1.2036710517193683e-9	2.6546965045670667e-5	34	281	689	18671
+DOID:0050828	artery disease	GO:0042730	fibrinolysis	1.213933398247491e-9	2.6773301098348412e-5	11	27	689	18671
+DOID:0050828	artery disease	GO:0030593	neutrophil chemotaxis	1.2570507967879507e-9	2.7724255323158253e-5	18	84	689	18671
+DOID:0050828	artery disease	GO:0001890	placenta development	1.290866746828101e-9	2.8470066101293767e-5	23	138	689	18671
+DOID:0050828	artery disease	GO:0050709	negative regulation of protein secretion	1.3855273595098083e-9	3.055780591398882e-5	20	105	689	18671
+DOID:0050828	artery disease	GO:0017127	cholesterol transporter activity	1.434525942478615e-9	3.163846966136585e-5	8	12	689	18671
+DOID:0050828	artery disease	GO:0043900	regulation of multi-organism process	1.4683817495253493e-9	3.238515948578158e-5	46	467	689	18671
+DOID:0050828	artery disease	GO:0002757	immune response-activating signal transduction	1.4705860973407425e-9	3.2433776376850076e-5	43	419	689	18671
+DOID:0050828	artery disease	GO:0070588	calcium ion transmembrane transport	1.48509160524668e-9	3.275369535371553e-5	27	188	689	18671
+DOID:0050828	artery disease	GO:0050715	positive regulation of cytokine secretion	1.5091036198455754e-9	3.3283280335694165e-5	19	95	689	18671
+DOID:0050828	artery disease	GO:0098542	defense response to other organism	1.5133931885458196e-9	3.337788677337805e-5	51	550	689	18671
+DOID:0050828	artery disease	GO:0032612	interleukin-1 production	1.5240243511627227e-9	3.361235706489385e-5	16	66	689	18671
+DOID:0050828	artery disease	GO:0019904	protein domain specific binding	1.5910772699356812e-9	3.509120918843145e-5	55	619	689	18671
+DOID:0050828	artery disease	GO:0031625	ubiquitin protein ligase binding	1.8174139970739134e-9	4.008306570546516e-5	32	257	689	18671
+DOID:0050828	artery disease	GO:0010460	positive regulation of heart rate	1.899683521600082e-9	4.1897520068889804e-5	10	22	689	18671
+DOID:0050828	artery disease	GO:0045822	negative regulation of heart contraction	1.899683521600082e-9	4.1897520068889804e-5	10	22	689	18671
+DOID:0050828	artery disease	GO:0042509	regulation of tyrosine phosphorylation of STAT protein	1.93441684892548e-9	4.266356360305146e-5	16	67	689	18671
+DOID:0050828	artery disease	GO:0046824	positive regulation of nucleocytoplasmic transport	1.9730874711854085e-9	4.3516444176994185e-5	21	118	689	18671
+DOID:0050828	artery disease	GO:0060562	epithelial tube morphogenesis	1.9981075682906635e-9	4.406826241865058e-5	35	301	689	18671
+DOID:0050828	artery disease	GO:0010332	response to gamma radiation	2.0855477345094187e-9	4.599675528460523e-5	14	50	689	18671
+DOID:0050828	artery disease	GO:0032570	response to progesterone	2.0855477345094187e-9	4.599675528460523e-5	14	50	689	18671
+DOID:0050828	artery disease	GO:0022600	digestive system process	2.292439127415946e-9	5.055974495515869e-5	18	87	689	18671
+DOID:0050828	artery disease	GO:0061138	morphogenesis of a branching epithelium	2.33732222465477e-9	5.154964166476095e-5	26	179	689	18671
+DOID:0050828	artery disease	GO:0043406	positive regulation of MAP kinase activity	2.356300821126922e-9	5.1968214609954266e-5	28	205	689	18671
+DOID:0050828	artery disease	GO:0032755	positive regulation of interleukin-6 production	2.444128566203574e-9	5.390525552761982e-5	16	68	689	18671
+DOID:0050828	artery disease	GO:0033198	response to ATP	3.0108631143832554e-9	6.64045859877227e-5	11	29	689	18671
+DOID:0050828	artery disease	GO:0002548	monocyte chemotaxis	3.12937487034759e-9	6.90183627655161e-5	15	60	689	18671
+DOID:0050828	artery disease	GO:0006940	regulation of smooth muscle contraction	3.12937487034759e-9	6.90183627655161e-5	15	60	689	18671
+DOID:0050828	artery disease	GO:0006112	energy reserve metabolic process	3.37161520924667e-9	7.436097343993531e-5	18	89	689	18671
+DOID:0050828	artery disease	GO:0005496	steroid binding	3.37161520924667e-9	7.436097343993531e-5	18	89	689	18671
+DOID:0050828	artery disease	GO:0098869	cellular oxidant detoxification	3.382155888687066e-9	7.459344812499324e-5	17	79	689	18671
+DOID:0050828	artery disease	GO:0034103	regulation of tissue remodeling	4.0100986975488695e-9	8.844272677444032e-5	15	61	689	18671
+DOID:0050828	artery disease	GO:0051279	regulation of release of sequestered calcium ion into cytosol	4.0100986975488695e-9	8.844272677444032e-5	15	61	689	18671
+DOID:0050828	artery disease	GO:0048471	perinuclear region of cytoplasm	4.1872708633761135e-9	9.235025889176018e-5	55	636	689	18671
+DOID:0050828	artery disease	GO:0071333	cellular response to glucose stimulus	4.4957370048948064e-9	9.915347964295496e-5	20	112	689	18671
+DOID:0050828	artery disease	GO:0002706	regulation of lymphocyte mediated immunity	4.4957370048948064e-9	9.915347964295496e-5	20	112	689	18671
+DOID:6457	Cowden disease	GO:0000104	succinate dehydrogenase activity	4.4242398633542734e-10	9.75766101862785e-6	3	4	10	18671
+DOID:6457	Cowden disease	GO:0005749	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)	4.4242398633542734e-10	9.75766101862785e-6	3	4	10	18671
+Orphanet:364526	Primary bone dysplasia	GO:0001958	endochondral ossification	3.042011087472929e-14	6.709155453421545e-10	12	26	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0030326	embryonic limb morphogenesis	2.8888003100746573e-13	6.371249083869657e-9	17	125	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0002063	chondrocyte development	9.608647211223342e-12	2.1191871424353081e-7	9	25	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0030509	BMP signaling pathway	1.1940892719053409e-11	2.6335638891872293e-7	16	136	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0048706	embryonic skeletal system development	2.7823299220131048e-11	6.136428642999903e-7	15	122	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0045597	positive regulation of cell differentiation	3.8322789386313616e-11	8.452091199151468e-7	36	815	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0030500	regulation of bone mineralization	4.3817616202090903e-11	9.663975253371149e-7	12	69	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0001704	formation of primary germ layer	1.872656474333212e-10	4.130143854141899e-6	14	117	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0009953	dorsal/ventral pattern formation	2.604032545150403e-10	5.743193778329214e-6	13	99	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0048729	tissue morphogenesis	2.913632668466448e-10	6.4260168503027515e-6	30	635	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0009725	response to hormone	5.42180966789374e-10	1.1957801222539644e-5	35	865	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0030574	collagen catabolic process	5.475428999091037e-10	1.2076058657495281e-5	11	67	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0035295	tube development	5.499298794120477e-10	1.2128703490432713e-5	28	573	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0045667	regulation of osteoblast differentiation	1.1090712792594104e-9	2.4460567064066296e-5	13	111	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0050680	negative regulation of epithelial cell proliferation	1.2413621242046702e-9	2.7378241649334e-5	13	112	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0003416	endochondral bone growth	2.6576595368865696e-9	5.8614681086033293e-5	7	20	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0030166	proteoglycan biosynthetic process	2.9114245458927712e-9	6.421146835966507e-5	10	60	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0090287	regulation of cellular response to growth factor stimulus	3.123824976469791e-9	6.889595985604124e-5	17	226	230	18671
+Orphanet:364526	Primary bone dysplasia	GO:0060351	cartilage development involved in endochondral bone morphogenesis	3.944855664350655e-9	8.70037916772537e-5	7	21	230	18671
+DOID:6432	pulmonary hypertension	GO:0014070	response to organic cyclic compound	3.153366456842832e-10	6.954749720566866e-6	14	873	36	18671
+DOID:6432	pulmonary hypertension	GO:0033993	response to lipid	2.871515469848873e-9	6.33312736875169e-5	13	850	36	18671
+DOID:6432	pulmonary hypertension	GO:0042311	vasodilation	3.328982423056459e-9	7.34207073405102e-5	6	68	36	18671
+OMIM:256000	Leigh syndrome with cardiomyopathy	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	7.016609515630989e-14	1.5475132286724147e-9	16	53	34	18671
+OMIM:256000	Leigh syndrome with cardiomyopathy	GO:0005747	mitochondrial respiratory chain complex I	3.552713678800501e-14	7.835510018594505e-10	15	48	34	18671
+OMIM:256000	Leigh syndrome with cardiomyopathy	GO:0032981	mitochondrial respiratory chain complex I assembly	4.929390229335695e-14	1.0871770150799875e-9	19	61	34	18671
+OMIM:256000	Leigh syndrome with cardiomyopathy	GO:0008137	NADH dehydrogenase (ubiquinone) activity	1.1446399383885364e-13	2.524503384115917e-9	16	45	34	18671
+OMIM:256000	Leigh syndrome with cardiomyopathy	GO:0008535	respiratory chain complex IV assembly	1.2405310112484358e-10	2.735991145308425e-6	5	18	34	18671
+OMIM:256000	Leigh syndrome with cardiomyopathy	GO:0009060	aerobic respiration	1.30850708046637e-9	2.8859123659685793e-5	6	62	34	18671
+OMIM:256000	Leigh syndrome with cardiomyopathy	GO:0009055	electron carrier activity	1.3113958807764448e-9	2.892283615052449e-5	7	115	34	18671
+DOID:820	myocarditis	GO:0015651	quaternary ammonium group transmembrane transporter activity	5.160798455250415e-10	1.138214099305479e-5	3	8	5	18671
+OMIM:604571	MHC class I deficiency	GO:0042825	TAP complex	9.275913370743183e-13	2.045802693917409e-8	3	3	3	18671
+OMIM:604571	MHC class I deficiency	GO:0015440	peptide-transporting ATPase activity	3.687494753989995e-12	8.132769679924934e-8	3	4	3	18671
+OMIM:604571	MHC class I deficiency	GO:0046978	TAP1 binding	3.687494753989995e-12	8.132769679924934e-8	3	4	3	18671
+OMIM:604571	MHC class I deficiency	GO:0019885	antigen processing and presentation of endogenous peptide antigen via MHC class I	1.5213075243991625e-10	3.355243745062353e-6	3	11	3	18671
+OMIM:604571	MHC class I deficiency	GO:0042287	MHC protein binding	2.6968018929096615e-9	5.9477965748122585e-5	3	27	3	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0007568	aging	2.604261251093476e-11	5.743698189286661e-7	18	290	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0010038	response to metal ion	3.225220090996572e-11	7.11322291069294e-7	19	335	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0014070	response to organic cyclic compound	8.3488105317997e-11	1.8413301627884238e-6	29	873	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0043069	negative regulation of programmed cell death	1.7214345504612538e-9	3.796623901042295e-5	26	806	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0019901	protein kinase binding	2.269953114364398e-9	5.00638159373068e-5	21	532	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0042493	response to drug	2.5244190071660455e-9	5.5676061203047134e-5	19	433	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0044455	mitochondrial membrane part	2.56602628034841e-9	5.6593709613084187e-5	13	179	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0045859	regulation of protein kinase activity	3.0824642838211957e-9	6.798374977967647e-5	24	709	152	18671
+Orphanet:99739	Rare familial disorder with hypertrophic cardiomyopathy	GO:0016491	oxidoreductase activity	3.1695841506973466e-9	6.990517844362998e-5	24	710	152	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:1901701	cellular response to oxygen-containing compound	1.5023537969227618e-12	3.313441299113151e-8	35	873	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0022603	regulation of anatomical structure morphogenesis	1.3431478151915144e-12	2.962312506404885e-8	34	986	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0010038	response to metal ion	1.6286971771251046e-13	3.5920916241494183e-9	21	335	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0001101	response to acid chemical	2.403632848313464e-13	5.301212246955345e-9	21	315	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0045471	response to ethanol	1.0080825063596421e-12	2.2233259677761907e-8	15	137	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0071363	cellular response to growth factor stimulus	7.761680187456932e-12	1.7118385653436263e-7	26	594	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0010332	response to gamma radiation	1.3827716749403862e-11	3.049702929081022e-7	10	50	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0032844	regulation of homeostatic process	2.622801975604716e-11	5.784589757196201e-7	22	427	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0018108	peptidyl-tyrosine phosphorylation	3.4608094168220305e-11	7.632815168800988e-7	20	354	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0032496	response to lipopolysaccharide	4.436728762158282e-11	9.78520528494009e-7	19	319	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:2001252	positive regulation of chromosome organization	4.576339307504895e-11	1.0093116342702046e-6	14	149	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0043123	positive regulation of I-kappaB kinase/NF-kappaB signaling	5.070399655693336e-11	1.1182766440631653e-6	15	180	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0071214	cellular response to abiotic stimulus	5.619715803817371e-11	1.2394283205319212e-6	18	285	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0031056	regulation of histone modification	5.810352199375757e-11	1.2814731775723232e-6	13	124	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0007169	transmembrane receptor protein tyrosine kinase signaling pathway	7.119405065481033e-11	1.5701847871918417e-6	26	647	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0008630	intrinsic apoptotic signaling pathway in response to DNA damage	7.385847489160824e-11	1.6289486637344197e-6	12	101	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0071417	cellular response to organonitrogen compound	9.871892192592213e-11	2.1772458230762126e-6	22	462	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0048732	gland development	1.158496631958883e-10	2.5550643217853164e-6	21	421	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0016301	kinase activity	1.297925100729458e-10	2.8625738096588194e-6	29	829	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0040008	regulation of growth	1.367548296826726e-10	3.0161277686513444e-6	25	617	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0009887	organ morphogenesis	1.5801437935891727e-10	3.4850071367609203e-6	31	950	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0045666	positive regulation of neuron differentiation	1.6200218944106837e-10	3.572958288122763e-6	18	304	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0032388	positive regulation of intracellular transport	1.871827137733817e-10	4.128314752271933e-6	19	347	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0045787	positive regulation of cell cycle	2.0089441221671223e-10	4.430726261439588e-6	18	308	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:1901216	positive regulation of neuron death	2.1725810039896487e-10	4.79162740429917e-6	10	65	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0019901	protein kinase binding	2.2586044146066797e-10	4.981352036415032e-6	23	532	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0051222	positive regulation of protein transport	3.3030478352458204e-10	7.284872000634657e-6	21	447	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0098552	side of membrane	3.304316820162967e-10	7.2876707468694235e-6	20	402	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0016773	phosphotransferase activity, alcohol group as acceptor	4.543487808206237e-10	1.0020662360998855e-5	27	762	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	5.357291277263698e-10	1.1815505912005086e-5	10	71	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0001666	response to hypoxia	7.06208758138871e-10	1.55754341607528e-5	17	292	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0051054	positive regulation of DNA metabolic process	7.146967462290377e-10	1.5762636738081426e-5	14	183	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0045087	innate immune response	8.195162326529726e-10	1.807443051116131e-5	27	783	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0035295	tube development	9.455365379551495e-10	2.085380834460082e-5	23	573	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0000082	G1/S transition of mitotic cell cycle	1.1020407919559716e-9	2.4305509666588954e-5	15	224	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0051091	positive regulation of sequence-specific DNA binding transcription factor activity	1.1721104087314416e-9	2.5850895064571944e-5	15	225	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:1904019	epithelial cell apoptotic process	1.2176262220719991e-9	2.685474632779794e-5	10	77	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0043434	response to peptide hormone	1.2732800369619213e-9	2.8082191215195174e-5	19	389	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0001782	B cell homeostasis	1.370055513483237e-9	3.0216574349872793e-5	7	25	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0006606	protein import into nucleus	1.597950993748043e-9	3.524280916711309e-5	16	268	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0031349	positive regulation of defense response	1.8589306760574686e-9	4.099871606044747e-5	19	398	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0045622	regulation of T-helper cell differentiation	1.8612014152097345e-9	4.1048797212450694e-5	7	26	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0071706	tumor necrosis factor superfamily cytokine production	2.037974233815021e-9	4.4947521726790285e-5	11	106	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0043549	regulation of kinase activity	2.1093820024020715e-9	4.652242006297769e-5	26	761	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:2001234	negative regulation of apoptotic signaling pathway	2.139634580622385e-9	4.71896406756267e-5	14	199	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0045930	negative regulation of mitotic cell cycle	2.2837058910596397e-9	5.0367133427320354e-5	14	200	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0051384	response to glucocorticoid	2.400840970473439e-9	5.29505476037917e-5	13	167	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0001764	neuron migration	2.636251661414235e-9	5.8142530392490954e-5	12	137	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0030334	regulation of cell migration	2.803329901546192e-9	6.182744097860127e-5	24	660	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0051098	regulation of binding	2.8546512931271195e-9	6.295933426991862e-5	16	279	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0007259	JAK-STAT cascade	2.9848447047342574e-9	6.583074996291405e-5	13	170	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:1901215	negative regulation of neuron death	2.9848447047342574e-9	6.583074996291405e-5	13	170	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0002702	positive regulation of production of molecular mediator of immune response	3.052054609042898e-9	6.731306440244111e-5	9	62	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0007050	cell cycle arrest	3.18694515222262e-9	7.028807533226988e-5	15	242	162	18671
+DOID:0060060	non-Hodgkin lymphoma	GO:0000165	MAPK cascade	3.967145167926844e-9	8.749538667862655e-5	27	843	162	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:0045086	positive regulation of interleukin-2 biosynthetic process	1.0996759058912176e-12	2.4253352104430803e-8	5	12	22	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:0050864	regulation of B cell activation	1.64790403545112e-11	3.634452350187445e-7	7	100	22	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:0007568	aging	2.044486802077472e-11	4.5091156419818645e-7	9	290	22	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:0097285	cell-type specific apoptotic process	2.195066350907382e-11	4.841218836926231e-7	10	429	22	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:1902533	positive regulation of intracellular signal transduction	3.8367753418810935e-11	8.462008016518752e-7	12	860	22	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:0045058	T cell selection	1.469160126887914e-9	3.240232659851294e-5	5	44	22	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:0045580	regulation of T cell differentiation	1.899069346222859e-9	4.188397443094516e-5	6	105	22	18671
+DOID:0060061	cutaneous T cell lymphoma	GO:0070663	regulation of leukocyte proliferation	2.1674166905683023e-9	4.780237511048391e-5	7	200	22	18671
+MESH:D040181	Genetic Diseases, X-Linked	GO:1990204	oxidoreductase complex	4.349298698969051e-12	9.592378280576241e-8	14	100	203	18671
+DOID:0060058	lymphoma	GO:0050678	regulation of epithelial cell proliferation	1.2843281993468736e-11	2.8325858436595297e-7	19	277	174	18671
+DOID:0060058	lymphoma	GO:2000134	negative regulation of G1/S transition of mitotic cell cycle	4.8913650907422834e-11	1.0787905707632106e-6	12	91	174	18671
+DOID:0060058	lymphoma	GO:0045859	regulation of protein kinase activity	1.0080192236472385e-10	2.2231863977539845e-6	28	709	174	18671
+DOID:0060058	lymphoma	GO:0002902	regulation of B cell apoptotic process	1.578510655519949e-10	3.4814052507492477e-6	7	18	174	18671
+DOID:0060058	lymphoma	GO:0031099	regeneration	1.6506673805594119e-10	3.640546907823783e-6	15	182	174	18671
+DOID:0060058	lymphoma	GO:0007417	central nervous system development	1.9478429980068768e-10	4.295967732104167e-6	31	889	174	18671
+DOID:0060058	lymphoma	GO:0048538	thymus development	4.330394931528758e-10	9.550686021486676e-6	9	47	174	18671
+DOID:0060058	lymphoma	GO:0060562	epithelial tube morphogenesis	4.5288339745042094e-10	9.988343330769034e-6	18	301	174	18671
+DOID:0060058	lymphoma	GO:0002244	hematopoietic progenitor cell differentiation	5.474657394088922e-10	1.2074356882663118e-5	13	138	174	18671
+DOID:0060058	lymphoma	GO:0007569	cell aging	8.322886824174702e-10	1.8356126890717306e-5	11	91	174	18671
+DOID:0060058	lymphoma	GO:0050900	leukocyte migration	8.977030230283845e-10	1.979884017289102e-5	19	354	174	18671
+DOID:0060058	lymphoma	GO:0045165	cell fate commitment	1.1040671710205174e-9	2.4350201456857512e-5	16	243	174	18671
+DOID:0060058	lymphoma	GO:0051272	positive regulation of cellular component movement	1.5262953123595935e-9	3.3662443114090834e-5	20	408	174	18671
+DOID:0060058	lymphoma	GO:0071453	cellular response to oxygen levels	1.540717775583289e-9	3.398053054048944e-5	13	150	174	18671
+DOID:0060058	lymphoma	GO:0009636	response to toxic substance	1.573298158419334e-9	3.469909088393841e-5	16	249	174	18671
+DOID:0060058	lymphoma	GO:0033002	muscle cell proliferation	1.6727356166867935e-9	3.689218402602723e-5	13	151	174	18671
+DOID:0060058	lymphoma	GO:0043408	regulation of MAPK cascade	1.9043855381539743e-9	4.20012230439859e-5	25	651	174	18671
+DOID:0060058	lymphoma	GO:0043627	response to estrogen	1.922213943572615e-9	4.239442852549402e-5	15	217	174	18671
+DOID:0060058	lymphoma	GO:0072593	reactive oxygen species metabolic process	2.796332276844282e-9	6.167310836580064e-5	15	223	174	18671
+DOID:0060058	lymphoma	GO:1903651	positive regulation of cytoplasmic transport	3.2824600815217764e-9	7.239465709796278e-5	16	262	174	18671
+DOID:0060058	lymphoma	GO:0009991	response to extracellular stimulus	3.910688994857026e-9	8.62502457815717e-5	23	573	174	18671
+DOID:0060056	hypersensitivity reaction disease	GO:0051092	positive regulation of NF-kappaB transcription factor activity	4.098943406916078e-13	9.04021968395341e-9	26	130	656	18671
+DOID:0060056	hypersensitivity reaction disease	GO:0045121	membrane raft	1.3428147482841268e-12	2.9615779273406417e-8	38	282	656	18671

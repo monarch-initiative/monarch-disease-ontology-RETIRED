@@ -1,0 +1,468 @@
+ontology: mondo/xlinks-curated
+
+[Term]
+id: OMIM:106100 ! Hereditary angioedema type 1
+comment: OMIM:106100 bundles types I and II
+equivalent_to: MESH:D056829 ! Hereditary Angioedema Types I and II
+
+[Term]
+id: Orphanet:100050 ! Hereditary angioedema type 1
+is_a: MESH:D056829 ! Hereditary Angioedema Types I and II
+
+[Term]
+id: Orphanet:100051 ! Hereditary angioedema type 2
+is_a: MESH:D056829 ! Hereditary Angioedema Types I and II
+
+[Term]
+id: Orphanet:2828 ! Young-onset Parkinson disease
+is_a: DOID:14330 ! Parkinson's disease
+
+[Term]
+id: Orphanet:C001 ! phenome
+equivalent_to: DOID:4 ! disease
+
+[Term]
+id: Orphanet:101435  ! Rare genetic eye disease
+is_a: DOID:5614  ! eye disease
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:101941  ! Rare biliary tract disease
+is_a: DOID:9741  ! biliary tract disease
+
+[Term]
+id: Orphanet:101952  ! Rare diabetes mellitus
+is_a: DOID:9351  ! diabetes mellitus
+
+[Term]
+id: Orphanet:101953  ! Rare dyslipidemia
+is_a: DOID:3146  ! lipid metabolism disorder
+
+[Term]
+id: Orphanet:101998  ! Rare epilepsy
+is_a: DOID:1826  ! epilepsy syndrome
+
+[Term]
+id: Orphanet:104012  ! Rare inflammatory bowel disease
+is_a: DOID:0050589  ! inflammatory bowel disease
+
+[Term]
+id: Orphanet:108997  ! Rare anemia
+is_a: DOID:2355  ! anemia
+
+[Term]
+id: Orphanet:117569  ! Rare intestinal disease
+is_a: DOID:5295  ! intestinal disease
+
+[Term]
+id: Orphanet:137820  ! Rare endometriosis
+is_a: DOID:289  ! endometriosis
+
+[Term]
+id: Orphanet:156607  ! Genetic biliary tract disease
+is_a: DOID:9741  ! biliary tract disease
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:156629  ! Genetic hypertension
+is_a: DOID:10763  ! hypertension
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:158038  ! Primary hemophagocytic lymphohistiocytosis
+is_a: DOID:0050120  ! hemophagocytic lymphohistiocytosis
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:158124  ! Genetic dementia
+is_a: DOID:1307  ! dementia
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:163582  ! Rare bacterial infectious disease
+is_a: DOID:104  ! bacterial infectious disease
+
+[Term]
+id: Orphanet:163585  ! Rare viral disease
+is_a: DOID:934  ! viral infectious disease
+
+[Term]
+id: Orphanet:163591  ! Rare mycosis
+is_a: DOID:1564  ! fungal infectious disease
+
+[Term]
+id: Orphanet:165655  ! Genetic intestinal disease
+is_a: DOID:5295  ! intestinal disease
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:168194  ! Rare cardiac tumor
+is_a: DOID:117  ! heart cancer
+
+[Term]
+id: Orphanet:168778  ! Rare pervasive developmental disorder
+is_a: DOID:0060041  ! autism spectrum disorder
+
+[Term]
+id: Orphanet:180250  ! Rare breast tumor
+is_a: DOID:1612  ! breast cancer
+
+[Term]
+id: Orphanet:180257  ! Rare malignant breast tumor
+is_a: DOID:1612  ! breast cancer
+
+[Term]
+id: Orphanet:180824  ! Rare tumor of pancreas
+is_a: DOID:1793  ! pancreatic cancer
+
+[Term]
+id: Orphanet:181371  ! Rare diabetes mellitus type 1
+is_a: DOID:9744  ! type 1 diabetes mellitus
+
+[Term]
+id: Orphanet:181396  ! Rare hypothyroidism
+is_a: DOID:1459  ! hypothyroidism
+
+[Term]
+id: Orphanet:181399  ! Rare hyperthyroidism
+is_a: DOID:7998  ! hyperthyroidism
+
+[Term]
+id: Orphanet:181405  ! Rare hypoparathyroidism
+is_a: DOID:11199  ! hypoparathyroidism
+
+[Term]
+id: Orphanet:181408  ! Rare hyperparathyroidism
+is_a: DOID:13543  ! hyperparathyroidism
+
+[Term]
+id: Orphanet:181415  ! Rare primary hyperaldosteronism
+is_a: DOID:12028  ! Conn's syndrome
+
+[Term]
+id: Orphanet:182070  ! Rare neurodegenerative disease
+is_a: DOID:1289  ! neurodegenerative disease
+
+[Term]
+id: Orphanet:183500  ! Genetic neurodegenerative disease
+is_a: DOID:1289  ! neurodegenerative disease
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:183512  ! Rare genetic epilepsy
+is_a: DOID:1826  ! epilepsy syndrome
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:183518  ! Rare hereditary ataxia
+is_a: DOID:0050951  ! hereditary ataxia
+
+[Term]
+id: Orphanet:183524  ! Rare genetic bone disease
+is_a: DOID:0080001  ! bone disease
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:183625  ! Rare genetic diabetes mellitus
+is_a: DOID:9351  ! diabetes mellitus
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:183757  ! Rare genetic intellectual disability
+is_a: DOID:1059  ! intellectual disability
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:208593  ! Genetic hypoparathyroidism
+is_a: DOID:11199  ! hypoparathyroidism
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:208596  ! Genetic hyperparathyroidism
+is_a: DOID:13543  ! hyperparathyroidism
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:213564  ! Rare uterine cancer
+is_a: DOID:363  ! uterine cancer
+
+[Term]
+id: Orphanet:213761  ! Rare cancer of cervix uteri
+is_a: DOID:4362  ! cervical cancer
+
+[Term]
+id: Orphanet:217074  ! Rare carcinoma of pancreas
+is_a: DOID:4905  ! pancreatic carcinoma
+
+[Term]
+id: Orphanet:233655  ! Rare genetic vascular disease
+is_a: DOID:178  ! vascular disease
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:248293  ! Rare deficiency anemia
+is_a: DOID:13121  ! deficiency anemia
+
+[Term]
+id: Orphanet:254367  ! Rare lichen planus
+is_a: DOID:9201  ! lichen planus
+
+[Term]
+id: Orphanet:271832  ! Genetic soft tissue tumor
+is_a: DOID:3350  ! mesenchymal cell neoplasm
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:271841  ! Genetic cardiac tumor
+is_a: DOID:117  ! heart cancer
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:275742  ! Genetic infertility
+is_a: DOID:5223  ! infertility
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:371861  ! Genetic hyperaldosteronism
+is_a: DOID:446  ! hyperaldosteronism
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:391799  ! Rare genetic dystonia
+is_a: DOID:543  ! dystonia
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:399980  ! Rare genetic male infertility
+is_a: DOID:12336  ! male infertility
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:423662  ! Rare autonomic nervous system disorder
+is_a: DOID:11465  ! autonomic nervous system disease
+
+[Term]
+id: Orphanet:423771  ! Rare carcinoma of stomach
+is_a: DOID:5517  ! stomach carcinoma
+
+[Term]
+id: Orphanet:434786  ! Rare genetic autonomic nervous system disorder
+is_a: DOID:11465  ! autonomic nervous system disease
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:68346  ! Rare genetic skin disease
+is_a: DOID:37  ! skin disease
+
+[Term]
+id: Orphanet:68362  ! Rare vascular disease
+is_a: DOID:178  ! vascular disease
+
+[Term]
+id: Orphanet:68363  ! Rare dystonia
+is_a: DOID:543  ! dystonia
+
+[Term]
+id: Orphanet:68367  ! Rare inborn errors of metabolism
+is_a: DOID:655  ! inherited metabolic disorder
+
+[Term]
+id: Orphanet:68416  ! Rare infectious disease
+is_a: DOID:0050117  ! disease by infectious agent
+
+[Term]
+id: Orphanet:71198  ! Rare pulmonary hypertension
+is_a: DOID:6432  ! pulmonary hypertension
+
+[Term]
+id: Orphanet:71209  ! Rare soft tissue tumor
+is_a: DOID:3350  ! mesenchymal cell neoplasm
+
+[Term]
+id: Orphanet:77828  ! Genetic obesity
+is_a: DOID:9970  ! obesity
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:79384  ! Rare urticaria
+is_a: DOID:1555  ! urticaria
+
+[Term]
+id: Orphanet:87277  ! Rare intellectual disability
+is_a: DOID:1059  ! intellectual disability
+
+[Term]
+id: Orphanet:89043  ! Rare dementia
+is_a: DOID:1307  ! dementia
+
+[Term]
+id: Orphanet:89826  ! Rare skin disease
+is_a: DOID:37  ! skin disease
+
+[Term]
+id: Orphanet:93419  ! Rare bone disease
+is_a: DOID:0080001  ! bone disease
+
+[Term]
+id: Orphanet:97966  ! Rare eye disease
+is_a: DOID:5614  ! eye disease
+
+[Term]
+id: Orphanet:98006  ! Rare neurologic disease
+is_a: DOID:863  ! nervous system disease
+
+[Term]
+id: Orphanet:98047  ! Rare infertility
+is_a: DOID:5223  ! infertility
+
+[Term]
+id: Orphanet:98048  ! Rare male infertility
+is_a: DOID:12336  ! male infertility
+
+[Term]
+id: Orphanet:98050  ! Rare allergic disease
+is_a: DOID:1205  ! hypersensitivity reaction type I disease
+
+[Term]
+id: Orphanet:98052  ! Rare allergic respiratory disease
+is_a: DOID:0060496  ! respiratory allergy
+
+[Term]
+id: Orphanet:98058  ! Rare urinary tract tumor
+is_a: DOID:731  ! urinary system benign neoplasm
+
+[Term]
+id: Orphanet:98062  ! Rare nervous system tumor
+is_a: DOID:3093  ! nervous system cancer
+
+[Term]
+id: Orphanet:98305  ! Genetic lipodystrophy
+is_a: DOID:811  ! lipodystrophy
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:98363  ! Rare hemolytic anemia
+is_a: DOID:583  ! hemolytic anemia
+
+[Term]
+id: Orphanet:98496  ! Rare peripheral neuropathy
+is_a: DOID:0060053  ! peripheral neuropathy
+
+[Term]
+id: Orphanet:98497  ! Genetic peripheral neuropathy
+is_a: DOID:0060053  ! peripheral neuropathy
+is_a: DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:98610  ! Rare conjunctival disease
+is_a: DOID:4251  ! conjunctival disease
+
+[Term]
+id: Orphanet:98640  ! Rare cataract
+is_a: DOID:83  ! cataract
+
+!!! SYNS
+
+[Term]
+id: DOID:2481 ! infantile epileptic encephalopathy
+synonym: "epileptic encephalopathy, infantile" EXACT []
+synonym: "epileptic encephalopathy, early infantile" EXACT []
+
+!!! System syns
+
+[Term]
+id: DOID:0050155 ! sensory system disease
+synonym: "sensory disease" EXACT []
+
+[Term]
+id: DOID:11465 ! autonomic nervous system disease
+synonym: "autonomic nervous disease" EXACT []
+
+[Term]
+id: DOID:1287 ! cardiovascular system disease
+synonym: "cardiovascular disease" EXACT []
+
+[Term]
+id: DOID:15 ! reproductive system disease
+synonym: "reproductive disease" EXACT []
+
+[Term]
+id: DOID:1579 ! respiratory system disease
+synonym: "respiratory disease" EXACT []
+
+[Term]
+id: DOID:16 ! integumentary system disease
+synonym: "integumentary disease" EXACT []
+
+[Term]
+id: DOID:17 ! musculoskeletal system disease
+synonym: "musculoskeletal disease" EXACT []
+
+[Term]
+id: DOID:18 ! urinary system disease
+synonym: "urinary disease" RELATED []
+synonym: "renal disease" EXACT []
+
+[Term]
+id: DOID:229 ! female reproductive system disease
+synonym: "female reproductive disease" EXACT []
+
+[Term]
+id: DOID:2742 ! auditory system disease
+synonym: "auditory disease" EXACT []
+
+[Term]
+id: DOID:28 ! endocrine system disease
+synonym: "endocrine disease" EXACT []
+
+[Term]
+id: DOID:2914 ! immune system disease
+synonym: "immune disease" EXACT []
+
+[Term]
+id: DOID:331 ! central nervous system disease
+synonym: "central nervous disease" EXACT []
+
+[Term]
+id: DOID:48 ! male reproductive system disease
+synonym: "male reproductive disease" EXACT []
+
+[Term]
+id: DOID:574 ! peripheral nervous system disease
+synonym: "peripheral nervous disease" EXACT []
+
+[Term]
+id: DOID:74 ! hematopoietic system disease
+synonym: "hematopoietic disease" EXACT []
+
+[Term]
+id: DOID:75 ! lymphatic system disease
+synonym: "lymphatic disease" EXACT []
+
+[Term]
+id: DOID:77 ! gastrointestinal system disease
+synonym: "gastrointestinal disease" EXACT []
+
+[Term]
+id: DOID:863 ! nervous system disease
+synonym: "neurologic disease" EXACT []
+synonym: "neurologic disorder" EXACT []
+synonym: "neurological disease" EXACT []
+synonym: "neurological disorder" EXACT []
+
+[Term]
+id: DOID:114 ! heart disease
+synonym: "cardiac disease" EXACT []
+
+[Term]
+id: DOID:1205 ! hypersensitivity reaction type I disease
+synonym: "allergic disease" EXACT []
+
+[Term]
+id: DOID:409 ! liver disease
+synonym: "hepatic disease" EXACT []
+
+[Term]
+id: DOID:12804 ! mucopolysaccharidosis IV
+synonym: "mucopolysaccharidosis type IV" EXACT []
+synonym: "mucopolysaccharidosis type 4" EXACT []

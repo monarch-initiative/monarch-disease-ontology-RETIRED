@@ -1,23 +1,56 @@
+[![Build Status](https://travis-ci.org/cmungall/monarch-disease-ontology.svg?branch=master)](https://travis-ci.org/cmungall/monarch-disease-ontology)
 [![DOI](https://zenodo.org/badge/13996/cmungall/monarch-disease-ontology.svg)](https://zenodo.org/badge/latestdoi/13996/cmungall/monarch-disease-ontology)
 
-## Editors Instructions
+## MonDO
 
-### Editing Disease Clusters
+MonDO (Monarch Disease Ontology) is a semi-automatically constructed
+ontology that merges in multiple disease resources to yield a coherent
+merged ontology.
 
-Change to the [src/clusters](src/clusters) directory and edit the files
+The procedure is broken into the following steps:
 
- * [omimclusters.obo](src/clusters/omimclusters.obo)
- * [decipherclusters.obo](src/clusters/decipherclusters.obo)
+ 1. Pre-processing of ontologies -- see the [src/](src/) directory
+ 2. Gathering of loose ontology mappings, and translating these into __weighted candidate axioms__
+ 3. Estimation of the most likely Ontology using [kBOOM](https://github.com/monarch-initiative/kboom)
+ 4. Merging equivalence sets and post-processing.
 
-In OBO-Edit
+See the Makefile in the [src/ontology](src/ontology) directory for the execution of these steps.
 
-### Editing Mondo
+### Pre-Processing
 
-Change to the [src/mondo](src/mondo) directory
+Each disease resource or ontology is pre-processed. In some cases, only a subset of the ontology is used
 
-Note that links can only be removed from mondo upstream. Links can be
-added in the bridge file (bridge.owl), which should be edited in
-Protege.
+ * [ORDO/Orphanet](orphanet/README.md)
+ * [DO](doid/README.md)
+ * [GARD](gard/README.md) -- aligned as post-processing step
+ * [OMIM](omim/README.md) -- note we only use labels from OMIM
+ * [MedGeb](medgen/README.md) -- not yet incorporated
+ * [NCIT](ncit/README.md) -- aligned as post-processing step
+ * [OMIA](omia/README.md) -- Mendelian diseases in non-human animals
+ * [MESH](medic/README.md) -- We use MEDIC as our initial pre-processed set
+ * [DiseaseClusters](clusters/README.md) -- Additional groupings of OMIM. Includes DECIPHER.
+
+### Translating mappings to weighted candidate axioms
+
+We use mappings as an input, but not as an end-goal. Our end goal is a
+coherent merged ontology, with strictly defined relationships between
+them (next step). However, we make use of mappings to generate
+candidate weighted axioms.
+
+We make use of some ready-made mappings. Additionally, we supplant
+these with our own using approaches such as entity matching.
+
+
+
+
+## MonDO Curators Instructions
+
+See [README-editors](README-editors.md)
+
+## Disease2GO
+
+ * [disease2go.tsv](src/ontology/disease2go.tsv)
+ * [disease2go.obo](src/ontology/disease2go.obo)
 
 
 

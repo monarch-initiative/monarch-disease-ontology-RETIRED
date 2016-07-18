@@ -1,0 +1,24 @@
+format-version: 1.2
+ontology: mondo/mesh-antislim
+subsetdef: mesh_antislim "MESH antislim"
+
+[Term]
+id: MESH:C ! Diseases
+name: Diseases
+subset: mesh_antislim
+
+[Term]
+id: MESH:D010335 ! Pathologic Processes
+name: Pathologic Processes
+subset: mesh_antislim
+
+[Term]
+id: MESH:D012816 ! Signs and Symptoms
+name: Signs and Symptoms
+subset: mesh_antislim
+
+[Term]
+id: MESH:D013568 ! Pathological Conditions, Signs and Symptoms
+name: Pathological Conditions, Signs and Symptoms
+subset: mesh_antislim
+

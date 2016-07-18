@@ -336,7 +336,6 @@ id: DC:0000659 ! Muscular Dystrophy-Dystroglycanopathy, Type A
 is_a: DOID:0050588 ! muscular dystrophy-dystroglycanopathy
 is_a: DOID:9884 ! muscular dystrophy
 
-
 [Term]
 id: DC:0000634 ! Autoimmune Thyroid Disease, Susceptibility to
 is_a: DOID:7188 ! autoimmune thyroiditis

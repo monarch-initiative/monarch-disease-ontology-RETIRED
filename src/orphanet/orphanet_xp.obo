@@ -1,0 +1,404 @@
+[Term]
+id: Orphanet:101435  ! Rare genetic eye disease
+intersection_of: DOID:5614  ! eye disease
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:101941  ! Rare biliary tract disease
+intersection_of: DOID:9741  ! biliary tract disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:101952  ! Rare diabetes mellitus
+intersection_of: DOID:9351  ! diabetes mellitus
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:101953  ! Rare dyslipidemia
+intersection_of: DOID:3146  ! lipid metabolism disorder
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:101998  ! Rare epilepsy
+intersection_of: DOID:1826  ! epilepsy syndrome
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:104012  ! Rare inflammatory bowel disease
+intersection_of: DOID:0050589  ! inflammatory bowel disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:108997  ! Rare anemia
+intersection_of: DOID:2355  ! anemia
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:117569  ! Rare intestinal disease
+intersection_of: DOID:5295  ! intestinal disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:137820  ! Rare endometriosis
+intersection_of: DOID:289  ! endometriosis
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:156607  ! Genetic biliary tract disease
+intersection_of: DOID:9741  ! biliary tract disease
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:156629  ! Genetic hypertension
+intersection_of: DOID:10763  ! hypertension
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:158038  ! Primary hemophagocytic lymphohistiocytosis
+intersection_of: DOID:0050120  ! hemophagocytic lymphohistiocytosis
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:158124  ! Genetic dementia
+intersection_of: DOID:1307  ! dementia
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:163582  ! Rare bacterial infectious disease
+intersection_of: DOID:104  ! bacterial infectious disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:163585  ! Rare viral disease
+intersection_of: DOID:934  ! viral infectious disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:163591  ! Rare mycosis
+intersection_of: DOID:1564  ! fungal infectious disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:165655  ! Genetic intestinal disease
+intersection_of: DOID:5295  ! intestinal disease
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:168194  ! Rare cardiac tumor
+intersection_of: DOID:117  ! heart cancer
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:168778  ! Rare pervasive developmental disorder
+intersection_of: DOID:0060041  ! autism spectrum disorder
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:180250  ! Rare breast tumor
+intersection_of: DOID:1612  ! breast cancer
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:180257  ! Rare malignant breast tumor
+intersection_of: DOID:1612  ! breast cancer
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:180824  ! Rare tumor of pancreas
+intersection_of: DOID:1793  ! pancreatic cancer
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:181371  ! Rare diabetes mellitus type 1
+intersection_of: DOID:9744  ! type 1 diabetes mellitus
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:181396  ! Rare hypothyroidism
+intersection_of: DOID:1459  ! hypothyroidism
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:181399  ! Rare hyperthyroidism
+intersection_of: DOID:7998  ! hyperthyroidism
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:181405  ! Rare hypoparathyroidism
+intersection_of: DOID:11199  ! hypoparathyroidism
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:181408  ! Rare hyperparathyroidism
+intersection_of: DOID:13543  ! hyperparathyroidism
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:181415  ! Rare primary hyperaldosteronism
+intersection_of: DOID:12028  ! Conn's syndrome
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:182070  ! Rare neurodegenerative disease
+intersection_of: DOID:1289  ! neurodegenerative disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:183500  ! Genetic neurodegenerative disease
+intersection_of: DOID:1289  ! neurodegenerative disease
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:183512  ! Rare genetic epilepsy
+intersection_of: DOID:1826  ! epilepsy syndrome
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:183518  ! Rare hereditary ataxia
+intersection_of: DOID:0050951  ! hereditary ataxia
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:183524  ! Rare genetic bone disease
+intersection_of: DOID:0080001  ! bone disease
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:183625  ! Rare genetic diabetes mellitus
+intersection_of: DOID:9351  ! diabetes mellitus
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:183757  ! Rare genetic intellectual disability
+intersection_of: DOID:1059  ! intellectual disability
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:208593  ! Genetic hypoparathyroidism
+intersection_of: DOID:11199  ! hypoparathyroidism
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:208596  ! Genetic hyperparathyroidism
+intersection_of: DOID:13543  ! hyperparathyroidism
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:213564  ! Rare uterine cancer
+intersection_of: DOID:363  ! uterine cancer
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:213761  ! Rare cancer of cervix uteri
+intersection_of: DOID:4362  ! cervical cancer
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:217074  ! Rare carcinoma of pancreas
+intersection_of: DOID:4905  ! pancreatic carcinoma
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:233655  ! Rare genetic vascular disease
+intersection_of: DOID:178  ! vascular disease
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:248293  ! Rare deficiency anemia
+intersection_of: DOID:13121  ! deficiency anemia
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:254367  ! Rare lichen planus
+intersection_of: DOID:9201  ! lichen planus
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:271832  ! Genetic soft tissue tumor
+intersection_of: DOID:3350  ! mesenchymal cell neoplasm
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:271841  ! Genetic cardiac tumor
+intersection_of: DOID:117  ! heart cancer
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:275742  ! Genetic infertility
+intersection_of: DOID:5223  ! infertility
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:371861  ! Genetic hyperaldosteronism
+intersection_of: DOID:446  ! hyperaldosteronism
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:391799  ! Rare genetic dystonia
+intersection_of: DOID:543  ! dystonia
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:399980  ! Rare genetic male infertility
+intersection_of: DOID:12336  ! male infertility
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:423662  ! Rare autonomic nervous system disorder
+intersection_of: DOID:11465  ! autonomic nervous system disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:423771  ! Rare carcinoma of stomach
+intersection_of: DOID:5517  ! stomach carcinoma
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:434786  ! Rare genetic autonomic nervous system disorder
+intersection_of: DOID:11465  ! autonomic nervous system disease
+intersection_of: has_part DOID:630  ! genetic disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:68346  ! Rare genetic skin disease
+intersection_of: DOID:37  ! skin disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:68362  ! Rare vascular disease
+intersection_of: DOID:178  ! vascular disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:68363  ! Rare dystonia
+intersection_of: DOID:543  ! dystonia
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:68367  ! Rare inborn errors of metabolism
+intersection_of: DOID:655  ! inherited metabolic disorder
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:68416  ! Rare infectious disease
+intersection_of: DOID:0050117  ! disease by infectious agent
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:71198  ! Rare pulmonary hypertension
+intersection_of: DOID:6432  ! pulmonary hypertension
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:71209  ! Rare soft tissue tumor
+intersection_of: DOID:3350  ! mesenchymal cell neoplasm
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:77828  ! Genetic obesity
+intersection_of: DOID:9970  ! obesity
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:79384  ! Rare urticaria
+intersection_of: DOID:1555  ! urticaria
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:87277  ! Rare intellectual disability
+intersection_of: DOID:1059  ! intellectual disability
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:89043  ! Rare dementia
+intersection_of: DOID:1307  ! dementia
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:89826  ! Rare skin disease
+intersection_of: DOID:37  ! skin disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:93419  ! Rare bone disease
+intersection_of: DOID:0080001  ! bone disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:97966  ! Rare eye disease
+intersection_of: DOID:5614  ! eye disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98006  ! Rare neurologic disease
+intersection_of: DOID:863  ! nervous system disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98047  ! Rare infertility
+intersection_of: DOID:5223  ! infertility
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98048  ! Rare male infertility
+intersection_of: DOID:12336  ! male infertility
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98050  ! Rare allergic disease
+intersection_of: DOID:1205  ! hypersensitivity reaction type I disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98052  ! Rare allergic respiratory disease
+intersection_of: DOID:0060496  ! respiratory allergy
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98058  ! Rare urinary tract tumor
+intersection_of: DOID:731  ! urinary system benign neoplasm
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98062  ! Rare nervous system tumor
+intersection_of: DOID:3093  ! nervous system cancer
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98305  ! Genetic lipodystrophy
+intersection_of: DOID:811  ! lipodystrophy
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:98363  ! Rare hemolytic anemia
+intersection_of: DOID:583  ! hemolytic anemia
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98496  ! Rare peripheral neuropathy
+intersection_of: DOID:0060053  ! peripheral neuropathy
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98497  ! Genetic peripheral neuropathy
+intersection_of: DOID:0060053  ! peripheral neuropathy
+intersection_of: has_part DOID:630  ! genetic disease
+
+[Term]
+id: Orphanet:98610  ! Rare conjunctival disease
+intersection_of: DOID:4251  ! conjunctival disease
+intersection_of: has_part PATO:0000381  ! decreased frequency
+
+[Term]
+id: Orphanet:98640  ! Rare cataract
+intersection_of: DOID:83  ! cataract
+intersection_of: has_part PATO:0000381  ! decreased frequency
+

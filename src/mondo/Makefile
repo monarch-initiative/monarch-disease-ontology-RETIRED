@@ -1,33 +1,142 @@
-all: mondo.obo mondo.owl mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
+all: mondo.obo mondo.owl
+#all: mondo.obo mondo.owl mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
+#all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
-all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
+test:
+	owltools mondo.obo --run-reasoner -r elk -u
 
 OMIM_OBO=../omim/omim.obo
 OMIA_OBO=../omia/omia.obo
 OMIAG_OBO=../omia/omia-generic.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
-ORDO_ISA=../orphanet/orphanet-isa.obo
+ORDO_SLIM=../orphanet/orphanet-slim.obo
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
+MESH_TRIM=../medic/mesh-final.obo
+DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
+NCIT_OBO=../ncit/ncit_disease.obo
+GARD_OBO=../gard/gard.obo
+GARD_XREFS=../gard/gard-xrefs.obo
+MEDGEN = ../medgen/medgen-disease-extract.obo
+
+## --
+## INITIAL INPUTS: ONTOLOGY
+## --
+# Union of:
+#  - DO
+#  - ORDO (is_a version)
+#  - disease subset of OMIM
+#  - DC
+#  - CTD-MESH
+#
+# this constitutes the initial set of ontologies
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS)
+	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
+
+foobar:
+	grep -H '^id: http' $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
+
+set-%.owl: set-%.obo
+	owltools $< -o $@
+
+## --
+## INITIAL INPUTS: PROBABILISTIC EDGES
+## --
+# translate xrefs to estimates of prior probabilities of equivalence
+set-%-ptable.tsv: set-%.obo
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  xref_ptable/6 -consult probmatch.pro -no_pred > $@.tmp && mv $@.tmp $@
+.PRECIOUS: set-%-ptable.tsv
+
+set-%-ptable-debug.tsv: set-%.obo
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@.tmp && mv $@.tmp $@
+
+set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv 
+	fix-probs.pl $^ > $@.tmp && mv $@.tmp $@
+
+## --
+## kBOOM - MERGE ONTOLOGIES
+## --
+
+# lBOOM parameters
+# MAX_E := 9  -- failing..?
+MAX_E := 9
+
+linked-%.owl: set-%-amended-ptable.tsv set-%.owl
+	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
+.PRECIOUS: linked-%.owl
+
+test-%.owl: set-1-amended-ptable.tsv set-1.owl
+	kboom --experimental -c $*  --splitSize 9999 --max 2 -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
+
+# use pandoc to convert markdown to html
+linked-%-rpt.md: linked-%.owl
+%-rpt.html: %-rpt.md
+	pandoc $*-rpt.md -o $@
+
+# Merging most probable axioms plus original ontologies
+PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
+PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
+PRIORITIES_DEF := -d Orphanet 10 -d DOID 5  -d MESH 3 -d OMIM 1
+
+# we do not include omia in set-1, as it's xrefs are potentially problematic
+#OTHERS_TO_MERGE := $(OMIA_OBO)
+OTHERS_TO_MERGE := 
+lmerged-%.owl: set-%.owl linked-%.owl $(OTHERS_TO_MERGE)
+	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --set-ontology-id $(OBO)/mondo/$@ -o $@
+.PRECIOUS: lmerged-%.owl
+
+lmerged-%.obo: lmerged-%.owl
+	owltools $< --remove-dangling -o -f obo --no-check $@.tmp && grep -v ^owl-axioms $@.tmp > $@
+
+# Generate version of MonDO ready for post-processing;
+# this is a trivial copy of the kBOOM step
+mondo_pre.obo: lmerged-1.obo
+	owltools $< --set-ontology-id $(OBO)/upheno/mondo.owl -o -f obo --no-check $@
+
+# POST-PROCESSING:
+# we remove mesh classes that are non-intermediates (ie have only mesh as superclasses);
+# we first create an antislim
+mesh-mega-antislim.obo: mondo_pre.obo
+	blip-findall -i $< -consult checker.pro write_mesh_antislim > $@
+
+mondo.obo: mondo_pre.obo mesh-mega-antislim.obo
+	owltools $^ --merge-support-ontologies --remove-subset mesh_antislim --assert-inferred-subclass-axioms --removeRedundant -o -f obo --no-check $@
+
+# equivalence sets have by now been merged, which eliminates equivalence axioms:
+# we bring these back in for the OWL version
+equiv_axioms.owl: linked-1.owl mondo-medgen-equiv.owl
+	owltools $^ --merge-support-ontologies --extract-axioms -t EquivalentClasses -o -f ofn $@
+
+mondo.owl: mondo.obo equiv_axioms.owl
+	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
+
+mondoe.obo: mondo.owl
+	owltools $< -o -f obo --no-check $@
+
+
+## REPORT
+
+unlikely.md: linked-1-rpt.md
+	./unlikely-axiom-report.pl $< | head -200 > $@
 
 ## --
 ## DO
 ## --
+# @Deprecated
 disease_nosyn.obo: $(DOID_OBO)
 	grep -v ^synonym $< > $@
 
 ## --
-## MGI clusters
+## OMIM-clusters (maintained by MGI and Monarch)
 ## --
 
-# this is now maintained directly in contrib
-#$(CLUSTERS)/omimclusters.obo:
-#	wget ftp://ftp.informatics.jax.org/pub/curatorwork/OMIM.clusters -O $@
+# TODO: this can all be simplified post moving to kBOOM
 
 # local copy of MGI's file
 # todo: add def back later, but watch for multiple def tags
+# xrefs to: PS
 omimclusters.obo: $(CLUSTERS)/omimclusters.obo $(OMIM_OBO)
-	obo-merge-tags.pl  -t synonym -t name -t def $^ > $@.tmp && obo2obo $@.tmp -o $@
+	obo-merge-tags.pl -t is_obsolete -t synonym -t name -t xref -t def $^ > $@.tmp && obo2obo $@.tmp -o $@
 
 # TODO:
 #omiaclusters.obo: $(CLUSTERS)/omiaclusters.obo $(OMIA_OBO)
@@ -49,6 +158,7 @@ omim-genes.obo: $(OMIM_OBO)
 	blip ontol-query -consult munger.pro -i $< -i ordo.obo -query "omim_gene(ID)" -to obo > $@
 
 # omimclusters with DO dupes carved out (and genes removed too)
+# TODO: consider PS
 omc-minimal.obo: omc-mapped-to-do.obo omim-genes.obo $(DOID_OBO)
 	obo-subtract.pl $< $(DOID_OBO) omim-genes.obo  > $@.tmp && obo-grep.pl --neg -r is_obsolete $@.tmp > $@
 
@@ -68,6 +178,8 @@ omimps-min.obo: $(OMIM_OBO)
 ## --
 ## Textual alignment based on labels/syns
 ## --
+# NOTE: Consider moving this to a different folder.
+# For now we primarily use assrted xrefs, and perform additional lexical scoring of these using probmatch
 
 DOID = $(DOID_OBO)
 align-doid-to-omim.tsv: omim-leaf.obo
@@ -79,16 +191,23 @@ align-doid-to-decipher.tsv: $(CLUSTERS)/decipherclusters.obo
 align-doid-to-mesh.tsv: mesh.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+align-doid-to-ncit.tsv: $(NCIT_OBO)
+	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
 align-doid-to-omc.tsv: omc.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+## REQUIRED FOR MONDO
+## There are no externally supplied mappings for OMIA to grouping classes
 align-doid-to-omia.tsv: $(OMIAG_OBO)
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-omimps.tsv: omimps.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-align-doid-to-ordo.tsv: ordo.obo $(DOID)
+## REQUIRED FOR MONDO
+## Orphanet mappings may not be complete
+align-doid-to-ordo.tsv: ../orphanet/orphanet-phenome-obostyle.obo $(DOID)
 	blip-findall -i ignore.pro -i ignore_rare_genetic.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-ordo-nosyn.tsv: ordo_nosyn.obo disease_nosyn.obo
@@ -98,7 +217,15 @@ align-doid-to-ordo-nosyn.tsv: ordo_nosyn.obo disease_nosyn.obo
 align-doid-to-hp.tsv: $(DOID)
 	blip-findall -i ignore.pro -u metadata_nlp -r HP -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+# post-build alignment
+align-mondo-to-medgen.tsv: $(MEDGEN)
+	blip-findall -debug index -i super_ignore.pro -u metadata_nlp -i $< -i mondo.obo -goal index_entity_pair_label_match "class(X),id_idspace(X,'UMLS'),entity_pair_label_reciprocal_best_intermatch(X,Y,S)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+mondo-medgen-equiv.tsv: align-mondo-to-medgen.tsv
+	../medgen/align2best.pl align-mondo-to-medgen.tsv $< > $@.tmp && mv $@.tmp $@
+
+mondo-medgen-equiv.owl: mondo-medgen-equiv.tsv
+	owltools --create-ontology $(OBO)/mondo/$@.tmp --parse-tsv  -a EquivalentClasses $< --extract-axioms -t EquivalentClasses --set-ontology-id $(OBO)/mondo/$@ -o -f ofn $@
 
 
 ## --
@@ -106,308 +233,53 @@ align-doid-to-hp.tsv: $(DOID)
 ## --
 
 xrefs-%.obo: align-%.tsv
-	cut -f1-4 $< | sort -u | grep ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
+	cut -f1-4 $< | sort -u | grep ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@.tmp && (echo "ontology: mondo/$*" && echo && cat $@.tmp) > $@
 
 ixrefs-%.obo: align-%.tsv
-	cut -f1-4 $< | sort -u | grep -v ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
+	cut -f1-4 $< | sort -u | grep -v ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && (echo "ontology: mondo/$*" && echo && cat $@.tmp) > $@
 
 isa-%.obo: align-%.tsv
 	cut -f1-4 $< | sort -u | grep -v ^DOID | tbl2obolinks.pl --rel is_a > $@.tmp && mv $@.tmp $@
 
-## --
-## MESH missing from DO
-## --
-mesh.obo: ../medic/CTD_diseases.obo
-	perl -npe 's@\s+EXACT\s+@ RELATED @ if m@^synonym@' $< > $@
-
 # @Deprecated
-m.pro: $(CLUSTERS)/MesH.contrib/mesh_list.txt
-	perl -npe 's/:.*//;s/^/MESH:/' $< | tbl2p -p m > m.pro
-
-mesh-missing-from-doid.tsv:
-	blip-findall -i mesh.obo -i $(DOID_OBO) -i xrefs-doid-to-mesh.obo -i m.pro "m(X),\+entity_xref(D,X)" -select X -use_tabs  -label > $@
-
-mesh-missing-nearest-parent-doid.tsv: xrefs-doid-to-mesh.obo
-	blip-findall -i mesh.obo -i $(DOID_OBO) -i $< -i m.pro "m(X),\+entity_xref(D,X),subclassT(X,X1),entity_xref(D,X1),\\+((subclassT(X,X2),subclassT(X2,X1),entity_xref(_,X2)))" -select X-D -no_pred -use_tabs  -label > $@
-
-
+mesh.obo: ../medic/CTD_diseases.obo
+	perl -npe 's@\s+EXACT\s+@ RELATED @ if m@^synonym@' $< > $@ && add-ontology-tag.pl $@ mesh
 
 ## --
-## Xrefs to logic axioms
+## EXPERIMENTAL
 ## --
 
-ordo-subclassof-doid.obo: isa-doid-to-ordo.obo ixrefs-doid-to-ordo-nosyn.obo
-	obo-subtract.pl $^ > $@
+br08901.keg:
+	wget 'http://www.genome.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext'  -O $@
 
-doid-equiv-ordo.owl: xrefs-doid-to-ordo-nosyn.obo
-	owltools $< --translate-xrefs-to-equivs -n -p Orphanet --set-ontology-id $(OBO)/doid/bridge/$@ -o $@
+gene_disease.tsv:
+	golr-fetcher.py -t gene-disease -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,4 | sort -u > $@
 
-orphanet_bridge.owl: doid-equiv-ordo.owl ordo-subclassof-doid.obo
-	owltools $^ --merge-support-ontologies --set-ontology-id $(OBO)/doid/bridge/$@  -o $@.tmp && fix-ordo-uris.pl $@.tmp >$@
+gene_disease-x.tsv:
+	golr-fetcher.py -t gene-disease -k -n -m 50000 -x subject_closure  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,3,4,5,6 | sort -u > $@
 
+gene_pathway.tsv:
+	golr-fetcher.py -t gene-pathway -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,4 | sort -u > $@
 
-#orphanet_bridge.owl: doid-equiv-ordo.owl isa-doid-to-ordo.obo 
-#	owltools $^ --merge-support-ontologies --reasoner elk --remove-redundant-inferred-super-classes --set-ontology-id $(OBO)/doid/bridge/$@  -o $@.tmp && fix-ordo-uris.pl $@.tmp >$@
+disease_pathway-labeled.tsv:
+	golr-fetcher.py -t disease-pathway -f subject subject_label object object_label  -k -n -m 50000  > $@.tmp && sort -u $@.tmp  > $@
 
-## --
-## All those that lack an xref pointing at them are considered missing
-## --
+te.out:
+	owltools mondo.obo go-min.obo go-group.obo --merge-support-ontologies --load-instances gene_disease.tsv --load-instances gene2term.tsv --all-by-all-enrichment-analysis -m 100 -p 0.0001 DOID:4 GOROOT:0 > $@.tmp && mv $@.tmp $@
 
-missing-%.obo: %.obo ixrefs-doid-to-%.obo sim-ixrefs-%.obo
-	obo-subtract.pl $^ | obo-grep.pl --neg -r is_obsolete - > $@
+# moved to genesets-human-go
+#gene2term.tsv
 
-## --
-## Jaccard similarity based analysis
-## --
+te.tsv: te.out
+	./enr2tsv.pl $< > $@
 
-sim-omc.tsv: $(CLUSTERS)/omimclusters.obo
-	blip-findall -debug index -consult jaccard.pro -i $< -i $(DOID_OBO) -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
+disease2go.tsv:
+	blip-findall -i go-min.obo -i mondo.obo  -i te.pro -consult elim_redundant.pro -goal ix -debug index nr/10 -no_pred > $@
+.PRECIOUS: disease2go.tsv
 
-omcrest.obo:  $(CLUSTERS)/omimclusters.obo ixrefs-doid-to-omc.obo 
-	obo-subtract.pl $^ > $@
+disease2go.obo: disease2go.tsv
+	cut -f1-4 $< | tbl2obolinks.pl --rel has_pathway - 
 
-sim-omcrest.tsv: omcrest.obo
-	blip-findall -debug index -consult jaccard.pro -i $< -i $(DOID_OBO) -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
-
-#sim-omc.pro: sim-omc.tsv
-#	tbl2p -p s $< > $@
-#sim-ixrefs-omc.obo: sim-omc.tsv
-#	perl -n tsv2obo.pl sim-omc.tsv | tbl2obolinks.pl -k --rel xref > $@.tmp && mv $@.tmp $@
-
-sim-ixrefs-omc.obo: sim-omc.tsv
-	tbl2obolinks.pl -k --rel xref $< > $@.tmp && mv $@.tmp $@
-sim-xrefs-omc.obo: sim-omc.tsv
-	tbl2obolinks.pl --swap -k --rel xref $< > $@.tmp && mv $@.tmp $@
-
-all-xrefs-omc.obo: sim-xrefs-omc.obo xrefs-doid-to-omc.obo
-	obo-simple-merge.pl $^ > $@
-
-
-## --
-## Orphanet
-## --
-
-ordo.obo: $(ORDO_OBO)
-	cp $< $@
-#	owltools $< -o -f obo $@.tmp && fix-ordo.pl $@.tmp > $@
-
-ordo_nosyn.obo: ordo.obo
-	grep -v ^synonym $< > $@
-
-ordogrp.obo: ordo.obo
-	blip ontol-query -i $< -query "subclassRT(ID,'Orphanet:377794')"  -to obo > $@.tmp && mv $@.tmp $@
-
-ordorest.obo:  ordo.obo ixrefs-doid-to-ordo.obo 
-	obo-subtract.pl $^ > $@
-
-## --
-## Annotations
-## --
-
-
-## --
-## New cluster suggestions
-## --
-
-suggest-omimcluster.tsv: omimclusters.obo
-	blip-findall  -i $< -consult munger.pro new_omim_cluster/2 -label -use_tabs -no_pred > $@.tmp && sort -u $@.tmp > $@
-
-## --
-## Summary Report
-## --
-mapping.tsv:
-	blip-findall -i d2p.pro -consult summary.pro -i omimclusters.obo -i ordo.obo -i $(DOID_OBO) -i omimps-min.obo s/6 -label -no_pred | grep ^OMIM > $@
-mapping2.tsv:
-	blip-findall -i d2p.pro -consult summary.pro -i omimclusters.obo -i ordo.obo -i efo.obo -i $(DOID_OBO) s/6 -label -no_pred | grep ^OMIM > $@
-
-ordo-missing.tsv: ordo.obo
-	blip-findall -i d2p.pro -i $< "d2p(D,_),id_idspace(D,'Orphanet'),\+class(D)" -select D | sort -u > $@
-
-all-rpt: mapping-grep-DC-noORDO.txt mapping-grep-noDC-ORDO.txt mapping-grep-noDC-noORDO.txt
-all2-rpt: mapping2-grep-DC-noORDO.txt mapping2-grep-noDC-ORDO.txt
-
-clean-rpt: 
-	rm mapping*-grep-*.txt
-
-%-grep-DC-noORDO.txt: %.tsv
-	grep DC $< | grep -v Orphanet > $@ && wc $@
-%-grep-noDC-ORDO.txt: %.tsv
-	grep -v DC $< | grep Orphanet > $@ && wc $@
-%-grep-noDC-noORDO.txt: %.tsv
-	grep -v DC $< | grep -v Orphanet > $@ && wc $@
-
-
-# find discriminatory phenotypes
-omc-differentia.txt:
-	blip-findall  -r hpoa -consult munger -r HP -i omimclusters.obo -goal ix group_phenotype_number/6 -label -no_pred > $@
-ordo-differentia.txt:
-	blip-findall  -r hpoa -consult munger -r HP -i ordo.obo -goal ix ordo_group_phenotype_number/6 -label -no_pred > $@
-
-### REWRITE ORDO
-
-G = write_all_mdo
-IG = -i super_ignore.pro
-
-# For reporting/debugging purposes:
-# Assign each ORDO class to a category
-# The same methods are used for new_ordo
-ordo_category.tsv: ordo.obo $(DOID_OBO)
-	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match   -i $(DOID_OBO) -i omcrest.obo -i $< -consult munger.pro -r hpoa all_ordo_category/3 -label -no_pred > $@
-
-ordo_leaves.obo: ordo.obo
-	blip -index "ontol_db:subclassT(+,+)" -i $< ontol-query -query "class(P,phenome),class(G,'group of disorders'),subclassT(ID,P),\+subclassRT(ID,G)" -to obo > $@
-
-# Rewrite of ORDO, removing classes and rewiring classes, swapping in DOID or DC where available.
-# Note: as a result of the rewiring, there may be redundancies in the hierarchy
-new_ordo.obo: ordo.obo omc-minimal.obo $(DOID_OBO)
-	blip-findall -u metadata_nlp -debug index $(IG) -goal index_entity_pair_label_match  -i $(DOID_OBO) -i omc-minimal.obo -i $< -consult munger.pro -r hpoa $(G) -label > $@.tmp && grep -v $(G) $@.tmp > $@
-
-# merge in the set of DCs we are using. 
-# Also: Remove redundancy from the hierarchy
-new_ordo_merged.obo: new_ordo.obo omc-minimal.obo
-	blip-ddb -debug xontol -i $< -i omc-minimal.obo -i $(DOID_OBO)  -u ontol_management -goal remove_simple_redundant_facts io-convert -to obo -o $@
-
-# 
-new_ordo_equivs.obo: new_ordo_merged.obo
-	blip -i super_ignore.pro  -u metadata_nlp -i $< -consult munger.pro -goal index_entity_pair_label_match,write_equiv_omims,halt > $@ 
-
-
-# complete merged ontology, prior to including mesh
-mondo_no_mesh.obo: new_ordo_merged.obo new_ordo_equivs.obo
-	owltools $^ --merge-support-ontologies -o -f obo $@
-
-merged_with_mesh.obo:  mondo_no_mesh.obo mesh_rest.obo
-	owltools $^ --merge-support-ontologies -o -f obo $@
-
-remaining_equiv_axioms.obo: mondo_no_mesh.obo
-	blip-findall  -i $< -consult munger.pro write_remaining_equivs > $@.tmp && mv $@.tmp $@
-
-equiv_axioms.owl: merged_with_mesh.obo remaining_equiv_axioms.obo
-	owltools  $^ --merge-support-ontologies --extract-axioms -t EquivalentClasses -o -f ofn $@
-
-# squish in MESH
-mondo_squished.obo: merged_with_mesh.obo
-	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7 -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1 --set-ontology-id $(OBO)/mondo.owl -o -f obo --no-check $@.tmp && ./fix-final.pl $@.tmp > $@
-
-new_ordo_subs.tsv: mondo_squished.obo
-	blip-findall -consult munger.pro -debug index -i super_ignore.pro -u metadata_nlp -i $< -index "entity_nlabel_scope_stemmed(+,+,0,0)" "inferred_subclass(X,Y,'DC','DOID',LX,LY),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,LX,LY)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
-
-new_ordo_sim.tsv: mondo_squished.obo
-	blip-findall -debug index -consult jaccard.pro -i $<  -goal ix sim_dc_bm/5 -label -no_pred > $@.tmp && mysort -k1,3 -n $@.tmp > $@
-
-
-mesh_rest.obo: xrefs-mesh.obo mondo_no_mesh.obo
-	blip-findall -consult munger.pro -i $< -i mondo_no_mesh.obo -i mesh.obo -i $(DOID_OBO) "write_mesh(M),fail" > $@
-###	blip-findall -i m.pro -consult munger.pro -i $< -i mesh.obo -i $(DOID_OBO) "write_mesh(M),fail" > $@
-
-mondo.obo: mondo_squished.obo $(CLUSTERS)/decipherclusters.obo $(OMIA_OBO)
-	obo-cat.pl -i $^ >  $@ 
-
-mondo-simple.obo: mondo.obo
-	owltools $< --reasoner elk --merge-equivalence-sets -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7 -l DOID 10 -l Orphanet 5 -l MESH 3 -l OMIM 1 --set-ontology-id $(OBO)/mondo.owl -o -f obo --no-check  $@
-
-mondo.owl: mondo.obo equiv_axioms.owl
-	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
-
-mondoe.obo: mondo.owl
-	owltools $< -o -f obo --no-check $@
-
-ordo_leaves_rest.obo: ordo_leaves.obo mondo.obo 
-	obo-subtract.pl $^ > $@.tmp && mv $@.tmp $@
-
-%-danglers.txt: %.obo
-	obo2obo $< -o $@.roundtrip >& $@.tmp && grep 'No parent' $@.tmp > $@
-
-mondo_rpt.tsv: mondo.obo
-	blip-findall  -i $< -i d2p.pro -consult summary.pro disease_lineage/3 -label -no_pred  > $@.tmp && mv $@.tmp $@
-
-
-mondo_score2.tsv: mondo.obo
-	blip-findall  -i $< -i d2p.pro -consult summary.pro mondo_score/1 -label -no_pred  > $@.tmp && mv $@.tmp $@
-
-mondo_score1.tsv: mondo_rpt.tsv
-	./calc-mondo-score.pl $< > $@
-
-mondo_unclassified.tsv: mondo_rpt.tsv
-	egrep '\t(2|1|0)\t' $< > $@
-
-mondo_generic_omims.tsv: mondo.obo
-	blip-findall -i $< "subclass(Child,X),id_idspace(X,'OMIM')" -select X-Child -label > $@.tmp && mv $@.tmp $@
-
-images/mdo-doid-%.png: mondo.obo
-	blip ontol-subset -i $< -query "subclassT(ID,'DOID:$*')" -u ontol_config_do -to png -cr part_of > $@
-images/mdo-omim-%.png: mondo.obo
-	blip ontol-subset -i $< -query "subclassT(ID,'OMIM:$*')" -u ontol_config_do -to png -cr part_of > $@
-
-genereviews.ttl:
-	wget http://nif-crawler.neuinfo.org/monarch/ttl/genereviews.ttl -O $@
-
-align-mondo-to-mesh.tsv: mesh.obo mondo_no_mesh.obo
-	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i mondo_no_mesh.obo -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
-
-xrefs-mesh.obo: align-mondo-to-mesh.tsv
-	cut -f1-4 $< | sort -u | grep -v ^MESH | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@
-
-
-## OBOL
-
-DOIDX = ../ontology/doidx.obo
-
-doid-xp-anatomy-basic.obo: $(DOIDX)
-	obol qobol -i $< -r pext -tag disease -scope all -tag basic -undefined_only true -export obo -idspace DOID > $@.tmp && cat $@.tmp obolrels.obo > $@
-doid-xp-anatomy.obo: $(DOIDX)
-	obol qobol -i $< -r pext -tag disease -scope all -undefined_only true -export obo -idspace DOID > $@.tmp && cat $@.tmp obolrels.obo > $@
-
-doid-xp-go.obo: $(DOIDX)
-	obol qobol -i $< -r go -tag disease -tag go -scope all -undefined_only true -export obo -idspace DOID > $@.tmp && mv $@.tmp $@
-
-doid-xp-%.owl: doid-xp-%.obo
-	owltools $< -o -f ofn $@
-%.axioms: %.owl
-	grep ^EquivalentClasses $< > $@
-
-
-
-### EXPERIMENTAL
-
-# hardcoded estimates of DOID-OMIM matches
-ptable-doid-omim.tsv: $(DOID_OBO)
-	blip-findall -i $(DOID_OBO) "entity_xref_idspace(D,X,'OMIM')" -no_pred -select "x(D,X,0.04,0.7,0.25,0.01)" | perl -npe 's@ORDO:@Orphanet:@' > $@.tmp && mv $@.tmp $@
-
-lm-doid-omim.obo: ptable-doid-omim.tsv omc-minimal.obo 
-	owltools --silence-elk $(DOID_OBO) omc-minimal.obo --merge-support-ontologies  --resolve-cliques -l 2 -m 8 -t $< -r elk -j lm-doid-omim-rpt.json -n --set-ontology-id $@ -o -f obo $@.tmp && mv $@.tmp $@
-
-ptable-doid-ordo.tsv: $(DOID_OBO)
-	blip-findall -i $(DOID_OBO) "entity_xref_idspace(D,X,'ORDO')" -no_pred -select "x(D,X,0.2,0.2,0.5,0.1)" | perl -npe 's@ORDO:@Orphanet:@' > $@.tmp && mv $@.tmp $@
-
-lm-doid-ordo.obo: ptable-doid-ordo.tsv $(ORDO_OBO)
-	owltools --silence-elk $(DOID_OBO) $(ORDO_OBO) --merge-support-ontologies  --resolve-cliques -l 0 -m 8 -t $< -r elk -j lm-doid-ordo-rpt.json -n --set-ontology-id $@ -o -f obo $@.tmp && mv $@.tmp $@
-
-ptable-ALL.tsv: ptable-doid-omim.tsv ptable-doid-ordo.tsv
-	cat $^ > $@
-
-lm-doid-ALL.obo: ptable-ALL.tsv combined.obo
-	owlbag -m lm-doid-ALL-rpt.md -j lm-doid-ALL-rpt.json -n -o $@.owl -t $< combined.obo
-
-# Union of DO, ORDO and disease subset of OMIM (no equivalence merging);
-# Note that we use the isa-version of ORDO
-combined.obo: $(DOID_OBO) $(ORDO_ISA) omc-minimal.obo
-	owltools $^ --merge-support-ontologies -o -f obo $@
-
-# translate xrefs to estimates of prior probabilities of equivalence
-test-ptable.tsv: combined.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim xref_ptable/6 -consult probmatch.pro -no_pred > $@
-
-debug-ptable.tsv: combined.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -r omim -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@
-
-combined.owl: combined.obo
-	owltools $< -o $@
-## MAX_E := 9  -- failing..?
-MAX_E := 8
-lm-doid-NEW.obo: test-ptable.tsv combined.owl
-	owlbag --max $(MAX_E) -m lm-doid-NEW-rpt.md -j lm-doid-NEW-rpt.json -n -o $@.owl -t $< combined.owl && owltools $@.owl --set-ontology-id $(OBO)/mondo.owl -o -f obo --no-check $@
-
-lm-%-rpt.html: lm-%.obo
-	pandoc $*-rpt.md -o $@
-
+sync-report:
+	cp set-1.owl linked-1*{md,json,html} set-1-ptable*tsv ~/Dropbox/MonDO-Reports/
+	rsync -az target ~/Dropbox/MonDO-Reports/
