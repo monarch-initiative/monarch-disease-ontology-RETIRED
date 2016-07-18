@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 29:02:2016 12:05
+date: 18:07:2016 14:45
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -823,7 +823,7 @@ id: DC:0000100
 name: Corneal Endothelial Dystrophy
 comment: OMIM series 121700.
 xref: PS:121700
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 created_by: smb
 creation_date: 2013-08-30T13:54:19Z
 
@@ -1470,7 +1470,7 @@ creation_date: 2013-09-04T11:55:10Z
 
 [Term]
 id: DC:0000179
-name: Cowden Disease
+name: Cowden Syndrome
 comment: OMIM series 158350.
 xref: PS:158350
 is_a: DC:0000138 ! Disease Cluster
@@ -5874,6 +5874,69 @@ created_by: smb
 creation_date: 2016-02-22T10:21:04Z
 
 [Term]
+id: DC:0000720
+name: Spinal Muscular Atrophy with Congenital Bone Fractures
+xref: PS:616866
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-03-28T11:47:15Z
+
+[Term]
+id: DC:0000721
+name: Thiopurines, Poor Metabolism of
+xref: PS:610460
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-04-25T11:31:11Z
+
+[Term]
+id: DC:0000722
+name: Striatal Degeneration, Autosomal Dominant
+comment: See genetic heterogeneity of OMIM 609161 smb.
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-05-02T10:20:57Z
+
+[Term]
+id: DC:0000723
+name: Coffin-Siris Syndrome
+xref: PS:135900
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-05-25T16:59:01Z
+
+[Term]
+id: DC:0000724
+name: Hypercalcemia, Infantile
+xref: PS:143880
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-06-06T13:47:28Z
+
+[Term]
+id: DC:0000725
+name: Autoimmune Disease, Multisystem, Infantile-Onset
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-07-05T14:14:50Z
+
+[Term]
+id: DC:0000726
+name: Patent Ductus Arteriosus
+xref: PS:607411
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-07-18T14:29:51Z
+
+[Term]
+id: DC:0000727
+name: Hypermanganesemia with Dystonia
+xref: PS:613280
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-07-18T14:31:59Z
+
+[Term]
 id: OMIM:100050
 name: Aarskog Syndrome, Autosomal Dominant
 is_a: DC:0000138 ! Disease Cluster
@@ -7686,11 +7749,6 @@ name: Corneal Degeneration, Ribbonlike, with Deafness
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
-id: OMIM:121700
-name: CORNEAL ENDOTHELIAL DYSTROPHY 1, AUTOSOMAL DOMINANT
-is_a: DC:0000100 ! Corneal Endothelial Dystrophy
-
-[Term]
 id: OMIM:121800
 name: Corneal Dystrophy, Crystalline, of Schnyder
 is_a: DC:0000099 ! Corneal Dystrophy
@@ -7713,6 +7771,8 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:122000
 name: Corneal Dystrophy, Posterior Polymorphous, 1
+alt_id: OMIM:121700
+synonym: "CORNEAL ENDOTHELIAL DYSTROPHY 1, AUTOSOMAL DOMINANT" EXACT []
 is_a: DC:0000644 ! Corneal Dystrophy, Posterior Polymorphous
 
 [Term]
@@ -8959,8 +9019,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:135900
-name: Coffin-Siris Syndrome; CSS
-is_a: DC:0000138 ! Disease Cluster
+name: Coffin-Siris Syndrome 1; CSS1
+is_a: DC:0000723 ! Coffin-Siris Syndrome
 
 [Term]
 id: OMIM:135950
@@ -9649,8 +9709,8 @@ is_a: DC:0000194 ! Hypercalciuria, Absorptive
 
 [Term]
 id: OMIM:143880
-name: Hypercalcemia, Infantile
-is_a: DC:0000138 ! Disease Cluster
+name: Hypercalcemia, Infantile 1
+is_a: DC:0000724 ! Hypercalcemia, Infantile
 
 [Term]
 id: OMIM:143890
@@ -9764,7 +9824,6 @@ alt_id: OMIM:154000
 alt_id: OMIM:155800
 synonym: "Macules, Hereditary Congenital Hypopigmented and Hyperpigmented" EXACT []
 synonym: "Melanosis, Universal" EXACT []
-is_a: DC:0000138 ! Disease Cluster
 is_a: DC:0000540 ! Hyperpigmentation, Familial Progressive
 
 [Term]
@@ -11048,7 +11107,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:158350
 name: Cowden syndrome 1
-is_a: DC:0000179 ! Cowden Disease
+is_a: DC:0000179 ! Cowden Syndrome
 created_by: smb
 creation_date: 2013-09-04T14:12:57Z
 
@@ -11325,7 +11384,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:162080
 name: Neural Retina Leucine Zipper; NRL
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 
 [Term]
 id: OMIM:162091
@@ -11954,7 +12013,7 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:168500
-name: Parietal Foramina, PFM
+name: Parietal Foramina 1, PFM1
 is_a: DC:0000350 ! Parietal Foramina
 
 [Term]
@@ -16136,8 +16195,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:217700
-name: Corneal endothelial dystrophy type 2
-is_a: DC:0000100 ! Corneal Endothelial Dystrophy
+name: Corneal Endothelial Dystrophy
+is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:217800
@@ -19198,7 +19257,6 @@ id: OMIM:251300
 name: Galloway-Mowat Syndrome
 alt_id: OMIM:606937
 synonym: "Spinocerebellar ataxia, autosomal recessive 5" EXACT []
-is_a: DC:0000138 ! Disease Cluster
 is_a: DC:0000414 ! Spinocerebellar Ataxia
 
 [Term]
@@ -20098,7 +20156,6 @@ id: OMIM:259450
 name: Bruck syndrome 1
 alt_id: OMIM:208200
 synonym: "Arthrogryposis-Like Disorder" EXACT []
-is_a: DC:0000138 ! Disease Cluster
 is_a: DC:0000339 ! Bruck Syndrome
 
 [Term]
@@ -23569,7 +23626,7 @@ is_a: DC:0000705 ! Linear Skin Defects with Multiple Congenital Anomalies
 [Term]
 id: OMIM:300953
 name: Trichothiodystrophy 5, Nonphotosensitive; TTD5
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000706 ! Trichothiodystrophy
 
 [Term]
 id: OMIM:300957
@@ -23600,6 +23657,21 @@ is_a: DC:0000273 ! Mental Retardation, X-Linked, Syndromic
 id: OMIM:300967
 name: Mental Retardation, X-Linked, Syndromic 34; MRXS34
 is_a: DC:0000273 ! Mental Retardation, X-Linked, Syndromic
+
+[Term]
+id: OMIM:300968
+name: Mental Retardation, X-Linked 99, Syndromic, Female-Restricted; MRXS99F
+is_a: DC:0000273 ! Mental Retardation, X-Linked, Syndromic
+
+[Term]
+id: OMIM:300971
+name: Bartter Syndrome, Type 5, Antenatal, Transient; BARTS5
+is_a: DC:0000055 ! Bartter Syndrome
+
+[Term]
+id: OMIM:300972
+name: Immunodeficiency 47; IMD47
+is_a: DC:0000615 ! Immunodeficiency
 
 [Term]
 id: OMIM:301000
@@ -27499,7 +27571,7 @@ is_a: DC:0000399 ! Schizophrenia
 [Term]
 id: OMIM:603030
 name: Toll-Like Receptor 4; TLR4
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 
 [Term]
 id: OMIM:603034
@@ -28495,7 +28567,7 @@ is_a: DC:0000021 ! Leber Congenital Amaurosis
 [Term]
 id: OMIM:604547
 name: VAN DER WOUDE SYNDROME 1, MODIFIER OF
-is_a: DC:0000450 ! Van der Woude Syndrome
+is_obsolete: true
 
 [Term]
 id: OMIM:604559
@@ -30202,7 +30274,7 @@ is_a: DC:0000070 ! Cataract
 [Term]
 id: OMIM:607306
 name: Steroid 5-Alpha-Reductase 2; SRD5A2
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 
 [Term]
 id: OMIM:607308
@@ -30296,8 +30368,8 @@ is_a: DC:0000175 ! Glucocorticoid Deficiency
 
 [Term]
 id: OMIM:607411
-name: Ductus Arteriosus, Patent
-is_a: DC:0000138 ! Disease Cluster
+name: Patent Ductus Arteriosus 1
+is_a: DC:0000726 ! Patent Ductus Arteriosus
 
 [Term]
 id: OMIM:607417
@@ -32206,8 +32278,8 @@ is_a: DC:0000138 ! Disease Cluster
 
 [Term]
 id: OMIM:609161
-name: Striatal Degeneration, Autosomal Dominant
-is_a: DC:0000138 ! Disease Cluster
+name: Striatal Degeneration, Autosomal Dominant 1
+is_a: DC:0000722 ! Striatal Degeneration, Autosomal Dominant
 
 [Term]
 id: OMIM:609162
@@ -33184,8 +33256,8 @@ is_a: DC:0000387 ! Retinal Cone Dystrophy
 
 [Term]
 id: OMIM:610031
-name: POLYMICROGYRIA, SYMMETRIC OR ASYMMETRIC
-is_a: DC:0000363 ! Polymicrogyria
+name: CORTICAL DYSPLASIA, COMPLEX, WITH OTHER BRAIN MALFORMATIONS 7; CDCBM7
+is_a: DC:0000498 ! Cortical Dysplasia, Complex, with Other Brain Malformations
 
 [Term]
 id: OMIM:610042
@@ -33705,7 +33777,7 @@ is_a: DC:0000445 ! Tumoral Calcinosis
 [Term]
 id: OMIM:610460
 name: THIOPURINE S-METHYLTRANSFERASE DEFICIENCY
-is_a: DC:0000138 ! Disease Cluster
+is_a: DC:0000721 ! Thiopurines, Poor Metabolism of
 
 [Term]
 id: OMIM:610474
@@ -35585,7 +35657,7 @@ is_a: DC:0000264 ! Major Affective Disorder
 [Term]
 id: OMIM:612359
 name: Cowden syndrome 2
-is_a: DC:0000179 ! Cowden Disease
+is_a: DC:0000179 ! Cowden Syndrome
 
 [Term]
 id: OMIM:612361
@@ -37239,8 +37311,8 @@ is_a: DC:0000643 ! Corneal Dystrophy, Fuchs Endothelial
 
 [Term]
 id: OMIM:613280
-name: Hypermanganesemia with Dystonia, Polycythemia, and Cirrhosis; HMDPC
-is_a: DC:0000138 ! Disease Cluster
+name: Hypermanganesemia with dystonia 1; HMNDYT1
+is_a: DC:0000727 ! Hypermanganesemia with Dystonia
 
 [Term]
 id: OMIM:613282
@@ -40319,16 +40391,19 @@ is_a: DC:0000604 ! Trichohepatoenteric Syndrome
 id: OMIM:614607
 name: Mental Retardation, Autosomal Dominant 14; MRD14
 is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+is_a: DC:0000723 ! Coffin-Siris Syndrome
 
 [Term]
 id: OMIM:614608
 name: Mental Retardation, Autosomal Dominant 15; MRD15
 is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+is_a: DC:0000723 ! Coffin-Siris Syndrome
 
 [Term]
 id: OMIM:614609
 name: Mental Retardation, Autosomal Dominant 16; MRD16
 is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+is_a: DC:0000723 ! Coffin-Siris Syndrome
 
 [Term]
 id: OMIM:614613
@@ -40796,7 +40871,6 @@ id: OMIM:614841
 name: Hypogonadotropic Hypogonadism 12 with or without Anosmia; HH12
 alt_id: OMIM:227200
 synonym: "Eunuchoidism, familial hypogonadotropic" EXACT []
-is_a: DC:0000138 ! Disease Cluster
 is_a: DC:0000210 ! Hypogonadotropic Hypogonadism
 
 [Term]
@@ -41456,22 +41530,22 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:615106
 name: Cowden Syndrome 3; CWS3
-is_a: DC:0000179 ! Cowden Disease
+is_a: DC:0000179 ! Cowden Syndrome
 
 [Term]
 id: OMIM:615107
 name: Cowden Syndrome 4; CWS4
-is_a: DC:0000179 ! Cowden Disease
+is_a: DC:0000179 ! Cowden Syndrome
 
 [Term]
 id: OMIM:615108
 name: Cowden Syndrome 5; CWS5
-is_a: DC:0000179 ! Cowden Disease
+is_a: DC:0000179 ! Cowden Syndrome
 
 [Term]
 id: OMIM:615109
 name: Cowden Syndrome 6; CWS6
-is_a: DC:0000179 ! Cowden Disease
+is_a: DC:0000179 ! Cowden Syndrome
 
 [Term]
 id: OMIM:615112
@@ -42747,6 +42821,11 @@ name: Dowling-Degos Disease 3; DDD3
 is_a: DC:0000504 ! Reticulate Pigment Disorder
 
 [Term]
+id: OMIM:615681
+name: Spastic Paraplegia 62, Autosomal Recessive; SPG62
+is_a: DC:0000410 ! Spastic Paraplegia
+
+[Term]
 id: OMIM:615683
 name: Spastic Paraplegia 64, Autosomal Recessive; SPG64
 is_a: DC:0000410 ! Spastic Paraplegia
@@ -43304,8 +43383,8 @@ is_a: DC:0000335 ! Orofaciodigital Syndrome
 
 [Term]
 id: OMIM:615952
-name: Autoimmune Disease, Multisystem, Infantile-Onset; ADMIO
-is_a: DC:0000138 ! Disease Cluster
+name: Autoimmune Disease, Multisystem, Infantile-Onset 1; ADMIO1
+is_a: DC:0000725 ! Autoimmune Disease, Multisystem, Infantile-Onset
 
 [Term]
 id: OMIM:615953
@@ -43974,7 +44053,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:616233
 name: Charcot-Marie-Tooth Disease, Axonal, Type 2t; CMT2T
-is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+is_obsolete: true
 
 [Term]
 id: OMIM:616239
@@ -45196,6 +45275,11 @@ name: Congenital Disorder of Glycosylation, Type Iio; CDG2O
 is_a: DC:0000629 ! Congenital Disorders of Glycosylation, Type II
 
 [Term]
+id: OMIM:616829
+name: Congenital Disorder of Glycosylation, Type Iip; CDG2P
+is_a: DC:0000629 ! Congenital Disorders of Glycosylation, Type II
+
+[Term]
 id: OMIM:616831
 name: Luscan-Lumish Syndrome; LLS
 is_a: DC:0000138 ! Disease Cluster
@@ -45214,4 +45298,409 @@ is_a: DC:0000138 ! Disease Cluster
 id: OMIM:616835
 name: Meier-Gorlin Syndrome 6; MGORS6
 is_a: DC:0000270 ! Meier-Gorlin Syndrome
+
+[Term]
+id: OMIM:616839
+name: Exercise Intolerance, Riboflavin-Responsive; RREI
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616840
+name: Parkinson Disease 23, Autosomal Recessive Early-Onset; PARK23
+is_a: DC:0000351 ! Parkinson Disease
+
+[Term]
+id: OMIM:616843
+name: Lymphedema, Hereditary, III; LMPH3
+is_a: DC:0000258 ! Lymphedema
+
+[Term]
+id: OMIM:616849
+name: Brachydactyly, Type A1, D; BDA1D
+is_a: DC:0000058 ! Brachydactyly
+
+[Term]
+id: OMIM:616851
+name: Cataract 45; CTRCT45
+is_a: DC:0000070 ! Cataract
+
+[Term]
+id: OMIM:616852
+name: Myopathy, Scapulohumeroperoneal; SHPM
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616854
+name: Even-Plus Syndrome; EVPLS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616858
+name: Cowden Syndrome 7; CWS7
+is_a: DC:0000179 ! Cowden Syndrome
+
+[Term]
+id: OMIM:616859
+name: Spasticity, Childhood-Onset, with Hyperglycinemia; SPAHGC
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616860
+name: Anemia, Sideroblastic, 3, Pyridoxine-Refractory; SIDBA3
+is_a: DC:0000460 ! Anemia, Sideroblastic
+
+[Term]
+id: OMIM:616863
+name: Chromosome 16p13.2 Deletion Syndrome
+is_a: DC:0000085 ! Chromosome Deletion Syndrome
+
+[Term]
+id: OMIM:616866
+name: Spinal Muscular Atrophy with Congenital Bone Fractures 1; SMABF1
+is_a: DC:0000720 ! Spinal Muscular Atrophy with Congenital Bone Fractures
+
+[Term]
+id: OMIM:616867
+name: Spinal Muscular Atrophy with Congenital Bone Fractures 2; SMABF2
+is_a: DC:0000720 ! Spinal Muscular Atrophy with Congenital Bone Fractures
+
+[Term]
+id: OMIM:616868
+name: Diarrhea 8, Secretory Sodium, Congenital; DIAR8
+is_a: DC:0000503 ! Diarrhea, Congenital
+
+[Term]
+id: OMIM:616871
+name: Myeloproliferative/Lymphoproliferative Neoplasms, Familial (multiple Types), Susceptibility To; MPLPF
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616873
+name: Immunodeficiency, Common Variable, 13; CVID13
+is_a: DC:0000093 ! Immunodeficiency, Common Variable
+
+[Term]
+id: OMIM:616875
+name: Cerebellar Atrophy, Visual Impairment, and Psychomotor Retardation;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616878
+name: Metabolic Encephalomyopathic Crises, Recurrent, with Rhabdomyolysis, Cardiac Arrhythmias, and Neurodegeneration; MECRCN
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616881
+name: Leukodystrophy, Hypomyelinating, 13; HLD13
+is_a: DC:0000245 ! Leukodystrophy, Hypomyelinating
+
+[Term]
+id: OMIM:616882
+name: Advanced Sleep Phase Syndrome, Familial, 3; FASPS3
+is_a: DC:0000467 ! Advanced Sleep-Phase Syndrome
+
+[Term]
+id: OMIM:616887
+name: Mental Retardation, Autosomal Recessive 52; MRT52
+is_a: DC:0000655 ! Mental Retardation, Autosomal Recessive
+
+[Term]
+id: OMIM:616890
+name: Split-Foot Malformation with Mesoaxial Polydactyly; SFMMP
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616892
+name: Nephrotic Syndrome, Type 12; NPHS12
+is_a: DC:0000317 ! Nephrotic Syndrome
+
+[Term]
+id: OMIM:616893
+name: Nephrotic Syndrome, Type 13; NPHS13
+is_a: DC:0000317 ! Nephrotic Syndrome
+
+[Term]
+id: OMIM:616894
+name: Robinow Syndrome, Autosomal Dominant 3; DRS3
+is_a: DC:0000593 ! Robinow Syndrome
+
+[Term]
+id: OMIM:616896
+name: Mitochondrial DNA Depletion Syndrome 14 (cardioencephalomyopathic Type); MTDPS14
+is_a: DC:0000284 ! Mitochondrial DNA Depletion Syndrome
+
+[Term]
+id: OMIM:616897
+name: Osteochondrodysplasia, Complex Lethal, Symoens-Barnes-Gistelinck Type;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616898
+name: Chromosome 15q14 Deletion Syndrome
+is_a: DC:0000085 ! Chromosome Deletion Syndrome
+
+[Term]
+id: OMIM:616900
+name: Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies 3; IHPRF3
+is_a: DC:0000718 ! Hypotonia, Infantile, with Psychomotor Retardation and Characteristic Facies
+
+[Term]
+id: OMIM:616901
+name: Developmental Delay with Short Stature, Dysmorphic Features, and Sparse Hair; DEDSSH
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616902
+name: Chromosome 11p13 Deletion Syndrome, Distal
+is_a: DC:0000085 ! Chromosome Deletion Syndrome
+
+[Term]
+id: OMIM:616903
+name: Nucleoside Diphosphate-Linked Moiety X Motif 15 Deficiency; NUDT15D
+is_a: DC:0000721 ! Thiopurines, Poor Metabolism of
+
+[Term]
+id: OMIM:616907
+name: Spastic Paraplegia 76, Autosomal Recessive; SPG76
+is_a: DC:0000410 ! Spastic Paraplegia
+
+[Term]
+id: OMIM:616910
+name: Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome 3; ICF3
+is_a: DC:0000544 ! Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome
+
+[Term]
+id: OMIM:616911
+name: Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome 4; ICF4
+is_a: DC:0000544 ! Immunodeficiency-Centromeric Instability-Facial Anomalies Syndrome
+
+[Term]
+id: OMIM:616913
+name: Bleeding Disorder, Platelet-Type, 20; BDPLT20
+is_a: DC:0000057 ! Bleeding Disorder, Platelet-Type
+
+[Term]
+id: OMIM:616914
+name: Marfan Lipodystrophy Syndrome; MFLS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616917
+name: Mental Retardation, Autosomal Recessive 53; MRT53
+is_a: DC:0000655 ! Mental Retardation, Autosomal Recessive
+
+[Term]
+id: OMIM:616920
+name: Heart and Brain Malformation Syndrome; HBMS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616921
+name: Dyskinesia, Limb and Orofacial, Infantile-Onset; IOLOD
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616922
+name: Striatal Degeneration, Autosomal Dominant 2; ADSD2
+is_a: DC:0000722 ! Striatal Degeneration, Autosomal Dominant
+
+[Term]
+id: OMIM:616924
+name: Charcot-Marie-Tooth Disease, Axonal, Type 2cc; CMT2CC
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
+id: OMIM:616937
+name: Thrombocytopenia 6; THC6
+is_a: DC:0000434 ! Thrombocytopenia
+
+[Term]
+id: OMIM:616938
+name: Coffin-Siris Syndrome 5; CSS5
+is_a: DC:0000723 ! Coffin-Siris Syndrome
+
+[Term]
+id: OMIM:616939
+name: Chorea, Childhood-Onset, with Psychomotor Retardation; COCPMR
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616941
+name: Agammaglobulinemia 8, Autosomal Dominant; AGM8
+is_a: DC:0000013 ! Agammaglobulinemia
+
+[Term]
+id: OMIM:616943
+name: Trichothiodystrophy 6, Nonphotosensitive; TTD6
+is_a: DC:0000706 ! Trichothiodystrophy
+
+[Term]
+id: OMIM:616944
+name: Mental Retardation, Autosomal Dominant 41; MRD41
+is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+
+[Term]
+id: OMIM:616946
+name: Premature Ovarian Failure 11; POF11
+is_a: DC:0000370 ! Premature Ovarian Failure
+
+[Term]
+id: OMIM:616947
+name: Premature Ovarian Failure 12; POF12
+is_a: DC:0000370 ! Premature Ovarian Failure
+
+[Term]
+id: OMIM:616948
+name: Spinocerebellar Ataxia, Autosomal Recessive 22; SCAR22
+is_a: DC:0000414 ! Spinocerebellar Ataxia
+
+[Term]
+id: OMIM:616949
+name: Spinocerebellar Ataxia, Autosomal Recessive 23; SCAR23
+is_a: DC:0000414 ! Spinocerebellar Ataxia
+
+[Term]
+id: OMIM:616950
+name: Spermatogenic Failure 15; SPGF15
+is_a: DC:0000404 ! Spermatogenic Failure
+
+[Term]
+id: OMIM:616954
+name: You-Hoover-Fong Syndrome; YHFS
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616958
+name: Deafness, Autosomal Recessive 105; DFNB105
+is_a: DC:0000110 ! Deafness, Autosomal Recessive
+
+[Term]
+id: OMIM:616959
+name: Retinitis Pigmentosa and Erythrocytic Microcytosis; RPEM
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616963
+name: Hypercalcemia, Infantile, 2; HCINF2
+is_a: DC:0000724 ! Hypercalcemia, Infantile
+
+[Term]
+id: OMIM:616964
+name: Palmoplantar Carcinoma, Multiple Self-Healing; MSPC
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616968
+name: Deafness, Autosomal Dominant 70; DFNA70
+is_a: DC:0000109 ! Deafness, Autosomal Dominant
+
+[Term]
+id: OMIM:616969
+name: Deafness, Autosomal Dominant 66; DFNA66
+is_a: DC:0000109 ! Deafness, Autosomal Dominant
+
+[Term]
+id: OMIM:616973
+name: Mental Retardation, Autosomal Dominant 42; MRD42
+is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+
+[Term]
+id: OMIM:616974
+name: Combined Oxidative Phosphorylation Deficiency 30; COXPD30
+is_a: DC:0000092 ! Combined Oxidative Phosphorylation Deficiency
+
+[Term]
+id: OMIM:616975
+name: Neurodevelopmental Disorder with or without Anomalies of the Brain, Eye, or Heart; NEDBEH
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:616977
+name: Mental Retardation, Autosomal Dominant 43; MRD43
+is_a: DC:0000654 ! Mental Retardation, Autosomal Dominant
+
+[Term]
+id: OMIM:616981
+name: Epileptic Encephalopathy, Early Infantile, 37; EIEE37
+is_a: DC:0000137 ! Epileptic Encephalopathy, Early Infantile
+
+[Term]
+id: OMIM:617006
+name: Autoimmune Disease, Multisystem, Infantile-Onset, 2; ADMIO2
+is_a: DC:0000725 ! Autoimmune Disease, Multisystem, Infantile-Onset
+
+[Term]
+id: OMIM:617008
+name: Cerebral Palsy, Spastic Quadriplegic, 3; CPSQ3
+is_a: DC:0000641 ! Cerebral Palsy, Spastic Quadriplegic
+
+[Term]
+id: OMIM:617011
+name: Macrocephaly, Dysmorphic Facies, and Psychomotor Retardation; MDFPMR
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617013
+name: Hypermanganesemia with Dystonia 2; HMNDYT2
+is_a: DC:0000727 ! Hypermanganesemia with Dystonia
+
+[Term]
+id: OMIM:617014
+name: Neutropenia, Severe Congenital, 7, Autosomal Recessive; SCN7
+is_a: DC:0000324 ! Neutropenia, Severe Congenital
+
+[Term]
+id: OMIM:617017
+name: Charcot-Marie-Tooth Disease, Axonal, Type 2t; CMT2T
+is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
+
+[Term]
+id: OMIM:617020
+name: Epileptic Encephalopathy, Early Infantile, 38; EIEE38
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617022
+name: Lethal Congenital Contracture Syndrome 10; LCCS10
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617023
+name: Retinitis Pigmentosa 75; RP75
+is_a: DC:0000386 ! Retinitis Pigmentosa
+
+[Term]
+id: OMIM:617024
+name: Night Blindness, Congenital Stationary, Type 1H; CSNB1H
+is_a: DC:0000326 ! Night Blindness, Congenital Stationary
+
+[Term]
+id: OMIM:617025
+name: Nevus Comedonicus; NC
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617026
+name: Pontocerebellar Hypoplasia, Type 2F; PCH2F
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617027
+name: Hyperaldosteronism, Familial, Type IV; HALD4
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617028
+name: Mental Retardation, Autosomal Recessive 54; MRT54
+is_a: DC:0000655 ! Mental Retardation, Autosomal Recessive
+
+[Term]
+id: OMIM:617030
+name: Myopathy, Distal, 5; MPD5
+is_a: DC:0000303 ! Myopathy, Distal
+
+[Term]
+id: OMIM:617035
+name: Patent Ductus Arteriosus 2; PDA2
+is_a: DC:0000726 ! Patent Ductus Arteriosus
 
