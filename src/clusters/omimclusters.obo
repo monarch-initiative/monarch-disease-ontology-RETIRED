@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 18:07:2016 14:45
+date: 25:07:2016 11:01
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -5935,6 +5935,14 @@ xref: PS:613280
 is_a: DC:0000138 ! Disease Cluster
 created_by: smb
 creation_date: 2016-07-18T14:31:59Z
+
+[Term]
+id: DC:0000728
+name: Polycystic Liver Disease
+xref: PS:174050
+is_a: DC:0000138 ! Disease Cluster
+created_by: smb
+creation_date: 2016-07-25T10:53:21Z
 
 [Term]
 id: OMIM:100050
@@ -12374,8 +12382,8 @@ is_a: DC:0000268 ! Medullary Cystic Kidney Disease
 
 [Term]
 id: OMIM:174050
-name: Polycystic liver disease
-is_a: DC:0000138 ! Disease Cluster
+name: Polycystic liver disease 1
+is_a: DC:0000728 ! Polycystic Liver Disease
 
 [Term]
 id: OMIM:174200
@@ -45625,6 +45633,11 @@ name: Epileptic Encephalopathy, Early Infantile, 37; EIEE37
 is_a: DC:0000137 ! Epileptic Encephalopathy, Early Infantile
 
 [Term]
+id: OMIM:617004
+name: Polycystic Liver Disease 2; PCLD2
+is_a: DC:0000728 ! Polycystic Liver Disease
+
+[Term]
 id: OMIM:617006
 name: Autoimmune Disease, Multisystem, Infantile-Onset, 2; ADMIO2
 is_a: DC:0000725 ! Autoimmune Disease, Multisystem, Infantile-Onset
@@ -45657,6 +45670,11 @@ is_a: DC:0000030 ! Charcot-Marie-Tooth Disease
 [Term]
 id: OMIM:617020
 name: Epileptic Encephalopathy, Early Infantile, 38; EIEE38
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617021
+name: Hydrops, Lactic Acidosis, and Sideroblastic Anemia; HLASA
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
@@ -45703,4 +45721,24 @@ is_a: DC:0000303 ! Myopathy, Distal
 id: OMIM:617035
 name: Patent Ductus Arteriosus 2; PDA2
 is_a: DC:0000726 ! Patent Ductus Arteriosus
+
+[Term]
+id: OMIM:617039
+name: Patent Ductus Arteriosus 3; PDA3
+is_a: DC:0000726 ! Patent Ductus Arteriosus
+
+[Term]
+id: OMIM:617041
+name: Duane Retraction Syndrome 3 with or without Deafness; DURS3
+is_a: DC:0000122 ! Duane Retraction Syndrome
+
+[Term]
+id: OMIM:617044
+name: Short Stature, Developmental Delay, and Congenital Heart Defects;
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617047
+name: Cardiomyopathy, Familial Hypertrophic, 26; CMH26
+is_a: DC:0000066 ! Cardiomyopathy, Familial Hypertrophic
 
