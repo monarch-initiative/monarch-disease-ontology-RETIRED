@@ -1,5 +1,5 @@
 format-version: 1.2
-date: 25:07:2016 11:01
+date: 01:08:2016 10:53
 saved-by: smb
 auto-generated-by: OBO-Edit 2.3.1
 default-namespace: MGI_disease_ontology
@@ -24473,7 +24473,7 @@ is_a: DC:0000138 ! Disease Cluster
 [Term]
 id: OMIM:309850
 name: Monoamine Oxidase A; MAOA
-is_a: DC:0000138 ! Disease Cluster
+is_obsolete: true
 
 [Term]
 id: OMIM:309900
@@ -45738,7 +45738,52 @@ name: Short Stature, Developmental Delay, and Congenital Heart Defects;
 is_a: DC:0000138 ! Disease Cluster
 
 [Term]
+id: OMIM:617046
+name: Spastic Paraplegia 77, Autosomal Recessive; SPG77
+is_a: DC:0000410 ! Spastic Paraplegia
+
+[Term]
 id: OMIM:617047
 name: Cardiomyopathy, Familial Hypertrophic, 26; CMH26
 is_a: DC:0000066 ! Cardiomyopathy, Familial Hypertrophic
+
+[Term]
+id: OMIM:617049
+name: Cholestasis, Progressive Familial Intrahepatic, 5; PFIC5
+is_a: DC:0000078 ! Cholestasis
+
+[Term]
+id: OMIM:617050
+name: Hermansky-Pudlak Syndrome 10; HPS10
+is_a: DC:0000530 ! Hermansky-Pudlak Syndrome
+
+[Term]
+id: OMIM:617051
+name: Mental Retardation, Autosomal Recessive 55; MRT55
+is_a: DC:0000655 ! Mental Retardation, Autosomal Recessive
+
+[Term]
+id: OMIM:617052
+name: Bone Marrow Failure Syndrome 3; BMFS3
+is_a: DC:0000621 ! Bone Marrow Failure Syndrome
+
+[Term]
+id: OMIM:617053
+name: Mirage Syndrome; MIRAGE
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617054
+name: Striatonigral Degeneration, Childhood-Onset; SNDC
+is_a: DC:0000138 ! Disease Cluster
+
+[Term]
+id: OMIM:617055
+name: Cold-Induced Sweating Syndrome 3; CISS3
+is_a: DC:0000497 ! Cold-Induced Sweating Syndrome
+
+[Term]
+id: OMIM:617056
+name: Hyperuricemic Nephropathy, Familial Juvenile, 4; HNFJ4
+is_a: DC:0000208 ! Hyperuricemic Nephropathy, Familial Juvenile
 
