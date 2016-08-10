@@ -14,8 +14,17 @@ neoplasm.owl:
 neoplasm-fixiri.owl: neoplasm.owl
 	perl -npe 's@http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#@http://purl.obolibrary.org/obo/NCIT_@g' $< > $@
 
-neoplasm.obo: neoplasm-fixiri.owl
+neoplasm-all.obo: neoplasm-fixiri.owl
 	owltools $< --remove-annotation-assertions -l -r -d -s -o -f obo $@.tmp && mv $@.tmp $@
+
+obsolete.obo:
+	blip ontol-query -r ncit -query "inst_sv(ID,'P310','Obsolete_Concept',_)" -to obo > $@
+retired.obo:
+	blip ontol-query -r ncit -query "inst_sv(ID,'P310','Retired_Concept',_)" -to obo > $@
+
+# Hack until: https://github.com/ontodev/ncit-obo/issues/19
+neoplasm.obo: neoplasm-all.obo obsolete.obo retired.obo
+	obo-subtract.pl $^ > $@
 
 combined.obo: mpath.obo neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp > $@
