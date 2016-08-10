@@ -342,6 +342,25 @@ pair_relationship_scores_xref(A,B,m(xref,20,5,5,0)) :-
 */
 
 %% ========================================
+%% scoring based on prior knowledge
+%% ========================================
+pair_relationship_scores_prior(A,B,m(prior,1,1,200,1)) :-
+        logrel_symm(A,B,e),
+        !.
+pair_relationship_scores_prior(A,B,m(prior,1,200,1,1)) :-
+        logrel_symm(A,B,btnt),
+        !.
+pair_relationship_scores_prior(A,B,m(prior,200,1,1,1)) :-
+        logrel_symm(A,B,ntbt),
+        !.
+
+logrel_symm(A,B,T) :- logrel(A,B,T).
+logrel_symm(A,B,e) :- logrel(B,A,e).
+logrel_symm(A,B,btnt) :- logrel(B,A,ntbt).
+logrel_symm(A,B,ntbt) :- logrel(B,A,btnt).
+
+
+%% ========================================
 %% scoring based on ontology structure
 %% ========================================
 pair_relationship_scores_ont(_,B,m(ont,1,95,1,1)) :-
@@ -380,6 +399,10 @@ pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
 %% ========================================
 
 pair_relationship_scores(A,B,ST) :-
+        %% logrel
+        pair_relationship_scores_prior(A,B,ST).
+
+pair_relationship_scores(A,B,ST) :-
         %% Foo-type-N matches
         pair_relationship_scores_typematch(A,B,ST).
 
@@ -394,6 +417,7 @@ pair_relationship_scores(A,B,ST) :-
 pair_relationship_scores(A,B,ST) :-
         %% ontology
         pair_relationship_scores_ont(A,B,ST).
+
 
 
 

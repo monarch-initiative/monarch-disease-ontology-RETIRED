@@ -2,6 +2,9 @@ NCIT_OBO=../ncit/ncit_disease.obo
 
 OBO = http://purl.obolibrary.org/obo
 
+all: linked.owl
+
+
 mpath.obo:
 	wget --no-check-certificate $(OBO)/$@ -O $@
 .PRECIOUS: mpath.obo
@@ -38,8 +41,15 @@ combined.owl: combined.obo
 linked.owl: ptable.tsv combined.owl
 	kboom --experimental  --splitSize 50 --max 4 -m linked-rpt.md -j linked-rpt.json -n -o $@ -t $^
 
+linked-pathology.obo: combined.obo linked.owl
+	owltools $^ --merge-support-ontologies -o -f obo $@
+
 unlikely.md: linked-rpt.md
 	../mondo/unlikely-axiom-report.pl $< | head -200 > $@
 
 target/%.png: target/%.dot
 	dot  -Grankdir=BT -T png -o $@ $<
+
+sync-report:
+	cp unlikely.md combined.owl linked*{md,json} ptable*tsv ~/Dropbox/MonDO-Reports/mpath/
+	rsync -az target ~/Dropbox/MonDO-Reports/mpath/

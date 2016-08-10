@@ -30,3 +30,6 @@ orphanet-slim.obo: orphanet-phenome-obostyle.obo.obo slim.tsv
 
 orphanet_xp.obo: orphanet-slim.obo	
 	obol  qobol -i $< -r pato -r DOID -tag orphanet -idspace Orphanet -export obo > $@
+
+orphanet-logrel.pro: orphanet-obostyle.obo
+	./xref2logic.pl $< > $@
