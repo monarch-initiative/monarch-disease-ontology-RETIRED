@@ -238,6 +238,12 @@ pair_relationship_scores_lexical(A,B,m(lexical,1,21,2,1)) :-
         sub_atom(NB,_,_,_,NA),  % NA is a substring of NB, and thus a superclass of NB
         !.
 
+% match, but where at least one scope is unreliable
+pair_relationship_scores_lexical(A,B,m(lexical,2,2,5,1)) :-
+        entity_nlabel_scope_stemmed(A,N,_,_),
+        entity_nlabel_scope_stemmed(B,N,_,_),
+        !.
+
 % substrings; non-exact syn; weak score as relateds are unreliable
 pair_relationship_scores_lexical(A,B,m(lexical,4,1,2,1)) :-
         entity_label_scope(A,NA,SA),
@@ -336,17 +342,36 @@ pair_relationship_scores_xref(A,B,m(xref,20,5,5,0)) :-
 */
 
 %% ========================================
+%% scoring based on prior knowledge
+%% ========================================
+pair_relationship_scores_prior(A,B,m(prior,1,1,200,1)) :-
+        logrel_symm(A,B,e),
+        !.
+pair_relationship_scores_prior(A,B,m(prior,1,200,1,1)) :-
+        logrel_symm(A,B,btnt),
+        !.
+pair_relationship_scores_prior(A,B,m(prior,200,1,1,1)) :-
+        logrel_symm(A,B,ntbt),
+        !.
+
+logrel_symm(A,B,T) :- logrel(A,B,T).
+logrel_symm(A,B,e) :- logrel(B,A,e).
+logrel_symm(A,B,btnt) :- logrel(B,A,ntbt).
+logrel_symm(A,B,ntbt) :- logrel(B,A,btnt).
+
+
+%% ========================================
 %% scoring based on ontology structure
 %% ========================================
 pair_relationship_scores_ont(_,B,m(ont,1,95,1,1)) :-
         id_idspace(B,'OMIA'),  %
         !.
 pair_relationship_scores_ont(A,B,m(ont,100,0,0,1)) :-
-        subset(B,'Orphanet:377794'), % group of disorders
+        entity_partition(B,'Orphanet:377794'), % group of disorders
         id_idspace(A,'OMIM'),
         !.
 pair_relationship_scores_ont(A,B,m(ont,10,10,20,1)) :-
-        subset(B,'Orphanet:377788'), % disease
+        entity_partition(B,'Orphanet:377788'), % disease
         id_idspace(A,'OMIM'),
         !.
 pair_relationship_scores_ont(A,B,m(ont,1,20,1,1)) :-
@@ -374,6 +399,10 @@ pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
 %% ========================================
 
 pair_relationship_scores(A,B,ST) :-
+        %% logrel
+        pair_relationship_scores_prior(A,B,ST).
+
+pair_relationship_scores(A,B,ST) :-
         %% Foo-type-N matches
         pair_relationship_scores_typematch(A,B,ST).
 
@@ -388,6 +417,7 @@ pair_relationship_scores(A,B,ST) :-
 pair_relationship_scores(A,B,ST) :-
         %% ontology
         pair_relationship_scores_ont(A,B,ST).
+
 
 
 

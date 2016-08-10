@@ -19,6 +19,7 @@
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo Orphanet_791 Retinitis Pigmentosa
 0.95 DOID_3429 inclusion body myositis EquivalentTo MESH_D018979 Myositis, Inclusion Body
 0.95 DOID_3429 inclusion body myositis EquivalentTo Orphanet_611 Inclusion body myositis
+0.80 OMIM_605637 Myopathy, Proximal, and Ophthalmoplegia SubClassOf DOID_3429 inclusion body myositis 
 0.0 OMIM_235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 SiblingOf Orphanet_90038 Typical hemolytic-uremic syndrome
 0.8 OMIM_300100 Adrenoleukodystrophy SubClassOf DOID_10588 adrenoleukodystrophy
 0.8 OMIM_300100 Adrenoleukodystrophy EquivalentTo Orphanet_139396 X-linked cerebral adrenoleukodystrophy
@@ -64,4 +65,15 @@
 0.99 OMIM_158580 Neuronopathy, Distal Hereditary Motor, Type 7A SiblingOf DOID_0050541 Charcot-Marie-Tooth disease type 4
 0.75 MESH_D025063 Chromosome Disorders EquivalentTo Orphanet_68335 Chromosomal anomaly
 
+# See https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/163
+0.99 Orphanet_309310 Mucopolysaccharidosis type 4B SubClassOf DOID_12804 mucopolysaccharidosis IV
+0.99 Orphanet_309297 Mucopolysaccharidosis type 4A SubClassOf DOID_12804 mucopolysaccharidosis IV
 
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612922 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 2
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612923 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 3
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612924 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 4
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612925 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 5
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612926 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 6
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_615008 Nephrotic Syndrome, Type 7
+1.0 DOID_1686 glaucoma EquivalentTo MESH_D005901 Glaucoma

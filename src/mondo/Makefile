@@ -10,6 +10,7 @@ OMIA_OBO=../omia/omia.obo
 OMIAG_OBO=../omia/omia-generic.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
 ORDO_SLIM=../orphanet/orphanet-slim.obo
+ORDO_LOGREL=../orphanet/orphanet-logrel.pro
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
 MESH_TRIM=../medic/mesh-final.obo
@@ -38,17 +39,18 @@ foobar:
 
 set-%.owl: set-%.obo
 	owltools $< -o $@
+.PRECIOUS: set-%.owl
 
 ## --
 ## INITIAL INPUTS: PROBABILISTIC EDGES
 ## --
 # translate xrefs to estimates of prior probabilities of equivalence
 set-%-ptable.tsv: set-%.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  xref_ptable/6 -consult probmatch.pro -no_pred > $@.tmp && mv $@.tmp $@
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -i $(ORDO_LOGREL) -consult probmatch.pro xref_ptable/6 -no_pred > $@.tmp && mv $@.tmp $@
 .PRECIOUS: set-%-ptable.tsv
 
 set-%-ptable-debug.tsv: set-%.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $<  -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@.tmp && mv $@.tmp $@
+	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -i $(ORDO_LOGREL) -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@.tmp && mv $@.tmp $@
 
 set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv 
 	fix-probs.pl $^ > $@.tmp && mv $@.tmp $@
@@ -59,7 +61,8 @@ set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv
 
 # lBOOM parameters
 # MAX_E := 9  -- failing..?
-MAX_E := 9
+#MAX_E := 9
+MAX_E := 5
 
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^

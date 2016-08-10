@@ -9,4 +9,4 @@ omim.owl: mirror-omim.ttl
 .PRECIOUS: omim.owl
 
 omim.obo: omim.owl blacklist.obo
-	owltools $^ --merge-support-ontologies -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | perl -npe 's@ EXACT @ RELATED @'  | ./hide-defs.pl	 > $@
+	owltools $^ --merge-support-ontologies -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | ./fix-syns.pl  | ./hide-defs.pl > $@
