@@ -77,3 +77,7 @@
 1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_612926 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 6
 1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SubClassOf OMIM_615008 Nephrotic Syndrome, Type 7
 1.0 DOID_1686 glaucoma EquivalentTo MESH_D005901 Glaucoma
+1.0 DOID_0050125 dengue shock syndrome SiblingOf OMIM_614371 Dengue Virus, Susceptibility to
+1.0 Orphanet_99828 Dengue fever SiblingOf OMIM_614371 Dengue Virus, Susceptibility to
+0.9 DOID_12205 dengue disease EquivalentTo MESH_D003715 Dengue
+0.9 DOID_12205 dengue disease EquivalentTo Orphanet_99828 Dengue fever
