@@ -16,6 +16,7 @@ DOID_OBO=../doid/doid.obo
 MESH_TRIM=../medic/mesh-final.obo
 DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
 NCIT_OBO=../ncit/ncit_disease.obo
+NEOPLASM_OBO=../ncit/neoplasm.obo
 GARD_OBO=../gard/gard.obo
 GARD_XREFS=../gard/gard-xrefs.obo
 MEDGEN = ../medgen/medgen-disease-extract.obo
@@ -31,7 +32,7 @@ MEDGEN = ../medgen/medgen-disease-extract.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS) $(NCIT_OBO) xrefs-doid-to-ncit.obo
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
 foobar:
@@ -194,6 +195,9 @@ align-doid-to-decipher.tsv: $(CLUSTERS)/decipherclusters.obo
 align-doid-to-mesh.tsv: mesh.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+align-doid-to-neoplasm.tsv: $(NEOPLASM_OBO)
+	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
 align-doid-to-ncit.tsv: $(NCIT_OBO)
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
@@ -286,3 +290,7 @@ disease2go.obo: disease2go.tsv
 sync-report:
 	cp set-1.owl linked-1*{md,json,html} set-1-ptable*tsv ~/Dropbox/MonDO-Reports/
 	rsync -az target ~/Dropbox/MonDO-Reports/
+
+sync-ncit-report:
+	cp set-1.owl linked-1*{md,json,html} set-1-ptable*tsv ~/Dropbox/MonDO-Reports/ncit/
+	rsync -az target ~/Dropbox/MonDO-Reports/ncit/
