@@ -35,6 +35,9 @@ combined.obo: mpath.obo neoplasm.obo
 ptable.tsv: combined.obo
 	blip-findall -debug index -i $< -u metadata_nlp -goal index_entity_pair_label_match entity_pair_mprobs/6 -no_pred > $@
 
+ptable-debug.tsv: combined.obo
+	blip-findall -debug index -i $< -u metadata_nlp -goal index_entity_pair_label_match entity_pair_label_match/6 -label -no_pred > $@
+
 combined.owl: combined.obo
 	owltools $< -o $@
 

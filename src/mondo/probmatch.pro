@@ -359,6 +359,53 @@ logrel_symm(A,B,e) :- logrel(B,A,e).
 logrel_symm(A,B,btnt) :- logrel(B,A,ntbt).
 logrel_symm(A,B,ntbt) :- logrel(B,A,btnt).
 
+/*
+
+IMPORTANT NOTE:
+logrel(Ordo,Omim,Type) is loaded from the ordo obo file
+
+not clear what the direction of btnt vs ntbt is
+
+$ grep -c btnt z
+3549
+  
+here, the obvious interpretation is consistent with the facts:
+  
+Orphanet:91378 ! Hereditary angioedema  OMIM:106100 ! Angioedema, Hereditary, Type 1    btnt
+Orphanet:91378 ! Hereditary angioedema  OMIM:610618 ! Angioedema, Hereditary, Type 3    btnt
+  
+Orphanet:93387 ! Brachydactyly type E   OMIM:113300 ! Brachydactyly, Type E1    e
+Orphanet:93387 ! Brachydactyly type E   OMIM:613382 ! Brachydactyly, Type E2    btnt
+
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:115700 ! Cataract 4, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116100 ! Cataract 20, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116200 ! Cataract 1, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116600 ! Cataract 6, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116700 ! Cataract 13 With Adult I Phenotype        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116800 ! Cataract 5, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:600881 ! Cataract 10, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:601547 ! Cataract 3, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:601885 ! Cataract 14, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:604219 ! Cataract 9, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:604307 ! Cataract 2, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:605387 ! Cataract 31, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:609741 ! Cataract 22, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:610202 ! Cataract 21, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:610623 ! Cataract 11, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:611544 ! Cataract 17, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:613763 ! Cataract 16, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:615188 ! Cataract 39, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:615274 ! Cataract 15, Multiple Types       btnt
+
+and similarly, from ntbt, we assume the orphanet is the broader, which is consistent
+  
+Orphanet:93612 ! Cystinuria type A      OMIM:220100 ! Cystinuria        ntbt
+Orphanet:93613 ! Cystinuria type B      OMIM:220100 ! Cystinuria        ntbt
+
+  
+  
+  */
+
 
 %% ========================================
 %% scoring based on ontology structure
