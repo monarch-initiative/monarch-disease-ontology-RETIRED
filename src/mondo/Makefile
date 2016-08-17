@@ -1,4 +1,4 @@
-all: mondo.obo mondo.owl
+all: set-1.obo linked-1.obo mondo.obo mondo.owl
 #all: mondo.obo mondo.owl mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
 #all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
@@ -32,7 +32,7 @@ MEDGEN = ../medgen/medgen-disease-extract.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS)
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
 foobar:
@@ -68,6 +68,9 @@ MAX_E := 5
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 .PRECIOUS: linked-%.owl
+
+linked-%.obo: linked-%.owl 
+	owltools $< --set-ontology-id $(OBO)/$@ -o -f obo $@.tmp && obo-add-comments.pl -t id -t equivalent_to -t is_a set-$*.obo $@.tmp > $@
 
 test-%.owl: set-1-amended-ptable.tsv set-1.owl
 	kboom --experimental -c $*  --splitSize 9999 --max 2 -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
