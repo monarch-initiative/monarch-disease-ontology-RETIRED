@@ -397,10 +397,26 @@ Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:613763 ! Cataract 1
 Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:615188 ! Cataract 39, Multiple Types       btnt
 Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:615274 ! Cataract 15, Multiple Types       btnt
 
-and similarly, from ntbt, we assume the orphanet is the broader, which is consistent
+and similarly, from ntbt, we assume the orphanet is the broader, which is consistent:
   
 Orphanet:93612 ! Cystinuria type A      OMIM:220100 ! Cystinuria        ntbt
 Orphanet:93613 ! Cystinuria type B      OMIM:220100 ! Cystinuria        ntbt
+
+  
+blip-findall  -i orphanet-logrel.pro -r ordo -r omim "logrel(A,B,ntbt),subclass(A,T),id_idspace(B,'OMIM')" -select T -label | count-occ.pl | mysort -k1 -n
+1       Orphanet:231692 ! Isolated growth hormone deficiency type III
+1       Orphanet:98995 ! Early-onset zonular cataract
+1       Orphanet:377792 ! clinical syndrome
+1       Orphanet:98992 ! Early-onset partial cataract
+2       Orphanet:377794 ! group of disorders
+2       Orphanet:182067 ! Glial tumor
+4       Orphanet:166081 ! Von Willebrand disease type 2
+6       Orphanet:377797 ! histopathological subtype
+15      Orphanet:377795 ! etiological subtype
+27      Orphanet:377791 ! morphological anomaly
+50      Orphanet:377789 ! malformation syndrome
+77      Orphanet:377796 ! clinical subtype
+231     Orphanet:377788 ! disease
 
   
   
@@ -429,7 +445,7 @@ pair_relationship_scores_ont(A,B,m(ont,20,1,1,1)) :-
         \+ \+ subclass(_,B),          % has a subclass - not a leaf
         id_idspace(A,'OMIM'),
         !.
-pair_relationship_scores_ont(A,B,m(ont,1,1,10,1)) :-
+pair_relationship_scores_ont(A,B,m(ont,1,2,10,1)) :-
         id_idspace(A,'DOID'),   % is in DO and
         \+ subclass(_,A),       % is a leaf
         id_idspace(B,'OMIM'),

@@ -1,4 +1,4 @@
-all: set-1.obo linked-1.obo mondo.obo mondo.owl
+all: set-1.obo linked-1.obo mondo.obo mondo.owl unlikely.md
 #all: mondo.obo mondo.owl mondo_score2.tsv mondo_score1.tsv mondo_score2.tsv mondo_unclassified.tsv
 #all_rest: missing-omc.obo missing-omimps.obo sim-omc.tsv
 
@@ -63,7 +63,7 @@ set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv
 # lBOOM parameters
 # MAX_E := 9  -- failing..?
 #MAX_E := 9
-MAX_E := 5
+MAX_E := 6
 
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
