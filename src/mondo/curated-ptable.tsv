@@ -82,3 +82,4 @@
 0.9 DOID_12205 dengue disease EquivalentTo MESH_D003715 Dengue
 0.9 DOID_12205 dengue disease EquivalentTo Orphanet_99828 Dengue fever
 0.99 Orphanet_558 Marfan syndrome SiblingOf OMIM_610168 Loeys-Dietz Syndrome 2 
+0.9 MESH_D006319 Hearing Loss, Sensorineural SubClassOf DOID_10003 sensorineural hearing loss 
