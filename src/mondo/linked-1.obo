@@ -242,6 +242,7 @@ equivalent_to: Orphanet:466 ! Fatal familial insomnia
 id: DOID:0050434 ! Andersen-Tawil syndrome
 is_a: Orphanet:367 ! Glycogen storage disease due to glycogen branching enzyme deficiency
 equivalent_to: MESH:D050030 ! Andersen Syndrome
+equivalent_to: OMIM:170390 ! Andersen Cardiodysrhythmic Periodic Paralysis
 equivalent_to: Orphanet:37553 ! Cardiodysrhythmic potassium-sensitive periodic paralysis
 
 [Term]
@@ -285,6 +286,7 @@ equivalent_to: Orphanet:772 ! Infantile Refsum disease
 [Term]
 id: DOID:0050445 ! X-linked hypophosphatemic rickets
 is_a: MESH:D053098 ! Familial Hypophosphatemic Rickets
+equivalent_to: OMIM:307800 ! Hypophosphatemic Rickets, X-Linked Dominant
 equivalent_to: Orphanet:89936 ! X-linked hypophosphatemia
 
 [Term]
@@ -317,7 +319,6 @@ equivalent_to: Orphanet:29 ! Mevalonic aciduria
 
 [Term]
 id: DOID:0050453 ! lissencephaly
-equivalent_to: MESH:D054082 ! Lissencephaly
 equivalent_to: Orphanet:48471 ! Lissencephaly
 
 [Term]
@@ -383,9 +384,7 @@ equivalent_to: MESH:D055947 ! Loeys-Dietz Syndrome
 
 [Term]
 id: DOID:0050467 ! erythrokeratodermia variabilis
-is_a: MESH:D056266 ! Erythrokeratodermia Variabilis
-is_a: OMIM:133200 ! Erythrokeratodermia Variabilis Et Progressiva
-equivalent_to: Orphanet:317 ! Erythrokeratodermia variabilis
+equivalent_to: MESH:D056266 ! Erythrokeratodermia Variabilis
 
 [Term]
 id: DOID:0050468 ! yellow nail syndrome
@@ -570,7 +569,6 @@ equivalent_to: OMIM:253800 ! Muscular Dystrophy-Dystroglycanopathy (Congenital W
 
 [Term]
 id: DOID:0050560 ! Walker-Warburg syndrome
-is_a: OMIM:236670 ! Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1
 equivalent_to: Orphanet:899 ! Walker-Warburg syndrome
 
 [Term]
@@ -619,6 +617,10 @@ equivalent_to: Orphanet:19 ! 2-hydroxyglutaric aciduria
 id: DOID:0050574 ! L-2-hydroxyglutaric aciduria
 equivalent_to: OMIM:236792 ! L-2-Hydroxyglutaric Aciduria
 equivalent_to: Orphanet:79314 ! L-2-hydroxyglutaric aciduria
+
+[Term]
+id: DOID:0050575 ! D-2-hydroxyglutaric aciduria
+equivalent_to: Orphanet:79315 ! D-2-hydroxyglutaric aciduria
 
 [Term]
 id: DOID:0050578 ! occult macular dystrophy
@@ -970,6 +972,7 @@ equivalent_to: Orphanet:1934 ! Early infantile epileptic encephalopathy
 
 [Term]
 id: DOID:0050710 ! 3-Methylcrotonyl-CoA carboxylase deficiency
+equivalent_to: OMIM:210200 ! 3-Methylcrotonyl-Coa Carboxylase 1 Deficiency
 equivalent_to: Orphanet:6 ! Isolated 3-methylcrotonyl-CoA carboxylase deficiency
 
 [Term]
@@ -1081,6 +1084,7 @@ equivalent_to: Orphanet:52416 ! Mantle cell lymphoma
 id: DOID:0050747 ! lymphoplasmacytic lymphoma
 is_a: MESH:D008258 ! Waldenstrom Macroglobulinemia
 is_a: Orphanet:33226 ! WaldenstrC6m macroglobulinemia
+equivalent_to: OMIM:610430 ! WM2
 
 [Term]
 id: DOID:0050748 ! marginal zone B-cell lymphoma
@@ -1222,8 +1226,7 @@ equivalent_to: Orphanet:98634 ! Iridogoniodysgenesis
 
 [Term]
 id: DOID:0050787 ! juvenile polyposis syndrome
-is_a: Orphanet:2929 ! Juvenile polyposis syndrome
-equivalent_to: OMIM:174900 ! Juvenile Polyposis Syndrome
+equivalent_to: Orphanet:2929 ! Juvenile polyposis syndrome
 
 [Term]
 id: DOID:0050788 ! proximal symphalangism
@@ -1280,14 +1283,10 @@ equivalent_to: OMIM:300352 ! Cerebral Creatine Deficiency Syndrome 1
 equivalent_to: Orphanet:52503 ! X-linked creatine transporter deficiency
 
 [Term]
-id: DOID:0050801 ! androgenic alopecia
-is_a: OMIM:109200 ! AGA1
-
-[Term]
 id: DOID:0050802 ! Ehlers-Danlos syndrome progeroid type
-is_a: OMIM:130070 ! Ehlers-Danlos Syndrome, Progeroid Type, 1
-is_a: Orphanet:75496 ! Ehlers-Danlos syndrome, progeroid type
-equivalent_to: OMIM:615349 ! Ehlers-Danlos Syndrome, Progeroid Type, 2
+equivalent_to: MESH:C536201 ! Ehlers-Danlos syndrome, progeroid form
+equivalent_to: OMIM:130070 ! Ehlers-Danlos Syndrome, Progeroid Type, 1
+equivalent_to: Orphanet:75496 ! Ehlers-Danlos syndrome, progeroid type
 
 [Term]
 id: DOID:0050807 ! Kahrizi syndrome
@@ -1330,6 +1329,7 @@ equivalent_to: Orphanet:859 ! Transcobalamin deficiency
 
 [Term]
 id: DOID:0050819 ! Matthew-Wood syndrome
+equivalent_to: OMIM:601186 ! Microphthalmia, Syndromic 9
 equivalent_to: Orphanet:2470 ! Matthew-Wood syndrome
 
 [Term]
@@ -2186,6 +2186,7 @@ equivalent_to: Orphanet:41 ! Dyschromatosis symmetrica hereditaria
 id: DOID:0060258 ! reticulate acropigmentation of Kitamura
 is_a: MESH:C562924 ! Dowling-Degos Disease
 equivalent_to: OMIM:615537 ! Reticulate Acropigmentation of Kitamura
+equivalent_to: Orphanet:178307 ! Reticulate acropigmentation of Kitamura
 
 [Term]
 id: DOID:0060259 ! renal-hepatic-pancreatic dysplasia
@@ -2238,6 +2239,8 @@ equivalent_to: OMIM:612389 ! Pontocerebellar Hypoplasia, Type 2B
 
 [Term]
 id: DOID:0060269 ! pontocerebellar hypoplasia type 2C
+is_a: Orphanet:2524 ! Pontocerebellar hypoplasia type 2
+equivalent_to: MESH:C567324 ! Pontocerebellar Hypoplasia Type 2C
 equivalent_to: OMIM:612390 ! Pontocerebellar Hypoplasia, Type 2C
 
 [Term]
@@ -2350,11 +2353,11 @@ equivalent_to: Orphanet:79344 ! Autosomal dominant chondrodysplasia punctata
 
 [Term]
 id: DOID:0060294 ! cold-induced sweating syndrome
-equivalent_to: MESH:C536214 ! Crisponi syndrome
-equivalent_to: Orphanet:1545 ! Crisponi syndrome
+equivalent_to: Orphanet:157820 ! Cold-induced sweating syndrome
 
 [Term]
 id: DOID:0060295 ! complement component 2 deficiency
+is_a: Orphanet:169147 ! Immunodeficiency due to an early component of complement deficiency
 equivalent_to: OMIM:217000 ! Complement Component 2 Deficiency
 
 [Term]
@@ -2370,10 +2373,12 @@ equivalent_to: OMIM:614380 ! Complement Component 4A Deficiency
 
 [Term]
 id: DOID:0060298 ! complement component 4b deficiency
+is_a: Orphanet:169147 ! Immunodeficiency due to an early component of complement deficiency
 equivalent_to: OMIM:614379 ! Complement Component 4B Deficiency
 
 [Term]
 id: DOID:0060299 ! complement component 6 deficiency
+is_a: Orphanet:169150 ! Immunodeficiency due to a late component of complements deficiency
 equivalent_to: OMIM:612446 ! Complement Component 6 Deficiency
 
 [Term]
@@ -2495,6 +2500,7 @@ equivalent_to: OMIM:614053 ! Mitochondrial Complex 5 (Atp Synthase) Deficiency, 
 
 [Term]
 id: DOID:0060333 ! mitochondrial complex V (ATP synthase) deficiency nuclear type 4
+is_a: Orphanet:254913 ! Isolated ATP synthase deficiency
 equivalent_to: OMIM:615228 ! Mitochondrial Complex 5 (Atp Synthase) Deficiency, Nuclear Type 4
 
 [Term]
@@ -3120,7 +3126,6 @@ equivalent_to: Orphanet:443167 ! NUT midline carcinoma
 
 [Term]
 id: DOID:0060464 ! Feingold syndrome
-equivalent_to: MESH:C537734 ! Oculodigitoesophagoduodenal syndrome
 equivalent_to: Orphanet:1305 ! Feingold syndrome
 
 [Term]
@@ -3147,6 +3152,7 @@ equivalent_to: Orphanet:392 ! Holt-Oram syndrome
 [Term]
 id: DOID:0060469 ! Miller-Dieker lissencephaly syndrome
 equivalent_to: OMIM:247200 ! Miller-Dieker Lissencephaly Syndrome
+equivalent_to: Orphanet:531 ! Miller-Dieker syndrome
 
 [Term]
 id: DOID:0060470 ! salt and pepper syndrome
@@ -3194,7 +3200,9 @@ equivalent_to: Orphanet:811 ! Shwachman-Diamond syndrome
 [Term]
 id: DOID:0060481 ! Goldberg-Shprintzen syndrome
 is_a: Orphanet:2462 ! Shprintzen-Goldberg syndrome
+equivalent_to: MESH:C537279 ! Goldberg-Shprintzen megacolon syndrome
 equivalent_to: OMIM:609460 ! Goldberg-Shprintzen Syndrome
+equivalent_to: Orphanet:66629 ! Goldberg-Shprintzen megacolon syndrome
 
 [Term]
 id: DOID:0060482 ! oculoauricular syndrome
@@ -3305,6 +3313,18 @@ id: DOID:0060549 ! Barber-Say syndrome
 equivalent_to: MESH:C537908 ! Barber Say syndrome
 equivalent_to: OMIM:209885 ! Barber-Say Syndrome
 equivalent_to: Orphanet:1231 ! Barber-Say syndrome
+
+[Term]
+id: DOID:0060550 ! ablepharon macrostomia syndrome
+is_a: Orphanet:221046 ! Poikiloderma with neutropenia
+equivalent_to: MESH:C535557 ! Ablepharon macrostomia syndrome
+equivalent_to: OMIM:200110 ! Ablepharon-Macrostomia Syndrome
+equivalent_to: Orphanet:920 ! Ablepharon macrostomia syndrome
+
+[Term]
+id: DOID:0060551 ! poikiloderma with neutropenia
+equivalent_to: OMIM:604173 ! Poikiloderma With Neutropenia
+equivalent_to: Orphanet:221046 ! Poikiloderma with neutropenia
 
 [Term]
 id: DOID:0060556 ! Kufor-Rakeb syndrome
@@ -3779,7 +3799,7 @@ equivalent_to: Orphanet:45358 ! Congenital fibrosis of extraocular muscles
 
 [Term]
 id: DOID:10003 ! sensorineural hearing loss
-equivalent_to: MESH:D006319 ! Hearing Loss, Sensorineural
+equivalent_to: MESH:D006316 ! Hearing Loss, High-Frequency
 
 [Term]
 id: DOID:10011 ! thyroid lymphoma
@@ -4656,7 +4676,9 @@ equivalent_to: MESH:D015299 ! Discitis
 
 [Term]
 id: DOID:1099 ! alpha thalassemia
-equivalent_to: Orphanet:93616 ! Hemoglobin H disease
+equivalent_to: MESH:D017085 ! alpha-Thalassemia
+equivalent_to: OMIM:604131 ! Alpha-Thalassemia
+equivalent_to: Orphanet:846 ! Alpha-thalassemia
 
 [Term]
 id: DOID:10991 ! basal ganglia cerebrovascular disease
@@ -5739,6 +5761,7 @@ equivalent_to: Orphanet:848 ! Beta-thalassemia
 
 [Term]
 id: DOID:12252 ! Cushing's syndrome
+is_a: Orphanet:553 ! Cushing syndrome
 equivalent_to: MESH:D003480 ! Cushing Syndrome
 
 [Term]
@@ -5757,7 +5780,7 @@ equivalent_to: MESH:D003103 ! Coloboma
 
 [Term]
 id: DOID:12271 ! aniridia
-equivalent_to: OMIM:106210 ! Aniridia
+equivalent_to: Orphanet:77 ! Aniridia
 
 [Term]
 id: DOID:12273 ! anisometropia
@@ -5785,8 +5808,7 @@ equivalent_to: Orphanet:464 ! Incontinentia pigmenti
 
 [Term]
 id: DOID:12306 ! vitiligo
-is_a: MESH:D014820 ! Vitiligo
-equivalent_to: OMIM:193200 ! VAMAS6
+equivalent_to: MESH:D014820 ! Vitiligo
 
 [Term]
 id: DOID:12308 ! Dubin-Johnson syndrome
@@ -5796,7 +5818,9 @@ equivalent_to: Orphanet:234 ! Dubin-Johnson syndrome
 
 [Term]
 id: DOID:12309 ! urticaria pigmentosa
+is_a: OMIM:154800 ! Mast Cell Disease
 equivalent_to: MESH:D014582 ! Urticaria Pigmentosa
+equivalent_to: Orphanet:79457 ! Maculopapular cutaneous mastocytosis
 
 [Term]
 id: DOID:12318 ! corneal granular dystrophy
@@ -6190,8 +6214,7 @@ equivalent_to: Orphanet:64686 ! Tolosa-Hunt syndrome
 
 [Term]
 id: DOID:12783 ! migraine without aura
-is_a: MESH:D020326 ! Migraine without Aura
-equivalent_to: OMIM:607501 ! Migraine Without Aura, Susceptibility To, 4
+equivalent_to: MESH:D020326 ! Migraine without Aura
 
 [Term]
 id: DOID:12785 ! diabetic polyneuropathy
@@ -7331,6 +7354,7 @@ equivalent_to: MESH:D000141 ! Acidosis, Renal Tubular
 
 [Term]
 id: DOID:14221 ! metabolic syndrome X
+is_a: Orphanet:68367 ! Rare inborn errors of metabolism
 equivalent_to: MESH:D024821 ! Metabolic Syndrome X
 
 [Term]
@@ -7424,7 +7448,8 @@ equivalent_to: MESH:D011001 ! Pleuropneumonia
 
 [Term]
 id: DOID:14323 ! Marfan syndrome
-equivalent_to: OMIM:154700 ! Marfan Syndrome
+equivalent_to: MESH:D008382 ! Marfan Syndrome
+equivalent_to: Orphanet:558 ! Marfan syndrome
 
 [Term]
 id: DOID:14330 ! Parkinson's disease
@@ -7667,7 +7692,7 @@ equivalent_to: MESH:D007762 ! Labyrinthitis
 
 [Term]
 id: DOID:14681 ! Silver-Russell syndrome
-equivalent_to: OMIM:180860 ! Silver-Russell Syndrome
+equivalent_to: Orphanet:813 ! Silver-Russell syndrome
 
 [Term]
 id: DOID:14683 ! Binder syndrome
@@ -7719,8 +7744,13 @@ equivalent_to: OMIM:606054 ! Propionic Acidemia
 equivalent_to: Orphanet:35 ! Propionic acidemia
 
 [Term]
+id: DOID:14702 ! branchiootorenal syndrome
+equivalent_to: MESH:D019280 ! Branchio-Oto-Renal Syndrome
+equivalent_to: Orphanet:107 ! BOR syndrome
+
+[Term]
 id: DOID:14705 ! Pfeiffer syndrome
-equivalent_to: OMIM:101600 ! Pfeiffer Syndrome
+equivalent_to: Orphanet:710 ! Pfeiffer syndrome
 
 [Term]
 id: DOID:14711 ! FG syndrome
@@ -7829,8 +7859,7 @@ equivalent_to: OMIM:150250 ! Larsen Syndrome
 
 [Term]
 id: DOID:14766 ! renal agenesis
-is_a: Orphanet:411709 ! Renal agenesis
-equivalent_to: OMIM:191830 ! Renal Hypodysplasia/Aplasia 1
+equivalent_to: Orphanet:411709 ! Renal agenesis
 
 [Term]
 id: DOID:14768 ! Saethre-Chotzen syndrome
@@ -8370,11 +8399,6 @@ equivalent_to: OMIM:118400 ! Cherubism
 equivalent_to: Orphanet:184 ! Cherubism
 
 [Term]
-id: DOID:1858 ! McCune Albright syndrome
-is_a: Orphanet:93276 ! Polyostotic fibrous dysplasia
-equivalent_to: OMIM:174800 ! Mccune-Albright Syndrome
-
-[Term]
 id: DOID:1862 ! jaw cancer
 equivalent_to: MESH:D007573 ! Jaw Neoplasms
 
@@ -8474,6 +8498,8 @@ equivalent_to: Orphanet:904 ! Williams syndrome
 
 [Term]
 id: DOID:1929 ! supravalvular aortic stenosis
+equivalent_to: MESH:D021921 ! Aortic Stenosis, Supravalvular
+equivalent_to: OMIM:185500 ! Supravalvular Aortic Stenosis
 equivalent_to: Orphanet:3193 ! Supravalvular aortic stenosis
 
 [Term]
@@ -8792,11 +8818,6 @@ id: DOID:2223 ! platelet storage pool deficiency
 equivalent_to: MESH:D010981 ! Platelet Storage Pool Deficiency
 
 [Term]
-id: DOID:2224 ! hemorrhagic thrombocythemia
-is_a: Orphanet:71493 ! Familial thrombocytosis
-equivalent_to: MESH:D013920 ! Thrombocythemia, Essential
-
-[Term]
 id: DOID:2226 ! chronic myeloproliferative disease
 equivalent_to: Orphanet:86830 ! Unclassified chronic myeloproliferative disease
 
@@ -8946,7 +8967,6 @@ equivalent_to: Orphanet:207 ! Crouzon disease
 
 [Term]
 id: DOID:2340 ! craniosynostosis
-equivalent_to: MESH:D003398 ! Craniosynostoses
 equivalent_to: Orphanet:1531 ! Craniosynostosis
 
 [Term]
@@ -9007,6 +9027,7 @@ equivalent_to: Orphanet:578 ! Mucolipidosis type IV
 
 [Term]
 id: DOID:2373 ! hereditary elliptocytosis
+equivalent_to: MESH:D004612 ! Elliptocytosis, Hereditary
 equivalent_to: Orphanet:288 ! Hereditary elliptocytosis
 
 [Term]
@@ -9109,8 +9130,6 @@ equivalent_to: MESH:D014134 ! Tracheal Neoplasms
 
 [Term]
 id: DOID:2481 ! infantile epileptic encephalopathy
-is_a: OMIM:300088 ! Epileptic Encephalopathy, Early Infantile, 9
-is_a: OMIM:613721 ! Epileptic Encephalopathy, Early Infantile, 11
 is_a: Orphanet:3451 ! West syndrome
 equivalent_to: MESH:D013036 ! Spasms, Infantile
 
@@ -9181,6 +9200,8 @@ equivalent_to: MESH:D013159 ! Splenic Infarction
 
 [Term]
 id: DOID:2538 ! Landau-Kleffner syndrome
+is_a: OMIM:245570 ! Epilepsy, Focal, With Speech Disorder and With or Without Mental Retardation
+equivalent_to: MESH:D018887 ! Landau-Kleffner Syndrome
 equivalent_to: Orphanet:98818 ! Landau-Kleffner syndrome
 
 [Term]
@@ -9825,7 +9846,6 @@ equivalent_to: Orphanet:342 ! Familial Mediterranean fever
 [Term]
 id: DOID:2988 ! antiphospholipid syndrome
 equivalent_to: MESH:D016736 ! Antiphospholipid Syndrome
-equivalent_to: OMIM:107320 ! Antiphospholipid Syndrome, Familial
 
 [Term]
 id: DOID:299 ! adenocarcinoma
@@ -10165,6 +10185,7 @@ is_a: MESH:D018317 ! Nerve Sheath Neoplasms
 [Term]
 id: DOID:3204 ! neurilemmomatosis
 equivalent_to: MESH:C536641 ! Schwannomatosis
+equivalent_to: Orphanet:93921 ! Neurofibromatosis type 3
 
 [Term]
 id: DOID:3209 ! junctional epidermolysis bullosa
@@ -10311,7 +10332,6 @@ equivalent_to: MESH:D014615 ! Vaccinia
 
 [Term]
 id: DOID:3301 ! gonadoblastoma
-is_a: OMIM:424500 ! GBY
 equivalent_to: MESH:D018238 ! Gonadoblastoma
 
 [Term]
@@ -10477,6 +10497,7 @@ equivalent_to: MESH:D003323 ! Coronary Aneurysm
 id: DOID:3369 ! Ewing sarcoma
 is_a: Orphanet:370348 ! Peripheral primitive neuroectodermal tumor
 equivalent_to: MESH:D012512 ! Sarcoma, Ewing
+equivalent_to: OMIM:612219 ! Ewing Sarcoma
 equivalent_to: Orphanet:319 ! Ewing sarcoma
 
 [Term]
@@ -10561,12 +10582,6 @@ id: DOID:3428 ! granulomatous myositis
 equivalent_to: Orphanet:206979 ! Granulomatous myositis
 
 [Term]
-id: DOID:3429 ! inclusion body myositis
-is_a: Orphanet:602 ! Distal myopathy, Nonaka type
-equivalent_to: MESH:D018979 ! Myositis, Inclusion Body
-equivalent_to: Orphanet:611 ! Inclusion body myositis
-
-[Term]
 id: DOID:3437 ! laryngitis
 equivalent_to: MESH:D007827 ! Laryngitis
 
@@ -10612,6 +10627,7 @@ is_a: MESH:D010930 ! Plague
 
 [Term]
 id: DOID:3482 ! plague
+equivalent_to: MESH:D010930 ! Plague
 equivalent_to: Orphanet:707 ! Plague
 
 [Term]
@@ -11240,6 +11256,7 @@ is_a: Orphanet:96253 ! Cushing disease
 [Term]
 id: DOID:3947 ! adrenal gland hyperfunction
 equivalent_to: MESH:D000308 ! Adrenocortical Hyperfunction
+equivalent_to: Orphanet:553 ! Cushing syndrome
 
 [Term]
 id: DOID:3948 ! adrenocortical carcinoma
@@ -11496,7 +11513,9 @@ equivalent_to: Orphanet:90291 ! Systemic sclerosis
 
 [Term]
 id: DOID:4183 ! pseudopseudohypoparathyroidism
+equivalent_to: MESH:D011556 ! Pseudopseudohypoparathyroidism
 equivalent_to: OMIM:612463 ! Pseudopseudohypoparathyroidism
+equivalent_to: Orphanet:79445 ! Pseudopseudohypoparathyroidism
 
 [Term]
 id: DOID:4184 ! pseudohypoparathyroidism
@@ -12008,8 +12027,7 @@ equivalent_to: MESH:C536368 ! Angiosarcoma of the breast
 
 [Term]
 id: DOID:452 ! pleomorphic adenoma
-is_a: MESH:D008949 ! Adenoma, Pleomorphic
-equivalent_to: OMIM:181030 ! Salivary Gland Adenoma, Pleomorphic
+equivalent_to: MESH:D008949 ! Adenoma, Pleomorphic
 
 [Term]
 id: DOID:4531 ! mucoepidermoid carcinoma
@@ -12136,7 +12154,7 @@ equivalent_to: MESH:D008441 ! Maxillary Neoplasms
 
 [Term]
 id: DOID:4624 ! Ollier disease
-equivalent_to: MESH:D004687 ! Enchondromatosis
+is_a: MESH:D004687 ! Enchondromatosis
 equivalent_to: OMIM:166000 ! Enchondromatosis, Multiple, Ollier Type
 equivalent_to: Orphanet:296 ! Enchondromatosis
 
@@ -12164,6 +12182,7 @@ is_a: OMIM:180200 ! Retinoblastoma
 
 [Term]
 id: DOID:4648 ! familial retinoblastoma
+is_a: MESH:D012175 ! Retinoblastoma
 is_a: Orphanet:790 ! Retinoblastoma
 equivalent_to: Orphanet:357027 ! Hereditary retinoblastoma
 
@@ -12774,7 +12793,6 @@ equivalent_to: Orphanet:213625 ! Leiomyosarcoma of the corpus uteri
 [Term]
 id: DOID:529 ! blepharospasm
 equivalent_to: MESH:D001764 ! Blepharospasm
-equivalent_to: OMIM:606798 ! Blepharospasm, Benign Essential
 
 [Term]
 id: DOID:5295 ! intestinal disease
@@ -14105,10 +14123,12 @@ equivalent_to: MESH:D001170 ! Arthritis, Infectious
 
 [Term]
 id: DOID:8158 ! complement component 5 deficiency
+is_a: Orphanet:169150 ! Immunodeficiency due to a late component of complements deficiency
 equivalent_to: OMIM:609536 ! Complement Component 5 Deficiency
 
 [Term]
 id: DOID:8161 ! thyroid hurthle cell carcinoma
+equivalent_to: MESH:C536913 ! Thyroid cancer, Hurthle cell
 equivalent_to: OMIM:607464 ! Thyroid Carcinoma, Hurthle Cell
 
 [Term]
@@ -14335,7 +14355,6 @@ equivalent_to: MESH:D006562 ! Herpes Zoster
 [Term]
 id: DOID:8538 ! reticulosarcoma
 is_a: MESH:D008228 ! Lymphoma, Non-Hodgkin
-is_a: OMIM:267730 ! Reticulum Cell Sarcoma
 
 [Term]
 id: DOID:854 ! collagen disease
@@ -14411,7 +14430,7 @@ equivalent_to: MESH:D054747 ! Histiocytic Sarcoma
 
 [Term]
 id: DOID:8584 ! Burkitt lymphoma
-equivalent_to: OMIM:113970 ! Burkitt Lymphoma
+equivalent_to: Orphanet:543 ! Burkitt lymphoma
 
 [Term]
 id: DOID:859 ! holocarboxylase synthetase deficiency
@@ -14854,6 +14873,11 @@ id: DOID:9164 ! achalasia
 is_a: MESH:D004931 ! Esophageal Achalasia
 equivalent_to: OMIM:200400 ! Achalasia, Familial Esophageal
 equivalent_to: Orphanet:930 ! Idiopathic achalasia
+
+[Term]
+id: DOID:9169 ! Wiskott-Aldrich syndrome
+equivalent_to: MESH:D014923 ! Wiskott-Aldrich Syndrome
+equivalent_to: Orphanet:906 ! Wiskott-Aldrich syndrome
 
 [Term]
 id: DOID:918 ! liver inflammatory pseudotumor
@@ -15599,6 +15623,7 @@ equivalent_to: MESH:D008945 ! Mitral Valve Prolapse
 
 [Term]
 id: DOID:9883 ! Becker muscular dystrophy
+equivalent_to: OMIM:300376 ! Muscular Dystrophy, Becker Type
 equivalent_to: Orphanet:98895 ! Becker muscular dystrophy
 
 [Term]
@@ -15754,7 +15779,7 @@ equivalent_to: OMIM:105400 ! Amyotrophic Lateral Sclerosis 1
 
 [Term]
 id: MESH:C531622 ! Familial antiphospholipid syndrome
-is_a: OMIM:107320 ! Antiphospholipid Syndrome, Familial
+equivalent_to: OMIM:107320 ! Antiphospholipid Syndrome, Familial
 
 [Term]
 id: MESH:C531629 ! Human balantidiasis
@@ -15806,6 +15831,10 @@ is_a: OMIM:189960 ! Tracheoesophageal Fistula With or Without Esophageal Atresia
 [Term]
 id: MESH:C531849 ! Intestinal lipophagic granulomatosis
 is_a: Orphanet:3452 ! Whipple disease
+
+[Term]
+id: MESH:C531854 ! Lysosomal acid lipase deficiency
+is_a: OMIM:278000 ! Lysosomal Acid Lipase Deficiency
 
 [Term]
 id: MESH:C535270 ! Premature aging, Okamoto type
@@ -15896,6 +15925,7 @@ equivalent_to: OMIM:302802 ! CMTX3
 
 [Term]
 id: MESH:C535308 ! 3-methylcrotonyl CoA carboxylase 1 deficiency
+equivalent_to: OMIM:210200 ! 3-Methylcrotonyl-Coa Carboxylase 1 Deficiency
 equivalent_to: Orphanet:6 ! Isolated 3-methylcrotonyl-CoA carboxylase deficiency
 
 [Term]
@@ -16184,7 +16214,7 @@ equivalent_to: Orphanet:216694 ! Congenitally corrected transposition of the gre
 
 [Term]
 id: MESH:C535428 ! Benign essential blepharospasm
-is_a: OMIM:606798 ! Blepharospasm, Benign Essential
+equivalent_to: OMIM:606798 ! Blepharospasm, Benign Essential
 
 [Term]
 id: MESH:C535434 ! Beta ketothiolase deficiency
@@ -16489,6 +16519,10 @@ equivalent_to: OMIM:300262 ! MRXSAB
 equivalent_to: Orphanet:85273 ! X-linked intellectual disability, Abidi type
 
 [Term]
+id: MESH:C535557 ! Ablepharon macrostomia syndrome
+equivalent_to: Orphanet:920 ! Ablepharon macrostomia syndrome
+
+[Term]
 id: MESH:C535559 ! Abruzzo Erickson syndrome
 equivalent_to: OMIM:302905 ! Abruzzo-Erickson Syndrome
 equivalent_to: Orphanet:921 ! Abruzzo-Erickson syndrome
@@ -16720,6 +16754,7 @@ equivalent_to: OMIM:606072 ! Rippling Muscle Disease
 
 [Term]
 id: MESH:C535687 ! Roberts Syndrome
+equivalent_to: OMIM:268300 ! Roberts Syndrome
 equivalent_to: Orphanet:3103 ! Roberts syndrome
 
 [Term]
@@ -17179,6 +17214,7 @@ equivalent_to: Orphanet:141148 ! Hemifacial myohyperplasia
 
 [Term]
 id: MESH:C535863 ! Robinow syndrome, autosomal recessive
+equivalent_to: OMIM:268310 ! Robinow Syndrome, Autosomal Recessive
 equivalent_to: Orphanet:1507 ! Autosomal recessive Robinow syndrome
 
 [Term]
@@ -17985,10 +18021,13 @@ equivalent_to: Orphanet:115 ! Congenital contractural arachnodactyly
 
 [Term]
 id: MESH:C536213 ! Crigler Najjar syndrome, type 2
+equivalent_to: OMIM:606785 ! Crigler-Najjar Syndrome, Type 2
 equivalent_to: Orphanet:79235 ! Crigler-Najjar syndrome type 2
 
 [Term]
 id: MESH:C536214 ! Crisponi syndrome
+is_a: DOID:0060294 ! cold-induced sweating syndrome
+is_a: OMIM:272430 ! Cold-Induced Sweating Syndrome 1
 equivalent_to: Orphanet:1545 ! Crisponi syndrome
 
 [Term]
@@ -18337,6 +18376,10 @@ id: MESH:C536361 ! Angel shaped phalangoepiphyseal dysplasia
 equivalent_to: OMIM:105835 ! Angel-Shaped Phalangoepiphyseal Dysplasia
 
 [Term]
+id: MESH:C536362 ! Angiofollicular ganglionic hyperplasia
+is_a: Orphanet:160 ! Castleman disease
+
+[Term]
 id: MESH:C536364 ! Angioma hereditary neurocutaneous
 equivalent_to: OMIM:106070 ! Angioma, Hereditary Neurocutaneous
 equivalent_to: Orphanet:1062 ! Hereditary neurocutaneous angioma
@@ -18460,6 +18503,7 @@ equivalent_to: Orphanet:351 ! Galactosialidosis
 
 [Term]
 id: MESH:C536414 ! Primary hyperoxaluria type 1
+equivalent_to: OMIM:259900 ! Hyperoxaluria, Primary, Type 1
 equivalent_to: Orphanet:93598 ! Primary hyperoxaluria type 1
 
 [Term]
@@ -19265,10 +19309,6 @@ equivalent_to: OMIM:606232 ! Phelan-Mcdermid Syndrome
 [Term]
 id: MESH:C536808 ! Chromosome 3, monosomy 3q13
 equivalent_to: Orphanet:1621 ! 3q13 microdeletion syndrome
-
-[Term]
-id: MESH:C536816 ! Distal myopathy, Nonaka type
-equivalent_to: Orphanet:602 ! Distal myopathy, Nonaka type
 
 [Term]
 id: MESH:C536817 ! Al-Gazali Syndrome
@@ -21341,6 +21381,11 @@ equivalent_to: Orphanet:79433 ! Oculocutaneous albinism type 3
 [Term]
 id: MESH:C537732 ! Oculodental syndrome Rutherfurd syndrome
 equivalent_to: Orphanet:2709 ! Oculodental syndrome, Rutherfurd type
+
+[Term]
+id: MESH:C537734 ! Oculodigitoesophagoduodenal syndrome
+is_a: DOID:0060464 ! Feingold syndrome
+equivalent_to: OMIM:164280 ! Feingold Syndrome 1
 
 [Term]
 id: MESH:C537736 ! Oculomaxillofacial dysostosis
@@ -23838,6 +23883,10 @@ equivalent_to: OMIM:143880 ! Hypercalcemia, Infantile
 [Term]
 id: MESH:C563002 ! Opticocochleodentate Degeneration
 equivalent_to: OMIM:258700 ! Opticocochleodentate Degeneration
+
+[Term]
+id: MESH:C563003 ! Pallidopontonigral Degeneration
+is_a: DOID:9255 ! frontotemporal dementia
 
 [Term]
 id: MESH:C563004 ! Pyropoikilocytosis, Hereditary
@@ -28161,10 +28210,6 @@ id: MESH:C565310 ! Thyroid Carcinoma, Papillary, With Papillary Renal Neoplasia
 equivalent_to: OMIM:605642 ! Thyroid Carcinoma, Papillary, With Papillary Renal Neoplasia
 
 [Term]
-id: MESH:C565311 ! Inclusion Body Myopathy 3, Autosomal Dominant
-equivalent_to: OMIM:605637 ! Myopathy, Proximal, and Ophthalmoplegia
-
-[Term]
 id: MESH:C565312 ! Hyperaldosteronism, Familial, Type II
 equivalent_to: OMIM:605635 ! Hyperaldosteronism, Familial, Type 2
 
@@ -29247,6 +29292,10 @@ equivalent_to: OMIM:604219 ! Cataract 9, Multiple Types
 [Term]
 id: MESH:C565817 ! Hirschsprung Disease with Heart Defects, Laryngeal Anomalies, and Preaxial Polydactyly
 equivalent_to: OMIM:604211 ! Hirschsprung Disease With Heart Defects, Laryngeal Anomalies, and Preaxial Polydactyly
+
+[Term]
+id: MESH:C565820 ! Poikiloderma with Neutropenia
+equivalent_to: OMIM:604173 ! Poikiloderma With Neutropenia
 
 [Term]
 id: MESH:C565822 ! Congenital Cataracts, Facial Dysmorphism, And Neuropathy
@@ -30393,6 +30442,7 @@ equivalent_to: OMIM:610498 ! Combined Oxidative Phosphorylation Deficiency 2
 
 [Term]
 id: MESH:C566469 ! Pigmented Nodular Adrenocortical Disease, Primary, 1
+is_a: DOID:0060280 ! primary pigmented nodular adrenocortical disease
 equivalent_to: OMIM:610489 ! Pigmented Nodular Adrenocortical Disease, Primary, 1
 
 [Term]
@@ -31362,6 +31412,10 @@ equivalent_to: OMIM:611182 ! Congenital Disorder of Glycosylation, Type Iih
 [Term]
 id: MESH:C566989 ! Short Stature, Mental Retardation, Callosal Agenesis, Heminasal Hypoplasia, Microphthalmia, And Atypical Clefting
 equivalent_to: OMIM:605856 ! Short Stature, Mental Retardation, Callosal Agenesis, Heminasal Hypoplasia, Microphthalmia, and Atypical Clefting
+
+[Term]
+id: MESH:C566991 ! Cleft Palate, Isolated, And Mental Retardation
+is_a: OMIM:119540 ! CPI
 
 [Term]
 id: MESH:C566993 ! Ataxia, Spastic, 1, Autosomal Dominant
@@ -33396,6 +33450,10 @@ id: MESH:D000542 ! Alveolitis, Extrinsic Allergic
 equivalent_to: Orphanet:31740 ! Hypersensitivity pneumonitis
 
 [Term]
+id: MESH:D000544 ! Alzheimer Disease
+equivalent_to: OMIM:104300 ! Alzheimer Disease
+
+[Term]
 id: MESH:D000567 ! Amelogenesis Imperfecta
 equivalent_to: Orphanet:88661 ! Amelogenesis imperfecta
 
@@ -33442,6 +33500,7 @@ equivalent_to: Orphanet:86839 ! Refractory anemia with excess blasts
 
 [Term]
 id: MESH:D000755 ! Anemia, Sickle Cell
+equivalent_to: OMIM:603903 ! Sickle Cell Anemia
 equivalent_to: Orphanet:232 ! Sickle cell anemia
 
 [Term]
@@ -33987,11 +34046,6 @@ id: MESH:D004677 ! Encephalocele
 equivalent_to: Orphanet:199647 ! Isolated encephalocele
 
 [Term]
-id: MESH:D004687 ! Enchondromatosis
-equivalent_to: OMIM:166000 ! Enchondromatosis, Multiple, Ollier Type
-equivalent_to: Orphanet:296 ! Enchondromatosis
-
-[Term]
 id: MESH:D004695 ! Endocardial Fibroelastosis
 equivalent_to: OMIM:226000 ! Endocardial Fibroelastosis
 
@@ -34068,17 +34122,8 @@ id: MESH:D005354 ! Fibrosarcoma
 equivalent_to: Orphanet:2030 ! Fibrosarcoma
 
 [Term]
-id: MESH:D005357 ! Fibrous Dysplasia of Bone
-equivalent_to: Orphanet:249 ! Fibrous dysplasia of bone
-
-[Term]
 id: MESH:D005358 ! Fibrous Dysplasia, Monostotic
 equivalent_to: Orphanet:93277 ! Monostotic fibrous dysplasia
-
-[Term]
-id: MESH:D005359 ! Fibrous Dysplasia, Polyostotic
-is_a: Orphanet:93276 ! Polyostotic fibrous dysplasia
-equivalent_to: Orphanet:562 ! McCune-Albright syndrome
 
 [Term]
 id: MESH:D005368 ! Filariasis
@@ -34187,6 +34232,7 @@ equivalent_to: OMIM:232800 ! Glycogen Storage Disease 7
 
 [Term]
 id: MESH:D006053 ! Goldenhar Syndrome
+equivalent_to: OMIM:164210 ! HFM
 equivalent_to: Orphanet:374 ! Goldenhar syndrome
 
 [Term]
@@ -34220,7 +34266,7 @@ id: MESH:D006313 ! Hearing Loss, Central
 is_a: DOID:10003 ! sensorineural hearing loss
 
 [Term]
-id: MESH:D006316 ! Hearing Loss, High-Frequency
+id: MESH:D006319 ! Hearing Loss, Sensorineural
 is_a: DOID:10003 ! sensorineural hearing loss
 
 [Term]
@@ -34285,6 +34331,7 @@ equivalent_to: Orphanet:905 ! Wilson disease
 
 [Term]
 id: MESH:D006528 ! Carcinoma, Hepatocellular
+equivalent_to: OMIM:114550 ! Hepatocellular Carcinoma
 equivalent_to: Orphanet:88673 ! Hepatocellular carcinoma
 
 [Term]
@@ -34480,6 +34527,10 @@ id: MESH:D007876 ! Legionellosis
 equivalent_to: Orphanet:549 ! Legionellosis
 
 [Term]
+id: MESH:D007877 ! Legionnaires' Disease
+is_a: Orphanet:549 ! Legionellosis
+
+[Term]
 id: MESH:D007888 ! Leigh Disease
 equivalent_to: Orphanet:506 ! Leigh syndrome
 
@@ -34502,6 +34553,7 @@ equivalent_to: Orphanet:509 ! Leptospirosis
 
 [Term]
 id: MESH:D007926 ! Lesch-Nyhan Syndrome
+equivalent_to: OMIM:300322 ! Lesch-Nyhan Syndrome
 equivalent_to: Orphanet:510 ! Lesch-Nyhan syndrome
 
 [Term]
@@ -34999,6 +35051,7 @@ is_a: DOID:2275 ! pharyngitis
 
 [Term]
 id: MESH:D010661 ! Phenylketonurias
+equivalent_to: OMIM:261600 ! Phenylketonuria
 equivalent_to: Orphanet:716 ! Phenylketonuria
 
 [Term]
@@ -35028,7 +35081,7 @@ is_a: DOID:780 ! placenta disease
 
 [Term]
 id: MESH:D010930 ! Plague
-is_a: DOID:3482 ! plague
+equivalent_to: Orphanet:707 ! Plague
 
 [Term]
 id: MESH:D010954 ! Plasmacytoma
@@ -35376,6 +35429,7 @@ equivalent_to: Orphanet:76 ! Strongyloidiasis
 
 [Term]
 id: MESH:D013341 ! Sturge-Weber Syndrome
+equivalent_to: OMIM:185300 ! Sturge-Weber Syndrome
 equivalent_to: Orphanet:3205 ! Sturge-Weber syndrome
 
 [Term]
@@ -35404,10 +35458,12 @@ equivalent_to: Orphanet:3280 ! Syringomyelia
 
 [Term]
 id: MESH:D013625 ! Takayasu Arteritis
+equivalent_to: OMIM:207600 ! Takayasu Arteritis
 equivalent_to: Orphanet:3287 ! Takayasu arteritis
 
 [Term]
 id: MESH:D013631 ! Tangier Disease
+equivalent_to: OMIM:205400 ! Tangier Disease
 equivalent_to: Orphanet:31150 ! Tangier disease
 
 [Term]
@@ -35446,6 +35502,7 @@ equivalent_to: Orphanet:97330 ! Thoracic outlet syndrome
 
 [Term]
 id: MESH:D013920 ! Thrombocythemia, Essential
+is_a: DOID:2224 ! hemorrhagic thrombocythemia
 equivalent_to: Orphanet:3318 ! Essential thrombocythemia
 
 [Term]
@@ -35588,6 +35645,7 @@ equivalent_to: Orphanet:1489 ! Whooping cough
 
 [Term]
 id: MESH:D014923 ! Wiskott-Aldrich Syndrome
+equivalent_to: OMIM:301000 ! Wiskott-Aldrich Syndrome
 equivalent_to: Orphanet:906 ! Wiskott-Aldrich syndrome
 
 [Term]
@@ -35620,10 +35678,6 @@ id: MESH:D015004 ! Yellow Fever
 equivalent_to: Orphanet:99829 ! Yellow fever
 
 [Term]
-id: MESH:D015009 ! Yersinia Infections
-equivalent_to: Orphanet:707 ! Plague
-
-[Term]
 id: MESH:D015043 ! Zollinger-Ellison Syndrome
 equivalent_to: Orphanet:913 ! Zollinger-Ellison syndrome
 
@@ -35637,6 +35691,7 @@ is_a: DOID:8725 ! vascular dementia
 
 [Term]
 id: MESH:D015175 ! Prolactinoma
+equivalent_to: OMIM:600634 ! Pituitary Adenoma, Prolactin-Secreting
 equivalent_to: Orphanet:2965 ! Prolactinoma
 
 [Term]
@@ -36134,6 +36189,7 @@ equivalent_to: Orphanet:182127 ! Extragonadal germinoma
 
 [Term]
 id: MESH:D018241 ! Neuroectodermal Tumors, Primitive, Peripheral
+is_a: DOID:3369 ! Ewing sarcoma
 equivalent_to: Orphanet:2677 ! Neuroepithelioma
 
 [Term]
@@ -36264,6 +36320,7 @@ equivalent_to: Orphanet:818 ! Smith-Lemli-Opitz syndrome
 
 [Term]
 id: MESH:D019280 ! Branchio-Oto-Renal Syndrome
+equivalent_to: OMIM:113650 ! Branchiootorenal Syndrome 1
 equivalent_to: Orphanet:107 ! BOR syndrome
 
 [Term]
@@ -36947,10 +37004,12 @@ equivalent_to: Orphanet:98300 ! Idiopathic interstitial pneumonia
 
 [Term]
 id: MESH:D054990 ! Idiopathic Pulmonary Fibrosis
+equivalent_to: OMIM:178500 ! Pulmonary Fibrosis, Idiopathic
 equivalent_to: Orphanet:2032 ! Idiopathic pulmonary fibrosis
 
 [Term]
 id: MESH:D055036 ! Campomelic Dysplasia
+equivalent_to: OMIM:114290 ! Campomelic Dysplasia
 equivalent_to: Orphanet:140 ! Campomelic dysplasia
 
 [Term]
@@ -37062,6 +37121,7 @@ equivalent_to: Orphanet:813 ! Silver-Russell syndrome
 
 [Term]
 id: MESH:D056731 ! Donohue Syndrome
+equivalent_to: OMIM:262190 ! Pineal Hyperplasia, Insulin-Resistant Diabetes Mellitus, and Somatic Abnormalities
 equivalent_to: Orphanet:769 ! Rabson-Mendenhall syndrome
 
 [Term]
@@ -37137,6 +37197,7 @@ equivalent_to: Orphanet:100070 ! Progressive non-fluent aphasia
 
 [Term]
 id: MESH:D057180 ! Frontotemporal Dementia
+equivalent_to: OMIM:600274 ! Frontotemporal Dementia
 equivalent_to: Orphanet:282 ! Frontotemporal dementia
 
 [Term]
@@ -38541,6 +38602,7 @@ equivalent_to: Orphanet:965 ! Acromegaloid facial appearance syndrome
 
 [Term]
 id: OMIM:102200 ! Pituitary Adenoma, Growth Hormone-Secreting, 1
+is_a: DOID:6255 ! growth hormone secreting pituitary adenoma
 is_a: MESH:D049912 ! Growth Hormone-Secreting Pituitary Adenoma
 equivalent_to: Orphanet:96256 ! Somatotropic adenoma
 
@@ -38630,6 +38692,7 @@ equivalent_to: Orphanet:403 ! Familial hyperaldosteronism type I
 
 [Term]
 id: OMIM:103920 ! Allergic Bronchopulmonary Aspergillosis, Familial
+is_a: DOID:13166 ! allergic bronchopulmonary aspergillosis
 is_a: Orphanet:1164 ! Allergic bronchopulmonary aspergillosis
 
 [Term]
@@ -38705,6 +38768,7 @@ is_a: Orphanet:275872 ! Frontotemporal dementia with motor neuron disease
 
 [Term]
 id: OMIM:105600 ! CDAN3
+is_a: MESH:D000742 ! Anemia, Dyserythropoietic, Congenital
 equivalent_to: Orphanet:98870 ! Congenital dyserythropoietic anemia type III
 
 [Term]
@@ -38780,6 +38844,7 @@ equivalent_to: Orphanet:1487 ! Cooks syndrome
 
 [Term]
 id: OMIM:107000 ! NDNC6
+is_a: Orphanet:79143 ! Isolated congenital anonychia
 is_a: Orphanet:90390 ! Anonychia - onychodystrophy
 
 [Term]
@@ -38793,6 +38858,10 @@ equivalent_to: Orphanet:88620 ! Isolated congenital anosmia
 [Term]
 id: OMIM:107250 ! Anterior Segment Mesenchymal Dysgenesis
 equivalent_to: Orphanet:88632 ! Familial ocular anterior segment mesenchymal dysgenesis
+
+[Term]
+id: OMIM:107320 ! Antiphospholipid Syndrome, Familial
+is_a: DOID:2988 ! antiphospholipid syndrome
 
 [Term]
 id: OMIM:107480 ! Townes-Brocks Syndrome
@@ -38895,6 +38964,10 @@ is_a: MESH:D001327 ! Autoimmune Diseases
 [Term]
 id: OMIM:109150 ! Machado-Joseph Disease
 equivalent_to: Orphanet:98757 ! Spinocerebellar ataxia type 3
+
+[Term]
+id: OMIM:109200 ! AGA1
+is_a: DOID:0050801 ! androgenic alopecia
 
 [Term]
 id: OMIM:109300 ! Banki Syndrome
@@ -39226,6 +39299,7 @@ is_a: Orphanet:98991 ! Early-onset nuclear cataract
 
 [Term]
 id: OMIM:116600 ! Cataract 6, Multiple Types
+is_a: DOID:0050537 ! posterior polar cataract
 is_a: Orphanet:91492 ! Early-onset non-syndromic cataract
 is_a: Orphanet:98993 ! Early-onset posterior polar cataract
 is_a: Orphanet:98994 ! Total early-onset cataract
@@ -39686,6 +39760,8 @@ equivalent_to: Orphanet:1660 ! Dermo-odonto dysplasia
 [Term]
 id: OMIM:125700 ! Diabetes Insipidus, Neurohypophyseal
 is_a: DOID:12388 ! neurohypophyseal diabetes insipidus
+is_a: MESH:D020790 ! Diabetes Insipidus, Neurogenic
+is_a: Orphanet:178029 ! Central diabetes insipidus
 equivalent_to: Orphanet:30925 ! Hereditary central diabetes insipidus
 
 [Term]
@@ -39867,6 +39943,10 @@ id: OMIM:130100 ! Elastosis Perforans Serpiginosa
 equivalent_to: Orphanet:79148 ! Elastosis perforans serpiginosa
 
 [Term]
+id: OMIM:130600 ! Elliptocytosis 2
+is_a: DOID:2373 ! hereditary elliptocytosis
+
+[Term]
 id: OMIM:130650 ! Beckwith-Wiedemann Syndrome
 equivalent_to: Orphanet:116 ! Beckwith-Wiedemann syndrome
 
@@ -39991,6 +40071,7 @@ equivalent_to: Orphanet:1955 ! Spinocerebellar ataxia type 34
 
 [Term]
 id: OMIM:133200 ! Erythrokeratodermia Variabilis Et Progressiva
+is_a: DOID:0050467 ! erythrokeratodermia variabilis
 is_a: MESH:D056266 ! Erythrokeratodermia Variabilis
 equivalent_to: Orphanet:316 ! Progressive symmetric erythrokeratodermia
 
@@ -40579,10 +40660,6 @@ id: OMIM:147251 ! Incisors, Fused Mandibular
 equivalent_to: Orphanet:2287 ! Fused mandibular incisors
 
 [Term]
-id: OMIM:147421 ! Inclusion Body Myositis
-equivalent_to: Orphanet:611 ! Inclusion body myositis
-
-[Term]
 id: OMIM:147480 ! Cholestasis, Intrahepatic, of Pregnancy, 1
 is_a: DOID:1852 ! intrahepatic cholestasis
 is_a: Orphanet:69665 ! Intrahepatic cholestasis of pregnancy
@@ -40617,6 +40694,7 @@ equivalent_to: Orphanet:2322 ! Kabuki syndrome
 
 [Term]
 id: OMIM:148000 ! Kaposi Sarcoma, Susceptibility to
+is_a: DOID:8632 ! Kaposi's sarcoma
 is_a: MESH:D012514 ! Sarcoma, Kaposi
 is_a: Orphanet:33276 ! Kaposi sarcoma
 is_a: Orphanet:93686 ! Multicentric Castleman disease
@@ -40763,6 +40841,7 @@ equivalent_to: Orphanet:2699 ! Median nodule of the upper lip
 
 [Term]
 id: OMIM:151660 ! Lipodystrophy, Familial Partial, Type 2
+is_a: MESH:D052496 ! Lipodystrophy, Familial Partial
 equivalent_to: Orphanet:2348 ! Familial partial lipodystrophy, Dunnigan type
 
 [Term]
@@ -40880,6 +40959,7 @@ equivalent_to: Orphanet:91412 ! Marcus-Gunn syndrome
 
 [Term]
 id: OMIM:154700 ! Marfan Syndrome
+is_a: DOID:14323 ! Marfan syndrome
 equivalent_to: Orphanet:284963 ! Marfan syndrome type 1
 
 [Term]
@@ -41008,6 +41088,7 @@ equivalent_to: Orphanet:2538 ! Microgastria - limb reduction defect
 
 [Term]
 id: OMIM:156830 ! Micromelic Bone Dysplasia With Cloverleaf Skull
+is_a: Orphanet:2655 ! Thanatophoric dysplasia
 is_a: Orphanet:93274 ! Thanatophoric dysplasia type 2
 
 [Term]
@@ -41193,6 +41274,10 @@ id: OMIM:161700 ! Necrotizing Encephalomyelopathy, Subacute, of Leigh, Adult
 is_a: Orphanet:506 ! Leigh syndrome
 
 [Term]
+id: OMIM:161800 ! Nemaline Myopathy 3
+is_a: Orphanet:607 ! Nemaline myopathy
+
+[Term]
 id: OMIM:161900 ! RFH1
 equivalent_to: Orphanet:88659 ! Autosomal dominant progressive nephropathy with hypertension
 
@@ -41292,7 +41377,7 @@ equivalent_to: Orphanet:2353 ! Schilbach-Rott syndrome
 
 [Term]
 id: OMIM:164280 ! Feingold Syndrome 1
-is_a: MESH:C537734 ! Oculodigitoesophagoduodenal syndrome
+is_a: Orphanet:1305 ! Feingold syndrome
 equivalent_to: Orphanet:391641 ! Feingold syndrome type 1
 
 [Term]
@@ -41371,6 +41456,7 @@ equivalent_to: Orphanet:251262 ! Familial osteochondritis dissecans
 
 [Term]
 id: OMIM:166000 ! Enchondromatosis, Multiple, Ollier Type
+is_a: MESH:D004687 ! Enchondromatosis
 equivalent_to: Orphanet:296 ! Enchondromatosis
 
 [Term]
@@ -41689,15 +41775,12 @@ id: OMIM:174700 ! Polydactyly, Preaxial 4
 equivalent_to: Orphanet:93338 ! Polysyndactyly
 
 [Term]
-id: OMIM:174800 ! Mccune-Albright Syndrome
-equivalent_to: Orphanet:562 ! McCune-Albright syndrome
-
-[Term]
 id: OMIM:174810 ! Familial Expansile Osteolysis
 equivalent_to: Orphanet:85195 ! Familial expansile osteolysis
 
 [Term]
 id: OMIM:174900 ! Juvenile Polyposis Syndrome
+is_a: DOID:0050787 ! juvenile polyposis syndrome
 equivalent_to: Orphanet:329971 ! Generalized juvenile polyposis/juvenile polyposis coli
 
 [Term]
@@ -42014,6 +42097,10 @@ is_a: MESH:D012507 ! Sarcoidosis
 is_a: Orphanet:797 ! Sarcoidosis
 
 [Term]
+id: OMIM:181030 ! Salivary Gland Adenoma, Pleomorphic
+is_a: DOID:452 ! pleomorphic adenoma
+
+[Term]
 id: OMIM:181180 ! Say Syndrome
 equivalent_to: Orphanet:2013 ! Cleft palate - large ears - small head
 
@@ -42089,7 +42176,6 @@ equivalent_to: Orphanet:3164 ! Omphalocele syndrome, Shprintzen-Goldberg type
 
 [Term]
 id: OMIM:182212 ! Shprintzen-Goldberg Craniosynostosis Syndrome
-is_a: DOID:2340 ! craniosynostosis
 equivalent_to: Orphanet:2462 ! Shprintzen-Goldberg syndrome
 
 [Term]
@@ -42415,8 +42501,13 @@ id: OMIM:187900 ! Bleeding Disorder, Platelet-Type, 17
 is_a: Orphanet:721 ! Gray platelet syndrome
 
 [Term]
+id: OMIM:187950 ! Thrombocythemia 1
+is_a: DOID:2224 ! hemorrhagic thrombocythemia
+
+[Term]
 id: OMIM:188000 ! Thrombocytopenia 2
 is_a: Orphanet:168629 ! Autosomal thrombocytopenia with normal platelets
+is_a: Orphanet:268322 ! Hereditary thrombocytopenia with normal platelets
 
 [Term]
 id: OMIM:188025 ! Thrombocytopenia, Paris-Trousseau Type
@@ -42573,6 +42664,7 @@ is_a: DOID:11819 ! ureter cancer
 
 [Term]
 id: OMIM:191830 ! Renal Hypodysplasia/Aplasia 1
+is_a: DOID:14766 ! renal agenesis
 is_a: Orphanet:411709 ! Renal agenesis
 
 [Term]
@@ -42630,6 +42722,7 @@ equivalent_to: Orphanet:89937 ! Autosomal dominant hypophosphatemic rickets
 
 [Term]
 id: OMIM:193200 ! VAMAS6
+is_a: DOID:12306 ! vitiligo
 is_a: Orphanet:247871 ! Vitiligo-associated autoimmune disease
 
 [Term]
@@ -42682,11 +42775,13 @@ equivalent_to: Orphanet:171723 ! White sponge nevus
 
 [Term]
 id: OMIM:194050 ! Williams-Beuren Syndrome
+is_a: DOID:1929 ! supravalvular aortic stenosis
 equivalent_to: Orphanet:904 ! Williams syndrome
 
 [Term]
 id: OMIM:194070 ! Wilms Tumor 1
 is_a: DOID:2154 ! nephroblastoma
+is_a: MESH:D009396 ! Wilms Tumor
 is_a: Orphanet:654 ! Nephroblastoma
 
 [Term]
@@ -42728,6 +42823,10 @@ is_a: Orphanet:910 ! Xeroderma pigmentosum
 [Term]
 id: OMIM:200100 ! Abetalipoproteinemia
 equivalent_to: Orphanet:14 ! Abetalipoproteinemia
+
+[Term]
+id: OMIM:200110 ! Ablepharon-Macrostomia Syndrome
+equivalent_to: Orphanet:920 ! Ablepharon macrostomia syndrome
 
 [Term]
 id: OMIM:200130 ! Absent Eyebrows and Eyelashes With Mental Retardation
@@ -43273,8 +43372,7 @@ equivalent_to: Orphanet:1239 ! Behr syndrome
 
 [Term]
 id: OMIM:210200 ! 3-Methylcrotonyl-Coa Carboxylase 1 Deficiency
-is_a: DOID:0050710 ! 3-Methylcrotonyl-CoA carboxylase deficiency
-is_a: Orphanet:6 ! Isolated 3-methylcrotonyl-CoA carboxylase deficiency
+equivalent_to: Orphanet:6 ! Isolated 3-methylcrotonyl-CoA carboxylase deficiency
 
 [Term]
 id: OMIM:210210 ! 3-Methylcrotonyl-Coa Carboxylase 2 Deficiency
@@ -43726,6 +43824,11 @@ id: OMIM:217090 ! Plasminogen Deficiency, Type 1
 equivalent_to: Orphanet:722 ! Hypoplasminogenemia
 
 [Term]
+id: OMIM:217095 ! Conotruncal Heart Malformations
+is_a: Orphanet:2445 ! Conotruncal heart malformations
+equivalent_to: Orphanet:3426 ! Double outlet right ventricle
+
+[Term]
 id: OMIM:217100 ! Constricting Bands, Congenital
 equivalent_to: Orphanet:295000 ! Constriction rings syndrome
 
@@ -43862,6 +43965,7 @@ equivalent_to: Orphanet:35664 ! ALDH18A1-related De Barsy syndrome
 
 [Term]
 id: OMIM:219200 ! Cutis Laxa, Autosomal Recessive, Type 2A
+is_a: Orphanet:357058 ! Autosomal recessive cutis laxa type 2A
 equivalent_to: Orphanet:357074 ! Autosomal recessive cutis laxa type 2, classic type
 
 [Term]
@@ -43998,6 +44102,10 @@ is_a: Orphanet:91495 ! Persistent hyperplastic primary vitreous
 [Term]
 id: OMIM:221995 ! Diabetes Insipidus, Nephrogenic, With Mental Retardation and Intracerebral Calcification
 equivalent_to: Orphanet:3145 ! Nephrogenic diabetes insipidus - intracranial calcification
+
+[Term]
+id: OMIM:222100 ! IDDM
+is_a: MESH:D003922 ! Diabetes Mellitus, Type 1
 
 [Term]
 id: OMIM:222300 ! Wolfram Syndrome 1
@@ -44482,6 +44590,7 @@ equivalent_to: Orphanet:79238 ! Galactose epimerase deficiency
 [Term]
 id: OMIM:230400 ! Galactosemia
 is_a: DOID:9870 ! galactosemia
+is_a: MESH:D005693 ! Galactosemias
 is_a: Orphanet:352 ! Galactosemia
 equivalent_to: Orphanet:79239 ! Classic galactosemia
 
@@ -44491,14 +44600,17 @@ equivalent_to: Orphanet:33574 ! Gamma-glutamylcysteine synthetase deficiency
 
 [Term]
 id: OMIM:230500 ! Gm1-Gangliosidosis, Type 1
+is_a: MESH:D016537 ! Gangliosidosis, GM1
 equivalent_to: Orphanet:79255 ! GM1 gangliosidosis type 1
 
 [Term]
 id: OMIM:230600 ! Gm1-Gangliosidosis, Type 2
+is_a: MESH:D016537 ! Gangliosidosis, GM1
 equivalent_to: Orphanet:79256 ! GM1 gangliosidosis type 2
 
 [Term]
 id: OMIM:230650 ! Gm1-Gangliosidosis, Type 3
+is_a: MESH:D016537 ! Gangliosidosis, GM1
 equivalent_to: Orphanet:79257 ! GM1 gangliosidosis type 3
 
 [Term]
@@ -44583,6 +44695,7 @@ equivalent_to: Orphanet:35706 ! Glutaric acidemia type 3
 
 [Term]
 id: OMIM:231900 ! Glutathione Synthetase Deficiency of Erythrocytes, Hemolytic Anemia Due to
+is_a: Orphanet:32 ! Glutathione synthetase deficiency
 equivalent_to: Orphanet:289849 ! Glutathione synthetase deficiency without 5-oxoprolinuria
 
 [Term]
@@ -44670,6 +44783,7 @@ equivalent_to: Orphanet:2101 ! Grubben-de Cock-Borghgraef syndrome
 
 [Term]
 id: OMIM:233910 ! Hyperphenylalaninemia, Bh4-Deficient, B
+is_a: Orphanet:238583 ! Hyperphenylalaninemia
 equivalent_to: Orphanet:2102 ! GTP cyclohydrolase I deficiency
 
 [Term]
@@ -44820,6 +44934,12 @@ equivalent_to: Orphanet:3035 ! Growth delay - hydrocephaly - lung hypoplasia
 [Term]
 id: OMIM:236660 ! Hydrocephalus, Tall Stature, Joint Laxity, and Kyphoscoliosis
 equivalent_to: Orphanet:2181 ! Hydrocephaly - tall stature - joint laxity
+
+[Term]
+id: OMIM:236670 ! Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1
+is_a: DOID:0050560 ! Walker-Warburg syndrome
+is_a: MESH:D058494 ! Walker-Warburg Syndrome
+is_a: Orphanet:899 ! Walker-Warburg syndrome
 
 [Term]
 id: OMIM:236680 ! Hydrolethalus Syndrome 1
@@ -46157,6 +46277,10 @@ id: OMIM:259450 ! Bruck Syndrome 1
 equivalent_to: Orphanet:2771 ! Bruck syndrome
 
 [Term]
+id: OMIM:259500 ! Osteogenic Sarcoma
+equivalent_to: Orphanet:668 ! Osteosarcoma
+
+[Term]
 id: OMIM:259550 ! Osteoid Osteoma
 is_a: MESH:D010017 ! Osteoma, Osteoid
 
@@ -46680,6 +46804,7 @@ equivalent_to: Orphanet:540 ! Familial hemophagocytic lymphohistiocytosis
 
 [Term]
 id: OMIM:267730 ! Reticulum Cell Sarcoma
+is_a: DOID:8538 ! reticulosarcoma
 equivalent_to: Orphanet:86900 ! Interdigitating dendritic cell sarcoma
 
 [Term]
@@ -47019,7 +47144,6 @@ equivalent_to: Orphanet:3210 ! Summitt syndrome
 
 [Term]
 id: OMIM:272430 ! Cold-Induced Sweating Syndrome 1
-is_a: MESH:C536214 ! Crisponi syndrome
 equivalent_to: Orphanet:157820 ! Cold-induced sweating syndrome
 
 [Term]
@@ -47272,6 +47396,7 @@ equivalent_to: Orphanet:3412 ! VACTERL with hydrocephalus
 
 [Term]
 id: OMIM:277000 ! Mayer-Rokitansky-Kuster-Hauser Syndrome
+is_a: Orphanet:3109 ! Mayer-Rokitansky-KC<ster-Hauser syndrome
 equivalent_to: Orphanet:247775 ! Mayer-Rokitansky-KC<ster-Hauser syndrome type 1
 
 [Term]
@@ -47347,6 +47472,7 @@ equivalent_to: Orphanet:3447 ! Weaver syndrome
 
 [Term]
 id: OMIM:277600 ! Weill-Marchesani Syndrome 1
+is_a: MESH:D056846 ! Weill-Marchesani Syndrome
 is_a: Orphanet:3449 ! Weill-Marchesani syndrome
 
 [Term]
@@ -47452,6 +47578,7 @@ equivalent_to: Orphanet:3474 ! CHIME syndrome
 
 [Term]
 id: OMIM:300000 ! Opitz Gbbb Syndrome, Type 1
+is_a: Orphanet:2745 ! Opitz G/BBB syndrome
 equivalent_to: Orphanet:306597 ! X-linked Opitz G/BBB syndrome
 
 [Term]
@@ -47540,6 +47667,7 @@ is_a: Orphanet:1871 ! Progressive cone dystrophy
 
 [Term]
 id: OMIM:300088 ! Epileptic Encephalopathy, Early Infantile, 9
+is_a: DOID:2481 ! infantile epileptic encephalopathy
 is_a: Orphanet:2076 ! X-linked intellectual disability - epilepsy
 equivalent_to: Orphanet:101039 ! Female restricted epilepsy with intellectual disability
 
@@ -47565,6 +47693,7 @@ is_a: Orphanet:777 ! X-linked non-syndromic intellectual disability
 [Term]
 id: OMIM:300123 ! Mental Retardation, X-Linked, With Panhypopituitarism
 is_a: Orphanet:231692 ! Isolated growth hormone deficiency type III
+is_a: Orphanet:631 ! Non-acquired isolated growth hormone deficiency
 
 [Term]
 id: OMIM:300125 ! Migraine, Familial Typical, Susceptibility To, 2
@@ -47754,6 +47883,7 @@ is_a: Orphanet:777 ! X-linked non-syndromic intellectual disability
 
 [Term]
 id: OMIM:300388 ! BPPX
+is_a: Orphanet:268940 ! Bilateral polymicrogyria
 is_a: Orphanet:98889 ! Bilateral perisylvian polymicrogyria
 
 [Term]
@@ -48595,6 +48725,7 @@ equivalent_to: Orphanet:1520 ! Craniofrontonasal dysplasia
 
 [Term]
 id: OMIM:304120 ! Otopalatodigital Syndrome, Type 2
+is_a: Orphanet:669 ! Otopalatodigital syndrome
 equivalent_to: Orphanet:90652 ! Otopalatodigital syndrome type 2
 
 [Term]
@@ -49175,6 +49306,7 @@ is_a: Orphanet:1646 ! Partial chromosome Y deletion
 
 [Term]
 id: OMIM:424500 ! GBY
+is_a: DOID:3301 ! gonadoblastoma
 equivalent_to: Orphanet:206484 ! Ovarian gonadoblastoma
 
 [Term]
@@ -49372,6 +49504,7 @@ is_a: Orphanet:35612 ! Nanophthalmia
 
 [Term]
 id: OMIM:600166 ! Hyperparathyroidism, Primary, Caused by Water Clear Cell Hyperplasia
+is_a: DOID:11202 ! primary hyperparathyroidism
 is_a: Orphanet:99878 ! Primary parathyroids hyperplasia
 
 [Term]
@@ -49438,6 +49571,10 @@ equivalent_to: Orphanet:2832 ! Short tarsus - absence of lower eyelashes
 [Term]
 id: OMIM:600273 ! Polycystic Kidney Disease, Infantile Severe, With Tuberous Sclerosis
 equivalent_to: Orphanet:88924 ! Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis
+
+[Term]
+id: OMIM:600274 ! Frontotemporal Dementia
+equivalent_to: Orphanet:282 ! Frontotemporal dementia
 
 [Term]
 id: OMIM:600302 ! Fryns Macrocephaly
@@ -49633,10 +49770,6 @@ equivalent_to: Orphanet:3424 ! Velo-facial-skeletal syndrome
 [Term]
 id: OMIM:600740 ! Hypocalciuric Hypercalcemia, Familial, Type 3
 equivalent_to: Orphanet:101050 ! Familial hypocalciuric hypercalcemia type 3
-
-[Term]
-id: OMIM:600775 ! Craniosynostosis 4
-is_a: MESH:D003398 ! Craniosynostoses
 
 [Term]
 id: OMIM:600776 ! Fryns Microphthalmia Syndrome
@@ -50175,6 +50308,8 @@ equivalent_to: Orphanet:1804 ! Dyssegmental dysplasia - glaucoma
 
 [Term]
 id: OMIM:601606 ! Trichoepithelioma, Multiple Familial, 1
+is_a: MESH:C536611 ! Familial cylindromatosis
+is_a: Orphanet:79493 ! Brooke-Spiegler syndrome
 equivalent_to: Orphanet:867 ! Familial multiple trichoepithelioma
 
 [Term]
@@ -50326,6 +50461,10 @@ equivalent_to: Orphanet:34514 ! Autosomal recessive limb-girdle muscular dystrop
 [Term]
 id: OMIM:601957 ! Odontotrichoungual-Digital-Palmar Syndrome
 equivalent_to: Orphanet:69082 ! Odonto-tricho-ungual-digito-palmar syndrome
+
+[Term]
+id: OMIM:601977 ! Thrombocythemia 2
+is_a: DOID:2224 ! hemorrhagic thrombocythemia
 
 [Term]
 id: OMIM:601992 ! FRDA2
@@ -50583,6 +50722,7 @@ equivalent_to: Orphanet:98806 ! Primary dystonia, DYT6 type
 
 [Term]
 id: OMIM:602722 ! Renal Tubular Acidosis, Distal, Autosomal Recessive
+is_a: Orphanet:18 ! Distal renal tubular acidosis
 is_a: Orphanet:402041 ! Autosomal recessive distal renal tubular acidosis
 
 [Term]
@@ -50933,6 +51073,10 @@ id: OMIM:604169 ! Left Ventricular Noncompaction 1
 equivalent_to: Orphanet:54260 ! Left ventricular noncompaction
 
 [Term]
+id: OMIM:604173 ! Poikiloderma With Neutropenia
+equivalent_to: Orphanet:221046 ! Poikiloderma with neutropenia
+
+[Term]
 id: OMIM:604185 ! HCFP2
 is_a: MESH:C536386 ! Facial paresis, hereditary, congenital
 is_a: Orphanet:306530 ! Congenital hereditary facial paralysis with variable hearing loss
@@ -51122,8 +51266,16 @@ id: OMIM:604498 ! Amegakaryocytic Thrombocytopenia, Congenital
 equivalent_to: Orphanet:3319 ! Congenital amegakaryocytic thrombocytopenia
 
 [Term]
+id: OMIM:604499 ! Hyperlipidemia, Combined, 2
+is_a: MESH:D006950 ! Hyperlipidemia, Familial Combined
+
+[Term]
 id: OMIM:604536 ! Ectodermal Dysplasia/Skin Fragility Syndrome
 equivalent_to: Orphanet:158668 ! Epidermolysis bullosa simplex due to plakophilin deficiency
+
+[Term]
+id: OMIM:604547
+is_a: Orphanet:888 ! Van der Woude syndrome
 
 [Term]
 id: OMIM:604559 ! Progressive Familial Heart Block, Type 1B
@@ -51275,6 +51427,7 @@ equivalent_to: Orphanet:275523 ! Dianzani autoimmune lymphoproliferative disease
 
 [Term]
 id: OMIM:605244 ! CNC2
+is_a: MESH:D056733 ! Carney Complex
 is_a: Orphanet:1359 ! Carney complex
 
 [Term]
@@ -51443,11 +51596,6 @@ id: OMIM:605635 ! Hyperaldosteronism, Familial, Type 2
 equivalent_to: Orphanet:404 ! Familial hyperaldosteronism type II
 
 [Term]
-id: OMIM:605637 ! Myopathy, Proximal, and Ophthalmoplegia
-is_a: DOID:3429 ! inclusion body myositis
-equivalent_to: Orphanet:79091 ! Hereditary inclusion body myopathy - joint contractures - ophthalmoplegia
-
-[Term]
 id: OMIM:605642 ! Thyroid Carcinoma, Papillary, With Papillary Renal Neoplasia
 equivalent_to: Orphanet:97290 ! Familial papillary thyroid carcinoma with renal papillary neoplasia
 
@@ -51465,6 +51613,7 @@ equivalent_to: Orphanet:65282 ! Woolly hair-palmoplantar keratoderma-dilated car
 
 [Term]
 id: OMIM:605711 ! Multiple Mitochondrial Dysfunctions Syndrome 1
+is_a: Orphanet:289573 ! Fatal multiple mitochondrial dysfunction syndrome
 equivalent_to: Orphanet:401869 ! Fatal multiple mitochondrial dysfunction syndrome type 1
 
 [Term]
@@ -51530,6 +51679,7 @@ equivalent_to: Orphanet:168632 ! Generalized basaloid follicular hamartoma syndr
 
 [Term]
 id: OMIM:605841 ! NRCLP2
+is_a: MESH:D009290 ! Narcolepsy
 is_a: Orphanet:2073 ! Narcolepsy-cataplexy
 
 [Term]
@@ -51862,6 +52012,10 @@ equivalent_to: Orphanet:71277 ! Encephalopathy due to GLUT1 deficiency
 [Term]
 id: OMIM:606785 ! Crigler-Najjar Syndrome, Type 2
 equivalent_to: Orphanet:79235 ! Crigler-Najjar syndrome type 2
+
+[Term]
+id: OMIM:606798 ! Blepharospasm, Benign Essential
+is_a: DOID:529 ! blepharospasm
 
 [Term]
 id: OMIM:606799 ! Stroke, Susceptibility To, 1
@@ -52250,6 +52404,7 @@ is_a: MESH:D052018 ! Bulimia Nervosa
 
 [Term]
 id: OMIM:607501 ! Migraine Without Aura, Susceptibility To, 4
+is_a: DOID:12783 ! migraine without aura
 is_a: MESH:D020326 ! Migraine without Aura
 
 [Term]
@@ -53453,6 +53608,7 @@ equivalent_to: Orphanet:79478 ! Griscelli disease type 3
 
 [Term]
 id: OMIM:609241 ! Schindler Disease, Type 1
+is_a: Orphanet:3137 ! Alpha-N-acetylgalactosaminidase deficiency
 equivalent_to: Orphanet:79279 ! Alpha-N-acetylgalactosaminidase deficiency type 1
 
 [Term]
@@ -54079,6 +54235,7 @@ is_a: Orphanet:60030 ! Loeys-Dietz syndrome
 
 [Term]
 id: OMIM:610181 ! Aicardi-Goutieres Syndrome 2
+is_a: MESH:C535607 ! Aicardi-Goutieres syndrome
 is_a: Orphanet:51 ! Aicardi-GoutiC(res syndrome
 
 [Term]
@@ -54278,7 +54435,7 @@ is_a: Orphanet:215 ! Congenital stationary night blindness
 
 [Term]
 id: OMIM:610430 ! WM2
-is_a: DOID:0050747 ! lymphoplasmacytic lymphoma
+is_a: MESH:D008258 ! Waldenstrom Macroglobulinemia
 is_a: Orphanet:33226 ! WaldenstrC6m macroglobulinemia
 
 [Term]
@@ -54398,6 +54555,7 @@ equivalent_to: Orphanet:100054 ! Hereditary angioedema type 3
 
 [Term]
 id: OMIM:610623 ! Cataract 11, Multiple Types
+is_a: DOID:0050537 ! posterior polar cataract
 is_a: Orphanet:91492 ! Early-onset non-syndromic cataract
 is_a: Orphanet:98993 ! Early-onset posterior polar cataract
 
@@ -54486,6 +54644,7 @@ is_a: Orphanet:1466 ! COFS syndrome
 
 [Term]
 id: OMIM:610759 ! Cornelia De Lange Syndrome 3
+is_a: MESH:D003635 ! De Lange Syndrome
 is_a: Orphanet:199 ! Cornelia de Lange syndrome
 
 [Term]
@@ -54954,6 +55113,10 @@ id: OMIM:611788 ! Aortic Aneurysm, Familial Thoracic 6
 is_a: Orphanet:91387 ! Familial thoracic aortic aneurysm and aortic dissection
 
 [Term]
+id: OMIM:611804 ! Elliptocytosis 1
+is_a: DOID:2373 ! hereditary elliptocytosis
+
+[Term]
 id: OMIM:611809 ! Bestrophinopathy, Autosomal Recessive
 equivalent_to: Orphanet:139455 ! Autosomal recessive bestrophinopathy
 
@@ -55116,6 +55279,7 @@ equivalent_to: Orphanet:139480 ! Autosomal recessive spastic paraplegia type 39
 [Term]
 id: OMIM:612030 ! CHDS9
 is_a: DOID:3393 ! coronary artery disease
+is_a: MESH:D003327 ! Coronary Disease
 
 [Term]
 id: OMIM:612067 ! Dystonia 16
@@ -56473,6 +56637,7 @@ equivalent_to: Orphanet:401979 ! Autosomal recessive spondylometaphyseal dysplas
 [Term]
 id: OMIM:613325 ! Rhabdoid Tumor Predisposition Syndrome 2
 is_a: Orphanet:231108 ! Familial rhabdoid tumor
+is_a: Orphanet:69077 ! Rhabdoid tumor
 
 [Term]
 id: OMIM:613327 ! Lipodystrophy, Congenital Generalized, Type 4
@@ -56931,6 +57096,7 @@ is_a: Orphanet:1836 ! Mesomelic dysplasia, Kantaputra type
 [Term]
 id: OMIM:613684 ! Rubinstein-Taybi Syndrome 2
 is_a: MESH:D012415 ! Rubinstein-Taybi Syndrome
+is_a: Orphanet:783 ! Rubinstein-Taybi syndrome
 equivalent_to: Orphanet:353284 ! Rubinstein-Taybi syndrome due to EP300 haploinsufficiency
 
 [Term]
@@ -57009,6 +57175,7 @@ equivalent_to: Orphanet:439218 ! KCNQ2-related epileptic encephalopathy
 
 [Term]
 id: OMIM:613721 ! Epileptic Encephalopathy, Early Infantile, 11
+is_a: DOID:2481 ! infantile epileptic encephalopathy
 is_a: Orphanet:1934 ! Early infantile epileptic encephalopathy
 
 [Term]
@@ -57351,6 +57518,7 @@ is_a: Orphanet:618 ! Familial melanoma
 
 [Term]
 id: OMIM:613978 ! Hemoglobin H Disease
+is_a: DOID:1099 ! alpha thalassemia
 equivalent_to: Orphanet:93616 ! Hemoglobin H disease
 
 [Term]
@@ -58299,6 +58467,10 @@ is_a: Orphanet:238722 ! Familial congenital mirror movements
 [Term]
 id: OMIM:614514 ! Thrombophilia Due to Protein S Deficiency, Autosomal Recessive
 is_a: Orphanet:743 ! Hereditary thrombophilia due to congenital protein S deficiency
+
+[Term]
+id: OMIM:614521 ! Thrombocythemia 3
+is_a: DOID:2224 ! hemorrhagic thrombocythemia
 
 [Term]
 id: OMIM:614524 ! Fibrochondrogenesis 2
@@ -59540,6 +59712,7 @@ is_a: Orphanet:607 ! Nemaline myopathy
 
 [Term]
 id: OMIM:615349 ! Ehlers-Danlos Syndrome, Progeroid Type, 2
+is_a: DOID:0050802 ! Ehlers-Danlos syndrome progeroid type
 is_a: Orphanet:75496 ! Ehlers-Danlos syndrome, progeroid type
 
 [Term]
@@ -61520,6 +61693,10 @@ id: Orphanet:1527 ! Craniosynostosis, Philadelphia type
 is_a: OMIM:185900 ! Chromosome 2Q35 Duplication Syndrome
 
 [Term]
+id: Orphanet:1545 ! Crisponi syndrome
+is_a: DOID:0060294 ! cold-induced sweating syndrome
+
+[Term]
 id: Orphanet:156601 ! Rare genetic hepatic disease
 is_a: DOID:409 ! liver disease
 
@@ -61829,6 +62006,10 @@ id: Orphanet:2345 ! Isolated Klippel-Feil syndrome
 is_a: DOID:10426 ! Klippel-Feil syndrome
 
 [Term]
+id: Orphanet:2348 ! Familial partial lipodystrophy, Dunnigan type
+is_a: DOID:0050440 ! familial partial lipodystrophy
+
+[Term]
 id: Orphanet:238523 ! Atypical hypotonia - cystinuria syndrome
 is_a: OMIM:606407 ! Hypotonia-Cystinuria Syndrome
 
@@ -62020,6 +62201,10 @@ id: Orphanet:275 ! Severe combined immunodeficiency due to DCLRE1C deficiency
 is_a: OMIM:602450 ! Severe Combined Immunodeficiency With Sensitivity to Ionizing Radiation
 
 [Term]
+id: Orphanet:275555 ! Preeclampsia
+is_a: DOID:10591 ! pre-eclampsia
+
+[Term]
 id: Orphanet:276142 ! Rare tumor of salivary glands
 is_a: DOID:8850 ! salivary gland cancer
 
@@ -62119,6 +62304,10 @@ is_a: OMIM:174500 ! Polydactyly, Preaxial 2
 [Term]
 id: Orphanet:295012 ! Syndactyly type 6
 is_a: DOID:11193 ! syndactyly
+
+[Term]
+id: Orphanet:296 ! Enchondromatosis
+is_a: MESH:D004687 ! Enchondromatosis
 
 [Term]
 id: Orphanet:2969 ! Proteus-like syndrome
@@ -62248,6 +62437,7 @@ is_a: OMIM:600145 ! Sacral Defect With Anterior Meningocele
 
 [Term]
 id: Orphanet:317 ! Erythrokeratodermia variabilis
+is_a: DOID:0050467 ! erythrokeratodermia variabilis
 is_a: OMIM:133200 ! Erythrokeratodermia Variabilis Et Progressiva
 
 [Term]
@@ -62325,6 +62515,7 @@ is_a: OMIM:615895 ! Polyglucosan Body Myopathy 1 With or Without Immunodeficienc
 
 [Term]
 id: Orphanet:3318 ! Essential thrombocythemia
+is_a: DOID:2224 ! hemorrhagic thrombocythemia
 is_a: OMIM:187950 ! Thrombocythemia 1
 is_a: OMIM:601977 ! Thrombocythemia 2
 is_a: OMIM:614521 ! Thrombocythemia 3
@@ -62489,6 +62680,10 @@ is_a: OMIM:615636 ! Joubert Syndrome 21
 [Term]
 id: Orphanet:397937 ! Polyglucosan body myopathy
 is_a: OMIM:615895 ! Polyglucosan Body Myopathy 1 With or Without Immunodeficiency
+
+[Term]
+id: Orphanet:399086 ! Finnish upper limb-onset distal myopathy
+is_a: DOID:11720 ! distal muscular dystrophy
 
 [Term]
 id: Orphanet:402075 ! Familial bicuspid aortic valve
@@ -62745,6 +62940,10 @@ id: Orphanet:70573 ! Small cell lung cancer
 is_a: DOID:5409 ! lung small cell carcinoma
 
 [Term]
+id: Orphanet:707 ! Plague
+is_a: MESH:D015009 ! Yersinia Infections
+
+[Term]
 id: Orphanet:712 ! Hemolytic anemia due to glucophosphate isomerase deficiency
 is_a: DOID:2861 ! congenital nonspherocytic hemolytic anemia
 
@@ -62766,6 +62965,7 @@ is_a: OMIM:192315 ! Vasculopathy, Retinal, With Cerebral Leukodystrophy
 
 [Term]
 id: Orphanet:71493 ! Familial thrombocytosis
+is_a: DOID:2224 ! hemorrhagic thrombocythemia
 is_a: OMIM:187950 ! Thrombocythemia 1
 is_a: OMIM:601977 ! Thrombocythemia 2
 is_a: OMIM:614521 ! Thrombocythemia 3
@@ -62813,10 +63013,6 @@ is_a: OMIM:607694 ! Leukodystrophy, Hypomyelinating, 7, With or Without Oligodon
 [Term]
 id: Orphanet:78 ! Ankylostomiasis
 is_a: MESH:D006725 ! Hookworm Infections
-
-[Term]
-id: Orphanet:79091 ! Hereditary inclusion body myopathy - joint contractures - ophthalmoplegia
-is_a: DOID:3429 ! inclusion body myositis
 
 [Term]
 id: Orphanet:791 ! Retinitis pigmentosa
@@ -62960,10 +63156,6 @@ id: Orphanet:895 ! Waardenburg syndrome type 2
 is_a: DOID:9258 ! Waardenburg's syndrome
 
 [Term]
-id: Orphanet:899 ! Walker-Warburg syndrome
-is_a: OMIM:236670 ! Muscular Dystrophy-Dystroglycanopathy (Congenital With Brain and Eye Anomalies), Type A, 1
-
-[Term]
 id: Orphanet:90038 ! Typical hemolytic-uremic syndrome
 is_a: OMIM:235400 ! Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1
 
@@ -63073,6 +63265,10 @@ is_a: OMIM:220100 ! Cystinuria
 [Term]
 id: Orphanet:93613 ! Cystinuria type B
 is_a: OMIM:220100 ! Cystinuria
+
+[Term]
+id: Orphanet:93616 ! Hemoglobin H disease
+is_a: DOID:1099 ! alpha thalassemia
 
 [Term]
 id: Orphanet:93619 ! Rare renal tumor

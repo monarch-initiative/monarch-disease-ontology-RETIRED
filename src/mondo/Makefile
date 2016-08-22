@@ -63,7 +63,7 @@ set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv
 # lBOOM parameters
 # MAX_E := 9  -- failing..?
 #MAX_E := 9
-MAX_E := 6
+MAX_E := 7
 
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
@@ -73,7 +73,7 @@ linked-%.obo: linked-%.owl
 	owltools $< --set-ontology-id $(OBO)/$@ -o -f obo $@.tmp && obo-add-comments.pl -t id -t equivalent_to -t is_a set-$*.obo $@.tmp > $@
 
 test-%.owl: set-1-amended-ptable.tsv set-1.owl
-	kboom --experimental -c $*  --splitSize 9999 --max 2 -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
+	kboom --experimental -c $*  --splitSize 9999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
 
 # use pandoc to convert markdown to html
 linked-%-rpt.md: linked-%.owl
