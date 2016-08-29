@@ -10,7 +10,9 @@ full.pro: rpt_to_pheno_wg_072915.txt
 full_rpt.tsv: full.pro
 	blip-findall -debug matcher -consult matcher.pro -debug index -goal nlp_index_all -u metadata_nlp -i all_labels.pro -r mondoe -i $< -goal write_tbl > $@
 
-# now wrotes to genes/
+# now writes to genes/
+#
+# after this do this ". mkimg.sh"
 rpt: clingen.pro all_labels.pro
 	blip-findall -consult matcher.pro -debug index -goal nlp_index_all -u metadata_nlp -i all_labels.pro -r mondoe -i $< -goal wall > $@
 

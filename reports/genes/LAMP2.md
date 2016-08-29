@@ -6,114 +6,411 @@
 
 
 ### Dannon Disease
- * [disease -](http://beta.monarchinitiative.org/disease/disease) Confidence: low/0.15625
+ * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4) Confidence: low/0.15625
+    * Equiv:[MESH:D004194 Disease](http://beta.monarchinitiative.org/disease/MESH:D004194)
+    * Syn: "Diseases"
 
 ### Hypertrophic Cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Equiv:[Orphanet:217569 Hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217569)
+    * Syn: "Cardiomyopathies, Hypertrophic"
+    * Syn: "Cardiomyopathies, Hypertrophic Obstructive"
+    * Syn: "Cardiomyopathy, Hypertrophic Obstructive"
     * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "Hypertrophic Cardiomyopathies"
+    * Syn: "Hypertrophic Cardiomyopathy"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathies"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+    * Syn: "Hypertrophic subaortic stenosis"
+    * Syn: "Obstructive Cardiomyopathies, Hypertrophic"
+    * Syn: "Obstructive Cardiomyopathy, Hypertrophic"
+    * Syn: "Obstructive hypertrophic cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Equiv:[Orphanet:217569 Hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217569)
+    * Syn: "Cardiomyopathies, Hypertrophic"
+    * Syn: "Cardiomyopathies, Hypertrophic Obstructive"
+    * Syn: "Cardiomyopathy, Hypertrophic Obstructive"
     * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "Hypertrophic Cardiomyopathies"
+    * Syn: "Hypertrophic Cardiomyopathy"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathies"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+    * Syn: "Hypertrophic subaortic stenosis"
+    * Syn: "Obstructive Cardiomyopathies, Hypertrophic"
+    * Syn: "Obstructive Cardiomyopathy, Hypertrophic"
+    * Syn: "Obstructive hypertrophic cardiomyopathy"
 
 ### Danon disease
  * [OMIM:300257 Danon disease](http://beta.monarchinitiative.org/disease/OMIM:300257) Confidence: high
+    * Equiv:[Orphanet:34587 Glycogen storage disease due to LAMP-2 deficiency](http://beta.monarchinitiative.org/disease/Orphanet:34587)
     * Equiv:[DOID:0050437 Danon disease](http://beta.monarchinitiative.org/disease/DOID:0050437)
     * Equiv:[MESH:D052120 Glycogen Storage Disease Type IIb](http://beta.monarchinitiative.org/disease/MESH:D052120)
     * Syn: "ANTOPOL DISEASE"
     * Syn: "Antopol Disease"
+    * Syn: "Cardiomyopathies, Glycogen Storage"
+    * Syn: "Cardiomyopathy, Glycogen Storage"
     * Syn: "DANON DISEASE"
+    * Syn: "Danon Disease"
+    * Syn: "Danon disease"
+    * Syn: "Disease, Antopol"
+    * Syn: "Glycogen Storage Cardiomyopathies"
+    * Syn: "Glycogen Storage Cardiomyopathy"
+    * Syn: "Glycogen Storage Disease IIb"
     * Syn: "Glycogen Storage Disease Iib"
+    * Syn: "Glycogen Storage Disease Limited to the Heart"
+    * Syn: "Glycogen Storage Disease Type 2B"
+    * Syn: "Glycogenosis due to LAMP-2 deficiency"
+    * Syn: "GSD due to LAMP-2 deficiency"
+    * Syn: "GSD IIb, FORMERLY"
     * Syn: "Gsd Iib, Formerly"
+    * Syn: "Lysosomal Glycogen Storage Disease with Normal Acid Maltase"
+    * Syn: "Lysosomal glycogen storage disease with normal acid maltase activity"
+    * Syn: "Lysosomal Glycogen Storage Disease without Acid Maltase Deficiency"
     * Syn: "Lysosomal Glycogen Storage Disease Without Acid Maltase Deficiency, Formerly"
     * Syn: "Pseudoglycogenosis 2"
+    * Syn: "Pseudoglycogenosis 2s"
     * Syn: "PSEUDOGLYCOGENOSIS II"
+    * Syn: "Pseudoglycogenosis II"
+    * Syn: "Pseudoglycogenosis IIs"
+    * Syn: "Vacuolar Cardiomyopathy and Myopathy, X linked"
     * Syn: "Vacuolar Cardiomyopathy and Myopathy, X-Linked"
+    * Syn: "Vacuolar Cardiomyopathy and Myopathy, X-linked"
+    * Syn: "X Linked Vacuolar Cardiomyopathy and Myopathy"
+    * Syn: "X-Linked Vacuolar Cardiomyopathy and Myopathy"
 
 ### Primary dilated cardiomyopathy
  * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Equiv:[Orphanet:217604 Dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217604)
+    * Syn: "1A, Dilated cardiomyopathy"
+    * Syn: "1As, Dilated cardiomyopathy"
+    * Syn: "Cardiomyopathies, Congestive"
+    * Syn: "Cardiomyopathies, Dilated"
+    * Syn: "Cardiomyopathies, Familial Idiopathic"
+    * Syn: "Cardiomyopathies, Idiopathic Dilated"
+    * Syn: "cardiomyopathy 1A, Dilated"
+    * Syn: "cardiomyopathy 1As, Dilated"
+    * Syn: "Cardiomyopathy, Congestive"
+    * Syn: "Cardiomyopathy, Dilated, 1a"
+    * Syn: "Cardiomyopathy, Dilated, Autosomal Recessive"
+    * Syn: "Cardiomyopathy, Dilated, CMD1A"
+    * Syn: "Cardiomyopathy, Dilated, LMNA"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Defect 1"
+    * Syn: "Cardiomyopathy, Dilated, with Conduction Deffect1"
+    * Syn: "Cardiomyopathy, Familial Idiopathic"
+    * Syn: "Cardiomyopathy, Idiopathic Dilated"
+    * Syn: "Congestive Cardiomyopathies"
+    * Syn: "Congestive Cardiomyopathy"
     * Syn: "Congestive cardiomyopathy"
+    * Syn: "Dilated Cardiomyopathies"
+    * Syn: "Dilated Cardiomyopathies, Idiopathic"
+    * Syn: "Dilated Cardiomyopathy"
+    * Syn: "Dilated cardiomyopathy 1A"
+    * Syn: "Dilated cardiomyopathy 1As"
+    * Syn: "Dilated Cardiomyopathy, Idiopathic"
     * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Familial Idiopathic Cardiomyopathies"
+    * Syn: "Familial Idiopathic Cardiomyopathy"
+    * Syn: "Idiopathic Cardiomyopathies, Familial"
+    * Syn: "Idiopathic Cardiomyopathy, Familial"
+    * Syn: "Idiopathic Dilated Cardiomyopathies"
+    * Syn: "Idiopathic Dilated Cardiomyopathy"
     * Syn: "Idiopathic dilation cardiomyopathy"
     * Syn: "primary dilated cardiomyopathy"
 
 ### Trifascicular block on electrocardiogram
- * [OMIM:209600 Heart Block](http://beta.monarchinitiative.org/disease/OMIM:209600) Confidence: low/0.0703125
-    * Equiv:[MESH:D006327 Heart Block](http://beta.monarchinitiative.org/disease/MESH:D006327)
-    * Syn: "A-V Dissociation"
-    * Syn: "ATRIOVENTRICULAR DISSOCIATION"
+ * [MESH:D012848 Sinoatrial Block](http://beta.monarchinitiative.org/disease/MESH:D012848) Confidence: low/0.0703125
+    * Syn: "Block, Sinoatrial"
+    * Syn: "Block, Sinoatrial Exit"
+    * Syn: "Blocks, Sinoatrial"
+    * Syn: "Blocks, Sinoatrial Exit"
+    * Syn: "Exit Block, Sinoatrial"
+    * Syn: "Exit Blocks, Sinoatrial"
+    * Syn: "Sinoatrial Blocks"
+    * Syn: "Sinoatrial Exit Block"
+    * Syn: "Sinoatrial Exit Blocks"
 
 ### cardiomyopathy
  * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
     * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Equiv:[Orphanet:167848 Cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:167848)
     * Syn: "Cardiomyopathies"
+    * Syn: "Cardiomyopathies, Primary"
+    * Syn: "Cardiomyopathies, Secondary"
+    * Syn: "Cardiomyopathy"
+    * Syn: "Cardiomyopathy, Primary"
+    * Syn: "Cardiomyopathy, Secondary"
+    * Syn: "Disease, Myocardial"
+    * Syn: "Disease, Primary Myocardial"
+    * Syn: "Disease, Secondary Myocardial"
+    * Syn: "Diseases, Myocardial"
+    * Syn: "Diseases, Primary Myocardial"
+    * Syn: "Diseases, Secondary Myocardial"
+    * Syn: "Myocardial Disease"
+    * Syn: "Myocardial Disease, Primary"
+    * Syn: "Myocardial Disease, Secondary"
+    * Syn: "Myocardial Diseases"
+    * Syn: "Myocardial Diseases, Primary"
+    * Syn: "Myocardial Diseases, Secondary"
+    * Syn: "Myocardiopathies"
+    * Syn: "Myocardiopathy"
+    * Syn: "Primary Cardiomyopathies"
+    * Syn: "Primary Cardiomyopathy"
+    * Syn: "Primary Myocardial Disease"
+    * Syn: "Primary Myocardial Diseases"
+    * Syn: "Secondary Cardiomyopathies"
+    * Syn: "Secondary Cardiomyopathy"
+    * Syn: "Secondary Myocardial Disease"
+    * Syn: "Secondary Myocardial Diseases"
 
 ### DANON DISEASE
  * [OMIM:300257 Danon disease](http://beta.monarchinitiative.org/disease/OMIM:300257) Confidence: high
+    * Equiv:[Orphanet:34587 Glycogen storage disease due to LAMP-2 deficiency](http://beta.monarchinitiative.org/disease/Orphanet:34587)
     * Equiv:[DOID:0050437 Danon disease](http://beta.monarchinitiative.org/disease/DOID:0050437)
     * Equiv:[MESH:D052120 Glycogen Storage Disease Type IIb](http://beta.monarchinitiative.org/disease/MESH:D052120)
     * Syn: "ANTOPOL DISEASE"
     * Syn: "Antopol Disease"
+    * Syn: "Cardiomyopathies, Glycogen Storage"
+    * Syn: "Cardiomyopathy, Glycogen Storage"
     * Syn: "DANON DISEASE"
+    * Syn: "Danon Disease"
+    * Syn: "Danon disease"
+    * Syn: "Disease, Antopol"
+    * Syn: "Glycogen Storage Cardiomyopathies"
+    * Syn: "Glycogen Storage Cardiomyopathy"
+    * Syn: "Glycogen Storage Disease IIb"
     * Syn: "Glycogen Storage Disease Iib"
+    * Syn: "Glycogen Storage Disease Limited to the Heart"
+    * Syn: "Glycogen Storage Disease Type 2B"
+    * Syn: "Glycogenosis due to LAMP-2 deficiency"
+    * Syn: "GSD due to LAMP-2 deficiency"
+    * Syn: "GSD IIb, FORMERLY"
     * Syn: "Gsd Iib, Formerly"
+    * Syn: "Lysosomal Glycogen Storage Disease with Normal Acid Maltase"
+    * Syn: "Lysosomal glycogen storage disease with normal acid maltase activity"
+    * Syn: "Lysosomal Glycogen Storage Disease without Acid Maltase Deficiency"
     * Syn: "Lysosomal Glycogen Storage Disease Without Acid Maltase Deficiency, Formerly"
     * Syn: "Pseudoglycogenosis 2"
+    * Syn: "Pseudoglycogenosis 2s"
     * Syn: "PSEUDOGLYCOGENOSIS II"
+    * Syn: "Pseudoglycogenosis II"
+    * Syn: "Pseudoglycogenosis IIs"
+    * Syn: "Vacuolar Cardiomyopathy and Myopathy, X linked"
     * Syn: "Vacuolar Cardiomyopathy and Myopathy, X-Linked"
+    * Syn: "Vacuolar Cardiomyopathy and Myopathy, X-linked"
+    * Syn: "X Linked Vacuolar Cardiomyopathy and Myopathy"
+    * Syn: "X-Linked Vacuolar Cardiomyopathy and Myopathy"
 
 ### Primary dilated cardiomyopathy
  * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Equiv:[Orphanet:217604 Dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217604)
+    * Syn: "1A, Dilated cardiomyopathy"
+    * Syn: "1As, Dilated cardiomyopathy"
+    * Syn: "Cardiomyopathies, Congestive"
+    * Syn: "Cardiomyopathies, Dilated"
+    * Syn: "Cardiomyopathies, Familial Idiopathic"
+    * Syn: "Cardiomyopathies, Idiopathic Dilated"
+    * Syn: "cardiomyopathy 1A, Dilated"
+    * Syn: "cardiomyopathy 1As, Dilated"
+    * Syn: "Cardiomyopathy, Congestive"
+    * Syn: "Cardiomyopathy, Dilated, 1a"
+    * Syn: "Cardiomyopathy, Dilated, Autosomal Recessive"
+    * Syn: "Cardiomyopathy, Dilated, CMD1A"
+    * Syn: "Cardiomyopathy, Dilated, LMNA"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Defect 1"
+    * Syn: "Cardiomyopathy, Dilated, with Conduction Deffect1"
+    * Syn: "Cardiomyopathy, Familial Idiopathic"
+    * Syn: "Cardiomyopathy, Idiopathic Dilated"
+    * Syn: "Congestive Cardiomyopathies"
+    * Syn: "Congestive Cardiomyopathy"
     * Syn: "Congestive cardiomyopathy"
+    * Syn: "Dilated Cardiomyopathies"
+    * Syn: "Dilated Cardiomyopathies, Idiopathic"
+    * Syn: "Dilated Cardiomyopathy"
+    * Syn: "Dilated cardiomyopathy 1A"
+    * Syn: "Dilated cardiomyopathy 1As"
+    * Syn: "Dilated Cardiomyopathy, Idiopathic"
     * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Familial Idiopathic Cardiomyopathies"
+    * Syn: "Familial Idiopathic Cardiomyopathy"
+    * Syn: "Idiopathic Cardiomyopathies, Familial"
+    * Syn: "Idiopathic Cardiomyopathy, Familial"
+    * Syn: "Idiopathic Dilated Cardiomyopathies"
+    * Syn: "Idiopathic Dilated Cardiomyopathy"
     * Syn: "Idiopathic dilation cardiomyopathy"
     * Syn: "primary dilated cardiomyopathy"
 
 ### Primary dilated cardiomyopathy
  * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Equiv:[Orphanet:217604 Dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217604)
+    * Syn: "1A, Dilated cardiomyopathy"
+    * Syn: "1As, Dilated cardiomyopathy"
+    * Syn: "Cardiomyopathies, Congestive"
+    * Syn: "Cardiomyopathies, Dilated"
+    * Syn: "Cardiomyopathies, Familial Idiopathic"
+    * Syn: "Cardiomyopathies, Idiopathic Dilated"
+    * Syn: "cardiomyopathy 1A, Dilated"
+    * Syn: "cardiomyopathy 1As, Dilated"
+    * Syn: "Cardiomyopathy, Congestive"
+    * Syn: "Cardiomyopathy, Dilated, 1a"
+    * Syn: "Cardiomyopathy, Dilated, Autosomal Recessive"
+    * Syn: "Cardiomyopathy, Dilated, CMD1A"
+    * Syn: "Cardiomyopathy, Dilated, LMNA"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Defect 1"
+    * Syn: "Cardiomyopathy, Dilated, with Conduction Deffect1"
+    * Syn: "Cardiomyopathy, Familial Idiopathic"
+    * Syn: "Cardiomyopathy, Idiopathic Dilated"
+    * Syn: "Congestive Cardiomyopathies"
+    * Syn: "Congestive Cardiomyopathy"
     * Syn: "Congestive cardiomyopathy"
+    * Syn: "Dilated Cardiomyopathies"
+    * Syn: "Dilated Cardiomyopathies, Idiopathic"
+    * Syn: "Dilated Cardiomyopathy"
+    * Syn: "Dilated cardiomyopathy 1A"
+    * Syn: "Dilated cardiomyopathy 1As"
+    * Syn: "Dilated Cardiomyopathy, Idiopathic"
     * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Familial Idiopathic Cardiomyopathies"
+    * Syn: "Familial Idiopathic Cardiomyopathy"
+    * Syn: "Idiopathic Cardiomyopathies, Familial"
+    * Syn: "Idiopathic Cardiomyopathy, Familial"
+    * Syn: "Idiopathic Dilated Cardiomyopathies"
+    * Syn: "Idiopathic Dilated Cardiomyopathy"
     * Syn: "Idiopathic dilation cardiomyopathy"
     * Syn: "primary dilated cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Equiv:[Orphanet:217569 Hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217569)
+    * Syn: "Cardiomyopathies, Hypertrophic"
+    * Syn: "Cardiomyopathies, Hypertrophic Obstructive"
+    * Syn: "Cardiomyopathy, Hypertrophic Obstructive"
     * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "Hypertrophic Cardiomyopathies"
+    * Syn: "Hypertrophic Cardiomyopathy"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathies"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+    * Syn: "Hypertrophic subaortic stenosis"
+    * Syn: "Obstructive Cardiomyopathies, Hypertrophic"
+    * Syn: "Obstructive Cardiomyopathy, Hypertrophic"
+    * Syn: "Obstructive hypertrophic cardiomyopathy"
 
 ### Primary familial hypertrophic cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: low/0.1953125
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Equiv:[Orphanet:217569 Hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217569)
+    * Syn: "Cardiomyopathies, Hypertrophic"
+    * Syn: "Cardiomyopathies, Hypertrophic Obstructive"
+    * Syn: "Cardiomyopathy, Hypertrophic Obstructive"
     * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "Hypertrophic Cardiomyopathies"
+    * Syn: "Hypertrophic Cardiomyopathy"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathies"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+    * Syn: "Hypertrophic subaortic stenosis"
+    * Syn: "Obstructive Cardiomyopathies, Hypertrophic"
+    * Syn: "Obstructive Cardiomyopathy, Hypertrophic"
+    * Syn: "Obstructive hypertrophic cardiomyopathy"
 
 ### Dannon Disease
- * [disease -](http://beta.monarchinitiative.org/disease/disease) Confidence: low/0.15625
+ * [DOID:4 disease](http://beta.monarchinitiative.org/disease/DOID:4) Confidence: low/0.15625
+    * Equiv:[MESH:D004194 Disease](http://beta.monarchinitiative.org/disease/MESH:D004194)
+    * Syn: "Diseases"
 
 ### Hypertrophic Cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Equiv:[Orphanet:217569 Hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217569)
+    * Syn: "Cardiomyopathies, Hypertrophic"
+    * Syn: "Cardiomyopathies, Hypertrophic Obstructive"
+    * Syn: "Cardiomyopathy, Hypertrophic Obstructive"
     * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "Hypertrophic Cardiomyopathies"
+    * Syn: "Hypertrophic Cardiomyopathy"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathies"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+    * Syn: "Hypertrophic subaortic stenosis"
+    * Syn: "Obstructive Cardiomyopathies, Hypertrophic"
+    * Syn: "Obstructive Cardiomyopathy, Hypertrophic"
+    * Syn: "Obstructive hypertrophic cardiomyopathy"
 
 ### Primary dilated cardiomyopathy
  * [DOID:12930 dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:12930) Confidence: high
+    * Equiv:[Orphanet:217604 Dilated cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217604)
+    * Syn: "1A, Dilated cardiomyopathy"
+    * Syn: "1As, Dilated cardiomyopathy"
+    * Syn: "Cardiomyopathies, Congestive"
+    * Syn: "Cardiomyopathies, Dilated"
+    * Syn: "Cardiomyopathies, Familial Idiopathic"
+    * Syn: "Cardiomyopathies, Idiopathic Dilated"
+    * Syn: "cardiomyopathy 1A, Dilated"
+    * Syn: "cardiomyopathy 1As, Dilated"
+    * Syn: "Cardiomyopathy, Congestive"
+    * Syn: "Cardiomyopathy, Dilated, 1a"
+    * Syn: "Cardiomyopathy, Dilated, Autosomal Recessive"
+    * Syn: "Cardiomyopathy, Dilated, CMD1A"
+    * Syn: "Cardiomyopathy, Dilated, LMNA"
+    * Syn: "Cardiomyopathy, Dilated, With Conduction Defect 1"
+    * Syn: "Cardiomyopathy, Dilated, with Conduction Deffect1"
+    * Syn: "Cardiomyopathy, Familial Idiopathic"
+    * Syn: "Cardiomyopathy, Idiopathic Dilated"
+    * Syn: "Congestive Cardiomyopathies"
+    * Syn: "Congestive Cardiomyopathy"
     * Syn: "Congestive cardiomyopathy"
+    * Syn: "Dilated Cardiomyopathies"
+    * Syn: "Dilated Cardiomyopathies, Idiopathic"
+    * Syn: "Dilated Cardiomyopathy"
+    * Syn: "Dilated cardiomyopathy 1A"
+    * Syn: "Dilated cardiomyopathy 1As"
+    * Syn: "Dilated Cardiomyopathy, Idiopathic"
     * Syn: "Familial dilated cardiomyopathy"
+    * Syn: "Familial Idiopathic Cardiomyopathies"
+    * Syn: "Familial Idiopathic Cardiomyopathy"
+    * Syn: "Idiopathic Cardiomyopathies, Familial"
+    * Syn: "Idiopathic Cardiomyopathy, Familial"
+    * Syn: "Idiopathic Dilated Cardiomyopathies"
+    * Syn: "Idiopathic Dilated Cardiomyopathy"
     * Syn: "Idiopathic dilation cardiomyopathy"
     * Syn: "primary dilated cardiomyopathy"
 
 ### cardiomyopathy
  * [DOID:0050700 cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:0050700) Confidence: high
     * Equiv:[MESH:D009202 Cardiomyopathies](http://beta.monarchinitiative.org/disease/MESH:D009202)
+    * Equiv:[Orphanet:167848 Cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:167848)
     * Syn: "Cardiomyopathies"
+    * Syn: "Cardiomyopathies, Primary"
+    * Syn: "Cardiomyopathies, Secondary"
+    * Syn: "Cardiomyopathy"
+    * Syn: "Cardiomyopathy, Primary"
+    * Syn: "Cardiomyopathy, Secondary"
+    * Syn: "Disease, Myocardial"
+    * Syn: "Disease, Primary Myocardial"
+    * Syn: "Disease, Secondary Myocardial"
+    * Syn: "Diseases, Myocardial"
+    * Syn: "Diseases, Primary Myocardial"
+    * Syn: "Diseases, Secondary Myocardial"
+    * Syn: "Myocardial Disease"
+    * Syn: "Myocardial Disease, Primary"
+    * Syn: "Myocardial Disease, Secondary"
+    * Syn: "Myocardial Diseases"
+    * Syn: "Myocardial Diseases, Primary"
+    * Syn: "Myocardial Diseases, Secondary"
+    * Syn: "Myocardiopathies"
+    * Syn: "Myocardiopathy"
+    * Syn: "Primary Cardiomyopathies"
+    * Syn: "Primary Cardiomyopathy"
+    * Syn: "Primary Myocardial Disease"
+    * Syn: "Primary Myocardial Diseases"
+    * Syn: "Secondary Cardiomyopathies"
+    * Syn: "Secondary Cardiomyopathy"
+    * Syn: "Secondary Myocardial Disease"
+    * Syn: "Secondary Myocardial Diseases"

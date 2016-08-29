@@ -6,11 +6,11 @@
 
 
 ### Submitted condition name
- * [OMIM:160980 Carney Complex, Type 1](http://beta.monarchinitiative.org/disease/OMIM:160980) Confidence: low/0.0763888888888889
-    * Syn: "CARNEY COMPLEX, TYPE 1; CNC1"
-    * Syn: "Carney Myxoma-Endocrine Complex"
-    * Syn: "Carney Syndrome"
-    * Syn: "CNC1"
-    * Syn: "Lamb Syndrome"
-    * Syn: "Myxoma, Spotty Pigmentation, and Endocrine Overactivity"
-    * Syn: "Name Syndrome"
+ * [MESH:D011230 Precancerous Conditions](http://beta.monarchinitiative.org/disease/MESH:D011230) Confidence: low/0.0763888888888889
+    * Syn: "Condition, Precancerous"
+    * Syn: "Condition, Preneoplastic"
+    * Syn: "Conditions, Precancerous"
+    * Syn: "Conditions, Preneoplastic"
+    * Syn: "Precancerous Condition"
+    * Syn: "Preneoplastic Condition"
+    * Syn: "Preneoplastic Conditions"

@@ -6,16 +6,19 @@
 
 
 ### PANCREATITIS, HEREDITARY
- * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: low/0.1388888888888889
+ * [OMIM:167800 Hereditary chronic pancreatitis](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: high
+    * Equiv:[Orphanet:676 Hereditary chronic pancreatitis](http://beta.monarchinitiative.org/disease/Orphanet:676)
     * Equiv:[MESH:C537262 Hereditary pancreatitis](http://beta.monarchinitiative.org/disease/MESH:C537262)
-    * Equiv:[MESH:C566837 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/MESH:C566837)
-    * Equiv:[MESH:D050500 Pancreatitis, Chronic](http://beta.monarchinitiative.org/disease/MESH:D050500)
+    * Syn: "Autosomal Dominant Hereditary Pancreatitis"
+    * Syn: "Familial Pancreatitis"
+    * Syn: "Hereditary Chronic Pancreatitis"
     * Syn: "Hp"
     * Syn: "Hpc"
     * Syn: "Pancreatitis, Calcific"
     * Syn: "Pancreatitis, Chronic"
     * Syn: "Pancreatitis, Chronic, Protection Against"
     * Syn: "Pancreatitis, Chronic, Susceptibility to"
+    * Syn: "Pancreatitis, Hereditary"
     * Syn: "PANCREATITIS, HEREDITARY; PCTT"
     * Syn: "PCTT"
 
@@ -44,22 +47,25 @@
  * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
 
 ### heritable chronic pancreatitis
- * [OMIM:167800 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: low/0.18055555555555555
+ * [MESH:D050500 Pancreatitis, Chronic](http://beta.monarchinitiative.org/disease/MESH:D050500) Confidence: low/0.18055555555555555
+    * Syn: "Chronic Pancreatitis"
+
+### Hereditary pancreatitis
+ * [OMIM:167800 Hereditary chronic pancreatitis](http://beta.monarchinitiative.org/disease/OMIM:167800) Confidence: high
+    * Equiv:[Orphanet:676 Hereditary chronic pancreatitis](http://beta.monarchinitiative.org/disease/Orphanet:676)
     * Equiv:[MESH:C537262 Hereditary pancreatitis](http://beta.monarchinitiative.org/disease/MESH:C537262)
-    * Equiv:[MESH:C566837 Pancreatitis, Calcific](http://beta.monarchinitiative.org/disease/MESH:C566837)
-    * Equiv:[MESH:D050500 Pancreatitis, Chronic](http://beta.monarchinitiative.org/disease/MESH:D050500)
+    * Syn: "Autosomal Dominant Hereditary Pancreatitis"
+    * Syn: "Familial Pancreatitis"
+    * Syn: "Hereditary Chronic Pancreatitis"
     * Syn: "Hp"
     * Syn: "Hpc"
     * Syn: "Pancreatitis, Calcific"
     * Syn: "Pancreatitis, Chronic"
     * Syn: "Pancreatitis, Chronic, Protection Against"
     * Syn: "Pancreatitis, Chronic, Susceptibility to"
+    * Syn: "Pancreatitis, Hereditary"
     * Syn: "PANCREATITIS, HEREDITARY; PCTT"
     * Syn: "PCTT"
-
-### Hereditary pancreatitis
- * [DOID:4989 pancreatitis](http://beta.monarchinitiative.org/disease/DOID:4989) Confidence: low/0.15625
-    * Equiv:[MESH:D010195 Pancreatitis](http://beta.monarchinitiative.org/disease/MESH:D010195)
 
 ### RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
  * [Orphanet:84096 Unknown leukodystrophy](http://beta.monarchinitiative.org/disease/Orphanet:84096) Confidence: low/0.0675
