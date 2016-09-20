@@ -9,18 +9,14 @@ omia.owl: mirror-omia.ttl
 .PRECIOUS: omia.owl
 
 omia.obo: omia.owl
-	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value | perl -npe 's@xref: OMIM:@relationship: RO:HOM0000001 OMIM:@' | obo-grep.pl --neg -r 'id: http' - | ./fix-omia-names.pl > $@
+	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value | perl -npe 's@xref: OMIM:@relationship: RO:HOM0000001 OMIM:@' | obo-grep.pl --neg -r 'id: http' - | ./fix-omia-names.pl > $@.tmp.obo && robot reduce -i $@.tmp.obo -o $@
 
-omia-generic.obo: omia.obo
-	obo-grep.pl -r 'id: OMIA:\d+\n' $< > $@
+# generic only
+omia-to-align.obo: omia.obo
+	obo-grep.pl -r 'id: OMIA:\d+\n' $< | perl -npe 's@ \(in other animals\)@@'  > $@
 
-OMIM= ../omim/omim.obo
-many_to_one.tsv: omia.obo $(OMIM)
-	blip-findall -i $< -i $(OMIM) "many_to_one_xref(X,Y,'OMIM')" -label > $@.tmp && mv $@.tmp $@
-many_to_many.tsv: omia.obo $(OMIM)
-	blip-findall -i $< -i $(OMIM) "many_to_many_xref(X,Y,'OMIM')" -label > $@.tmp && mv $@.tmp $@
-one_to_many.tsv: omia.obo $(OMIM)
-	blip-findall -i $< -i $(OMIM) "one_to_many_xref(X,Y,'OMIM')" -label > $@.tmp && mv $@.tmp $@
+## REQUIRED FOR MONDO
+## There are no externally supplied mappings for OMIA to grouping classes
+align-doid-to-omia.tsv: omia-to-align.obo
+	blip-findall -i ../mondo/super_ignore.pro -u metadata_nlp -i $< -i ../doid/doid.obo -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-non_one_to_one.tsv: many_to_one.tsv many_to_many.tsv one_to_many.tsv
-	cat $^ > $@

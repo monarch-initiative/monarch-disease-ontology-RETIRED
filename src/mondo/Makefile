@@ -7,7 +7,6 @@ test:
 
 OMIM_OBO=../omim/omim.obo
 OMIA_OBO=../omia/omia.obo
-OMIAG_OBO=../omia/omia-generic.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
 ORDO_SLIM=../orphanet/orphanet-slim.obo
 ORDO_LOGREL=../orphanet/orphanet-logrel.pro
@@ -32,7 +31,7 @@ MEDGEN = ../medgen/medgen-disease-extract.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS)
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
 foobar:
@@ -63,7 +62,7 @@ set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv
 # lBOOM parameters
 # MAX_E := 9  -- failing..?
 #MAX_E := 9
-MAX_E := 7
+MAX_E := 9
 
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
@@ -207,10 +206,6 @@ align-doid-to-ncit.tsv: $(NCIT_OBO)
 align-doid-to-omc.tsv: omc.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-## REQUIRED FOR MONDO
-## There are no externally supplied mappings for OMIA to grouping classes
-align-doid-to-omia.tsv: $(OMIAG_OBO)
-	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-omimps.tsv: omimps.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
@@ -264,6 +259,9 @@ br08901.keg:
 
 gene_disease.tsv:
 	golr-fetcher.py -t gene-disease -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,4 | sort -u > $@
+
+model_disease-%.tsv:
+	golr-fetcher.py -t model-disease -f subject_taxon subject subject_label object object_label -k -n -m 50000  > $@.tmp && grep ^NCBITaxon:$* $@.tmp | cut -f2,3,4,5 | sort -u > $@
 
 gene_disease-x.tsv:
 	golr-fetcher.py -t gene-disease -k -n -m 50000 -x subject_closure  > $@.tmp && grep ^NCBITaxon:9606 $@.tmp | cut -f2,3,4,5,6 | sort -u > $@
