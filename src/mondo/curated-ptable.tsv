@@ -87,4 +87,7 @@
 1.0 DOID_0050970 spinocerebellar ataxia type 19/22 EquivalentTo Orphanet_98772 Spinocerebellar ataxia type 19/22 Pr= 0.9583333333333334
 1.0 Orphanet_98772 Spinocerebellar ataxia type 19/22 EquivalentTo OMIM_607346 Spinocerebellar Ataxia 19 Pr= 0.32670454545454547
 1.0 Orphanet_98772 Spinocerebellar ataxia type 19/22 EquivalentTo MESH_C537198 Spinocerebellar ataxia 19 Pr= 0.3668639053254438
-0.8 NCIT_C6956 Retinal Neuroblastoma SiblingOf  DOID_768 retinoblastoma 
+0.8 NCIT_C6956 Retinal Neuroblastoma SiblingOf DOID_768 retinoblastoma 
+0.9 MESH_D018281 Cholangiocarcinoma EquivalentTo Orphanet_70567 Cholangiocarcinoma
+0.9 DOID_4947 cholangiocarcinoma EquivalentTo MESH_D018281 Cholangiocarcinoma
+0.9 MESH_D001650 Bile Duct Neoplasms EquivalentTo MESH_D001650 Bile Duct Neoplasms
