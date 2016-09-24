@@ -91,3 +91,10 @@
 0.9 MESH_D018281 Cholangiocarcinoma EquivalentTo Orphanet_70567 Cholangiocarcinoma
 0.9 DOID_4947 cholangiocarcinoma EquivalentTo MESH_D018281 Cholangiocarcinoma
 0.9 MESH_D001650 Bile Duct Neoplasms EquivalentTo MESH_D001650 Bile Duct Neoplasms
+### See https://github.com/monarch-initiative/monarch-disease-ontology/issues/158
+0.75 OMIM_179900 Retinal Aplasia SubClassOf Orphanet_65 Leber congenital amaurosis      
+0.75 OMIM_604232 Leber Congenital Amaurosis 3 SubClassOf Orphanet_791 Retinitis pigmentosa      
+0.75 OMIM_604393 Leber Congenital Amaurosis 4 SubClassOf Orphanet_791 Retinitis pigmentosa      
+0.75 OMIM_612712 Leber Congenital Amaurosis 13 SubClassOf Orphanet_791 Retinitis pigmentosa     
+0.75 OMIM_613341 Leber Congenital Amaurosis 14 SubClassOf Orphanet_791 Retinitis pigmentosa     
+0.75 OMIM_604393 Leber Congenital Amaurosis 4 SubClassOf Orphanet_1872 Cone rod dystrophy       
