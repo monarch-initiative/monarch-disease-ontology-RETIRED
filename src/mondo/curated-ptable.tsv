@@ -99,4 +99,8 @@
 0.75 OMIM_613341 Leber Congenital Amaurosis 14 SubClassOf Orphanet_791 Retinitis pigmentosa     
 0.75 OMIM_604393 Leber Congenital Amaurosis 4 SubClassOf Orphanet_1872 Cone rod dystrophy       
 #
+0.85 MESH_D008577 Meningeal Neoplasms EquivalentTo NCIT_C3229 Meningeal Neoplasm
+0.85 MESH_D008579 Meningioma EquivalentTo Orphanet_2495 Meningioma
+0.85 MESH_D008579 Meningioma EquivalentTo NCIT_C3230 Meningioma
+#
 0.90 OMIM_309549 Mental Retardation, X-Linked 9 SubClassOf DOID_0050776 non-syndromic X-linked intellectual disability   
