@@ -2,7 +2,7 @@ EFO = http://www.ebi.ac.uk/efo
 OBO = http://purl.obolibrary.org/obo
 OIO = http://www.geneontology.org/formats/oboInOwl\#
 
-all: orphanet-obostyle.obo orphanet-phenome-obostyle.obo.obo
+all: orphanet-obostyle.obo orphanet-phenome-obostyle.obo
 
 # UPDATE THIS REGULARLY
 orphanet-orig.owl:
@@ -22,10 +22,10 @@ orphanet-phenome-obostyle.obo: orphanet-obostyle.obo orphanet-subsets.pro
 orphanet-subsets.pro: orphanet-obostyle.obo
 	blip-findall -i $< "class(R,phenome),subclass(X,R),subclassT(ID,X)" -select "metadata_db:entity_partition(ID,X)" -write_prolog > $@
 
-slim.tsv: orphanet-phenome-obostyle.obo.obo
+slim.tsv: orphanet-phenome-obostyle.obo
 	blip-findall -i $< -consult ordo_slimmer.pro in_subset/1 -no_pred > $@
 
-orphanet-slim.obo: orphanet-phenome-obostyle.obo.obo slim.tsv
+orphanet-slim.obo: orphanet-phenome-obostyle.obo slim.tsv
 	owltools $< --extract-ontology-subset -i slim.tsv --set-ontology-id $(OBO)/mondo/$@ -o -f obo --no-check $@
 
 orphanet_xp.obo: orphanet-slim.obo	

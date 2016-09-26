@@ -329,9 +329,20 @@ pair_relationship_scores_xref3(A,B,m(xrefMesh,2,2,5,1)) :-
         \+ id_idspace(B,'OMIM'),
         !.
 
+% TODO
+% having multiple OMIM xrefs decreases chance these are equivalent or superclass
+pair_relationship_scores_xref4(A,B,m(xrefCard,0,ScoreSub,0,1)) :-
+        % TODO - assume A<B, e,g, A=DOID:nnn
+        id_idspace(B,'OMIM'),
+        aggregate(count,Z,entity_xref_idspace(A,Z,'OMIM'),Num),
+        Num>1,
+        ScoreSub is floor((1 - (0.9 ** Num)) * 100),
+        !.
+
 pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref1(A,B,S).
 pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref2(A,B,S).
 pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref3(A,B,S).
+pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref4(A,B,S).
 
 
 /*
@@ -344,13 +355,15 @@ pair_relationship_scores_xref(A,B,m(xref,20,5,5,0)) :-
 %% ========================================
 %% scoring based on prior knowledge
 %% ========================================
-pair_relationship_scores_prior(A,B,m(prior,1,1,200,1)) :-
+% See: https://github.com/monarch-initiative/monarch-disease-ontology/issues/139
+% ordo assignments may not always be reliable
+pair_relationship_scores_prior(A,B,m(prior,1,1,25,1)) :-
         logrel_symm(A,B,e),
         !.
-pair_relationship_scores_prior(A,B,m(prior,1,200,1,1)) :-
+pair_relationship_scores_prior(A,B,m(prior,1,75,1,1)) :-
         logrel_symm(A,B,btnt),
         !.
-pair_relationship_scores_prior(A,B,m(prior,200,1,1,1)) :-
+pair_relationship_scores_prior(A,B,m(prior,75,1,1,1)) :-
         logrel_symm(A,B,ntbt),
         !.
 
@@ -515,6 +528,7 @@ xref_ptable(A,B,P1,P2,P3,P0) :-
         debug(prob,'testing: ~w ~w',[A,B]),
         ptable(A,B,P1,P2,P3,P0).
 
+% symmetric xref, normalized so that A alphabeticallly before B
 entity_xrefS(A,B) :- entity_xrefN(A,B), A@<B.
 entity_xrefS(A,B) :- entity_xrefN(B,A), A@<B.
 

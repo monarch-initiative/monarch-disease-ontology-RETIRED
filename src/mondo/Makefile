@@ -62,13 +62,16 @@ set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv
 # lBOOM parameters
 # MAX_E := 9  -- failing..?
 #MAX_E := 9
-MAX_E := 9
+MAX_E := 8
 
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 .PRECIOUS: linked-%.owl
 
-linked-%.obo: linked-%.owl 
+check-%: linked-%.owl
+	grep  'Success:false' linked-$*-rpt.md && exit 1 || echo 'all cliques have a satisfiable solution' > $@
+
+linked-%.obo: linked-%.owl check-%
 	owltools $< --set-ontology-id $(OBO)/$@ -o -f obo $@.tmp && obo-add-comments.pl -t id -t equivalent_to -t is_a set-$*.obo $@.tmp > $@
 
 test-%.owl: set-1-amended-ptable.tsv set-1.owl
