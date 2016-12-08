@@ -501,11 +501,11 @@ pair_relationship_scores(A,B,ST) :-
 % relationship categories. The final probabilities are ratios
 % of each score to the sum of scores
 ptable(A,B,P1,P2,P3,P0) :-
-        setof(S1-S2-S3-Sn,MatchType^pair_relationship_scores(A,B,m(MatchType,S1,S2,S3,Sn)),L),
-        aggregate(sum(S1),S2^S3^Sn^member(S1-S2-S3-Sn,L),TotalSubClass),
-        aggregate(sum(S2),S1^S3^Sn^member(S1-S2-S3-Sn,L),TotalSuperClass),
-        aggregate(sum(S3),S1^S2^Sn^member(S1-S2-S3-Sn,L),TotalEquiv),
-        aggregate(sum(Sn),S1^S2^S3^member(S1-S2-S3-Sn,L),TotalNull),
+        setof(T-S1-S2-S3-Sn,pair_relationship_scores(A,B,m(T,S1,S2,S3,Sn)),L),
+        aggregate(sum(S1),T^S2^S3^Sn^member(T-S1-S2-S3-Sn,L),TotalSubClass),
+        aggregate(sum(S2),T^S1^S3^Sn^member(T-S1-S2-S3-Sn,L),TotalSuperClass),
+        aggregate(sum(S3),T^S1^S2^Sn^member(T-S1-S2-S3-Sn,L),TotalEquiv),
+        aggregate(sum(Sn),T^S1^S2^S3^member(T-S1-S2-S3-Sn,L),TotalNull),
         Sum is TotalEquiv + TotalSubClass + TotalSuperClass + TotalNull,
         P1 is TotalSubClass / Sum,
         P2 is TotalSuperClass / Sum,
