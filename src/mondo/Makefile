@@ -31,7 +31,7 @@ MEDGEN = ../medgen/medgen-disease-extract.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo
+set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo xrefs-ordo-to-neoplasm.obo xrefs-omc-to-neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
 foobar:
@@ -129,13 +129,6 @@ unlikely.md: linked-1-rpt.md
 	./unlikely-axiom-report.pl $< | head -200 > $@
 
 ## --
-## DO
-## --
-# @Deprecated
-disease_nosyn.obo: $(DOID_OBO)
-	grep -v ^synonym $< > $@
-
-## --
 ## OMIM-clusters (maintained by MGI and Monarch)
 ## --
 
@@ -161,7 +154,7 @@ omimclusters_plus_bridge.obo: omimclusters.obo $(CLUSTERS)/omimclusters_bridge_t
 # DO-mapped clusters
 # Some DCs will be replaced by DOIDs
 omc-mapped-to-do.obo: omimclusters_plus_bridge.obo xrefs-doid-to-omc.obo
-	obo-map-ids.pl --use-xref-inverse xrefs-doid-to-omc.obo  xrefs-doid-to-omc-edited.obo $< > $@
+	obo-map-ids.pl --use-xref-inverse xrefs-doid-to-omc-edited.obo $< > $@
 
 omim-genes.obo: $(OMIM_OBO)
 	blip ontol-query -consult munger.pro -i $< -i ordo.obo -query "omim_gene(ID)" -to obo > $@
@@ -200,14 +193,24 @@ align-doid-to-decipher.tsv: $(CLUSTERS)/decipherclusters.obo
 align-doid-to-mesh.tsv: mesh.obo
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+#align-omim-to-mesh.tsv: mesh.obo
+#	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(OMIM_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
 align-doid-to-neoplasm.tsv: $(NEOPLASM_OBO)
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
+align-ordo-to-neoplasm.tsv: $(NEOPLASM_OBO)
+	blip-findall -i ignore.pro -u metadata_nlp -i $< -i $(ORDO_SLIM) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
+align-omc-to-neoplasm.tsv: $(NEOPLASM_OBO)
+	blip-findall -i ignore.pro -u metadata_nlp -i $< -i omc.obo -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 align-doid-to-ncit.tsv: $(NCIT_OBO)
 	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
-align-doid-to-omc.tsv: omc.obo
-	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+# TODO: this is manually edited from here on
+#align-doid-to-omc.tsv: omc.obo
+#	blip-findall -i super_ignore.pro -u metadata_nlp -i $< -i $(DOID_OBO) -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),\\+disjoint_from(X,Y),\\+disjoint_from(Y,X)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
 
 align-doid-to-omimps.tsv: omimps.obo
@@ -239,6 +242,10 @@ mondo-medgen-equiv.owl: mondo-medgen-equiv.tsv
 ## --
 ## Extract xrefs
 ## --
+
+
+xrefs-ordo-to-%.obo: align-ordo-to-%.tsv
+	cut -f1-4 $< | sort -u | grep ^Orphanet | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@.tmp && (echo "ontology: mondo/ordo-to-$*" && echo && cat $@.tmp) > $@
 
 xrefs-%.obo: align-%.tsv
 	cut -f1-4 $< | sort -u | grep ^DOID | tbl2obolinks.pl --rel xref > $@.tmp && mv $@.tmp $@.tmp && (echo "ontology: mondo/$*" && echo && cat $@.tmp) > $@

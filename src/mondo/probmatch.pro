@@ -304,7 +304,7 @@ pair_relationship_scores_xref(A,_B,m(xref,5,5,5,2)) :-
 % we can assume that 1:M indicates child-parent;
 % an exception is Orphanet, where the same OMIM can be under multiple different Orphanets
 % (e.g.  OMIM:278150  under Woolly hair & Hypotrichosis simplex)
-pair_relationship_scores_xref1(A,B,m(xrefSub,5,20,5,0)) :-
+pair_relationship_scores_xref1(A,B,m(xrefSub,2,4,2,0)) :-
         id_idspace(B,BS),
         BS \= 'Orphanet',
         entity_xrefS(A,B),
@@ -312,7 +312,7 @@ pair_relationship_scores_xref1(A,B,m(xrefSub,5,20,5,0)) :-
         B\=B2,
         id_idspace(B2,BS),
         !.
-pair_relationship_scores_xref2(A,B,m(xrefSup,20,5,5,0)) :-
+pair_relationship_scores_xref2(A,B,m(xrefSup,4,2,2,0)) :-
         id_idspace(A,AS),
         AS \= 'Orphanet',
         entity_xrefS(A,B),
@@ -320,7 +320,7 @@ pair_relationship_scores_xref2(A,B,m(xrefSup,20,5,5,0)) :-
         A\=A2,
         id_idspace(A2,AS),
         !.
-pair_relationship_scores_xref3(A,B,m(xrefMesh,2,2,5,1)) :-
+pair_relationship_scores_xref3(A,B,m(xrefMesh,2,2,3,1)) :-
         % xrefs to mesh are assumed to be more likely to be equivalent
         % rationale: mesh is roughly the same granularity as ontologies that make xrefs
         (   id_idspace(A,'MESH');
