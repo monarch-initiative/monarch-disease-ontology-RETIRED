@@ -108,3 +108,6 @@
 #
 # https://github.com/monarch-initiative/monarch-disease-ontology/issues/164
 0.99 Orphanet_98855 Autosomal recessive Emery-Dreifuss muscular dystrophy SubClassOf MESH_D020389 Muscular Dystrophy, Emery-Dreifuss
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/165
+0.99 MESH_D009542 Niemann-Pick Diseases EquivalentTo DOID_14504 Niemann-Pick disease
