@@ -1188,7 +1188,7 @@ id: OMIA:000004
 name: Achondroplasia (in other animals)
 xref: http://sydney.edu.au/vetscience/lida/dogs/search/disorder/5/Achondroplasia
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000004-89462
@@ -1224,7 +1224,7 @@ relationship: RO:0002162 NCBITaxon:9986 ! Oryctolagus cuniculus
 id: OMIA:000005
 name: Achondroplasia foetalis (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000005-9913
@@ -1242,7 +1242,7 @@ relationship: RO:0002162 NCBITaxon:9925 ! Capra hircus
 id: OMIA:000006
 name: Achondroplasia, creeper (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000006-9031
@@ -4581,7 +4581,7 @@ relationship: RO:HOM0000001 DOID:4
 id: OMIA:000187
 name: Chondrodysplasia (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:225500
 
 [Term]
@@ -4613,7 +4613,7 @@ id: OMIA:000189
 name: Chondrodystrophy (in other animals)
 xref: http://sydney.edu.au/vetscience/lida/dogs/search/disorder/5/Achondroplasia
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000189-33616
@@ -6972,7 +6972,7 @@ id: OMIA:000299
 name: Dwarfism (in other animals)
 xref: http://sydney.edu.au/vetscience/lida/dogs/search/disorder/5/Achondroplasia
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000299-9615
@@ -7027,7 +7027,7 @@ id: OMIA:000300
 name: Dwarfism with anaemia (in other animals)
 xref: http://sydney.edu.au/vetscience/lida/dogs/search/disorder/5/Achondroplasia
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000300-9615
@@ -7051,7 +7051,7 @@ relationship: RO:0002162 NCBITaxon:9615 ! Canis lupus familiaris
 id: OMIA:000302
 name: Dwarfism, Ancon (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000302-9940
@@ -7063,7 +7063,7 @@ relationship: RO:0002162 NCBITaxon:9940 ! Ovis aries
 id: OMIA:000303
 name: Dwarfism, autosomal (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000303-9031
@@ -7075,13 +7075,13 @@ relationship: RO:0002162 NCBITaxon:9031 ! Gallus gallus
 id: OMIA:000305
 name: Dwarfism, chondroplastic (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000306
 name: Dwarfism, crooked neck (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:180901
 relationship: RO:HOM0000001 OMIM:180902
 relationship: RO:HOM0000001 OMIM:180903
@@ -7104,7 +7104,7 @@ name: Dwarfism, pituitary (in other animals)
 xref: http://sydney.edu.au/vetscience/lida/dogs/search/disorder/247/Pituitary dwarfism
 xref: http://sydney.edu.au/vetscience/lida/dogs/search/disorder/89/Dwarfism\, pituitary
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:221750
 
 [Term]
@@ -7117,7 +7117,7 @@ relationship: RO:0002162 NCBITaxon:9615 ! Canis lupus familiaris
 id: OMIA:000308
 name: Dwarfism, proportionate (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000308-9913
@@ -7129,7 +7129,7 @@ relationship: RO:0002162 NCBITaxon:9913 ! Bos taurus
 id: OMIA:000309
 name: Dwarfism, sex-linked (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:262500
 
 [Term]
@@ -7142,7 +7142,7 @@ relationship: RO:0002162 NCBITaxon:9031 ! Gallus gallus
 id: OMIA:000310
 name: Dwarfism, snorter (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000310-9913
@@ -7154,7 +7154,7 @@ relationship: RO:0002162 NCBITaxon:9913 ! Bos taurus
 id: OMIA:000311
 name: Dwarfism, stumpy (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000311-9913
@@ -12072,7 +12072,7 @@ relationship: RO:0002162 NCBITaxon:9940 ! Ovis aries
 id: OMIA:000570
 name: Joint laxity and dwarfism, congenital (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000570-9913
@@ -13282,7 +13282,7 @@ relationship: RO:0002162 NCBITaxon:9031 ! Gallus gallus
 id: OMIA:000651
 name: Miniature (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000651-9825
@@ -14010,7 +14010,7 @@ relationship: RO:0002162 NCBITaxon:9031 ! Gallus gallus
 id: OMIA:000702
 name: Nanomelia (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:000702-9031
@@ -22118,8 +22118,8 @@ relationship: RO:0002162 NCBITaxon:9685 ! Felis catus
 id: OMIA:001222
 name: Leber congenital amaurosis (congenital stationary night blindness) (in other animals)
 xref: http://sydney.edu.au/vetscience/lida/dogs/search/disorder/510/Retinal pigment epithelial dystrophy in dog
-is_a: MESH:C536122
 is_a: MESH:D000820 ! animal disease
+relationship: RO:HOM0000001 MESH:C536122
 relationship: RO:HOM0000001 OMIM:204100
 
 [Term]
@@ -23007,7 +23007,7 @@ relationship: RO:0002162 NCBITaxon:9913 ! Bos taurus
 id: OMIA:001271
 name: Dwarfism, aggrecan type (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:612813
 
 [Term]
@@ -23686,7 +23686,7 @@ relationship: RO:0002162 NCBITaxon:93934 ! Coturnix japonica
 id: OMIA:001323
 name: Dwarfism, Laron (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:001323-9913
@@ -24200,8 +24200,8 @@ relationship: RO:0002162 NCBITaxon:9483 ! Callithrix jacchus
 [Term]
 id: OMIA:001365
 name: Achromatopsia (cone degeneration, hemeralopia), AMAL (in other animals)
-is_a: MESH:C536122
 is_a: MESH:D000820 ! animal disease
+relationship: RO:HOM0000001 MESH:C536122
 relationship: RO:HOM0000001 OMIM:262300
 
 [Term]
@@ -24433,7 +24433,7 @@ relationship: RO:HOM0000001 DOID:4
 id: OMIA:001400
 name: Chondrodysplasia, Texel (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:001400-9940
@@ -25433,7 +25433,7 @@ relationship: RO:0002162 NCBITaxon:9615 ! Canis lupus familiaris
 id: OMIA:001473
 name: Dwarfism, growth-hormone deficiency (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:262400
 
 [Term]
@@ -25588,7 +25588,7 @@ relationship: RO:0002162 NCBITaxon:9685 ! Felis catus
 id: OMIA:001485
 name: Dwarfism, Angus (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:601591
 
 [Term]
@@ -27921,8 +27921,8 @@ relationship: RO:0002162 NCBITaxon:9615 ! Canis lupus familiaris
 [Term]
 id: OMIA:001676
 name: Achromatopsia (cone degeneration, hemeralopia), GSPT (in other animals)
-is_a: MESH:C536122
 is_a: MESH:D000820 ! animal disease
+relationship: RO:HOM0000001 MESH:C536122
 relationship: RO:HOM0000001 OMIM:262300
 
 [Term]
@@ -28047,7 +28047,7 @@ relationship: RO:0002162 NCBITaxon:9825 ! Sus scrofa domesticus
 id: OMIA:001686
 name: Dwarfism, proportionate, with inflammatory lesions (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:001686-9913
@@ -29141,7 +29141,7 @@ relationship: RO:0002162 NCBITaxon:7091 ! Bombyx mori
 id: OMIA:001772
 name: Skeletal dysplasia 2 (SD2) (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:120290
 relationship: RO:HOM0000001 OMIM:184840
 relationship: RO:HOM0000001 OMIM:215150
@@ -29332,7 +29332,7 @@ relationship: RO:0002162 NCBITaxon:9903 ! Bos
 id: OMIA:001790
 name: Chondrodysplasia, Labrador (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:108300
 relationship: RO:HOM0000001 OMIM:132400
 relationship: RO:HOM0000001 OMIM:183900
@@ -29722,7 +29722,7 @@ relationship: RO:0002162 NCBITaxon:9940 ! Ovis aries
 id: OMIA:001814
 name: Congenital chondrodystrophy of unknown origin  (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:001814-9913
@@ -30682,7 +30682,7 @@ relationship: RO:0002162 NCBITaxon:9940 ! Ovis aries
 id: OMIA:001886
 name: Chondrodysplasia, disproportionate short-limbed (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:001886-9615
@@ -30912,7 +30912,7 @@ relationship: RO:0002162 NCBITaxon:9913 ! Bos taurus
 id: OMIA:001903
 name: Skeletal dysplasia with craniofacial deformity and disproportionate dwarfism (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 
 [Term]
 id: OMIA:001903-9940
@@ -31183,7 +31183,7 @@ relationship: RO:0002162 NCBITaxon:9796 ! Equus caballus
 id: OMIA:001926
 name: Achondrogenesis, type II (in other animals)
 is_a: MESH:D000820 ! animal disease
-is_a: MESH:D004392
+relationship: RO:HOM0000001 MESH:D004392
 relationship: RO:HOM0000001 OMIM:200610
 
 [Term]

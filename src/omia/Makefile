@@ -9,7 +9,7 @@ omia.owl: mirror-omia.ttl
 .PRECIOUS: omia.owl
 
 omia.obo: omia.owl
-	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value | perl -npe 's@xref: OMIM:@relationship: RO:HOM0000001 OMIM:@' | obo-grep.pl --neg -r 'id: http' - | ./fix-omia-names.pl > $@.tmp.obo && robot reduce -i $@.tmp.obo -o $@
+	owltools $< -o -f obo $@.tmp && grep -v ^owl-axioms $@.tmp | grep -v ^property_value | perl -npe 's@xref: OMIM:@relationship: RO:HOM0000001 OMIM:@' | perl -npe 's@is_a: MESH:@relationship: RO:HOM0000001 MESH:@' | obo-grep.pl --neg -r 'id: http' - | ./fix-omia-names.pl > $@.tmp.obo && robot reduce -i $@.tmp.obo -o $@
 
 # generic only
 omia-to-align.obo: omia.obo
