@@ -1,0 +1,26 @@
+prefix ncit: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#>
+prefix neoplastic_status: <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#P363>
+prefix Malignant: <http://purl.obolibrary.org/obo/PATO_0002097>
+prefix Non_malignant: <http://purl.obolibrary.org/obo/PATO_0002096>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+CONSTRUCT {
+  ?p a owl:Class .
+  ?c a owl:Class ;
+     rdfs:subClassOf ?p
+}
+WHERE {
+    {
+      ?c neoplastic_status: ?status .
+      FILTER(?status = "Malignant") .
+      BIND(Malignant: as ?p)
+    }
+    UNION
+    {
+      ?c neoplastic_status: ?status .
+      FILTER(?status = "Benign") .
+      BIND(Non_malignant: as ?p)
+    }
+    
+}
