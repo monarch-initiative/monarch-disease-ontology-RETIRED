@@ -111,3 +111,9 @@
 #
 # https://github.com/monarch-initiative/monarch-disease-ontology/issues/165
 0.99 MESH_D009542 Niemann-Pick Diseases EquivalentTo DOID_14504 Niemann-Pick disease
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/169
+0.99 DOID_3683 lung benign neoplasm SubClassOf NCIT_C3200 Lung Neoplasm
+0.8 DOID_1324 lung cancer SubClassOf NCIT_C3200 Lung Neoplasm
+0.9 DOID_3683 lung benign neoplasm SubClassOf MESH_D008175 Lung Neoplasms
+0.9 NCIT_C3200 Lung Neoplasm EquivalentTo MESH_D008175 Lung Neoplasms
