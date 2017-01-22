@@ -82,6 +82,9 @@ linked-%-rpt.md: linked-%.owl
 %-rpt.html: %-rpt.md
 	pandoc $*-rpt.md -o $@
 
+debug-%.owl: set-1.owl linked-1.obo
+	owltools $^ --merge-support-ontologies -o $@
+
 # Merging most probable axioms plus original ontologies
 PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
@@ -127,6 +130,9 @@ mondoe.obo: mondo.owl
 
 unlikely.md: linked-1-rpt.md
 	./unlikely-axiom-report.pl $< | head -200 > $@
+
+entailed-in-doid.txt: 
+	owltools $(DOID_OBO) linked-1.owl set-1.owl --spike-and-reason > $@.tmp && mv $@.tmp $@
 
 ## --
 ## OMIM-clusters (maintained by MGI and Monarch)
