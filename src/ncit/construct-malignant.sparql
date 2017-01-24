@@ -14,13 +14,36 @@ WHERE {
     {
       ?c neoplastic_status: ?status .
       FILTER(?status = "Malignant") .
-      BIND(Malignant: as ?p)
+      BIND(Malignant: as ?p) .
+      FILTER not exists {
+          ?c rdfs:subClassOf* ?z .
+          ?z neoplastic_status: ?zstatus .
+          FILTER(?zstatus = "Benign")
+      }
+      FILTER not exists {
+          ?z rdfs:subClassOf* ?c .
+          ?z neoplastic_status: ?zstatus .
+          FILTER(?zstatus = "Benign")
+      }
+      FILTER(?c != ncit:C3059)
     }
     UNION
     {
       ?c neoplastic_status: ?status .
       FILTER(?status = "Benign") .
-      BIND(Non_malignant: as ?p)
+      BIND(Non_malignant: as ?p) .
+      FILTER not exists {
+          ?c rdfs:subClassOf* ?z .
+          ?z neoplastic_status: ?zstatus .
+          FILTER(?zstatus = "Malignant")
+      }
+      FILTER not exists {
+          ?z rdfs:subClassOf* ?c .
+          ?z neoplastic_status: ?zstatus .
+          FILTER(?zstatus = "Malignant")
+      }
+      FILTER(?c != ncit:C6582)
+      
     }
     
 }
