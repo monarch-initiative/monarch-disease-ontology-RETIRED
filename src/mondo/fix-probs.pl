@@ -8,6 +8,8 @@ while(<>) {
     next if m@^#@;
     next if m@^\s*$@;
     if (@vals == 1) {
+        ## curated-ptable
+        #
         ## OVERRIDES
         if (m@^(\S+)\s+(\S+) (.*) (SubClassOf|EquivalentTo|SuperClassOf|SiblingOf|DisjointWith) (\S+) (.*)$@) {
             my @tuple = ($1,$2,$3,$4,$5);
@@ -16,11 +18,11 @@ while(<>) {
             $y =~ s@_@:@;
             if ($x gt $y) {
                 ($x,$y) = ($y,$x);
-                if ($tuple[3] eq 'SuperClassOf') {
-                    $tuple[3] = 'SubClassOf';
+                if ($rel eq 'SuperClassOf') {
+                    $rel = 'SubClassOf';
                 }
-                if ($tuple[3] eq 'SubClassOf') {
-                    $tuple[3] = 'SuperClassOf';
+                if ($rel eq 'SubClassOf') {
+                    $rel = 'SuperClassOf';
                 }
                 
             }
@@ -31,6 +33,8 @@ while(<>) {
         }
     }
     elsif (@vals == 6) {
+        # auto-derived ptable
+        #
         ## EXISTING
         my ($x,$y, @probs) = @vals;
         my @tuples = @{$curh{"$x-$y"} || []};
@@ -51,6 +55,15 @@ while(<>) {
 print STDERR "FIXED: $n\n";
 if (keys %curh) {
     print STDERR "LEFT BEHIND: $_\n" foreach keys %curh;
+    foreach my $pair (keys %curh) {
+        my ($x,$y) = ($pair =~ m@(\S+)-(\S+)@);
+        my @tuples = @{$curh{$pair}};
+        my @probs = (0.25, 0.25, 0.25, 0.25);
+        foreach my $t (@tuples) {
+            recalc(\@probs, $t->[3], $t->[0]);
+        }
+        print join("\t", ($x, $y, @probs))."\n";
+    }
 }
 exit 0;
 

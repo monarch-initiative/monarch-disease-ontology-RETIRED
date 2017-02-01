@@ -87,8 +87,8 @@ debug-%.owl: set-1.owl linked-1.obo
 
 # Merging most probable axioms plus original ontologies
 PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
-PRIORITIES_LABEL := -l DOID 10 -l Orphanet 5  -l OMIM 3 -l MESH 1
-PRIORITIES_DEF := -d Orphanet 10 -d DOID 5  -d MESH 3 -d OMIM 1
+PRIORITIES_LABEL := -l DOID 10 -l NCIT 8 -l Orphanet 5  -l OMIM 3 -l MESH 1
+PRIORITIES_DEF := -d Orphanet 10 -d NCIT 8 -d DOID 5  -d MESH 3 -d OMIM 1
 
 # we do not include omia in set-1, as it's xrefs are potentially problematic
 #OTHERS_TO_MERGE := $(OMIA_OBO)
