@@ -122,6 +122,7 @@ equiv_axioms.owl: linked-1.owl mondo-medgen-equiv.owl
 mondo.owl: mondo.obo equiv_axioms.owl
 	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
 
+# the obo file usually excludes equivs; this includes them
 mondoe.obo: mondo.owl
 	owltools $< -o -f obo --no-check $@
 
