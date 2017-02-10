@@ -117,3 +117,11 @@
 0.8 DOID_1324 lung cancer SubClassOf NCIT_C3200 Lung Neoplasm
 0.9 DOID_3683 lung benign neoplasm SubClassOf MESH_D008175 Lung Neoplasms
 0.9 NCIT_C3200 Lung Neoplasm EquivalentTo MESH_D008175 Lung Neoplasms
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/174
+0.95 OMIM_123400 Creutzfeldt-Jakob Disease SubClassOf DOID_11949 Creutzfeldt-Jakob disease
+0.95 DOID_11949 Creutzfeldt-Jakob disease EquivalentTo MESH_D007562 Creutzfeldt-Jakob Syndrome
+0.95 OMIM_123400 Creutzfeldt-Jakob Disease SubClassOf MESH_D007562 Creutzfeldt-Jakob Syndrome
+0.95 OMIM_123400 Creutzfeldt-Jakob Disease EquivalentTo Orphanet_282166 Inherited Creutzfeldt-Jakob disease
+0.95 Orphanet_204 Sporadic Creutzfeldt-Jakob disease EquivalentTo MESH_C565143 Creutzfeldt-Jakob Disease, Sporadic
+0.95 Orphanet_454700 Acquired Creutzfeldt-Jakob disease EquivalentTo MESH_C538481 Acquired CJD
