@@ -1,0 +1,8 @@
+format-version: 1.2
+subsetdef: MEDIC-Slim "MEDIC (disease) slim"
+
+[Term]
+id: MESH:C564009 ! Bladder Exstrophy and Epispadias Complex
+is_a: MESH:D001746  ! Bladder Exstrophy
+is_a: MESH:D004842  ! Epispadias
+

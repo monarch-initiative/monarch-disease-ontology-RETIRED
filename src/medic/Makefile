@@ -38,7 +38,7 @@ mesh-final-unmerged.obo: ctd-mesh-no-omim-labels.obo xrefs-omim.obo
 	obo-merge-tags.pl -t xref $^ > $@
 
 mesh-final.obo:  mesh-final-unmerged.obo mesh-self-equivs.obo
-	owltools --create-ontology $(OBO)/mesh.owl $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets -o -f obo --no-check $@
+	owltools --create-ontology $(OBO)/mesh.owl $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets  --subtract -d -a bad_axioms.obo  -o -f obo --no-check $@
 
 # ----------------------------------------
 # MESH SELF-DETECTION
