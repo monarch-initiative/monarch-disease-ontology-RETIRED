@@ -1,3 +1,5 @@
+# Entailed/Inferred links from Orphanet
+
  1. [Ligneous conjunctivitis -> Hypoplasminogenemia](#ligneous-conjunctivitis---hypoplasminogenemia)
  2. [Shprintzen-Goldberg syndrome -> Goldberg-Shprintzen megacolon syndrome](#shprintzen-goldberg-syndrome---goldberg-shprintzen-megacolon-syndrome)
  3. [Immunodeficiency by defective expression of HLA class 2 -> Severe combined immunodeficiency](#immunodeficiency-by-defective-expression-of-hla-class-2---severe-combined-immunodeficiency)
