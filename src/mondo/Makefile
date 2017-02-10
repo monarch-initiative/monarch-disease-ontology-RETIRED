@@ -68,6 +68,9 @@ linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 .PRECIOUS: linked-%.owl
 
+kboom-neoplasm.owl: set-1-amended-ptable.tsv set-1.owl
+	kboom --experimental -r DOID:14566 --splitSize 200 --max 9 -m linked-neoplasm-rpt.md -j linked-neoplasm-rpt.json -n -o $@ -t $^
+
 check-%: linked-%.owl
 	grep  'Success:false' linked-$*-rpt.md && exit 1 || echo 'all cliques have a satisfiable solution' > $@
 
