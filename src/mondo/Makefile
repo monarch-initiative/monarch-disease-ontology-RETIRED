@@ -89,7 +89,7 @@ debug-%.owl: set-1.owl linked-1.obo
 	owltools $^ --merge-support-ontologies -o $@
 
 # Merging most probable axioms plus original ontologies
-PRIORITIES_SYN := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
+PRIORITIES_ID := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l NCIT 8 -l Orphanet 5  -l OMIM 3 -l MESH 1
 PRIORITIES_DEF := -d Orphanet 10 -d NCIT 8 -d DOID 5  -d MESH 3 -d OMIM 1
 
@@ -97,7 +97,7 @@ PRIORITIES_DEF := -d Orphanet 10 -d NCIT 8 -d DOID 5  -d MESH 3 -d OMIM 1
 #OTHERS_TO_MERGE := $(OMIA_OBO)
 OTHERS_TO_MERGE := 
 lmerged-%.owl: set-%.owl linked-%.owl $(OTHERS_TO_MERGE)
-	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_SYN) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --set-ontology-id $(OBO)/mondo/$@ -o $@
+	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_ID) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --set-ontology-id $(OBO)/mondo/$@ -o $@
 .PRECIOUS: lmerged-%.owl
 
 lmerged-%.obo: lmerged-%.owl
@@ -315,3 +315,6 @@ sync-report:
 sync-ncit-report:
 	cp set-1.owl linked-1*{md,json,html} set-1-ptable*tsv ~/Dropbox/MonDO-Reports/ncit/
 	rsync -az target ~/Dropbox/MonDO-Reports/ncit/
+
+../reports/new-subclass/orphanet.md:
+	./report-entailed.pl Orphanet linked-1-rpt.md > $@
