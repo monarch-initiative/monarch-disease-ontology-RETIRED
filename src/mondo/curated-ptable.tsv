@@ -125,3 +125,5 @@
 0.95 OMIM_123400 Creutzfeldt-Jakob Disease EquivalentTo Orphanet_282166 Inherited Creutzfeldt-Jakob disease
 0.95 Orphanet_204 Sporadic Creutzfeldt-Jakob disease EquivalentTo MESH_C565143 Creutzfeldt-Jakob Disease, Sporadic
 0.95 Orphanet_454700 Acquired Creutzfeldt-Jakob disease EquivalentTo MESH_C538481 Acquired CJD
+
+1.0 OMIM_217090	 Plasminogen Deficiency, Type 1 SiblingOf Orphanet_97231 Ligneous conjunctivitis
