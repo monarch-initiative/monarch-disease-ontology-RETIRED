@@ -151,10 +151,6 @@ equivalent_to: OMIM:149730 ! Lacrimoauriculodentodigital Syndrome
 equivalent_to: Orphanet:2363 ! Lacrimoauriculodentodigital syndrome
 
 [Term]
-id: DOID:0050332 ! enlarged vestibular aqueduct
-is_a: OMIM:600791 ! Deafness, Autosomal Recessive 4, With Enlarged Vestibular Aqueduct
-
-[Term]
 id: DOID:0050335 ! bradyopsia
 equivalent_to: MESH:C564243 ! Prolonged Electroretinal Response Suppression
 equivalent_to: OMIM:608415 ! Prolonged Electroretinal Response Suppression
@@ -186,7 +182,6 @@ equivalent_to: OMIM:610984 ! Complement Factor 1 Deficiency
 
 [Term]
 id: DOID:0050424 ! familial adenomatous polyposis
-equivalent_to: NCIT:C3339 ! Familial Adenomatous Polyposis
 equivalent_to: Orphanet:733 ! Familial adenomatous polyposis
 
 [Term]
@@ -300,7 +295,6 @@ equivalent_to: Orphanet:358 ! Gitelman syndrome
 
 [Term]
 id: DOID:0050451 ! Brugada syndrome
-equivalent_to: MESH:D053840 ! Brugada Syndrome
 equivalent_to: Orphanet:130 ! Brugada syndrome
 
 [Term]
@@ -536,7 +530,7 @@ equivalent_to: Orphanet:140471 ! Hereditary sensory and autonomic neuropathy
 
 [Term]
 id: DOID:0050549 ! Saldino-Noonan syndrome
-equivalent_to: Orphanet:93270 ! Short rib-polydactyly syndrome, Saldino-Noonan type
+is_a: Orphanet:93270 ! Short rib-polydactyly syndrome, Saldino-Noonan type
 
 [Term]
 id: DOID:0050553 ! JMP syndrome
@@ -583,11 +577,12 @@ equivalent_to: Orphanet:87884 ! Non-syndromic genetic deafness
 
 [Term]
 id: DOID:0050564 ! autosomal dominant nonsyndromic deafness
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
+equivalent_to: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: DOID:0050565 ! autosomal recessive nonsyndromic deafness
 is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
+equivalent_to: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: DOID:0050566 ! X-linked nonsyndromic deafness
@@ -1236,7 +1231,7 @@ equivalent_to: Orphanet:913 ! Zollinger-Ellison syndrome
 
 [Term]
 id: DOID:0050783 ! secondary progressive multiple sclerosis
-is_a: MESH:D020528 ! Multiple Sclerosis, Chronic Progressive
+equivalent_to: MESH:D020528 ! Multiple Sclerosis, Chronic Progressive
 
 [Term]
 id: DOID:0050784 ! primary progressive multiple sclerosis
@@ -1244,7 +1239,7 @@ is_a: MESH:D020528 ! Multiple Sclerosis, Chronic Progressive
 
 [Term]
 id: DOID:0050785 ! progressive relapsing multiple sclerosis
-equivalent_to: MESH:D020528 ! Multiple Sclerosis, Chronic Progressive
+is_a: MESH:D020528 ! Multiple Sclerosis, Chronic Progressive
 
 [Term]
 id: DOID:0050786 ! iridogoniodysgenesis syndrome
@@ -2026,7 +2021,6 @@ equivalent_to: NCIT:C3377 ! Soft Tissue Neoplasm
 
 [Term]
 id: DOID:0060125 ! heavy chain disease
-equivalent_to: NCIT:C3082 ! Heavy Chain Disease
 equivalent_to: Orphanet:86864 ! Heavy chain disease
 
 [Term]
@@ -2292,7 +2286,7 @@ equivalent_to: Orphanet:157 ! Carnitine palmitoyltransferase II deficiency
 
 [Term]
 id: DOID:0060237 ! Warburg micro syndrome
-equivalent_to: MESH:C536681 ! Warburg Sjo Fledelius syndrome
+equivalent_to: Orphanet:2510 ! Micro syndrome
 
 [Term]
 id: DOID:0060238 ! Van Maldergem syndrome
@@ -2416,21 +2410,21 @@ equivalent_to: OMIM:614678 ! Pontocerebellar Hypoplasia, Type 1B
 [Term]
 id: DOID:0060267 ! pontocerebellar hypoplasia type 2A
 is_a: Orphanet:2524 ! Pontocerebellar hypoplasia type 2
-equivalent_to: MESH:C564738 ! Pontocerebellar Hypoplasia Type 2A
 equivalent_to: OMIM:277470 ! Pontocerebellar Hypoplasia, Type 2A
 
 [Term]
 id: DOID:0060268 ! pontocerebellar hypoplasia type 2B
-is_a: Orphanet:2524 ! Pontocerebellar hypoplasia type 2
-equivalent_to: MESH:C567325 ! Pontocerebellar Hypoplasia Type 2B
 equivalent_to: OMIM:612389 ! Pontocerebellar Hypoplasia, Type 2B
 
 [Term]
 id: DOID:0060269 ! pontocerebellar hypoplasia type 2C
+is_a: Orphanet:2524 ! Pontocerebellar hypoplasia type 2
+equivalent_to: MESH:C567324 ! Pontocerebellar Hypoplasia Type 2C
 equivalent_to: OMIM:612390 ! Pontocerebellar Hypoplasia, Type 2C
 
 [Term]
 id: DOID:0060270 ! pontocerebellar hypoplasia type 2D
+is_a: Orphanet:2524 ! Pontocerebellar hypoplasia type 2
 equivalent_to: OMIM:613811 ! Pontocerebellar Hypoplasia, Type 2D
 
 [Term]
@@ -2540,7 +2534,6 @@ equivalent_to: Orphanet:157820 ! Cold-induced sweating syndrome
 
 [Term]
 id: DOID:0060295 ! complement component 2 deficiency
-is_a: Orphanet:169147 ! Immunodeficiency due to an early component of complement deficiency
 equivalent_to: OMIM:217000 ! Complement Component 2 Deficiency
 
 [Term]
@@ -2561,6 +2554,7 @@ equivalent_to: OMIM:614379 ! Complement Component 4B Deficiency
 
 [Term]
 id: DOID:0060299 ! complement component 6 deficiency
+is_a: Orphanet:169150 ! Immunodeficiency due to a late component of complement deficiency
 equivalent_to: OMIM:612446 ! Complement Component 6 Deficiency
 
 [Term]
@@ -2569,11 +2563,11 @@ equivalent_to: OMIM:610102 ! Complement Component 7 Deficiency
 
 [Term]
 id: DOID:0060301 ! type I complement component 8 deficiency
+is_a: Orphanet:169150 ! Immunodeficiency due to a late component of complement deficiency
 equivalent_to: OMIM:613790 ! Complement Component 8 Deficiency, Type 1
 
 [Term]
 id: DOID:0060302 ! type II complement component 8 deficiency
-is_a: Orphanet:169150 ! Immunodeficiency due to a late component of complement deficiency
 equivalent_to: OMIM:613789 ! Complement Component 8 Deficiency, Type 2
 
 [Term]
@@ -3619,11 +3613,11 @@ equivalent_to: OMIM:609942 ! Noonan Syndrome 3
 
 [Term]
 id: DOID:0060582 ! Noonan syndrome 4
+is_a: Orphanet:648 ! Noonan syndrome
 equivalent_to: OMIM:610733 ! Noonan Syndrome 4
 
 [Term]
 id: DOID:0060583 ! Noonan syndrome 5
-is_a: Orphanet:648 ! Noonan syndrome
 equivalent_to: OMIM:611553 ! Noonan Syndrome 5
 
 [Term]
@@ -3870,11 +3864,11 @@ equivalent_to: Orphanet:98784 ! Autosomal dominant nocturnal frontal lobe epilep
 
 [Term]
 id: DOID:0060682 ! autosomal dominant nocturnal frontal lobe epilepsy 1
-is_a: Orphanet:98784 ! Autosomal dominant nocturnal frontal lobe epilepsy
 equivalent_to: OMIM:600513 ! Epilepsy, Nocturnal Frontal Lobe, 1
 
 [Term]
 id: DOID:0060683 ! autosomal dominant nocturnal frontal lobe epilepsy 2
+is_a: Orphanet:98784 ! Autosomal dominant nocturnal frontal lobe epilepsy
 equivalent_to: OMIM:603204 ! ENFL2
 
 [Term]
@@ -3956,11 +3950,11 @@ equivalent_to: Orphanet:93372 ! Familial hypocalciuric hypercalcemia type 1
 
 [Term]
 id: DOID:0060701 ! familial hypocalciuric hypercalcemia 2
-equivalent_to: OMIM:145981 ! Hypocalciuric Hypercalcemia, Familial, Type 2
 equivalent_to: Orphanet:101049 ! Familial hypocalciuric hypercalcemia type 2
 
 [Term]
 id: DOID:0060702 ! familial hypocalciuric hypercalcemia 3
+equivalent_to: OMIM:600740 ! Hypocalciuric Hypercalcemia, Familial, Type 3
 equivalent_to: Orphanet:101050 ! Familial hypocalciuric hypercalcemia type 3
 
 [Term]
@@ -4209,6 +4203,7 @@ equivalent_to: Orphanet:792 ! X-linked retinoschisis
 [Term]
 id: DOID:0060764 ! autosomal recessive Robinow syndrome
 is_a: Orphanet:97360 ! Robinow syndrome
+equivalent_to: OMIM:268310 ! Robinow Syndrome, Autosomal Recessive
 equivalent_to: Orphanet:1507 ! Autosomal recessive Robinow syndrome
 
 [Term]
@@ -4334,7 +4329,6 @@ equivalent_to: Orphanet:438114 ! RARS-related autosomal recessive hypomyelinatin
 
 [Term]
 id: DOID:0060792 ! hypomyelinating leukodystrophy 11
-is_a: Orphanet:88637 ! Hypomyelination-hypogonadotropic-hypogonadism-hypodontia syndrome
 equivalent_to: OMIM:616494 ! Leukodystrophy, Hypomyelinating, 11
 
 [Term]
@@ -4345,7 +4339,7 @@ equivalent_to: Orphanet:85163 ! Hypomyelination-congenital cataract syndrome
 [Term]
 id: DOID:0060794 ! hypomyelinating leukodystrophy 7 with or without oligodontia and-or hypogonadotropic hypogonadism
 equivalent_to: OMIM:607694 ! Leukodystrophy, Hypomyelinating, 7, With or Without Oligodontia And/Or Hypogonadotropic Hypogonadism
-equivalent_to: Orphanet:447893 ! Hypomyelination-cerebellar atrophy-hypoplasia of the corpus callosum syndrome
+equivalent_to: Orphanet:447896 ! Tremor-ataxia-central hypomyelination syndrome
 
 [Term]
 id: DOID:0060795 ! hypomyelinating leukodystrophy 13
@@ -4357,6 +4351,7 @@ equivalent_to: OMIM:616683 ! Leukodystrophy, Hypomyelinating, 12; HLD12
 
 [Term]
 id: DOID:0060797 ! hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism
+is_a: Orphanet:88637 ! Hypomyelination-hypogonadotropic-hypogonadism-hypodontia syndrome
 equivalent_to: OMIM:614381 ! Leukodystrophy, Hypomyelinating, 8, With or Without Oligodontia And/Or Hypogonadotropic Hypogonadism
 
 [Term]
@@ -4590,6 +4585,17 @@ id: DOID:0060844 ! Norrie disease
 equivalent_to: MESH:C537849 ! Norrie disease
 equivalent_to: OMIM:310600 ! Norrie Disease
 equivalent_to: Orphanet:649 ! Norrie disease
+
+[Term]
+id: DOID:0060847 ! Leri-Weill dyschondrosteosis
+equivalent_to: MESH:C537119 ! Leri-Weil syndrome
+equivalent_to: OMIM:127300 ! Leri-Weill Dyschondrosteosis
+equivalent_to: Orphanet:240 ! LC)ri-Weill dyschondrosteosis
+
+[Term]
+id: DOID:0060848 ! early infantile epileptic encephalopathy 9
+equivalent_to: OMIM:300088 ! Epileptic Encephalopathy, Early Infantile, 9
+equivalent_to: Orphanet:101039 ! Female restricted epilepsy with intellectual disability
 
 [Term]
 id: DOID:0070003 ! blastoma
@@ -4966,11 +4972,11 @@ equivalent_to: OMIM:612073 ! Mitochondrial Dna Depletion Syndrome 5 (Encephalomy
 
 [Term]
 id: DOID:0080125 ! mitochondrial DNA depletion syndrome 6
-is_a: OMIM:256810 ! Mitochondrial Dna Depletion Syndrome 6 (Hepatocerebral Type)
+equivalent_to: OMIM:256810 ! Mitochondrial Dna Depletion Syndrome 6 (Hepatocerebral Type)
 
 [Term]
 id: DOID:0080126 ! mitochondrial DNA depletion syndrome 7
-equivalent_to: OMIM:256810 ! Mitochondrial Dna Depletion Syndrome 6 (Hepatocerebral Type)
+is_a: OMIM:256810 ! Mitochondrial Dna Depletion Syndrome 6 (Hepatocerebral Type)
 
 [Term]
 id: DOID:0080127 ! mitochondrial DNA depletion syndrome 8a
@@ -5271,11 +5277,11 @@ equivalent_to: Orphanet:93616 ! Hemoglobin H disease
 
 [Term]
 id: DOID:0110032 ! autosomal dominant Alport syndrome
-equivalent_to: OMIM:104200 ! Alport Syndrome, Autosomal Dominant
 equivalent_to: Orphanet:88918 ! Autosomal dominant Alport syndrome
 
 [Term]
 id: DOID:0110033 ! autosomal recessive Alport syndrome
+equivalent_to: OMIM:203780 ! Alport Syndrome, Autosomal Recessive
 equivalent_to: Orphanet:88919 ! Autosomal recessive Alport syndrome
 
 [Term]
@@ -5480,7 +5486,8 @@ equivalent_to: OMIM:611263 ! Short-Rib Thoracic Dysplasia 2 With or Without Poly
 
 [Term]
 id: DOID:0110087 ! asphyxiating thoracic dystrophy 3
-equivalent_to: OMIM:613091 ! Short-Rib Thoracic Dysplasia 3 With or Without Polydactyly
+is_a: OMIM:613091 ! Short-Rib Thoracic Dysplasia 3 With or Without Polydactyly
+equivalent_to: Orphanet:93270 ! Short rib-polydactyly syndrome, Saldino-Noonan type
 
 [Term]
 id: DOID:0110088 ! asphyxiating thoracic dystrophy 4
@@ -7086,7 +7093,6 @@ equivalent_to: OMIM:616515 ! Deafness, Autosomal Recessive 104
 
 [Term]
 id: DOID:0110466 ! autosomal recessive nonsyndromic deafness 105
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 equivalent_to: OMIM:616958 ! Deafness, Autosomal Recessive 105; DFNB105
 
 [Term]
@@ -7750,9 +7756,201 @@ is_a: Orphanet:3463 ! Wolfram syndrome
 equivalent_to: OMIM:604928 ! Wolfram Syndrome 2
 
 [Term]
+id: DOID:0110716 ! Warburg micro syndrome 1
+is_a: Orphanet:2510 ! Micro syndrome
+equivalent_to: OMIM:600118 ! Warburg Micro Syndrome 1
+
+[Term]
+id: DOID:0110717 ! Warburg micro syndrome 2
+equivalent_to: OMIM:614225 ! Warburg Micro Syndrome 2
+
+[Term]
+id: DOID:0110718 ! Warburg micro syndrome 3
+equivalent_to: OMIM:614222 ! Warburg Micro Syndrome 3
+
+[Term]
+id: DOID:0110719 ! Warburg micro syndrome 4
+is_a: Orphanet:2510 ! Micro syndrome
+equivalent_to: OMIM:615663 ! Warburg Micro Syndrome 4
+
+[Term]
+id: DOID:0110720 ! neuronal ceroid lipofuscinosis 4B
+equivalent_to: OMIM:162350 ! Ceroid Lipofuscinosis, Neuronal, 4B, Autosomal Dominant
+
+[Term]
+id: DOID:0110721 ! neuronal ceroid lipofuscinosis 1
+equivalent_to: OMIM:256730 ! Ceroid Lipofuscinosis, Neuronal, 1
+
+[Term]
+id: DOID:0110722 ! neuronal ceroid lipofuscinosis 7
+equivalent_to: OMIM:610951 ! Ceroid Lipofuscinosis, Neuronal, 7
+
+[Term]
+id: DOID:0110723 ! neuronal ceroid lipofuscinosis 8
+equivalent_to: OMIM:600143 ! Ceroid Lipofuscinosis, Neuronal, 8
+
+[Term]
+id: DOID:0110724 ! neuronal ceroid lipofuscinosis 8 northern epilepsy variant
+equivalent_to: OMIM:610003 ! Ceroid Lipofuscinosis, Neuronal, 8, Northern Epilepsy Variant
+equivalent_to: Orphanet:1947 ! Progressive epilepsy-intellectual disability syndrome, Finnish type
+
+[Term]
+id: DOID:0110725 ! neuronal ceroid lipofuscinosis 10
+equivalent_to: OMIM:610127 ! Ceroid Lipofuscinosis, Neuronal, 10
+
+[Term]
+id: DOID:0110726 ! neuronal ceroid lipofuscinosis 2
+is_a: Orphanet:168491 ! Late infantile neuronal ceroid lipofuscinosis
+equivalent_to: OMIM:204500 ! Ceroid Lipofuscinosis, Neuronal, 2
+
+[Term]
+id: DOID:0110727 ! neuronal ceroid lipofuscinosis 13
+equivalent_to: OMIM:615362 ! Ceroid Lipofuscinosis, Neuronal, 13
+
+[Term]
+id: DOID:0110728 ! neuronal ceroid lipofuscinosis 5
+equivalent_to: OMIM:256731 ! Ceroid Lipofuscinosis, Neuronal, 5
+
+[Term]
+id: DOID:0110729 ! neuronal ceroid lipofuscinosis 6
+equivalent_to: OMIM:601780 ! Ceroid Lipofuscinosis, Neuronal, 6
+
+[Term]
+id: DOID:0110730 ! neuronal ceroid lipofuscinosis 4A
+is_a: Orphanet:79262 ! Adult neuronal ceroid lipofuscinosis
+
+[Term]
+id: DOID:0110731 ! neuronal ceroid lipofuscinosis 3
+equivalent_to: OMIM:204200 ! Ceroid Lipofuscinosis, Neuronal, 3
+
+[Term]
+id: DOID:0110732 ! neuronal ceroid lipofuscinosis 11
+equivalent_to: OMIM:614706 ! Ceroid Lipofuscinosis, Neuronal, 11
+
+[Term]
+id: DOID:0110733 ! neuronal ceroid lipofuscinosis 9
+equivalent_to: OMIM:609055 ! CLN9
+
+[Term]
+id: DOID:0110734 ! neurodegeneration with brain iron accumulation
+equivalent_to: Orphanet:385 ! Neurodegeneration with brain iron accumulation
+
+[Term]
+id: DOID:0110735 ! neurodegeneration with brain iron accumulation 2a
+is_a: Orphanet:329303 ! PLA2G6-associated neurodegeneration
+is_a: Orphanet:35069 ! Infantile neuroaxonal dystrophy
+equivalent_to: OMIM:256600 ! Neurodegeneration With Brain Iron Accumulation 2A
+
+[Term]
+id: DOID:0110736 ! neurodegeneration with brain iron accumulation 2b
+is_a: Orphanet:35069 ! Infantile neuroaxonal dystrophy
+equivalent_to: OMIM:610217 ! Neurodegeneration With Brain Iron Accumulation 2B
+
+[Term]
+id: DOID:0110737 ! neurodegeneration with brain iron accumulation 3
+equivalent_to: MESH:C548080 ! Neuroferritinopathy
+equivalent_to: OMIM:606159 ! Neurodegeneration With Brain Iron Accumulation 3
+equivalent_to: Orphanet:157846 ! Neuroferritinopathy
+
+[Term]
+id: DOID:0110738 ! neurodegeneration with brain iron accumulation 4
+equivalent_to: OMIM:614298 ! Neurodegeneration With Brain Iron Accumulation 4
+equivalent_to: Orphanet:289560 ! Mitochondrial membrane protein-associated neurodegeneration
+
+[Term]
+id: DOID:0110739 ! neurodegeneration with brain iron accumulation 5
+equivalent_to: OMIM:300894 ! Neurodegeneration With Brain Iron Accumulation 5
+equivalent_to: Orphanet:329284 ! Beta-propeller protein-associated neurodegeneration
+
+[Term]
+id: DOID:0110740 ! neurodegeneration with brain iron accumulation 6
+equivalent_to: OMIM:615643 ! Neurodegeneration With Brain Iron Accumulation 6
+equivalent_to: Orphanet:397725 ! COASY protein-associated neurodegeneration
+
+[Term]
+id: DOID:0110741 ! type 1 diabetes mellitus 2
+equivalent_to: OMIM:125852 ! Diabetes Mellitus, Insulin-Dependent, 2
+
+[Term]
+id: DOID:0110742 ! type 1 diabetes mellitus 3
+equivalent_to: OMIM:600318 ! IDDM3
+
+[Term]
+id: DOID:0110743 ! type 1 diabetes mellitus 4
+equivalent_to: OMIM:600319 ! IDDM4
+
+[Term]
+id: DOID:0110744 ! type 1 diabetes mellitus 5
+equivalent_to: OMIM:600320 ! Diabetes Mellitus, Insulin-Dependent, 5
+
+[Term]
+id: DOID:0110745 ! type 1 diabetes mellitus 6
+equivalent_to: OMIM:601941 ! IDDM6
+
+[Term]
+id: DOID:0110746 ! type 1 diabetes mellitus 7
+equivalent_to: OMIM:600321 ! IDDM7
+
+[Term]
+id: DOID:0110747 ! type 1 diabetes mellitus 8
+equivalent_to: OMIM:600883 ! IDDM8
+
+[Term]
+id: DOID:0110749 ! type 1 diabetes mellitus 10
+equivalent_to: OMIM:601942 ! Diabetes Mellitus, Insulin-Dependent, 10
+
+[Term]
+id: DOID:0110750 ! type 1 diabetes mellitus 11
+equivalent_to: OMIM:601208 ! IDDM11
+
+[Term]
+id: DOID:0110751 ! type 1 diabetes mellitus 12
+equivalent_to: OMIM:601388 ! Diabetes Mellitus, Insulin-Dependent, 12
+
+[Term]
+id: DOID:0110752 ! type 1 diabetes mellitus 13
+equivalent_to: OMIM:601318 ! IDDM13
+
+[Term]
+id: DOID:0110753 ! type 1 diabetes mellitus 15
+equivalent_to: OMIM:601666 ! IDDM15
+
+[Term]
+id: DOID:0110754 ! type 1 diabetes mellitus 17
+equivalent_to: OMIM:603266 ! IDDM17
+
+[Term]
+id: DOID:0110755 ! type 1 diabetes mellitus 18
+equivalent_to: OMIM:605598 ! IDDM18
+
+[Term]
+id: DOID:0110756 ! type 1 diabetes mellitus 19
+equivalent_to: OMIM:610155 ! IDDM19
+
+[Term]
+id: DOID:0110757 ! type 1 diabetes mellitus 20
+equivalent_to: OMIM:612520 ! Diabetes Mellitus, Insulin-Dependent, 20
+
+[Term]
+id: DOID:0110758 ! type 1 diabetes mellitus 21
+equivalent_to: OMIM:612521 ! IDDM21
+
+[Term]
+id: DOID:0110759 ! type 1 diabetes mellitus 22
+equivalent_to: OMIM:612522 ! Diabetes Mellitus, Insulin-Dependent, 22
+
+[Term]
+id: DOID:0110760 ! type 1 diabetes mellitus 23
+equivalent_to: OMIM:612622 ! IDDM23
+
+[Term]
+id: DOID:0110761 ! type 1 diabetes mellitus 24
+equivalent_to: OMIM:613006 ! IDDM24
+
+[Term]
 id: DOID:10003 ! sensorineural hearing loss
 is_a: MESH:D006319 ! Hearing Loss, Sensorineural
-equivalent_to: MESH:D006313 ! Hearing Loss, Central
+equivalent_to: MESH:D006316 ! Hearing Loss, High-Frequency
 
 [Term]
 id: DOID:10011 ! thyroid lymphoma
@@ -7763,7 +7961,6 @@ equivalent_to: Orphanet:97285 ! Thyroid lymphoma
 id: DOID:10016 ! multiple endocrine neoplasia type 2B
 equivalent_to: MESH:D018814 ! Multiple Endocrine Neoplasia Type 2b
 equivalent_to: NCIT:C3227 ! Multiple Endocrine Neoplasia Type 2B
-equivalent_to: Orphanet:247709 ! Multiple endocrine neoplasia type 2B
 
 [Term]
 id: DOID:10017 ! multiple endocrine neoplasia type 1
@@ -8639,7 +8836,7 @@ equivalent_to: Orphanet:3380 ! Trisomy 18
 
 [Term]
 id: DOID:10864 ! partial third-nerve palsy
-is_a: MESH:D015840 ! Oculomotor Nerve Diseases
+equivalent_to: MESH:D015840 ! Oculomotor Nerve Diseases
 
 [Term]
 id: DOID:10865 ! abducens nerve disease
@@ -8648,7 +8845,7 @@ equivalent_to: OMIM:100200 ! Abducens Palsy
 
 [Term]
 id: DOID:10866 ! total third-nerve palsy
-equivalent_to: MESH:D015840 ! Oculomotor Nerve Diseases
+is_a: MESH:D015840 ! Oculomotor Nerve Diseases
 
 [Term]
 id: DOID:10871 ! age related macular degeneration
@@ -8893,6 +9090,7 @@ equivalent_to: MESH:D010923 ! Placenta Previa
 [Term]
 id: DOID:1107 ! esophageal carcinoma
 equivalent_to: NCIT:C3513 ! Esophageal Carcinoma
+equivalent_to: Orphanet:70482 ! Carcinoma of esophagus
 
 [Term]
 id: DOID:11077 ! brucellosis
@@ -9452,9 +9650,9 @@ equivalent_to: MESH:D011305 ! Presbyopia
 
 [Term]
 id: DOID:11656 ! cicatricial pemphigoid
-is_a: Orphanet:46486 ! Mucous membrane pemphigoid
+is_a: Orphanet:99922 ! Ocular pemphigoid
 equivalent_to: MESH:D010390 ! Pemphigoid, Benign Mucous Membrane
-equivalent_to: Orphanet:99922 ! Ocular pemphigoid
+equivalent_to: Orphanet:46486 ! Mucous membrane pemphigoid
 
 [Term]
 id: DOID:1166 ! palindromic rheumatism
@@ -9627,6 +9825,7 @@ equivalent_to: NCIT:C4669 ! Bladder Sarcoma
 [Term]
 id: DOID:11819 ! ureter cancer
 is_a: MESH:D014516 ! Ureteral Neoplasms
+is_a: NCIT:C3427 ! Ureter Neoplasm
 equivalent_to: NCIT:C7543 ! Malignant Ureter Neoplasm
 
 [Term]
@@ -9702,7 +9901,6 @@ equivalent_to: MESH:D020422 ! Mononeuropathies
 [Term]
 id: DOID:11885 ! ureteral benign neoplasm
 is_a: MESH:D014516 ! Ureteral Neoplasms
-is_a: NCIT:C3427 ! Ureter Neoplasm
 equivalent_to: NCIT:C3617 ! Benign Ureter Neoplasm
 
 [Term]
@@ -9747,8 +9945,8 @@ equivalent_to: NCIT:C3077 ! Head and Neck Neoplasm
 
 [Term]
 id: DOID:11949 ! Creutzfeldt-Jakob disease
+is_a: OMIM:123400 ! Creutzfeldt-Jakob Disease
 equivalent_to: MESH:D007562 ! Creutzfeldt-Jakob Syndrome
-equivalent_to: OMIM:123400 ! Creutzfeldt-Jakob Disease
 
 [Term]
 id: DOID:11963 ! esophagitis
@@ -9851,6 +10049,7 @@ equivalent_to: Orphanet:1546 ! Cryptococcosis
 
 [Term]
 id: DOID:1206 ! Rett syndrome
+equivalent_to: MESH:D015518 ! Rett Syndrome
 equivalent_to: Orphanet:778 ! Rett syndrome
 
 [Term]
@@ -10314,7 +10513,6 @@ equivalent_to: MESH:D017246 ! Ophthalmoplegia, Chronic Progressive External
 
 [Term]
 id: DOID:12559 ! idiopathic juvenile osteoporosis
-equivalent_to: OMIM:259750 ! Osteoporosis, Juvenile
 equivalent_to: Orphanet:85193 ! Idiopathic juvenile osteoporosis
 
 [Term]
@@ -10397,6 +10595,7 @@ equivalent_to: MESH:D020338 ! Vestibular Neuronitis
 id: DOID:12689 ! acoustic neuroma
 equivalent_to: MESH:D009464 ! Neuroma, Acoustic
 equivalent_to: NCIT:C3276 ! Acoustic Schwannoma
+equivalent_to: Orphanet:252175 ! Vestibular schwannoma
 
 [Term]
 id: DOID:12697 ! locked-in syndrome
@@ -11066,10 +11265,6 @@ equivalent_to: MESH:D029503 ! Anemia, Diamond-Blackfan
 equivalent_to: Orphanet:124 ! Blackfan-Diamond anemia
 
 [Term]
-id: DOID:13399 ! color blindness
-equivalent_to: MESH:D003117 ! Color Vision Defects
-
-[Term]
 id: DOID:134 ! vaginal glandular tumor
 equivalent_to: NCIT:C40250 ! Vaginal Glandular Neoplasm
 
@@ -11302,7 +11497,7 @@ is_a: NCIT:C4416 ! Ethmoid Sinus Neoplasm
 equivalent_to: NCIT:C3541 ! Malignant Ethmoid Sinus Neoplasm
 
 [Term]
-id: DOID:13636 ! Fanconi's anemia
+id: DOID:13636 ! Fanconi anemia
 equivalent_to: MESH:D005199 ! Fanconi Anemia
 equivalent_to: Orphanet:84 ! Fanconi anemia
 
@@ -11532,7 +11727,12 @@ equivalent_to: OMIM:303900 ! Colorblindness, Partial, Protan Series
 
 [Term]
 id: DOID:13911 ! achromatopsia
+is_a: MESH:D003117 ! Color Vision Defects
 equivalent_to: Orphanet:49382 ! Achromatopsia
+
+[Term]
+id: DOID:13912 ! acquired color blindness
+equivalent_to: MESH:D003117 ! Color Vision Defects
 
 [Term]
 id: DOID:13918 ! somatization disorder
@@ -11716,7 +11916,7 @@ equivalent_to: MESH:D012772 ! Shock, Septic
 [Term]
 id: DOID:14116 ! multiple symmetric lipomatosis
 is_a: MESH:D008069 ! Lipomatosis, Multiple Symmetrical
-equivalent_to: NCIT:C4392 ! Cervical Symmetrical Lipomatosis
+is_a: NCIT:C4392 ! Cervical Symmetrical Lipomatosis
 equivalent_to: OMIM:151800 ! Lipomatosis, Multiple Symmetric
 equivalent_to: Orphanet:2398 ! Multiple symmetric lipomatosis
 
@@ -11991,7 +12191,7 @@ equivalent_to: MESH:D004154 ! Dipetalonema Infections
 
 [Term]
 id: DOID:14423 ! glossopharyngeal neuralgia
-equivalent_to: MESH:D020435 ! Glossopharyngeal Nerve Diseases
+is_a: MESH:D020435 ! Glossopharyngeal Nerve Diseases
 equivalent_to: Orphanet:221098 ! Glossopharyngeal neuralgia
 
 [Term]
@@ -12214,7 +12414,6 @@ equivalent_to: MESH:D007762 ! Labyrinthitis
 
 [Term]
 id: DOID:14681 ! Silver-Russell syndrome
-equivalent_to: MESH:D056730 ! Silver-Russell Syndrome
 equivalent_to: OMIM:180860 ! Silver-Russell Syndrome
 equivalent_to: Orphanet:813 ! Silver-Russell syndrome
 
@@ -12480,7 +12679,7 @@ equivalent_to: MESH:D002177 ! Candidiasis
 
 [Term]
 id: DOID:1509 ! avoidant personality disorder
-is_a: MESH:D010554 ! Personality Disorders
+equivalent_to: MESH:D010554 ! Personality Disorders
 
 [Term]
 id: DOID:1517 ! cecal benign neoplasm
@@ -12532,9 +12731,7 @@ equivalent_to: NCIT:C6930 ! Mixed Neoplasm
 
 [Term]
 id: DOID:1540 ! parathyroid carcinoma
-is_a: NCIT:C3313 ! Parathyroid Gland Neoplasm
-is_a: NCIT:C9322 ! Malignant Parathyroid Gland Neoplasm
-equivalent_to: NCIT:C4906 ! Parathyroid Gland Carcinoma
+is_a: MESH:D010282 ! Parathyroid Neoplasms
 equivalent_to: OMIM:608266 ! Parathyroid Carcinoma
 equivalent_to: Orphanet:143 ! Parathyroid carcinoma
 
@@ -12626,7 +12823,7 @@ equivalent_to: MESH:D006978 ! Hypertension, Renovascular
 
 [Term]
 id: DOID:1595 ! endogenous depression
-is_a: MESH:D003866 ! Depressive Disorder
+equivalent_to: MESH:D003866 ! Depressive Disorder
 
 [Term]
 id: DOID:1602 ! lymphadenitis
@@ -12769,9 +12966,9 @@ equivalent_to: Orphanet:94058 ! Neovascular glaucoma
 
 [Term]
 id: DOID:169 ! neuroendocrine tumor
-is_a: Orphanet:877 ! Endocrine tumor
 equivalent_to: MESH:D018358 ! Neuroendocrine Tumors
 equivalent_to: NCIT:C3809 ! Neuroendocrine Neoplasm
+equivalent_to: Orphanet:877 ! Endocrine tumor
 
 [Term]
 id: DOID:1699 ! congenital ichthyosiform erythroderma
@@ -12786,10 +12983,9 @@ equivalent_to: MESH:D009140 ! Musculoskeletal Diseases
 
 [Term]
 id: DOID:170 ! endocrine gland cancer
-is_a: Orphanet:182130 ! Tumor of endocrine glands
 equivalent_to: MESH:D004701 ! Endocrine Gland Neoplasms
 equivalent_to: NCIT:C3010 ! Endocrine Neoplasm
-equivalent_to: Orphanet:877 ! Endocrine tumor
+equivalent_to: Orphanet:182130 ! Tumor of endocrine glands
 
 [Term]
 id: DOID:1700 ! X-linked ichthyosis
@@ -13143,7 +13339,7 @@ equivalent_to: NCIT:C6379 ! Vaginal Yolk Sac Tumor
 [Term]
 id: DOID:1911 ! endodermal sinus tumor
 equivalent_to: MESH:D018240 ! Endodermal Sinus Tumor
-equivalent_to: NCIT:C3011 ! Yolk Sac Tumor
+equivalent_to: Orphanet:876 ! Yolk sac tumor
 
 [Term]
 id: DOID:1919 ! Lesch-Nyhan syndrome
@@ -13587,7 +13783,6 @@ equivalent_to: NCIT:C40443 ! Ovarian Wilms Tumor
 [Term]
 id: DOID:2154 ! nephroblastoma
 is_a: NCIT:C3267 ! Wilms Tumor
-equivalent_to: NCIT:C40407 ! Kidney Wilms Tumor
 equivalent_to: Orphanet:654 ! Nephroblastoma
 
 [Term]
@@ -14000,6 +14195,10 @@ equivalent_to: NCIT:C6067 ! Frontal Sinus Squamous Cell Carcinoma
 [Term]
 id: DOID:2444 ! hyperpituitarism
 equivalent_to: MESH:D006964 ! Hyperpituitarism
+
+[Term]
+id: DOID:2449 ! acromegaly
+equivalent_to: Orphanet:963 ! Acromegaly
 
 [Term]
 id: DOID:2451 ! protein S deficiency
@@ -14583,7 +14782,7 @@ equivalent_to: OMIM:143500 ! Gilbert Syndrome
 
 [Term]
 id: DOID:2741 ! bilirubin metabolic disorder
-equivalent_to: MESH:D006933 ! Hyperbilirubinemia, Hereditary
+equivalent_to: MESH:D006932 ! Hyperbilirubinemia
 
 [Term]
 id: DOID:2742 ! auditory system disease
@@ -14595,7 +14794,7 @@ equivalent_to: MESH:D011702 ! Pyelitis
 
 [Term]
 id: DOID:2745 ! narcissistic personality disorder
-equivalent_to: MESH:D010554 ! Personality Disorders
+is_a: MESH:D010554 ! Personality Disorders
 
 [Term]
 id: DOID:2746 ! glycogen storage disease V
@@ -14809,7 +15008,7 @@ equivalent_to: MESH:D002012 ! Bruxism
 
 [Term]
 id: DOID:2848 ! melancholia
-equivalent_to: MESH:D003866 ! Depressive Disorder
+is_a: MESH:D003866 ! Depressive Disorder
 
 [Term]
 id: DOID:285 ! hairy cell leukemia
@@ -14993,6 +15192,7 @@ equivalent_to: Orphanet:33364 ! Trichothiodystrophy
 
 [Term]
 id: DOID:2962 ! Cockayne syndrome
+equivalent_to: MESH:D003057 ! Cockayne Syndrome
 equivalent_to: Orphanet:191 ! Cockayne syndrome
 
 [Term]
@@ -15223,7 +15423,7 @@ equivalent_to: Orphanet:94 ! Astrocytoma
 
 [Term]
 id: DOID:3070 ! malignant glioma
-equivalent_to: Orphanet:182067 ! Glial tumor
+equivalent_to: NCIT:C4822 ! Malignant Glioma
 
 [Term]
 id: DOID:3071 ! gliosarcoma
@@ -15237,7 +15437,6 @@ equivalent_to: NCIT:C4642 ! Brain Glioblastoma
 
 [Term]
 id: DOID:3074 ! giant cell glioblastoma
-equivalent_to: NCIT:C4325 ! Giant Cell Glioblastoma
 equivalent_to: Orphanet:251579 ! Giant cell glioblastoma
 
 [Term]
@@ -15246,7 +15445,7 @@ equivalent_to: NCIT:C7049 ! Adult Astrocytic Tumor
 
 [Term]
 id: DOID:3078 ! grade III astrocytoma
-equivalent_to: NCIT:C9477 ! Anaplastic Astrocytoma
+equivalent_to: Orphanet:251589 ! Anaplastic astrocytoma
 
 [Term]
 id: DOID:3079 ! juvenile astrocytoma
@@ -15396,6 +15595,7 @@ equivalent_to: MESH:D012536 ! Scalp Dermatoses
 [Term]
 id: DOID:3137 ! multiple symmetrical lipomatosis
 equivalent_to: MESH:D008069 ! Lipomatosis, Multiple Symmetrical
+equivalent_to: NCIT:C4392 ! Cervical Symmetrical Lipomatosis
 
 [Term]
 id: DOID:3138 ! acanthosis nigricans
@@ -15584,9 +15784,7 @@ equivalent_to: NCIT:C5321 ! Microcystic/Reticular Schwannoma
 
 [Term]
 id: DOID:3204 ! neurilemmomatosis
-equivalent_to: MESH:C536641 ! Schwannomatosis
 equivalent_to: NCIT:C6557 ! Schwannomatosis
-equivalent_to: Orphanet:93921 ! Neurofibromatosis type 3
 
 [Term]
 id: DOID:3205 ! melanotic neurilemmoma
@@ -15677,11 +15875,12 @@ equivalent_to: MESH:D011017 ! Pneumonia, Lipid
 id: DOID:3246 ! embryonal rhabdomyosarcoma
 is_a: MESH:D018233 ! Rhabdomyosarcoma, Embryonal
 equivalent_to: NCIT:C8971 ! Embryonal Rhabdomyosarcoma
-equivalent_to: Orphanet:99757 ! Embryonal rhabdomyosarcoma
 
 [Term]
 id: DOID:3247 ! rhabdomyosarcoma
+equivalent_to: MESH:D012208 ! Rhabdomyosarcoma
 equivalent_to: NCIT:C3359 ! Rhabdomyosarcoma
+equivalent_to: Orphanet:780 ! Rhabdomyosarcoma
 
 [Term]
 id: DOID:3250 ! pleomorphic rhabdomyosarcoma
@@ -15761,6 +15960,8 @@ equivalent_to: Orphanet:3280 ! Syringomyelia
 
 [Term]
 id: DOID:3275 ! thymoma
+equivalent_to: MESH:D013945 ! Thymoma
+equivalent_to: NCIT:C3411 ! Thymoma
 equivalent_to: Orphanet:99867 ! Thymoma
 
 [Term]
@@ -15793,9 +15994,7 @@ equivalent_to: NCIT:C7904 ! Invasive Malignant Thymoma
 [Term]
 id: DOID:3284 ! thymic carcinoma
 is_a: MESH:D013945 ! Thymoma
-is_a: NCIT:C7569 ! Thymic Carcinoma
 equivalent_to: NCIT:C7612 ! Malignant Thymoma
-equivalent_to: Orphanet:99868 ! Thymic carcinoma
 
 [Term]
 id: DOID:3292 ! monkeypox
@@ -15999,9 +16198,7 @@ equivalent_to: NCIT:C6604 ! Bone Fibrosarcoma
 
 [Term]
 id: DOID:3355 ! fibrosarcoma
-is_a: MESH:D018218 ! Neoplasms, Fibrous Tissue
 is_a: NCIT:C7075 ! Fibroblastic Neoplasm
-equivalent_to: MESH:D005354 ! Fibrosarcoma
 equivalent_to: NCIT:C3043 ! Fibrosarcoma
 equivalent_to: Orphanet:2030 ! Fibrosarcoma
 
@@ -16088,7 +16285,6 @@ equivalent_to: NCIT:C7598 ! Bone Liposarcoma
 
 [Term]
 id: DOID:3382 ! liposarcoma
-equivalent_to: NCIT:C3194 ! Liposarcoma
 equivalent_to: Orphanet:69078 ! Liposarcoma
 
 [Term]
@@ -16277,6 +16473,7 @@ equivalent_to: MESH:D002481 ! Cellulitis
 [Term]
 id: DOID:349 ! systemic mastocytosis
 is_a: NCIT:C84269 ! Mastocytosis
+equivalent_to: MESH:D034721 ! Mastocytosis, Systemic
 equivalent_to: NCIT:C9235 ! Systemic Mastocytosis
 equivalent_to: Orphanet:2467 ! Systemic mastocytosis
 
@@ -16687,6 +16884,7 @@ equivalent_to: MESH:D021182 ! Wheat Hypersensitivity
 
 [Term]
 id: DOID:3663 ! cutaneous mastocytosis
+equivalent_to: NCIT:C7137 ! Cutaneous Mastocytosis
 equivalent_to: Orphanet:66646 ! Cutaneous mastocytosis
 
 [Term]
@@ -16910,7 +17108,6 @@ equivalent_to: NCIT:C27420 ! Esophageal Verrucous Carcinoma
 id: DOID:3748 ! esophagus squamous cell carcinoma
 equivalent_to: MESH:C562729 ! Esophageal Squamous Cell Carcinoma
 equivalent_to: NCIT:C4024 ! Esophageal Squamous Cell Carcinoma
-equivalent_to: Orphanet:99977 ! Squamous cell carcinoma of esophagus
 
 [Term]
 id: DOID:3749 ! urethral verrucous carcinoma
@@ -17065,7 +17262,6 @@ equivalent_to: NCIT:C2857 ! Pituitary Gland Chromophobe Adenoma
 [Term]
 id: DOID:3829 ! pituitary adenoma
 is_a: MESH:D010911 ! Pituitary Neoplasms
-equivalent_to: NCIT:C3329 ! Pituitary Gland Adenoma
 equivalent_to: Orphanet:99408 ! Pituitary adenoma
 
 [Term]
@@ -17171,9 +17367,7 @@ equivalent_to: MESH:D007418 ! Intestinal Pseudo-Obstruction
 
 [Term]
 id: DOID:3883 ! Lynch syndrome
-is_a: NCIT:C120083 ! Hereditary Nonpolyposis Colorectal Cancer
 equivalent_to: MESH:D003123 ! Colorectal Neoplasms, Hereditary Nonpolyposis
-equivalent_to: NCIT:C8494 ! Lynch Syndrome
 equivalent_to: Orphanet:144 ! Lynch syndrome
 
 [Term]
@@ -17286,6 +17480,7 @@ equivalent_to: MESH:D000868 ! Anterior Compartment Syndrome
 
 [Term]
 id: DOID:3939 ! lipomatous cancer
+is_a: NCIT:C4248 ! Lipomatous Neoplasm
 equivalent_to: NCIT:C4501 ! Malignant Lipomatous Neoplasm
 
 [Term]
@@ -17355,6 +17550,8 @@ equivalent_to: Orphanet:1332 ! Medullary thyroid carcinoma
 
 [Term]
 id: DOID:3981 ! pantothenate kinase-associated neurodegeneration
+equivalent_to: MESH:D006211 ! Pantothenate Kinase-Associated Neurodegeneration
+equivalent_to: OMIM:234200 ! Neurodegeneration With Brain Iron Accumulation 1
 equivalent_to: Orphanet:157850 ! Pantothenate kinase-associated neurodegeneration
 
 [Term]
@@ -17506,6 +17703,7 @@ equivalent_to: NCIT:C6514 ! Skeletal Muscle Neoplasm
 [Term]
 id: DOID:4045 ! muscle cancer
 is_a: MESH:D019042 ! Muscle Neoplasms
+is_a: NCIT:C4063 ! Myomatous Neoplasm
 equivalent_to: MESH:D009217 ! Myosarcoma
 equivalent_to: NCIT:C4883 ! Malignant Muscle Neoplasm
 
@@ -18870,7 +19068,6 @@ equivalent_to: Orphanet:66662 ! Extracutaneous mastocytoma
 [Term]
 id: DOID:4660 ! indolent systemic mastocytosis
 equivalent_to: NCIT:C9286 ! Indolent Systemic Mastocytosis
-equivalent_to: Orphanet:98848 ! Indolent systemic mastocytosis
 
 [Term]
 id: DOID:4661 ! multiple chemical sensitivity
@@ -19170,6 +19367,7 @@ equivalent_to: NCIT:C6968 ! Supratentorial Primitive Neuroectodermal Tumor
 [Term]
 id: DOID:4794 ! ependymoblastoma
 equivalent_to: NCIT:C4915 ! Ependymoblastoma
+equivalent_to: Orphanet:251880 ! Ependymoblastoma
 
 [Term]
 id: DOID:4795 ! Tay-Sachs disease AB variant
@@ -19187,6 +19385,7 @@ equivalent_to: NCIT:C9284 ! Systemic Mastocytosis with Associated Clonal Hematol
 [Term]
 id: DOID:4798 ! aggressive systemic mastocytosis
 equivalent_to: NCIT:C9285 ! Aggressive Systemic Mastocytosis
+equivalent_to: Orphanet:98850 ! Aggressive systemic mastocytosis
 
 [Term]
 id: DOID:48 ! male reproductive system disease
@@ -19283,7 +19482,7 @@ equivalent_to: NCIT:C9475 ! Cerebellar Astrocytoma
 
 [Term]
 id: DOID:4851 ! pilocytic astrocytoma
-equivalent_to: Orphanet:251612 ! Pilocytic astrocytoma
+equivalent_to: NCIT:C4047 ! Pilocytic Astrocytoma
 
 [Term]
 id: DOID:4852 ! pleomorphic xanthoastrocytoma
@@ -19813,7 +20012,6 @@ equivalent_to: Orphanet:301 ! Ependymal tumor
 id: DOID:5075 ! myxopapillary ependymoma
 is_a: MESH:D004806 ! Ependymoma
 equivalent_to: NCIT:C3697 ! Myxopapillary Ependymoma
-equivalent_to: Orphanet:251643 ! Myxopapillary ependymoma
 
 [Term]
 id: DOID:5076 ! mixed glioma
@@ -19821,7 +20019,7 @@ equivalent_to: NCIT:C3903 ! Mixed Glioma
 
 [Term]
 id: DOID:5077 ! subependymal giant cell astrocytoma
-equivalent_to: NCIT:C3696 ! Subependymal Giant Cell Astrocytoma
+equivalent_to: Orphanet:251618 ! Subependymal giant cell astrocytoma
 
 [Term]
 id: DOID:5078 ! ganglioglioma
@@ -20540,6 +20738,22 @@ equivalent_to: NCIT:C6780 ! Pituitary Gland Acidophil Adenoma
 [Term]
 id: DOID:5393 ! brain angioma
 equivalent_to: NCIT:C7739 ! Brain Hemangioma
+
+[Term]
+id: DOID:5394 ! prolactinoma
+equivalent_to: NCIT:C3342 ! Prolactin-Producing Pituitary Gland Adenoma
+equivalent_to: OMIM:600634 ! Pituitary Adenoma, Prolactin-Secreting
+equivalent_to: Orphanet:2965 ! Prolactinoma
+
+[Term]
+id: DOID:5395 ! functioning pituitary adenoma
+equivalent_to: NCIT:C8388 ! Functioning Pituitary Gland Adenoma
+equivalent_to: Orphanet:314753 ! Functioning pituitary adenoma
+
+[Term]
+id: DOID:5396 ! prolactin producing pituitary tumor
+is_a: NCIT:C7910 ! Prolactin-Producing Pituitary Gland Neoplasm
+equivalent_to: NCIT:C5962 ! Prolactin-Producing Pituitary Gland Carcinoma
 
 [Term]
 id: DOID:5398 ! lipoadenoma
@@ -21341,6 +21555,10 @@ id: DOID:5715 ! functionless pituitary adenoma
 equivalent_to: NCIT:C4009 ! Non-Functioning Pituitary Gland Neoplasm
 
 [Term]
+id: DOID:5716 ! hormone producing pituitary cancer
+equivalent_to: Orphanet:96256 ! Somatotropic adenoma
+
+[Term]
 id: DOID:5718 ! adrenal neuroblastoma
 equivalent_to: NCIT:C4827 ! Adrenal Gland Neuroblastoma
 
@@ -21593,10 +21811,6 @@ equivalent_to: NCIT:C6343 ! Cervical Endometrioid Adenocarcinoma
 id: DOID:5831 ! fallopian tube endometrioid adenocarcinoma
 is_a: NCIT:C40111 ! Fallopian Tube Endometrioid Tumor
 equivalent_to: NCIT:C6279 ! Fallopian Tube Endometrioid Adenocarcinoma
-
-[Term]
-id: DOID:5834 ! spermatocytoma
-equivalent_to: Orphanet:99865 ! Spermatocytic seminoma
 
 [Term]
 id: DOID:5838 ! extragonadal seminoma
@@ -22008,7 +22222,6 @@ equivalent_to: Orphanet:424013 ! Carcinoma of anal canal
 
 [Term]
 id: DOID:6128 ! gliomatosis cerebri
-equivalent_to: NCIT:C4318 ! Gliomatosis Cerebri
 equivalent_to: Orphanet:251582 ! Gliomatosis cerebri
 
 [Term]
@@ -22109,10 +22322,6 @@ id: DOID:6199 ! cornea cancer
 equivalent_to: NCIT:C4361 ! Corneal Neoplasm
 
 [Term]
-id: DOID:62 ! aortic valve disease
-equivalent_to: MESH:C563178 ! Aortic Valve Disease
-
-[Term]
 id: DOID:620 ! blood protein disease
 equivalent_to: MESH:D001796 ! Blood Protein Disorders
 
@@ -22203,6 +22412,12 @@ equivalent_to: NCIT:C4526 ! Kidney Oncocytoma
 [Term]
 id: DOID:6249 ! mediastinum seminoma
 equivalent_to: NCIT:C6812 ! Mediastinal Seminoma
+
+[Term]
+id: DOID:6255 ! growth hormone secreting pituitary adenoma
+is_a: MESH:D049912 ! Growth Hormone-Secreting Pituitary Adenoma
+equivalent_to: NCIT:C7461 ! Growth Hormone-Producing Pituitary Gland Adenoma
+equivalent_to: OMIM:102200 ! Pituitary Adenoma, Growth Hormone-Secreting, 1
 
 [Term]
 id: DOID:6256 ! malignant growth hormone secreting neoplasm of pituitary
@@ -22699,7 +22914,7 @@ equivalent_to: NCIT:C5418 ! Pleural Schwannoma
 
 [Term]
 id: DOID:6566 ! posterior uveal melanoma
-equivalent_to: NCIT:C9090 ! Medium/Large Size Posterior Uveal Melanoma
+equivalent_to: NCIT:C9089 ! Small Size Posterior Uveal Melanoma
 
 [Term]
 id: DOID:6567 ! uterine corpus myxoid leiomyosarcoma
@@ -22822,7 +23037,6 @@ equivalent_to: NCIT:C8292 ! Adult Pineoblastoma
 [Term]
 id: DOID:6652 ! diffuse idiopathic skeletal hyperostosis
 equivalent_to: MESH:D004057 ! Hyperostosis, Diffuse Idiopathic Skeletal
-equivalent_to: OMIM:106400 ! Ankylosing Vertebral Hyperostosis With Tylosis
 
 [Term]
 id: DOID:6654 ! childhood central nervous system immature teratoma
@@ -22949,7 +23163,6 @@ equivalent_to: MESH:D013130 ! Spinal Stenosis
 
 [Term]
 id: DOID:6726 ! fibrillary astrocytoma
-equivalent_to: NCIT:C4322 ! Fibrillary Astrocytoma
 equivalent_to: Orphanet:251601 ! Fibrillary astrocytoma
 
 [Term]
@@ -23166,7 +23379,6 @@ equivalent_to: NCIT:C4960 ! Parasagittal Meningioma
 
 [Term]
 id: DOID:687 ! hepatoblastoma
-equivalent_to: NCIT:C3728 ! Hepatoblastoma
 equivalent_to: Orphanet:449 ! Hepatoblastoma
 
 [Term]
@@ -23364,7 +23576,7 @@ equivalent_to: NCIT:C7462 ! ACTH-Producing Pituitary Gland Adenoma
 
 [Term]
 id: DOID:7005 ! gemistocytic astrocytoma
-equivalent_to: NCIT:C4321 ! Gemistocytic Astrocytoma
+equivalent_to: Orphanet:251604 ! Gemistocytic astrocytoma
 
 [Term]
 id: DOID:7007 ! childhood cerebral astrocytoma
@@ -23818,6 +24030,7 @@ equivalent_to: NCIT:C39927 ! Testicular Yolk Sac Tumor, Endodermal Sinus Pattern
 [Term]
 id: DOID:7305 ! astroblastoma
 equivalent_to: NCIT:C4324 ! Astroblastoma
+equivalent_to: Orphanet:251679 ! Astroblastoma
 
 [Term]
 id: DOID:731 ! urinary system benign neoplasm
@@ -24187,7 +24400,7 @@ equivalent_to: NCIT:C39824 ! Infiltrating Bladder Urothelial Carcinoma Sarcomato
 
 [Term]
 id: DOID:7558 ! glossopharyngeal motor neuropathy
-is_a: MESH:D020435 ! Glossopharyngeal Nerve Diseases
+equivalent_to: MESH:D020435 ! Glossopharyngeal Nerve Diseases
 
 [Term]
 id: DOID:7565 ! vulvar eccrine porocarcinoma
@@ -24656,6 +24869,10 @@ id: DOID:7880 ! luteoma
 equivalent_to: NCIT:C3202 ! Ovarian Stromal Luteoma
 
 [Term]
+id: DOID:7891 ! testicular spermatocytic seminoma
+equivalent_to: NCIT:C39921 ! Testicular Spermatocytic Seminoma
+
+[Term]
 id: DOID:7894 ! mite infestation
 equivalent_to: MESH:D008924 ! Mite Infestations
 
@@ -25029,7 +25246,6 @@ equivalent_to: NCIT:C27445 ! Appendix L-Cell Glucagon-Like Peptide-Producing Neu
 
 [Term]
 id: DOID:8158 ! complement component 5 deficiency
-is_a: Orphanet:169150 ! Immunodeficiency due to a late component of complement deficiency
 equivalent_to: OMIM:609536 ! Complement Component 5 Deficiency
 
 [Term]
@@ -25190,6 +25406,10 @@ equivalent_to: NCIT:C27729 ! Thyroid Gland Atypical Follicular Adenoma
 [Term]
 id: DOID:8295 ! scabies
 equivalent_to: MESH:D012532 ! Scabies
+
+[Term]
+id: DOID:83 ! cataract
+equivalent_to: MESH:D002386 ! Cataract
 
 [Term]
 id: DOID:8302 ! mixed endometrial stromal and smooth muscle tumor
@@ -25591,6 +25811,7 @@ equivalent_to: NCIT:C7202 ! Malignant Histiocytosis
 id: DOID:8584 ! Burkitt lymphoma
 equivalent_to: NCIT:C2912 ! Burkitt Lymphoma
 equivalent_to: OMIM:113970 ! Burkitt Lymphoma
+equivalent_to: Orphanet:543 ! Burkitt lymphoma
 
 [Term]
 id: DOID:859 ! holocarboxylase synthetase deficiency
@@ -25883,8 +26104,8 @@ equivalent_to: MESH:D011662 ! Pulmonary Subvalvular Stenosis
 
 [Term]
 id: DOID:8864 ! acute monocytic leukemia
-is_a: NCIT:C4861 ! Acute Monocytic Leukemia
 equivalent_to: MESH:D007948 ! Leukemia, Monocytic, Acute
+equivalent_to: NCIT:C4861 ! Acute Monocytic Leukemia
 equivalent_to: OMIM:151380 ! Leukemia, Acute Monocytic
 equivalent_to: Orphanet:514 ! Acute monoblastic leukemia
 
@@ -26179,7 +26400,6 @@ equivalent_to: Orphanet:930 ! Idiopathic achalasia
 
 [Term]
 id: DOID:9169 ! Wiskott-Aldrich syndrome
-equivalent_to: MESH:D014923 ! Wiskott-Aldrich Syndrome
 equivalent_to: Orphanet:906 ! Wiskott-Aldrich syndrome
 
 [Term]
@@ -27568,6 +27788,7 @@ equivalent_to: OMIM:606595 ! Charcot-Marie-Tooth Disease, Axonal, Type 2F
 
 [Term]
 id: MESH:C535414 ! Charcot-Marie-Tooth disease, Type 2G
+is_a: OMIM:614436 ! Charcot-Marie-Tooth Disease, Axonal, Type 2P
 equivalent_to: OMIM:608591 ! CMT2G
 
 [Term]
@@ -28614,7 +28835,6 @@ equivalent_to: Orphanet:141148 ! Hemifacial myohyperplasia
 [Term]
 id: MESH:C535863 ! Robinow syndrome, autosomal recessive
 equivalent_to: OMIM:268310 ! Robinow Syndrome, Autosomal Recessive
-equivalent_to: Orphanet:1507 ! Autosomal recessive Robinow syndrome
 
 [Term]
 id: MESH:C535865 ! Rodrigues blindness
@@ -29591,10 +29811,6 @@ id: MESH:C536276 ! Idiopathic basal ganglia calcification, childhood onset
 equivalent_to: OMIM:114100 ! Basal Ganglia Calcification, Idiopathic, Childhood-Onset
 
 [Term]
-id: MESH:C536277 ! Idiopathic dilation cardiomyopathy
-equivalent_to: OMIM:604288 ! CMD1H
-
-[Term]
 id: MESH:C536281 ! Idiopathic pulmonary hemosiderosis
 equivalent_to: Orphanet:99931 ! Idiopathic pulmonary hemosiderosis
 
@@ -29883,10 +30099,6 @@ id: MESH:C536402 ! Nephrosis deafness urinary tract digital malformation
 equivalent_to: Orphanet:2669 ! Nephrosis-deafness-urinary tract-digital malformations syndrome
 
 [Term]
-id: MESH:C536404 ! Nephrotic syndrome, idiopathic, steroid-resistant
-equivalent_to: OMIM:600995 ! Nephrotic Syndrome, Type 2
-
-[Term]
 id: MESH:C536405 ! Neu Laxova syndrome
 equivalent_to: Orphanet:2671 ! Neu-Laxova syndrome
 
@@ -29910,7 +30122,6 @@ equivalent_to: Orphanet:351 ! Galactosialidosis
 [Term]
 id: MESH:C536414 ! Primary hyperoxaluria type 1
 equivalent_to: OMIM:259900 ! Hyperoxaluria, Primary, Type 1
-equivalent_to: Orphanet:93598 ! Primary hyperoxaluria type 1
 
 [Term]
 id: MESH:C536415 ! Primary hyperoxaluria type 2
@@ -30363,7 +30574,7 @@ equivalent_to: OMIM:600705 ! Satoyoshi Syndrome
 
 [Term]
 id: MESH:C536618 ! Say Barber Miller syndrome
-equivalent_to: Orphanet:3132 ! Say-Barber-Miller syndrome
+is_a: Orphanet:3132 ! Say-Barber-Miller syndrome
 
 [Term]
 id: MESH:C536619 ! Say Field Coldwell syndrome
@@ -30508,6 +30719,11 @@ equivalent_to: OMIM:309583 ! Mental Retardation, X-Linked, Syndromic, Snyder-Rob
 [Term]
 id: MESH:C536680 ! Sonoda syndrome
 equivalent_to: OMIM:270460 ! Sonoda Syndrome
+
+[Term]
+id: MESH:C536681 ! Warburg Sjo Fledelius syndrome
+is_a: DOID:0060237 ! Warburg micro syndrome
+equivalent_to: OMIM:600118 ! Warburg Micro Syndrome 1
 
 [Term]
 id: MESH:C536687 ! Weaver syndrome
@@ -31451,7 +31667,6 @@ equivalent_to: OMIM:145980 ! Hypocalciuric Hypercalcemia, Familial, Type 1
 [Term]
 id: MESH:C537146 ! Hypocalciuric hypercalcemia, familial, type 2
 equivalent_to: OMIM:145981 ! Hypocalciuric Hypercalcemia, Familial, Type 2
-equivalent_to: Orphanet:101049 ! Familial hypocalciuric hypercalcemia type 2
 
 [Term]
 id: MESH:C537147 ! Familial benign hypercalcemia, type 3
@@ -32072,7 +32287,7 @@ equivalent_to: OMIM:601321 ! Neurofibromatosis-Noonan Syndrome
 
 [Term]
 id: MESH:C537394 ! Neuronal intestinal pseudoobstruction
-equivalent_to: OMIM:243180 ! Visceral Neuropathy, Familial, Autosomal Recessive
+equivalent_to: OMIM:601223 ! Neuronal Intestinal Dysplasia, Type B
 equivalent_to: Orphanet:99811 ! Neuronal intestinal pseudoobstruction
 
 [Term]
@@ -32400,7 +32615,7 @@ equivalent_to: OMIM:606744 ! Seckel Syndrome 2
 
 [Term]
 id: MESH:C537536 ! Seemanova Lesny syndrome
-is_a: Orphanet:2528 ! Microcephaly-microcornea syndrome, Seemanova type
+equivalent_to: Orphanet:2528 ! Microcephaly-microcornea syndrome, Seemanova type
 
 [Term]
 id: MESH:C537537 ! Segawa syndrome, autosomal recessive
@@ -32408,7 +32623,7 @@ equivalent_to: OMIM:605407 ! Segawa Syndrome, Autosomal Recessive
 
 [Term]
 id: MESH:C537539 ! Microcephaly microcornea syndrome Seemanova type
-equivalent_to: Orphanet:2528 ! Microcephaly-microcornea syndrome, Seemanova type
+is_a: Orphanet:2528 ! Microcephaly-microcornea syndrome, Seemanova type
 
 [Term]
 id: MESH:C537544 ! Microcephaly seizures mental retardation heart disorders
@@ -32483,10 +32698,6 @@ equivalent_to: Orphanet:2311 ! Autosomal recessive spondylocostal dysostosis
 [Term]
 id: MESH:C537567 ! Jejunal atresia with renal adysplasia
 equivalent_to: OMIM:602551 ! Jejunal Atresia With Renal Adysplasia
-
-[Term]
-id: MESH:C537568 ! Jensen syndrome
-equivalent_to: OMIM:311150 ! Opticoacoustic Nerve Atrophy With Dementia
 
 [Term]
 id: MESH:C537571 ! Jeune syndrome
@@ -32576,7 +32787,7 @@ equivalent_to: OMIM:261540 ! Peters-Plus Syndrome
 
 [Term]
 id: MESH:C537621 ! Grubben de Cock Borghgraef syndrome
-is_a: Orphanet:2101 ! Grubben-de Cock-Borghgraef syndrome
+equivalent_to: Orphanet:2101 ! Grubben-de Cock-Borghgraef syndrome
 
 [Term]
 id: MESH:C537622 ! Guanidinoacetate methyltransferase deficiency
@@ -33307,7 +33518,7 @@ equivalent_to: Orphanet:101084 ! Charcot-Marie-Tooth disease type 1D
 
 [Term]
 id: MESH:C537986 ! Charcot-Marie-Tooth disease, Type 1E
-is_a: Orphanet:90658 ! Charcot-Marie-Tooth disease type 1E
+equivalent_to: Orphanet:90658 ! Charcot-Marie-Tooth disease type 1E
 
 [Term]
 id: MESH:C537987 ! Charcot-Marie-Tooth disease, Type 1F
@@ -33485,10 +33696,6 @@ equivalent_to: Orphanet:2056 ! Essential fructosuria
 [Term]
 id: MESH:C538070 ! Fryns syndrome
 equivalent_to: Orphanet:2059 ! Fryns syndrome
-
-[Term]
-id: MESH:C538078 ! Charcot-Marie-Tooth disease and deafness
-is_a: Orphanet:90658 ! Charcot-Marie-Tooth disease type 1E
 
 [Term]
 id: MESH:C538079 ! Charcot-Marie-Tooth disease with ptosis and parkinsonism
@@ -34195,7 +34402,8 @@ equivalent_to: OMIM:302960 ! Chondrodysplasia Punctata 2, X-Linked Dominant
 
 [Term]
 id: MESH:C538421 ! Neurodegeneration with brain iron accumulation (NBIA)
-equivalent_to: Orphanet:385 ! Neurodegeneration with brain iron accumulation
+is_a: DOID:0110734 ! neurodegeneration with brain iron accumulation
+is_a: Orphanet:385 ! Neurodegeneration with brain iron accumulation
 
 [Term]
 id: MESH:C538424 ! Harlequin type ichthyosis
@@ -34204,6 +34412,10 @@ equivalent_to: OMIM:242500 ! Ichthyosis, Congenital, Autosomal Recessive 4B
 [Term]
 id: MESH:C538429 ! Hypoadrenocorticism, familial
 equivalent_to: OMIM:240200 ! Hypoadrenocorticism, Familial
+
+[Term]
+id: MESH:C538481 ! Acquired CJD
+equivalent_to: Orphanet:454700 ! Acquired Creutzfeldt-Jakob disease
 
 [Term]
 id: MESH:C538482 ! Monosomy 5p
@@ -34975,10 +35187,6 @@ id: MESH:C562782 ! Hypoparathyroidism, X-Linked
 equivalent_to: OMIM:307700 ! HYPX
 
 [Term]
-id: MESH:C562785 ! Idiopathic Hypogonadotropic Hypogonadism
-equivalent_to: OMIM:146110 ! Hypogonadotropic Hypogonadism 7 With or Without Anosmia
-
-[Term]
 id: MESH:C562790 ! Hypercalciuria, Absorptive, 2
 equivalent_to: OMIM:143870 ! Hypercalciuria, Absorptive, 2
 
@@ -35464,6 +35672,10 @@ equivalent_to: OMIM:262600 ! Pituitary Hormone Deficiency, Combined, 2
 [Term]
 id: MESH:C563177 ! Glucocorticoid-Remediable Aldosteronism
 equivalent_to: OMIM:103900 ! Glucocorticoid-Remediable Aldosteronism
+
+[Term]
+id: MESH:C563178 ! Aortic Valve Disease 1
+equivalent_to: OMIM:109730 ! Aortic Valve Disease 1
 
 [Term]
 id: MESH:C563181 ! Histiocytoma, Angiomatoid Fibrous
@@ -37170,6 +37382,10 @@ id: MESH:C564019 ! Diarrhea, Chronic, with Villous Atrophy
 equivalent_to: OMIM:520100 ! Diarrhea, Chronic, With Villous Atrophy
 
 [Term]
+id: MESH:C564020 ! Ataxia and Polyneuropathy, Adult-Onset
+equivalent_to: OMIM:500010 ! Ataxia and Polyneuropathy, Adult-Onset
+
+[Term]
 id: MESH:C564024 ! Hypomagnesemia, Hypertension, and Hypercholesterolemia, Mitochondrial
 equivalent_to: OMIM:500005 ! Hypomagnesemia, Hypertension, and Hypercholesterolemia, Mitochondrial
 
@@ -37981,10 +38197,6 @@ equivalent_to: OMIM:300557 ! PARK12
 [Term]
 id: MESH:C564487 ! Dent Disease 2
 equivalent_to: OMIM:300555 ! Dent Disease 2
-
-[Term]
-id: MESH:C564489 ! Mental Retardation, X-Linked 78
-equivalent_to: OMIM:300551 ! MRX78
 
 [Term]
 id: MESH:C564491 ! Nephrogenic Syndrome of Inappropriate Antidiuresis
@@ -39215,6 +39427,10 @@ id: MESH:C565142 ! Cryofibrinogenemia, Familial Primary
 equivalent_to: OMIM:123540 ! Cryofibrinogenemia, Familial Primary
 
 [Term]
+id: MESH:C565143 ! Creutzfeldt-Jakob Disease, Sporadic
+equivalent_to: Orphanet:204 ! Sporadic Creutzfeldt-Jakob disease
+
+[Term]
 id: MESH:C565144 ! Craniorhiny
 equivalent_to: OMIM:123050 ! Craniorhiny
 
@@ -39744,7 +39960,7 @@ equivalent_to: OMIM:251505 ! Microphthalmia, Isolated, With Coloboma 4
 
 [Term]
 id: MESH:C565381 ! Microcephaly with Chemotactic Defect and Transient Hypogammaglobulinemia
-is_a: OMIM:251240 ! Microcephaly With Chemotactic Defect and Transient Hypogammaglobulinemia
+equivalent_to: OMIM:251240 ! Microcephaly With Chemotactic Defect and Transient Hypogammaglobulinemia
 
 [Term]
 id: MESH:C565382 ! Microcephaly-Micromelia Syndrome
@@ -40036,7 +40252,7 @@ equivalent_to: OMIM:235000 ! IH
 
 [Term]
 id: MESH:C565528 ! Growth Retardation, Small and Puffy Hands and Feet, and Eczema
-equivalent_to: OMIM:233810 ! Growth Retardation, Small and Puffy Hands and Feet, and Eczema
+is_a: OMIM:233810 ! Growth Retardation, Small and Puffy Hands and Feet, and Eczema
 
 [Term]
 id: MESH:C565529 ! Growth Factors, Combined Defect of
@@ -40631,10 +40847,6 @@ id: MESH:C565803 ! Carney Triad
 equivalent_to: OMIM:604287 ! Carney Triad
 
 [Term]
-id: MESH:C565805 ! Short Stature, Idiopathic, Autosomal
-equivalent_to: OMIM:604271 ! Growth Hormone Insensitivity, Partial
-
-[Term]
 id: MESH:C565809 ! Generalized Epilepsy With Febrile Seizures Plus, Type 1
 equivalent_to: OMIM:604233 ! Generalized Epilepsy With Febrile Seizures Plus, Type 1
 
@@ -41220,7 +41432,7 @@ equivalent_to: OMIM:119530 ! OFC1
 
 [Term]
 id: MESH:C566123 ! Cirrhosis, Familial
-equivalent_to: OMIM:118900 ! Cirrhosis, Familial
+equivalent_to: OMIM:215600 ! Cirrhosis, Familial
 
 [Term]
 id: MESH:C566124 ! Choroidal Osteoma, Bilateral
@@ -41240,7 +41452,7 @@ equivalent_to: OMIM:118430 ! Chlorpropamide-Alcohol Flushing
 
 [Term]
 id: MESH:C566136 ! Charcot-Marie-Tooth Disease, Demyelinating, Type 1e
-equivalent_to: OMIM:118300 ! Charcot-Marie-Tooth Disease and Deafness
+is_a: OMIM:118300 ! Charcot-Marie-Tooth Disease and Deafness
 
 [Term]
 id: MESH:C566137 ! Charcot-Marie-Tooth Disease, Guadalajara Neuronal Type
@@ -41807,6 +42019,7 @@ equivalent_to: OMIM:610498 ! Combined Oxidative Phosphorylation Deficiency 2
 
 [Term]
 id: MESH:C566469 ! Pigmented Nodular Adrenocortical Disease, Primary, 1
+is_a: DOID:0060280 ! primary pigmented nodular adrenocortical disease
 equivalent_to: OMIM:610489 ! Pigmented Nodular Adrenocortical Disease, Primary, 1
 
 [Term]
@@ -41819,7 +42032,6 @@ equivalent_to: OMIM:610476 ! Arrhythmogenic Right Ventricular Dysplasia, Familia
 
 [Term]
 id: MESH:C566472 ! Pigmented Nodular Adrenocortical Disease, Primary, 2
-is_a: DOID:0060280 ! primary pigmented nodular adrenocortical disease
 equivalent_to: OMIM:610475 ! Pigmented Nodular Adrenocortical Disease, Primary, 2
 
 [Term]
@@ -42289,6 +42501,10 @@ equivalent_to: OMIM:182690 ! Spastic Paraplegia, Sensorineural Deafness, Mental 
 [Term]
 id: MESH:C566687 ! Skeletal Dysplasia With Delayed Epiphyseal And Carpal Bone Ossification
 equivalent_to: OMIM:182255 ! Skeletal Dysplasia With Delayed Epiphyseal and Carpal Bone Ossification
+
+[Term]
+id: MESH:C566689 ! Sella Turcica, Bridged
+equivalent_to: OMIM:182200 ! Sella Turcica, Bridged
 
 [Term]
 id: MESH:C566690 ! Sinus Node Disease and Myopia
@@ -42848,10 +43064,6 @@ id: MESH:C567014 ! Mental Retardation, Autosomal Recessive 9
 equivalent_to: OMIM:611095 ! MRT9
 
 [Term]
-id: MESH:C567015 ! Mental Retardation, Autosomal Recessive 8
-equivalent_to: OMIM:611094 ! MRT8
-
-[Term]
 id: MESH:C567016 ! Mental Retardation, Autosomal Recessive 7
 equivalent_to: OMIM:611093 ! Mental Retardation, Autosomal Recessive 7
 
@@ -42914,10 +43126,6 @@ equivalent_to: OMIM:610978 ! Choreoathetosis and Congenital Hypothyroidism With 
 [Term]
 id: MESH:C567036 ! Tooth Agenesis, Selective, 3
 equivalent_to: OMIM:604625 ! Tooth Agenesis, Selective, 3
-
-[Term]
-id: MESH:C567037 ! Progressive Familial Heart Block, Type Ib
-equivalent_to: OMIM:604559 ! Progressive Familial Heart Block, Type 1B
 
 [Term]
 id: MESH:C567038 ! Renal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mental Retardation
@@ -44763,6 +44971,10 @@ id: MESH:D000168 ! Acrocephalosyndactylia
 equivalent_to: Orphanet:87 ! Apert syndrome
 
 [Term]
+id: MESH:D000172 ! Acromegaly
+equivalent_to: Orphanet:963 ! Acromegaly
+
+[Term]
 id: MESH:D000224 ! Addison Disease
 equivalent_to: Orphanet:85138 ! Addison disease
 
@@ -45000,7 +45212,7 @@ equivalent_to: Orphanet:99908 ! Pigeon-breeder lung disease
 
 [Term]
 id: MESH:D001746 ! Bladder Exstrophy
-is_a: OMIM:600057 ! Exstrophy of Bladder
+equivalent_to: OMIM:600057 ! Exstrophy of Bladder
 equivalent_to: Orphanet:93930 ! Bladder exstrophy
 
 [Term]
@@ -45503,6 +45715,10 @@ id: MESH:D005862 ! Gerstmann Syndrome
 equivalent_to: Orphanet:221117 ! Gerstmann syndrome
 
 [Term]
+id: MESH:D005877 ! Gigantism
+equivalent_to: Orphanet:99725 ! Pituitary gigantism
+
+[Term]
 id: MESH:D005878 ! Gilbert Disease
 equivalent_to: OMIM:143500 ! Gilbert Syndrome
 
@@ -45568,6 +45784,7 @@ equivalent_to: Orphanet:99915 ! Maligant granulosa cell tumor of ovary
 
 [Term]
 id: MESH:D006211 ! Pantothenate Kinase-Associated Neurodegeneration
+equivalent_to: OMIM:234200 ! Neurodegeneration With Brain Iron Accumulation 1
 equivalent_to: Orphanet:157850 ! Pantothenate kinase-associated neurodegeneration
 
 [Term]
@@ -45580,7 +45797,7 @@ equivalent_to: OMIM:234500 ! Hartnup Disorder
 equivalent_to: Orphanet:2116 ! Hartnup disease
 
 [Term]
-id: MESH:D006316 ! Hearing Loss, High-Frequency
+id: MESH:D006313 ! Hearing Loss, Central
 is_a: DOID:10003 ! sensorineural hearing loss
 
 [Term]
@@ -45691,7 +45908,7 @@ id: MESH:D006925 ! Hymenolepiasis
 equivalent_to: Orphanet:401 ! Hymenolepiasis
 
 [Term]
-id: MESH:D006932 ! Hyperbilirubinemia
+id: MESH:D006933 ! Hyperbilirubinemia, Hereditary
 is_a: DOID:2741 ! bilirubin metabolic disorder
 
 [Term]
@@ -45767,7 +45984,7 @@ equivalent_to: OMIM:147710 ! Intussusception
 
 [Term]
 id: MESH:D007562 ! Creutzfeldt-Jakob Syndrome
-equivalent_to: OMIM:123400 ! Creutzfeldt-Jakob Disease
+is_a: OMIM:123400 ! Creutzfeldt-Jakob Disease
 
 [Term]
 id: MESH:D007566 ! Jaundice, Chronic Idiopathic
@@ -45957,7 +46174,6 @@ equivalent_to: Orphanet:2442 ! X-linked lymphoproliferative disease
 
 [Term]
 id: MESH:D008258 ! Waldenstrom Macroglobulinemia
-is_a: DOID:0050747 ! lymphoplasmacytic lymphoma
 is_a: DOID:9080 ! macroglobulinemia
 equivalent_to: Orphanet:33226 ! WaldenstrC6m macroglobulinemia
 
@@ -46459,7 +46675,8 @@ equivalent_to: Orphanet:95708 ! Precocious puberty
 
 [Term]
 id: MESH:D011666 ! Pulmonary Valve Stenosis
-equivalent_to: Orphanet:3189 ! Congenital pulmonary valve stenosis
+is_a: Orphanet:3189 ! Congenital pulmonary valve stenosis
+equivalent_to: Orphanet:99054 ! Valvular pulmonary stenosis
 
 [Term]
 id: MESH:D011668 ! Pulmonary Veno-Occlusive Disease
@@ -46935,6 +47152,10 @@ id: MESH:D015161 ! Dementia, Multi-Infarct
 is_a: DOID:8725 ! vascular dementia
 
 [Term]
+id: MESH:D015175 ! Prolactinoma
+equivalent_to: Orphanet:2965 ! Prolactinoma
+
+[Term]
 id: MESH:D015210 ! Arthritis, Gouty
 is_a: DOID:13189 ! gout
 
@@ -47173,7 +47394,6 @@ equivalent_to: Orphanet:584 ! Mucopolysaccharidosis type 7
 
 [Term]
 id: MESH:D016553 ! Purpura, Thrombocytopenic, Idiopathic
-equivalent_to: OMIM:188030 ! Thrombocytopenic Purpura, Autoimmune
 equivalent_to: Orphanet:3002 ! Immune thrombocytopenic purpura
 
 [Term]
@@ -48724,10 +48944,6 @@ id: NCIT:C27720 ! Pancreatic Neuroendocrine Tumor
 equivalent_to: Orphanet:97253 ! Pancreatic endocrine tumor
 
 [Term]
-id: NCIT:C27730 ! Childhood Kidney Wilms Tumor
-is_a: DOID:2154 ! nephroblastoma
-
-[Term]
 id: NCIT:C27780 ! Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable
 equivalent_to: Orphanet:98825 ! Unclassified myelodysplastic/myeloproliferative disease
 
@@ -48784,10 +49000,6 @@ id: NCIT:C2896 ! Benign Skin Neoplasm
 is_a: DOID:3165 ! skin benign neoplasm
 
 [Term]
-id: NCIT:C2912 ! Burkitt Lymphoma
-equivalent_to: Orphanet:543 ! Burkitt lymphoma
-
-[Term]
 id: NCIT:C2921 ! Skin Basal Cell Carcinoma
 is_a: DOID:2513 ! basal cell carcinoma
 
@@ -48815,10 +49027,6 @@ equivalent_to: Orphanet:54595 ! Craniopharyngioma
 [Term]
 id: NCIT:C3008 ! Enchondromatosis
 equivalent_to: Orphanet:296 ! Enchondromatosis
-
-[Term]
-id: NCIT:C3010 ! Endocrine Neoplasm
-equivalent_to: Orphanet:877 ! Endocrine tumor
 
 [Term]
 id: NCIT:C3011 ! Yolk Sac Tumor
@@ -48870,7 +49078,6 @@ equivalent_to: Orphanet:86864 ! Heavy chain disease
 
 [Term]
 id: NCIT:C3083 ! Gamma Heavy Chain Disease
-is_a: DOID:0060125 ! heavy chain disease
 equivalent_to: Orphanet:100026 ! Gamma-heavy chain disease
 
 [Term]
@@ -48963,6 +49170,10 @@ is_a: DOID:5603 ! acute T cell leukemia
 equivalent_to: Orphanet:86875 ! Adult T-cell leukemia/lymphoma
 
 [Term]
+id: NCIT:C3194 ! Liposarcoma
+equivalent_to: Orphanet:69078 ! Liposarcoma
+
+[Term]
 id: NCIT:C3208 ! Lymphoma
 equivalent_to: Orphanet:223735 ! Lymphoma
 
@@ -48993,6 +49204,10 @@ equivalent_to: Orphanet:652 ! Multiple endocrine neoplasia type 1
 [Term]
 id: NCIT:C3226 ! Multiple Endocrine Neoplasia Type 2A
 equivalent_to: Orphanet:247698 ! Multiple endocrine neoplasia type 2A
+
+[Term]
+id: NCIT:C3227 ! Multiple Endocrine Neoplasia Type 2B
+equivalent_to: Orphanet:247709 ! Multiple endocrine neoplasia type 2B
 
 [Term]
 id: NCIT:C3229 ! Meningeal Neoplasm
@@ -49043,12 +49258,20 @@ id: NCIT:C3302 ! Extramammary Paget Disease
 equivalent_to: Orphanet:2800 ! Extramammary Paget disease
 
 [Term]
+id: NCIT:C3329 ! Pituitary Gland Adenoma
+equivalent_to: Orphanet:99408 ! Pituitary adenoma
+
+[Term]
 id: NCIT:C3330 ! Pituitary Gland Neoplasm
 equivalent_to: Orphanet:304055 ! Pituitary tumor
 
 [Term]
 id: NCIT:C3336 ! Polycythemia Vera
 equivalent_to: Orphanet:729 ! Polycythemia vera
+
+[Term]
+id: NCIT:C3339 ! Familial Adenomatous Polyposis
+equivalent_to: Orphanet:733 ! Familial adenomatous polyposis
 
 [Term]
 id: NCIT:C3345 ! Pseudomyxoma Peritonei
@@ -49085,10 +49308,6 @@ equivalent_to: Orphanet:99867 ! Thymoma
 [Term]
 id: NCIT:C3414 ! Thyroid Gland Neoplasm
 equivalent_to: Orphanet:100087 ! Thyroid tumor
-
-[Term]
-id: NCIT:C3433 ! Urticaria Pigmentosa/Maculopapular Cutaneous Mastocytosis
-equivalent_to: Orphanet:79457 ! Maculopapular cutaneous mastocytosis
 
 [Term]
 id: NCIT:C34447 ! Head and Neck Squamous Cell Carcinoma
@@ -49137,10 +49356,6 @@ equivalent_to: Orphanet:314473 ! Ovarian fibroma
 [Term]
 id: NCIT:C3502 ! Thyroid Gland Follicular Adenoma
 is_a: DOID:2891 ! thyroid adenoma
-
-[Term]
-id: NCIT:C3513 ! Esophageal Carcinoma
-equivalent_to: Orphanet:70482 ! Carcinoma of esophagus
 
 [Term]
 id: NCIT:C3517 ! Mixed Cellularity Classical Hodgkin Lymphoma
@@ -49260,6 +49475,7 @@ is_a: DOID:5032 ! pineal gland cancer
 
 [Term]
 id: NCIT:C3575 ! Malignant Endocrine Neoplasm
+is_a: DOID:170 ! endocrine gland cancer
 is_a: Orphanet:877 ! Endocrine tumor
 
 [Term]
@@ -49305,6 +49521,10 @@ equivalent_to: Orphanet:422526 ! Hereditary clear cell renal cell carcinoma
 [Term]
 id: NCIT:C3696 ! Subependymal Giant Cell Astrocytoma
 equivalent_to: Orphanet:251618 ! Subependymal giant cell astrocytoma
+
+[Term]
+id: NCIT:C3697 ! Myxopapillary Ependymoma
+equivalent_to: Orphanet:251643 ! Myxopapillary ependymoma
 
 [Term]
 id: NCIT:C3698 ! Choroid Plexus Papilloma
@@ -49361,6 +49581,10 @@ equivalent_to: Orphanet:538 ! Lymphangioleiomyomatosis
 [Term]
 id: NCIT:C37264 ! Benign Mixed Epithelial Stromal Tumor of the Kidney
 is_a: DOID:2678 ! adult mesoblastic nephroma
+
+[Term]
+id: NCIT:C3728 ! Hepatoblastoma
+equivalent_to: Orphanet:449 ! Hepatoblastoma
 
 [Term]
 id: NCIT:C3729 ! Malignant Mixed Neoplasm
@@ -49497,7 +49721,6 @@ equivalent_to: Orphanet:1332 ! Medullary thyroid carcinoma
 
 [Term]
 id: NCIT:C3892 ! Mu Heavy Chain Disease
-is_a: DOID:0060125 ! heavy chain disease
 equivalent_to: Orphanet:100024 ! Mu-heavy chain disease
 
 [Term]
@@ -49591,6 +49814,10 @@ is_a: DOID:4112 ! cervical carcinosarcoma
 [Term]
 id: NCIT:C40229 ! Cervical Adenosarcoma
 equivalent_to: Orphanet:213792 ! Adenosarcoma of the cervix uteri
+
+[Term]
+id: NCIT:C4024 ! Esophageal Squamous Cell Carcinoma
+equivalent_to: Orphanet:99977 ! Squamous cell carcinoma of esophagus
 
 [Term]
 id: NCIT:C4025 ! Esophageal Adenocarcinoma
@@ -49755,6 +49982,10 @@ id: NCIT:C4313 ! Ameloblastoma
 equivalent_to: Orphanet:314419 ! Ameloblastoma
 
 [Term]
+id: NCIT:C4318 ! Gliomatosis Cerebri
+equivalent_to: Orphanet:251582 ! Gliomatosis cerebri
+
+[Term]
 id: NCIT:C4320 ! Protoplasmic Astrocytoma
 equivalent_to: Orphanet:251598 ! Protoplasmic astrocytoma
 
@@ -49763,12 +49994,16 @@ id: NCIT:C4321 ! Gemistocytic Astrocytoma
 equivalent_to: Orphanet:251604 ! Gemistocytic astrocytoma
 
 [Term]
+id: NCIT:C4322 ! Fibrillary Astrocytoma
+equivalent_to: Orphanet:251601 ! Fibrillary astrocytoma
+
+[Term]
 id: NCIT:C4323 ! Pleomorphic Xanthoastrocytoma
 equivalent_to: Orphanet:251607 ! Pleomorphic xanthoastrocytoma
 
 [Term]
-id: NCIT:C4324 ! Astroblastoma
-equivalent_to: Orphanet:251679 ! Astroblastoma
+id: NCIT:C4325 ! Giant Cell Glioblastoma
+equivalent_to: Orphanet:251579 ! Giant cell glioblastoma
 
 [Term]
 id: NCIT:C4326 ! Anaplastic Oligodendroglioma
@@ -49826,11 +50061,6 @@ equivalent_to: Orphanet:391723 ! Mucinous adenocarcinoma of the appendix
 [Term]
 id: NCIT:C4381 ! Ovarian Epithelial Tumor
 equivalent_to: Orphanet:398934 ! Malignant epithelial tumor of ovary
-
-[Term]
-id: NCIT:C4392 ! Cervical Symmetrical Lipomatosis
-is_a: DOID:3137 ! multiple symmetrical lipomatosis
-equivalent_to: Orphanet:2398 ! Multiple symmetric lipomatosis
 
 [Term]
 id: NCIT:C4396 ! Malignant Adrenal Medulla Neoplasm
@@ -50095,10 +50325,6 @@ id: NCIT:C4871 ! Complete Hydatidiform Mole
 equivalent_to: Orphanet:254688 ! Complete hydatidiform mole
 
 [Term]
-id: NCIT:C4882 ! Benign Muscle Neoplasm
-is_a: DOID:461 ! muscle benign neoplasm
-
-[Term]
 id: NCIT:C4890 ! Malignant Digestive System Neoplasm
 is_a: DOID:3119 ! gastrointestinal system cancer
 
@@ -50109,14 +50335,6 @@ equivalent_to: Orphanet:143 ! Parathyroid carcinoma
 [Term]
 id: NCIT:C4911 ! Gastric Carcinoma
 is_a: DOID:10534 ! stomach cancer
-
-[Term]
-id: NCIT:C4915 ! Ependymoblastoma
-equivalent_to: Orphanet:251880 ! Ependymoblastoma
-
-[Term]
-id: NCIT:C4917 ! Small Cell Lung Carcinoma
-equivalent_to: Orphanet:70573 ! Small cell lung cancer
 
 [Term]
 id: NCIT:C4921 ! Retinal Cavernous Hemangioma
@@ -50345,10 +50563,6 @@ equivalent_to: Orphanet:94 ! Astrocytoma
 [Term]
 id: NCIT:C6105 ! Malignant Uveal Neoplasm
 is_a: DOID:3479 ! uveal cancer
-
-[Term]
-id: NCIT:C6180 ! Adult Kidney Wilms Tumor
-is_a: DOID:2154 ! nephroblastoma
 
 [Term]
 id: NCIT:C6192 ! Inverted Urothelial Papilloma
@@ -50636,10 +50850,6 @@ id: NCIT:C7136 ! Extracutaneous Mastocytoma
 equivalent_to: Orphanet:66662 ! Extracutaneous mastocytoma
 
 [Term]
-id: NCIT:C7137 ! Cutaneous Mastocytosis
-equivalent_to: Orphanet:66646 ! Cutaneous mastocytosis
-
-[Term]
 id: NCIT:C7153 ! Differentiated Thyroid Gland Carcinoma
 equivalent_to: Orphanet:146 ! Differentiated thyroid carcinoma
 
@@ -50665,7 +50875,7 @@ equivalent_to: Orphanet:100020 ! Refractory anemia with excess blasts type 2
 
 [Term]
 id: NCIT:C7171 ! Acute Monoblastic Leukemia
-equivalent_to: Orphanet:514 ! Acute monoblastic leukemia
+is_a: Orphanet:514 ! Acute monoblastic leukemia
 
 [Term]
 id: NCIT:C71720 ! Primary Diffuse Large B-Cell Lymphoma of the Central Nervous System
@@ -50850,6 +51060,11 @@ id: NCIT:C7550 ! Ovarian Serous Adenocarcinoma
 is_a: DOID:5744 ! ovary serous adenocarcinoma
 
 [Term]
+id: NCIT:C7569 ! Thymic Carcinoma
+is_a: DOID:3284 ! thymic carcinoma
+equivalent_to: Orphanet:99868 ! Thymic carcinoma
+
+[Term]
 id: NCIT:C7572 ! Kidney Medullary Carcinoma
 equivalent_to: Orphanet:319319 ! Renal medullary carcinoma
 
@@ -50920,6 +51135,10 @@ is_a: DOID:3590 ! gestational trophoblastic neoplasm
 [Term]
 id: NCIT:C7888 ! Small Intestinal Adenocarcinoma
 equivalent_to: Orphanet:104075 ! Adenocarcinoma of small instestine
+
+[Term]
+id: NCIT:C7911 ! Growth Hormone-Producing Pituitary Gland Neoplasm
+equivalent_to: Orphanet:96256 ! Somatotropic adenoma
 
 [Term]
 id: NCIT:C7927 ! Liver and Intrahepatic Bile Duct Carcinoma
@@ -51174,7 +51393,7 @@ id: NCIT:C9087 ! Kaposi Sarcoma
 equivalent_to: Orphanet:33276 ! Kaposi sarcoma
 
 [Term]
-id: NCIT:C9089 ! Small Size Posterior Uveal Melanoma
+id: NCIT:C9090 ! Medium/Large Size Posterior Uveal Melanoma
 is_a: DOID:6566 ! posterior uveal melanoma
 
 [Term]
@@ -51255,8 +51474,8 @@ id: NCIT:C9284 ! Systemic Mastocytosis with Associated Clonal Hematological non-
 equivalent_to: Orphanet:98849 ! Systemic mastocytosis with an associated clonal hematologic non-mast cell lineage disease
 
 [Term]
-id: NCIT:C9285 ! Aggressive Systemic Mastocytosis
-equivalent_to: Orphanet:98850 ! Aggressive systemic mastocytosis
+id: NCIT:C9286 ! Indolent Systemic Mastocytosis
+equivalent_to: Orphanet:98848 ! Indolent systemic mastocytosis
 
 [Term]
 id: NCIT:C9289 ! Acute Myeloid Leukemia with Multilineage Dysplasia
@@ -51476,6 +51695,11 @@ equivalent_to: Orphanet:79151 ! Acrokeratosis verruciformis of Hopf
 [Term]
 id: OMIM:102150 ! Acromegaloid Facial Appearance Syndrome
 equivalent_to: Orphanet:965 ! Acromegaloid facial appearance syndrome
+
+[Term]
+id: OMIM:102200 ! Pituitary Adenoma, Growth Hormone-Secreting, 1
+is_a: MESH:D049912 ! Growth Hormone-Secreting Pituitary Adenoma
+is_a: Orphanet:96256 ! Somatotropic adenoma
 
 [Term]
 id: OMIM:102300 ! RLS1
@@ -52298,6 +52522,10 @@ id: OMIM:118830 ! Chylomicronemia, Familial, Due to Circulating Inhibitor of Lip
 is_a: Orphanet:444490 ! Familial chylomicronemia syndrome
 
 [Term]
+id: OMIM:118900 ! Cirrhosis, Familial
+is_a: MESH:C566123 ! Cirrhosis, Familial
+
+[Term]
 id: OMIM:118980 ! Clavicle, Pseudarthrosis Of, Congenital
 equivalent_to: Orphanet:66630 ! Congenital pseudoarthrosis of clavicle
 
@@ -52569,10 +52797,6 @@ equivalent_to: Orphanet:3232 ! Deafness-ear malformation-facial palsy syndrome
 [Term]
 id: OMIM:124500 ! Deafness, Congenital, With Keratopachydermia and Constrictions of Fingers and Toes
 equivalent_to: Orphanet:494 ! Keratoderma hereditarium mutilans
-
-[Term]
-id: OMIM:124900 ! Deafness, Autosomal Dominant 1
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:125230 ! Deafness-Craniofacial Syndrome
@@ -53471,7 +53695,6 @@ equivalent_to: Orphanet:93372 ! Familial hypocalciuric hypercalcemia type 1
 
 [Term]
 id: OMIM:145981 ! Hypocalciuric Hypercalcemia, Familial, Type 2
-is_a: Orphanet:405 ! Familial hypocalciuric hypercalcemia
 equivalent_to: Orphanet:101049 ! Familial hypocalciuric hypercalcemia type 2
 
 [Term]
@@ -53819,7 +54042,6 @@ equivalent_to: Orphanet:86841 ! Myelodysplastic syndrome associated with isolate
 
 [Term]
 id: OMIM:153600 ! WM1
-is_a: DOID:0050747 ! lymphoplasmacytic lymphoma
 is_a: MESH:D008258 ! Waldenstrom Macroglobulinemia
 
 [Term]
@@ -53913,6 +54135,11 @@ equivalent_to: Orphanet:99361 ! Familial medullary thyroid carcinoma
 [Term]
 id: OMIM:155350 ! Megalencephaly, Autosomal Dominant
 is_a: Orphanet:2477 ! Megalencephaly
+
+[Term]
+id: OMIM:155600 ! CMM1
+is_a: DOID:10041 ! dysplastic nevus syndrome
+is_a: Orphanet:404560 ! Familial atypical multiple mole melanoma syndrome
 
 [Term]
 id: OMIM:155601 ! Melanoma, Cutaneous Malignant, Susceptibility To, 2
@@ -55186,6 +55413,7 @@ equivalent_to: Orphanet:268129 ! Spheroid body myopathy
 [Term]
 id: OMIM:182940 ! Neural Tube Defects, Susceptibility to
 is_a: MESH:D009436 ! Neural Tube Defects
+is_a: Orphanet:268357 ! Neural tube closure defect
 is_a: Orphanet:823 ! Isolated spina bifida
 
 [Term]
@@ -55762,10 +55990,6 @@ id: OMIM:194380 ! Dehydrated Hereditary Stomatocytosis With or Without Pseudohyp
 is_a: Orphanet:3202 ! Dehydrated hereditary stomatocytosis
 
 [Term]
-id: OMIM:194400 ! Xeroderma Pigmentosum, Autosomal Dominant, Mild
-is_a: Orphanet:910 ! Xeroderma pigmentosum
-
-[Term]
 id: OMIM:200100 ! Abetalipoproteinemia
 equivalent_to: Orphanet:14 ! Abetalipoproteinemia
 
@@ -55988,6 +56212,7 @@ equivalent_to: Orphanet:79433 ! Oculocutaneous albinism type 3
 [Term]
 id: OMIM:203300 ! Hermansky-Pudlak Syndrome 1
 is_a: Orphanet:231500 ! Hermansky-Pudlak syndrome with pulmonary fibrosis
+is_a: Orphanet:79430 ! Hermansky-Pudlak syndrome
 
 [Term]
 id: OMIM:203330 ! PHP2
@@ -56048,7 +56273,7 @@ equivalent_to: Orphanet:1021 ! Amaurosis-hypertrichosis syndrome
 
 [Term]
 id: OMIM:204200 ! Ceroid Lipofuscinosis, Neuronal, 3
-equivalent_to: Orphanet:228346 ! CLN3 disease
+is_a: Orphanet:79264 ! Juvenile neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:204300 ! Ceroid Lipofuscinosis, Neuronal, 4A, Autosomal Recessive
@@ -56057,7 +56282,8 @@ equivalent_to: Orphanet:228340 ! CLN4A disease
 
 [Term]
 id: OMIM:204500 ! Ceroid Lipofuscinosis, Neuronal, 2
-equivalent_to: Orphanet:228349 ! CLN2 disease
+is_a: Orphanet:168491 ! Late infantile neuronal ceroid lipofuscinosis
+is_a: Orphanet:79264 ! Juvenile neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:204650 ! Amelogenesis Imperfecta, Type 1C
@@ -56472,6 +56698,7 @@ is_a: Orphanet:140 ! Campomelic dysplasia
 [Term]
 id: OMIM:212050 ! Candidiasis, Familial, 2
 is_a: DOID:2058 ! chronic mucocutaneous candidiasis
+is_a: Orphanet:1334 ! Chronic mucocutaneous candidiasis
 
 [Term]
 id: OMIM:212065 ! Congenital Disorder of Glycosylation, Type Ia
@@ -56620,6 +56847,10 @@ id: OMIM:214900 ! Cholestasis-Lymphedema Syndrome
 equivalent_to: Orphanet:1414 ! Cholestasis-lymphedema syndrome
 
 [Term]
+id: OMIM:214950 ! Bile Acid Synthesis Defect, Congenital, 4
+equivalent_to: Orphanet:79095 ! Congenital bile acid synthesis defect type 4
+
+[Term]
 id: OMIM:215045 ! Chondrodysplasia, Blomstrand Type
 equivalent_to: Orphanet:50945 ! Blomstrand lethal chondrodysplasia
 
@@ -56630,6 +56861,7 @@ is_a: DOID:2256 ! osteochondrodysplasia
 
 [Term]
 id: OMIM:215100 ! Rhizomelic Chondrodysplasia Punctata, Type 1
+is_a: Orphanet:177 ! Rhizomelic chondrodysplasia punctata
 equivalent_to: Orphanet:309789 ! Rhizomelic chondrodysplasia punctata type 1
 
 [Term]
@@ -56677,10 +56909,6 @@ id: OMIM:215520 ! Ciliary Dyskinesia With Transposition of Ciliary Microtubules
 is_a: Orphanet:244 ! Primary ciliary dyskinesia
 
 [Term]
-id: OMIM:215600 ! Cirrhosis, Familial
-is_a: MESH:C566123 ! Cirrhosis, Familial
-
-[Term]
 id: OMIM:215700 ! Citrullinemia, Classic
 is_a: MESH:D020159 ! Citrullinemia
 equivalent_to: Orphanet:247525 ! Citrullinemia type I
@@ -56722,6 +56950,7 @@ is_a: Orphanet:90324 ! Cockayne syndrome type 3
 
 [Term]
 id: OMIM:216411 ! Cockayne Syndrome, Type 3
+is_a: Orphanet:191 ! Cockayne syndrome
 equivalent_to: Orphanet:90324 ! Cockayne syndrome type 3
 
 [Term]
@@ -56975,10 +57204,6 @@ id: OMIM:220220 ! Dandy-Walker Malformation With Postaxial Polydactyly
 equivalent_to: Orphanet:1566 ! Dandy-Walker malformation-postaxial polydactyly syndrome
 
 [Term]
-id: OMIM:220290 ! Deafness, Autosomal Recessive 1A
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:220400 ! Jervell and Lange-Nielsen Syndrome 1
 is_a: Orphanet:768 ! Familial long QT syndrome
 equivalent_to: Orphanet:90647 ! Jervell and Lange-Nielsen syndrome
@@ -57054,11 +57279,6 @@ id: OMIM:222100 ! IDDM
 is_a: MESH:D003922 ! Diabetes Mellitus, Type 1
 
 [Term]
-id: OMIM:222300 ! Wolfram Syndrome 1
-is_a: MESH:D014929 ! Wolfram Syndrome
-is_a: Orphanet:3463 ! Wolfram syndrome
-
-[Term]
 id: OMIM:222400 ! DIH2
 is_a: Orphanet:2140 ! Congenital diaphragmatic hernia
 
@@ -57096,7 +57316,6 @@ equivalent_to: Orphanet:38874 ! Dihydropyrimidinuria
 
 [Term]
 id: OMIM:222765 ! Rhizomelic Chondrodysplasia Punctata, Type 2
-is_a: Orphanet:177 ! Rhizomelic chondrodysplasia punctata
 equivalent_to: Orphanet:309796 ! Rhizomelic chondrodysplasia punctata type 2
 
 [Term]
@@ -57258,6 +57477,7 @@ equivalent_to: Orphanet:289 ! Ellis Van Creveld syndrome
 
 [Term]
 id: OMIM:225750 ! Aicardi-Goutieres Syndrome 1
+is_a: MESH:C535607 ! Aicardi-Goutieres syndrome
 is_a: Orphanet:51 ! Aicardi-GoutiC(res syndrome
 
 [Term]
@@ -57561,12 +57781,12 @@ equivalent_to: Orphanet:33574 ! Gamma-glutamylcysteine synthetase deficiency
 [Term]
 id: OMIM:230500 ! Gm1-Gangliosidosis, Type 1
 is_a: MESH:D016537 ! Gangliosidosis, GM1
-is_a: Orphanet:354 ! GM1 gangliosidosis
 equivalent_to: Orphanet:79255 ! GM1 gangliosidosis type 1
 
 [Term]
 id: OMIM:230600 ! Gm1-Gangliosidosis, Type 2
 is_a: MESH:D016537 ! Gangliosidosis, GM1
+is_a: Orphanet:354 ! GM1 gangliosidosis
 equivalent_to: Orphanet:79256 ! GM1 gangliosidosis type 2
 
 [Term]
@@ -58176,6 +58396,7 @@ equivalent_to: Orphanet:436252 ! Combined immunodeficiency-enteropathy spectrum
 
 [Term]
 id: OMIM:243180 ! Visceral Neuropathy, Familial, Autosomal Recessive
+is_a: MESH:C537394 ! Neuronal intestinal pseudoobstruction
 is_a: Orphanet:2978 ! Chronic intestinal pseudoobstruction
 
 [Term]
@@ -58779,9 +59000,6 @@ equivalent_to: Orphanet:578 ! Mucolipidosis type IV
 
 [Term]
 id: OMIM:252900 ! Mucopolysaccharidosis, Type 3A
-is_a: DOID:12801 ! mucopolysaccharidosis III
-is_a: MESH:D009084 ! Mucopolysaccharidosis III
-is_a: Orphanet:581 ! Mucopolysaccharidosis type 3
 equivalent_to: Orphanet:79269 ! Sanfilippo syndrome type A
 
 [Term]
@@ -58793,6 +59011,9 @@ equivalent_to: Orphanet:79270 ! Sanfilippo syndrome type B
 
 [Term]
 id: OMIM:252930 ! Mucopolysaccharidosis, Type 3C
+is_a: DOID:12801 ! mucopolysaccharidosis III
+is_a: MESH:D009084 ! Mucopolysaccharidosis III
+is_a: Orphanet:581 ! Mucopolysaccharidosis type 3
 equivalent_to: Orphanet:79271 ! Sanfilippo syndrome type C
 
 [Term]
@@ -59080,8 +59301,7 @@ equivalent_to: Orphanet:87876 ! Sialidosis type 2
 
 [Term]
 id: OMIM:256600 ! Neurodegeneration With Brain Iron Accumulation 2A
-is_a: DOID:3981 ! pantothenate kinase-associated neurodegeneration
-equivalent_to: Orphanet:35069 ! Infantile neuroaxonal dystrophy
+is_a: Orphanet:35069 ! Infantile neuroaxonal dystrophy
 
 [Term]
 id: OMIM:256690 ! Neurofaciodigitorenal Syndrome
@@ -59097,11 +59317,14 @@ equivalent_to: Orphanet:33445 ! Neuroectodermal melanolysosomal disease
 
 [Term]
 id: OMIM:256730 ! Ceroid Lipofuscinosis, Neuronal, 1
-equivalent_to: Orphanet:228329 ! CLN1 disease
+is_a: Orphanet:168491 ! Late infantile neuronal ceroid lipofuscinosis
+is_a: Orphanet:79262 ! Adult neuronal ceroid lipofuscinosis
+is_a: Orphanet:79263 ! Infantile neuronal ceroid lipofuscinosis
+is_a: Orphanet:79264 ! Juvenile neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:256731 ! Ceroid Lipofuscinosis, Neuronal, 5
-equivalent_to: Orphanet:228360 ! CLN5 disease
+is_a: Orphanet:168491 ! Late infantile neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:256800 ! Insensitivity to Pain, Congenital, With Anhidrosis
@@ -59126,9 +59349,12 @@ id: OMIM:257100 ! Neutropenia, Lethal Congenital, With Eosinophilia
 is_a: Orphanet:486 ! Autosomal dominant severe congenital neutropenia
 
 [Term]
+id: OMIM:257200 ! Niemann-Pick Disease, Type a
+equivalent_to: Orphanet:77292 ! Niemann-Pick disease type A
+
+[Term]
 id: OMIM:257220 ! Niemann-Pick Disease, Type C1
 is_a: MESH:D052556 ! Niemann-Pick Disease, Type C
-is_a: Orphanet:646 ! Niemann-Pick disease type C
 
 [Term]
 id: OMIM:257300 ! Mosaic Variegated Aneuploidy Syndrome 1
@@ -59310,7 +59536,7 @@ equivalent_to: Orphanet:2785 ! Osteopetrosis with renal tubular acidosis
 
 [Term]
 id: OMIM:259750 ! Osteoporosis, Juvenile
-equivalent_to: Orphanet:85193 ! Idiopathic juvenile osteoporosis
+is_a: Orphanet:85193 ! Idiopathic juvenile osteoporosis
 
 [Term]
 id: OMIM:259770 ! Osteoporosis-Pseudoglioma Syndrome
@@ -59322,7 +59548,6 @@ equivalent_to: Orphanet:1832 ! Lethal osteosclerotic bone dysplasia
 
 [Term]
 id: OMIM:259900 ! Hyperoxaluria, Primary, Type 1
-is_a: Orphanet:416 ! Primary hyperoxaluria
 equivalent_to: Orphanet:93598 ! Primary hyperoxaluria type 1
 
 [Term]
@@ -59434,7 +59659,6 @@ equivalent_to: Orphanet:716 ! Phenylketonuria
 
 [Term]
 id: OMIM:261630 ! Hyperphenylalaninemia, Bh4-Deficient, C
-is_a: Orphanet:238583 ! Hyperphenylalaninemia
 equivalent_to: Orphanet:226 ! Dihydropteridine reductase deficiency
 
 [Term]
@@ -59586,6 +59810,7 @@ is_a: Orphanet:2292 ! Congenital bowing of long bones
 
 [Term]
 id: OMIM:264070 ! Hyperphenylalaninemia, Bh4-Deficient, D
+is_a: Orphanet:238583 ! Hyperphenylalaninemia
 equivalent_to: Orphanet:1578 ! Dehydratase deficiency
 
 [Term]
@@ -60192,6 +60417,7 @@ equivalent_to: Orphanet:983 ! Testicular regression syndrome
 [Term]
 id: OMIM:273300 ! Testicular Germ Cell Tumor
 is_a: DOID:4440 ! seminoma
+is_a: Orphanet:363504 ! Germ cell tumor of testis
 
 [Term]
 id: OMIM:273395 ! Tetraamelia Syndrome, Autosomal Recessive
@@ -60221,7 +60447,6 @@ equivalent_to: Orphanet:849 ! Glanzmann thrombasthenia
 [Term]
 id: OMIM:273900 ! THC3
 is_a: Orphanet:168629 ! Autosomal thrombocytopenia with normal platelets
-is_a: Orphanet:268322 ! Hereditary thrombocytopenia with normal platelets
 
 [Term]
 id: OMIM:274000 ! Thrombocytopenia-Absent Radius Syndrome
@@ -60240,10 +60465,6 @@ equivalent_to: Orphanet:2951 ! Absent thumb-short stature-immunodeficiency syndr
 [Term]
 id: OMIM:274205 ! Thumb, Hypoplastic, With Choroid Coloboma, Poorly Developed Antihelix, and Deafness
 equivalent_to: Orphanet:2489 ! Upper limb defect-eye and ear abnormalities syndrome
-
-[Term]
-id: OMIM:274230 ! Thymoma, Familial
-is_a: Orphanet:99867 ! Thymoma
 
 [Term]
 id: OMIM:274240 ! Thyrocerebroretinal Syndrome
@@ -60345,11 +60566,11 @@ equivalent_to: Orphanet:252202 ! Constitutional mismatch repair deficiency syndr
 [Term]
 id: OMIM:276600 ! Tyrosinemia, Type 2
 is_a: MESH:D020176 ! Tyrosinemias
-equivalent_to: Orphanet:28378 ! Tyrosinemia type 2
 
 [Term]
 id: OMIM:276700 ! Tyrosinemia, Type 1
 is_a: MESH:D020176 ! Tyrosinemias
+equivalent_to: Orphanet:882 ! Tyrosinemia type 1
 
 [Term]
 id: OMIM:276710 ! Tyrosinemia, Type 3
@@ -60424,6 +60645,7 @@ is_a: Orphanet:199285 ! Hereditary hypercarotenemia and vitamin A deficiency
 
 [Term]
 id: OMIM:277380 ! Methylmalonic Aciduria and Homocystinuria, Cblf Type
+is_a: Orphanet:26 ! Methylmalonic acidemia with homocystinuria
 equivalent_to: Orphanet:79284 ! Methylmalonic acidemia with homocystinuria type cblF
 
 [Term]
@@ -60497,11 +60719,6 @@ equivalent_to: Orphanet:905 ! Wilson disease
 id: OMIM:277950 ! Winchester Syndrome
 is_a: Orphanet:3460 ! Torg-Winchester syndrome
 is_a: Orphanet:85196 ! Nodulosis-arthropathy-osteolysis syndrome
-
-[Term]
-id: OMIM:277970 ! Wiskott-Aldrich Syndrome
-is_a: MESH:D014923 ! Wiskott-Aldrich Syndrome
-is_a: Orphanet:906 ! Wiskott-Aldrich syndrome
 
 [Term]
 id: OMIM:277990 ! Wolff Mental Retardation Syndrome
@@ -60593,10 +60810,6 @@ is_a: Orphanet:242 ! 46,XY complete gonadal dysgenesis
 is_a: Orphanet:251510 ! 46,XY partial gonadal dysgenesis
 
 [Term]
-id: OMIM:300030 ! DFNX3
-is_a: Orphanet:90625 ! X-linked non-syndromic sensorineural deafness type DFN
-
-[Term]
 id: OMIM:300042 ! Alopecia, Congenital
 is_a: DOID:987 ! alopecia
 is_a: Orphanet:700 ! Alopecia totalis
@@ -60636,10 +60849,6 @@ id: OMIM:300064 ! Mental Retardation, X-Linked, With Craniofacial Dysmorphism
 equivalent_to: Orphanet:2898 ! X-linked intellectual disability-plagiocephaly syndrome
 
 [Term]
-id: OMIM:300066 ! Deafness, X-Linked 4
-is_a: Orphanet:90625 ! X-linked non-syndromic sensorineural deafness type DFN
-
-[Term]
 id: OMIM:300067 ! Lissencephaly, X-Linked, 1
 is_a: MESH:D054221 ! Classical Lissencephalies and Subcortical Band Heterotopias
 equivalent_to: Orphanet:2148 ! Lissencephaly type 1 due to doublecortin gene mutation
@@ -60658,9 +60867,7 @@ is_a: Orphanet:1871 ! Progressive cone dystrophy
 
 [Term]
 id: OMIM:300088 ! Epileptic Encephalopathy, Early Infantile, 9
-is_a: DOID:2481 ! infantile epileptic encephalopathy
 is_a: Orphanet:2076 ! X-linked intellectual disability-epilepsy syndrome
-equivalent_to: Orphanet:101039 ! Female restricted epilepsy with intellectual disability
 
 [Term]
 id: OMIM:300100 ! Adrenoleukodystrophy
@@ -61163,7 +61370,6 @@ equivalent_to: Orphanet:3222 ! Phosphoribosylpyrophosphate synthetase superactiv
 id: OMIM:300672 ! Epileptic Encephalopathy, Early Infantile, 2
 is_a: DOID:2481 ! infantile epileptic encephalopathy
 is_a: Orphanet:1934 ! Early infantile epileptic encephalopathy
-is_a: Orphanet:3095 ! Atypical Rett syndrome
 is_a: Orphanet:3451 ! West syndrome
 
 [Term]
@@ -61455,7 +61661,6 @@ equivalent_to: Orphanet:329235 ! X-linked central congenital hypothyroidism with
 
 [Term]
 id: OMIM:300894 ! Neurodegeneration With Brain Iron Accumulation 5
-is_a: DOID:3981 ! pantothenate kinase-associated neurodegeneration
 equivalent_to: Orphanet:329284 ! Beta-propeller protein-associated neurodegeneration
 
 [Term]
@@ -61483,10 +61688,6 @@ equivalent_to: Orphanet:363654 ! X-linked parkinsonism-spasticity syndrome
 id: OMIM:300912 ! Mental Retardation, X-Linked 98
 is_a: DOID:0050776 ! non-syndromic X-linked intellectual disability
 equivalent_to: Orphanet:85277 ! X-linked intellectual disability, Cantagrel type
-
-[Term]
-id: OMIM:300914 ! Deafness, X-Linked 6
-is_a: Orphanet:90625 ! X-linked non-syndromic sensorineural deafness type DFN
 
 [Term]
 id: OMIM:300915 ! Microphthalmia, Syndromic 13
@@ -61518,6 +61719,10 @@ id: OMIM:300942 ! Chromosome Xq26.3 Duplication Syndrome
 equivalent_to: Orphanet:300373 ! Familial infantile gigantism
 
 [Term]
+id: OMIM:300943 ! Pituitary Adenoma, Growth Hormone-Secreting, 2
+is_a: Orphanet:963 ! Acromegaly
+
+[Term]
 id: OMIM:300946 ! Diamond-Blackfan Anemia 14 With Mandibulofacial Dysostosis
 is_a: Orphanet:124 ! Blackfan-Diamond anemia
 
@@ -61536,11 +61741,6 @@ equivalent_to: Orphanet:401973 ! MEND syndrome
 [Term]
 id: OMIM:300963 ! Ritscher-Schinzel Syndrome 2; RTSC2
 is_a: Orphanet:7 ! 3C syndrome
-
-[Term]
-id: OMIM:301000 ! Wiskott-Aldrich Syndrome
-is_a: MESH:D014923 ! Wiskott-Aldrich Syndrome
-is_a: Orphanet:906 ! Wiskott-Aldrich syndrome
 
 [Term]
 id: OMIM:301040 ! Alpha-Thalassemia/Mental Retardation Syndrome, X-Linked
@@ -61568,6 +61768,7 @@ equivalent_to: Orphanet:2802 ! X-linked sideroblastic anemia and ataxia
 
 [Term]
 id: OMIM:301410 ! Neural Tube Defects, X-Linked
+is_a: Orphanet:268357 ! Neural tube closure defect
 is_a: Orphanet:823 ! Isolated spina bifida
 
 [Term]
@@ -61740,10 +61941,6 @@ is_a: DOID:10003 ! sensorineural hearing loss
 equivalent_to: Orphanet:383 ! X-linked mixed deafness with perilymphatic gusher
 
 [Term]
-id: OMIM:304500 ! Deafness, X-Linked 1
-is_a: Orphanet:90625 ! X-linked non-syndromic sensorineural deafness type DFN
-
-[Term]
 id: OMIM:304700 ! Mohr-Tranebjaerg Syndrome
 equivalent_to: Orphanet:52368 ! Mohr-Tranebjaerg syndrome
 
@@ -61901,7 +62098,6 @@ equivalent_to: Orphanet:2273 ! Ichthyosis follicularis-alopecia-photophobia synd
 
 [Term]
 id: OMIM:308230 ! Immunodeficiency With Hyper-Igm, Type 1
-is_a: Orphanet:183663 ! Hyper-IgM syndrome with susceptibility to opportunistic infections
 equivalent_to: Orphanet:101088 ! X-linked hyper-IgM syndrome
 
 [Term]
@@ -62184,8 +62380,14 @@ is_a: MESH:D041441 ! Retinoschisis
 equivalent_to: Orphanet:792 ! X-linked retinoschisis
 
 [Term]
+id: OMIM:312750 ! Rett Syndrome
+is_a: MESH:D015518 ! Rett Syndrome
+is_a: Orphanet:778 ! Rett syndrome
+
+[Term]
 id: OMIM:312780 ! Russell-Silver Syndrome, X-Linked
 is_a: DOID:14744 ! Partington syndrome
+is_a: Orphanet:813 ! Silver-Russell syndrome
 
 [Term]
 id: OMIM:312830 ! Scarf Syndrome
@@ -62419,11 +62621,8 @@ is_a: Orphanet:227535 ! Hereditary breast cancer
 
 [Term]
 id: OMIM:600057 ! Exstrophy of Bladder
-equivalent_to: Orphanet:322 ! Exstrophy-epispadias complex
-
-[Term]
-id: OMIM:600060 ! Deafness, Autosomal Recessive 2
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
+is_a: Orphanet:322 ! Exstrophy-epispadias complex
+equivalent_to: Orphanet:93930 ! Bladder exstrophy
 
 [Term]
 id: OMIM:600072 ! Fatal Familial Insomnia
@@ -62442,10 +62641,6 @@ id: OMIM:600096 ! Puerto Rican Infant Hypotonia Syndrome
 equivalent_to: Orphanet:3010 ! Qazi-Markouizos syndrome
 
 [Term]
-id: OMIM:600101 ! Deafness, Autosomal Dominant 2A
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:600110 ! Stargardt Disease 3
 is_a: Orphanet:827 ! Stargardt disease
 
@@ -62460,8 +62655,7 @@ equivalent_to: Orphanet:1799 ! Familial developmental dysphasia
 
 [Term]
 id: OMIM:600118 ! Warburg Micro Syndrome 1
-is_a: MESH:C536681 ! Warburg Sjo Fledelius syndrome
-equivalent_to: Orphanet:2510 ! Micro syndrome
+is_a: Orphanet:2510 ! Micro syndrome
 
 [Term]
 id: OMIM:600121 ! Rhizomelic Chondrodysplasia Punctata, Type 3
@@ -62487,7 +62681,8 @@ equivalent_to: Orphanet:199354 ! CARASIL
 
 [Term]
 id: OMIM:600143 ! Ceroid Lipofuscinosis, Neuronal, 8
-equivalent_to: Orphanet:228354 ! CLN8 disease
+is_a: Orphanet:168491 ! Late infantile neuronal ceroid lipofuscinosis
+is_a: Orphanet:79264 ! Juvenile neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:600155 ! Hirschsprung Disease, Susceptibility To, 2
@@ -62724,6 +62919,10 @@ id: OMIM:600631 ! ENUR1
 is_a: MESH:D053206 ! Nocturnal Enuresis
 
 [Term]
+id: OMIM:600634 ! Pituitary Adenoma, Prolactin-Secreting
+is_a: Orphanet:314777 ! Familial isolated pituitary adenoma
+
+[Term]
 id: OMIM:600638 ! Fibrosis of Extraocular Muscles, Congenital, 3A, With or Without Extraocular Involvement
 is_a: Orphanet:45358 ! Congenital fibrosis of extraocular muscles
 
@@ -62733,12 +62932,7 @@ equivalent_to: Orphanet:53035 ! Caroli disease
 
 [Term]
 id: OMIM:600649 ! Carnitine Palmitoyltransferase 2 Deficiency, Infantile
-is_a: Orphanet:157 ! Carnitine palmitoyltransferase II deficiency
 equivalent_to: Orphanet:228305 ! Carnitine palmitoyl transferase II deficiency, severe infantile form
-
-[Term]
-id: OMIM:600652 ! Deafness, Autosomal Dominant 4A
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:600666 ! Polycystic Kidney Disease 3, Autosomal Dominant
@@ -62771,6 +62965,7 @@ equivalent_to: Orphanet:3424 ! Velo-facial-skeletal syndrome
 
 [Term]
 id: OMIM:600740 ! Hypocalciuric Hypercalcemia, Familial, Type 3
+is_a: Orphanet:405 ! Familial hypocalciuric hypercalcemia
 equivalent_to: Orphanet:101050 ! Familial hypocalciuric hypercalcemia type 3
 
 [Term]
@@ -62791,6 +62986,7 @@ equivalent_to: Orphanet:75373 ! Progressive bifocal chorioretinal atrophy
 
 [Term]
 id: OMIM:600791 ! Deafness, Autosomal Recessive 4, With Enlarged Vestibular Aqueduct
+is_a: DOID:0050332 ! enlarged vestibular aqueduct
 is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
@@ -62854,24 +63050,12 @@ id: OMIM:600955 ! Proprotein Convertase 1/3 Deficiency
 equivalent_to: Orphanet:71528 ! Obesity due to prohormone convertase I deficiency
 
 [Term]
-id: OMIM:600965 ! Deafness, Autosomal Dominant 6
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:600969 ! Epiphyseal Dysplasia, Multiple, 3
 is_a: Orphanet:166002 ! Multiple epiphyseal dysplasia due to collagen 9 anomaly
 
 [Term]
-id: OMIM:600971 ! Deafness, Autosomal Recessive 6
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:600972 ! Achondrogenesis, Type 1B
 equivalent_to: Orphanet:93298 ! Achondrogenesis type 1B
-
-[Term]
-id: OMIM:600974 ! Deafness, Autosomal Recessive 7
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:600975 ! GLC3B
@@ -62888,10 +63072,6 @@ equivalent_to: Orphanet:1849 ! Infundibulopelvic stenosis-multicystic kidney syn
 [Term]
 id: OMIM:600991 ! Hydrocephalus, Sprengel Anomaly, and Costovertebral Dysplasia
 equivalent_to: Orphanet:2180 ! Hydrocephalus-costovertebral dysplasia-Sprengel anomaly syndrome
-
-[Term]
-id: OMIM:600994 ! Deafness, Autosomal Dominant 5
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:600995 ! Nephrotic Syndrome, Type 2
@@ -62929,14 +63109,6 @@ is_a: Orphanet:231169 ! Usher syndrome type 1
 [Term]
 id: OMIM:601068 ! FAME1
 is_a: Orphanet:86814 ! Benign adult familial myoclonic epilepsy
-
-[Term]
-id: OMIM:601071 ! Deafness, Autosomal Recessive 9
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
-id: OMIM:601072 ! Deafness, Autosomal Recessive 8
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:601075 ! Aplasia Cutis Congenita, High Myopia, and Cone-Rod Dysfunction
@@ -62982,11 +63154,6 @@ id: OMIM:601127 ! Fallot Complex With Severe Mental and Growth Retardation
 equivalent_to: Orphanet:3304 ! Fallot complex-intellectual disability-growth delay syndrome
 
 [Term]
-id: OMIM:601144 ! Brugada Syndrome 1
-is_a: MESH:D053840 ! Brugada Syndrome
-is_a: Orphanet:130 ! Brugada syndrome
-
-[Term]
 id: OMIM:601152 ! Neuropathy, Hereditary Motor and Sensory, Type 6A
 is_a: DOID:0080068 ! Charcot-Marie-Tooth disease type 6
 is_a: MESH:C562851 ! Hereditary Motor And Sensory Neuropathy VI
@@ -63028,7 +63195,6 @@ equivalent_to: Orphanet:139507 ! African iron overload
 [Term]
 id: OMIM:601198 ! Hypocalcemia, Autosomal Dominant 1
 is_a: Orphanet:112 ! Bartter syndrome
-is_a: Orphanet:2238 ! Familial isolated hypoparathyroidism
 equivalent_to: Orphanet:428 ! Autosomal dominant hypocalcemia
 
 [Term]
@@ -63058,7 +63224,6 @@ equivalent_to: Orphanet:2786 ! Osteoporosis-oculocutaneous hypopigmentation synd
 
 [Term]
 id: OMIM:601223 ! Neuronal Intestinal Dysplasia, Type B
-is_a: MESH:C537394 ! Neuronal intestinal pseudoobstruction
 is_a: Orphanet:2978 ! Chronic intestinal pseudoobstruction
 
 [Term]
@@ -63080,14 +63245,6 @@ equivalent_to: Orphanet:94122 ! Cerebellar ataxia, Cayman type
 [Term]
 id: OMIM:601287 ! Muscular Dystrophy, Limb-Girdle, Type 2F
 equivalent_to: Orphanet:219 ! Autosomal recessive limb-girdle muscular dystrophy type 2F
-
-[Term]
-id: OMIM:601316 ! Deafness, Autosomal Dominant 10
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:601317 ! Deafness, Autosomal Dominant 11
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:601319 ! Odontomicronychial Dysplasia
@@ -63151,10 +63308,6 @@ is_a: DOID:6713 ! cerebrovascular disease
 is_a: MESH:D002544 ! Cerebral Infarction
 
 [Term]
-id: OMIM:601369 ! Deafness, Autosomal Dominant 9
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:601370 ! Holoprosencephaly, Semilobar, With Craniosynostosis
 equivalent_to: Orphanet:2163 ! Holoprosencephaly-craniosynostosis syndrome
 
@@ -63183,10 +63336,6 @@ id: OMIM:601382 ! Charcot-Marie-Tooth Disease, Type 4B1
 equivalent_to: Orphanet:99955 ! Charcot-Marie-Tooth disease type 4B1
 
 [Term]
-id: OMIM:601386 ! Deafness, Autosomal Recessive 12
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:601390 ! Van Maldergem Syndrome 1
 equivalent_to: Orphanet:314679 ! Cerebro-facio-articular syndrome
 
@@ -63197,10 +63346,6 @@ equivalent_to: Orphanet:71290 ! Familial platelet syndrome with predisposition t
 [Term]
 id: OMIM:601410 ! Diabetes Mellitus, Transient Neonatal, 1
 is_a: Orphanet:99886 ! Transient neonatal diabetes mellitus
-
-[Term]
-id: OMIM:601412 ! DFNA7
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:601419 ! Myopathy, Myofibrillar, 1
@@ -63280,14 +63425,6 @@ is_a: Orphanet:1331 ! Familial prostate cancer
 [Term]
 id: OMIM:601536 ! Athabaskan Brainstem Dysgenesis Syndrome
 equivalent_to: Orphanet:69739 ! Athabaskan brainstem dysgenesis syndrome
-
-[Term]
-id: OMIM:601543 ! Deafness, Autosomal Dominant 12
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:601544 ! Deafness, Autosomal Dominant 3A
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:601547 ! Cataract 3, Multiple Types
@@ -63411,7 +63548,8 @@ is_a: Orphanet:1872 ! Cone rod dystrophy
 
 [Term]
 id: OMIM:601780 ! Ceroid Lipofuscinosis, Neuronal, 6
-equivalent_to: Orphanet:228363 ! CLN6 disease
+is_a: Orphanet:168491 ! Late infantile neuronal ceroid lipofuscinosis
+is_a: Orphanet:79262 ! Adult neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:601794 ! Coloboma-Obesity-Hypogenitalism-Mental Retardation Syndrome
@@ -63448,14 +63586,6 @@ equivalent_to: Orphanet:1787 ! Acrofacial dysostosis, Palagonia type
 [Term]
 id: OMIM:601853 ! GLHS
 equivalent_to: Orphanet:1532 ! GC3mez-LC3pez-Hern
-
-[Term]
-id: OMIM:601868 ! Deafness, Autosomal Dominant 13
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:601869 ! Deafness, Autosomal Recessive 15
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:601885 ! Cataract 14, Multiple Types
@@ -63542,10 +63672,6 @@ id: OMIM:602089 ! Hemangioma, Capillary Infantile
 equivalent_to: Orphanet:91415 ! Familial capillary hemangioma
 
 [Term]
-id: OMIM:602092 ! Deafness, Autosomal Recessive 18A
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:602093 ! Cone Dystrophy 3
 is_a: DOID:0050572 ! cone-rod dystrophy
 
@@ -63630,10 +63756,6 @@ equivalent_to: Orphanet:357043 ! Amyotrophic lateral sclerosis type 4
 [Term]
 id: OMIM:602440 ! Amyotrophy, Monomelic
 equivalent_to: Orphanet:65684 ! Monomelic amyotrophy
-
-[Term]
-id: OMIM:602459 ! Deafness, Autosomal Dominant 15
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:602471 ! Short Stature, Auditory Canal Atresia, Mandibular Hypoplasia, and Skeletal Abnormalities
@@ -63943,14 +64065,6 @@ is_a: MESH:D017689 ! Polydactyly
 is_a: Orphanet:2913 ! Polydactyly
 
 [Term]
-id: OMIM:603622 ! Deafness, Autosomal Dominant 17
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:603629 ! Deafness, Autosomal Recessive 21
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:603649 ! Cone-Rod Dystrophy 7
 is_a: Orphanet:1872 ! Cone rod dystrophy
 
@@ -63969,10 +64083,6 @@ is_a: Orphanet:1331 ! Familial prostate cancer
 [Term]
 id: OMIM:603689 ! Hereditary Myopathy With Early Respiratory Failure
 equivalent_to: Orphanet:178464 ! Hereditary proximal myopathy with early respiratory failure
-
-[Term]
-id: OMIM:603720 ! Deafness, Autosomal Recessive 16
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:603736 ! Ohdo Syndrome, Sbbys Variant
@@ -64040,10 +64150,6 @@ is_a: MESH:D011565 ! Psoriasis
 id: OMIM:603956 ! Cervical Cancer
 is_a: DOID:4362 ! cervical cancer
 is_a: MESH:D002583 ! Uterine Cervical Neoplasms
-
-[Term]
-id: OMIM:603964 ! DFNA16
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:603965 ! Focal Segmental Glomerulosclerosis 2
@@ -64301,6 +64407,7 @@ is_a: Orphanet:888 ! Van der Woude syndrome
 
 [Term]
 id: OMIM:604559 ! Progressive Familial Heart Block, Type 1B
+is_a: MESH:C567037 ! Progressive Familial Heart Block, Type Ib
 is_a: Orphanet:871 ! Familial progressive cardiac conduction defect
 
 [Term]
@@ -64318,10 +64425,6 @@ is_a: Orphanet:99798 ! Oligodontia
 [Term]
 id: OMIM:604715 ! Orthostatic Intolerance
 equivalent_to: Orphanet:443236 ! Orthostatic intolerance due to NET deficiency
-
-[Term]
-id: OMIM:604717 ! Deafness, Autosomal Dominant 20
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:604757 ! Craniosynostosis 2
@@ -64394,6 +64497,10 @@ id: OMIM:604922 ! Cortical Defects, Wormian Bones, and Dentinogenesis Imperfecta
 equivalent_to: Orphanet:166277 ! Skeletal dysplasia with wormian bone-multiple fractures-dentinogenesis imperfecta
 
 [Term]
+id: OMIM:604928 ! Wolfram Syndrome 2
+is_a: Orphanet:3463 ! Wolfram syndrome
+
+[Term]
 id: OMIM:604931 ! Cortisone Reductase Deficiency 1
 is_a: Orphanet:168588 ! Hyperandrogenism due to cortisone reductase deficiency
 
@@ -64438,10 +64545,6 @@ equivalent_to: Orphanet:88660 ! Pseudohyperaldosteronism type 2
 [Term]
 id: OMIM:605130 ! Wiedemann-Steiner Syndrome
 equivalent_to: Orphanet:319182 ! Wiedemann-Steiner syndrome
-
-[Term]
-id: OMIM:605192 ! Deafness, Autosomal Dominant 23
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:605218 ! Systemic Lupus Erythematosus, Susceptibility To, 2
@@ -64599,10 +64702,6 @@ id: OMIM:605582 ! CMD1K
 is_a: Orphanet:154 ! Familial isolated dilated cardiomyopathy
 
 [Term]
-id: OMIM:605583 ! Deafness, Autosomal Dominant 25
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:605588 ! Charcot-Marie-Tooth Disease, Axonal, Type 2B1
 equivalent_to: Orphanet:98856 ! Charcot-Marie-Tooth disease type 2B1
 
@@ -64666,7 +64765,6 @@ equivalent_to: Orphanet:139552 ! Distal hereditary motor neuropathy, Jerash type
 [Term]
 id: OMIM:605728 ! CTRCT25
 is_a: Orphanet:98985 ! Early-onset sutural cataract
-is_a: Orphanet:98992 ! Early-onset partial cataract
 is_a: Orphanet:98995 ! Early-onset zonular cataract
 
 [Term]
@@ -64761,10 +64859,6 @@ id: OMIM:606003 ! Transaldolase Deficiency
 equivalent_to: Orphanet:101028 ! Transaldolase deficiency
 
 [Term]
-id: OMIM:606012 ! DFNA18
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:606053 ! AUTS5
 is_a: MESH:D001321 ! Autistic Disorder
 
@@ -64794,7 +64888,7 @@ is_a: Orphanet:124 ! Blackfan-Diamond anemia
 
 [Term]
 id: OMIM:606159 ! Neurodegeneration With Brain Iron Accumulation 3
-is_a: DOID:3981 ! pantothenate kinase-associated neurodegeneration
+equivalent_to: Orphanet:157846 ! Neuroferritinopathy
 
 [Term]
 id: OMIM:606164 ! Diamond-Blackfan Anemia 15 With Mandibulofacial Dysostosis
@@ -64837,20 +64931,12 @@ id: OMIM:606243 ! Alveolar Soft Part Sarcoma
 equivalent_to: Orphanet:163699 ! Alveolar soft-tissue sarcoma
 
 [Term]
-id: OMIM:606282 ! DFNA24
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:606324 ! Parkinson Disease 7, Autosomal Recessive Early-Onset
 is_a: Orphanet:2828 ! Young-onset Parkinson disease
 
 [Term]
 id: OMIM:606325 ! HTX3
 is_a: Orphanet:450 ! Heterotaxia
-
-[Term]
-id: OMIM:606346 ! Deafness, Autosomal Dominant 22
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:606353 ! Primary Lateral Sclerosis, Juvenile
@@ -64887,10 +64973,6 @@ equivalent_to: Orphanet:98934 ! Huntington disease-like 2
 [Term]
 id: OMIM:606445 ! Persistent Polyclonal B-Cell Lymphocytosis
 equivalent_to: Orphanet:300324 ! Persistent polyclonal B-cell lymphocytosis
-
-[Term]
-id: OMIM:606451 ! DFNA30
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:606482 ! Charcot-Marie-Tooth Disease, Dominant Intermediate B
@@ -64984,16 +65066,16 @@ id: OMIM:606703 ! Dyskinesia, Familial, With Facial Myokymia
 equivalent_to: Orphanet:324588 ! Familial dyskinesia and facial myokymia
 
 [Term]
-id: OMIM:606705 ! Deafness, Autosomal Dominant 36
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:606708 ! SHFM5
 is_a: Orphanet:2440 ! Split hand-split foot malformation
 
 [Term]
 id: OMIM:606713 ! Van Der Woude Syndrome 2
 is_a: Orphanet:888 ! Van der Woude syndrome
+
+[Term]
+id: OMIM:606719 ! Melanoma-Pancreatic Cancer Syndrome
+is_a: Orphanet:404560 ! Familial atypical multiple mole melanoma syndrome
 
 [Term]
 id: OMIM:606744 ! Seckel Syndrome 2
@@ -65147,14 +65229,6 @@ is_a: Orphanet:579 ! Mucopolysaccharidosis type 1
 equivalent_to: Orphanet:93474 ! Scheie syndrome
 
 [Term]
-id: OMIM:607017 ! DFNA21
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:607039 ! Deafness, Autosomal Recessive 22
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:607060 ! Parkinson Disease 8, Autosomal Dominant
 is_a: Orphanet:411602 ! Hereditary late-onset Parkinson disease
 
@@ -65166,10 +65240,6 @@ equivalent_to: Orphanet:93311 ! Multiple epiphyseal dysplasia type 5
 id: OMIM:607080 ! 46,Xy Gonadal Dysgenesis, Partial, With Minifascicular Neuropathy
 is_a: DOID:14448 ! 46 XY gonadal dysgenesis
 equivalent_to: Orphanet:168563 ! 46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome
-
-[Term]
-id: OMIM:607084 ! Deafness, Autosomal Recessive 31
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:607086 ! AAT1
@@ -65191,10 +65261,6 @@ equivalent_to: Orphanet:79332 ! B4GALT1-CDG
 [Term]
 id: OMIM:607095 ! Anauxetic Dysplasia
 equivalent_to: Orphanet:93347 ! Anauxetic dysplasia
-
-[Term]
-id: OMIM:607101 ! Deafness, Autosomal Recessive 30
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:607107 ! Nasopharyngeal Carcinoma
@@ -65301,6 +65367,7 @@ equivalent_to: Orphanet:275517 ! Autoimmune lymphoproliferative syndrome with re
 [Term]
 id: OMIM:607304 ! CTRCT27
 is_a: Orphanet:98991 ! Early-onset nuclear cataract
+is_a: Orphanet:98992 ! Early-onset partial cataract
 is_a: Orphanet:98995 ! Early-onset zonular cataract
 
 [Term]
@@ -65387,10 +65454,6 @@ equivalent_to: Orphanet:95232 ! Lissencephaly due to LIS1 mutation
 [Term]
 id: OMIM:607450 ! Arrhythmogenic Right Ventricular Dysplasia, Familial, 8
 is_a: Orphanet:217656 ! Familial isolated arrhythmogenic right ventricular dysplasia
-
-[Term]
-id: OMIM:607453 ! Deafness, Autosomal Dominant 44
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:607454 ! Spinocerebellar Ataxia 21
@@ -65508,10 +65571,6 @@ is_a: Orphanet:381 ! Griscelli disease
 equivalent_to: Orphanet:79477 ! Griscelli disease type 2
 
 [Term]
-id: OMIM:607625 ! Niemann-Pick Disease, Type C2
-is_a: Orphanet:646 ! Niemann-Pick disease type C
-
-[Term]
 id: OMIM:607626 ! Ichthyosis, Leukocyte Vacuoles, Alopecia, and Sclerosing Cholangitis
 equivalent_to: Orphanet:59303 ! Ichthyosis-hypotrichosis-sclerosing cholangitis syndrome
 
@@ -65588,10 +65647,6 @@ id: OMIM:607682 ! Epilepsy, Idiopathic Generalized, Susceptibility To, 9
 is_a: MESH:C562694 ! Epilepsy, Idiopathic Generalized
 
 [Term]
-id: OMIM:607683 ! DFNA52
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:607684 ! Charcot-Marie-Tooth Disease, Axonal, Type 2E
 equivalent_to: Orphanet:99939 ! Autosomal dominant Charcot-Marie-Tooth disease type 2E
 
@@ -65606,7 +65661,7 @@ is_a: Orphanet:411602 ! Hereditary late-onset Parkinson disease
 
 [Term]
 id: OMIM:607694 ! Leukodystrophy, Hypomyelinating, 7, With or Without Oligodontia And/Or Hypogonadotropic Hypogonadism
-equivalent_to: Orphanet:447893 ! Hypomyelination-cerebellar atrophy-hypoplasia of the corpus callosum syndrome
+equivalent_to: Orphanet:447896 ! Tremor-ataxia-central hypomyelination syndrome
 
 [Term]
 id: OMIM:607706 ! Charcot-Marie-Tooth Disease, Axonal, With Vocal Cord Paresis, Autosomal Recessive
@@ -65637,10 +65692,6 @@ id: OMIM:607748 ! Hypercholanemia, Familial
 equivalent_to: Orphanet:238475 ! Familial hypercholanemia
 
 [Term]
-id: OMIM:607765 ! Bile Acid Synthesis Defect, Congenital, 1
-equivalent_to: Orphanet:79301 ! Congenital bile acid synthesis defect type 1
-
-[Term]
 id: OMIM:607778 ! Acrocapitofemoral Dysplasia
 equivalent_to: Orphanet:63446 ! Acrocapitofemoral dysplasia
 
@@ -65659,10 +65710,6 @@ equivalent_to: Orphanet:265 ! Autosomal dominant limb-girdle muscular dystrophy 
 [Term]
 id: OMIM:607812 ! Craniolenticulosutural Dysplasia
 equivalent_to: Orphanet:50814 ! Craniolenticulosutural dysplasia
-
-[Term]
-id: OMIM:607821 ! Deafness, Autosomal Recessive 37
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:607822 ! Alzheimer Disease 3
@@ -65693,10 +65740,6 @@ is_a: MESH:D001008 ! Anxiety Disorders
 [Term]
 id: OMIM:607836 ! Autoimmune Disease, Susceptibility To, 1
 is_a: Orphanet:247871 ! Vitiligo-associated autoimmune disease
-
-[Term]
-id: OMIM:607841 ! Deafness, Autosomal Dominant 48
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:607842 ! Aural Atresia, Congenital
@@ -65940,10 +65983,6 @@ id: OMIM:608220 ! SPG25
 equivalent_to: Orphanet:101005 ! Autosomal recessive spastic paraplegia type 25
 
 [Term]
-id: OMIM:608224 ! Deafness, Autosomal Dominant 41
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:608227 ! Craniofacial Abnormalities, Cataracts, Congenital Heart Disease, Sacral Neural Tube Defects, and Growth and Developmental Retardation
 equivalent_to: Orphanet:314993 ! Cataract-congenital heart disease-neural tube defect syndrome
 
@@ -65962,10 +66001,6 @@ equivalent_to: Orphanet:140481 ! Autosomal dominant slowed nerve conduction velo
 
 [Term]
 id: OMIM:608264 ! DFNB40
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
-id: OMIM:608265 ! Deafness, Autosomal Recessive 39
 is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
@@ -66031,10 +66066,6 @@ id: OMIM:608367 ! MYP17
 is_a: MESH:D009216 ! Myopia
 
 [Term]
-id: OMIM:608372 ! DFNA49
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:608389 ! Branchiootic Syndrome 3
 is_a: Orphanet:52429 ! Branchio-otic syndrome
 
@@ -66054,10 +66085,6 @@ is_a: Orphanet:247871 ! Vitiligo-associated autoimmune disease
 id: OMIM:608393 ! Microcephaly 6, Primary, Autosomal Recessive
 is_a: DOID:10907 ! microcephaly
 is_a: Orphanet:2512 ! Autosomal recessive primary microcephaly
-
-[Term]
-id: OMIM:608394 ! DFNA43
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:608406 ! Vater-Like Defects With Pulmonary Hypertension, Laryngeal Webs, and Growth Deficiency
@@ -66144,10 +66171,6 @@ id: OMIM:608562 ! Polydactyly, Postaxial, Type A4
 is_a: Orphanet:93334 ! Postaxial polydactyly type A
 
 [Term]
-id: OMIM:608565 ! Deafness, Autosomal Recessive 35
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:608567 ! Sick Sinus Syndrome 1, Autosomal Recessive
 is_a: Orphanet:166282 ! Familial sick sinus syndrome
 
@@ -66216,20 +66239,12 @@ id: OMIM:608638 ! ASPG1
 is_a: MESH:D020817 ! Asperger Syndrome
 
 [Term]
-id: OMIM:608641 ! Deafness, Autosomal Dominant 28
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:608643 ! Aromatic L-Amino Acid Decarboxylase Deficiency
 equivalent_to: Orphanet:35708 ! Aromatic L-amino acid decarboxylase deficiency
 
 [Term]
 id: OMIM:608644 ! Ciliary Dyskinesia, Primary, 3
 is_a: Orphanet:244 ! Primary ciliary dyskinesia
-
-[Term]
-id: OMIM:608645 ! DFNA31
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:608646 ! CILD4
@@ -66242,10 +66257,6 @@ is_a: Orphanet:244 ! Primary ciliary dyskinesia
 [Term]
 id: OMIM:608649 ! Ichthyosis Prematurity Syndrome
 equivalent_to: Orphanet:88621 ! Ichthyosis prematurity syndrome
-
-[Term]
-id: OMIM:608652 ! DFNA47
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:608653 ! DFNB32
@@ -66390,6 +66401,7 @@ is_a: MESH:D012148 ! Restless Legs Syndrome
 
 [Term]
 id: OMIM:608836 ! Carnitine Palmitoyltransferase 2 Deficiency, Lethal Neonatal
+is_a: Orphanet:157 ! Carnitine palmitoyltransferase II deficiency
 equivalent_to: Orphanet:228308 ! Carnitine palmitoyl transferase II deficiency, neonatal form
 
 [Term]
@@ -66543,7 +66555,6 @@ is_a: Orphanet:84 ! Fanconi anemia
 [Term]
 id: OMIM:609055 ! CLN9
 is_a: Orphanet:79264 ! Juvenile neuronal ceroid lipofuscinosis
-equivalent_to: Orphanet:228357 ! CLN9 disease
 
 [Term]
 id: OMIM:609056 ! Amish Infantile Epilepsy Syndrome
@@ -66572,10 +66583,6 @@ is_a: Orphanet:231160 ! Familial cerebral saccular aneurysm
 [Term]
 id: OMIM:609128 ! DA4
 equivalent_to: Orphanet:65720 ! Arthrogryposis-severe scoliosis syndrome
-
-[Term]
-id: OMIM:609129 ! Auditory Neuropathy, Autosomal Dominant, 1
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:609135 ! Aplastic Anemia
@@ -66816,10 +66823,6 @@ id: OMIM:609432 ! Syndactyly, Mesoaxial Synostotic, With Phalangeal Reduction
 equivalent_to: Orphanet:157801 ! Mesoaxial synostotic syndactyly with phalangeal reduction
 
 [Term]
-id: OMIM:609439 ! Deafness, Autosomal Recessive 48
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:609441 ! Acromesomelic Dysplasia, Demirhan Type
 is_a: Orphanet:2098 ! Acromesomelic dysplasia, Grebe type
 is_a: Orphanet:2639 ! Fibular aplasia-complex brachydactyly syndrome
@@ -66868,10 +66871,6 @@ is_a: DOID:0060025 ! immunoglobulin alpha deficiency
 [Term]
 id: OMIM:609532 ! Hepatitis C Virus, Susceptibility to
 is_a: MESH:D006526 ! Hepatitis C
-
-[Term]
-id: OMIM:609533 ! Deafness, Autosomal Recessive 23
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:609536 ! Complement Component 5 Deficiency
@@ -66975,10 +66974,6 @@ id: OMIM:609640 ! Frias Syndrome
 equivalent_to: Orphanet:264200 ! 14q22q23 microdeletion syndrome
 
 [Term]
-id: OMIM:609646 ! Deafness, Autosomal Recessive 42
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:609647 ! DFNB46
 is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
@@ -66994,10 +66989,6 @@ is_a: MESH:D020325 ! Migraine with Aura
 [Term]
 id: OMIM:609698 ! Thyroid Hormone Metabolism, Abnormal
 equivalent_to: Orphanet:171706 ! Short stature-delayed bone age due to thyroid hormone metabolism deficiency
-
-[Term]
-id: OMIM:609706 ! Deafness, Autosomal Recessive 53
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:609727 ! SPG29
@@ -67079,10 +67070,6 @@ id: OMIM:609821 ! Bleeding Disorder, Platelet-Type, 8
 equivalent_to: Orphanet:36355 ! P2Y12 defect
 
 [Term]
-id: OMIM:609823 ! Deafness, Autosomal Recessive 28
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:609886 ! Glomerulocystic Kidney Disease With Hyperuricemia and Isosthenuria
 is_a: Orphanet:34149 ! Autosomal dominant medullary cystic kidney disease with or without hyperuricemia
 
@@ -67147,10 +67134,6 @@ id: OMIM:609955 ! GINGF3
 is_a: Orphanet:2024 ! Hereditary gingival fibromatosis
 
 [Term]
-id: OMIM:609965 ! DFNA53
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:609968 ! Hyperinsulinemic Hypoglycemia, Familial, 5
 equivalent_to: Orphanet:263458 ! Hyperinsulinism due to INSR deficiency
 
@@ -67173,7 +67156,6 @@ equivalent_to: Orphanet:75325 ! Osteosclerosis-ichthyosis-premature ovarian fail
 [Term]
 id: OMIM:610003 ! Ceroid Lipofuscinosis, Neuronal, 8, Northern Epilepsy Variant
 is_a: MESH:C537952 ! Ceroid lipofuscinosis, neuronal 8
-equivalent_to: Orphanet:1947 ! Progressive epilepsy-intellectual disability syndrome, Finnish type
 
 [Term]
 id: OMIM:610006 ! 2-Methylbutyryl-Coa Dehydrogenase Deficiency
@@ -67190,7 +67172,6 @@ is_a: Orphanet:3237 ! Multiple synostoses syndrome
 [Term]
 id: OMIM:610019 ! Cataract 18
 is_a: Orphanet:98991 ! Early-onset nuclear cataract
-is_a: Orphanet:98992 ! Early-onset partial cataract
 is_a: Orphanet:98995 ! Early-onset zonular cataract
 
 [Term]
@@ -67281,14 +67262,6 @@ id: OMIM:610143 ! DFNB62
 is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
-id: OMIM:610153 ! Deafness, Autosomal Recessive 49
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
-id: OMIM:610154 ! Deafness, Autosomal Recessive 44
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:610156 ! Mental Retardation, Truncal Obesity, Retinal Dystrophy, and Micropenis Syndrome
 equivalent_to: Orphanet:75858 ! MORM syndrome
 
@@ -67351,21 +67324,12 @@ is_a: Orphanet:52 ! Alagille syndrome
 equivalent_to: Orphanet:261629 ! Alagille syndrome due to a NOTCH2 point mutation
 
 [Term]
-id: OMIM:610212 ! Deafness, Autosomal Recessive 66
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:610213 ! ANIB4
 is_a: Orphanet:231160 ! Familial cerebral saccular aneurysm
 
 [Term]
 id: OMIM:610217 ! Neurodegeneration With Brain Iron Accumulation 2B
-is_a: DOID:3981 ! pantothenate kinase-associated neurodegeneration
 is_a: Orphanet:35069 ! Infantile neuroaxonal dystrophy
-
-[Term]
-id: OMIM:610220 ! Deafness, Autosomal Recessive 59
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:610227 ! Seborrhea-Like Dermatitis With Psoriasiform Elements
@@ -67415,10 +67379,6 @@ is_a: MESH:C562386 ! Hypertension, Essential
 [Term]
 id: OMIM:610262 ! Hypertension, Essential, Susceptibility To, 6
 is_a: MESH:C562386 ! Hypertension, Essential
-
-[Term]
-id: OMIM:610265 ! Deafness, Autosomal Recessive 67
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:610269 ! Bulimia Nervosa, Susceptibility To, 2
@@ -67500,7 +67460,6 @@ is_a: Orphanet:98995 ! Early-onset zonular cataract
 
 [Term]
 id: OMIM:610430 ! WM2
-is_a: DOID:0050747 ! lymphoplasmacytic lymphoma
 is_a: MESH:D008258 ! Waldenstrom Macroglobulinemia
 
 [Term]
@@ -67821,7 +67780,7 @@ is_a: MESH:C562386 ! Hypertension, Essential
 
 [Term]
 id: OMIM:610951 ! Ceroid Lipofuscinosis, Neuronal, 7
-equivalent_to: Orphanet:228366 ! CLN7 disease
+is_a: Orphanet:168491 ! Late infantile neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:610954 ! Pitt-Hopkins Syndrome
@@ -67866,10 +67825,6 @@ is_a: MESH:D001321 ! Autistic Disorder
 [Term]
 id: OMIM:611016 ! AUTS10
 is_a: MESH:D001321 ! Autistic Disorder
-
-[Term]
-id: OMIM:611022 ! Deafness, Autosomal Recessive 24
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:611031 ! EKD2
@@ -68081,10 +68036,6 @@ is_a: Orphanet:154 ! Familial isolated dilated cardiomyopathy
 [Term]
 id: OMIM:611431 ! Legius Syndrome
 equivalent_to: Orphanet:137605 ! Legius syndrome
-
-[Term]
-id: OMIM:611451 ! Deafness, Autosomal Recessive 63
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:611469 ! CRCS2
@@ -68388,6 +68339,7 @@ equivalent_to: Orphanet:199318 ! 15q13.3 microdeletion syndrome
 [Term]
 id: OMIM:612004 ! Thrombocytopenia 4
 is_a: Orphanet:168629 ! Autosomal thrombocytopenia with normal platelets
+is_a: Orphanet:268322 ! Hereditary thrombocytopenia with normal platelets
 
 [Term]
 id: OMIM:612005 ! CELIAC7
@@ -68777,10 +68729,6 @@ id: OMIM:612423 ! Prekallikrein Deficiency
 equivalent_to: Orphanet:749 ! Congenital prekallikrein deficiency
 
 [Term]
-id: OMIM:612431 ! DFNA27
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:612433 ! DFNB45
 is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
@@ -68924,7 +68872,7 @@ is_a: MESH:D015179 ! Colorectal Neoplasms
 id: OMIM:612591 ! Colorectal Cancer, Susceptibility To, 10
 is_a: MESH:D015179 ! Colorectal Neoplasms
 is_a: Orphanet:220460 ! Attenuated familial adenomatous polyposis
-equivalent_to: Orphanet:447877 ! Polymerase proofreading-related adenomatous polyposis
+is_a: Orphanet:447877 ! Polymerase proofreading-related adenomatous polyposis
 
 [Term]
 id: OMIM:612592 ! CRCS11
@@ -68967,22 +68915,6 @@ equivalent_to: Orphanet:86817 ! Hemolytic anemia due to adenylate kinase deficie
 id: OMIM:612632 ! USH1H
 is_a: MESH:C567227 ! Usher Syndrome, Type IH
 is_a: Orphanet:231169 ! Usher syndrome type 1
-
-[Term]
-id: OMIM:612642 ! DFNA59
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:612643 ! Deafness, Autosomal Dominant 3B
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:612644 ! Deafness, Autosomal Dominant 2B
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
-id: OMIM:612645 ! Deafness, Autosomal Recessive 1B
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:612649 ! Ciliary Dyskinesia, Primary, 11
@@ -69454,10 +69386,6 @@ id: OMIM:613073 ! Metaphyseal Anadysplasia 2
 is_a: Orphanet:1040 ! Metaphyseal anadysplasia
 
 [Term]
-id: OMIM:613074 ! Deafness, Autosomal Dominant 50
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:613075 ! Macs Syndrome
 equivalent_to: Orphanet:217335 ! RIN2 syndrome
 
@@ -69472,10 +69400,6 @@ is_a: Orphanet:254892 ! Autosomal dominant progressive external ophthalmoplegia
 [Term]
 id: OMIM:613078 ! Nijmegen Breakage Syndrome-Like Disorder
 equivalent_to: Orphanet:240760 ! Nijmegen breakage syndrome-like disorder
-
-[Term]
-id: OMIM:613079 ! Deafness, Autosomal Recessive 77
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:613080 ! 46,Xy Sex Reversal 5
@@ -69775,20 +69699,12 @@ id: OMIM:613282 ! NAFLD1
 is_a: MESH:D065626 ! Non-alcoholic Fatty Liver Disease
 
 [Term]
-id: OMIM:613285 ! Deafness, Autosomal Recessive 25
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:613286 ! Cardiomyopathy, Dilated, 1Ff
 is_a: Orphanet:154 ! Familial isolated dilated cardiomyopathy
 
 [Term]
 id: OMIM:613287 ! Charcot-Marie-Tooth Disease, Axonal, Type 2N
 equivalent_to: Orphanet:228174 ! Autosomal dominant Charcot-Marie-Tooth disease type 2N
-
-[Term]
-id: OMIM:613307 ! Deafness, Autosomal Recessive 79
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:613310 ! Exudative Vitreoretinopathy 5
@@ -69911,10 +69827,6 @@ id: OMIM:613390 ! Fanconi Anemia, Complementation Group O
 is_a: Orphanet:84 ! Fanconi anemia
 
 [Term]
-id: OMIM:613391 ! Deafness, Autosomal Recessive 84A
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:613392 ! DFNB85
 is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
@@ -69978,10 +69890,6 @@ equivalent_to: Orphanet:261222 ! Distal 16p11.2 microdeletion syndrome
 [Term]
 id: OMIM:613451 ! Frontonasal Dysplasia 2
 equivalent_to: Orphanet:228390 ! Frontonasal dysplasia with alopecia and genital anomaly
-
-[Term]
-id: OMIM:613453 ! Deafness, Autosomal Recessive 91
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:613454 ! Rett Syndrome, Congenital Variant
@@ -70116,10 +70024,6 @@ is_a: Orphanet:903 ! Von Willebrand disease
 equivalent_to: Orphanet:166081 ! Von Willebrand disease type 2
 
 [Term]
-id: OMIM:613558 ! Deafness, Autosomal Dominant 51
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:613559 ! Combined Oxidative Phosphorylation Deficiency 7
 equivalent_to: Orphanet:254930 ! Combined oxidative phosphorylation defect type 7
 
@@ -70172,6 +70076,7 @@ equivalent_to: Orphanet:263487 ! COG5-CDG
 
 [Term]
 id: OMIM:613616 ! Hyperoxaluria, Primary, Type 3
+is_a: Orphanet:416 ! Primary hyperoxaluria
 equivalent_to: Orphanet:93600 ! Primary hyperoxaluria type 3
 
 [Term]
@@ -70367,10 +70272,6 @@ is_a: MESH:D006627 ! Hirschsprung Disease
 [Term]
 id: OMIM:613717 ! Treacher Collins Syndrome 2
 is_a: Orphanet:861 ! Treacher-Collins syndrome
-
-[Term]
-id: OMIM:613718 ! Deafness, Autosomal Recessive 74
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:613720 ! Epileptic Encephalopathy, Early Infantile, 7
@@ -70570,10 +70471,6 @@ id: OMIM:613860 ! Immunodeficiency Due to Ficolin 3 Deficiency
 equivalent_to: Orphanet:331190 ! Immunodeficiency due to ficolin3 deficiency
 
 [Term]
-id: OMIM:613865 ! Deafness, Autosomal Recessive 61
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:613869 ! Myopathy, Myofibrillar, Fatal Infantile Hypertonic, Alpha-B Crystallin-Related
 equivalent_to: Orphanet:280553 ! Fatal infantile hypertonic myofibrillar myopathy
 
@@ -70609,10 +70506,6 @@ equivalent_to: Orphanet:276183 ! Spinocerebellar ataxia type 32
 [Term]
 id: OMIM:613912 ! Complement Factor D Deficiency
 equivalent_to: Orphanet:169467 ! Recurrent Neisseria infections due to factor D deficiency
-
-[Term]
-id: OMIM:613916 ! Deafness, Autosomal Recessive 89
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:613925 ! Megalencephalic Leukoencephalopathy With Subcortical Cysts 2A
@@ -70658,7 +70551,6 @@ is_a: Orphanet:353220 ! Familial primary localized cutaneous amyloidosis
 [Term]
 id: OMIM:613956 ! Candidiasis, Familial, 6
 is_a: DOID:2058 ! chronic mucocutaneous candidiasis
-is_a: Orphanet:1334 ! Chronic mucocutaneous candidiasis
 
 [Term]
 id: OMIM:613957 ! Spermatogenic Failure 8
@@ -70756,10 +70648,6 @@ id: OMIM:614028 ! Apolipoprotein C-Iii Deficiency
 is_a: Orphanet:79506 ! Cholesterol-ester transfer protein deficiency
 
 [Term]
-id: OMIM:614035 ! Deafness, Autosomal Recessive 29
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:614037 ! Leukotriene C4 Synthase Deficiency
 equivalent_to: Orphanet:79507 ! Hypotonia-failure to thrive-microcephaly syndrome
 
@@ -70806,7 +70694,6 @@ is_a: Orphanet:2268 ! ICF syndrome
 [Term]
 id: OMIM:614072 ! Hermansky-Pudlak Syndrome 3
 is_a: Orphanet:231512 ! Hermansky-Pudlak syndrome without pulmonary fibrosis
-is_a: Orphanet:79430 ! Hermansky-Pudlak syndrome
 
 [Term]
 id: OMIM:614073 ! Hermansky-Pudlak Syndrome 4
@@ -70815,11 +70702,11 @@ is_a: Orphanet:231500 ! Hermansky-Pudlak syndrome with pulmonary fibrosis
 [Term]
 id: OMIM:614074 ! Hermansky-Pudlak Syndrome 5
 is_a: Orphanet:231512 ! Hermansky-Pudlak syndrome without pulmonary fibrosis
-is_a: Orphanet:79430 ! Hermansky-Pudlak syndrome
 
 [Term]
 id: OMIM:614075 ! Hermansky-Pudlak Syndrome 6
 is_a: Orphanet:231512 ! Hermansky-Pudlak syndrome without pulmonary fibrosis
+is_a: Orphanet:79430 ! Hermansky-Pudlak syndrome
 
 [Term]
 id: OMIM:614076 ! Hermansky-Pudlak Syndrome 7
@@ -70949,10 +70836,6 @@ id: OMIM:614149 ! NDNC9
 is_a: Orphanet:90390 ! Anonychia-onychodystrophy syndrome
 
 [Term]
-id: OMIM:614152 ! Deafness, Autosomal Dominant 64
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:614153 ! Spinocerebellar Ataxia 36
 equivalent_to: Orphanet:276198 ! Spinocerebellar ataxia type 36
 
@@ -71061,10 +70944,6 @@ is_a: Orphanet:564 ! Meckel syndrome
 [Term]
 id: OMIM:614210 ! LNCR5
 is_a: MESH:D008175 ! Lung Neoplasms
-
-[Term]
-id: OMIM:614211 ! DFNA33
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:614212 ! Encephalopathy, Acute, Infection-Induced, Susceptibility To, 4
@@ -71218,7 +71097,6 @@ equivalent_to: Orphanet:411590 ! Wolfram-like syndrome
 
 [Term]
 id: OMIM:614298 ! Neurodegeneration With Brain Iron Accumulation 4
-is_a: DOID:3981 ! pantothenate kinase-associated neurodegeneration
 equivalent_to: Orphanet:289560 ! Mitochondrial membrane protein-associated neurodegeneration
 
 [Term]
@@ -71580,10 +71458,6 @@ id: OMIM:614492 ! Pseudohypoaldosteronism, Type 2C
 equivalent_to: Orphanet:88940 ! Pseudohypoaldosteronism type 2C
 
 [Term]
-id: OMIM:614493 ! Wiskott-Aldrich Syndrome 2
-is_a: Orphanet:906 ! Wiskott-Aldrich syndrome
-
-[Term]
 id: OMIM:614495 ! Pseudohypoaldosteronism, Type 2D
 equivalent_to: Orphanet:300525 ! Pseudohypoaldosteronism type 2D
 
@@ -71709,16 +71583,8 @@ is_a: Orphanet:280651 ! Acrodysostosis with multiple hormone resistance
 is_a: Orphanet:950 ! Acrodysostosis
 
 [Term]
-id: OMIM:614614 ! Deafness, Autosomal Dominant 4B
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:614616 ! Diarrhea 6
 equivalent_to: Orphanet:314373 ! Chronic diarrhea due to guanylate cyclase 2C overactivity
-
-[Term]
-id: OMIM:614617 ! Deafness, Autosomal Recessive 86
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:614618 ! Hyperekplexia 3
@@ -71831,7 +71697,7 @@ equivalent_to: Orphanet:314637 ! Mitochondrial hypertrophic cardiomyopathy with 
 
 [Term]
 id: OMIM:614706 ! Ceroid Lipofuscinosis, Neuronal, 11
-equivalent_to: Orphanet:314629 ! CLN11 disease
+is_a: Orphanet:79262 ! Adult neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:614707 ! Brown-Vialetto-Van Laere Syndrome 2
@@ -72035,7 +71901,6 @@ is_a: Orphanet:2512 ! Autosomal recessive primary microcephaly
 
 [Term]
 id: OMIM:614857 ! Methylmalonic Aciduria and Homocystinuria, Cblj Type
-is_a: Orphanet:26 ! Methylmalonic acidemia with homocystinuria
 equivalent_to: Orphanet:369955 ! Methylmalonic acidemia with homocystinuria, type cblJ
 
 [Term]
@@ -72046,10 +71911,6 @@ is_a: Orphanet:478 ! Kallmann syndrome
 [Term]
 id: OMIM:614860 ! Dystonia 23
 equivalent_to: Orphanet:420492 ! Adult-onset cervical dystonia, DYT23 type
-
-[Term]
-id: OMIM:614861 ! Deafness, Autosomal Recessive 98
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:614863 ! Peroxisome Biogenesis Disorder 4B
@@ -72137,10 +71998,6 @@ id: OMIM:614898 ! Spastic Paraplegia 53, Autosomal Recessive
 equivalent_to: Orphanet:319199 ! Autosomal recessive spastic paraplegia type 53
 
 [Term]
-id: OMIM:614899 ! Deafness, Autosomal Recessive 93
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:614900 ! Diamond-Blackfan Anemia 11
 is_a: Orphanet:124 ! Blackfan-Diamond anemia
 
@@ -72189,10 +72046,6 @@ id: OMIM:614932 ! Combined Oxidative Phosphorylation Deficiency 13
 equivalent_to: Orphanet:319514 ! Combined oxidative phosphorylation defect type 13
 
 [Term]
-id: OMIM:614934 ! Deafness, Autosomal Recessive 70
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:614935 ! Ciliary Dyskinesia, Primary, 19
 is_a: Orphanet:244 ! Primary ciliary dyskinesia
 
@@ -72211,14 +72064,6 @@ is_a: Orphanet:1810 ! Autosomal dominant hypohidrotic ectodermal dysplasia
 [Term]
 id: OMIM:614941 ! Ectodermal Dysplasia 11B, Hypohidrotic/Hair/Tooth Type, Autosomal Recessive
 is_a: Orphanet:248 ! Autosomal recessive hypohidrotic ectodermal dysplasia
-
-[Term]
-id: OMIM:614944 ! Deafness, Autosomal Recessive 84B
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
-id: OMIM:614945 ! Deafness, Autosomal Recessive 18B
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:614946 ! Combined Oxidative Phosphorylation Deficiency 14
@@ -72818,7 +72663,7 @@ is_a: Orphanet:428 ! Autosomal dominant hypocalcemia
 
 [Term]
 id: OMIM:615362 ! Ceroid Lipofuscinosis, Neuronal, 13
-equivalent_to: Orphanet:352709 ! CLN13 disease
+is_a: Orphanet:79262 ! Adult neuronal ceroid lipofuscinosis
 
 [Term]
 id: OMIM:615363 ! Estrogen Resistance
@@ -72937,10 +72782,6 @@ equivalent_to: Orphanet:412181 ! Epidermolysis bullosa simplex due to BP230 defi
 [Term]
 id: OMIM:615426 ! Amyotrophic Lateral Sclerosis 20
 is_a: Orphanet:803 ! Amyotrophic lateral sclerosis
-
-[Term]
-id: OMIM:615429 ! Deafness, Autosomal Recessive 88
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:615431 ! Myopia 23, Autosomal Recessive
@@ -73134,10 +72975,6 @@ id: OMIM:615539 ! Ehlers-Danlos Syndrome, Musculocontractural Type 2
 is_a: Orphanet:2953 ! Ehlers-Danlos syndrome, musculocontractural type
 
 [Term]
-id: OMIM:615540 ! Deafness, Autosomal Recessive 76
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:615541 ! Mental Retardation, Autosomal Recessive 39
 equivalent_to: Orphanet:391307 ! Severe intellectual disability-short stature-behavioral troubles-facial dysmorphism syndrome
 
@@ -73283,10 +73120,6 @@ id: OMIM:615625 ! Spastic Paraplegia 72, Autosomal Recessive
 equivalent_to: Orphanet:401849 ! Autosomal spastic paraplegia type 72
 
 [Term]
-id: OMIM:615629 ! Deafness, Autosomal Dominant 56
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:615631 ! Anemia, Congenital Dyserythropoietic, Type Ib
 is_a: Orphanet:98869 ! Congenital dyserythropoietic anemia type I
 
@@ -73300,20 +73133,11 @@ equivalent_to: Orphanet:397612 ! Macrocephaly-developmental delay syndrome
 
 [Term]
 id: OMIM:615643 ! Neurodegeneration With Brain Iron Accumulation 6
-is_a: DOID:3981 ! pantothenate kinase-associated neurodegeneration
 equivalent_to: Orphanet:397725 ! COASY protein-associated neurodegeneration
-
-[Term]
-id: OMIM:615649 ! DFNA54
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:615651 ! Leukoencephalopathy With Ataxia
 equivalent_to: Orphanet:363540 ! Leukoencephalopathy with mild cerebellar ataxia and white matter edema
-
-[Term]
-id: OMIM:615654 ! DFNA58
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:615656 ! Chromosome 15Q11.2 Deletion Syndrome
@@ -73493,6 +73317,10 @@ id: OMIM:615785 ! White Sponge Nevus 2
 is_a: Orphanet:171723 ! White sponge nevus
 
 [Term]
+id: OMIM:615802 ! Mental Retardation, Autosomal Recessive 42
+is_a: Orphanet:88616 ! Autosomal recessive non-syndromic intellectual disability
+
+[Term]
 id: OMIM:615803 ! Pontocerebellar Hypoplasia, Type 10
 equivalent_to: Orphanet:411493 ! Pontocerebellar hypoplasia type 10
 
@@ -73539,10 +73367,6 @@ is_a: Orphanet:442835 ! Undetermined early-onset epileptic encephalopathy
 [Term]
 id: OMIM:615834 ! Mental Retardation, Autosomal Dominant 26
 equivalent_to: Orphanet:352490 ! Autism spectrum disorder due to AUTS2 deficiency
-
-[Term]
-id: OMIM:615837 ! Deafness, Autosomal Recessive 101
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
 
 [Term]
 id: OMIM:615838 ! Mitochondrial Complex 3 Deficiency, Nuclear Type 8
@@ -73781,10 +73605,6 @@ id: OMIM:615973 ! Cone-Rod Dystrophy 20
 is_a: Orphanet:1872 ! Cone rod dystrophy
 
 [Term]
-id: OMIM:615974 ! Deafness, Autosomal Recessive 102
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:615978 ! Immunodeficiency 27B
 equivalent_to: Orphanet:319581 ! Autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency
 
@@ -73900,14 +73720,6 @@ equivalent_to: Orphanet:435998 ! Autosomal recessive intermediate Charcot-Marie-
 [Term]
 id: OMIM:616040 ! Myasthenic Syndrome, Congenital, 7, Presynaptic
 is_a: Orphanet:98914 ! Presynaptic congenital myasthenic syndromes
-
-[Term]
-id: OMIM:616042 ! Deafness, Autosomal Recessive 103
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
-id: OMIM:616044 ! Deafness, Autosomal Dominant 65
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:616045 ! Combined Oxidative Phosphorylation Deficiency 22
@@ -74327,10 +74139,6 @@ id: OMIM:616339 ! Epileptic Encephalopathy, Early Infantile, 29
 is_a: Orphanet:442835 ! Undetermined early-onset epileptic encephalopathy
 
 [Term]
-id: OMIM:616340 ! Deafness, Autosomal Dominant 67
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:616341 ! Epileptic Encephalopathy, Early Infantile, 30
 is_a: Orphanet:1934 ! Early infantile epileptic encephalopathy
 is_a: Orphanet:1935 ! Early myoclonic encephalopathy
@@ -74347,10 +74155,6 @@ is_a: Orphanet:3322 ! Hoyeraal-Hreidarsson syndrome
 [Term]
 id: OMIM:616354 ! Spinocerebellar Ataxia, Autosomal Recessive 20
 equivalent_to: Orphanet:397709 ! Intellectual disability-coarse face-macrocephaly-cerebellar hypotrophy syndrome
-
-[Term]
-id: OMIM:616357 ! Deafness, Autosomal Dominant 40
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
 
 [Term]
 id: OMIM:616361 ! Parkinson Disease 21
@@ -74391,10 +74195,6 @@ is_a: Orphanet:178469 ! Autosomal dominant non-syndromic intellectual disability
 [Term]
 id: OMIM:616395 ! Trichothiodystrophy 3, Photosensitive
 is_a: Orphanet:33364 ! Trichothiodystrophy
-
-[Term]
-id: OMIM:616399 ! Brugada Syndrome 9
-is_a: Orphanet:130 ! Brugada syndrome
 
 [Term]
 id: OMIM:616400 ! Palmoplantar Keratoderma, Nonepidermolytic, Focal 2
@@ -74556,10 +74356,6 @@ id: OMIM:616511 ! Maturity-Onset Diabetes of the Young, Type 14
 is_a: Orphanet:552 ! MODY
 
 [Term]
-id: OMIM:616515 ! Deafness, Autosomal Recessive 104
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
 id: OMIM:616516 ! Emery-Dreifuss Muscular Dystrophy 3, Autosomal Recessive
 is_a: Orphanet:98855 ! Autosomal recessive Emery-Dreifuss muscular dystrophy
 
@@ -74685,14 +74481,6 @@ id: OMIM:616689 ! Dehydrated Hereditary Stomatocytosis 2; DHS2
 is_a: Orphanet:3202 ! Dehydrated hereditary stomatocytosis
 
 [Term]
-id: OMIM:616705 ! Deafness, Autosomal Recessive 97; DFNB97
-is_a: Orphanet:90636 ! Autosomal recessive non-syndromic sensorineural deafness type DFNB
-
-[Term]
-id: OMIM:616707 ! Deafness, Autosomal Dominant 68; DFNA68
-is_a: Orphanet:90635 ! Autosomal dominant non-syndromic sensorineural deafness type DFNA
-
-[Term]
 id: OMIM:616708 ! Desanto-Shinawi Syndrome; DESSH
 equivalent_to: Orphanet:284169 ! 10p11.21p12.31 microdeletion syndrome
 
@@ -74797,6 +74585,10 @@ equivalent_to: Orphanet:317473 ! Pancytopenia due to IKZF1 mutations
 [Term]
 id: OMIM:616882 ! Advanced Sleep Phase Syndrome, Familial, 3; FASPS3
 is_a: Orphanet:164736 ! Familial advanced sleep-phase syndrome
+
+[Term]
+id: OMIM:616887 ! Mental Retardation, Autosomal Recessive 52; MRT52
+is_a: Orphanet:88616 ! Autosomal recessive non-syndromic intellectual disability
 
 [Term]
 id: OMIM:616892 ! Nephrotic Syndrome, Type 12; NPHS12
@@ -75069,6 +74861,10 @@ is_a: OMIM:609284 ! Nemaline Myopathy 1
 is_a: OMIM:609285 ! Nemaline Myopathy 4
 
 [Term]
+id: Orphanet:172 ! Progressive familial intrahepatic cholestasis
+is_a: DOID:1852 ! intrahepatic cholestasis
+
+[Term]
 id: Orphanet:1768 ! Familial caudal dysgenesis
 is_a: OMIM:600145 ! Sacral Defect With Anterior Meningocele
 
@@ -75270,6 +75066,42 @@ id: Orphanet:228179 ! Autosomal dominant Charcot-Marie-Tooth disease type 2M
 is_a: OMIM:606482 ! Charcot-Marie-Tooth Disease, Dominant Intermediate B
 
 [Term]
+id: Orphanet:228329 ! CLN1 disease
+is_a: DOID:0110721 ! neuronal ceroid lipofuscinosis 1
+
+[Term]
+id: Orphanet:228340 ! CLN4A disease
+is_a: DOID:0110730 ! neuronal ceroid lipofuscinosis 4A
+
+[Term]
+id: Orphanet:228346 ! CLN3 disease
+is_a: DOID:0110731 ! neuronal ceroid lipofuscinosis 3
+
+[Term]
+id: Orphanet:228349 ! CLN2 disease
+is_a: DOID:0110726 ! neuronal ceroid lipofuscinosis 2
+
+[Term]
+id: Orphanet:228354 ! CLN8 disease
+is_a: DOID:0110723 ! neuronal ceroid lipofuscinosis 8
+
+[Term]
+id: Orphanet:228357 ! CLN9 disease
+is_a: DOID:0110733 ! neuronal ceroid lipofuscinosis 9
+
+[Term]
+id: Orphanet:228360 ! CLN5 disease
+is_a: DOID:0110728 ! neuronal ceroid lipofuscinosis 5
+
+[Term]
+id: Orphanet:228363 ! CLN6 disease
+is_a: DOID:0110729 ! neuronal ceroid lipofuscinosis 6
+
+[Term]
+id: Orphanet:228366 ! CLN7 disease
+is_a: DOID:0110722 ! neuronal ceroid lipofuscinosis 7
+
+[Term]
 id: Orphanet:228384 ! 5q14.3 microdeletion syndrome
 is_a: OMIM:613443 ! Mental Retardation, Autosomal Dominant 20
 
@@ -75321,6 +75153,7 @@ is_a: OMIM:251750 ! Microspherophakia And/Or Megalocornea, With Ectopia Lentis a
 [Term]
 id: Orphanet:2398 ! Multiple symmetric lipomatosis
 is_a: DOID:3137 ! multiple symmetrical lipomatosis
+is_a: NCIT:C4392 ! Cervical Symmetrical Lipomatosis
 
 [Term]
 id: Orphanet:240071 ! Classic progressive supranuclear palsy syndrome
@@ -75370,10 +75203,6 @@ is_a: DOID:2213 ! hemorrhagic disease
 [Term]
 id: Orphanet:248408 ! Familial hypodysfibrinogenemia
 is_a: OMIM:616004 ! Dysfibrinogenemia, Congenital
-
-[Term]
-id: Orphanet:2510 ! Micro syndrome
-is_a: DOID:0060237 ! Warburg micro syndrome
 
 [Term]
 id: Orphanet:251262 ! Familial osteochondritis dissecans
@@ -75742,6 +75571,10 @@ id: Orphanet:313 ! Lamellar ichthyosis
 is_a: OMIM:242300 ! Ichthyosis, Congenital, Autosomal Recessive 1
 
 [Term]
+id: Orphanet:314629 ! CLN11 disease
+is_a: DOID:0110732 ! neuronal ceroid lipofuscinosis 11
+
+[Term]
 id: Orphanet:314632 ! Parkinsonism due to ATP13A2 deficiency
 is_a: OMIM:606693 ! Kufor-Rakeb Syndrome
 
@@ -75757,6 +75590,10 @@ is_a: OMIM:254500 ! Myeloma, Multiple
 [Term]
 id: Orphanet:314721 ! Atypical dentin dysplasia due to SMOC2 deficiency
 is_a: OMIM:125400 ! Dentin Dysplasia, Type 1
+
+[Term]
+id: Orphanet:314777 ! Familial isolated pituitary adenoma
+is_a: OMIM:102200 ! Pituitary Adenoma, Growth Hormone-Secreting, 1
 
 [Term]
 id: Orphanet:316 ! Progressive symmetric erythrokeratodermia
@@ -75853,10 +75690,6 @@ id: Orphanet:3322 ! Hoyeraal-Hreidarsson syndrome
 is_a: OMIM:305000 ! Dyskeratosis Congenita, X-Linked
 
 [Term]
-id: Orphanet:33226 ! WaldenstrC6m macroglobulinemia
-is_a: DOID:0050747 ! lymphoplasmacytic lymphoma
-
-[Term]
 id: Orphanet:3332 ! Hypoplastic tibiae-postaxial polydactyly syndrome
 is_a: OMIM:188740 ! Tibia, Hypoplasia or Aplasia Of, With Polydactyly
 
@@ -75895,6 +75728,10 @@ is_a: OMIM:600775 ! Craniosynostosis 4
 [Term]
 id: Orphanet:352596 ! Progressive myoclonic epilepsy with dystonia
 is_a: OMIM:615338 ! Epileptic Encephalopathy, Early Infantile, 16
+
+[Term]
+id: Orphanet:352709 ! CLN13 disease
+is_a: DOID:0110727 ! neuronal ceroid lipofuscinosis 13
 
 [Term]
 id: Orphanet:352737 ! Temperature-sensitive oculocutaneous albinism type 1
@@ -76110,7 +75947,7 @@ id: Orphanet:447760 ! Autosomal recessive complex spastic paraplegia type 9B
 is_a: OMIM:616586 ! Spastic Paraplegia 9B, Autosomal Recessive
 
 [Term]
-id: Orphanet:447896 ! Tremor-ataxia-central hypomyelination syndrome
+id: Orphanet:447893 ! Hypomyelination-cerebellar atrophy-hypoplasia of the corpus callosum syndrome
 is_a: DOID:0060794 ! hypomyelinating leukodystrophy 7 with or without oligodontia and-or hypogonadotropic hypogonadism
 is_a: OMIM:607694 ! Leukodystrophy, Hypomyelinating, 7, With or Without Oligodontia And/Or Hypogonadotropic Hypogonadism
 
@@ -76244,7 +76081,6 @@ is_a: DOID:0050663 ! Bethlem myopathy
 [Term]
 id: Orphanet:618 ! Familial melanoma
 is_a: DOID:1909 ! melanoma
-is_a: OMIM:155600 ! CMM1
 
 [Term]
 id: Orphanet:624 ! Familial multiple nevi flammei
@@ -76265,10 +76101,6 @@ is_a: MESH:D009456 ! Neurofibromatosis 1
 [Term]
 id: Orphanet:64280 ! Childhood absence epilepsy
 is_a: OMIM:611136 ! Epilepsy, Idiopathic Generalized, Susceptibility To, 13
-
-[Term]
-id: Orphanet:646 ! Niemann-Pick disease type C
-is_a: DOID:14504 ! Niemann-Pick disease
 
 [Term]
 id: Orphanet:65285 ! Lhermitte-Duclos disease
@@ -76398,10 +76230,6 @@ id: Orphanet:75234 ! Cholesteryl ester storage disease
 is_a: OMIM:278000 ! Lysosomal Acid Lipase Deficiency
 
 [Term]
-id: Orphanet:75249 ! Familial isolated restrictive cardiomyopathy
-is_a: DOID:397 ! restrictive cardiomyopathy
-
-[Term]
 id: Orphanet:75381 ! Cystoid macular dystrophy
 is_a: DOID:4449 ! macular retinal edema
 
@@ -76422,6 +76250,10 @@ id: Orphanet:77258 ! Trichorhinophalangeal syndrome type 1 and 3
 is_a: OMIM:190350 ! Trichorhinophalangeal Syndrome, Type 1
 
 [Term]
+id: Orphanet:77292 ! Niemann-Pick disease type A
+is_a: DOID:14504 ! Niemann-Pick disease
+
+[Term]
 id: Orphanet:77293 ! Niemann-Pick disease type B
 is_a: DOID:14504 ! Niemann-Pick disease
 
@@ -76436,6 +76268,10 @@ is_a: OMIM:614879 ! Peroxisome Biogenesis Disorder 9B
 [Term]
 id: Orphanet:78 ! Ankylostomiasis
 is_a: MESH:D006725 ! Hookworm Infections
+
+[Term]
+id: Orphanet:79095 ! Congenital bile acid synthesis defect type 4
+is_a: DOID:0050674 ! congenital bile acid synthesis defect
 
 [Term]
 id: Orphanet:79126 ! Acute interstitial pneumonia
@@ -76454,16 +76290,8 @@ id: Orphanet:79230 ! Hemochromatosis type 2
 is_a: DOID:2352 ! hemochromatosis
 
 [Term]
-id: Orphanet:79262 ! Adult neuronal ceroid lipofuscinosis
-is_a: DOID:14503 ! neuronal ceroid lipofuscinosis
-
-[Term]
 id: Orphanet:79281 ! Alpha-N-acetylgalactosaminidase deficiency type 3
 is_a: OMIM:609241 ! Schindler Disease, Type 1
-
-[Term]
-id: Orphanet:79301 ! Congenital bile acid synthesis defect type 1
-is_a: DOID:0050674 ! congenital bile acid synthesis defect
 
 [Term]
 id: Orphanet:79312 ! Vitamin B12-unresponsive methylmalonic acidemia type mut-
@@ -76569,6 +76397,7 @@ is_a: DOID:0050590 ! severe congenital neutropenia
 [Term]
 id: Orphanet:871 ! Familial progressive cardiac conduction defect
 is_a: OMIM:115080 ! Cardiac Conduction Defect
+is_a: OMIM:612838 ! Brugada Syndrome 5
 
 [Term]
 id: Orphanet:876 ! Yolk sac tumor
@@ -76669,7 +76498,6 @@ is_a: OMIM:613091 ! Short-Rib Thoracic Dysplasia 3 With or Without Polydactyly
 
 [Term]
 id: Orphanet:93270 ! Short rib-polydactyly syndrome, Saldino-Noonan type
-is_a: DOID:0110087 ! asphyxiating thoracic dystrophy 3
 is_a: OMIM:613091 ! Short-Rib Thoracic Dysplasia 3 With or Without Polydactyly
 
 [Term]
@@ -76723,10 +76551,6 @@ is_a: DOID:263 ! kidney cancer
 [Term]
 id: Orphanet:93921 ! Neurofibromatosis type 3
 is_a: DOID:8712 ! neurofibromatosis
-
-[Term]
-id: Orphanet:93930 ! Bladder exstrophy
-is_a: OMIM:600057 ! Exstrophy of Bladder
 
 [Term]
 id: Orphanet:93937 ! Terminal transverse defects of arm
@@ -76791,6 +76615,10 @@ is_a: OMIM:238320 ! Leydig Cell Hypoplasia, Type 1
 [Term]
 id: Orphanet:96266 ! Leydig cell hypoplasia due to partial LH resistance
 is_a: OMIM:238320 ! Leydig Cell Hypoplasia, Type 1
+
+[Term]
+id: Orphanet:963 ! Acromegaly
+is_a: OMIM:102200 ! Pituitary Adenoma, Growth Hormone-Secreting, 1
 
 [Term]
 id: Orphanet:970 ! Hereditary sensory and autonomic neuropathy type 2
@@ -76930,16 +76758,16 @@ id: Orphanet:99022 ! Niemann-Pick disease type E
 is_a: OMIM:607616 ! Niemann-Pick Disease, Type B
 
 [Term]
-id: Orphanet:99054 ! Valvular pulmonary stenosis
-is_a: MESH:D011666 ! Pulmonary Valve Stenosis
-
-[Term]
 id: Orphanet:99361 ! Familial medullary thyroid carcinoma
 is_a: DOID:3973 ! thyroid medullary carcinoma
 
 [Term]
 id: Orphanet:99429 ! Complete androgen insensitivity syndrome
 is_a: OMIM:300068 ! Androgen Insensitivity Syndrome
+
+[Term]
+id: Orphanet:99725 ! Pituitary gigantism
+is_a: OMIM:102200 ! Pituitary Adenoma, Growth Hormone-Secreting, 1
 
 [Term]
 id: Orphanet:99734 ! Myotonia fluctuans
@@ -77004,7 +76832,7 @@ is_a: OMIM:273300 ! Testicular Germ Cell Tumor
 
 [Term]
 id: Orphanet:99868 ! Thymic carcinoma
-is_a: NCIT:C7569 ! Thymic Carcinoma
+is_a: DOID:3284 ! thymic carcinoma
 
 [Term]
 id: Orphanet:99875 ! Ehlers-Danlos syndrome type 7A

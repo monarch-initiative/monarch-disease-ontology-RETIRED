@@ -15,6 +15,8 @@
 0.0 MESH_D008649 Mesonephroma EquivalentTo DOID_4468 clear cell adenocarcinoma
 1.0 OMIM_609814 Complement Factor H Deficiency SiblingOf Orphanet_93571 Dense deposit disease
 0.9 OMIM_614592 Bent Bone Dysplasia Syndrome SiblingOf DOID_10591 pre-eclampsia
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/94
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo MESH_D012174 Retinitis Pigmentosa
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo Orphanet_791 Retinitis Pigmentosa
 0.95 DOID_3429 inclusion body myositis EquivalentTo MESH_D018979 Myositis, Inclusion Body
@@ -93,6 +95,7 @@
 0.9 DOID_4947 cholangiocarcinoma EquivalentTo MESH_D018281 Cholangiocarcinoma
 0.9 MESH_D001650 Bile Duct Neoplasms EquivalentTo MESH_D001650 Bile Duct Neoplasms
 ### See https://github.com/monarch-initiative/monarch-disease-ontology/issues/158
+##   and https://github.com/monarch-initiative/monarch-disease-ontology/issues/94
 0.75 OMIM_179900 Retinal Aplasia SubClassOf Orphanet_65 Leber congenital amaurosis      
 0.75 OMIM_604232 Leber Congenital Amaurosis 3 SubClassOf Orphanet_791 Retinitis pigmentosa      
 0.75 OMIM_604393 Leber Congenital Amaurosis 4 SubClassOf Orphanet_791 Retinitis pigmentosa      
@@ -125,3 +128,9 @@
 0.95 OMIM_123400 Creutzfeldt-Jakob Disease EquivalentTo Orphanet_282166 Inherited Creutzfeldt-Jakob disease
 0.95 Orphanet_204 Sporadic Creutzfeldt-Jakob disease EquivalentTo MESH_C565143 Creutzfeldt-Jakob Disease, Sporadic
 0.95 Orphanet_454700 Acquired Creutzfeldt-Jakob disease EquivalentTo MESH_C538481 Acquired CJD
+#
+# https_//en.wikipedia.org/wiki/Nonsyndromic_deafness
+1.0 DOID_0050564 autosomal dominant nonsyndromic deafness EquivalentTo Orphanet_90635 Autosomal dominant non-syndromic sensorineural deafness type DFNA
+1.0 DOID_0050565 autosomal recessive nonsyndromic deafness EquivalentTo Orphanet_90636 Autosomal recessive non-syndromic sensorineural deafness type DFNB
+1.0 DOID_0050566 X-linked nonsyndromic deafness EquivalentTo Orphanet_90625 X-linked non-syndromic sensorineural deafness type DFN
+0.95 DOID_0050563 nonsyndromic deafness EquivalentTo Orphanet_87884 Non-syndromic genetic deafness

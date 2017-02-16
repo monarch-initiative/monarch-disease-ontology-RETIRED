@@ -432,7 +432,6 @@ blip-findall  -i orphanet-logrel.pro -r ordo -r omim "logrel(A,B,ntbt),subclass(
 231     Orphanet:377788 ! disease
 
   
-  
   */
 
 
@@ -471,6 +470,32 @@ pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
         !.
 
 %% ========================================
+%% scoring based on probabilstic axiomatization
+%% ========================================
+pair_relationship_scores_paxiom(A,B,m(hered,1,1,1,15)) :-
+        class(A,AN),
+        id_idspace(B,'OMIM'),
+        % non-hereditary class should not be linked to OMIM
+        downcase_atom(AN,AN2),
+        hered(T,false),
+        sub_atom(AN2,_,_,_,T),
+        class(B,BN),
+        downcase_atom(BN,BN2),
+        % we make an exception for the small number of cases in omim
+        % where there are idiopathic
+        \+ sub_atom(BN2,_,_,_,T),
+        !.
+
+hered(idiopathic,false).
+hered(sporadic,false).
+hered('non-hereditary',false).
+
+hered(hereditary,true).
+hered(familial,true).
+hered(genetic,true).
+
+
+%% ========================================
 %% score aggregation
 %% ========================================
 
@@ -493,6 +518,10 @@ pair_relationship_scores(A,B,ST) :-
 pair_relationship_scores(A,B,ST) :-
         %% ontology
         pair_relationship_scores_ont(A,B,ST).
+
+pair_relationship_scores(A,B,ST) :-
+        %% prob axiom
+        pair_relationship_scores_paxiom(A,B,ST).
 
 
 
