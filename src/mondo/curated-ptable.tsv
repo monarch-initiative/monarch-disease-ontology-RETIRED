@@ -127,3 +127,5 @@
 0.95 Orphanet_454700 Acquired Creutzfeldt-Jakob disease EquivalentTo MESH_C538481 Acquired CJD
 
 1.0 OMIM_217090	 Plasminogen Deficiency, Type 1 SiblingOf Orphanet_97231 Ligneous conjunctivitis
+
+1.0 Orphanet_2836 PEHO Syndrome SiblingOf Orphanet_99807 PEHO-like Syndrome
