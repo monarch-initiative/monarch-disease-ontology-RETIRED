@@ -5,6 +5,9 @@ all: set-1.obo linked-1.obo mondo.obo mondo.owl unlikely.md
 test:
 	owltools mondo.obo --run-reasoner -r elk -u
 
+# ----------------------------------------
+# Upstream processed ontologies
+# ----------------------------------------
 OMIM_OBO=../omim/omim.obo
 OMIA_OBO=../omia/omia.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
@@ -20,9 +23,9 @@ GARD_OBO=../gard/gard.obo
 GARD_XREFS=../gard/gard-xrefs.obo
 MEDGEN = ../medgen/medgen-disease-extract.obo
 
-## --
-## INITIAL INPUTS: ONTOLOGY
-## --
+# ----------------------------------------
+# INITIAL INPUTS: ONTOLOGY
+# ----------------------------------------
 # Union of:
 #  - DO
 #  - ORDO (is_a version)
@@ -41,45 +44,53 @@ set-%.owl: set-%.obo
 	owltools $< -o $@
 .PRECIOUS: set-%.owl
 
-## --
-## INITIAL INPUTS: PROBABILISTIC EDGES
-## --
-# translate xrefs to estimates of prior probabilities of equivalence
+# ----------------------------------------
+# INITIAL INPUTS: PROBABILISTIC EDGES
+# ----------------------------------------
+# translate xrefs to estimates of prior probabilities / weights of equivalence
 set-%-ptable.tsv: set-%.obo
 	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -i $(ORDO_LOGREL) -consult probmatch.pro xref_ptable/6 -no_pred > $@.tmp && mv $@.tmp $@
 .PRECIOUS: set-%-ptable.tsv
 
+# as above, but with labels, and a breakdown of contributing individual probabilities
 set-%-ptable-debug.tsv: set-%.obo
 	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -i $(ORDO_LOGREL) -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@.tmp && mv $@.tmp $@
 
+# merge curated and automated weights
 set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv 
 	fix-probs.pl $^ > $@.tmp && mv $@.tmp $@
 
-## --
-## kBOOM - MERGE ONTOLOGIES
-## --
+# ----------------------------------------
+# kBOOM - MERGE ONTOLOGIES
+# ----------------------------------------
 
-# lBOOM parameters
-# MAX_E := 9  -- failing..?
-#MAX_E := 9
+# kBOOM parameters
 MAX_E := 8
 
+# this is the primary output of kboom: selection of most likely configuration of
+# axioms from the initial weighted set of hypothetical/candidate axioms
 linked-%.owl: set-%-amended-ptable.tsv set-%.owl
 	kboom --experimental  --splitSize 50 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^
 .PRECIOUS: linked-%.owl
 
-kboom-neoplasm.owl: set-1-amended-ptable.tsv set-1.owl
-	kboom --experimental -r DOID:14566 --splitSize 200 --max 9 -m linked-neoplasm-rpt.md -j linked-neoplasm-rpt.json -n -o $@ -t $^
-
-check-%: linked-%.owl
-	grep  'Success:false' linked-$*-rpt.md && exit 1 || echo 'all cliques have a satisfiable solution' > $@
-
-linked-%.obo: linked-%.owl check-%
-	owltools $< --set-ontology-id $(OBO)/$@ -o -f obo $@.tmp && obo-add-comments.pl -t id -t equivalent_to -t is_a set-$*.obo $@.tmp > $@
-
+# this allows execution of kboom on any given clique; for debugging
 test-%.owl: set-1-amended-ptable.tsv set-1.owl
 	kboom --experimental -c $*  --splitSize 9999 --max $(MAX_E) -m linked-$*-rpt.md -j linked-$*-rpt.json -n -o $@ -t $^ >& test-$*-debug.txt
 
+# special-purpose target for neoplasm experiment
+# (note this ends up incorporating a large subset of set-1)
+kboom-neoplasm.owl: set-1-amended-ptable.tsv set-1.owl
+	kboom --experimental -r DOID:14566 --splitSize 200 --max 9 -m linked-neoplasm-rpt.md -j linked-neoplasm-rpt.json -n -o $@ -t $^
+
+# do not proceed if unsats
+check-%: linked-%.owl
+	grep  'Success:false' linked-$*-rpt.md && exit 1 || echo 'all cliques have a satisfiable solution' > $@
+
+# obo is good for debugging
+linked-%.obo: linked-%.owl check-%
+	owltools $< --set-ontology-id $(OBO)/$@ -o -f obo $@.tmp && obo-add-comments.pl -t id -t equivalent_to -t is_a set-$*.obo $@.tmp > $@
+
+# reporting:
 # use pandoc to convert markdown to html
 linked-%-rpt.md: linked-%.owl
 %-rpt.html: %-rpt.md
@@ -88,16 +99,30 @@ linked-%-rpt.md: linked-%.owl
 debug-%.owl: set-1.owl linked-1.obo
 	owltools $^ --merge-support-ontologies -o $@
 
+# ----------------------------------------
+# post-kBOOM processing: MERGE ONTOLOGIES
+# ----------------------------------------
 # Merging most probable axioms plus original ontologies
+
+# when merging an equivalence clique, one ID 'wins' as being clique leader;
+# also, each class has a single primary label, and single def.
+# A cascading priorty list is used for each
 PRIORITIES_ID := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
 PRIORITIES_LABEL := -l DOID 10 -l NCIT 8 -l Orphanet 5  -l OMIM 3 -l MESH 1
 PRIORITIES_DEF := -d Orphanet 10 -d NCIT 8 -d DOID 5  -d MESH 3 -d OMIM 1
+
+
+# we need to subtract out the injection of PATO into NCIT;
+# the kboom procedure is not guaranteed to produce a final coherent ontology,
+# as each clique is solved independently.
+# TODO: topologically sort cliques
+POST_KBOOM_FILTER= --subtract $(SUBTRACT_ONTS)  ../ncit/neoplasticity.rdf --remove-classes-in-idspace PATO --remove-dangling --remove-axioms -t DisjointClasses 
 
 # we do not include omia in set-1, as it's xrefs are potentially problematic
 #OTHERS_TO_MERGE := $(OMIA_OBO)
 OTHERS_TO_MERGE := 
 lmerged-%.owl: set-%.owl linked-%.owl $(OTHERS_TO_MERGE)
-	owltools $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets $(PRIORITIES_ID) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --set-ontology-id $(OBO)/mondo/$@ -o $@
+	owltools $^ --merge-support-ontologies $(POST_KBOOM_FILTER) --reasoner elk --merge-equivalence-sets $(PRIORITIES_ID) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --set-ontology-id $(OBO)/mondo/$@ -o $@
 .PRECIOUS: lmerged-%.owl
 
 lmerged-%.obo: lmerged-%.owl
@@ -138,9 +163,9 @@ unlikely.md: linked-1-rpt.md
 entailed-in-doid.txt: 
 	owltools $(DOID_OBO) linked-1.owl set-1.owl --spike-and-reason > $@.tmp && mv $@.tmp $@
 
-## --
+# ----------------------------------------
 ## OMIM-clusters (maintained by MGI and Monarch)
-## --
+# ----------------------------------------
 
 # TODO: this can all be simplified post moving to kBOOM
 
@@ -174,9 +199,9 @@ omim-genes.obo: $(OMIM_OBO)
 omc-minimal.obo: omc-mapped-to-do.obo omim-genes.obo $(DOID_OBO)
 	obo-subtract.pl $< $(DOID_OBO) omim-genes.obo  > $@.tmp && obo-grep.pl --neg -r is_obsolete $@.tmp > $@
 
-## --
+# ----------------------------------------
 ## OMIM Phenotypic Series
-## --
+# ----------------------------------------
 
 omim-leaf.obo: $(OMIM_OBO)
 	obo-grep.pl --neg -r 'id: OMIM:PS' $< > $@.tmp && grep -v ^owl-ax $@.tmp | grep -v ^is_a > $@
@@ -187,9 +212,9 @@ omimps.obo: $(OMIM_OBO)
 omimps-min.obo: $(OMIM_OBO)
 	grep -v ^def: $< | obo-grep.pl -r 'OMIM:PS' - > $@.tmp && grep -v ^owl-ax $@.tmp > $@
 
-## --
+# ----------------------------------------
 ## Textual alignment based on labels/syns
-## --
+# ----------------------------------------
 # NOTE: Consider moving this to a different folder.
 # For now we primarily use assrted xrefs, and perform additional lexical scoring of these using probmatch
 
@@ -249,9 +274,9 @@ mondo-medgen-equiv.owl: mondo-medgen-equiv.tsv
 	owltools --create-ontology $(OBO)/mondo/$@.tmp --parse-tsv  -a EquivalentClasses $< --extract-axioms -t EquivalentClasses --set-ontology-id $(OBO)/mondo/$@ -o -f ofn $@
 
 
-## --
+# ----------------------------------------
 ## Extract xrefs
-## --
+# ----------------------------------------
 
 
 xrefs-ordo-to-%.obo: align-ordo-to-%.tsv
@@ -270,9 +295,9 @@ isa-%.obo: align-%.tsv
 mesh.obo: ../medic/CTD_diseases.obo
 	perl -npe 's@\s+EXACT\s+@ RELATED @ if m@^synonym@' $< > $@ && add-ontology-tag.pl $@ mesh
 
-## --
+# ----------------------------------------
 ## EXPERIMENTAL
-## --
+# ----------------------------------------
 
 br08901.keg:
 	wget 'http://www.genome.jp/kegg-bin/download_htext?htext=br08901.keg&format=htext'  -O $@

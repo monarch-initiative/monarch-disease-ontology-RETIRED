@@ -18,5 +18,6 @@ while(<>) {
     }
     s@^alt_id:@xref:@;
     s@ EXACT @ RELATED @;
+    s@^xref: DO:DOID@xref: DOID@;
     print "$_\n";
 }

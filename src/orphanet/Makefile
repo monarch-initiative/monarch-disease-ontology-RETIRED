@@ -8,7 +8,7 @@ all: orphanet-obostyle.obo orphanet-phenome-obostyle.obo
 orphanet-orig.owl:
 	wget -nd -P download http://www.orphadata.org/data/ORDO/ordo_orphanet.owl.zip
 	unzip  download/ordo_orphanet.owl.zip -d download && rm download/ordo_orphanet*.zip
-	mv download/ordo_orphanet.owl $@
+	mv download/orphadata.owl $@
 	touch $@
 
 # use OBO tags/vocabulary; keep hierarchy in place
