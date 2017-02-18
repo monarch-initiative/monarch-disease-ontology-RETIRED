@@ -3,6 +3,8 @@
 
 ## MonDO
 
+[![Join the chat at https://gitter.im/monarch-disease-ontology/Lobby](https://badges.gitter.im/monarch-disease-ontology/Lobby.svg)](https://gitter.im/monarch-disease-ontology/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MonDO (Monarch Disease Ontology) is a semi-automatically constructed
 ontology that merges in multiple disease resources to yield a coherent
 merged ontology.

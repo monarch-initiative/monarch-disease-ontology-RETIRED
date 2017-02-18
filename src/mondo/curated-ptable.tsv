@@ -134,3 +134,6 @@
 1.0 DOID_0050565 autosomal recessive nonsyndromic deafness EquivalentTo Orphanet_90636 Autosomal recessive non-syndromic sensorineural deafness type DFNB
 1.0 DOID_0050566 X-linked nonsyndromic deafness EquivalentTo Orphanet_90625 X-linked non-syndromic sensorineural deafness type DFN
 0.95 DOID_0050563 nonsyndromic deafness EquivalentTo Orphanet_87884 Non-syndromic genetic deafness
+1.0 OMIM_217090	 Plasminogen Deficiency, Type 1 SiblingOf Orphanet_97231 Ligneous conjunctivitis
+1.0 Orphanet_2836 PEHO Syndrome SiblingOf Orphanet_99807 PEHO-like Syndrome
+
