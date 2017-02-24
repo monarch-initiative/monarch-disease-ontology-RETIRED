@@ -1,6 +1,6 @@
 OBO=http://purl.obolibrary.org/obo
 
-DOIDSRC = https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid-non-classified.obo
+DOIDSRC = https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/master/src/ontology/doid.obo
 
 doid.obo: doid_orig.obo
 	fix-xrefs.pl $< | ./fix-synonyms.pl > $@
