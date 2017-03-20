@@ -24,9 +24,9 @@ Each disease resource or ontology is pre-processed. In some cases, only a subset
 
  * ORDO/Orphanet
  * DO
- * [GARD](gard/README.md) -- aligned as post-processing step
+ * [GARD](src/gard/README.md) -- aligned as post-processing step
  * OMIM -- note we only use labels from OMIM
- * [MedGen](medgen/README.md) -- not yet incorporated
+ * [MedGen](src/medgen/README.md) -- not yet incorporated
  * NCIT -- aligned as post-processing step
  * OMIA -- Mendelian diseases in non-human animals
  * MESH -- We use MEDIC as our initial pre-processed set
