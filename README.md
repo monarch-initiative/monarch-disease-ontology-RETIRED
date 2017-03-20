@@ -30,7 +30,7 @@ Each disease resource or ontology is pre-processed. In some cases, only a subset
  * NCIT -- aligned as post-processing step
  * OMIA -- Mendelian diseases in non-human animals
  * MESH -- We use MEDIC as our initial pre-processed set
- * [DiseaseClusters](src/clusters/README.md) -- Additional groupings of OMIM. Includes DECIPHER.
+ * [DiseaseClusters](README-editors.md) -- Additional groupings of OMIM. Includes DECIPHER.
 
 ### Translating mappings to weighted candidate axioms
 
