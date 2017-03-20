@@ -22,14 +22,14 @@ See the Makefile in the [src/ontology](src/ontology) directory for the execution
 
 Each disease resource or ontology is pre-processed. In some cases, only a subset of the ontology is used
 
- * [ORDO/Orphanet](orphanet/README.md)
- * [DO](doid/README.md)
+ * ORDO/Orphanet
+ * DO
  * [GARD](gard/README.md) -- aligned as post-processing step
- * [OMIM](omim/README.md) -- note we only use labels from OMIM
- * [MedGeb](medgen/README.md) -- not yet incorporated
- * [NCIT](ncit/README.md) -- aligned as post-processing step
- * [OMIA](omia/README.md) -- Mendelian diseases in non-human animals
- * [MESH](medic/README.md) -- We use MEDIC as our initial pre-processed set
+ * OMIM -- note we only use labels from OMIM
+ * [MedGen](medgen/README.md) -- not yet incorporated
+ * NCIT -- aligned as post-processing step
+ * OMIA -- Mendelian diseases in non-human animals
+ * MESH -- We use MEDIC as our initial pre-processed set
  * [DiseaseClusters](clusters/README.md) -- Additional groupings of OMIM. Includes DECIPHER.
 
 ### Translating mappings to weighted candidate axioms
