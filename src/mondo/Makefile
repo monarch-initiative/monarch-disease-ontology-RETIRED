@@ -34,7 +34,7 @@ MEDGEN = ../medgen/medgen-disease-extract.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xrefs-doid-to-mesh.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo xrefs-ordo-to-neoplasm.obo xrefs-omc-to-neoplasm.obo
+set-1.obo: mondo_base.obo $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xrefs-doid-to-mesh.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo xrefs-ordo-to-neoplasm.obo xrefs-omc-to-neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
 foobar:
@@ -149,6 +149,9 @@ equiv_axioms.owl: linked-1.owl mondo-medgen-equiv.owl
 
 mondo.owl: mondo.obo equiv_axioms.owl
 	owltools $^ --merge-support-ontologies -o $@.tmp && ./fix-ordo-uris.pl $@.tmp > $@
+
+mondo.json: mondo.owl
+	owltools $< -o -f json $@
 
 # the obo file usually excludes equivs; this includes them
 mondoe.obo: mondo.owl
