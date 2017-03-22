@@ -33,3 +33,7 @@ orphanet_xp.obo: orphanet-slim.obo
 
 orphanet-logrel.pro: orphanet-obostyle.obo
 	./xref2logic.pl $< > $@
+
+# from dipper
+orphanet.ttl:
+	wget --no-check-certificate https://data.monarchinitiative.org/ttl/orphanet.ttl -O $@
