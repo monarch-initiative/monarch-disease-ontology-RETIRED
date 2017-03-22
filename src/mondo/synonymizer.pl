@@ -1,6 +1,11 @@
 #!/usr/bin/perl
 my ($init,$last);
 while(<>) {
+    # very hacky fix for https://github.com/monarch-initiative/monarch-disease-ontology/issues/215
+    # we need to fix upstream problem as we can't hope to catch all cases this way
+    s@MC<llerian@Mullerian@;
+    s@WaldenstrC6m@Waldenstrom@;
+    
     print $_;
     chomp;
     if (m@^name: (.*)@) {
