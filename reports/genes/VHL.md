@@ -6,20 +6,62 @@
 
 
 ### POLYCYTHEMIA, CHUVASH TYPE
- * [OMIM:263400 Erythrocytosis, Familial, 2](http://beta.monarchinitiative.org/disease/OMIM:263400) Confidence: high
+ * [OMIM:263400 Chuvash polycythemia](http://beta.monarchinitiative.org/disease/OMIM:263400) Confidence: high
+    * Equiv:[Orphanet:238557 Chuvash erythrocytosis](http://beta.monarchinitiative.org/disease/Orphanet:238557)
+    * Equiv:[DOID:0060474 -](http://beta.monarchinitiative.org/disease/DOID:0060474)
     * Equiv:[MESH:C563918 Erythrocytosis, Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C563918)
+    * Syn: "autosomal recessive benign erythrocytosis"
+    * Syn: "Chuvash erythromatosis"
+    * Syn: "Chuvash polycythemia"
+    * Syn: "Chuvash type polycythemia"
     * Syn: "ECYT2"
     * Syn: "Erythrocytosis, Autosomal Recessive Benign"
     * Syn: "ERYTHROCYTOSIS, FAMILIAL, 2; ECYT2"
     * Syn: "Polycythemia, Chuvash Type"
+    * Syn: "Polycythemia, VHL-Dependent"
     * Syn: "Polycythemia, Vhl-Dependent"
+    * Syn: "Von Hippel-Lindau-dependent polycythemia"
 
 ### Von Hippel-Lindau syndrome
  * [OMIM:193300 von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/OMIM:193300) Confidence: high
+    * Equiv:[Orphanet:892 Von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/Orphanet:892)
     * Equiv:[DOID:14175 von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/DOID:14175)
     * Equiv:[MESH:D006623 von Hippel-Lindau Disease](http://beta.monarchinitiative.org/disease/MESH:D006623)
+    * Syn: "Angiomatoses, Familial Cerebello-Retinal"
+    * Syn: "Angiomatoses, Familial Cerebelloretinal"
+    * Syn: "Angiomatosis Retinae"
+    * Syn: "Angiomatosis, Familial Cerebello-Retinal"
+    * Syn: "Angiomatosis, Familial Cerebelloretinal"
+    * Syn: "Cerebello-Retinal Angiomatoses, Familial"
+    * Syn: "Cerebello-Retinal Angiomatosis, Familial"
+    * Syn: "Cerebelloretinal Angiomatoses, Familial"
+    * Syn: "Cerebelloretinal Angiomatosis, Familial"
+    * Syn: "Familial Cerebello Retinal Angiomatosis"
+    * Syn: "Familial Cerebello-Retinal Angiomatoses"
+    * Syn: "Familial Cerebello-Retinal Angiomatosis"
+    * Syn: "Familial Cerebelloretinal Angiomatoses"
+    * Syn: "Familial Cerebelloretinal Angiomatosis"
+    * Syn: "Familial cerebelloretinal angiomatosis"
+    * Syn: "Hippel Lindau Disease"
     * Syn: "Hippel Lindau syndrome"
+    * Syn: "Hippel-Lindau Disease"
+    * Syn: "Lindau Disease"
+    * Syn: "Lindau disease"
+    * Syn: "Lindau's Disease"
+    * Syn: "Lindau's Diseases"
+    * Syn: "Lindaus Disease"
+    * Syn: "Retinae, Angiomatosis"
+    * Syn: "Syndrome, VHL"
+    * Syn: "Syndrome, von Hippel-Lindau"
+    * Syn: "Syndromes, VHL"
     * Syn: "VHL"
+    * Syn: "VHL"
+    * Syn: "VHL Syndrome"
+    * Syn: "VHL Syndromes"
+    * Syn: "von Hippel Lindau Disease"
+    * Syn: "von Hippel Lindau Syndrome"
+    * Syn: "Von Hippel-Lindau syndrome"
+    * Syn: "von Hippel-Lindau Syndrome"
     * Syn: "von Hippel-Lindau syndrome"
     * Syn: "Von Hippel-Lindau syndrome (disorder)"
     * Syn: "Von Hippel-Lindau syndrome (VHL)"
@@ -28,55 +70,243 @@
 
 ### Congenital Polycythemia
  * [DOID:8432 polycythemia](http://beta.monarchinitiative.org/disease/DOID:8432) Confidence: low/0.15625
+    * Equiv:[MESH:D011086 Polycythemia](http://beta.monarchinitiative.org/disease/MESH:D011086)
+    * Equiv:[Orphanet:98427 Polycythemia](http://beta.monarchinitiative.org/disease/Orphanet:98427)
     * Syn: "Erythrocythemia"
+    * Syn: "Erythrocytoses"
+    * Syn: "Erythrocytosis"
+    * Syn: "Polycythemias"
 
 ### Neoplastic Syndromes, Hereditary
  * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+    * Syn: "Cancer Syndrome, Hereditary"
+    * Syn: "Cancer Syndromes, Hereditary"
+    * Syn: "Hereditary Cancer Syndrome"
+    * Syn: "Hereditary Cancer Syndromes"
+    * Syn: "Hereditary Neoplastic Syndrome"
+    * Syn: "Hereditary Neoplastic Syndromes"
+    * Syn: "Neoplastic Syndrome, Hereditary"
+    * Syn: "Syndrome, Hereditary Cancer"
+    * Syn: "Syndrome, Hereditary Neoplastic"
+    * Syn: "Syndromes, Hereditary Cancer"
+    * Syn: "Syndromes, Hereditary Neoplastic"
 
 ### Polycythaemia
  * [OMIM:263300 polycythemia vera](http://beta.monarchinitiative.org/disease/OMIM:263300) Confidence: low/0.09375
+    * Equiv:[Orphanet:729 Polycythemia vera](http://beta.monarchinitiative.org/disease/Orphanet:729)
     * Equiv:[DOID:8997 polycythemia vera](http://beta.monarchinitiative.org/disease/DOID:8997)
     * Equiv:[MESH:D011087 Polycythemia Vera](http://beta.monarchinitiative.org/disease/MESH:D011087)
+    * Syn: "Acquired primary erythocytosis"
+    * Syn: "Disease, Osler-Vaquez"
+    * Syn: "Erythremia"
+    * Syn: "Erythremia"
     * Syn: "Erythremia (morphologic abnormality)"
+    * Syn: "Erythremias"
+    * Syn: "Osler Vaquez Disease"
+    * Syn: "Osler-Vaquez Disease"
+    * Syn: "Osler-Vaquez disease"
     * Syn: "Osler-Vaquez syndrome"
     * Syn: "Polycythaemia rubra vera"
+    * Syn: "Polycythemia Ruba Vera"
     * Syn: "Polycythemia Rubra Vera"
+    * Syn: "Polycythemia rubra vera"
+    * Syn: "Polycythemia Rubra Veras"
     * Syn: "POLYCYTHEMIA VERA; PV"
+    * Syn: "Primary Polycythemia"
     * Syn: "Proliferative polycythaemia"
     * Syn: "PV"
+    * Syn: "PV"
+    * Syn: "Vaquez disease"
+    * Syn: "Vera, Polycythemia Rubra"
+    * Syn: "Veras, Polycythemia Rubra"
 
 ### ERYTHROCYTOSIS, FAMILIAL, 2
- * [OMIM:263400 Erythrocytosis, Familial, 2](http://beta.monarchinitiative.org/disease/OMIM:263400) Confidence: high
+ * [OMIM:263400 Chuvash polycythemia](http://beta.monarchinitiative.org/disease/OMIM:263400) Confidence: low/0.08203125
+    * Equiv:[Orphanet:238557 Chuvash erythrocytosis](http://beta.monarchinitiative.org/disease/Orphanet:238557)
+    * Equiv:[DOID:0060474 -](http://beta.monarchinitiative.org/disease/DOID:0060474)
     * Equiv:[MESH:C563918 Erythrocytosis, Familial, 2](http://beta.monarchinitiative.org/disease/MESH:C563918)
+    * Syn: "autosomal recessive benign erythrocytosis"
+    * Syn: "Chuvash erythromatosis"
+    * Syn: "Chuvash polycythemia"
+    * Syn: "Chuvash type polycythemia"
     * Syn: "ECYT2"
     * Syn: "Erythrocytosis, Autosomal Recessive Benign"
     * Syn: "ERYTHROCYTOSIS, FAMILIAL, 2; ECYT2"
     * Syn: "Polycythemia, Chuvash Type"
+    * Syn: "Polycythemia, VHL-Dependent"
     * Syn: "Polycythemia, Vhl-Dependent"
+    * Syn: "Von Hippel-Lindau-dependent polycythemia"
 
 ### HEMANGIOBLASTOMA, SPORADIC CEREBELLAR
  * [DOID:5241 hemangioblastoma](http://beta.monarchinitiative.org/disease/DOID:5241) Confidence: low/0.1388888888888889
     * Equiv:[MESH:D018325 Hemangioblastoma](http://beta.monarchinitiative.org/disease/MESH:D018325)
+    * Equiv:[Orphanet:252054 Hemangioblastoma](http://beta.monarchinitiative.org/disease/Orphanet:252054)
     * Syn: "Capillary Hemangioblastoma"
+    * Syn: "Hemangioblastoma, Multiple"
+    * Syn: "Hemangioblastomas"
+    * Syn: "Hemangioblastomas, Multiple"
+    * Syn: "Multiple Hemangioblastoma"
+    * Syn: "Multiple Hemangioblastomas"
 
 ### PHEOCHROMOCYTOMA
- * [OMIM:171300 Pheochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300) Confidence: high
+ * [OMIM:171300 phaeochromocytoma](http://beta.monarchinitiative.org/disease/OMIM:171300) Confidence: high
+    * Equiv:[DOID:0050771 phaeochromocytoma](http://beta.monarchinitiative.org/disease/DOID:0050771)
     * Equiv:[MESH:D010673 Pheochromocytoma](http://beta.monarchinitiative.org/disease/MESH:D010673)
+    * Syn: "Extra-Adrenal Pheochromocytoma"
+    * Syn: "Extra-Adrenal Pheochromocytomas"
     * Syn: "PHEOCHROMOCYTOMA"
+    * Syn: "Pheochromocytoma, Extra Adrenal"
+    * Syn: "Pheochromocytoma, Extra-Adrenal"
     * Syn: "Pheochromocytoma, Susceptibility to"
+    * Syn: "Pheochromocytomas"
+    * Syn: "Pheochromocytomas, Extra-Adrenal"
 
 ### RENAL CELL CARCINOMA WITH PARANEOPLASTIC ERYTHROCYTOSIS
- * [MESH:D002292 Carcinoma, Renal Cell](http://beta.monarchinitiative.org/disease/MESH:D002292) Confidence: low/0.15625
+ * [DOID:4450 renal cell carcinoma](http://beta.monarchinitiative.org/disease/DOID:4450) Confidence: low/0.15625
+    * Equiv:[Orphanet:217071 Renal cell carcinoma](http://beta.monarchinitiative.org/disease/Orphanet:217071)
+    * Syn: "Adenocarcinoma Of Kidney"
+    * Syn: "adenocarcinoma of kidney"
+    * Syn: "Adenocarcinoma, Renal"
+    * Syn: "Adenocarcinoma, Renal Cell"
+    * Syn: "Adenocarcinomas, Renal Cell"
+    * Syn: "Cancer, Renal Cell"
+    * Syn: "Cancers, Renal Cell"
+    * Syn: "Carcinoma, Collecting Duct"
+    * Syn: "Carcinoma, Collecting Duct (Kidney)"
+    * Syn: "Carcinoma, Hypernephroid"
+    * Syn: "Carcinoma, Nephroid"
+    * Syn: "Carcinomas, Collecting Duct"
+    * Syn: "Carcinomas, Collecting Duct (Kidney)"
+    * Syn: "Carcinomas, Hypernephroid"
+    * Syn: "Carcinomas, Nephroid"
+    * Syn: "Carcinomas, Renal Cell"
+    * Syn: "Chromophil Renal Cell Carcinoma"
+    * Syn: "Chromophobe Renal Cell Carcinoma"
+    * Syn: "Clear Cell Renal Carcinoma"
+    * Syn: "Clear Cell Renal Cell Carcinoma"
+    * Syn: "Collecting Duct Carcinoma"
+    * Syn: "Collecting Duct Carcinoma (Kidney)"
+    * Syn: "Collecting Duct Carcinoma of the Kidney"
+    * Syn: "Collecting Duct Carcinomas"
+    * Syn: "Collecting Duct Carcinomas (Kidney)"
+    * Syn: "Duct Carcinoma, Collecting"
+    * Syn: "Duct Carcinoma, Collecting (Kidney)"
+    * Syn: "Duct Carcinomas, Collecting"
+    * Syn: "Duct Carcinomas, Collecting (Kidney)"
+    * Syn: "Grawitz Tumor"
+    * Syn: "Hypernephroid Carcinoma"
+    * Syn: "Hypernephroid Carcinomas"
+    * Syn: "Hypernephroma"
+    * Syn: "hypernephroma (disorder)"
+    * Syn: "Hypernephromas"
+    * Syn: "Nephroid Carcinoma"
+    * Syn: "Nephroid Carcinomas"
+    * Syn: "Papillary Renal Cell Carcinoma"
+    * Syn: "RCC"
+    * Syn: "Renal Cell Adenocarcinoma"
+    * Syn: "Renal Cell Adenocarcinomas"
+    * Syn: "Renal Cell Cancer"
+    * Syn: "Renal Cell Cancers"
+    * Syn: "Renal Cell Carcinoma"
+    * Syn: "Renal Cell Carcinoma, Papillary"
+    * Syn: "Renal Cell Carcinomas"
+    * Syn: "Renal Collecting Duct Carcinoma"
+    * Syn: "Sarcomatoid Renal Cell Carcinoma"
+    * Syn: "Tumor, Grawitz"
 
 ### RENAL CELL CARCINOMA, SOMATIC
- * [MESH:D002292 Carcinoma, Renal Cell](http://beta.monarchinitiative.org/disease/MESH:D002292) Confidence: low/0.1953125
+ * [DOID:4450 renal cell carcinoma](http://beta.monarchinitiative.org/disease/DOID:4450) Confidence: low/0.1953125
+    * Equiv:[Orphanet:217071 Renal cell carcinoma](http://beta.monarchinitiative.org/disease/Orphanet:217071)
+    * Syn: "Adenocarcinoma Of Kidney"
+    * Syn: "adenocarcinoma of kidney"
+    * Syn: "Adenocarcinoma, Renal"
+    * Syn: "Adenocarcinoma, Renal Cell"
+    * Syn: "Adenocarcinomas, Renal Cell"
+    * Syn: "Cancer, Renal Cell"
+    * Syn: "Cancers, Renal Cell"
+    * Syn: "Carcinoma, Collecting Duct"
+    * Syn: "Carcinoma, Collecting Duct (Kidney)"
+    * Syn: "Carcinoma, Hypernephroid"
+    * Syn: "Carcinoma, Nephroid"
+    * Syn: "Carcinomas, Collecting Duct"
+    * Syn: "Carcinomas, Collecting Duct (Kidney)"
+    * Syn: "Carcinomas, Hypernephroid"
+    * Syn: "Carcinomas, Nephroid"
+    * Syn: "Carcinomas, Renal Cell"
+    * Syn: "Chromophil Renal Cell Carcinoma"
+    * Syn: "Chromophobe Renal Cell Carcinoma"
+    * Syn: "Clear Cell Renal Carcinoma"
+    * Syn: "Clear Cell Renal Cell Carcinoma"
+    * Syn: "Collecting Duct Carcinoma"
+    * Syn: "Collecting Duct Carcinoma (Kidney)"
+    * Syn: "Collecting Duct Carcinoma of the Kidney"
+    * Syn: "Collecting Duct Carcinomas"
+    * Syn: "Collecting Duct Carcinomas (Kidney)"
+    * Syn: "Duct Carcinoma, Collecting"
+    * Syn: "Duct Carcinoma, Collecting (Kidney)"
+    * Syn: "Duct Carcinomas, Collecting"
+    * Syn: "Duct Carcinomas, Collecting (Kidney)"
+    * Syn: "Grawitz Tumor"
+    * Syn: "Hypernephroid Carcinoma"
+    * Syn: "Hypernephroid Carcinomas"
+    * Syn: "Hypernephroma"
+    * Syn: "hypernephroma (disorder)"
+    * Syn: "Hypernephromas"
+    * Syn: "Nephroid Carcinoma"
+    * Syn: "Nephroid Carcinomas"
+    * Syn: "Papillary Renal Cell Carcinoma"
+    * Syn: "RCC"
+    * Syn: "Renal Cell Adenocarcinoma"
+    * Syn: "Renal Cell Adenocarcinomas"
+    * Syn: "Renal Cell Cancer"
+    * Syn: "Renal Cell Cancers"
+    * Syn: "Renal Cell Carcinoma"
+    * Syn: "Renal Cell Carcinoma, Papillary"
+    * Syn: "Renal Cell Carcinomas"
+    * Syn: "Renal Collecting Duct Carcinoma"
+    * Syn: "Sarcomatoid Renal Cell Carcinoma"
+    * Syn: "Tumor, Grawitz"
 
 ### VON HIPPEL-LINDAU SYNDROME
  * [OMIM:193300 von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/OMIM:193300) Confidence: high
+    * Equiv:[Orphanet:892 Von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/Orphanet:892)
     * Equiv:[DOID:14175 von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/DOID:14175)
     * Equiv:[MESH:D006623 von Hippel-Lindau Disease](http://beta.monarchinitiative.org/disease/MESH:D006623)
+    * Syn: "Angiomatoses, Familial Cerebello-Retinal"
+    * Syn: "Angiomatoses, Familial Cerebelloretinal"
+    * Syn: "Angiomatosis Retinae"
+    * Syn: "Angiomatosis, Familial Cerebello-Retinal"
+    * Syn: "Angiomatosis, Familial Cerebelloretinal"
+    * Syn: "Cerebello-Retinal Angiomatoses, Familial"
+    * Syn: "Cerebello-Retinal Angiomatosis, Familial"
+    * Syn: "Cerebelloretinal Angiomatoses, Familial"
+    * Syn: "Cerebelloretinal Angiomatosis, Familial"
+    * Syn: "Familial Cerebello Retinal Angiomatosis"
+    * Syn: "Familial Cerebello-Retinal Angiomatoses"
+    * Syn: "Familial Cerebello-Retinal Angiomatosis"
+    * Syn: "Familial Cerebelloretinal Angiomatoses"
+    * Syn: "Familial Cerebelloretinal Angiomatosis"
+    * Syn: "Familial cerebelloretinal angiomatosis"
+    * Syn: "Hippel Lindau Disease"
     * Syn: "Hippel Lindau syndrome"
+    * Syn: "Hippel-Lindau Disease"
+    * Syn: "Lindau Disease"
+    * Syn: "Lindau disease"
+    * Syn: "Lindau's Disease"
+    * Syn: "Lindau's Diseases"
+    * Syn: "Lindaus Disease"
+    * Syn: "Retinae, Angiomatosis"
+    * Syn: "Syndrome, VHL"
+    * Syn: "Syndrome, von Hippel-Lindau"
+    * Syn: "Syndromes, VHL"
     * Syn: "VHL"
+    * Syn: "VHL"
+    * Syn: "VHL Syndrome"
+    * Syn: "VHL Syndromes"
+    * Syn: "von Hippel Lindau Disease"
+    * Syn: "von Hippel Lindau Syndrome"
+    * Syn: "Von Hippel-Lindau syndrome"
+    * Syn: "von Hippel-Lindau Syndrome"
     * Syn: "von Hippel-Lindau syndrome"
     * Syn: "Von Hippel-Lindau syndrome (disorder)"
     * Syn: "Von Hippel-Lindau syndrome (VHL)"
@@ -85,10 +315,44 @@
 
 ### Von Hippel-Lindau Syndrome
  * [OMIM:193300 von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/OMIM:193300) Confidence: high
+    * Equiv:[Orphanet:892 Von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/Orphanet:892)
     * Equiv:[DOID:14175 von Hippel-Lindau disease](http://beta.monarchinitiative.org/disease/DOID:14175)
     * Equiv:[MESH:D006623 von Hippel-Lindau Disease](http://beta.monarchinitiative.org/disease/MESH:D006623)
+    * Syn: "Angiomatoses, Familial Cerebello-Retinal"
+    * Syn: "Angiomatoses, Familial Cerebelloretinal"
+    * Syn: "Angiomatosis Retinae"
+    * Syn: "Angiomatosis, Familial Cerebello-Retinal"
+    * Syn: "Angiomatosis, Familial Cerebelloretinal"
+    * Syn: "Cerebello-Retinal Angiomatoses, Familial"
+    * Syn: "Cerebello-Retinal Angiomatosis, Familial"
+    * Syn: "Cerebelloretinal Angiomatoses, Familial"
+    * Syn: "Cerebelloretinal Angiomatosis, Familial"
+    * Syn: "Familial Cerebello Retinal Angiomatosis"
+    * Syn: "Familial Cerebello-Retinal Angiomatoses"
+    * Syn: "Familial Cerebello-Retinal Angiomatosis"
+    * Syn: "Familial Cerebelloretinal Angiomatoses"
+    * Syn: "Familial Cerebelloretinal Angiomatosis"
+    * Syn: "Familial cerebelloretinal angiomatosis"
+    * Syn: "Hippel Lindau Disease"
     * Syn: "Hippel Lindau syndrome"
+    * Syn: "Hippel-Lindau Disease"
+    * Syn: "Lindau Disease"
+    * Syn: "Lindau disease"
+    * Syn: "Lindau's Disease"
+    * Syn: "Lindau's Diseases"
+    * Syn: "Lindaus Disease"
+    * Syn: "Retinae, Angiomatosis"
+    * Syn: "Syndrome, VHL"
+    * Syn: "Syndrome, von Hippel-Lindau"
+    * Syn: "Syndromes, VHL"
     * Syn: "VHL"
+    * Syn: "VHL"
+    * Syn: "VHL Syndrome"
+    * Syn: "VHL Syndromes"
+    * Syn: "von Hippel Lindau Disease"
+    * Syn: "von Hippel Lindau Syndrome"
+    * Syn: "Von Hippel-Lindau syndrome"
+    * Syn: "von Hippel-Lindau Syndrome"
     * Syn: "von Hippel-Lindau syndrome"
     * Syn: "Von Hippel-Lindau syndrome (disorder)"
     * Syn: "Von Hippel-Lindau syndrome (VHL)"

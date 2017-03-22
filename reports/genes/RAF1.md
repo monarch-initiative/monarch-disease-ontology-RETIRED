@@ -6,8 +6,9 @@
 
 
 ### LEOPARD SYNDROME 2
- * [OMIM:611554 LEOPARD syndrome, 2](http://beta.monarchinitiative.org/disease/OMIM:611554) Confidence: high
+ * [OMIM:611554 Leopard Syndrome 2](http://beta.monarchinitiative.org/disease/OMIM:611554) Confidence: high
     * Equiv:[MESH:C537117 LEOPARD syndrome, 2](http://beta.monarchinitiative.org/disease/MESH:C537117)
+    * Syn: "Leopard Syndrome 2"
     * Syn: "LEOPARD SYNDROME 2; LPRD2"
     * Syn: "LPRD2"
 
@@ -29,57 +30,21 @@
     * Syn: "CMD1NN"
 
 ### Noonan''s syndrome
- * [OMIM:309900 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/OMIM:309900) Confidence: low/0.1640625
-    * Equiv:[Orphanet:580 Mucopolysaccharidosis type 2](http://beta.monarchinitiative.org/disease/Orphanet:580)
-    * Equiv:[DOID:12799 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/DOID:12799)
-    * Syn: "deficiency of iduronate-2-sulphatase"
-    * Syn: "Hunter Syndrome"
-    * Syn: "Hunter syndrome"
-    * Syn: "Hunter's syndrome"
-    * Syn: "Ids Deficiency"
-    * Syn: "Iduronate 2-Sulfatase Deficiency"
-    * Syn: "Mps 2"
-    * Syn: "MPS II - Hunter syndrome"
-    * Syn: "MPS2"
-    * Syn: "Mucopolysaccharidosis, MPS-II (disorder)"
-    * Syn: "MUCOPOLYSACCHARIDOSIS, TYPE II; MPS2"
-    * Syn: "Sids Deficiency"
-    * Syn: "Sulfoiduronate Sulfatase Deficiency"
+ * [Orphanet:88633 Superior limbic keratoconjunctivitis](http://beta.monarchinitiative.org/disease/Orphanet:88633) Confidence: low/0.1640625
+    * Syn: "SLK"
+    * Syn: "Theodore's superior limbic keratoconjunctivitis"
+    * Syn: "Theodore's syndrome"
 
 ### Noonan's syndrome
- * [OMIM:309900 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/OMIM:309900) Confidence: low/0.1640625
-    * Equiv:[Orphanet:580 Mucopolysaccharidosis type 2](http://beta.monarchinitiative.org/disease/Orphanet:580)
-    * Equiv:[DOID:12799 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/DOID:12799)
-    * Syn: "deficiency of iduronate-2-sulphatase"
-    * Syn: "Hunter Syndrome"
-    * Syn: "Hunter syndrome"
-    * Syn: "Hunter's syndrome"
-    * Syn: "Ids Deficiency"
-    * Syn: "Iduronate 2-Sulfatase Deficiency"
-    * Syn: "Mps 2"
-    * Syn: "MPS II - Hunter syndrome"
-    * Syn: "MPS2"
-    * Syn: "Mucopolysaccharidosis, MPS-II (disorder)"
-    * Syn: "MUCOPOLYSACCHARIDOSIS, TYPE II; MPS2"
-    * Syn: "Sids Deficiency"
-    * Syn: "Sulfoiduronate Sulfatase Deficiency"
+ * [Orphanet:88633 Superior limbic keratoconjunctivitis](http://beta.monarchinitiative.org/disease/Orphanet:88633) Confidence: low/0.1640625
+    * Syn: "SLK"
+    * Syn: "Theodore's superior limbic keratoconjunctivitis"
+    * Syn: "Theodore's syndrome"
 
 ### Noonan's syndrome
- * [OMIM:309900 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/OMIM:309900) Confidence: low/0.1640625
-    * Equiv:[Orphanet:580 Mucopolysaccharidosis type 2](http://beta.monarchinitiative.org/disease/Orphanet:580)
-    * Equiv:[DOID:12799 mucopolysaccharidosis II](http://beta.monarchinitiative.org/disease/DOID:12799)
-    * Syn: "deficiency of iduronate-2-sulphatase"
-    * Syn: "Hunter Syndrome"
-    * Syn: "Hunter syndrome"
-    * Syn: "Hunter's syndrome"
-    * Syn: "Ids Deficiency"
-    * Syn: "Iduronate 2-Sulfatase Deficiency"
-    * Syn: "Mps 2"
-    * Syn: "MPS II - Hunter syndrome"
-    * Syn: "MPS2"
-    * Syn: "Mucopolysaccharidosis, MPS-II (disorder)"
-    * Syn: "MUCOPOLYSACCHARIDOSIS, TYPE II; MPS2"
-    * Syn: "Sids Deficiency"
-    * Syn: "Sulfoiduronate Sulfatase Deficiency"
+ * [Orphanet:88633 Superior limbic keratoconjunctivitis](http://beta.monarchinitiative.org/disease/Orphanet:88633) Confidence: low/0.1640625
+    * Syn: "SLK"
+    * Syn: "Theodore's superior limbic keratoconjunctivitis"
+    * Syn: "Theodore's syndrome"
 
 ### Rasopathy

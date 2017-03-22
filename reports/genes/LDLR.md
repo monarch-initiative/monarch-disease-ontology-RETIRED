@@ -6,97 +6,71 @@
 
 
 ### FH BALTIMORE-1
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH DENVER 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH DRUZE
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH ELVERUM
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH GLASCO
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH ICELAND
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH KUWAIT
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH LEBANESE
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH PARIS 3
- * [OMIM:614205 Three M Syndrome 3](http://beta.monarchinitiative.org/disease/OMIM:614205) Confidence: low/0.0763888888888889
-    * Syn: "3M Syndrome 3"
-    * Syn: "3M3"
-    * Syn: "THREE M SYNDROME 3; 3M3"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH PAVIA
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH PISCATAWAY
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH PORTUGAL
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH VANCOUVER 3
- * [OMIM:614205 Three M Syndrome 3](http://beta.monarchinitiative.org/disease/OMIM:614205) Confidence: low/0.0763888888888889
-    * Syn: "3M Syndrome 3"
-    * Syn: "3M3"
-    * Syn: "THREE M SYNDROME 3; 3M3"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH VANCOUVER 4
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### Familial hypercholesterolemia
- * [DOID:13810 familial hypercholesterolemia](http://beta.monarchinitiative.org/disease/DOID:13810) Confidence: high
-    * Syn: "familial hyperbetalipoproteinaemia"
-    * Syn: "familial hypercholesteremia"
-    * Syn: "Fredrickson type IIa hyperlipoproteinemia"
-    * Syn: "Fredrickson type IIa lipidaemia"
-    * Syn: "hyperbetalipoproteinemia"
-    * Syn: "type II hyperlipidemia"
+ * [OMIM:143890 Hypercholesterolemia, Familial](http://beta.monarchinitiative.org/disease/OMIM:143890) Confidence: high
+    * Syn: "Fhc"
+    * Syn: "Hyper-Low-Density-Lipoproteinemia"
+    * Syn: "HYPERCHOLESTEROLEMIA, FAMILIAL"
+    * Syn: "Hypercholesterolemic Xanthomatosis, Familial"
+    * Syn: "Hyperlipoproteinemia, Type 2"
+    * Syn: "Hyperlipoproteinemia, Type 2A"
+    * Syn: "Ldl Receptor Disorder"
+    * Syn: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 2"
 
 ### Hypercholesterolaemia
  * [DOID:2487 -](http://beta.monarchinitiative.org/disease/DOID:2487) Confidence: high
@@ -104,283 +78,199 @@
     * Syn: "hypercholesterolaemia"
 
 ### FH AFRIKANER 3
- * [OMIM:614205 Three M Syndrome 3](http://beta.monarchinitiative.org/disease/OMIM:614205) Confidence: low/0.0763888888888889
-    * Syn: "3M Syndrome 3"
-    * Syn: "3M3"
-    * Syn: "THREE M SYNDROME 3; 3M3"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH AFRIKANER 4
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH ALGERIA
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH BARI
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH BOLOGNA 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH CAPE TOWN 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0703125
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1328125
+    * Syn: "FH"
 
 ### FH FRENCH CANADIAN 5
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0703125
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1328125
+    * Syn: "FH"
 
 ### FH LONDON 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH OSAKA 3
- * [OMIM:614205 Three M Syndrome 3](http://beta.monarchinitiative.org/disease/OMIM:614205) Confidence: low/0.0763888888888889
-    * Syn: "3M Syndrome 3"
-    * Syn: "3M3"
-    * Syn: "THREE M SYNDROME 3; 3M3"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH PARIS 1
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH PARIS 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH REYKJAVIK
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH TURKEY
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH VANCOUVER 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH ZAMBIA
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH AFRIKANER 1
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH AFRIKANER 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH FRENCH CANADIAN 1
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0703125
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1328125
+    * Syn: "FH"
 
 ### FH FRENCH CANADIAN 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0703125
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1328125
+    * Syn: "FH"
 
 ### FH FRENCH CANADIAN 4
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0703125
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1328125
+    * Syn: "FH"
 
 ### FH LONDON 1
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH LONDON 4
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH NORTH KARELIA
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH POTENZA
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH ROCHESTER
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH ST. LOUIS
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH VANCOUVER 6
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### HYPERCHOLESTEROLEMIA, FAMILIAL
- * [DOID:13810 familial hypercholesterolemia](http://beta.monarchinitiative.org/disease/DOID:13810) Confidence: high
-    * Syn: "familial hyperbetalipoproteinaemia"
-    * Syn: "familial hypercholesteremia"
-    * Syn: "Fredrickson type IIa hyperlipoproteinemia"
-    * Syn: "Fredrickson type IIa lipidaemia"
-    * Syn: "hyperbetalipoproteinemia"
-    * Syn: "type II hyperlipidemia"
+ * [OMIM:143890 Hypercholesterolemia, Familial](http://beta.monarchinitiative.org/disease/OMIM:143890) Confidence: high
+    * Syn: "Fhc"
+    * Syn: "Hyper-Low-Density-Lipoproteinemia"
+    * Syn: "HYPERCHOLESTEROLEMIA, FAMILIAL"
+    * Syn: "Hypercholesterolemic Xanthomatosis, Familial"
+    * Syn: "Hyperlipoproteinemia, Type 2"
+    * Syn: "Hyperlipoproteinemia, Type 2A"
+    * Syn: "Ldl Receptor Disorder"
+    * Syn: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 2"
 
 ### FH AARHUS
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH BAHRAIN
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH CAPE TOWN 1
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0703125
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1328125
+    * Syn: "FH"
 
 ### FH GENOA
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH LEIDEN 3
- * [OMIM:614205 Three M Syndrome 3](http://beta.monarchinitiative.org/disease/OMIM:614205) Confidence: low/0.0763888888888889
-    * Syn: "3M Syndrome 3"
-    * Syn: "3M3"
-    * Syn: "THREE M SYNDROME 3; 3M3"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH LONDON 3
- * [OMIM:614205 Three M Syndrome 3](http://beta.monarchinitiative.org/disease/OMIM:614205) Confidence: low/0.0763888888888889
-    * Syn: "3M Syndrome 3"
-    * Syn: "3M3"
-    * Syn: "THREE M SYNDROME 3; 3M3"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH MEXICO
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH NAPLES
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH NASHVILLE
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH OSAKA 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH PORI
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH PUERTO RICO
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH PYRGOS
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### FH SAINT OMER
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH TONAMI 1
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH TSUKUBA 2
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.0763888888888889
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.1388888888888889
+    * Syn: "FH"
 
 ### FH TURKU
- * [OMIM:613677 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/OMIM:613677) Confidence: low/0.09375
-    * Equiv:[Orphanet:251274 Familial hyperaldosteronism type III](http://beta.monarchinitiative.org/disease/Orphanet:251274)
-    * Syn: "Fh 3"
-    * Syn: "HYPERALDOSTERONISM, FAMILIAL, TYPE III"
+ * [Orphanet:235936 Familial hyperaldosteronism](http://beta.monarchinitiative.org/disease/Orphanet:235936) Confidence: low/0.15625
+    * Syn: "FH"
 
 ### Familial Hypercholesterolemia
- * [DOID:13810 familial hypercholesterolemia](http://beta.monarchinitiative.org/disease/DOID:13810) Confidence: high
-    * Syn: "familial hyperbetalipoproteinaemia"
-    * Syn: "familial hypercholesteremia"
-    * Syn: "Fredrickson type IIa hyperlipoproteinemia"
-    * Syn: "Fredrickson type IIa lipidaemia"
-    * Syn: "hyperbetalipoproteinemia"
-    * Syn: "type II hyperlipidemia"
+ * [OMIM:143890 Hypercholesterolemia, Familial](http://beta.monarchinitiative.org/disease/OMIM:143890) Confidence: high
+    * Syn: "Fhc"
+    * Syn: "Hyper-Low-Density-Lipoproteinemia"
+    * Syn: "HYPERCHOLESTEROLEMIA, FAMILIAL"
+    * Syn: "Hypercholesterolemic Xanthomatosis, Familial"
+    * Syn: "Hyperlipoproteinemia, Type 2"
+    * Syn: "Hyperlipoproteinemia, Type 2A"
+    * Syn: "Ldl Receptor Disorder"
+    * Syn: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 2"

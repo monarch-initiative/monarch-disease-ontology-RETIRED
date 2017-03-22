@@ -14,17 +14,7 @@
     * Syn: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 1"
 
 ### Familial Hypercholesterolemia
- * [DOID:13810 familial hypercholesterolemia](http://beta.monarchinitiative.org/disease/DOID:13810) Confidence: high
-    * Syn: "familial hyperbetalipoproteinaemia"
-    * Syn: "familial hypercholesteremia"
-    * Syn: "Fredrickson type IIa hyperlipoproteinemia"
-    * Syn: "Fredrickson type IIa lipidaemia"
-    * Syn: "hyperbetalipoproteinemia"
-    * Syn: "type II hyperlipidemia"
-
-### HYPERCHOLESTEROLEMIA, FAMILIAL, 3
- * [OMIM:143890 Hypercholesterolemia](http://beta.monarchinitiative.org/disease/OMIM:143890) Confidence: low/0.18055555555555555
-    * Equiv:[MESH:D006937 Hypercholesterolemia](http://beta.monarchinitiative.org/disease/MESH:D006937)
+ * [OMIM:143890 Hypercholesterolemia, Familial](http://beta.monarchinitiative.org/disease/OMIM:143890) Confidence: high
     * Syn: "Fhc"
     * Syn: "Hyper-Low-Density-Lipoproteinemia"
     * Syn: "HYPERCHOLESTEROLEMIA, FAMILIAL"
@@ -33,3 +23,10 @@
     * Syn: "Hyperlipoproteinemia, Type 2A"
     * Syn: "Ldl Receptor Disorder"
     * Syn: "Low Density Lipoprotein Cholesterol Level Quantitative Trait Locus 2"
+
+### HYPERCHOLESTEROLEMIA, FAMILIAL, 3
+ * [MESH:D006937 Hypercholesterolemia](http://beta.monarchinitiative.org/disease/MESH:D006937) Confidence: low/0.1388888888888889
+    * Syn: "Elevated Cholesterol"
+    * Syn: "Hypercholesteremia"
+    * Syn: "Hypercholesteremias"
+    * Syn: "Hypercholesterolemias"

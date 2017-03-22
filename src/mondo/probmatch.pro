@@ -238,6 +238,12 @@ pair_relationship_scores_lexical(A,B,m(lexical,1,21,2,1)) :-
         sub_atom(NB,_,_,_,NA),  % NA is a substring of NB, and thus a superclass of NB
         !.
 
+% match, but where at least one scope is unreliable
+pair_relationship_scores_lexical(A,B,m(lexical,2,2,5,1)) :-
+        entity_nlabel_scope_stemmed(A,N,_,_),
+        entity_nlabel_scope_stemmed(B,N,_,_),
+        !.
+
 % substrings; non-exact syn; weak score as relateds are unreliable
 pair_relationship_scores_lexical(A,B,m(lexical,4,1,2,1)) :-
         entity_label_scope(A,NA,SA),
@@ -298,7 +304,7 @@ pair_relationship_scores_xref(A,_B,m(xref,5,5,5,2)) :-
 % we can assume that 1:M indicates child-parent;
 % an exception is Orphanet, where the same OMIM can be under multiple different Orphanets
 % (e.g.  OMIM:278150  under Woolly hair & Hypotrichosis simplex)
-pair_relationship_scores_xref1(A,B,m(xrefSub,5,20,5,0)) :-
+pair_relationship_scores_xref1(A,B,m(xrefSub,2,4,2,0)) :-
         id_idspace(B,BS),
         BS \= 'Orphanet',
         entity_xrefS(A,B),
@@ -306,7 +312,7 @@ pair_relationship_scores_xref1(A,B,m(xrefSub,5,20,5,0)) :-
         B\=B2,
         id_idspace(B2,BS),
         !.
-pair_relationship_scores_xref2(A,B,m(xrefSup,20,5,5,0)) :-
+pair_relationship_scores_xref2(A,B,m(xrefSup,4,2,2,0)) :-
         id_idspace(A,AS),
         AS \= 'Orphanet',
         entity_xrefS(A,B),
@@ -314,7 +320,7 @@ pair_relationship_scores_xref2(A,B,m(xrefSup,20,5,5,0)) :-
         A\=A2,
         id_idspace(A2,AS),
         !.
-pair_relationship_scores_xref3(A,B,m(xrefMesh,2,2,5,1)) :-
+pair_relationship_scores_xref3(A,B,m(xrefMesh,2,2,3,1)) :-
         % xrefs to mesh are assumed to be more likely to be equivalent
         % rationale: mesh is roughly the same granularity as ontologies that make xrefs
         (   id_idspace(A,'MESH');
@@ -323,9 +329,20 @@ pair_relationship_scores_xref3(A,B,m(xrefMesh,2,2,5,1)) :-
         \+ id_idspace(B,'OMIM'),
         !.
 
+% TODO
+% having multiple OMIM xrefs decreases chance these are equivalent or superclass
+pair_relationship_scores_xref4(A,B,m(xrefCard,0,ScoreSub,0,1)) :-
+        % TODO - assume A<B, e,g, A=DOID:nnn
+        id_idspace(B,'OMIM'),
+        aggregate(count,Z,entity_xref_idspace(A,Z,'OMIM'),Num),
+        Num>1,
+        ScoreSub is floor((1 - (0.9 ** Num)) * 100),
+        !.
+
 pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref1(A,B,S).
 pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref2(A,B,S).
 pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref3(A,B,S).
+pair_relationship_scores_xref(A,B,S) :- pair_relationship_scores_xref4(A,B,S).
 
 
 /*
@@ -334,6 +351,89 @@ pair_relationship_scores_xref(A,B,m(xref,20,5,5,0)) :-
         one_to_many_xref(_,B,AS), % A likely to be subclass of B
         true.
 */
+
+%% ========================================
+%% scoring based on prior knowledge
+%% ========================================
+% See: https://github.com/monarch-initiative/monarch-disease-ontology/issues/139
+% ordo assignments may not always be reliable
+pair_relationship_scores_prior(A,B,m(prior,1,1,25,1)) :-
+        logrel_symm(A,B,e),
+        !.
+pair_relationship_scores_prior(A,B,m(prior,1,75,1,1)) :-
+        logrel_symm(A,B,btnt),
+        !.
+pair_relationship_scores_prior(A,B,m(prior,75,1,1,1)) :-
+        logrel_symm(A,B,ntbt),
+        !.
+
+logrel_symm(A,B,T) :- logrel(A,B,T).
+logrel_symm(A,B,e) :- logrel(B,A,e).
+logrel_symm(A,B,btnt) :- logrel(B,A,ntbt).
+logrel_symm(A,B,ntbt) :- logrel(B,A,btnt).
+
+/*
+
+IMPORTANT NOTE:
+logrel(Ordo,Omim,Type) is loaded from the ordo obo file
+
+not clear what the direction of btnt vs ntbt is
+
+$ grep -c btnt z
+3549
+  
+here, the obvious interpretation is consistent with the facts:
+  
+Orphanet:91378 ! Hereditary angioedema  OMIM:106100 ! Angioedema, Hereditary, Type 1    btnt
+Orphanet:91378 ! Hereditary angioedema  OMIM:610618 ! Angioedema, Hereditary, Type 3    btnt
+  
+Orphanet:93387 ! Brachydactyly type E   OMIM:113300 ! Brachydactyly, Type E1    e
+Orphanet:93387 ! Brachydactyly type E   OMIM:613382 ! Brachydactyly, Type E2    btnt
+
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:115700 ! Cataract 4, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116100 ! Cataract 20, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116200 ! Cataract 1, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116600 ! Cataract 6, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116700 ! Cataract 13 With Adult I Phenotype        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:116800 ! Cataract 5, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:600881 ! Cataract 10, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:601547 ! Cataract 3, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:601885 ! Cataract 14, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:604219 ! Cataract 9, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:604307 ! Cataract 2, Multiple Types        btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:605387 ! Cataract 31, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:609741 ! Cataract 22, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:610202 ! Cataract 21, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:610623 ! Cataract 11, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:611544 ! Cataract 17, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:613763 ! Cataract 16, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:615188 ! Cataract 39, Multiple Types       btnt
+Orphanet:91492 ! Early-onset non-syndromic cataract     OMIM:615274 ! Cataract 15, Multiple Types       btnt
+
+and similarly, from ntbt, we assume the orphanet is the broader, which is consistent:
+  
+Orphanet:93612 ! Cystinuria type A      OMIM:220100 ! Cystinuria        ntbt
+Orphanet:93613 ! Cystinuria type B      OMIM:220100 ! Cystinuria        ntbt
+
+  
+blip-findall  -i orphanet-logrel.pro -r ordo -r omim "logrel(A,B,ntbt),subclass(A,T),id_idspace(B,'OMIM')" -select T -label | count-occ.pl | mysort -k1 -n
+1       Orphanet:231692 ! Isolated growth hormone deficiency type III
+1       Orphanet:98995 ! Early-onset zonular cataract
+1       Orphanet:377792 ! clinical syndrome
+1       Orphanet:98992 ! Early-onset partial cataract
+2       Orphanet:377794 ! group of disorders
+2       Orphanet:182067 ! Glial tumor
+4       Orphanet:166081 ! Von Willebrand disease type 2
+6       Orphanet:377797 ! histopathological subtype
+15      Orphanet:377795 ! etiological subtype
+27      Orphanet:377791 ! morphological anomaly
+50      Orphanet:377789 ! malformation syndrome
+77      Orphanet:377796 ! clinical subtype
+231     Orphanet:377788 ! disease
+
+  
+  */
+
 
 %% ========================================
 %% scoring based on ontology structure
@@ -357,7 +457,7 @@ pair_relationship_scores_ont(A,B,m(ont,20,1,1,1)) :-
         \+ \+ subclass(_,B),          % has a subclass - not a leaf
         id_idspace(A,'OMIM'),
         !.
-pair_relationship_scores_ont(A,B,m(ont,1,1,10,1)) :-
+pair_relationship_scores_ont(A,B,m(ont,1,2,10,1)) :-
         id_idspace(A,'DOID'),   % is in DO and
         \+ subclass(_,A),       % is a leaf
         id_idspace(B,'OMIM'),
@@ -370,8 +470,38 @@ pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
         !.
 
 %% ========================================
+%% scoring based on probabilstic axiomatization
+%% ========================================
+pair_relationship_scores_paxiom(A,B,m(hered,1,1,1,15)) :-
+        class(A,AN),
+        id_idspace(B,'OMIM'),
+        % non-hereditary class should not be linked to OMIM
+        downcase_atom(AN,AN2),
+        hered(T,false),
+        sub_atom(AN2,_,_,_,T),
+        class(B,BN),
+        downcase_atom(BN,BN2),
+        % we make an exception for the small number of cases in omim
+        % where there are idiopathic
+        \+ sub_atom(BN2,_,_,_,T),
+        !.
+
+hered(idiopathic,false).
+hered(sporadic,false).
+hered('non-hereditary',false).
+
+hered(hereditary,true).
+hered(familial,true).
+hered(genetic,true).
+
+
+%% ========================================
 %% score aggregation
 %% ========================================
+
+pair_relationship_scores(A,B,ST) :-
+        %% logrel
+        pair_relationship_scores_prior(A,B,ST).
 
 pair_relationship_scores(A,B,ST) :-
         %% Foo-type-N matches
@@ -389,17 +519,22 @@ pair_relationship_scores(A,B,ST) :-
         %% ontology
         pair_relationship_scores_ont(A,B,ST).
 
+pair_relationship_scores(A,B,ST) :-
+        %% prob axiom
+        pair_relationship_scores_paxiom(A,B,ST).
+
+
 
 
 % calculates probabilities by assigning a score to each of the 3
 % relationship categories. The final probabilities are ratios
 % of each score to the sum of scores
 ptable(A,B,P1,P2,P3,P0) :-
-        setof(S1-S2-S3-Sn,MatchType^pair_relationship_scores(A,B,m(MatchType,S1,S2,S3,Sn)),L),
-        aggregate(sum(S1),S2^S3^Sn^member(S1-S2-S3-Sn,L),TotalSubClass),
-        aggregate(sum(S2),S1^S3^Sn^member(S1-S2-S3-Sn,L),TotalSuperClass),
-        aggregate(sum(S3),S1^S2^Sn^member(S1-S2-S3-Sn,L),TotalEquiv),
-        aggregate(sum(Sn),S1^S2^S3^member(S1-S2-S3-Sn,L),TotalNull),
+        setof(T-S1-S2-S3-Sn,pair_relationship_scores(A,B,m(T,S1,S2,S3,Sn)),L),
+        aggregate(sum(S1),T^S2^S3^Sn^member(T-S1-S2-S3-Sn,L),TotalSubClass),
+        aggregate(sum(S2),T^S1^S3^Sn^member(T-S1-S2-S3-Sn,L),TotalSuperClass),
+        aggregate(sum(S3),T^S1^S2^Sn^member(T-S1-S2-S3-Sn,L),TotalEquiv),
+        aggregate(sum(Sn),T^S1^S2^S3^member(T-S1-S2-S3-Sn,L),TotalNull),
         Sum is TotalEquiv + TotalSubClass + TotalSuperClass + TotalNull,
         P1 is TotalSubClass / Sum,
         P2 is TotalSuperClass / Sum,
@@ -422,6 +557,7 @@ xref_ptable(A,B,P1,P2,P3,P0) :-
         debug(prob,'testing: ~w ~w',[A,B]),
         ptable(A,B,P1,P2,P3,P0).
 
+% symmetric xref, normalized so that A alphabeticallly before B
 entity_xrefS(A,B) :- entity_xrefN(A,B), A@<B.
 entity_xrefS(A,B) :- entity_xrefN(B,A), A@<B.
 

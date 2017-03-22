@@ -1,0 +1,17 @@
+ontology: upper
+
+[Term]
+id: PATO:0002097 ! neoplastic, malignant
+disjoint_from: PATO:0002096 ! neoplastic, non-malignant
+
+[Term]
+id: PATO:0002098 ! neoplastic, metastatic
+disjoint_from: PATO:0002096 ! neoplastic, non-malignant
+
+[Term]
+id: PATO:0002129 ! neoplastic, invasive
+disjoint_from: PATO:0002096 ! neoplastic, non-malignant
+
+[Term]
+id: PATO:0002129 ! neoplastic, invasive
+disjoint_from: PATO:0002132 ! neoplastic, non-invasive

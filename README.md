@@ -3,6 +3,8 @@
 
 ## MonDO
 
+[![Join the chat at https://gitter.im/monarch-disease-ontology/Lobby](https://badges.gitter.im/monarch-disease-ontology/Lobby.svg)](https://gitter.im/monarch-disease-ontology/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MonDO (Monarch Disease Ontology) is a semi-automatically constructed
 ontology that merges in multiple disease resources to yield a coherent
 merged ontology.
@@ -20,15 +22,15 @@ See the Makefile in the [src/ontology](src/ontology) directory for the execution
 
 Each disease resource or ontology is pre-processed. In some cases, only a subset of the ontology is used
 
- * [ORDO/Orphanet](orphanet/README.md)
- * [DO](doid/README.md)
- * [GARD](gard/README.md) -- aligned as post-processing step
- * [OMIM](omim/README.md) -- note we only use labels from OMIM
- * [MedGeb](medgen/README.md) -- not yet incorporated
- * [NCIT](ncit/README.md) -- aligned as post-processing step
- * [OMIA](omia/README.md) -- Mendelian diseases in non-human animals
- * [MESH](medic/README.md) -- We use MEDIC as our initial pre-processed set
- * [DiseaseClusters](clusters/README.md) -- Additional groupings of OMIM. Includes DECIPHER.
+ * ORDO/Orphanet
+ * DO
+ * [GARD](src/gard/README.md) -- aligned as post-processing step
+ * OMIM -- note we only use labels from OMIM
+ * [MedGen](src/medgen/README.md) -- not yet incorporated
+ * NCIT -- aligned as post-processing step
+ * OMIA -- Mendelian diseases in non-human animals
+ * MESH -- We use MEDIC as our initial pre-processed set
+ * [DiseaseClusters](README-editors.md) -- Additional groupings of OMIM. Includes DECIPHER.
 
 ### Translating mappings to weighted candidate axioms
 

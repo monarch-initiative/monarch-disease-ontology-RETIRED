@@ -21,6 +21,9 @@ ctd-mesh-no-omim-labels.obo: CTD_diseases_slim.obo
 combined.obo: ctd-mesh-no-omim-labels.obo ../mondo/omc-minimal.obo
 	obo-cat.pl $^ | grep -v ^synonym > $@
 
+align-omim-excluded.tsv: ctd-mesh-no-omim-labels.obo ../omim/omim-excluded.obo
+	blip-findall -i ignore.pro -u metadata_nlp -i $< -i ../omim/omim-excluded.obo  -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),id_idspace(X,'OMIM'),\\+entity_xref(_,X),\\+((subclass(X,Z),id_idspace(Z,'MESH')))" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
+
 align-omim.tsv: combined.obo
 	blip-findall -i ignore.pro -u metadata_nlp -i $<   -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),id_idspace(X,'OMIM'),\\+entity_xref(_,X),\\+((subclass(X,Z),id_idspace(Z,'MESH')))" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 ###	blip-findall -i ignore.pro -u metadata_nlp -i $< -i ../mondo/omc-minimal.obo  -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y),id_idspace(X,'OMIM'),\\+entity_xref(_,X),\\+((subclass(X,Z),id_idspace(Z,'MESH')))" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
@@ -35,7 +38,7 @@ mesh-final-unmerged.obo: ctd-mesh-no-omim-labels.obo xrefs-omim.obo
 	obo-merge-tags.pl -t xref $^ > $@
 
 mesh-final.obo:  mesh-final-unmerged.obo mesh-self-equivs.obo
-	owltools --create-ontology $(OBO)/mesh.owl $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets -o -f obo --no-check $@
+	owltools --create-ontology $(OBO)/mesh.owl $^ --merge-support-ontologies --reasoner elk --merge-equivalence-sets  --subtract -d -a bad_axioms.obo  -o -f obo --no-check $@
 
 # ----------------------------------------
 # MESH SELF-DETECTION

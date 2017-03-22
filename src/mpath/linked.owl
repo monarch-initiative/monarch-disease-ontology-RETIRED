@@ -1,0 +1,3414 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.w3.org/2002/07/owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <Ontology/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_128 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_128">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8366"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_130 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_130">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8367"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_131 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_131">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8368"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_132 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_132">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2917"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_151 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_151">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3148"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_158 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_158">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9006"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_218 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_218">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3262"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_221 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_221">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4168"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_222 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_222">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4176"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_223 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_223">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C6088"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_224 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_224">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7567"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_228 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_228">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4171"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_229 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_229">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40310"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_230 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_230">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4174"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_231 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_231">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3761"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_232 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_232">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7367"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_233 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_233">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3784"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_234 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_234">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2921"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_235 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_235">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7387"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_236 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_236">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3799"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_238 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_238">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3801"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_240 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_240">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3085"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_241 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_241">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3087"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_242 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_242">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3088"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_243 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_243">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9293"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_244 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_244">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C60781"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_245 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_245">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4715"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_246 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_246">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3698"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_247 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_247">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3017"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_249 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_249">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3059"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_250 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_250">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3222"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_251 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_251">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3230"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_252 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_252">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3288"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_253 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_253">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3795"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_255 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_255">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4200"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_256 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_256">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C34448"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_257 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_257">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2964"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_259 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_259">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3772"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_260 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_260">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3730"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_261 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_261">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40407"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_262 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_262">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3732"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_263 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_263">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3808"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_264 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_264">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3743"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_265 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_265">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8984"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_266 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_266">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3744"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_268 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_268">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2852"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_269 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_269">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4123"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_270 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_270">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2855"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_271 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_271">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3339"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_272 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_272">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3494"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_273 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_273">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2923"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_274 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_274">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3766"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_275 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_275">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4188"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_276 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_276">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2971"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_277 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_277">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2972"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_278 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_278">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8054"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_279 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_279">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3502"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_282 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_282">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4194"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_284 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_284">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4190"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_285 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_285">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3785"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_286 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_286">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7363"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_288 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_288">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3770"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_289 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_289">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3771"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_290 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_290">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4018"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_291 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_291">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3879"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_292 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_292">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3776"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_293 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_293">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2973"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_294 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_294">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40392"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_295 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_295">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2853"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_296 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_296">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C79951"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_297 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_297">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3777"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_298 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_298">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2974"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_299 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_299">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3328"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_300 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_300">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9344"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_301 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_301">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C6966"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_302 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_302">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C94524"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_303 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_303">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3345"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_304 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_304">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C40101"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_305 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_305">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3783"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_306 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_306">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3774"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_307 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_307">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C46101"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_310 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_310">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3708"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_311 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_311">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9011"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_312 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_312">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2996"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_313 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_313">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3752"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_314 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_314">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3011"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_315 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_315">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3754"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_316 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_316">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4290"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_317 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_317">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9309"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_319 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_319">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C39921"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_320 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_320">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7468"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_321 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_321">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3756"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_322 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_322">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3403"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_326 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_326">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3070"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_328 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_328">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3188"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_329 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_329">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3202"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_331 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_331">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C39976"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_332 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_332">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3072"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_334 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_334">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3405"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_351 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_351">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3411"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_353 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_353">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3758"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_354 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_354">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4436"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_356 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_356">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3728"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_357 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_357">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3099"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_359 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_359">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3224"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_360 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_360">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8423"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_363 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_363">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4295"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_365 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_365">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3234"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_366 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_366">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3809"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_367 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_367">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2915"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_370 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_370">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3716"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_371 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_371">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3915"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_372 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_372">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C65162"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_374 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_374">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3789"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_375 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_375">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3049"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_376 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_376">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3270"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_377 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_377">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3326"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_378 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_378">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7541"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_379 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_379">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3286"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_380 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_380">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4316"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_381 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_381">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4313"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_383 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_383">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4308"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_385 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_385">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C54323"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_389 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_389">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2945"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_391 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_391">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53459"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_392 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_392">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2946"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_393 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_393">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3294"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_394 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_394">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3295"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_396 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_396">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3296"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_397 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_397">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9145"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_399 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_399">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4218"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_400 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_400">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2932"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_401 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_401">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3061"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_403 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_403">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3308"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_404 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_404">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3377"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_405 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_405">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2947"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_406 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_406">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4683"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_407 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_407">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3041"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_408 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_408">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C6605"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_409 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_409">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3739"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_410 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_410">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C49107"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_412 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_412">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3750"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_413 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_413">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3474"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_415 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_415">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4248"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_416 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_416">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3734"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_417 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_417">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3192"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_418 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_418">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3194"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_419 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_419">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3723"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_420 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_420">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8965"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_421 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_421">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3725"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_422 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_422">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3205"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_423 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_423">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4063"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_425 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_425">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3157"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_426 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_426">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3158"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_428 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_428">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3359"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_430 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_430">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3254"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_431 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_431">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C6577"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_432 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_432">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3255"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_433 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_433">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4972"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_435 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_435">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3272"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_437 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_437">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3798"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_438 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_438">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3269"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_440 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_440">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3400"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_442 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_442">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3792"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_444 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_444">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3146"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_445 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_445">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7440"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_446 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_446">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2929"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_447 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_447">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27093"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_448 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_448">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3712"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_449 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_449">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3781"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_450 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_450">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C6783"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_451 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_451">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2930"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_452 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_452">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4116"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_453 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_453">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4115"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_454 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_454">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3422"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_455 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_455">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2948"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_456 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_456">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3110"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_486 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_486">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27942"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_487 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_487">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7658"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_488 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_488">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4064"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_489 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_489">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4845"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_490 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_490">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3764"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_495 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_495">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4222"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_505 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_505">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C35815"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_506 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_506">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27349"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_507 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_507">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9348"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_513 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_513">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7065"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_516 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_516">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27907"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_518 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_518">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9360"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_519 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_519">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27910"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_520 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_520">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7540"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_521 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_521">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4663"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_522 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_522">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3209"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_523 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_523">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8851"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_524 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_524">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4074"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_525 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_525">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3461"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_528 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_528">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7188"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_529 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_529">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C6917"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_530 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_530">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4665"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_532 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_532">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9349"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_533 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_533">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4002"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_534 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_534">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C118421"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_535 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_535">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27908"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_537 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_537">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C6451"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_538 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_538">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27909"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_544 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_544">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2942"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_548 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_548">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4122"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_549 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_549">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C2916"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_551 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_551">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C9118"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_559 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_559">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3768"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_561 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_561">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3727"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_563 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_563">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C26712"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_564 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_564">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3058"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_566 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_566">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3229"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_567 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_567">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4047"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_568 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_568">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3903"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_570 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_570">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3321"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_571 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_571">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7368"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_572 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_572">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8422"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_573 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_573">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4118"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_577 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_577">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4170"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_578 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_578">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27132"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_628 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_628">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3480"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_629 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_629">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3086"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_653 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_653">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3107"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_672 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_672">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C84269"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_695 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_695">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C27005"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_707 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_707">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3733"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_709 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_709">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3749"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_710 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_710">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C8971"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_721 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_721">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C99055"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_722 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_722">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3358"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_723 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_723">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3042"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_804 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_804">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C53316"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_805 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_805">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3724"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_806 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_806">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C45485"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_823 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_823">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C66760"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_824 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_824">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7052"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_834 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_834">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C4133"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_838 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_838">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3692"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_858 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_858">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C7457"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/MPATH_885 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/MPATH_885">
+        <equivalentClass rdf:resource="http://purl.obolibrary.org/obo/NCIT_C3261"/>
+    </Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C118421 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C118421"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C26712 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C26712"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27005 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27005"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27093 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27093"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27132 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27132"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27349 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27349"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27907 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27907"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27908 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27908"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27909 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27909"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27910 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27910"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C27942 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C27942"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2852 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2852"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2853 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2853"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2855 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2855"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2915 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2915"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2916 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2916"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2917 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2917"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2921 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2921"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2923 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2923"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2929 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2929"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2930 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2930"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2932 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2932"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2942 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2942"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2945 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2945"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2946 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2946"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2947 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2947"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2948 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2948"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2964 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2964"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2971 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2971"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2972 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2972"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2973 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2973"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2974 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2974"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C2996 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C2996"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3011 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3011"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3017 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3017"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3041 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3041"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3042 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3042"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3049 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3049"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3058 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3058"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3059 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3059"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3061 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3061"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3070 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3070"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3072 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3072"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3085 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3085"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3086 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3086"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3087 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3087"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3088 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3088"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3099 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3099"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3107 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3107"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3110 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3110"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3146 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3146"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3148 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3148"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3157 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3157"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3158 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3158"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3188 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3188"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3192 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3192"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3194 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3194"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3202 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3202"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3205 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3205"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3209 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3209"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3222 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3222"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3224 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3224"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3229 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3229"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3230 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3230"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3234 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3234"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3254 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3254"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3255 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3255"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3261 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3261"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3262 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3262"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3269 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3269"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3270 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3270"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3272 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3272"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3286 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3286"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3288 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3288"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3294 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3294"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3295 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3295"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3296 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3296"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3308 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3308"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3321 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3321"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3326 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3326"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3328 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3328"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3339 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3339"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3345 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3345"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3358 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3358"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3359 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3359"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3377 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3377"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3400 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3400"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3403 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3403"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3405 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3405"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3411 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3411"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3422 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3422"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C34448 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C34448"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3461 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3461"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3474 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3474"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3480 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3480"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3494 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3494"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3502 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3502"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C35815 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C35815"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3692 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3692"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3698 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3698"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3708 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3708"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3712 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3712"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3716 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3716"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3723 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3723"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3724 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3724"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3725 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3725"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3727 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3727"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3728 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3728"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3730 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3730"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3732 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3732"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3733 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3733"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3734 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3734"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3739 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3739"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3743 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3743"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3744 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3744"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3749 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3749"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3750 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3750"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3752 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3752"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3754 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3754"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3756 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3756"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3758 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3758"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3761 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3761"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3764 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3764"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3766 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3766"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3768 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3768"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3770 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3770"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3771 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3771"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3772 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3772"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3774 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3774"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3776 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3776"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3777 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3777"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3781 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3781"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3783 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3783"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3784 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3784"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3785 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3785"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3789 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3789"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3792 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3792"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3795 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3795"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3798 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3798"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3799 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3799"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3801 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3801"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3808 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3808"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3809 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3809"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3879 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3879"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3903 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3903"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C3915 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C3915"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C39921 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C39921"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C39976 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C39976"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4002 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4002"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C40101 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C40101"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4018 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4018"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C40310 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C40310"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C40392 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C40392"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C40407 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C40407"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4047 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4047"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4063 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4063"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4064 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4064"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4074 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4074"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4115 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4115"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4116 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4116"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4118 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4118"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4122 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4122"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4123 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4123"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4133 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4133"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4168 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4168"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4170 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4170"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4171 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4171"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4174 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4174"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4176 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4176"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4188 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4188"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4190 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4190"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4194 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4194"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4200 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4200"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4218 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4218"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4222 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4222"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4248 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4248"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4290 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4290"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4295 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4295"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4308 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4308"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4313 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4313"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4316 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4316"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4436 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4436"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C45485 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C45485"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C46101 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C46101"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4663 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4663"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4665 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4665"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4683 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4683"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4715 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4715"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4845 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4845"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C49107 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C49107"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C4972 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C4972"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C53316 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C53316"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C53459 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C53459"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C54323 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C54323"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C60781 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C60781"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C6088 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C6088"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C6451 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C6451"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C65162 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C65162"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C6577 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C6577"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C6605 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C6605"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C66760 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C66760"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C6783 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C6783"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C6917 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C6917"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C6966 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C6966"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7052 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7052"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7065 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7065"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7188 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7188"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7363 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7363"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7367 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7367"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7368 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7368"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7387 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7387"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7440 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7440"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7457 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7457"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7468 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7468"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7540 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7540"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7541 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7541"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7567 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7567"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C7658 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C7658"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C79951 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C79951"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8054 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8054"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8366 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8366"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8367 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8367"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8368 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8368"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8422 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8422"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8423 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8423"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C84269 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C84269"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8851 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8851"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8965 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8965"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8971 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8971"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C8984 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C8984"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9006 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9006"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9011 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9011"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9118 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9118"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9145 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9145"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9293 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9293"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9309 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9309"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9344 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9344"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9348 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9348"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9349 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9349"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C9360 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C9360"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C94524 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C94524"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C99055 -->
+
+    <Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C99055"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 1.0-SNAPSHOT) https://github.com/owlcs/owlapi -->
+

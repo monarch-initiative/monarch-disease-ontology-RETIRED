@@ -15,6 +15,8 @@
 0.0 MESH_D008649 Mesonephroma EquivalentTo DOID_4468 clear cell adenocarcinoma
 1.0 OMIM_609814 Complement Factor H Deficiency SiblingOf Orphanet_93571 Dense deposit disease
 0.9 OMIM_614592 Bent Bone Dysplasia Syndrome SiblingOf DOID_10591 pre-eclampsia
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/94
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo MESH_D012174 Retinitis Pigmentosa
 1.0 DOID_10584 retinitis pigmentosa EquivalentTo Orphanet_791 Retinitis Pigmentosa
 0.95 DOID_3429 inclusion body myositis EquivalentTo MESH_D018979 Myositis, Inclusion Body
@@ -68,4 +70,70 @@
 # See https://github.com/DiseaseOntology/HumanDiseaseOntology/issues/163
 0.99 Orphanet_309310 Mucopolysaccharidosis type 4B SubClassOf DOID_12804 mucopolysaccharidosis IV
 0.99 Orphanet_309297 Mucopolysaccharidosis type 4A SubClassOf DOID_12804 mucopolysaccharidosis IV
+
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SuperClassOf OMIM_235400 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 1 
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SuperClassOf OMIM_612922 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 2
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SuperClassOf OMIM_612923 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 3
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SuperClassOf OMIM_612924 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 4
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SuperClassOf OMIM_612925 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 5
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SuperClassOf OMIM_612926 Hemolytic Uremic Syndrome, Atypical, Susceptibility To, 6
+1.0 Orphanet_2134 Atypical hemolytic-uremic syndrome SuperClassOf OMIM_615008 Nephrotic Syndrome, Type 7
+
+1.0 DOID_1686 glaucoma EquivalentTo MESH_D005901 Glaucoma
+1.0 DOID_0050125 dengue shock syndrome SiblingOf OMIM_614371 Dengue Virus, Susceptibility to
+1.0 Orphanet_99828 Dengue fever SiblingOf OMIM_614371 Dengue Virus, Susceptibility to
+0.9 DOID_12205 dengue disease EquivalentTo MESH_D003715 Dengue
+0.9 DOID_12205 dengue disease EquivalentTo Orphanet_99828 Dengue fever
+0.99 Orphanet_558 Marfan syndrome SiblingOf OMIM_610168 Loeys-Dietz Syndrome 2 
+0.9 MESH_D006319 Hearing Loss, Sensorineural SubClassOf DOID_10003 sensorineural hearing loss 
+1.0 DOID_0050970 spinocerebellar ataxia type 19/22 EquivalentTo OMIM_607346 Spinocerebellar Ataxia 19 Pr= 0.8442622950819673
+1.0 DOID_0050970 spinocerebellar ataxia type 19/22 EquivalentTo Orphanet_98772 Spinocerebellar ataxia type 19/22 Pr= 0.9583333333333334
+1.0 Orphanet_98772 Spinocerebellar ataxia type 19/22 EquivalentTo OMIM_607346 Spinocerebellar Ataxia 19 Pr= 0.32670454545454547
+1.0 Orphanet_98772 Spinocerebellar ataxia type 19/22 EquivalentTo MESH_C537198 Spinocerebellar ataxia 19 Pr= 0.3668639053254438
+0.8 NCIT_C6956 Retinal Neuroblastoma SiblingOf DOID_768 retinoblastoma 
+0.9 MESH_D018281 Cholangiocarcinoma EquivalentTo Orphanet_70567 Cholangiocarcinoma
+0.9 DOID_4947 cholangiocarcinoma EquivalentTo MESH_D018281 Cholangiocarcinoma
+0.9 MESH_D001650 Bile Duct Neoplasms EquivalentTo MESH_D001650 Bile Duct Neoplasms
+### See https://github.com/monarch-initiative/monarch-disease-ontology/issues/158
+##   and https://github.com/monarch-initiative/monarch-disease-ontology/issues/94
+0.75 OMIM_179900 Retinal Aplasia SubClassOf Orphanet_65 Leber congenital amaurosis      
+0.75 OMIM_604232 Leber Congenital Amaurosis 3 SubClassOf Orphanet_791 Retinitis pigmentosa      
+0.75 OMIM_604393 Leber Congenital Amaurosis 4 SubClassOf Orphanet_791 Retinitis pigmentosa      
+0.75 OMIM_612712 Leber Congenital Amaurosis 13 SubClassOf Orphanet_791 Retinitis pigmentosa     
+0.75 OMIM_613341 Leber Congenital Amaurosis 14 SubClassOf Orphanet_791 Retinitis pigmentosa     
+0.75 OMIM_604393 Leber Congenital Amaurosis 4 SubClassOf Orphanet_1872 Cone rod dystrophy       
+#
+0.85 MESH_D008577 Meningeal Neoplasms EquivalentTo NCIT_C3229 Meningeal Neoplasm
+0.85 MESH_D008579 Meningioma EquivalentTo Orphanet_2495 Meningioma
+0.85 MESH_D008579 Meningioma EquivalentTo NCIT_C3230 Meningioma
+#
+0.90 OMIM_309549 Mental Retardation, X-Linked 9 SubClassOf DOID_0050776 non-syndromic X-linked intellectual disability
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/164
+0.99 Orphanet_98855 Autosomal recessive Emery-Dreifuss muscular dystrophy SubClassOf MESH_D020389 Muscular Dystrophy, Emery-Dreifuss
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/165
+0.99 MESH_D009542 Niemann-Pick Diseases EquivalentTo DOID_14504 Niemann-Pick disease
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/169
+0.99 DOID_3683 lung benign neoplasm SubClassOf NCIT_C3200 Lung Neoplasm
+0.8 DOID_1324 lung cancer SubClassOf NCIT_C3200 Lung Neoplasm
+0.9 DOID_3683 lung benign neoplasm SubClassOf MESH_D008175 Lung Neoplasms
+0.9 NCIT_C3200 Lung Neoplasm EquivalentTo MESH_D008175 Lung Neoplasms
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/174
+0.95 OMIM_123400 Creutzfeldt-Jakob Disease SubClassOf DOID_11949 Creutzfeldt-Jakob disease
+0.95 DOID_11949 Creutzfeldt-Jakob disease EquivalentTo MESH_D007562 Creutzfeldt-Jakob Syndrome
+0.95 OMIM_123400 Creutzfeldt-Jakob Disease SubClassOf MESH_D007562 Creutzfeldt-Jakob Syndrome
+0.95 OMIM_123400 Creutzfeldt-Jakob Disease EquivalentTo Orphanet_282166 Inherited Creutzfeldt-Jakob disease
+0.95 Orphanet_204 Sporadic Creutzfeldt-Jakob disease EquivalentTo MESH_C565143 Creutzfeldt-Jakob Disease, Sporadic
+0.95 Orphanet_454700 Acquired Creutzfeldt-Jakob disease EquivalentTo MESH_C538481 Acquired CJD
+#
+# https_//en.wikipedia.org/wiki/Nonsyndromic_deafness
+1.0 DOID_0050564 autosomal dominant nonsyndromic deafness EquivalentTo Orphanet_90635 Autosomal dominant non-syndromic sensorineural deafness type DFNA
+1.0 DOID_0050565 autosomal recessive nonsyndromic deafness EquivalentTo Orphanet_90636 Autosomal recessive non-syndromic sensorineural deafness type DFNB
+1.0 DOID_0050566 X-linked nonsyndromic deafness EquivalentTo Orphanet_90625 X-linked non-syndromic sensorineural deafness type DFN
+0.95 DOID_0050563 nonsyndromic deafness EquivalentTo Orphanet_87884 Non-syndromic genetic deafness
+1.0 OMIM_217090 Plasminogen Deficiency, Type 1 SiblingOf Orphanet_97231 Ligneous conjunctivitis
+1.0 Orphanet_2836 PEHO Syndrome SiblingOf Orphanet_99807 PEHO-like Syndrome
 

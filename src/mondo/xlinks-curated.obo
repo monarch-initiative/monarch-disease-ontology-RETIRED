@@ -466,3 +466,12 @@ synonym: "hepatic disease" EXACT []
 id: DOID:12804 ! mucopolysaccharidosis IV
 synonym: "mucopolysaccharidosis type IV" EXACT []
 synonym: "mucopolysaccharidosis type 4" EXACT []
+
+! https://github.com/monarch-initiative/monarch-disease-ontology/issues/138
+[Term]
+id: OMIM:614371 ! DENGUE VIRUS, SUSCEPTIBILITY TO
+relationship: causally_upstream_of DOID:12205 ! dengue disease
+
+[Typedef]
+id: causally_upstream_of
+xref: RO:0002411 ! causally upstream of

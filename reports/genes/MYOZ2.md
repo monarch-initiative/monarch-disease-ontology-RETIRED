@@ -13,13 +13,35 @@
 ### Hypertrophic cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Equiv:[Orphanet:217569 Hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217569)
+    * Syn: "Cardiomyopathies, Hypertrophic"
+    * Syn: "Cardiomyopathies, Hypertrophic Obstructive"
+    * Syn: "Cardiomyopathy, Hypertrophic Obstructive"
     * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "Hypertrophic Cardiomyopathies"
+    * Syn: "Hypertrophic Cardiomyopathy"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathies"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+    * Syn: "Hypertrophic subaortic stenosis"
+    * Syn: "Obstructive Cardiomyopathies, Hypertrophic"
+    * Syn: "Obstructive Cardiomyopathy, Hypertrophic"
+    * Syn: "Obstructive hypertrophic cardiomyopathy"
 
 ### Hypertrophic cardiomyopathy
  * [DOID:11984 hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/DOID:11984) Confidence: high
     * Equiv:[MESH:D002312 Cardiomyopathy, Hypertrophic](http://beta.monarchinitiative.org/disease/MESH:D002312)
-    * Equiv:[MESH:D024741 Cardiomyopathy, Hypertrophic, Familial](http://beta.monarchinitiative.org/disease/MESH:D024741)
+    * Equiv:[Orphanet:217569 Hypertrophic cardiomyopathy](http://beta.monarchinitiative.org/disease/Orphanet:217569)
+    * Syn: "Cardiomyopathies, Hypertrophic"
+    * Syn: "Cardiomyopathies, Hypertrophic Obstructive"
+    * Syn: "Cardiomyopathy, Hypertrophic Obstructive"
     * Syn: "familial hypertrophic cardiomyopathy"
+    * Syn: "Hypertrophic Cardiomyopathies"
+    * Syn: "Hypertrophic Cardiomyopathy"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathies"
+    * Syn: "Hypertrophic Obstructive Cardiomyopathy"
     * Syn: "hypertrophic obstructive cardiomyopathy"
+    * Syn: "Hypertrophic subaortic stenosis"
+    * Syn: "Obstructive Cardiomyopathies, Hypertrophic"
+    * Syn: "Obstructive Cardiomyopathy, Hypertrophic"
+    * Syn: "Obstructive hypertrophic cardiomyopathy"

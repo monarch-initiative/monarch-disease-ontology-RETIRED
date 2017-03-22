@@ -7,32 +7,46 @@
 
 ### DENYS-DRASH SYNDROME
  * [OMIM:194080 Denys-Drash syndrome](http://beta.monarchinitiative.org/disease/OMIM:194080) Confidence: high
+    * Equiv:[Orphanet:220 Denys-Drash syndrome](http://beta.monarchinitiative.org/disease/Orphanet:220)
     * Equiv:[DOID:3764 Denys-Drash syndrome](http://beta.monarchinitiative.org/disease/DOID:3764)
     * Equiv:[MESH:D030321 Denys-Drash Syndrome](http://beta.monarchinitiative.org/disease/MESH:D030321)
     * Syn: "DDS"
+    * Syn: "Denys Drash Syndrome"
     * Syn: "DENYS-DRASH SYNDROME; DDS"
     * Syn: "Drash Syndrome"
+    * Syn: "Drash syndrome"
     * Syn: "Nephropathy, Wilms Tumor, and Genital Anomalies"
+    * Syn: "Pseudohermaphroditism, Nephron Disorder and Wilms' Tumor"
+    * Syn: "Syndrome, Denys-Drash"
+    * Syn: "Syndrome, Drash"
     * Syn: "Wilms Tumor and Pseudo- or True Hermaphroditism"
+    * Syn: "Wilms Tumor and Pseudohermaphroditism"
+    * Syn: "Wilms tumor and pseudohermaphroditism"
 
 ### Hereditary Nephrotic Syndromes
  * [DOID:1184 nephrotic syndrome](http://beta.monarchinitiative.org/disease/DOID:1184) Confidence: low/0.18055555555555555
+    * Equiv:[MESH:D009404 Nephrotic Syndrome](http://beta.monarchinitiative.org/disease/MESH:D009404)
     * Syn: "finnish congenital nephrosis"
+    * Syn: "Nephrotic Syndromes"
+    * Syn: "Syndrome, Nephrotic"
+    * Syn: "Syndromes, Nephrotic"
 
 ### MEACHAM SYNDROME
- * [OMIM:608978 Meacham syndrome](http://beta.monarchinitiative.org/disease/OMIM:608978) Confidence: high
-    * Equiv:[Orphanet:3097 Meacham syndrome](http://beta.monarchinitiative.org/disease/Orphanet:3097)
-    * Equiv:[MESH:C563821 Meacham Syndrome](http://beta.monarchinitiative.org/disease/MESH:C563821)
-    * Syn: "MEACHAM SYNDROME"
+ * [MESH:C563821 Meacham Syndrome](http://beta.monarchinitiative.org/disease/MESH:C563821) Confidence: high
 
 ### FRASIER SYNDROME
  * [OMIM:136680 Frasier syndrome](http://beta.monarchinitiative.org/disease/OMIM:136680) Confidence: high
+    * Equiv:[Orphanet:347 Frasier syndrome](http://beta.monarchinitiative.org/disease/Orphanet:347)
     * Equiv:[DOID:0050438 Frasier syndrome](http://beta.monarchinitiative.org/disease/DOID:0050438)
     * Equiv:[MESH:D052159 Frasier Syndrome](http://beta.monarchinitiative.org/disease/MESH:D052159)
     * Syn: "FRASIER SYNDROME"
+    * Syn: "Syndrome, Frasier"
 
 ### MESOTHELIOMA, SOMATIC
- * [Orphanet:50251 Mesothelioma](http://beta.monarchinitiative.org/disease/Orphanet:50251) Confidence: low/0.15625
+ * [Orphanet:168816 Peritoneal cystic mesothelioma](http://beta.monarchinitiative.org/disease/Orphanet:168816) Confidence: low/0.09375
+    * Syn: "Benign multicystic peritoneal mesothelioma"
+    * Syn: "Multicystic mesothelioma"
+    * Syn: "Multilocular peritoneal inclusion cyst"
 
 ### NEPHROTIC SYNDROME TYPE 4
  * [OMIM:256370 Nephrotic Syndrome, Type 4](http://beta.monarchinitiative.org/disease/OMIM:256370) Confidence: high
@@ -53,3 +67,4 @@
 ### Proteinuria
  * [DOID:576 proteinuria](http://beta.monarchinitiative.org/disease/DOID:576) Confidence: high
     * Equiv:[MESH:D011507 Proteinuria](http://beta.monarchinitiative.org/disease/MESH:D011507)
+    * Syn: "Proteinurias"

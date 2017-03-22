@@ -6,16 +6,55 @@
 
 
 ### ADENOMA, PERIAMPULLARY, SOMATIC
- * [MESH:D000236 Adenoma](http://beta.monarchinitiative.org/disease/MESH:D000236) Confidence: low/0.1388888888888889
+ * [DOID:657 adenoma](http://beta.monarchinitiative.org/disease/DOID:657) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:D000236 Adenoma](http://beta.monarchinitiative.org/disease/MESH:D000236)
+    * Syn: "acinar cell adenoma"
+    * Syn: "acinar cell adenoma (morphologic abnormality)"
+    * Syn: "acinic cell adenoma"
+    * Syn: "adenoma"
+    * Syn: "Adenoma, Basal Cell"
+    * Syn: "Adenoma, Follicular"
+    * Syn: "Adenoma, Microcystic"
+    * Syn: "Adenoma, Monomorphic"
+    * Syn: "Adenoma, Papillary"
+    * Syn: "Adenoma, Trabecular"
+    * Syn: "Adenomas"
+    * Syn: "adenomas"
+    * Syn: "Adenomas, Basal Cell"
+    * Syn: "Adenomas, Follicular"
+    * Syn: "Adenomas, Microcystic"
+    * Syn: "Adenomas, Monomorphic"
+    * Syn: "Adenomas, Papillary"
+    * Syn: "Adenomas, Trabecular"
+    * Syn: "Basal Cell Adenoma"
+    * Syn: "Basal Cell Adenomas"
+    * Syn: "Follicular Adenoma"
+    * Syn: "Follicular Adenomas"
+    * Syn: "Microcystic Adenoma"
+    * Syn: "Microcystic Adenomas"
+    * Syn: "Monomorphic Adenoma"
+    * Syn: "Monomorphic Adenomas"
+    * Syn: "Papillary Adenoma"
+    * Syn: "Papillary Adenomas"
+    * Syn: "Trabecular Adenoma"
+    * Syn: "Trabecular Adenomas"
 
 ### DESMOID TUMOR, SOMATIC
- * [Orphanet:873 Desmoid tumor](http://beta.monarchinitiative.org/disease/Orphanet:873) Confidence: low/0.18055555555555555
+ * [OMIM:135290 Desmoid tumor](http://beta.monarchinitiative.org/disease/OMIM:135290) Confidence: low/0.18055555555555555
+    * Equiv:[Orphanet:873 Desmoid tumor](http://beta.monarchinitiative.org/disease/Orphanet:873)
+    * Equiv:[MESH:C535944 Desmoid disease, hereditary](http://beta.monarchinitiative.org/disease/MESH:C535944)
+    * Syn: "Aggressive fibromatosis"
+    * Syn: "DESMOID DISEASE, HEREDITARY"
+    * Syn: "Desmoid Tumor Caused By Somatic Mutation"
+    * Syn: "Desmoid Tumor Caused by Somatic Mutation"
+    * Syn: "Desmoid type fibromatosis"
+    * Syn: "Familial infiltrative fibromatosis"
+    * Syn: "Fibromatosis, Familial Infiltrative"
+    * Syn: "Fibromatosis, familial infiltrative"
 
 ### FAMILIAL ADENOMATOUS POLYPOSIS 1, SUSCEPTIBILITY TO
- * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.15555555555555556
-    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
-    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
-    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
+ * [OMIM:175100 Gardner syndrome](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.07777777777777778
+    * Equiv:[Orphanet:79665 Gardner syndrome](http://beta.monarchinitiative.org/disease/Orphanet:79665)
     * Syn: "Adenomatous Polyposis Coli, Attenuated"
     * Syn: "Adenomatous Polyposis of the Colon"
     * Syn: "Brain Tumor-Polyposis Syndrome 2"
@@ -24,62 +63,151 @@
     * Syn: "Familial Polyposis of the Colon"
     * Syn: "FAP1"
     * Syn: "Gardner Syndrome"
+    * Syn: "Gardner Syndromes"
+    * Syn: "Gardner's Syndrome"
+    * Syn: "Gardner's Syndromes"
+    * Syn: "Gardners Syndrome"
     * Syn: "Polyposis, Adenomatous Intestinal"
+    * Syn: "Syndrome, Gardner"
+    * Syn: "Syndrome, Gardner's"
+    * Syn: "Syndromes, Gardner"
+    * Syn: "Syndromes, Gardner's"
 
 ### Familial Adenomatous Polyposis
  * [DOID:0050424 familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/DOID:0050424) Confidence: high
+    * Equiv:[Orphanet:733 Familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/Orphanet:733)
+    * Syn: "Adenomatous Intestinal Polyposes"
+    * Syn: "Adenomatous Intestinal Polyposis"
+    * Syn: "Adenomatous Polyposes, Familial"
+    * Syn: "Adenomatous Polyposis Coli, Familial"
+    * Syn: "Adenomatous Polyposis Colus"
+    * Syn: "Adenomatous Polyposis of the Colon"
     * Syn: "adenomatous polyposis of the colon"
+    * Syn: "Adenomatous Polyposis, Familial"
+    * Syn: "Coli, Adenomatous Polyposis"
+    * Syn: "Coli, Familial Polyposis"
+    * Syn: "Coli, Hereditary Polyposis"
+    * Syn: "Coli, Polyposis"
+    * Syn: "Colorectal adenomatous polyposis"
+    * Syn: "Colus, Adenomatous Polyposis"
+    * Syn: "Colus, Familial Polyposis"
+    * Syn: "Colus, Hereditary Polyposis"
+    * Syn: "Colus, Polyposis"
+    * Syn: "Familial Adenomatous Polyposes"
+    * Syn: "Familial Adenomatous Polyposis"
+    * Syn: "Familial Adenomatous Polyposis Coli"
+    * Syn: "Familial Adenomatous Polyposis of the Colon"
+    * Syn: "Familial Intestinal Polyposes"
+    * Syn: "Familial Intestinal Polyposis"
+    * Syn: "Familial Multiple Polyposes"
+    * Syn: "Familial Multiple Polyposi"
+    * Syn: "Familial Multiple Polyposis"
+    * Syn: "Familial Multiple Polyposis Syndrome"
+    * Syn: "Familial Multiple Polyposus"
+    * Syn: "Familial Polyposis Coli"
+    * Syn: "Familial polyposis coli"
+    * Syn: "Familial Polyposis Colus"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "Familial Polyposis Syndrome"
+    * Syn: "Familial Polyposis Syndromes"
+    * Syn: "FAP"
+    * Syn: "Hereditary Polyposis Coli"
+    * Syn: "Hereditary Polyposis Colus"
+    * Syn: "Intestinal Polyposes, Familial"
+    * Syn: "Intestinal Polyposis, Adenomatous"
+    * Syn: "Intestinal Polyposis, Familial"
+    * Syn: "Multiple Polyposes, Familial"
+    * Syn: "Multiple Polyposi, Familial"
+    * Syn: "Multiple Polyposis, Familial"
+    * Syn: "Multiple Polyposus, Familial"
+    * Syn: "Myh Associated Polyposis"
+    * Syn: "Myh-Associated Polyposes"
+    * Syn: "Myh-Associated Polyposis"
+    * Syn: "Polyposes, Familial Adenomatous"
+    * Syn: "Polyposes, Familial Multiple"
+    * Syn: "Polyposes, Myh-Associated"
+    * Syn: "Polyposi, Familial Multiple"
+    * Syn: "Polyposis Coli"
+    * Syn: "Polyposis Coli, Adenomatous"
+    * Syn: "Polyposis Coli, Familial"
+    * Syn: "Polyposis Coli, Hereditary"
+    * Syn: "Polyposis Colus"
+    * Syn: "Polyposis Colus, Adenomatous"
+    * Syn: "Polyposis Colus, Familial"
+    * Syn: "Polyposis Colus, Hereditary"
+    * Syn: "Polyposis Syndrome, Familial"
+    * Syn: "Polyposis, Adenomatous Intestinal"
+    * Syn: "Polyposis, Familial Adenomatous"
+    * Syn: "Polyposis, Familial Multiple"
+    * Syn: "Polyposis, Myh-Associated"
+    * Syn: "Polyposus, Familial Multiple"
 
 ### Familial cancer of breast
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: high
-    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
-    * Syn: "BREAST CANCER"
-    * Syn: "Breast Cancer, Familial"
-    * Syn: "Breast Cancer, Familial Male"
+ * [MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840) Confidence: high
 
 ### HEPATOBLASTOMA, SOMATIC
- * [OMIM:114550 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/OMIM:114550) Confidence: low/0.15625
-    * Equiv:[MESH:C567299 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/MESH:C567299)
-    * Syn: "Cancer, Hepatocellular"
-    * Syn: "Hcc"
-    * Syn: "Hepatoblastoma"
-    * Syn: "Hepatoblastoma Caused by Somatic Mutation"
-    * Syn: "HEPATOCELLULAR CARCINOMA"
-    * Syn: "Hepatoma"
-    * Syn: "Liver Cancer"
-    * Syn: "Liver Cell Carcinoma"
+ * [DOID:687 hepatoblastoma](http://beta.monarchinitiative.org/disease/DOID:687) Confidence: low/0.15625
+    * Equiv:[MESH:D018197 Hepatoblastoma](http://beta.monarchinitiative.org/disease/MESH:D018197)
+    * Equiv:[Orphanet:449 Hepatoblastoma](http://beta.monarchinitiative.org/disease/Orphanet:449)
+    * Syn: "HBL"
+    * Syn: "Hepatoblastomas"
 
 ### HEPATOCELLULAR CARCINOMA, SOMATIC
- * [OMIM:114550 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/OMIM:114550) Confidence: low/0.18055555555555555
-    * Equiv:[MESH:C567299 Hepatoblastoma Caused By Somatic Mutation](http://beta.monarchinitiative.org/disease/MESH:C567299)
+ * [OMIM:114550 hepatocellular carcinoma](http://beta.monarchinitiative.org/disease/OMIM:114550) Confidence: low/0.18055555555555555
+    * Equiv:[Orphanet:88673 Hepatocellular carcinoma](http://beta.monarchinitiative.org/disease/Orphanet:88673)
+    * Equiv:[DOID:684 hepatocellular carcinoma](http://beta.monarchinitiative.org/disease/DOID:684)
+    * Equiv:[MESH:D006528 Carcinoma, Hepatocellular](http://beta.monarchinitiative.org/disease/MESH:D006528)
+    * Syn: "adult Hepatoma"
+    * Syn: "Adult Liver Cancer"
+    * Syn: "Adult Liver Cancers"
+    * Syn: "adult primary hepatocellular carcinoma"
+    * Syn: "Cancer, Adult Liver"
     * Syn: "Cancer, Hepatocellular"
+    * Syn: "Cancers, Adult Liver"
+    * Syn: "Carcinoma, Liver Cell"
+    * Syn: "Carcinomas, Hepatocellular"
+    * Syn: "Carcinomas, Liver Cell"
+    * Syn: "Cell Carcinoma, Liver"
+    * Syn: "Cell Carcinomas, Liver"
+    * Syn: "HCC"
     * Syn: "Hcc"
     * Syn: "Hepatoblastoma"
     * Syn: "Hepatoblastoma Caused by Somatic Mutation"
     * Syn: "HEPATOCELLULAR CARCINOMA"
+    * Syn: "Hepatocellular Carcinoma"
+    * Syn: "Hepatocellular Carcinomas"
     * Syn: "Hepatoma"
+    * Syn: "Hepatoma"
+    * Syn: "Hepatomas"
     * Syn: "Liver Cancer"
+    * Syn: "Liver Cancer, Adult"
+    * Syn: "Liver Cancers, Adult"
     * Syn: "Liver Cell Carcinoma"
+    * Syn: "Liver Cell Carcinoma, Adult"
+    * Syn: "Liver Cell Carcinomas"
 
 ### BREAST CANCER, SUSCEPTIBILITY TO
- * [OMIM:114480 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.15625
-    * Equiv:[MESH:C562840 Breast Cancer, Familial](http://beta.monarchinitiative.org/disease/MESH:C562840)
+ * [OMIM:114480 Breast Cancer](http://beta.monarchinitiative.org/disease/OMIM:114480) Confidence: low/0.15625
     * Syn: "BREAST CANCER"
     * Syn: "Breast Cancer, Familial"
     * Syn: "Breast Cancer, Familial Male"
 
 ### DESMOID DISEASE, HEREDITARY
- * [OMIM:135290 Desmoid disease, hereditary](http://beta.monarchinitiative.org/disease/OMIM:135290) Confidence: high
+ * [OMIM:135290 Desmoid tumor](http://beta.monarchinitiative.org/disease/OMIM:135290) Confidence: high
+    * Equiv:[Orphanet:873 Desmoid tumor](http://beta.monarchinitiative.org/disease/Orphanet:873)
     * Equiv:[MESH:C535944 Desmoid disease, hereditary](http://beta.monarchinitiative.org/disease/MESH:C535944)
+    * Syn: "Aggressive fibromatosis"
     * Syn: "DESMOID DISEASE, HEREDITARY"
+    * Syn: "Desmoid Tumor Caused By Somatic Mutation"
     * Syn: "Desmoid Tumor Caused by Somatic Mutation"
+    * Syn: "Desmoid type fibromatosis"
+    * Syn: "Familial infiltrative fibromatosis"
     * Syn: "Fibromatosis, Familial Infiltrative"
+    * Syn: "Fibromatosis, familial infiltrative"
 
 ### FAMILIAL ADENOMATOUS POLYPOSIS 1
- * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.18000000000000002
-    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
-    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
-    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
+ * [OMIM:175100 Gardner syndrome](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.09000000000000001
+    * Equiv:[Orphanet:79665 Gardner syndrome](http://beta.monarchinitiative.org/disease/Orphanet:79665)
     * Syn: "Adenomatous Polyposis Coli, Attenuated"
     * Syn: "Adenomatous Polyposis of the Colon"
     * Syn: "Brain Tumor-Polyposis Syndrome 2"
@@ -88,21 +216,113 @@
     * Syn: "Familial Polyposis of the Colon"
     * Syn: "FAP1"
     * Syn: "Gardner Syndrome"
+    * Syn: "Gardner Syndromes"
+    * Syn: "Gardner's Syndrome"
+    * Syn: "Gardner's Syndromes"
+    * Syn: "Gardners Syndrome"
     * Syn: "Polyposis, Adenomatous Intestinal"
+    * Syn: "Syndrome, Gardner"
+    * Syn: "Syndrome, Gardner's"
+    * Syn: "Syndromes, Gardner"
+    * Syn: "Syndromes, Gardner's"
 
 ### ADENOMATOUS POLYPOSIS COLI WITH CONGENITAL CHOLESTEATOMA
- * [OMIM:604183 Cholesteatoma, Congenital](http://beta.monarchinitiative.org/disease/OMIM:604183) Confidence: low/0.1388888888888889
-    * Equiv:[MESH:C562858 Cholesteatoma, Congenital](http://beta.monarchinitiative.org/disease/MESH:C562858)
-    * Syn: "CHOLESTEATOMA, CONGENITAL"
+ * [DOID:869 cholesteatoma](http://beta.monarchinitiative.org/disease/DOID:869) Confidence: low/0.1284722222222222
+    * Equiv:[MESH:D002781 Cholesteatoma](http://beta.monarchinitiative.org/disease/MESH:D002781)
+    * Syn: "Cholesteatomas"
 
 ### Adenomatous polyposis coli
- * [MESH:D011125 Adenomatous Polyposis Coli](http://beta.monarchinitiative.org/disease/MESH:D011125) Confidence: high
+ * [DOID:0050424 familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/DOID:0050424) Confidence: high
+    * Equiv:[Orphanet:733 Familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/Orphanet:733)
+    * Syn: "Adenomatous Intestinal Polyposes"
+    * Syn: "Adenomatous Intestinal Polyposis"
+    * Syn: "Adenomatous Polyposes, Familial"
+    * Syn: "Adenomatous Polyposis Coli, Familial"
+    * Syn: "Adenomatous Polyposis Colus"
+    * Syn: "Adenomatous Polyposis of the Colon"
+    * Syn: "adenomatous polyposis of the colon"
+    * Syn: "Adenomatous Polyposis, Familial"
+    * Syn: "Coli, Adenomatous Polyposis"
+    * Syn: "Coli, Familial Polyposis"
+    * Syn: "Coli, Hereditary Polyposis"
+    * Syn: "Coli, Polyposis"
+    * Syn: "Colorectal adenomatous polyposis"
+    * Syn: "Colus, Adenomatous Polyposis"
+    * Syn: "Colus, Familial Polyposis"
+    * Syn: "Colus, Hereditary Polyposis"
+    * Syn: "Colus, Polyposis"
+    * Syn: "Familial Adenomatous Polyposes"
+    * Syn: "Familial Adenomatous Polyposis"
+    * Syn: "Familial Adenomatous Polyposis Coli"
+    * Syn: "Familial Adenomatous Polyposis of the Colon"
+    * Syn: "Familial Intestinal Polyposes"
+    * Syn: "Familial Intestinal Polyposis"
+    * Syn: "Familial Multiple Polyposes"
+    * Syn: "Familial Multiple Polyposi"
+    * Syn: "Familial Multiple Polyposis"
+    * Syn: "Familial Multiple Polyposis Syndrome"
+    * Syn: "Familial Multiple Polyposus"
+    * Syn: "Familial Polyposis Coli"
+    * Syn: "Familial polyposis coli"
+    * Syn: "Familial Polyposis Colus"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "Familial Polyposis Syndrome"
+    * Syn: "Familial Polyposis Syndromes"
+    * Syn: "FAP"
+    * Syn: "Hereditary Polyposis Coli"
+    * Syn: "Hereditary Polyposis Colus"
+    * Syn: "Intestinal Polyposes, Familial"
+    * Syn: "Intestinal Polyposis, Adenomatous"
+    * Syn: "Intestinal Polyposis, Familial"
+    * Syn: "Multiple Polyposes, Familial"
+    * Syn: "Multiple Polyposi, Familial"
+    * Syn: "Multiple Polyposis, Familial"
+    * Syn: "Multiple Polyposus, Familial"
+    * Syn: "Myh Associated Polyposis"
+    * Syn: "Myh-Associated Polyposes"
+    * Syn: "Myh-Associated Polyposis"
+    * Syn: "Polyposes, Familial Adenomatous"
+    * Syn: "Polyposes, Familial Multiple"
+    * Syn: "Polyposes, Myh-Associated"
+    * Syn: "Polyposi, Familial Multiple"
+    * Syn: "Polyposis Coli"
+    * Syn: "Polyposis Coli, Adenomatous"
+    * Syn: "Polyposis Coli, Familial"
+    * Syn: "Polyposis Coli, Hereditary"
+    * Syn: "Polyposis Colus"
+    * Syn: "Polyposis Colus, Adenomatous"
+    * Syn: "Polyposis Colus, Familial"
+    * Syn: "Polyposis Colus, Hereditary"
+    * Syn: "Polyposis Syndrome, Familial"
+    * Syn: "Polyposis, Adenomatous Intestinal"
+    * Syn: "Polyposis, Familial Adenomatous"
+    * Syn: "Polyposis, Familial Multiple"
+    * Syn: "Polyposis, Myh-Associated"
+    * Syn: "Polyposus, Familial Multiple"
 
 ### Colorectal adenoma
  * [DOID:0050860 colorectal adenoma](http://beta.monarchinitiative.org/disease/DOID:0050860) Confidence: high
 
 ### GARDNER SYNDROME
- * [Orphanet:79665 Gardner syndrome](http://beta.monarchinitiative.org/disease/Orphanet:79665) Confidence: high
+ * [OMIM:175100 Gardner syndrome](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: high
+    * Equiv:[Orphanet:79665 Gardner syndrome](http://beta.monarchinitiative.org/disease/Orphanet:79665)
+    * Syn: "Adenomatous Polyposis Coli, Attenuated"
+    * Syn: "Adenomatous Polyposis of the Colon"
+    * Syn: "Brain Tumor-Polyposis Syndrome 2"
+    * Syn: "FAMILIAL ADENOMATOUS POLYPOSIS 1; FAP1"
+    * Syn: "Familial Adenomatous Polyposis, Attenuated"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "FAP1"
+    * Syn: "Gardner Syndrome"
+    * Syn: "Gardner Syndromes"
+    * Syn: "Gardner's Syndrome"
+    * Syn: "Gardner's Syndromes"
+    * Syn: "Gardners Syndrome"
+    * Syn: "Polyposis, Adenomatous Intestinal"
+    * Syn: "Syndrome, Gardner"
+    * Syn: "Syndrome, Gardner's"
+    * Syn: "Syndromes, Gardner"
+    * Syn: "Syndromes, Gardner's"
 
 ### GASTRIC CANCER, SOMATIC
  * [OMIM:613659 Gastric Cancer](http://beta.monarchinitiative.org/disease/OMIM:613659) Confidence: low/0.18055555555555555
@@ -110,34 +330,32 @@
     * Syn: "Gastric Cancer, Intestinal"
 
 ### BRAIN TUMOR-POLYPOSIS SYNDROME 2
- * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: high
-    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
-    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
-    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
-    * Syn: "Adenomatous Polyposis Coli, Attenuated"
-    * Syn: "Adenomatous Polyposis of the Colon"
+ * [MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778) Confidence: high
     * Syn: "Brain Tumor-Polyposis Syndrome 2"
-    * Syn: "FAMILIAL ADENOMATOUS POLYPOSIS 1; FAP1"
-    * Syn: "Familial Adenomatous Polyposis, Attenuated"
-    * Syn: "Familial Polyposis of the Colon"
-    * Syn: "FAP1"
-    * Syn: "Gardner Syndrome"
-    * Syn: "Polyposis, Adenomatous Intestinal"
 
 ### COLORECTAL CANCER, SOMATIC
- * [OMIM:114500 Colorectal Cancer](http://beta.monarchinitiative.org/disease/OMIM:114500) Confidence: low/0.1388888888888889
-    * Syn: "Colon Cancer"
-    * Syn: "COLORECTAL CANCER; CRC"
-    * Syn: "CRC"
+ * [DOID:162 cancer](http://beta.monarchinitiative.org/disease/DOID:162) Confidence: low/0.1388888888888889
+    * Equiv:[MESH:D009369 Neoplasms](http://beta.monarchinitiative.org/disease/MESH:D009369)
+    * Syn: "Benign Neoplasm"
+    * Syn: "Benign Neoplasms"
+    * Syn: "Cancer"
+    * Syn: "Cancers"
+    * Syn: "malignant neoplasm"
+    * Syn: "malignant tumor "
+    * Syn: "Neoplasia"
+    * Syn: "Neoplasm"
+    * Syn: "Neoplasm, Benign"
+    * Syn: "Neoplasms, Benign"
+    * Syn: "primary cancer"
+    * Syn: "Tumor"
+    * Syn: "Tumors"
 
 ### Colon cancer
  * [DOID:219 colon cancer](http://beta.monarchinitiative.org/disease/DOID:219) Confidence: high
 
 ### FAMILIAL ADENOMATOUS POLYPOSIS 1, ATTENUATED
- * [OMIM:175100 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.18000000000000002
-    * Equiv:[MESH:C538265 Attenuated familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/MESH:C538265)
-    * Equiv:[MESH:C566778 Adenomatous Polyposis Coli, Attenuated](http://beta.monarchinitiative.org/disease/MESH:C566778)
-    * Equiv:[MESH:D005736 Gardner Syndrome](http://beta.monarchinitiative.org/disease/MESH:D005736)
+ * [OMIM:175100 Gardner syndrome](http://beta.monarchinitiative.org/disease/OMIM:175100) Confidence: low/0.09000000000000001
+    * Equiv:[Orphanet:79665 Gardner syndrome](http://beta.monarchinitiative.org/disease/Orphanet:79665)
     * Syn: "Adenomatous Polyposis Coli, Attenuated"
     * Syn: "Adenomatous Polyposis of the Colon"
     * Syn: "Brain Tumor-Polyposis Syndrome 2"
@@ -146,11 +364,95 @@
     * Syn: "Familial Polyposis of the Colon"
     * Syn: "FAP1"
     * Syn: "Gardner Syndrome"
+    * Syn: "Gardner Syndromes"
+    * Syn: "Gardner's Syndrome"
+    * Syn: "Gardner's Syndromes"
+    * Syn: "Gardners Syndrome"
     * Syn: "Polyposis, Adenomatous Intestinal"
+    * Syn: "Syndrome, Gardner"
+    * Syn: "Syndrome, Gardner's"
+    * Syn: "Syndromes, Gardner"
+    * Syn: "Syndromes, Gardner's"
 
 ### Familial adenomatous polyposis 1
  * [DOID:0050424 familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/DOID:0050424) Confidence: low/0.1953125
+    * Equiv:[Orphanet:733 Familial adenomatous polyposis](http://beta.monarchinitiative.org/disease/Orphanet:733)
+    * Syn: "Adenomatous Intestinal Polyposes"
+    * Syn: "Adenomatous Intestinal Polyposis"
+    * Syn: "Adenomatous Polyposes, Familial"
+    * Syn: "Adenomatous Polyposis Coli, Familial"
+    * Syn: "Adenomatous Polyposis Colus"
+    * Syn: "Adenomatous Polyposis of the Colon"
     * Syn: "adenomatous polyposis of the colon"
+    * Syn: "Adenomatous Polyposis, Familial"
+    * Syn: "Coli, Adenomatous Polyposis"
+    * Syn: "Coli, Familial Polyposis"
+    * Syn: "Coli, Hereditary Polyposis"
+    * Syn: "Coli, Polyposis"
+    * Syn: "Colorectal adenomatous polyposis"
+    * Syn: "Colus, Adenomatous Polyposis"
+    * Syn: "Colus, Familial Polyposis"
+    * Syn: "Colus, Hereditary Polyposis"
+    * Syn: "Colus, Polyposis"
+    * Syn: "Familial Adenomatous Polyposes"
+    * Syn: "Familial Adenomatous Polyposis"
+    * Syn: "Familial Adenomatous Polyposis Coli"
+    * Syn: "Familial Adenomatous Polyposis of the Colon"
+    * Syn: "Familial Intestinal Polyposes"
+    * Syn: "Familial Intestinal Polyposis"
+    * Syn: "Familial Multiple Polyposes"
+    * Syn: "Familial Multiple Polyposi"
+    * Syn: "Familial Multiple Polyposis"
+    * Syn: "Familial Multiple Polyposis Syndrome"
+    * Syn: "Familial Multiple Polyposus"
+    * Syn: "Familial Polyposis Coli"
+    * Syn: "Familial polyposis coli"
+    * Syn: "Familial Polyposis Colus"
+    * Syn: "Familial Polyposis of the Colon"
+    * Syn: "Familial Polyposis Syndrome"
+    * Syn: "Familial Polyposis Syndromes"
+    * Syn: "FAP"
+    * Syn: "Hereditary Polyposis Coli"
+    * Syn: "Hereditary Polyposis Colus"
+    * Syn: "Intestinal Polyposes, Familial"
+    * Syn: "Intestinal Polyposis, Adenomatous"
+    * Syn: "Intestinal Polyposis, Familial"
+    * Syn: "Multiple Polyposes, Familial"
+    * Syn: "Multiple Polyposi, Familial"
+    * Syn: "Multiple Polyposis, Familial"
+    * Syn: "Multiple Polyposus, Familial"
+    * Syn: "Myh Associated Polyposis"
+    * Syn: "Myh-Associated Polyposes"
+    * Syn: "Myh-Associated Polyposis"
+    * Syn: "Polyposes, Familial Adenomatous"
+    * Syn: "Polyposes, Familial Multiple"
+    * Syn: "Polyposes, Myh-Associated"
+    * Syn: "Polyposi, Familial Multiple"
+    * Syn: "Polyposis Coli"
+    * Syn: "Polyposis Coli, Adenomatous"
+    * Syn: "Polyposis Coli, Familial"
+    * Syn: "Polyposis Coli, Hereditary"
+    * Syn: "Polyposis Colus"
+    * Syn: "Polyposis Colus, Adenomatous"
+    * Syn: "Polyposis Colus, Familial"
+    * Syn: "Polyposis Colus, Hereditary"
+    * Syn: "Polyposis Syndrome, Familial"
+    * Syn: "Polyposis, Adenomatous Intestinal"
+    * Syn: "Polyposis, Familial Adenomatous"
+    * Syn: "Polyposis, Familial Multiple"
+    * Syn: "Polyposis, Myh-Associated"
+    * Syn: "Polyposus, Familial Multiple"
 
 ### Neoplastic Syndromes, Hereditary
  * [MESH:D009386 Neoplastic Syndromes, Hereditary](http://beta.monarchinitiative.org/disease/MESH:D009386) Confidence: high
+    * Syn: "Cancer Syndrome, Hereditary"
+    * Syn: "Cancer Syndromes, Hereditary"
+    * Syn: "Hereditary Cancer Syndrome"
+    * Syn: "Hereditary Cancer Syndromes"
+    * Syn: "Hereditary Neoplastic Syndrome"
+    * Syn: "Hereditary Neoplastic Syndromes"
+    * Syn: "Neoplastic Syndrome, Hereditary"
+    * Syn: "Syndrome, Hereditary Cancer"
+    * Syn: "Syndrome, Hereditary Neoplastic"
+    * Syn: "Syndromes, Hereditary Cancer"
+    * Syn: "Syndromes, Hereditary Neoplastic"
