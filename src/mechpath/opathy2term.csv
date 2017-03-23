@@ -57,7 +57,7 @@ myotilinopathy
 nephropathy
 neurocristopathy,neural crest cell migration
 neuroferritinopathy
-neurohepatopathy
+#neurohepatopathy
 neuromyopathy
 neuronopathy
 neuropathy
@@ -66,9 +66,9 @@ osteoarthropathy
 polyendocrinopathy
 polyneuropathy
 polyradiculoneuropathy
-proteinopathy
+#proteinopathy
 radiculoneuropathy
-rasopathy,Ras protein signal transduction
+rasopathy,GO:0007265 ## Ras protein signal transduction
 retinopathy,retina development
 ribosomopathy,ribosome
 spondyloarthropathy
