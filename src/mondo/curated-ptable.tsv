@@ -171,3 +171,4 @@
 1.0 DOID_83 cataract EquivalentTo MESH_D002386 Cataract Pr= 0.6875
 1.0 DOID_0050735 X-linked disease EquivalentTo MESH_D040181 Genetic Diseases, X-Linked Pr= 0.375
 1.0 DOID_10123 pigmentation disease EquivalentTo MESH_D010859 Pigmentation Disorders Pr= 0.38461538461538464
+1.0 Orphanet_812 Sialidosis type 1 SiblingOf Orphanet_87876 Sialidosis type 2
