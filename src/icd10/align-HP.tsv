@@ -1,0 +1,1744 @@
+HP:0000013	Hypoplasia of the uterus	ICD10:Q51.811	Hypoplasia of uterus	false	
+HP:0000013	Hypoplasia of the uterus	ICD10:Q51.811	Hypoplasia of uterus	true	
+HP:0000015	Bladder diverticulum	ICD10:N32.3	Diverticulum of bladder	false	
+HP:0000015	Bladder diverticulum	ICD10:N32.3	Diverticulum of bladder	true	
+HP:0000017	Nocturia	ICD10:R35.1	Nocturia	false	
+HP:0000017	Nocturia	ICD10:R35.1	Nocturia	true	
+HP:0000031	Epididymitis	ICD10:N45.1	Epididymitis	false	
+HP:0000031	Epididymitis	ICD10:N45.1	Epididymitis	true	
+HP:0000039	Epispadias	ICD10:Q64.0	Epispadias	false	
+HP:0000039	Epispadias	ICD10:Q64.0	Epispadias	true	
+HP:0000051	Perineal hypospadias	ICD10:Q54.3	Hypospadias, perineal	false	
+HP:0000051	Perineal hypospadias	ICD10:Q54.3	Hypospadias, perineal	true	
+HP:0000072	Hydroureter	ICD10:N13.4	Hydroureter	false	
+HP:0000072	Hydroureter	ICD10:N13.4	Hydroureter	true	
+HP:0000086	Ectopic kidney	ICD10:Q63.2	Ectopic kidney	false	
+HP:0000086	Ectopic kidney	ICD10:Q63.2	Ectopic kidney	true	
+HP:0000089	Renal hypoplasia	ICD10:N27	small kidney	true	
+HP:0000093	Proteinuria	ICD10:R80	proteinuria	false	
+HP:0000093	Proteinuria	ICD10:R80	proteinuria	true	
+HP:0000100	Nephrotic syndrome	ICD10:N04	nephrotic syndrome with	false	
+HP:0000100	Nephrotic syndrome	ICD10:N04	nephrotic syndrome with	true	
+HP:0000110	Renal dysplasia	ICD10:Q61.4	Renal dysplasia	false	
+HP:0000110	Renal dysplasia	ICD10:Q61.4	Renal dysplasia	true	
+HP:0000112	Nephropathy	ICD10:N14	nephropathy	false	
+HP:0000112	Nephropathy	ICD10:N14	nephropathy	true	
+HP:0000122	Unilateral renal agenesis	ICD10:Q60.0	Renal agenesis, unilateral	false	
+HP:0000122	Unilateral renal agenesis	ICD10:Q60.0	Renal agenesis, unilateral	true	
+HP:0000145	Transverse vaginal septum	ICD10:Q52.11	Transverse vaginal septum	false	
+HP:0000145	Transverse vaginal septum	ICD10:Q52.11	Transverse vaginal septum	true	
+HP:0000158	Macroglossia	ICD10:Q38.2	Macroglossia	false	
+HP:0000158	Macroglossia	ICD10:Q38.2	Macroglossia	true	
+HP:0000161	Median cleft lip	ICD10:Q36.1	Cleft lip, median	false	
+HP:0000161	Median cleft lip	ICD10:Q36.1	Cleft lip, median	true	
+HP:0000185	Cleft soft palate	ICD10:Q35.3	Cleft soft palate	false	
+HP:0000185	Cleft soft palate	ICD10:Q35.3	Cleft soft palate	true	
+HP:0000202	Oral cleft	ICD10:Q37	cleft palate with cleft lip	false	
+HP:0000202	Oral cleft	ICD10:Q37	cleft palate with cleft lip	true	
+HP:0000206	Glossitis	ICD10:K14.0	Glossitis	false	
+HP:0000206	Glossitis	ICD10:K14.0	Glossitis	true	
+HP:0000238	Hydrocephalus	ICD10:G91	hydrocephalus	false	
+HP:0000238	Hydrocephalus	ICD10:G91	hydrocephalus	true	
+HP:0000252	Microcephaly	ICD10:Q02	Microcephaly	false	
+HP:0000252	Microcephaly	ICD10:Q02	Microcephaly	true	
+HP:0000256	Macrocephaly	ICD10:Q75.3	Macrocephaly	false	
+HP:0000256	Macrocephaly	ICD10:Q75.3	Macrocephaly	true	
+HP:0000268	Dolichocephaly	ICD10:Q67.2	Dolichocephaly	false	
+HP:0000268	Dolichocephaly	ICD10:Q67.2	Dolichocephaly	true	
+HP:0000303	Mandibular prognathia	ICD10:M26.03	Mandibular hyperplasia	false	
+HP:0000303	Mandibular prognathia	ICD10:M26.03	Mandibular hyperplasia	true	
+HP:0000316	Hypertelorism	ICD10:Q75.2	Hypertelorism	false	
+HP:0000316	Hypertelorism	ICD10:Q75.2	Hypertelorism	true	
+HP:0000317	Facial myokymia	ICD10:G51.4	Facial myokymia	false	
+HP:0000317	Facial myokymia	ICD10:G51.4	Facial myokymia	true	
+HP:0000327	Hypoplasia of the maxilla	ICD10:M26.02	Maxillary hypoplasia	false	
+HP:0000327	Hypoplasia of the maxilla	ICD10:M26.02	Maxillary hypoplasia	true	
+HP:0000362	Otosclerosis	ICD10:H80	otosclerosis	false	
+HP:0000362	Otosclerosis	ICD10:H80	otosclerosis	true	
+HP:0000388	Otitis media	ICD10:H65	otitis media	false	
+HP:0000388	Otitis media	ICD10:H65	otitis media	true	
+HP:0000388	Otitis media	ICD10:H66	otitis media	false	
+HP:0000388	Otitis media	ICD10:H66	otitis media	true	
+HP:0000400	Macrotia	ICD10:Q17.1	Macrotia	false	
+HP:0000400	Macrotia	ICD10:Q17.1	Macrotia	true	
+HP:0000421	Epistaxis	ICD10:R04.0	Epistaxis	false	
+HP:0000421	Epistaxis	ICD10:R04.0	Epistaxis	true	
+HP:0000453	Choanal atresia	ICD10:Q30.0	Choanal atresia	false	
+HP:0000453	Choanal atresia	ICD10:Q30.0	Choanal atresia	true	
+HP:0000458	Anosmia	ICD10:R43.0	Anosmia	false	
+HP:0000465	Webbed neck	ICD10:Q18.3	Webbing of neck	true	
+HP:0000473	Torticollis	ICD10:M43.6	Torticollis	false	
+HP:0000473	Torticollis	ICD10:M43.6	Torticollis	true	
+HP:0000519	Congenital cataract	ICD10:Q12.0	Congenital cataract	false	
+HP:0000519	Congenital cataract	ICD10:Q12.0	Congenital cataract	true	
+HP:0000552	Tritanomaly	ICD10:H53.55	Tritanomaly	false	
+HP:0000552	Tritanomaly	ICD10:H53.55	Tritanomaly	true	
+HP:0000592	Blue sclerae	ICD10:Q13.5	Blue sclera	true	
+HP:0000612	Iris coloboma	ICD10:Q13.0	Coloboma of iris	false	
+HP:0000612	Iris coloboma	ICD10:Q13.0	Coloboma of iris	true	
+HP:0000616	Miosis	ICD10:H57.03	Miosis	false	
+HP:0000643	Blepharospasm	ICD10:G24.5	Blepharospasm	false	
+HP:0000643	Blepharospasm	ICD10:G24.5	Blepharospasm	true	
+HP:0000651	Diplopia	ICD10:H53.2	Diplopia	false	
+HP:0000651	Diplopia	ICD10:H53.2	Diplopia	true	
+HP:0000674	Anodontia	ICD10:K00.0	Anodontia	false	
+HP:0000674	Anodontia	ICD10:K00.0	Anodontia	true	
+HP:0000712	Emotional lability	ICD10:R45.86	Emotional lability	false	
+HP:0000712	Emotional lability	ICD10:R45.86	Emotional lability	true	
+HP:0000722	Obsessive-compulsive behavior	ICD10:R46.81	Obsessive-compulsive behavior	false	
+HP:0000722	Obsessive-compulsive behavior	ICD10:R46.81	Obsessive-compulsive behavior	true	
+HP:0000767	Pectus excavatum	ICD10:Q67.6	Pectus excavatum	false	
+HP:0000767	Pectus excavatum	ICD10:Q67.6	Pectus excavatum	true	
+HP:0000768	Pectus carinatum	ICD10:Q67.7	Pectus carinatum	false	
+HP:0000768	Pectus carinatum	ICD10:Q67.7	Pectus carinatum	true	
+HP:0000773	Short ribs	ICD10:Q77.2	Short rib syndrome	true	
+HP:0000776	Congenital diaphragmatic hernia	ICD10:Q79.0	Congenital diaphragmatic hernia	false	
+HP:0000776	Congenital diaphragmatic hernia	ICD10:Q79.0	Congenital diaphragmatic hernia	true	
+HP:0000786	Primary amenorrhea	ICD10:N91.0	Primary amenorrhea	false	
+HP:0000786	Primary amenorrhea	ICD10:N91.0	Primary amenorrhea	true	
+HP:0000790	Hematuria	ICD10:N30	hematuria	false	
+HP:0000790	Hematuria	ICD10:N30	hematuria	true	
+HP:0000790	Hematuria	ICD10:R31	hematuria	false	
+HP:0000790	Hematuria	ICD10:R31	hematuria	true	
+HP:0000808	Penoscrotal hypospadias	ICD10:Q54.2	Hypospadias, penoscrotal	false	
+HP:0000808	Penoscrotal hypospadias	ICD10:Q54.2	Hypospadias, penoscrotal	true	
+HP:0000818	Abnormality of the endocrine system	ICD10:E36	of endocrine system endocrine system	false	
+HP:0000822	Hypertension	ICD10:I15	hypertension	false	
+HP:0000822	Hypertension	ICD10:I15	hypertension	true	
+HP:0000822	Hypertension	ICD10:I16	hypertensive	true	
+HP:0000823	Delayed puberty	ICD10:E30.0	Delayed puberty	false	
+HP:0000823	Delayed puberty	ICD10:E30.0	Delayed puberty	true	
+HP:0000826	Precocious puberty	ICD10:E30.1	Precocious puberty	false	
+HP:0000826	Precocious puberty	ICD10:E30.1	Precocious puberty	true	
+HP:0000840	Adrenogenital syndrome	ICD10:E25	adrenogenital	false	
+HP:0000852	Pseudohypoparathyroidism	ICD10:E20.1	Pseudohypoparathyroidism	false	
+HP:0000852	Pseudohypoparathyroidism	ICD10:E20.1	Pseudohypoparathyroidism	true	
+HP:0000869	Secondary amenorrhea	ICD10:N91.1	Secondary amenorrhea	false	
+HP:0000869	Secondary amenorrhea	ICD10:N91.1	Secondary amenorrhea	true	
+HP:0000873	Diabetes insipidus	ICD10:E23.2	Diabetes insipidus	false	
+HP:0000873	Diabetes insipidus	ICD10:E23.2	Diabetes insipidus	true	
+HP:0000891	Cervical ribs	ICD10:Q76.5	Cervical rib	true	
+HP:0000939	Osteoporosis	ICD10:M81	osteoporosis	false	
+HP:0000939	Osteoporosis	ICD10:M81	osteoporosis	true	
+HP:0000956	Acanthosis nigricans	ICD10:L83	Acanthosis nigricans	false	
+HP:0000956	Acanthosis nigricans	ICD10:L83	Acanthosis nigricans	true	
+HP:0000957	Cafe-au-lait spot	ICD10:L81.3	Cafe au lait spots	true	
+HP:0000961	Cyanosis	ICD10:R23.0	Cyanosis	false	
+HP:0000961	Cyanosis	ICD10:R23.0	Cyanosis	true	
+HP:0000969	Edema	ICD10:R60	edema	false	
+HP:0000970	Anhidrosis	ICD10:L74.4	Anhidrosis	false	
+HP:0000970	Anhidrosis	ICD10:L74.4	Anhidrosis	true	
+HP:0000980	Pallor	ICD10:R23.1	Pallor	false	
+HP:0000989	Pruritus	ICD10:L29	pruritus	false	
+HP:0000989	Pruritus	ICD10:L29	pruritus	true	
+HP:0000995	Melanocytic nevus	ICD10:D22	melanocytic nevi	false	
+HP:0000995	Melanocytic nevus	ICD10:D22	melanocytic nevi	true	
+HP:0000999	Pyoderma	ICD10:L08.0	Pyoderma	false	
+HP:0000999	Pyoderma	ICD10:L08.0	Pyoderma	true	
+HP:0001007	Hirsutism	ICD10:L68.0	Hirsutism	false	
+HP:0001007	Hirsutism	ICD10:L68.0	Hirsutism	true	
+HP:0001025	Urticaria	ICD10:L50	urticaria	false	
+HP:0001025	Urticaria	ICD10:L50	urticaria	true	
+HP:0001045	Vitiligo	ICD10:L80	Vitiligo	false	
+HP:0001045	Vitiligo	ICD10:L80	Vitiligo	true	
+HP:0001055	Erysipelas	ICD10:A46	Erysipelas	false	
+HP:0001055	Erysipelas	ICD10:A46	Erysipelas	true	
+HP:0001061	Acne	ICD10:L70	acne	false	
+HP:0001082	Cholecystitis	ICD10:K81	cholecystitis	false	
+HP:0001082	Cholecystitis	ICD10:K81	cholecystitis	true	
+HP:0001087	Congenital glaucoma	ICD10:Q15.0	Congenital glaucoma	false	
+HP:0001087	Congenital glaucoma	ICD10:Q15.0	Congenital glaucoma	true	
+HP:0001097	Keratoconjunctivitis sicca	ICD10:M35.01	Sicca syndrome with keratoconjunctivitis	false	
+HP:0001137	Alternating esotropia	ICD10:H50.05	Alternating esotropia	false	
+HP:0001137	Alternating esotropia	ICD10:H50.05	Alternating esotropia	true	
+HP:0001139	Choroideremia	ICD10:H31.21	Choroideremia	false	
+HP:0001139	Choroideremia	ICD10:H31.21	Choroideremia	true	
+HP:0001149	Lattice corneal dystrophy	ICD10:H18.54	Lattice corneal dystrophy	false	
+HP:0001149	Lattice corneal dystrophy	ICD10:H18.54	Lattice corneal dystrophy	true	
+HP:0001256	Intellectual disability, mild	ICD10:F70	Mild intellectual disabilities	true	
+HP:0001262	Somnolence	ICD10:R40.0	Somnolence	false	
+HP:0001262	Somnolence	ICD10:R40.0	Somnolence	true	
+HP:0001278	Orthostatic hypotension	ICD10:I95.1	Orthostatic hypotension	false	
+HP:0001278	Orthostatic hypotension	ICD10:I95.1	Orthostatic hypotension	true	
+HP:0001281	Tetany	ICD10:R29.0	Tetany	false	
+HP:0001287	Meningitis	ICD10:G00	meningitis	false	
+HP:0001287	Meningitis	ICD10:G00	meningitis	true	
+HP:0001287	Meningitis	ICD10:G03	meningitis	false	
+HP:0001287	Meningitis	ICD10:G03	meningitis	true	
+HP:0001334	Communicating hydrocephalus	ICD10:G91.0	Communicating hydrocephalus	false	
+HP:0001334	Communicating hydrocephalus	ICD10:G91.0	Communicating hydrocephalus	true	
+HP:0001336	Myoclonus	ICD10:G25.3	Myoclonus	false	
+HP:0001336	Myoclonus	ICD10:G25.3	Myoclonus	true	
+HP:0001343	Kernicterus	ICD10:P57	kernicterus	false	
+HP:0001343	Kernicterus	ICD10:P57	kernicterus	true	
+HP:0001350	Slurred speech	ICD10:R47.81	Slurred speech	false	
+HP:0001350	Slurred speech	ICD10:R47.81	Slurred speech	true	
+HP:0001355	Megalencephaly	ICD10:Q04.5	Megalencephaly	false	
+HP:0001355	Megalencephaly	ICD10:Q04.5	Megalencephaly	true	
+HP:0001357	Plagiocephaly	ICD10:Q67.3	Plagiocephaly	false	
+HP:0001357	Plagiocephaly	ICD10:Q67.3	Plagiocephaly	true	
+HP:0001360	Holoprosencephaly	ICD10:Q04.2	Holoprosencephaly	false	
+HP:0001360	Holoprosencephaly	ICD10:Q04.2	Holoprosencephaly	true	
+HP:0001363	Craniosynostosis	ICD10:Q75.0	Craniosynostosis	false	
+HP:0001363	Craniosynostosis	ICD10:Q75.0	Craniosynostosis	true	
+HP:0001395	Hepatic fibrosis	ICD10:K74.0	Hepatic fibrosis	false	
+HP:0001395	Hepatic fibrosis	ICD10:K74.0	Hepatic fibrosis	true	
+HP:0001409	Portal hypertension	ICD10:K76.6	Portal hypertension	false	
+HP:0001409	Portal hypertension	ICD10:K76.6	Portal hypertension	true	
+HP:0001480	Freckling	ICD10:L81.2	Freckles	true	
+HP:0001541	Ascites	ICD10:R18	ascites	false	
+HP:0001543	Gastroschisis	ICD10:Q79.3	Gastroschisis	false	
+HP:0001543	Gastroschisis	ICD10:Q79.3	Gastroschisis	true	
+HP:0001571	Multiple impacted teeth	ICD10:K01.1	Impacted teeth	false	
+HP:0001571	Multiple impacted teeth	ICD10:K01.1	Impacted teeth	true	
+HP:0001586	Vesicovaginal fistula	ICD10:N82.0	Vesicovaginal fistula	false	
+HP:0001586	Vesicovaginal fistula	ICD10:N82.0	Vesicovaginal fistula	true	
+HP:0001618	Dysphonia	ICD10:R49.0	Dysphonia	false	
+HP:0001618	Dysphonia	ICD10:R49.0	Dysphonia	true	
+HP:0001629	Ventricular septal defect	ICD10:Q21.0	Ventricular septal defect	false	
+HP:0001629	Ventricular septal defect	ICD10:Q21.0	Ventricular septal defect	true	
+HP:0001636	Tetralogy of Fallot	ICD10:Q21.3	Tetralogy of Fallot	false	
+HP:0001636	Tetralogy of Fallot	ICD10:Q21.3	Tetralogy of Fallot	true	
+HP:0001640	Cardiomegaly	ICD10:I51.7	Cardiomegaly	false	
+HP:0001640	Cardiomegaly	ICD10:I51.7	Cardiomegaly	true	
+HP:0001643	Patent ductus arteriosus	ICD10:Q25.0	Patent ductus arteriosus	false	
+HP:0001643	Patent ductus arteriosus	ICD10:Q25.0	Patent ductus arteriosus	true	
+HP:0001644	Dilated cardiomyopathy	ICD10:I42.0	Dilated cardiomyopathy	false	
+HP:0001644	Dilated cardiomyopathy	ICD10:I42.0	Dilated cardiomyopathy	true	
+HP:0001651	Dextrocardia	ICD10:Q24.0	Dextrocardia	false	
+HP:0001651	Dextrocardia	ICD10:Q24.0	Dextrocardia	true	
+HP:0001663	Ventricular fibrillation	ICD10:I49.01	Ventricular fibrillation	false	
+HP:0001663	Ventricular fibrillation	ICD10:I49.01	Ventricular fibrillation	true	
+HP:0001680	Coarctation of aorta	ICD10:Q25.1	Coarctation of aorta	false	
+HP:0001680	Coarctation of aorta	ICD10:Q25.1	Coarctation of aorta	true	
+HP:0001695	Cardiac arrest	ICD10:I46	cardiac arrest cardiac	false	
+HP:0001695	Cardiac arrest	ICD10:I46	cardiac arrest cardiac	true	
+HP:0001696	Situs inversus totalis	ICD10:Q89.3	Situs inversus	false	
+HP:0001696	Situs inversus totalis	ICD10:Q89.3	Situs inversus	true	
+HP:0001701	Pericarditis	ICD10:I30	pericarditis	false	
+HP:0001701	Pericarditis	ICD10:I30	pericarditis	true	
+HP:0001706	Endocardial fibroelastosis	ICD10:I42.4	Endocardial fibroelastosis	false	
+HP:0001706	Endocardial fibroelastosis	ICD10:I42.4	Endocardial fibroelastosis	true	
+HP:0001719	Double outlet right ventricle	ICD10:Q20.1	Double outlet right ventricle	false	
+HP:0001719	Double outlet right ventricle	ICD10:Q20.1	Double outlet right ventricle	true	
+HP:0001734	Annular pancreas	ICD10:Q45.1	Annular pancreas	false	
+HP:0001734	Annular pancreas	ICD10:Q45.1	Annular pancreas	true	
+HP:0001738	Exocrine pancreatic insufficiency	ICD10:K86.81	Exocrine pancreatic insufficiency	false	
+HP:0001738	Exocrine pancreatic insufficiency	ICD10:K86.81	Exocrine pancreatic insufficiency	true	
+HP:0001741	Phimosis	ICD10:N47.1	Phimosis	false	
+HP:0001741	Phimosis	ICD10:N47.1	Phimosis	true	
+HP:0001798	Anonychia	ICD10:Q84.3	Anonychia	false	
+HP:0001798	Anonychia	ICD10:Q84.3	Anonychia	true	
+HP:0001806	Onycholysis	ICD10:L60.1	Onycholysis	false	
+HP:0001806	Onycholysis	ICD10:L60.1	Onycholysis	true	
+HP:0001880	Eosinophilia	ICD10:D72.1	Eosinophilia	false	
+HP:0001880	Eosinophilia	ICD10:D72.1	Eosinophilia	true	
+HP:0001909	Leukemia	ICD10:C93	leukemia	false	
+HP:0001909	Leukemia	ICD10:C93	leukemia	true	
+HP:0001941	Acidosis	ICD10:E87.2	Acidosis	false	
+HP:0001941	Acidosis	ICD10:E87.2	Acidosis	true	
+HP:0001944	Dehydration	ICD10:E86.0	Dehydration	false	
+HP:0001944	Dehydration	ICD10:E86.0	Dehydration	true	
+HP:0001948	Alkalosis	ICD10:E87.3	Alkalosis	false	
+HP:0001948	Alkalosis	ICD10:E87.3	Alkalosis	true	
+HP:0001959	Polydipsia	ICD10:R63.1	Polydipsia	false	
+HP:0001959	Polydipsia	ICD10:R63.1	Polydipsia	true	
+HP:0001962	Palpitations	ICD10:R00.2	Palpitations	false	
+HP:0001962	Palpitations	ICD10:R00.2	Palpitations	true	
+HP:0001971	Hypersplenism	ICD10:D73.1	Hypersplenism	false	
+HP:0001971	Hypersplenism	ICD10:D73.1	Hypersplenism	true	
+HP:0001997	Gout	ICD10:M10	gout	false	
+HP:0002018	Nausea	ICD10:R11.0	Nausea	false	
+HP:0002035	Rectal prolapse	ICD10:K62.3	Rectal prolapse	false	
+HP:0002035	Rectal prolapse	ICD10:K62.3	Rectal prolapse	true	
+HP:0002039	Anorexia	ICD10:R63.0	Anorexia	false	
+HP:0002039	Anorexia	ICD10:R63.0	Anorexia	true	
+HP:0002045	Hypothermia	ICD10:T68	hypothermia	false	
+HP:0002045	Hypothermia	ICD10:T68	hypothermia	true	
+HP:0002084	Encephalocele	ICD10:Q01	encephalocele	false	
+HP:0002084	Encephalocele	ICD10:Q01	encephalocele	true	
+HP:0002085	Occipital encephalocele	ICD10:Q01.2	Occipital encephalocele	false	
+HP:0002085	Occipital encephalocele	ICD10:Q01.2	Occipital encephalocele	true	
+HP:0002090	Pneumonia	ICD10:J12	pneumonia	false	
+HP:0002090	Pneumonia	ICD10:J12	pneumonia	true	
+HP:0002090	Pneumonia	ICD10:J15	pneumonia	false	
+HP:0002090	Pneumonia	ICD10:J15	pneumonia	true	
+HP:0002090	Pneumonia	ICD10:J16	pneumonia	false	
+HP:0002090	Pneumonia	ICD10:J16	pneumonia	true	
+HP:0002094	Dyspnea	ICD10:R06.02	Shortness of breath	true	
+HP:0002097	Emphysema	ICD10:J43	emphysema	false	
+HP:0002097	Emphysema	ICD10:J43	emphysema	true	
+HP:0002105	Hemoptysis	ICD10:R04.2	Hemoptysis	false	
+HP:0002105	Hemoptysis	ICD10:R04.2	Hemoptysis	true	
+HP:0002110	Bronchiectasis	ICD10:J47	bronchiectasis	false	
+HP:0002110	Bronchiectasis	ICD10:J47	bronchiectasis	true	
+HP:0002153	Hyperkalemia	ICD10:E87.5	Hyperkalemia	false	
+HP:0002153	Hyperkalemia	ICD10:E87.5	Hyperkalemia	true	
+HP:0002156	Homocystinuria	ICD10:E72.11	Homocystinuria	false	
+HP:0002156	Homocystinuria	ICD10:E72.11	Homocystinuria	true	
+HP:0002181	Cerebral edema	ICD10:G93.6	Cerebral edema	false	
+HP:0002181	Cerebral edema	ICD10:G93.6	Cerebral edema	true	
+HP:0002186	Apraxia	ICD10:R48.2	Apraxia	false	
+HP:0002186	Apraxia	ICD10:R48.2	Apraxia	true	
+HP:0002187	Intellectual disability, profound	ICD10:F73	Profound intellectual disabilities	true	
+HP:0002202	Pleural effusion	ICD10:J91	pleural effusion	false	
+HP:0002202	Pleural effusion	ICD10:J91	pleural effusion	true	
+HP:0002248	Hematemesis	ICD10:K92.0	Hematemesis	false	
+HP:0002248	Hematemesis	ICD10:K92.0	Hematemesis	true	
+HP:0002249	Melena	ICD10:K92.1	Melena	false	
+HP:0002257	Chronic rhinitis	ICD10:J31.0	Chronic rhinitis	false	
+HP:0002257	Chronic rhinitis	ICD10:J31.0	Chronic rhinitis	true	
+HP:0002289	Alopecia universalis	ICD10:L63.1	Alopecia universalis	false	
+HP:0002289	Alopecia universalis	ICD10:L63.1	Alopecia universalis	true	
+HP:0002315	Headache	ICD10:R51	Headache	false	
+HP:0002315	Headache	ICD10:R51	Headache	true	
+HP:0002323	Anencephaly	ICD10:Q00.0	Anencephaly	false	
+HP:0002323	Anencephaly	ICD10:Q00.0	Anencephaly	true	
+HP:0002342	Intellectual disability, moderate	ICD10:F71	Moderate intellectual disabilities	true	
+HP:0002357	Dysphasia	ICD10:R47.02	Dysphasia	false	
+HP:0002357	Dysphasia	ICD10:R47.02	Dysphasia	true	
+HP:0002367	Visual hallucinations	ICD10:R44.1	Visual hallucinations	false	
+HP:0002367	Visual hallucinations	ICD10:R44.1	Visual hallucinations	true	
+HP:0002380	Fasciculations	ICD10:R25.3	Fasciculation	true	
+HP:0002381	Aphasia	ICD10:R47.01	Aphasia	false	
+HP:0002383	Encephalitis	ICD10:A85	encephalitis	false	
+HP:0002383	Encephalitis	ICD10:A85	encephalitis	true	
+HP:0002414	Spina bifida	ICD10:Q05	spina bifida	false	
+HP:0002414	Spina bifida	ICD10:Q05	spina bifida	true	
+HP:0002457	Abnormal head movements	ICD10:R25.0	Abnormal head movements	false	
+HP:0002457	Abnormal head movements	ICD10:R25.0	Abnormal head movements	true	
+HP:0002511	Alzheimer disease	ICD10:G30	alzheimers disease	true	
+HP:0002533	Abnormal posturing	ICD10:R29.3	Abnormal posture	true	
+HP:0002561	Absent nipple	ICD10:Q83.2	Absent nipple	false	
+HP:0002561	Absent nipple	ICD10:Q83.2	Absent nipple	true	
+HP:0002576	Intussusception	ICD10:K56.1	Intussusception	false	
+HP:0002576	Intussusception	ICD10:K56.1	Intussusception	true	
+HP:0002578	Gastroparesis	ICD10:K31.84	Gastroparesis	false	
+HP:0002578	Gastroparesis	ICD10:K31.84	Gastroparesis	true	
+HP:0002580	Volvulus	ICD10:K56.2	Volvulus	false	
+HP:0002580	Volvulus	ICD10:K56.2	Volvulus	true	
+HP:0002587	Projectile vomiting	ICD10:R11.12	Projectile vomiting	false	
+HP:0002587	Projectile vomiting	ICD10:R11.12	Projectile vomiting	true	
+HP:0002588	Duodenal ulcer	ICD10:K26	duodenal ulcer	false	
+HP:0002588	Duodenal ulcer	ICD10:K26	duodenal ulcer	true	
+HP:0002590	Paralytic ileus	ICD10:K56.0	Paralytic ileus	false	
+HP:0002590	Paralytic ileus	ICD10:K56.0	Paralytic ileus	true	
+HP:0002591	Polyphagia	ICD10:R63.2	Polyphagia	false	
+HP:0002591	Polyphagia	ICD10:R63.2	Polyphagia	true	
+HP:0002592	Gastric ulcer	ICD10:K25	gastric ulcer	false	
+HP:0002592	Gastric ulcer	ICD10:K25	gastric ulcer	true	
+HP:0002608	Celiac disease	ICD10:K90.0	Celiac disease	false	
+HP:0002608	Celiac disease	ICD10:K90.0	Celiac disease	true	
+HP:0002615	Hypotension	ICD10:I95	hypotension	false	
+HP:0002615	Hypotension	ICD10:I95	hypotension	true	
+HP:0002617	Aneurysm	ICD10:I72	aneurysm of	false	
+HP:0002617	Aneurysm	ICD10:I72	aneurysm of	true	
+HP:0002637	Cerebral ischemia	ICD10:I67.82	Cerebral ischemia	false	
+HP:0002637	Cerebral ischemia	ICD10:I67.82	Cerebral ischemia	true	
+HP:0002639	Budd-Chiari syndrome	ICD10:I82.0	Budd-Chiari syndrome	false	
+HP:0002639	Budd-Chiari syndrome	ICD10:I82.0	Budd-Chiari syndrome	true	
+HP:0002650	Scoliosis	ICD10:M41	scoliosis	false	
+HP:0002650	Scoliosis	ICD10:M41	scoliosis	true	
+HP:0002655	Spondyloepiphyseal dysplasia	ICD10:Q77.7	Spondyloepiphyseal dysplasia	false	
+HP:0002655	Spondyloepiphyseal dysplasia	ICD10:Q77.7	Spondyloepiphyseal dysplasia	true	
+HP:0002665	Lymphoma	ICD10:C82	lymphoma	false	
+HP:0002665	Lymphoma	ICD10:C82	lymphoma	true	
+HP:0002665	Lymphoma	ICD10:C83	lymphoma	false	
+HP:0002665	Lymphoma	ICD10:C83	lymphoma	true	
+HP:0002665	Lymphoma	ICD10:C85	lymphoma	false	
+HP:0002665	Lymphoma	ICD10:C85	lymphoma	true	
+HP:0002725	Systemic lupus erythematosus	ICD10:L93	lupus erythematosus	true	
+HP:0002725	Systemic lupus erythematosus	ICD10:M32	systemic lupus erythematosus	false	
+HP:0002725	Systemic lupus erythematosus	ICD10:M32	systemic lupus erythematosus	true	
+HP:0002754	Osteomyelitis	ICD10:M86	osteomyelitis	false	
+HP:0002754	Osteomyelitis	ICD10:M86	osteomyelitis	true	
+HP:0002758	Osteoarthritis	ICD10:M19	osteoarthritis	false	
+HP:0002758	Osteoarthritis	ICD10:M19	osteoarthritis	true	
+HP:0002804	Arthrogryposis multiplex congenita	ICD10:Q74.3	Arthrogryposis multiplex congenita	false	
+HP:0002804	Arthrogryposis multiplex congenita	ICD10:Q74.3	Arthrogryposis multiplex congenita	true	
+HP:0002835	Aspiration	ICD10:P24	aspiration	false	
+HP:0002835	Aspiration	ICD10:P24	aspiration	true	
+HP:0002840	Lymphadenitis	ICD10:I88	lymphadenitis	false	
+HP:0002840	Lymphadenitis	ICD10:I88	lymphadenitis	true	
+HP:0002878	Respiratory failure	ICD10:J96	respiratory failure with	false	
+HP:0002878	Respiratory failure	ICD10:J96	respiratory failure with	true	
+HP:0002883	Hyperventilation	ICD10:R06.4	Hyperventilation	false	
+HP:0002883	Hyperventilation	ICD10:R06.4	Hyperventilation	true	
+HP:0002884	Hepatoblastoma	ICD10:C22.2	Hepatoblastoma	false	
+HP:0002884	Hepatoblastoma	ICD10:C22.2	Hepatoblastoma	true	
+HP:0002900	Hypokalemia	ICD10:E87.6	Hypokalemia	false	
+HP:0002900	Hypokalemia	ICD10:E87.6	Hypokalemia	true	
+HP:0002901	Hypocalcemia	ICD10:E83.51	Hypocalcemia	false	
+HP:0002901	Hypocalcemia	ICD10:E83.51	Hypocalcemia	true	
+HP:0002912	Methylmalonic acidemia	ICD10:E71.120	Methylmalonic acidemia	false	
+HP:0002912	Methylmalonic acidemia	ICD10:E71.120	Methylmalonic acidemia	true	
+HP:0002913	Myoglobinuria	ICD10:R82.1	Myoglobinuria	false	
+HP:0002913	Myoglobinuria	ICD10:R82.1	Myoglobinuria	true	
+HP:0002917	Hypomagnesemia	ICD10:E83.42	Hypomagnesemia	false	
+HP:0002917	Hypomagnesemia	ICD10:E83.42	Hypomagnesemia	true	
+HP:0002918	Hypermagnesemia	ICD10:E83.41	Hypermagnesemia	false	
+HP:0002918	Hypermagnesemia	ICD10:E83.41	Hypermagnesemia	true	
+HP:0003072	Hypercalcemia	ICD10:E83.52	Hypercalcemia	false	
+HP:0003072	Hypercalcemia	ICD10:E83.52	Hypercalcemia	true	
+HP:0003076	Glycosuria	ICD10:R81	Glycosuria	false	
+HP:0003076	Glycosuria	ICD10:R81	Glycosuria	true	
+HP:0003131	Cystinuria	ICD10:E72.01	Cystinuria	false	
+HP:0003131	Cystinuria	ICD10:E72.01	Cystinuria	true	
+HP:0003159	Hyperoxaluria	ICD10:E72.53	Hyperoxaluria	false	
+HP:0003159	Hyperoxaluria	ICD10:E72.53	Hyperoxaluria	true	
+HP:0003179	Protrusio acetabuli	ICD10:M24.7	Protrusio acetabuli	false	
+HP:0003179	Protrusio acetabuli	ICD10:M24.7	Protrusio acetabuli	true	
+HP:0003187	Breast hypoplasia	ICD10:N64.82	Hypoplasia of breast	false	
+HP:0003187	Breast hypoplasia	ICD10:N64.82	Hypoplasia of breast	true	
+HP:0003201	Rhabdomyolysis	ICD10:M62.82	Rhabdomyolysis	false	
+HP:0003201	Rhabdomyolysis	ICD10:M62.82	Rhabdomyolysis	true	
+HP:0003231	Hypertyrosinemia	ICD10:E70.21	Tyrosinemia	false	
+HP:0003244	Penile hypospadias	ICD10:Q54.1	Hypospadias, penile	false	
+HP:0003244	Penile hypospadias	ICD10:Q54.1	Hypospadias, penile	true	
+HP:0003250	Aplasia of the vagina	ICD10:Q52.0	Congenital absence of vagina	false	
+HP:0003250	Aplasia of the vagina	ICD10:Q52.0	Congenital absence of vagina	true	
+HP:0003298	Spina bifida occulta	ICD10:Q76.0	Spina bifida occulta	false	
+HP:0003298	Spina bifida occulta	ICD10:Q76.0	Spina bifida occulta	true	
+HP:0003326	Myalgia	ICD10:M79.1	Myalgia	false	
+HP:0003419	Low back pain	ICD10:M54.5	Low back pain	false	
+HP:0003419	Low back pain	ICD10:M54.5	Low back pain	true	
+HP:0003535	3-Methylglutaconic aciduria	ICD10:E71.111	3-methylglutaconic aciduria	false	
+HP:0003535	3-Methylglutaconic aciduria	ICD10:E71.111	3-methylglutaconic aciduria	true	
+HP:0003560	Muscular dystrophy	ICD10:G71.0	Muscular dystrophy	false	
+HP:0003560	Muscular dystrophy	ICD10:G71.0	Muscular dystrophy	true	
+HP:0003565	Elevated erythrocyte sedimentation rate	ICD10:R70.0	Elevated erythrocyte sedimentation rate	false	
+HP:0003565	Elevated erythrocyte sedimentation rate	ICD10:R70.0	Elevated erythrocyte sedimentation rate	true	
+HP:0003571	Propionicacidemia	ICD10:E71.121	Propionic acidemia	false	
+HP:0003571	Propionicacidemia	ICD10:E71.121	Propionic acidemia	true	
+HP:0003614	Trimethylaminuria	ICD10:E72.52	Trimethylaminuria	false	
+HP:0003614	Trimethylaminuria	ICD10:E72.52	Trimethylaminuria	true	
+HP:0003641	Hemoglobinuria	ICD10:R82.3	Hemoglobinuria	false	
+HP:0003641	Hemoglobinuria	ICD10:R82.3	Hemoglobinuria	true	
+HP:0003768	Periodic paralysis	ICD10:G72.3	Periodic paralysis	false	
+HP:0003768	Periodic paralysis	ICD10:G72.3	Periodic paralysis	true	
+HP:0003774	Stage 5 chronic kidney disease	ICD10:N18.5	Chronic kidney disease, stage 5	false	
+HP:0003774	Stage 5 chronic kidney disease	ICD10:N18.5	Chronic kidney disease, stage 5	true	
+HP:0003826	Stillbirth	ICD10:P95	Stillbirth	false	
+HP:0003826	Stillbirth	ICD10:P95	Stillbirth	true	
+HP:0004326	Cachexia	ICD10:R64	Cachexia	false	
+HP:0004326	Cachexia	ICD10:R64	Cachexia	true	
+HP:0004330	Increased skull ossification	ICD10:M85.2	Hyperostosis of skull	false	
+HP:0004330	Increased skull ossification	ICD10:M85.2	Hyperostosis of skull	true	
+HP:0004381	Supravalvular aortic stenosis	ICD10:Q25.3	Supravalvular aortic stenosis	false	
+HP:0004381	Supravalvular aortic stenosis	ICD10:Q25.3	Supravalvular aortic stenosis	true	
+HP:0004383	Hypoplastic left heart	ICD10:Q23.4	Hypoplastic left heart syndrome	false	
+HP:0004392	Prune belly	ICD10:Q79.4	Prune belly syndrome	false	
+HP:0004397	Ectopic anus	ICD10:Q43.5	Ectopic anus	false	
+HP:0004397	Ectopic anus	ICD10:Q43.5	Ectopic anus	true	
+HP:0004411	Deviated nasal septum	ICD10:J34.2	Deviated nasal septum	false	
+HP:0004411	Deviated nasal septum	ICD10:J34.2	Deviated nasal septum	true	
+HP:0004415	Pulmonary artery stenosis	ICD10:Q25.6	Stenosis of pulmonary artery	false	
+HP:0004415	Pulmonary artery stenosis	ICD10:Q25.6	Stenosis of pulmonary artery	true	
+HP:0004439	Craniofacial dysostosis	ICD10:Q75.1	Craniofacial dysostosis	false	
+HP:0004439	Craniofacial dysostosis	ICD10:Q75.1	Craniofacial dysostosis	true	
+HP:0004469	Chronic bronchitis	ICD10:J41	chronic bronchitis	false	
+HP:0004469	Chronic bronchitis	ICD10:J41	chronic bronchitis	true	
+HP:0004610	Lumbar spinal canal stenosis	ICD10:M48.06	Spinal stenosis, lumbar region	false	
+HP:0004610	Lumbar spinal canal stenosis	ICD10:M48.06	Spinal stenosis, lumbar region	true	
+HP:0004754	Permanent atrial fibrillation	ICD10:I48.2	Chronic atrial fibrillation	false	
+HP:0004754	Permanent atrial fibrillation	ICD10:I48.2	Chronic atrial fibrillation	true	
+HP:0004755	Supraventricular tachycardia	ICD10:I47.1	Supraventricular tachycardia	false	
+HP:0004755	Supraventricular tachycardia	ICD10:I47.1	Supraventricular tachycardia	true	
+HP:0004756	Ventricular tachycardia	ICD10:I47.2	Ventricular tachycardia	false	
+HP:0004756	Ventricular tachycardia	ICD10:I47.2	Ventricular tachycardia	true	
+HP:0004757	Paroxysmal atrial fibrillation	ICD10:I48.0	Paroxysmal atrial fibrillation	false	
+HP:0004757	Paroxysmal atrial fibrillation	ICD10:I48.0	Paroxysmal atrial fibrillation	true	
+HP:0004828	Refractory anemia with ringed sideroblasts	ICD10:D46.1	Refractory anemia with ring sideroblasts	true	
+HP:0004905	Vitamin A deficiency	ICD10:E50	vitamin a deficiency	false	
+HP:0004905	Vitamin A deficiency	ICD10:E50	vitamin a deficiency	true	
+HP:0004935	Pulmonary artery atresia	ICD10:Q25.5	Atresia of pulmonary artery	false	
+HP:0004935	Pulmonary artery atresia	ICD10:Q25.5	Atresia of pulmonary artery	true	
+HP:0004937	Pulmonary artery aneurysm	ICD10:I28.1	Aneurysm of pulmonary artery	false	
+HP:0004937	Pulmonary artery aneurysm	ICD10:I28.1	Aneurysm of pulmonary artery	true	
+HP:0005086	Knee osteoarthritis	ICD10:M17	osteoarthritis knee	false	
+HP:0005086	Knee osteoarthritis	ICD10:M17	osteoarthritis knee	true	
+HP:0005116	Arterial tortuosity	ICD10:Q87.82	Arterial tortuosity syndrome	false	
+HP:0005160	Total anomalous pulmonary venous return	ICD10:Q26.2	Total anomalous pulmonary venous connection	false	
+HP:0005160	Total anomalous pulmonary venous return	ICD10:Q26.2	Total anomalous pulmonary venous connection	true	
+HP:0005172	Left posterior fascicular block	ICD10:I44.5	Left posterior fascicular block	false	
+HP:0005172	Left posterior fascicular block	ICD10:I44.5	Left posterior fascicular block	true	
+HP:0005224	Rectal abscess	ICD10:K61.1	Rectal abscess	false	
+HP:0005224	Rectal abscess	ICD10:K61.1	Rectal abscess	true	
+HP:0005240	Esophageal obstruction	ICD10:K22.2	Esophageal obstruction	false	
+HP:0005240	Esophageal obstruction	ICD10:K22.2	Esophageal obstruction	true	
+HP:0005268	Spontaneous abortion	ICD10:O03	spontaneous abortion	false	
+HP:0005268	Spontaneous abortion	ICD10:O03	spontaneous abortion	true	
+HP:0005301	Persistent left superior vena cava	ICD10:Q26.1	Persistent left superior vena cava	false	
+HP:0005301	Persistent left superior vena cava	ICD10:Q26.1	Persistent left superior vena cava	true	
+HP:0005313	Arterial fibromuscular dysplasia	ICD10:I77.3	Arterial fibromuscular dysplasia	false	
+HP:0005313	Arterial fibromuscular dysplasia	ICD10:I77.3	Arterial fibromuscular dysplasia	true	
+HP:0005321	Mandibulofacial dysostosis	ICD10:Q75.4	Mandibulofacial dysostosis	false	
+HP:0005321	Mandibulofacial dysostosis	ICD10:Q75.4	Mandibulofacial dysostosis	true	
+HP:0005432	Transient hypogammaglobulinemia of infancy	ICD10:D80.7	Transient hypogammaglobulinemia of infancy	false	
+HP:0005432	Transient hypogammaglobulinemia of infancy	ICD10:D80.7	Transient hypogammaglobulinemia of infancy	true	
+HP:0005508	Waldenstrom macroglobulinemia	ICD10:C88.0	Waldenstrom macroglobulinemia	false	
+HP:0005508	Waldenstrom macroglobulinemia	ICD10:C88.0	Waldenstrom macroglobulinemia	true	
+HP:0005541	Congenital agranulocytosis	ICD10:D70.0	Congenital agranulocytosis	false	
+HP:0005541	Congenital agranulocytosis	ICD10:D70.0	Congenital agranulocytosis	true	
+HP:0005575	Hemolytic-uremic syndrome	ICD10:D59.3	Hemolytic-uremic syndrome	false	
+HP:0005575	Hemolytic-uremic syndrome	ICD10:D59.3	Hemolytic-uremic syndrome	true	
+HP:0005661	Salmonella osteomyelitis	ICD10:A02.24	Salmonella osteomyelitis	false	
+HP:0005661	Salmonella osteomyelitis	ICD10:A02.24	Salmonella osteomyelitis	true	
+HP:0005850	Congenital talipes calcaneovalgus	ICD10:Q66.4	Congenital talipes calcaneovalgus	false	
+HP:0005850	Congenital talipes calcaneovalgus	ICD10:Q66.4	Congenital talipes calcaneovalgus	true	
+HP:0005943	Respiratory arrest	ICD10:R09.2	Respiratory arrest	false	
+HP:0005943	Respiratory arrest	ICD10:R09.2	Respiratory arrest	true	
+HP:0005978	Type II diabetes mellitus	ICD10:E11	type 2 diabetes mellitus	false	
+HP:0005978	Type II diabetes mellitus	ICD10:E11	type 2 diabetes mellitus	true	
+HP:0006510	Chronic obstructive pulmonary disease	ICD10:J44	chronic obstructive pulmonary disease	false	
+HP:0006510	Chronic obstructive pulmonary disease	ICD10:J44	chronic obstructive pulmonary disease	true	
+HP:0006517	Alveolar proteinosis	ICD10:J84.01	Alveolar proteinosis	false	
+HP:0006517	Alveolar proteinosis	ICD10:J84.01	Alveolar proteinosis	true	
+HP:0006527	Lymphoid interstitial pneumonia	ICD10:J84.2	Lymphoid interstitial pneumonia	false	
+HP:0006527	Lymphoid interstitial pneumonia	ICD10:J84.2	Lymphoid interstitial pneumonia	true	
+HP:0006706	Cystic liver disease	ICD10:Q44.6	Cystic disease of liver	false	
+HP:0006706	Cystic liver disease	ICD10:Q44.6	Cystic disease of liver	true	
+HP:0006830	Severe neonatal hypotonia in males	ICD10:P94.2	Congenital hypotonia	false	
+HP:0006830	Severe neonatal hypotonia in males	ICD10:P94.2	Congenital hypotonia	true	
+HP:0006934	Congenital nystagmus	ICD10:H55.01	Congenital nystagmus	false	
+HP:0006934	Congenital nystagmus	ICD10:H55.01	Congenital nystagmus	true	
+HP:0007185	Loss of consciousness	ICD10:S06	loss of consciousness	false	
+HP:0007185	Loss of consciousness	ICD10:S06	loss of consciousness	true	
+HP:0007330	Frontal encephalocele	ICD10:Q01.0	Frontal encephalocele	false	
+HP:0007330	Frontal encephalocele	ICD10:Q01.0	Frontal encephalocele	true	
+HP:0007354	Amyotrophic lateral sclerosis	ICD10:G12.21	Amyotrophic lateral sclerosis	false	
+HP:0007354	Amyotrophic lateral sclerosis	ICD10:G12.21	Amyotrophic lateral sclerosis	true	
+HP:0007417	Discoid lupus erythematosus	ICD10:L93.0	Discoid lupus erythematosus	false	
+HP:0007417	Discoid lupus erythematosus	ICD10:L93.0	Discoid lupus erythematosus	true	
+HP:0007430	Generalized edema	ICD10:R60.1	Generalized edema	false	
+HP:0007430	Generalized edema	ICD10:R60.1	Generalized edema	true	
+HP:0007475	Congenital bullous ichthyosiform erythroderma	ICD10:Q80.3	Congenital bullous ichthyosiform erythroderma	false	
+HP:0007475	Congenital bullous ichthyosiform erythroderma	ICD10:Q80.3	Congenital bullous ichthyosiform erythroderma	true	
+HP:0007802	Granular corneal dystrophy	ICD10:H18.53	Granular corneal dystrophy	false	
+HP:0007802	Granular corneal dystrophy	ICD10:H18.53	Granular corneal dystrophy	true	
+HP:0007970	Congenital ptosis	ICD10:Q10.0	Congenital ptosis	false	
+HP:0007970	Congenital ptosis	ICD10:Q10.0	Congenital ptosis	true	
+HP:0008200	Primary hyperparathyroidism	ICD10:E21.0	Primary hyperparathyroidism	false	
+HP:0008200	Primary hyperparathyroidism	ICD10:E21.0	Primary hyperparathyroidism	true	
+HP:0008222	Female infertility	ICD10:N97	female infertility	false	
+HP:0008222	Female infertility	ICD10:N97	female infertility	true	
+HP:0008288	Nonketotic hyperglycinemia	ICD10:E72.51	Non-ketotic hyperglycinemia	false	
+HP:0008288	Nonketotic hyperglycinemia	ICD10:E72.51	Non-ketotic hyperglycinemia	true	
+HP:0008404	Nail dystrophy	ICD10:L60.3	Nail dystrophy	false	
+HP:0008404	Nail dystrophy	ICD10:L60.3	Nail dystrophy	true	
+HP:0008551	Microtia	ICD10:Q17.2	Microtia	false	
+HP:0008551	Microtia	ICD10:Q17.2	Microtia	true	
+HP:0008619	Bilateral sensorineural hearing impairment	ICD10:H90.3	Sensorineural hearing loss, bilateral	false	
+HP:0008619	Bilateral sensorineural hearing impairment	ICD10:H90.3	Sensorineural hearing loss, bilateral	true	
+HP:0008676	Congenital megaureter	ICD10:Q62.2	Congenital megaureter	false	
+HP:0008676	Congenital megaureter	ICD10:Q62.2	Congenital megaureter	true	
+HP:0008722	Urethral diverticulum	ICD10:N36.1	Urethral diverticulum	false	
+HP:0008722	Urethral diverticulum	ICD10:N36.1	Urethral diverticulum	true	
+HP:0008736	Hypoplasia of penis	ICD10:Q55.62	Hypoplasia of penis	false	
+HP:0008736	Hypoplasia of penis	ICD10:Q55.62	Hypoplasia of penis	true	
+HP:0008749	Laryngeal hypoplasia	ICD10:Q31.2	Laryngeal hypoplasia	false	
+HP:0008749	Laryngeal hypoplasia	ICD10:Q31.2	Laryngeal hypoplasia	true	
+HP:0008760	Violent behavior	ICD10:R45.6	Violent behavior	false	
+HP:0008760	Violent behavior	ICD10:R45.6	Violent behavior	true	
+HP:0008765	Auditory hallucinations	ICD10:R44.0	Auditory hallucinations	false	
+HP:0008765	Auditory hallucinations	ICD10:R44.0	Auditory hallucinations	true	
+HP:0008780	Congenital bilateral hip dislocation	ICD10:Q65.1	Congenital dislocation of hip, bilateral	false	
+HP:0008780	Congenital bilateral hip dislocation	ICD10:Q65.1	Congenital dislocation of hip, bilateral	true	
+HP:0008843	Hip osteoarthritis	ICD10:M16	osteoarthritis hip	false	
+HP:0008843	Hip osteoarthritis	ICD10:M16	osteoarthritis hip	true	
+HP:0009806	Nephrogenic diabetes insipidus	ICD10:N25.1	Nephrogenic diabetes insipidus	false	
+HP:0009806	Nephrogenic diabetes insipidus	ICD10:N25.1	Nephrogenic diabetes insipidus	true	
+HP:0009886	Trichorrhexis nodosa	ICD10:L67.0	Trichorrhexis nodosa	false	
+HP:0009886	Trichorrhexis nodosa	ICD10:L67.0	Trichorrhexis nodosa	true	
+HP:0009916	Anisocoria	ICD10:H57.02	Anisocoria	false	
+HP:0009916	Anisocoria	ICD10:H57.02	Anisocoria	true	
+HP:0010296	Ankyloglossia	ICD10:Q38.1	Ankyloglossia	false	
+HP:0010296	Ankyloglossia	ICD10:Q38.1	Ankyloglossia	true	
+HP:0010307	Stridor	ICD10:R06.1	Stridor	false	
+HP:0010313	Breast hypertrophy	ICD10:N62	Hypertrophy of breast	false	
+HP:0010313	Breast hypertrophy	ICD10:N62	Hypertrophy of breast	true	
+HP:0010316	Ebstein's anomaly of the tricuspid valve	ICD10:Q22.5	Ebstein's anomaly	false	
+HP:0010316	Ebstein's anomaly of the tricuspid valve	ICD10:Q22.5	Ebstein's anomaly	true	
+HP:0010447	Anal fistula	ICD10:K60.3	Anal fistula	false	
+HP:0010447	Anal fistula	ICD10:K60.3	Anal fistula	true	
+HP:0010480	Urethral fistula	ICD10:N36.0	Urethral fistula	false	
+HP:0010480	Urethral fistula	ICD10:N36.0	Urethral fistula	true	
+HP:0010524	Agnosia	ICD10:R48.1	Agnosia	false	
+HP:0010534	Transient global amnesia	ICD10:G45.4	Transient global amnesia	false	
+HP:0010534	Transient global amnesia	ICD10:G45.4	Transient global amnesia	true	
+HP:0010735	Polyostotic fibrous dysplasia	ICD10:Q78.1	Polyostotic fibrous dysplasia	false	
+HP:0010735	Polyostotic fibrous dysplasia	ICD10:Q78.1	Polyostotic fibrous dysplasia	true	
+HP:0010771	Pilonidal abscess	ICD10:L05	pilonidal abscess	false	
+HP:0010771	Pilonidal abscess	ICD10:L05	pilonidal abscess	true	
+HP:0010864	Intellectual disability, severe	ICD10:F72	Severe intellectual disabilities	true	
+HP:0010865	Oppositional defiant disorder	ICD10:F91.3	Oppositional defiant disorder	false	
+HP:0010865	Oppositional defiant disorder	ICD10:F91.3	Oppositional defiant disorder	true	
+HP:0010882	Pulmonary valve atresia	ICD10:Q22.0	Pulmonary valve atresia	false	
+HP:0010882	Pulmonary valve atresia	ICD10:Q22.0	Pulmonary valve atresia	true	
+HP:0010906	Hyperhistidinemia	ICD10:E70.41	Histidinemia	false	
+HP:0010906	Hyperhistidinemia	ICD10:E70.41	Histidinemia	true	
+HP:0010954	Hypoplastic right heart	ICD10:Q22.6	Hypoplastic right heart syndrome	false	
+HP:0010954	Hypoplastic right heart	ICD10:Q22.6	Hypoplastic right heart syndrome	true	
+HP:0010957	Congenital posterior urethral valve	ICD10:Q64.2	Congenital posterior urethral valves	true	
+HP:0010958	Bilateral renal agenesis	ICD10:Q60.1	Renal agenesis, bilateral	false	
+HP:0010958	Bilateral renal agenesis	ICD10:Q60.1	Renal agenesis, bilateral	true	
+HP:0011002	Osteopetrosis	ICD10:Q78.2	Osteopetrosis	false	
+HP:0011002	Osteopetrosis	ICD10:Q78.2	Osteopetrosis	true	
+HP:0011009	Acute	ICD10:J01	acute	false	
+HP:0011009	Acute	ICD10:J05	acute	false	
+HP:0011009	Acute	ICD10:J06	acute	false	
+HP:0011010	Chronic	ICD10:J31	chronic	false	
+HP:0011010	Chronic	ICD10:J32	chronic	false	
+HP:0011010	Chronic	ICD10:J37	chronic	false	
+HP:0011010	Chronic	ICD10:N11	chronic	false	
+HP:0011034	Amyloidosis	ICD10:E85	amyloidosis	false	
+HP:0011034	Amyloidosis	ICD10:E85	amyloidosis	true	
+HP:0011106	Hypovolemia	ICD10:E86.1	Hypovolemia	false	
+HP:0011106	Hypovolemia	ICD10:E86.1	Hypovolemia	true	
+HP:0011126	Nephroptosis	ICD10:N28.83	Nephroptosis	false	
+HP:0011126	Nephroptosis	ICD10:N28.83	Nephroptosis	true	
+HP:0011141	Age-related cataract	ICD10:H25	agerelated cataract	false	
+HP:0011141	Age-related cataract	ICD10:H25	agerelated cataract	true	
+HP:0011171	Simple febrile seizures	ICD10:R56.00	Simple febrile convulsions	true	
+HP:0011367	Yellow nails	ICD10:L60.5	Yellow nail syndrome	true	
+HP:0011445	Athetoid cerebral palsy	ICD10:G80.3	Athetoid cerebral palsy	false	
+HP:0011445	Athetoid cerebral palsy	ICD10:G80.3	Athetoid cerebral palsy	true	
+HP:0011499	Mydriasis	ICD10:H57.04	Mydriasis	false	
+HP:0011499	Mydriasis	ICD10:H57.04	Mydriasis	true	
+HP:0011516	Achromatopsia	ICD10:H53.51	Achromatopsia	false	
+HP:0011516	Achromatopsia	ICD10:H53.51	Achromatopsia	true	
+HP:0011520	Deuteranomaly	ICD10:H53.53	Deuteranomaly	false	
+HP:0011520	Deuteranomaly	ICD10:H53.53	Deuteranomaly	true	
+HP:0011553	Discordant atrioventricular connection	ICD10:Q20.5	Discordant atrioventricular connection	false	
+HP:0011553	Discordant atrioventricular connection	ICD10:Q20.5	Discordant atrioventricular connection	true	
+HP:0011570	Congenital mitral stenosis	ICD10:Q23.2	Congenital mitral stenosis	false	
+HP:0011570	Congenital mitral stenosis	ICD10:Q23.2	Congenital mitral stenosis	true	
+HP:0011581	Double outlet left ventricle	ICD10:Q20.2	Double outlet left ventricle	false	
+HP:0011581	Double outlet left ventricle	ICD10:Q20.2	Double outlet left ventricle	true	
+HP:0011590	Double aortic arch	ICD10:Q25.45	Double aortic arch	false	
+HP:0011590	Double aortic arch	ICD10:Q25.45	Double aortic arch	true	
+HP:0011611	Interrupted aortic arch	ICD10:Q25.21	Interruption of aortic arch	true	
+HP:0011704	Sick sinus syndrome	ICD10:I49.5	Sick sinus syndrome	false	
+HP:0011704	Sick sinus syndrome	ICD10:I49.5	Sick sinus syndrome	true	
+HP:0011705	First degree atrioventricular block	ICD10:I44.0	Atrioventricular block, first degree	false	
+HP:0011705	First degree atrioventricular block	ICD10:I44.0	Atrioventricular block, first degree	true	
+HP:0011706	Second degree atrioventricular block	ICD10:I44.1	Atrioventricular block, second degree	false	
+HP:0011706	Second degree atrioventricular block	ICD10:I44.1	Atrioventricular block, second degree	true	
+HP:0011711	Left anterior fascicular block	ICD10:I44.4	Left anterior fascicular block	false	
+HP:0011711	Left anterior fascicular block	ICD10:I44.4	Left anterior fascicular block	true	
+HP:0011715	Trifascicular block	ICD10:I45.3	Trifascicular block	false	
+HP:0011715	Trifascicular block	ICD10:I45.3	Trifascicular block	true	
+HP:0011726	Persistent fetal circulation	ICD10:P29.3	Persistent fetal circulation	false	
+HP:0011726	Persistent fetal circulation	ICD10:P29.3	Persistent fetal circulation	true	
+HP:0011741	Secondary hyperaldosteronism	ICD10:E26.1	Secondary hyperaldosteronism	false	
+HP:0011741	Secondary hyperaldosteronism	ICD10:E26.1	Secondary hyperaldosteronism	true	
+HP:0011818	Nasofrontal encephalocele	ICD10:Q01.1	Nasofrontal encephalocele	false	
+HP:0011818	Nasofrontal encephalocele	ICD10:Q01.1	Nasofrontal encephalocele	true	
+HP:0011838	Sclerodactyly	ICD10:L94.3	Sclerodactyly	false	
+HP:0011838	Sclerodactyly	ICD10:L94.3	Sclerodactyly	true	
+HP:0011841	Ventricular flutter	ICD10:I49.02	Ventricular flutter	false	
+HP:0011841	Ventricular flutter	ICD10:I49.02	Ventricular flutter	true	
+HP:0011854	Hemoperitoneum	ICD10:K66.1	Hemoperitoneum	false	
+HP:0011854	Hemoperitoneum	ICD10:K66.1	Hemoperitoneum	true	
+HP:0011892	Vitamin K deficiency	ICD10:E56.1	Deficiency of vitamin K	false	
+HP:0011892	Vitamin K deficiency	ICD10:E56.1	Deficiency of vitamin K	true	
+HP:0011967	Hypocupremia	ICD10:E61.0	Copper deficiency	false	
+HP:0011967	Hypocupremia	ICD10:E61.0	Copper deficiency	true	
+HP:0011968	Feeding difficulties	ICD10:R63.3	Feeding difficulties	false	
+HP:0011968	Feeding difficulties	ICD10:R63.3	Feeding difficulties	true	
+HP:0011970	Cerebral amyloid angiopathy	ICD10:I68.0	Cerebral amyloid angiopathy	false	
+HP:0011970	Cerebral amyloid angiopathy	ICD10:I68.0	Cerebral amyloid angiopathy	true	
+HP:0011971	Dermatographic urticaria	ICD10:L50.3	Dermatographic urticaria	false	
+HP:0011971	Dermatographic urticaria	ICD10:L50.3	Dermatographic urticaria	true	
+HP:0011974	Myelofibrosis	ICD10:D75.81	Myelofibrosis	false	
+HP:0011974	Myelofibrosis	ICD10:D75.81	Myelofibrosis	true	
+HP:0012020	Right aortic arch	ICD10:Q25.47	Right aortic arch	false	
+HP:0012020	Right aortic arch	ICD10:Q25.47	Right aortic arch	true	
+HP:0012024	Hypergalactosemia	ICD10:E74.21	Galactosemia	false	
+HP:0012024	Hypergalactosemia	ICD10:E74.21	Galactosemia	true	
+HP:0012035	Steatocystoma multiplex	ICD10:L72.2	Steatocystoma multiplex	false	
+HP:0012035	Steatocystoma multiplex	ICD10:L72.2	Steatocystoma multiplex	true	
+HP:0012047	Hemeralopia	ICD10:H53.11	Day blindness	false	
+HP:0012047	Hemeralopia	ICD10:H53.11	Day blindness	true	
+HP:0012075	Personality disorder	ICD10:F60	personality	false	
+HP:0012076	Borderline personality disorder	ICD10:F60.3	Borderline personality disorder	false	
+HP:0012076	Borderline personality disorder	ICD10:F60.3	Borderline personality disorder	true	
+HP:0012077	Histrionic personality disorder	ICD10:F60.4	Histrionic personality disorder	false	
+HP:0012077	Histrionic personality disorder	ICD10:F60.4	Histrionic personality disorder	true	
+HP:0012151	Hemothorax	ICD10:J94.2	Hemothorax	false	
+HP:0012151	Hemothorax	ICD10:J94.2	Hemothorax	true	
+HP:0012154	Anhedonia	ICD10:R45.84	Anhedonia	false	
+HP:0012154	Anhedonia	ICD10:R45.84	Anhedonia	true	
+HP:0012158	Carotid artery dissection	ICD10:I77.71	Dissection of carotid artery	false	
+HP:0012158	Carotid artery dissection	ICD10:I77.71	Dissection of carotid artery	true	
+HP:0012163	Carotid artery aneurysm	ICD10:I72.0	Aneurysm of carotid artery	false	
+HP:0012163	Carotid artery aneurysm	ICD10:I72.0	Aneurysm of carotid artery	true	
+HP:0012175	Resistance to activated protein C	ICD10:D68.51	Activated protein C resistance	false	
+HP:0012175	Resistance to activated protein C	ICD10:D68.51	Activated protein C resistance	true	
+HP:0012189	Hodgkin lymphoma	ICD10:C81	hodgkin lymphoma	false	
+HP:0012189	Hodgkin lymphoma	ICD10:C81	hodgkin lymphoma	true	
+HP:0012219	Erythema nodosum	ICD10:L52	Erythema nodosum	false	
+HP:0012219	Erythema nodosum	ICD10:L52	Erythema nodosum	true	
+HP:0012227	Urethral stricture	ICD10:N35	urethral stricture	false	
+HP:0012227	Urethral stricture	ICD10:N35	urethral stricture	true	
+HP:0012238	Hyperchylomicronemia	ICD10:E78.3	Hyperchylomicronemia	false	
+HP:0012238	Hyperchylomicronemia	ICD10:E78.3	Hyperchylomicronemia	true	
+HP:0012318	Occipital neuralgia	ICD10:M54.81	Occipital neuralgia	false	
+HP:0012318	Occipital neuralgia	ICD10:M54.81	Occipital neuralgia	true	
+HP:0012327	Celiac artery compression	ICD10:I77.4	Celiac artery compression syndrome	false	
+HP:0012384	Rhinitis	ICD10:J30	rhinitis	false	
+HP:0012384	Rhinitis	ICD10:J30	rhinitis	true	
+HP:0012388	Acute bronchitis	ICD10:J20	acute bronchitis	false	
+HP:0012388	Acute bronchitis	ICD10:J20	acute bronchitis	true	
+HP:0012397	Aortic atherosclerosis	ICD10:I70.0	Atherosclerosis of aorta	false	
+HP:0012397	Aortic atherosclerosis	ICD10:I70.0	Atherosclerosis of aorta	true	
+HP:0012399	Pressure ulcer	ICD10:L89	pressure ulcer of	false	
+HP:0012399	Pressure ulcer	ICD10:L89	pressure ulcer of	true	
+HP:0012413	Notched primary central incisor	ICD10:A50.52	Hutchinson's teeth	false	
+HP:0012413	Notched primary central incisor	ICD10:A50.52	Hutchinson's teeth	true	
+HP:0012415	Abnormal blood gas level	ICD10:R79.81	Abnormal blood-gas level	false	
+HP:0012415	Abnormal blood gas level	ICD10:R79.81	Abnormal blood-gas level	true	
+HP:0012418	Hypoxemia	ICD10:R09.02	Hypoxemia	false	
+HP:0012418	Hypoxemia	ICD10:R09.02	Hypoxemia	true	
+HP:0012452	Restless legs	ICD10:G25.81	Restless legs syndrome	false	
+HP:0012459	Hypnic headache	ICD10:G44.81	Hypnic headache	false	
+HP:0012459	Hypnic headache	ICD10:G44.81	Hypnic headache	true	
+HP:0012461	Bacteriuria	ICD10:R82.71	Bacteriuria	false	
+HP:0012461	Bacteriuria	ICD10:R82.71	Bacteriuria	true	
+HP:0012531	Pain	ICD10:G89	pain	false	
+HP:0012532	Chronic pain	ICD10:G89.4	Chronic pain syndrome	false	
+HP:0012532	Chronic pain	ICD10:G89.4	Chronic pain syndrome	true	
+HP:0012583	Unilateral renal hypoplasia	ICD10:Q60.3	Renal hypoplasia, unilateral	false	
+HP:0012583	Unilateral renal hypoplasia	ICD10:Q60.3	Renal hypoplasia, unilateral	true	
+HP:0012584	Bilateral renal hypoplasia	ICD10:Q60.4	Renal hypoplasia, bilateral	false	
+HP:0012584	Bilateral renal hypoplasia	ICD10:Q60.4	Renal hypoplasia, bilateral	true	
+HP:0012587	Macroscopic hematuria	ICD10:R31.0	Gross hematuria	false	
+HP:0012587	Macroscopic hematuria	ICD10:R31.0	Gross hematuria	true	
+HP:0012621	Persistent cloaca	ICD10:Q43.7	Persistent cloaca	false	
+HP:0012621	Persistent cloaca	ICD10:Q43.7	Persistent cloaca	true	
+HP:0012623	Stage 1 chronic kidney disease	ICD10:N18.1	Chronic kidney disease, stage 1	false	
+HP:0012623	Stage 1 chronic kidney disease	ICD10:N18.1	Chronic kidney disease, stage 1	true	
+HP:0012646	Retractile testis	ICD10:Q55.22	Retractile testis	false	
+HP:0012646	Retractile testis	ICD10:Q55.22	Retractile testis	true	
+HP:0012669	Carotid sinus syncope	ICD10:G90.01	Carotid sinus syncope	false	
+HP:0012669	Carotid sinus syncope	ICD10:G90.01	Carotid sinus syncope	true	
+HP:0012701	Bowel urgency	ICD10:R15.2	Fecal urgency	false	
+HP:0012701	Bowel urgency	ICD10:R15.2	Fecal urgency	true	
+HP:0012735	Cough	ICD10:R05	Cough	false	
+HP:0012735	Cough	ICD10:R05	Cough	true	
+HP:0012764	Orthopnea	ICD10:R06.01	Orthopnea	false	
+HP:0012764	Orthopnea	ICD10:R06.01	Orthopnea	true	
+HP:0012803	Anisometropia	ICD10:H52.31	Anisometropia	false	
+HP:0012803	Anisometropia	ICD10:H52.31	Anisometropia	true	
+HP:0012819	Myocarditis	ICD10:I40	myocarditis	false	
+HP:0012819	Myocarditis	ICD10:I40	myocarditis	true	
+HP:0012876	Premature ejaculation	ICD10:F52.4	Premature ejaculation	false	
+HP:0012876	Premature ejaculation	ICD10:F52.4	Premature ejaculation	true	
+HP:0012877	Retrograde ejaculation	ICD10:N53.14	Retrograde ejaculation	false	
+HP:0012877	Retrograde ejaculation	ICD10:N53.14	Retrograde ejaculation	true	
+HP:0012878	Retarded ejaculation	ICD10:N53.11	Retarded ejaculation	false	
+HP:0012878	Retarded ejaculation	ICD10:N53.11	Retarded ejaculation	true	
+HP:0030011	Imperforate hymen	ICD10:Q52.3	Imperforate hymen	false	
+HP:0030011	Imperforate hymen	ICD10:Q52.3	Imperforate hymen	true	
+HP:0030015	Female anorgasmia	ICD10:F52.31	Female orgasmic disorder	false	
+HP:0030015	Female anorgasmia	ICD10:F52.31	Female orgasmic disorder	true	
+HP:0030017	Vaginismus	ICD10:N94.2	Vaginismus	false	
+HP:0030017	Vaginismus	ICD10:N94.2	Vaginismus	true	
+HP:0030127	Endometriosis	ICD10:N80	endometriosis	false	
+HP:0030127	Endometriosis	ICD10:N80	endometriosis	true	
+HP:0030143	Hyperactive bowel sounds	ICD10:R19.12	Hyperactive bowel sounds	false	
+HP:0030143	Hyperactive bowel sounds	ICD10:R19.12	Hyperactive bowel sounds	true	
+HP:0030149	Cardiogenic shock	ICD10:R57.0	Cardiogenic shock	false	
+HP:0030149	Cardiogenic shock	ICD10:R57.0	Cardiogenic shock	true	
+HP:0030150	Plasmacytosis	ICD10:D72.822	Plasmacytosis	false	
+HP:0030150	Plasmacytosis	ICD10:D72.822	Plasmacytosis	true	
+HP:0030151	Cholangitis	ICD10:K83.0	Cholangitis	false	
+HP:0030151	Cholangitis	ICD10:K83.0	Cholangitis	true	
+HP:0030154	Gallbladder perforation	ICD10:K82.2	Perforation of gallbladder	false	
+HP:0030154	Gallbladder perforation	ICD10:K82.2	Perforation of gallbladder	true	
+HP:0030155	Scrotal pain	ICD10:N50.82	Scrotal pain	false	
+HP:0030155	Scrotal pain	ICD10:N50.82	Scrotal pain	true	
+HP:0030156	Bence Jones Proteinuria	ICD10:R80.3	Bence Jones proteinuria	false	
+HP:0030156	Bence Jones Proteinuria	ICD10:R80.3	Bence Jones proteinuria	true	
+HP:0030169	Gastric varix	ICD10:I86.4	Gastric varices	false	
+HP:0030169	Gastric varix	ICD10:I86.4	Gastric varices	true	
+HP:0030186	Kinetic tremor	ICD10:G25.0	Essential tremor	false	
+HP:0030186	Kinetic tremor	ICD10:G25.0	Essential tremor	true	
+HP:0030222	Visual agnosia	ICD10:R48.3	Visual agnosia	false	
+HP:0030222	Visual agnosia	ICD10:R48.3	Visual agnosia	true	
+HP:0030242	Portal vein thrombosis	ICD10:I81	Portal vein thrombosis	false	
+HP:0030242	Portal vein thrombosis	ICD10:I81	Portal vein thrombosis	true	
+HP:0030645	Central	ICD10:G37	central	false	
+HP:0030770	Craniorachischisis	ICD10:Q00.1	Craniorachischisis	false	
+HP:0030770	Craniorachischisis	ICD10:Q00.1	Craniorachischisis	true	
+HP:0030816	Gingival recession	ICD10:K06.0	Gingival recession	false	
+HP:0030816	Gingival recession	ICD10:K06.0	Gingival recession	true	
+HP:0030828	Wheezing	ICD10:R06.2	Wheezing	false	
+HP:0030828	Wheezing	ICD10:R06.2	Wheezing	true	
+HP:0040075	Hypopituitarism	ICD10:E23.0	Hypopituitarism	false	
+HP:0040075	Hypopituitarism	ICD10:E23.0	Hypopituitarism	true	
+HP:0040154	Acne inversa	ICD10:L73.2	Hidradenitis suppurativa	false	
+HP:0040154	Acne inversa	ICD10:L73.2	Hidradenitis suppurativa	true	
+HP:0040181	Chapped lip	ICD10:L71.0	Perioral dermatitis	false	
+HP:0040181	Chapped lip	ICD10:L71.0	Perioral dermatitis	true	
+HP:0040188	Osteochondrosis	ICD10:M42	osteochondrosis	false	
+HP:0040188	Osteochondrosis	ICD10:M42	osteochondrosis	true	
+HP:0040261	Increased size of nasopharyngeal adenoids	ICD10:J35.2	Hypertrophy of adenoids	true	
+HP:0040264	Jaw pain	ICD10:R68.84	Jaw pain	false	
+HP:0040264	Jaw pain	ICD10:R68.84	Jaw pain	true	
+HP:0100021	Cerebral palsy	ICD10:G80	cerebral palsy	false	
+HP:0100021	Cerebral palsy	ICD10:G80	cerebral palsy	true	
+HP:0100255	Metaphyseal dysplasia	ICD10:Q78.5	Metaphyseal dysplasia	false	
+HP:0100255	Metaphyseal dysplasia	ICD10:Q78.5	Metaphyseal dysplasia	true	
+HP:0100333	Unilateral cleft lip	ICD10:Q36.9	Cleft lip, unilateral	false	
+HP:0100333	Unilateral cleft lip	ICD10:Q36.9	Cleft lip, unilateral	true	
+HP:0100336	Bilateral cleft lip	ICD10:Q36.0	Cleft lip, bilateral	false	
+HP:0100336	Bilateral cleft lip	ICD10:Q36.0	Cleft lip, bilateral	true	
+HP:0100495	Mastocytosis	ICD10:Q82.2	Mastocytosis	false	
+HP:0100495	Mastocytosis	ICD10:Q82.2	Mastocytosis	true	
+HP:0100504	Vitamin B2 deficiency	ICD10:E53.0	Riboflavin deficiency	false	
+HP:0100504	Vitamin B2 deficiency	ICD10:E53.0	Riboflavin deficiency	true	
+HP:0100507	Folate deficiency	ICD10:D52	folate deficiency	false	
+HP:0100507	Folate deficiency	ICD10:D52	folate deficiency	true	
+HP:0100513	Vitamin E deficiency	ICD10:E56.0	Deficiency of vitamin E	false	
+HP:0100513	Vitamin E deficiency	ICD10:E56.0	Deficiency of vitamin E	true	
+HP:0100518	Dysuria	ICD10:R30.0	Dysuria	false	
+HP:0100523	Liver abscess	ICD10:K75.0	Abscess of liver	false	
+HP:0100523	Liver abscess	ICD10:K75.0	Abscess of liver	true	
+HP:0100565	Hydromyelia	ICD10:Q06.4	Hydromyelia	false	
+HP:0100565	Hydromyelia	ICD10:Q06.4	Hydromyelia	true	
+HP:0100566	Amyelia	ICD10:Q06.0	Amyelia	false	
+HP:0100570	Carcinoid tumor	ICD10:E34.0	Carcinoid syndrome	false	
+HP:0100570	Carcinoid tumor	ICD10:E34.0	Carcinoid syndrome	true	
+HP:0100576	Amaurosis fugax	ICD10:G45.3	Amaurosis fugax	false	
+HP:0100576	Amaurosis fugax	ICD10:G45.3	Amaurosis fugax	true	
+HP:0100588	Paraphimosis	ICD10:N47.2	Paraphimosis	false	
+HP:0100588	Paraphimosis	ICD10:N47.2	Paraphimosis	true	
+HP:0100590	Rectal fistula	ICD10:K60.4	Rectal fistula	false	
+HP:0100590	Rectal fistula	ICD10:K60.4	Rectal fistula	true	
+HP:0100592	Peritoneal abscess	ICD10:K65.1	Peritoneal abscess	false	
+HP:0100592	Peritoneal abscess	ICD10:K65.1	Peritoneal abscess	true	
+HP:0100594	Esophageal web	ICD10:Q39.4	Esophageal web	false	
+HP:0100594	Esophageal web	ICD10:Q39.4	Esophageal web	true	
+HP:0100598	Pulmonary edema	ICD10:J81	pulmonary edema	false	
+HP:0100598	Pulmonary edema	ICD10:J81	pulmonary edema	true	
+HP:0100601	Eclampsia	ICD10:O15	eclampsia	false	
+HP:0100601	Eclampsia	ICD10:O15	eclampsia	true	
+HP:0100633	Esophagitis	ICD10:K20	esophagitis	false	
+HP:0100633	Esophagitis	ICD10:K20	esophagitis	true	
+HP:0100646	Thyroiditis	ICD10:E06	thyroiditis	false	
+HP:0100646	Thyroiditis	ICD10:E06	thyroiditis	true	
+HP:0100651	Type I diabetes mellitus	ICD10:E10	type 1 diabetes mellitus	false	
+HP:0100651	Type I diabetes mellitus	ICD10:E10	type 1 diabetes mellitus	true	
+HP:0100661	Trigeminal neuralgia	ICD10:G50.0	Trigeminal neuralgia	false	
+HP:0100661	Trigeminal neuralgia	ICD10:G50.0	Trigeminal neuralgia	true	
+HP:0100668	Intestinal duplication	ICD10:Q43.4	Duplication of intestine	true	
+HP:0100710	Impulsivity	ICD10:R45.87	Impulsiveness	true	
+HP:0100719	Lens coloboma	ICD10:Q12.2	Coloboma of lens	false	
+HP:0100719	Lens coloboma	ICD10:Q12.2	Coloboma of lens	true	
+HP:0100750	Atelectasis	ICD10:J98.11	Atelectasis	false	
+HP:0100750	Atelectasis	ICD10:J98.11	Atelectasis	true	
+HP:0100759	Clubbing of fingers	ICD10:R68.3	Clubbing of fingers	false	
+HP:0100759	Clubbing of fingers	ICD10:R68.3	Clubbing of fingers	true	
+HP:0100778	Cryoglobulinemia	ICD10:D89.1	Cryoglobulinemia	false	
+HP:0100778	Cryoglobulinemia	ICD10:D89.1	Cryoglobulinemia	true	
+HP:0100796	Orchitis	ICD10:N45.2	Orchitis	false	
+HP:0100796	Orchitis	ICD10:N45.2	Orchitis	true	
+HP:0100806	Sepsis	ICD10:A40	sepsis	false	
+HP:0100806	Sepsis	ICD10:A41	sepsis	false	
+HP:0100808	Gastric diverticulum	ICD10:K31.4	Gastric diverticulum	false	
+HP:0100808	Gastric diverticulum	ICD10:K31.4	Gastric diverticulum	true	
+HP:0100812	Halitosis	ICD10:R19.6	Halitosis	false	
+HP:0100812	Halitosis	ICD10:R19.6	Halitosis	true	
+HP:0100817	Renovascular hypertension	ICD10:I15.0	Renovascular hypertension	false	
+HP:0100817	Renovascular hypertension	ICD10:I15.0	Renovascular hypertension	true	
+HP:0100819	Intestinal fistula	ICD10:K63.2	Fistula of intestine	true	
+HP:0100821	Urethrocele	ICD10:N81.0	Urethrocele	false	
+HP:0100821	Urethrocele	ICD10:N81.0	Urethrocele	true	
+HP:0100822	Rectocele	ICD10:N81.6	Rectocele	false	
+HP:0100822	Rectocele	ICD10:N81.6	Rectocele	true	
+HP:0100829	Galactorrhea	ICD10:O92.6	Galactorrhea	false	
+HP:0100829	Galactorrhea	ICD10:O92.6	Galactorrhea	true	
+HP:0100896	Rectal polyposis	ICD10:K62.1	Rectal polyp	true	
+HP:0100963	Hyperesthesia	ICD10:R20.3	Hyperesthesia	false	
+HP:0100963	Hyperesthesia	ICD10:R20.3	Hyperesthesia	true	
+HP:0200018	Protanomaly	ICD10:H53.54	Protanomaly	false	
+HP:0200018	Protanomaly	ICD10:H53.54	Protanomaly	true	
+HP:0200119	Acute hepatitis	ICD10:B17	acute hepatitis	false	
+HP:0200119	Acute hepatitis	ICD10:B17	acute hepatitis	true	
+HP:0200123	Chronic hepatitis	ICD10:K73	chronic hepatitis	false	
+HP:0200123	Chronic hepatitis	ICD10:K73	chronic hepatitis	true	
+HP:0410005	Cleft hard palate	ICD10:Q35.1	Cleft hard palate	false	
+HP:0410005	Cleft hard palate	ICD10:Q35.1	Cleft hard palate	true	
+ICD10:A02.24	Salmonella osteomyelitis	HP:0005661	Salmonella osteomyelitis	false	
+ICD10:A02.24	Salmonella osteomyelitis	HP:0005661	Salmonella osteomyelitis	true	
+ICD10:A40	sepsis	HP:0100806	Sepsis	false	
+ICD10:A41	sepsis	HP:0100806	Sepsis	false	
+ICD10:A46	Erysipelas	HP:0001055	Erysipelas	false	
+ICD10:A46	Erysipelas	HP:0001055	Erysipelas	true	
+ICD10:A50.52	Hutchinson's teeth	HP:0012413	Notched primary central incisor	false	
+ICD10:A50.52	Hutchinson's teeth	HP:0012413	Notched primary central incisor	true	
+ICD10:A85	encephalitis	HP:0002383	Encephalitis	false	
+ICD10:A85	encephalitis	HP:0002383	Encephalitis	true	
+ICD10:B17	acute hepatitis	HP:0200119	Acute hepatitis	false	
+ICD10:B17	acute hepatitis	HP:0200119	Acute hepatitis	true	
+ICD10:C22.2	Hepatoblastoma	HP:0002884	Hepatoblastoma	false	
+ICD10:C22.2	Hepatoblastoma	HP:0002884	Hepatoblastoma	true	
+ICD10:C81	hodgkin lymphoma	HP:0012189	Hodgkin lymphoma	false	
+ICD10:C81	hodgkin lymphoma	HP:0012189	Hodgkin lymphoma	true	
+ICD10:C82	lymphoma	HP:0002665	Lymphoma	false	
+ICD10:C82	lymphoma	HP:0002665	Lymphoma	true	
+ICD10:C83	lymphoma	HP:0002665	Lymphoma	false	
+ICD10:C83	lymphoma	HP:0002665	Lymphoma	true	
+ICD10:C85	lymphoma	HP:0002665	Lymphoma	false	
+ICD10:C85	lymphoma	HP:0002665	Lymphoma	true	
+ICD10:C88.0	Waldenstrom macroglobulinemia	HP:0005508	Waldenstrom macroglobulinemia	false	
+ICD10:C88.0	Waldenstrom macroglobulinemia	HP:0005508	Waldenstrom macroglobulinemia	true	
+ICD10:C93	leukemia	HP:0001909	Leukemia	false	
+ICD10:C93	leukemia	HP:0001909	Leukemia	true	
+ICD10:D22	melanocytic nevi	HP:0000995	Melanocytic nevus	false	
+ICD10:D22	melanocytic nevi	HP:0000995	Melanocytic nevus	true	
+ICD10:D46.1	Refractory anemia with ring sideroblasts	HP:0004828	Refractory anemia with ringed sideroblasts	true	
+ICD10:D52	folate deficiency	HP:0100507	Folate deficiency	false	
+ICD10:D52	folate deficiency	HP:0100507	Folate deficiency	true	
+ICD10:D59.3	Hemolytic-uremic syndrome	HP:0005575	Hemolytic-uremic syndrome	false	
+ICD10:D59.3	Hemolytic-uremic syndrome	HP:0005575	Hemolytic-uremic syndrome	true	
+ICD10:D68.51	Activated protein C resistance	HP:0012175	Resistance to activated protein C	false	
+ICD10:D68.51	Activated protein C resistance	HP:0012175	Resistance to activated protein C	true	
+ICD10:D70.0	Congenital agranulocytosis	HP:0005541	Congenital agranulocytosis	false	
+ICD10:D70.0	Congenital agranulocytosis	HP:0005541	Congenital agranulocytosis	true	
+ICD10:D72.1	Eosinophilia	HP:0001880	Eosinophilia	false	
+ICD10:D72.1	Eosinophilia	HP:0001880	Eosinophilia	true	
+ICD10:D72.822	Plasmacytosis	HP:0030150	Plasmacytosis	false	
+ICD10:D72.822	Plasmacytosis	HP:0030150	Plasmacytosis	true	
+ICD10:D73.1	Hypersplenism	HP:0001971	Hypersplenism	false	
+ICD10:D73.1	Hypersplenism	HP:0001971	Hypersplenism	true	
+ICD10:D75.81	Myelofibrosis	HP:0011974	Myelofibrosis	false	
+ICD10:D75.81	Myelofibrosis	HP:0011974	Myelofibrosis	true	
+ICD10:D80.7	Transient hypogammaglobulinemia of infancy	HP:0005432	Transient hypogammaglobulinemia of infancy	false	
+ICD10:D80.7	Transient hypogammaglobulinemia of infancy	HP:0005432	Transient hypogammaglobulinemia of infancy	true	
+ICD10:D89.1	Cryoglobulinemia	HP:0100778	Cryoglobulinemia	false	
+ICD10:D89.1	Cryoglobulinemia	HP:0100778	Cryoglobulinemia	true	
+ICD10:E06	thyroiditis	HP:0100646	Thyroiditis	false	
+ICD10:E06	thyroiditis	HP:0100646	Thyroiditis	true	
+ICD10:E10	type 1 diabetes mellitus	HP:0100651	Type I diabetes mellitus	false	
+ICD10:E10	type 1 diabetes mellitus	HP:0100651	Type I diabetes mellitus	true	
+ICD10:E11	type 2 diabetes mellitus	HP:0005978	Type II diabetes mellitus	false	
+ICD10:E11	type 2 diabetes mellitus	HP:0005978	Type II diabetes mellitus	true	
+ICD10:E20.1	Pseudohypoparathyroidism	HP:0000852	Pseudohypoparathyroidism	false	
+ICD10:E20.1	Pseudohypoparathyroidism	HP:0000852	Pseudohypoparathyroidism	true	
+ICD10:E21.0	Primary hyperparathyroidism	HP:0008200	Primary hyperparathyroidism	false	
+ICD10:E21.0	Primary hyperparathyroidism	HP:0008200	Primary hyperparathyroidism	true	
+ICD10:E23.0	Hypopituitarism	HP:0040075	Hypopituitarism	false	
+ICD10:E23.0	Hypopituitarism	HP:0040075	Hypopituitarism	true	
+ICD10:E23.2	Diabetes insipidus	HP:0000873	Diabetes insipidus	false	
+ICD10:E23.2	Diabetes insipidus	HP:0000873	Diabetes insipidus	true	
+ICD10:E25	adrenogenital	HP:0000840	Adrenogenital syndrome	false	
+ICD10:E26.1	Secondary hyperaldosteronism	HP:0011741	Secondary hyperaldosteronism	false	
+ICD10:E26.1	Secondary hyperaldosteronism	HP:0011741	Secondary hyperaldosteronism	true	
+ICD10:E30.0	Delayed puberty	HP:0000823	Delayed puberty	false	
+ICD10:E30.0	Delayed puberty	HP:0000823	Delayed puberty	true	
+ICD10:E30.1	Precocious puberty	HP:0000826	Precocious puberty	false	
+ICD10:E30.1	Precocious puberty	HP:0000826	Precocious puberty	true	
+ICD10:E34.0	Carcinoid syndrome	HP:0100570	Carcinoid tumor	false	
+ICD10:E34.0	Carcinoid syndrome	HP:0100570	Carcinoid tumor	true	
+ICD10:E36	of endocrine system endocrine system	HP:0000818	Abnormality of the endocrine system	false	
+ICD10:E50	vitamin a deficiency	HP:0004905	Vitamin A deficiency	false	
+ICD10:E50	vitamin a deficiency	HP:0004905	Vitamin A deficiency	true	
+ICD10:E53.0	Riboflavin deficiency	HP:0100504	Vitamin B2 deficiency	false	
+ICD10:E53.0	Riboflavin deficiency	HP:0100504	Vitamin B2 deficiency	true	
+ICD10:E56.0	Deficiency of vitamin E	HP:0100513	Vitamin E deficiency	false	
+ICD10:E56.0	Deficiency of vitamin E	HP:0100513	Vitamin E deficiency	true	
+ICD10:E56.1	Deficiency of vitamin K	HP:0011892	Vitamin K deficiency	false	
+ICD10:E56.1	Deficiency of vitamin K	HP:0011892	Vitamin K deficiency	true	
+ICD10:E61.0	Copper deficiency	HP:0011967	Hypocupremia	false	
+ICD10:E61.0	Copper deficiency	HP:0011967	Hypocupremia	true	
+ICD10:E70.21	Tyrosinemia	HP:0003231	Hypertyrosinemia	false	
+ICD10:E70.41	Histidinemia	HP:0010906	Hyperhistidinemia	false	
+ICD10:E70.41	Histidinemia	HP:0010906	Hyperhistidinemia	true	
+ICD10:E71.111	3-methylglutaconic aciduria	HP:0003535	3-Methylglutaconic aciduria	false	
+ICD10:E71.111	3-methylglutaconic aciduria	HP:0003535	3-Methylglutaconic aciduria	true	
+ICD10:E71.120	Methylmalonic acidemia	HP:0002912	Methylmalonic acidemia	false	
+ICD10:E71.120	Methylmalonic acidemia	HP:0002912	Methylmalonic acidemia	true	
+ICD10:E71.121	Propionic acidemia	HP:0003571	Propionicacidemia	false	
+ICD10:E71.121	Propionic acidemia	HP:0003571	Propionicacidemia	true	
+ICD10:E72.01	Cystinuria	HP:0003131	Cystinuria	false	
+ICD10:E72.01	Cystinuria	HP:0003131	Cystinuria	true	
+ICD10:E72.11	Homocystinuria	HP:0002156	Homocystinuria	false	
+ICD10:E72.11	Homocystinuria	HP:0002156	Homocystinuria	true	
+ICD10:E72.51	Non-ketotic hyperglycinemia	HP:0008288	Nonketotic hyperglycinemia	false	
+ICD10:E72.51	Non-ketotic hyperglycinemia	HP:0008288	Nonketotic hyperglycinemia	true	
+ICD10:E72.52	Trimethylaminuria	HP:0003614	Trimethylaminuria	false	
+ICD10:E72.52	Trimethylaminuria	HP:0003614	Trimethylaminuria	true	
+ICD10:E72.53	Hyperoxaluria	HP:0003159	Hyperoxaluria	false	
+ICD10:E72.53	Hyperoxaluria	HP:0003159	Hyperoxaluria	true	
+ICD10:E74.21	Galactosemia	HP:0012024	Hypergalactosemia	false	
+ICD10:E74.21	Galactosemia	HP:0012024	Hypergalactosemia	true	
+ICD10:E78.3	Hyperchylomicronemia	HP:0012238	Hyperchylomicronemia	false	
+ICD10:E78.3	Hyperchylomicronemia	HP:0012238	Hyperchylomicronemia	true	
+ICD10:E83.41	Hypermagnesemia	HP:0002918	Hypermagnesemia	false	
+ICD10:E83.41	Hypermagnesemia	HP:0002918	Hypermagnesemia	true	
+ICD10:E83.42	Hypomagnesemia	HP:0002917	Hypomagnesemia	false	
+ICD10:E83.42	Hypomagnesemia	HP:0002917	Hypomagnesemia	true	
+ICD10:E83.51	Hypocalcemia	HP:0002901	Hypocalcemia	false	
+ICD10:E83.51	Hypocalcemia	HP:0002901	Hypocalcemia	true	
+ICD10:E83.52	Hypercalcemia	HP:0003072	Hypercalcemia	false	
+ICD10:E83.52	Hypercalcemia	HP:0003072	Hypercalcemia	true	
+ICD10:E85	amyloidosis	HP:0011034	Amyloidosis	false	
+ICD10:E85	amyloidosis	HP:0011034	Amyloidosis	true	
+ICD10:E86.0	Dehydration	HP:0001944	Dehydration	false	
+ICD10:E86.0	Dehydration	HP:0001944	Dehydration	true	
+ICD10:E86.1	Hypovolemia	HP:0011106	Hypovolemia	false	
+ICD10:E86.1	Hypovolemia	HP:0011106	Hypovolemia	true	
+ICD10:E87.2	Acidosis	HP:0001941	Acidosis	false	
+ICD10:E87.2	Acidosis	HP:0001941	Acidosis	true	
+ICD10:E87.3	Alkalosis	HP:0001948	Alkalosis	false	
+ICD10:E87.3	Alkalosis	HP:0001948	Alkalosis	true	
+ICD10:E87.5	Hyperkalemia	HP:0002153	Hyperkalemia	false	
+ICD10:E87.5	Hyperkalemia	HP:0002153	Hyperkalemia	true	
+ICD10:E87.6	Hypokalemia	HP:0002900	Hypokalemia	false	
+ICD10:E87.6	Hypokalemia	HP:0002900	Hypokalemia	true	
+ICD10:F52.31	Female orgasmic disorder	HP:0030015	Female anorgasmia	false	
+ICD10:F52.31	Female orgasmic disorder	HP:0030015	Female anorgasmia	true	
+ICD10:F52.4	Premature ejaculation	HP:0012876	Premature ejaculation	false	
+ICD10:F52.4	Premature ejaculation	HP:0012876	Premature ejaculation	true	
+ICD10:F60	personality	HP:0012075	Personality disorder	false	
+ICD10:F60.3	Borderline personality disorder	HP:0012076	Borderline personality disorder	false	
+ICD10:F60.3	Borderline personality disorder	HP:0012076	Borderline personality disorder	true	
+ICD10:F60.4	Histrionic personality disorder	HP:0012077	Histrionic personality disorder	false	
+ICD10:F60.4	Histrionic personality disorder	HP:0012077	Histrionic personality disorder	true	
+ICD10:F70	Mild intellectual disabilities	HP:0001256	Intellectual disability, mild	true	
+ICD10:F71	Moderate intellectual disabilities	HP:0002342	Intellectual disability, moderate	true	
+ICD10:F72	Severe intellectual disabilities	HP:0010864	Intellectual disability, severe	true	
+ICD10:F73	Profound intellectual disabilities	HP:0002187	Intellectual disability, profound	true	
+ICD10:F91.3	Oppositional defiant disorder	HP:0010865	Oppositional defiant disorder	false	
+ICD10:F91.3	Oppositional defiant disorder	HP:0010865	Oppositional defiant disorder	true	
+ICD10:G00	meningitis	HP:0001287	Meningitis	false	
+ICD10:G00	meningitis	HP:0001287	Meningitis	true	
+ICD10:G03	meningitis	HP:0001287	Meningitis	false	
+ICD10:G03	meningitis	HP:0001287	Meningitis	true	
+ICD10:G12.21	Amyotrophic lateral sclerosis	HP:0007354	Amyotrophic lateral sclerosis	false	
+ICD10:G12.21	Amyotrophic lateral sclerosis	HP:0007354	Amyotrophic lateral sclerosis	true	
+ICD10:G24.5	Blepharospasm	HP:0000643	Blepharospasm	false	
+ICD10:G24.5	Blepharospasm	HP:0000643	Blepharospasm	true	
+ICD10:G25.0	Essential tremor	HP:0030186	Kinetic tremor	false	
+ICD10:G25.0	Essential tremor	HP:0030186	Kinetic tremor	true	
+ICD10:G25.3	Myoclonus	HP:0001336	Myoclonus	false	
+ICD10:G25.3	Myoclonus	HP:0001336	Myoclonus	true	
+ICD10:G25.81	Restless legs syndrome	HP:0012452	Restless legs	false	
+ICD10:G30	alzheimers disease	HP:0002511	Alzheimer disease	true	
+ICD10:G37	central	HP:0030645	Central	false	
+ICD10:G44.81	Hypnic headache	HP:0012459	Hypnic headache	false	
+ICD10:G44.81	Hypnic headache	HP:0012459	Hypnic headache	true	
+ICD10:G45.3	Amaurosis fugax	HP:0100576	Amaurosis fugax	false	
+ICD10:G45.3	Amaurosis fugax	HP:0100576	Amaurosis fugax	true	
+ICD10:G45.4	Transient global amnesia	HP:0010534	Transient global amnesia	false	
+ICD10:G45.4	Transient global amnesia	HP:0010534	Transient global amnesia	true	
+ICD10:G50.0	Trigeminal neuralgia	HP:0100661	Trigeminal neuralgia	false	
+ICD10:G50.0	Trigeminal neuralgia	HP:0100661	Trigeminal neuralgia	true	
+ICD10:G51.4	Facial myokymia	HP:0000317	Facial myokymia	false	
+ICD10:G51.4	Facial myokymia	HP:0000317	Facial myokymia	true	
+ICD10:G71.0	Muscular dystrophy	HP:0003560	Muscular dystrophy	false	
+ICD10:G71.0	Muscular dystrophy	HP:0003560	Muscular dystrophy	true	
+ICD10:G72.3	Periodic paralysis	HP:0003768	Periodic paralysis	false	
+ICD10:G72.3	Periodic paralysis	HP:0003768	Periodic paralysis	true	
+ICD10:G80	cerebral palsy	HP:0100021	Cerebral palsy	false	
+ICD10:G80	cerebral palsy	HP:0100021	Cerebral palsy	true	
+ICD10:G80.3	Athetoid cerebral palsy	HP:0011445	Athetoid cerebral palsy	false	
+ICD10:G80.3	Athetoid cerebral palsy	HP:0011445	Athetoid cerebral palsy	true	
+ICD10:G89	pain	HP:0012531	Pain	false	
+ICD10:G89.4	Chronic pain syndrome	HP:0012532	Chronic pain	false	
+ICD10:G89.4	Chronic pain syndrome	HP:0012532	Chronic pain	true	
+ICD10:G90.01	Carotid sinus syncope	HP:0012669	Carotid sinus syncope	false	
+ICD10:G90.01	Carotid sinus syncope	HP:0012669	Carotid sinus syncope	true	
+ICD10:G91	hydrocephalus	HP:0000238	Hydrocephalus	false	
+ICD10:G91	hydrocephalus	HP:0000238	Hydrocephalus	true	
+ICD10:G91.0	Communicating hydrocephalus	HP:0001334	Communicating hydrocephalus	false	
+ICD10:G91.0	Communicating hydrocephalus	HP:0001334	Communicating hydrocephalus	true	
+ICD10:G93.6	Cerebral edema	HP:0002181	Cerebral edema	false	
+ICD10:G93.6	Cerebral edema	HP:0002181	Cerebral edema	true	
+ICD10:H18.53	Granular corneal dystrophy	HP:0007802	Granular corneal dystrophy	false	
+ICD10:H18.53	Granular corneal dystrophy	HP:0007802	Granular corneal dystrophy	true	
+ICD10:H18.54	Lattice corneal dystrophy	HP:0001149	Lattice corneal dystrophy	false	
+ICD10:H18.54	Lattice corneal dystrophy	HP:0001149	Lattice corneal dystrophy	true	
+ICD10:H25	agerelated cataract	HP:0011141	Age-related cataract	false	
+ICD10:H25	agerelated cataract	HP:0011141	Age-related cataract	true	
+ICD10:H31.21	Choroideremia	HP:0001139	Choroideremia	false	
+ICD10:H31.21	Choroideremia	HP:0001139	Choroideremia	true	
+ICD10:H50.05	Alternating esotropia	HP:0001137	Alternating esotropia	false	
+ICD10:H50.05	Alternating esotropia	HP:0001137	Alternating esotropia	true	
+ICD10:H52.31	Anisometropia	HP:0012803	Anisometropia	false	
+ICD10:H52.31	Anisometropia	HP:0012803	Anisometropia	true	
+ICD10:H53.11	Day blindness	HP:0012047	Hemeralopia	false	
+ICD10:H53.11	Day blindness	HP:0012047	Hemeralopia	true	
+ICD10:H53.2	Diplopia	HP:0000651	Diplopia	false	
+ICD10:H53.2	Diplopia	HP:0000651	Diplopia	true	
+ICD10:H53.51	Achromatopsia	HP:0011516	Achromatopsia	false	
+ICD10:H53.51	Achromatopsia	HP:0011516	Achromatopsia	true	
+ICD10:H53.53	Deuteranomaly	HP:0011520	Deuteranomaly	false	
+ICD10:H53.53	Deuteranomaly	HP:0011520	Deuteranomaly	true	
+ICD10:H53.54	Protanomaly	HP:0200018	Protanomaly	false	
+ICD10:H53.54	Protanomaly	HP:0200018	Protanomaly	true	
+ICD10:H53.55	Tritanomaly	HP:0000552	Tritanomaly	false	
+ICD10:H53.55	Tritanomaly	HP:0000552	Tritanomaly	true	
+ICD10:H55.01	Congenital nystagmus	HP:0006934	Congenital nystagmus	false	
+ICD10:H55.01	Congenital nystagmus	HP:0006934	Congenital nystagmus	true	
+ICD10:H57.02	Anisocoria	HP:0009916	Anisocoria	false	
+ICD10:H57.02	Anisocoria	HP:0009916	Anisocoria	true	
+ICD10:H57.03	Miosis	HP:0000616	Miosis	false	
+ICD10:H57.04	Mydriasis	HP:0011499	Mydriasis	false	
+ICD10:H57.04	Mydriasis	HP:0011499	Mydriasis	true	
+ICD10:H65	otitis media	HP:0000388	Otitis media	false	
+ICD10:H65	otitis media	HP:0000388	Otitis media	true	
+ICD10:H66	otitis media	HP:0000388	Otitis media	false	
+ICD10:H66	otitis media	HP:0000388	Otitis media	true	
+ICD10:H80	otosclerosis	HP:0000362	Otosclerosis	false	
+ICD10:H80	otosclerosis	HP:0000362	Otosclerosis	true	
+ICD10:H90.3	Sensorineural hearing loss, bilateral	HP:0008619	Bilateral sensorineural hearing impairment	false	
+ICD10:H90.3	Sensorineural hearing loss, bilateral	HP:0008619	Bilateral sensorineural hearing impairment	true	
+ICD10:I15	hypertension	HP:0000822	Hypertension	false	
+ICD10:I15	hypertension	HP:0000822	Hypertension	true	
+ICD10:I15.0	Renovascular hypertension	HP:0100817	Renovascular hypertension	false	
+ICD10:I15.0	Renovascular hypertension	HP:0100817	Renovascular hypertension	true	
+ICD10:I16	hypertensive	HP:0000822	Hypertension	true	
+ICD10:I28.1	Aneurysm of pulmonary artery	HP:0004937	Pulmonary artery aneurysm	false	
+ICD10:I28.1	Aneurysm of pulmonary artery	HP:0004937	Pulmonary artery aneurysm	true	
+ICD10:I30	pericarditis	HP:0001701	Pericarditis	false	
+ICD10:I30	pericarditis	HP:0001701	Pericarditis	true	
+ICD10:I40	myocarditis	HP:0012819	Myocarditis	false	
+ICD10:I40	myocarditis	HP:0012819	Myocarditis	true	
+ICD10:I42.0	Dilated cardiomyopathy	HP:0001644	Dilated cardiomyopathy	false	
+ICD10:I42.0	Dilated cardiomyopathy	HP:0001644	Dilated cardiomyopathy	true	
+ICD10:I42.4	Endocardial fibroelastosis	HP:0001706	Endocardial fibroelastosis	false	
+ICD10:I42.4	Endocardial fibroelastosis	HP:0001706	Endocardial fibroelastosis	true	
+ICD10:I44.0	Atrioventricular block, first degree	HP:0011705	First degree atrioventricular block	false	
+ICD10:I44.0	Atrioventricular block, first degree	HP:0011705	First degree atrioventricular block	true	
+ICD10:I44.1	Atrioventricular block, second degree	HP:0011706	Second degree atrioventricular block	false	
+ICD10:I44.1	Atrioventricular block, second degree	HP:0011706	Second degree atrioventricular block	true	
+ICD10:I44.4	Left anterior fascicular block	HP:0011711	Left anterior fascicular block	false	
+ICD10:I44.4	Left anterior fascicular block	HP:0011711	Left anterior fascicular block	true	
+ICD10:I44.5	Left posterior fascicular block	HP:0005172	Left posterior fascicular block	false	
+ICD10:I44.5	Left posterior fascicular block	HP:0005172	Left posterior fascicular block	true	
+ICD10:I45.3	Trifascicular block	HP:0011715	Trifascicular block	false	
+ICD10:I45.3	Trifascicular block	HP:0011715	Trifascicular block	true	
+ICD10:I46	cardiac arrest cardiac	HP:0001695	Cardiac arrest	false	
+ICD10:I46	cardiac arrest cardiac	HP:0001695	Cardiac arrest	true	
+ICD10:I47.1	Supraventricular tachycardia	HP:0004755	Supraventricular tachycardia	false	
+ICD10:I47.1	Supraventricular tachycardia	HP:0004755	Supraventricular tachycardia	true	
+ICD10:I47.2	Ventricular tachycardia	HP:0004756	Ventricular tachycardia	false	
+ICD10:I47.2	Ventricular tachycardia	HP:0004756	Ventricular tachycardia	true	
+ICD10:I48.0	Paroxysmal atrial fibrillation	HP:0004757	Paroxysmal atrial fibrillation	false	
+ICD10:I48.0	Paroxysmal atrial fibrillation	HP:0004757	Paroxysmal atrial fibrillation	true	
+ICD10:I48.2	Chronic atrial fibrillation	HP:0004754	Permanent atrial fibrillation	false	
+ICD10:I48.2	Chronic atrial fibrillation	HP:0004754	Permanent atrial fibrillation	true	
+ICD10:I49.01	Ventricular fibrillation	HP:0001663	Ventricular fibrillation	false	
+ICD10:I49.01	Ventricular fibrillation	HP:0001663	Ventricular fibrillation	true	
+ICD10:I49.02	Ventricular flutter	HP:0011841	Ventricular flutter	false	
+ICD10:I49.02	Ventricular flutter	HP:0011841	Ventricular flutter	true	
+ICD10:I49.5	Sick sinus syndrome	HP:0011704	Sick sinus syndrome	false	
+ICD10:I49.5	Sick sinus syndrome	HP:0011704	Sick sinus syndrome	true	
+ICD10:I51.7	Cardiomegaly	HP:0001640	Cardiomegaly	false	
+ICD10:I51.7	Cardiomegaly	HP:0001640	Cardiomegaly	true	
+ICD10:I67.82	Cerebral ischemia	HP:0002637	Cerebral ischemia	false	
+ICD10:I67.82	Cerebral ischemia	HP:0002637	Cerebral ischemia	true	
+ICD10:I68.0	Cerebral amyloid angiopathy	HP:0011970	Cerebral amyloid angiopathy	false	
+ICD10:I68.0	Cerebral amyloid angiopathy	HP:0011970	Cerebral amyloid angiopathy	true	
+ICD10:I70.0	Atherosclerosis of aorta	HP:0012397	Aortic atherosclerosis	false	
+ICD10:I70.0	Atherosclerosis of aorta	HP:0012397	Aortic atherosclerosis	true	
+ICD10:I72	aneurysm of	HP:0002617	Aneurysm	false	
+ICD10:I72	aneurysm of	HP:0002617	Aneurysm	true	
+ICD10:I72.0	Aneurysm of carotid artery	HP:0012163	Carotid artery aneurysm	false	
+ICD10:I72.0	Aneurysm of carotid artery	HP:0012163	Carotid artery aneurysm	true	
+ICD10:I77.3	Arterial fibromuscular dysplasia	HP:0005313	Arterial fibromuscular dysplasia	false	
+ICD10:I77.3	Arterial fibromuscular dysplasia	HP:0005313	Arterial fibromuscular dysplasia	true	
+ICD10:I77.4	Celiac artery compression syndrome	HP:0012327	Celiac artery compression	false	
+ICD10:I77.71	Dissection of carotid artery	HP:0012158	Carotid artery dissection	false	
+ICD10:I77.71	Dissection of carotid artery	HP:0012158	Carotid artery dissection	true	
+ICD10:I81	Portal vein thrombosis	HP:0030242	Portal vein thrombosis	false	
+ICD10:I81	Portal vein thrombosis	HP:0030242	Portal vein thrombosis	true	
+ICD10:I82.0	Budd-Chiari syndrome	HP:0002639	Budd-Chiari syndrome	false	
+ICD10:I82.0	Budd-Chiari syndrome	HP:0002639	Budd-Chiari syndrome	true	
+ICD10:I86.4	Gastric varices	HP:0030169	Gastric varix	false	
+ICD10:I86.4	Gastric varices	HP:0030169	Gastric varix	true	
+ICD10:I88	lymphadenitis	HP:0002840	Lymphadenitis	false	
+ICD10:I88	lymphadenitis	HP:0002840	Lymphadenitis	true	
+ICD10:I95	hypotension	HP:0002615	Hypotension	false	
+ICD10:I95	hypotension	HP:0002615	Hypotension	true	
+ICD10:I95.1	Orthostatic hypotension	HP:0001278	Orthostatic hypotension	false	
+ICD10:I95.1	Orthostatic hypotension	HP:0001278	Orthostatic hypotension	true	
+ICD10:J01	acute	HP:0011009	Acute	false	
+ICD10:J05	acute	HP:0011009	Acute	false	
+ICD10:J06	acute	HP:0011009	Acute	false	
+ICD10:J12	pneumonia	HP:0002090	Pneumonia	false	
+ICD10:J12	pneumonia	HP:0002090	Pneumonia	true	
+ICD10:J15	pneumonia	HP:0002090	Pneumonia	false	
+ICD10:J15	pneumonia	HP:0002090	Pneumonia	true	
+ICD10:J16	pneumonia	HP:0002090	Pneumonia	false	
+ICD10:J16	pneumonia	HP:0002090	Pneumonia	true	
+ICD10:J20	acute bronchitis	HP:0012388	Acute bronchitis	false	
+ICD10:J20	acute bronchitis	HP:0012388	Acute bronchitis	true	
+ICD10:J30	rhinitis	HP:0012384	Rhinitis	false	
+ICD10:J30	rhinitis	HP:0012384	Rhinitis	true	
+ICD10:J31	chronic	HP:0011010	Chronic	false	
+ICD10:J31.0	Chronic rhinitis	HP:0002257	Chronic rhinitis	false	
+ICD10:J31.0	Chronic rhinitis	HP:0002257	Chronic rhinitis	true	
+ICD10:J32	chronic	HP:0011010	Chronic	false	
+ICD10:J34.2	Deviated nasal septum	HP:0004411	Deviated nasal septum	false	
+ICD10:J34.2	Deviated nasal septum	HP:0004411	Deviated nasal septum	true	
+ICD10:J35.2	Hypertrophy of adenoids	HP:0040261	Increased size of nasopharyngeal adenoids	true	
+ICD10:J37	chronic	HP:0011010	Chronic	false	
+ICD10:J41	chronic bronchitis	HP:0004469	Chronic bronchitis	false	
+ICD10:J41	chronic bronchitis	HP:0004469	Chronic bronchitis	true	
+ICD10:J43	emphysema	HP:0002097	Emphysema	false	
+ICD10:J43	emphysema	HP:0002097	Emphysema	true	
+ICD10:J44	chronic obstructive pulmonary disease	HP:0006510	Chronic obstructive pulmonary disease	false	
+ICD10:J44	chronic obstructive pulmonary disease	HP:0006510	Chronic obstructive pulmonary disease	true	
+ICD10:J47	bronchiectasis	HP:0002110	Bronchiectasis	false	
+ICD10:J47	bronchiectasis	HP:0002110	Bronchiectasis	true	
+ICD10:J81	pulmonary edema	HP:0100598	Pulmonary edema	false	
+ICD10:J81	pulmonary edema	HP:0100598	Pulmonary edema	true	
+ICD10:J84.01	Alveolar proteinosis	HP:0006517	Alveolar proteinosis	false	
+ICD10:J84.01	Alveolar proteinosis	HP:0006517	Alveolar proteinosis	true	
+ICD10:J84.2	Lymphoid interstitial pneumonia	HP:0006527	Lymphoid interstitial pneumonia	false	
+ICD10:J84.2	Lymphoid interstitial pneumonia	HP:0006527	Lymphoid interstitial pneumonia	true	
+ICD10:J91	pleural effusion	HP:0002202	Pleural effusion	false	
+ICD10:J91	pleural effusion	HP:0002202	Pleural effusion	true	
+ICD10:J94.2	Hemothorax	HP:0012151	Hemothorax	false	
+ICD10:J94.2	Hemothorax	HP:0012151	Hemothorax	true	
+ICD10:J96	respiratory failure with	HP:0002878	Respiratory failure	false	
+ICD10:J96	respiratory failure with	HP:0002878	Respiratory failure	true	
+ICD10:J98.11	Atelectasis	HP:0100750	Atelectasis	false	
+ICD10:J98.11	Atelectasis	HP:0100750	Atelectasis	true	
+ICD10:K00.0	Anodontia	HP:0000674	Anodontia	false	
+ICD10:K00.0	Anodontia	HP:0000674	Anodontia	true	
+ICD10:K01.1	Impacted teeth	HP:0001571	Multiple impacted teeth	false	
+ICD10:K01.1	Impacted teeth	HP:0001571	Multiple impacted teeth	true	
+ICD10:K06.0	Gingival recession	HP:0030816	Gingival recession	false	
+ICD10:K06.0	Gingival recession	HP:0030816	Gingival recession	true	
+ICD10:K14.0	Glossitis	HP:0000206	Glossitis	false	
+ICD10:K14.0	Glossitis	HP:0000206	Glossitis	true	
+ICD10:K20	esophagitis	HP:0100633	Esophagitis	false	
+ICD10:K20	esophagitis	HP:0100633	Esophagitis	true	
+ICD10:K22.2	Esophageal obstruction	HP:0005240	Esophageal obstruction	false	
+ICD10:K22.2	Esophageal obstruction	HP:0005240	Esophageal obstruction	true	
+ICD10:K25	gastric ulcer	HP:0002592	Gastric ulcer	false	
+ICD10:K25	gastric ulcer	HP:0002592	Gastric ulcer	true	
+ICD10:K26	duodenal ulcer	HP:0002588	Duodenal ulcer	false	
+ICD10:K26	duodenal ulcer	HP:0002588	Duodenal ulcer	true	
+ICD10:K31.4	Gastric diverticulum	HP:0100808	Gastric diverticulum	false	
+ICD10:K31.4	Gastric diverticulum	HP:0100808	Gastric diverticulum	true	
+ICD10:K31.84	Gastroparesis	HP:0002578	Gastroparesis	false	
+ICD10:K31.84	Gastroparesis	HP:0002578	Gastroparesis	true	
+ICD10:K56.0	Paralytic ileus	HP:0002590	Paralytic ileus	false	
+ICD10:K56.0	Paralytic ileus	HP:0002590	Paralytic ileus	true	
+ICD10:K56.1	Intussusception	HP:0002576	Intussusception	false	
+ICD10:K56.1	Intussusception	HP:0002576	Intussusception	true	
+ICD10:K56.2	Volvulus	HP:0002580	Volvulus	false	
+ICD10:K56.2	Volvulus	HP:0002580	Volvulus	true	
+ICD10:K60.3	Anal fistula	HP:0010447	Anal fistula	false	
+ICD10:K60.3	Anal fistula	HP:0010447	Anal fistula	true	
+ICD10:K60.4	Rectal fistula	HP:0100590	Rectal fistula	false	
+ICD10:K60.4	Rectal fistula	HP:0100590	Rectal fistula	true	
+ICD10:K61.1	Rectal abscess	HP:0005224	Rectal abscess	false	
+ICD10:K61.1	Rectal abscess	HP:0005224	Rectal abscess	true	
+ICD10:K62.1	Rectal polyp	HP:0100896	Rectal polyposis	true	
+ICD10:K62.3	Rectal prolapse	HP:0002035	Rectal prolapse	false	
+ICD10:K62.3	Rectal prolapse	HP:0002035	Rectal prolapse	true	
+ICD10:K63.2	Fistula of intestine	HP:0100819	Intestinal fistula	true	
+ICD10:K65.1	Peritoneal abscess	HP:0100592	Peritoneal abscess	false	
+ICD10:K65.1	Peritoneal abscess	HP:0100592	Peritoneal abscess	true	
+ICD10:K66.1	Hemoperitoneum	HP:0011854	Hemoperitoneum	false	
+ICD10:K66.1	Hemoperitoneum	HP:0011854	Hemoperitoneum	true	
+ICD10:K73	chronic hepatitis	HP:0200123	Chronic hepatitis	false	
+ICD10:K73	chronic hepatitis	HP:0200123	Chronic hepatitis	true	
+ICD10:K74.0	Hepatic fibrosis	HP:0001395	Hepatic fibrosis	false	
+ICD10:K74.0	Hepatic fibrosis	HP:0001395	Hepatic fibrosis	true	
+ICD10:K75.0	Abscess of liver	HP:0100523	Liver abscess	false	
+ICD10:K75.0	Abscess of liver	HP:0100523	Liver abscess	true	
+ICD10:K76.6	Portal hypertension	HP:0001409	Portal hypertension	false	
+ICD10:K76.6	Portal hypertension	HP:0001409	Portal hypertension	true	
+ICD10:K81	cholecystitis	HP:0001082	Cholecystitis	false	
+ICD10:K81	cholecystitis	HP:0001082	Cholecystitis	true	
+ICD10:K82.2	Perforation of gallbladder	HP:0030154	Gallbladder perforation	false	
+ICD10:K82.2	Perforation of gallbladder	HP:0030154	Gallbladder perforation	true	
+ICD10:K83.0	Cholangitis	HP:0030151	Cholangitis	false	
+ICD10:K83.0	Cholangitis	HP:0030151	Cholangitis	true	
+ICD10:K86.81	Exocrine pancreatic insufficiency	HP:0001738	Exocrine pancreatic insufficiency	false	
+ICD10:K86.81	Exocrine pancreatic insufficiency	HP:0001738	Exocrine pancreatic insufficiency	true	
+ICD10:K90.0	Celiac disease	HP:0002608	Celiac disease	false	
+ICD10:K90.0	Celiac disease	HP:0002608	Celiac disease	true	
+ICD10:K92.0	Hematemesis	HP:0002248	Hematemesis	false	
+ICD10:K92.0	Hematemesis	HP:0002248	Hematemesis	true	
+ICD10:K92.1	Melena	HP:0002249	Melena	false	
+ICD10:L05	pilonidal abscess	HP:0010771	Pilonidal abscess	false	
+ICD10:L05	pilonidal abscess	HP:0010771	Pilonidal abscess	true	
+ICD10:L08.0	Pyoderma	HP:0000999	Pyoderma	false	
+ICD10:L08.0	Pyoderma	HP:0000999	Pyoderma	true	
+ICD10:L29	pruritus	HP:0000989	Pruritus	false	
+ICD10:L29	pruritus	HP:0000989	Pruritus	true	
+ICD10:L50	urticaria	HP:0001025	Urticaria	false	
+ICD10:L50	urticaria	HP:0001025	Urticaria	true	
+ICD10:L50.3	Dermatographic urticaria	HP:0011971	Dermatographic urticaria	false	
+ICD10:L50.3	Dermatographic urticaria	HP:0011971	Dermatographic urticaria	true	
+ICD10:L52	Erythema nodosum	HP:0012219	Erythema nodosum	false	
+ICD10:L52	Erythema nodosum	HP:0012219	Erythema nodosum	true	
+ICD10:L60.1	Onycholysis	HP:0001806	Onycholysis	false	
+ICD10:L60.1	Onycholysis	HP:0001806	Onycholysis	true	
+ICD10:L60.3	Nail dystrophy	HP:0008404	Nail dystrophy	false	
+ICD10:L60.3	Nail dystrophy	HP:0008404	Nail dystrophy	true	
+ICD10:L60.5	Yellow nail syndrome	HP:0011367	Yellow nails	true	
+ICD10:L63.1	Alopecia universalis	HP:0002289	Alopecia universalis	false	
+ICD10:L63.1	Alopecia universalis	HP:0002289	Alopecia universalis	true	
+ICD10:L67.0	Trichorrhexis nodosa	HP:0009886	Trichorrhexis nodosa	false	
+ICD10:L67.0	Trichorrhexis nodosa	HP:0009886	Trichorrhexis nodosa	true	
+ICD10:L68.0	Hirsutism	HP:0001007	Hirsutism	false	
+ICD10:L68.0	Hirsutism	HP:0001007	Hirsutism	true	
+ICD10:L70	acne	HP:0001061	Acne	false	
+ICD10:L71.0	Perioral dermatitis	HP:0040181	Chapped lip	false	
+ICD10:L71.0	Perioral dermatitis	HP:0040181	Chapped lip	true	
+ICD10:L72.2	Steatocystoma multiplex	HP:0012035	Steatocystoma multiplex	false	
+ICD10:L72.2	Steatocystoma multiplex	HP:0012035	Steatocystoma multiplex	true	
+ICD10:L73.2	Hidradenitis suppurativa	HP:0040154	Acne inversa	false	
+ICD10:L73.2	Hidradenitis suppurativa	HP:0040154	Acne inversa	true	
+ICD10:L74.4	Anhidrosis	HP:0000970	Anhidrosis	false	
+ICD10:L74.4	Anhidrosis	HP:0000970	Anhidrosis	true	
+ICD10:L80	Vitiligo	HP:0001045	Vitiligo	false	
+ICD10:L80	Vitiligo	HP:0001045	Vitiligo	true	
+ICD10:L81.2	Freckles	HP:0001480	Freckling	true	
+ICD10:L81.3	Cafe au lait spots	HP:0000957	Cafe-au-lait spot	true	
+ICD10:L83	Acanthosis nigricans	HP:0000956	Acanthosis nigricans	false	
+ICD10:L83	Acanthosis nigricans	HP:0000956	Acanthosis nigricans	true	
+ICD10:L89	pressure ulcer of	HP:0012399	Pressure ulcer	false	
+ICD10:L89	pressure ulcer of	HP:0012399	Pressure ulcer	true	
+ICD10:L93	lupus erythematosus	HP:0002725	Systemic lupus erythematosus	true	
+ICD10:L93.0	Discoid lupus erythematosus	HP:0007417	Discoid lupus erythematosus	false	
+ICD10:L93.0	Discoid lupus erythematosus	HP:0007417	Discoid lupus erythematosus	true	
+ICD10:L94.3	Sclerodactyly	HP:0011838	Sclerodactyly	false	
+ICD10:L94.3	Sclerodactyly	HP:0011838	Sclerodactyly	true	
+ICD10:M10	gout	HP:0001997	Gout	false	
+ICD10:M16	osteoarthritis hip	HP:0008843	Hip osteoarthritis	false	
+ICD10:M16	osteoarthritis hip	HP:0008843	Hip osteoarthritis	true	
+ICD10:M17	osteoarthritis knee	HP:0005086	Knee osteoarthritis	false	
+ICD10:M17	osteoarthritis knee	HP:0005086	Knee osteoarthritis	true	
+ICD10:M19	osteoarthritis	HP:0002758	Osteoarthritis	false	
+ICD10:M19	osteoarthritis	HP:0002758	Osteoarthritis	true	
+ICD10:M24.7	Protrusio acetabuli	HP:0003179	Protrusio acetabuli	false	
+ICD10:M24.7	Protrusio acetabuli	HP:0003179	Protrusio acetabuli	true	
+ICD10:M26.02	Maxillary hypoplasia	HP:0000327	Hypoplasia of the maxilla	false	
+ICD10:M26.02	Maxillary hypoplasia	HP:0000327	Hypoplasia of the maxilla	true	
+ICD10:M26.03	Mandibular hyperplasia	HP:0000303	Mandibular prognathia	false	
+ICD10:M26.03	Mandibular hyperplasia	HP:0000303	Mandibular prognathia	true	
+ICD10:M32	systemic lupus erythematosus	HP:0002725	Systemic lupus erythematosus	false	
+ICD10:M32	systemic lupus erythematosus	HP:0002725	Systemic lupus erythematosus	true	
+ICD10:M35.01	Sicca syndrome with keratoconjunctivitis	HP:0001097	Keratoconjunctivitis sicca	false	
+ICD10:M41	scoliosis	HP:0002650	Scoliosis	false	
+ICD10:M41	scoliosis	HP:0002650	Scoliosis	true	
+ICD10:M42	osteochondrosis	HP:0040188	Osteochondrosis	false	
+ICD10:M42	osteochondrosis	HP:0040188	Osteochondrosis	true	
+ICD10:M43.6	Torticollis	HP:0000473	Torticollis	false	
+ICD10:M43.6	Torticollis	HP:0000473	Torticollis	true	
+ICD10:M48.06	Spinal stenosis, lumbar region	HP:0004610	Lumbar spinal canal stenosis	false	
+ICD10:M48.06	Spinal stenosis, lumbar region	HP:0004610	Lumbar spinal canal stenosis	true	
+ICD10:M54.5	Low back pain	HP:0003419	Low back pain	false	
+ICD10:M54.5	Low back pain	HP:0003419	Low back pain	true	
+ICD10:M54.81	Occipital neuralgia	HP:0012318	Occipital neuralgia	false	
+ICD10:M54.81	Occipital neuralgia	HP:0012318	Occipital neuralgia	true	
+ICD10:M62.82	Rhabdomyolysis	HP:0003201	Rhabdomyolysis	false	
+ICD10:M62.82	Rhabdomyolysis	HP:0003201	Rhabdomyolysis	true	
+ICD10:M79.1	Myalgia	HP:0003326	Myalgia	false	
+ICD10:M81	osteoporosis	HP:0000939	Osteoporosis	false	
+ICD10:M81	osteoporosis	HP:0000939	Osteoporosis	true	
+ICD10:M85.2	Hyperostosis of skull	HP:0004330	Increased skull ossification	false	
+ICD10:M85.2	Hyperostosis of skull	HP:0004330	Increased skull ossification	true	
+ICD10:M86	osteomyelitis	HP:0002754	Osteomyelitis	false	
+ICD10:M86	osteomyelitis	HP:0002754	Osteomyelitis	true	
+ICD10:N04	nephrotic syndrome with	HP:0000100	Nephrotic syndrome	false	
+ICD10:N04	nephrotic syndrome with	HP:0000100	Nephrotic syndrome	true	
+ICD10:N11	chronic	HP:0011010	Chronic	false	
+ICD10:N13.4	Hydroureter	HP:0000072	Hydroureter	false	
+ICD10:N13.4	Hydroureter	HP:0000072	Hydroureter	true	
+ICD10:N14	nephropathy	HP:0000112	Nephropathy	false	
+ICD10:N14	nephropathy	HP:0000112	Nephropathy	true	
+ICD10:N18.1	Chronic kidney disease, stage 1	HP:0012623	Stage 1 chronic kidney disease	false	
+ICD10:N18.1	Chronic kidney disease, stage 1	HP:0012623	Stage 1 chronic kidney disease	true	
+ICD10:N18.5	Chronic kidney disease, stage 5	HP:0003774	Stage 5 chronic kidney disease	false	
+ICD10:N18.5	Chronic kidney disease, stage 5	HP:0003774	Stage 5 chronic kidney disease	true	
+ICD10:N25.1	Nephrogenic diabetes insipidus	HP:0009806	Nephrogenic diabetes insipidus	false	
+ICD10:N25.1	Nephrogenic diabetes insipidus	HP:0009806	Nephrogenic diabetes insipidus	true	
+ICD10:N27	small kidney	HP:0000089	Renal hypoplasia	true	
+ICD10:N28.83	Nephroptosis	HP:0011126	Nephroptosis	false	
+ICD10:N28.83	Nephroptosis	HP:0011126	Nephroptosis	true	
+ICD10:N30	hematuria	HP:0000790	Hematuria	false	
+ICD10:N30	hematuria	HP:0000790	Hematuria	true	
+ICD10:N32.3	Diverticulum of bladder	HP:0000015	Bladder diverticulum	false	
+ICD10:N32.3	Diverticulum of bladder	HP:0000015	Bladder diverticulum	true	
+ICD10:N35	urethral stricture	HP:0012227	Urethral stricture	false	
+ICD10:N35	urethral stricture	HP:0012227	Urethral stricture	true	
+ICD10:N36.0	Urethral fistula	HP:0010480	Urethral fistula	false	
+ICD10:N36.0	Urethral fistula	HP:0010480	Urethral fistula	true	
+ICD10:N36.1	Urethral diverticulum	HP:0008722	Urethral diverticulum	false	
+ICD10:N36.1	Urethral diverticulum	HP:0008722	Urethral diverticulum	true	
+ICD10:N45.1	Epididymitis	HP:0000031	Epididymitis	false	
+ICD10:N45.1	Epididymitis	HP:0000031	Epididymitis	true	
+ICD10:N45.2	Orchitis	HP:0100796	Orchitis	false	
+ICD10:N45.2	Orchitis	HP:0100796	Orchitis	true	
+ICD10:N47.1	Phimosis	HP:0001741	Phimosis	false	
+ICD10:N47.1	Phimosis	HP:0001741	Phimosis	true	
+ICD10:N47.2	Paraphimosis	HP:0100588	Paraphimosis	false	
+ICD10:N47.2	Paraphimosis	HP:0100588	Paraphimosis	true	
+ICD10:N50.82	Scrotal pain	HP:0030155	Scrotal pain	false	
+ICD10:N50.82	Scrotal pain	HP:0030155	Scrotal pain	true	
+ICD10:N53.11	Retarded ejaculation	HP:0012878	Retarded ejaculation	false	
+ICD10:N53.11	Retarded ejaculation	HP:0012878	Retarded ejaculation	true	
+ICD10:N53.14	Retrograde ejaculation	HP:0012877	Retrograde ejaculation	false	
+ICD10:N53.14	Retrograde ejaculation	HP:0012877	Retrograde ejaculation	true	
+ICD10:N62	Hypertrophy of breast	HP:0010313	Breast hypertrophy	false	
+ICD10:N62	Hypertrophy of breast	HP:0010313	Breast hypertrophy	true	
+ICD10:N64.82	Hypoplasia of breast	HP:0003187	Breast hypoplasia	false	
+ICD10:N64.82	Hypoplasia of breast	HP:0003187	Breast hypoplasia	true	
+ICD10:N80	endometriosis	HP:0030127	Endometriosis	false	
+ICD10:N80	endometriosis	HP:0030127	Endometriosis	true	
+ICD10:N81.0	Urethrocele	HP:0100821	Urethrocele	false	
+ICD10:N81.0	Urethrocele	HP:0100821	Urethrocele	true	
+ICD10:N81.6	Rectocele	HP:0100822	Rectocele	false	
+ICD10:N81.6	Rectocele	HP:0100822	Rectocele	true	
+ICD10:N82.0	Vesicovaginal fistula	HP:0001586	Vesicovaginal fistula	false	
+ICD10:N82.0	Vesicovaginal fistula	HP:0001586	Vesicovaginal fistula	true	
+ICD10:N91.0	Primary amenorrhea	HP:0000786	Primary amenorrhea	false	
+ICD10:N91.0	Primary amenorrhea	HP:0000786	Primary amenorrhea	true	
+ICD10:N91.1	Secondary amenorrhea	HP:0000869	Secondary amenorrhea	false	
+ICD10:N91.1	Secondary amenorrhea	HP:0000869	Secondary amenorrhea	true	
+ICD10:N94.2	Vaginismus	HP:0030017	Vaginismus	false	
+ICD10:N94.2	Vaginismus	HP:0030017	Vaginismus	true	
+ICD10:N97	female infertility	HP:0008222	Female infertility	false	
+ICD10:N97	female infertility	HP:0008222	Female infertility	true	
+ICD10:O03	spontaneous abortion	HP:0005268	Spontaneous abortion	false	
+ICD10:O03	spontaneous abortion	HP:0005268	Spontaneous abortion	true	
+ICD10:O15	eclampsia	HP:0100601	Eclampsia	false	
+ICD10:O15	eclampsia	HP:0100601	Eclampsia	true	
+ICD10:O92.6	Galactorrhea	HP:0100829	Galactorrhea	false	
+ICD10:O92.6	Galactorrhea	HP:0100829	Galactorrhea	true	
+ICD10:P24	aspiration	HP:0002835	Aspiration	false	
+ICD10:P24	aspiration	HP:0002835	Aspiration	true	
+ICD10:P29.3	Persistent fetal circulation	HP:0011726	Persistent fetal circulation	false	
+ICD10:P29.3	Persistent fetal circulation	HP:0011726	Persistent fetal circulation	true	
+ICD10:P57	kernicterus	HP:0001343	Kernicterus	false	
+ICD10:P57	kernicterus	HP:0001343	Kernicterus	true	
+ICD10:P94.2	Congenital hypotonia	HP:0006830	Severe neonatal hypotonia in males	false	
+ICD10:P94.2	Congenital hypotonia	HP:0006830	Severe neonatal hypotonia in males	true	
+ICD10:P95	Stillbirth	HP:0003826	Stillbirth	false	
+ICD10:P95	Stillbirth	HP:0003826	Stillbirth	true	
+ICD10:Q00.0	Anencephaly	HP:0002323	Anencephaly	false	
+ICD10:Q00.0	Anencephaly	HP:0002323	Anencephaly	true	
+ICD10:Q00.1	Craniorachischisis	HP:0030770	Craniorachischisis	false	
+ICD10:Q00.1	Craniorachischisis	HP:0030770	Craniorachischisis	true	
+ICD10:Q01	encephalocele	HP:0002084	Encephalocele	false	
+ICD10:Q01	encephalocele	HP:0002084	Encephalocele	true	
+ICD10:Q01.0	Frontal encephalocele	HP:0007330	Frontal encephalocele	false	
+ICD10:Q01.0	Frontal encephalocele	HP:0007330	Frontal encephalocele	true	
+ICD10:Q01.1	Nasofrontal encephalocele	HP:0011818	Nasofrontal encephalocele	false	
+ICD10:Q01.1	Nasofrontal encephalocele	HP:0011818	Nasofrontal encephalocele	true	
+ICD10:Q01.2	Occipital encephalocele	HP:0002085	Occipital encephalocele	false	
+ICD10:Q01.2	Occipital encephalocele	HP:0002085	Occipital encephalocele	true	
+ICD10:Q02	Microcephaly	HP:0000252	Microcephaly	false	
+ICD10:Q02	Microcephaly	HP:0000252	Microcephaly	true	
+ICD10:Q04.2	Holoprosencephaly	HP:0001360	Holoprosencephaly	false	
+ICD10:Q04.2	Holoprosencephaly	HP:0001360	Holoprosencephaly	true	
+ICD10:Q04.5	Megalencephaly	HP:0001355	Megalencephaly	false	
+ICD10:Q04.5	Megalencephaly	HP:0001355	Megalencephaly	true	
+ICD10:Q05	spina bifida	HP:0002414	Spina bifida	false	
+ICD10:Q05	spina bifida	HP:0002414	Spina bifida	true	
+ICD10:Q06.0	Amyelia	HP:0100566	Amyelia	false	
+ICD10:Q06.4	Hydromyelia	HP:0100565	Hydromyelia	false	
+ICD10:Q06.4	Hydromyelia	HP:0100565	Hydromyelia	true	
+ICD10:Q10.0	Congenital ptosis	HP:0007970	Congenital ptosis	false	
+ICD10:Q10.0	Congenital ptosis	HP:0007970	Congenital ptosis	true	
+ICD10:Q12.0	Congenital cataract	HP:0000519	Congenital cataract	false	
+ICD10:Q12.0	Congenital cataract	HP:0000519	Congenital cataract	true	
+ICD10:Q12.2	Coloboma of lens	HP:0100719	Lens coloboma	false	
+ICD10:Q12.2	Coloboma of lens	HP:0100719	Lens coloboma	true	
+ICD10:Q13.0	Coloboma of iris	HP:0000612	Iris coloboma	false	
+ICD10:Q13.0	Coloboma of iris	HP:0000612	Iris coloboma	true	
+ICD10:Q13.5	Blue sclera	HP:0000592	Blue sclerae	true	
+ICD10:Q15.0	Congenital glaucoma	HP:0001087	Congenital glaucoma	false	
+ICD10:Q15.0	Congenital glaucoma	HP:0001087	Congenital glaucoma	true	
+ICD10:Q17.1	Macrotia	HP:0000400	Macrotia	false	
+ICD10:Q17.1	Macrotia	HP:0000400	Macrotia	true	
+ICD10:Q17.2	Microtia	HP:0008551	Microtia	false	
+ICD10:Q17.2	Microtia	HP:0008551	Microtia	true	
+ICD10:Q18.3	Webbing of neck	HP:0000465	Webbed neck	true	
+ICD10:Q20.1	Double outlet right ventricle	HP:0001719	Double outlet right ventricle	false	
+ICD10:Q20.1	Double outlet right ventricle	HP:0001719	Double outlet right ventricle	true	
+ICD10:Q20.2	Double outlet left ventricle	HP:0011581	Double outlet left ventricle	false	
+ICD10:Q20.2	Double outlet left ventricle	HP:0011581	Double outlet left ventricle	true	
+ICD10:Q20.5	Discordant atrioventricular connection	HP:0011553	Discordant atrioventricular connection	false	
+ICD10:Q20.5	Discordant atrioventricular connection	HP:0011553	Discordant atrioventricular connection	true	
+ICD10:Q21.0	Ventricular septal defect	HP:0001629	Ventricular septal defect	false	
+ICD10:Q21.0	Ventricular septal defect	HP:0001629	Ventricular septal defect	true	
+ICD10:Q21.3	Tetralogy of Fallot	HP:0001636	Tetralogy of Fallot	false	
+ICD10:Q21.3	Tetralogy of Fallot	HP:0001636	Tetralogy of Fallot	true	
+ICD10:Q22.0	Pulmonary valve atresia	HP:0010882	Pulmonary valve atresia	false	
+ICD10:Q22.0	Pulmonary valve atresia	HP:0010882	Pulmonary valve atresia	true	
+ICD10:Q22.5	Ebstein's anomaly	HP:0010316	Ebstein's anomaly of the tricuspid valve	false	
+ICD10:Q22.5	Ebstein's anomaly	HP:0010316	Ebstein's anomaly of the tricuspid valve	true	
+ICD10:Q22.6	Hypoplastic right heart syndrome	HP:0010954	Hypoplastic right heart	false	
+ICD10:Q22.6	Hypoplastic right heart syndrome	HP:0010954	Hypoplastic right heart	true	
+ICD10:Q23.2	Congenital mitral stenosis	HP:0011570	Congenital mitral stenosis	false	
+ICD10:Q23.2	Congenital mitral stenosis	HP:0011570	Congenital mitral stenosis	true	
+ICD10:Q23.4	Hypoplastic left heart syndrome	HP:0004383	Hypoplastic left heart	false	
+ICD10:Q24.0	Dextrocardia	HP:0001651	Dextrocardia	false	
+ICD10:Q24.0	Dextrocardia	HP:0001651	Dextrocardia	true	
+ICD10:Q25.0	Patent ductus arteriosus	HP:0001643	Patent ductus arteriosus	false	
+ICD10:Q25.0	Patent ductus arteriosus	HP:0001643	Patent ductus arteriosus	true	
+ICD10:Q25.1	Coarctation of aorta	HP:0001680	Coarctation of aorta	false	
+ICD10:Q25.1	Coarctation of aorta	HP:0001680	Coarctation of aorta	true	
+ICD10:Q25.21	Interruption of aortic arch	HP:0011611	Interrupted aortic arch	true	
+ICD10:Q25.3	Supravalvular aortic stenosis	HP:0004381	Supravalvular aortic stenosis	false	
+ICD10:Q25.3	Supravalvular aortic stenosis	HP:0004381	Supravalvular aortic stenosis	true	
+ICD10:Q25.45	Double aortic arch	HP:0011590	Double aortic arch	false	
+ICD10:Q25.45	Double aortic arch	HP:0011590	Double aortic arch	true	
+ICD10:Q25.47	Right aortic arch	HP:0012020	Right aortic arch	false	
+ICD10:Q25.47	Right aortic arch	HP:0012020	Right aortic arch	true	
+ICD10:Q25.5	Atresia of pulmonary artery	HP:0004935	Pulmonary artery atresia	false	
+ICD10:Q25.5	Atresia of pulmonary artery	HP:0004935	Pulmonary artery atresia	true	
+ICD10:Q25.6	Stenosis of pulmonary artery	HP:0004415	Pulmonary artery stenosis	false	
+ICD10:Q25.6	Stenosis of pulmonary artery	HP:0004415	Pulmonary artery stenosis	true	
+ICD10:Q26.1	Persistent left superior vena cava	HP:0005301	Persistent left superior vena cava	false	
+ICD10:Q26.1	Persistent left superior vena cava	HP:0005301	Persistent left superior vena cava	true	
+ICD10:Q26.2	Total anomalous pulmonary venous connection	HP:0005160	Total anomalous pulmonary venous return	false	
+ICD10:Q26.2	Total anomalous pulmonary venous connection	HP:0005160	Total anomalous pulmonary venous return	true	
+ICD10:Q30.0	Choanal atresia	HP:0000453	Choanal atresia	false	
+ICD10:Q30.0	Choanal atresia	HP:0000453	Choanal atresia	true	
+ICD10:Q31.2	Laryngeal hypoplasia	HP:0008749	Laryngeal hypoplasia	false	
+ICD10:Q31.2	Laryngeal hypoplasia	HP:0008749	Laryngeal hypoplasia	true	
+ICD10:Q35.1	Cleft hard palate	HP:0410005	Cleft hard palate	false	
+ICD10:Q35.1	Cleft hard palate	HP:0410005	Cleft hard palate	true	
+ICD10:Q35.3	Cleft soft palate	HP:0000185	Cleft soft palate	false	
+ICD10:Q35.3	Cleft soft palate	HP:0000185	Cleft soft palate	true	
+ICD10:Q36.0	Cleft lip, bilateral	HP:0100336	Bilateral cleft lip	false	
+ICD10:Q36.0	Cleft lip, bilateral	HP:0100336	Bilateral cleft lip	true	
+ICD10:Q36.1	Cleft lip, median	HP:0000161	Median cleft lip	false	
+ICD10:Q36.1	Cleft lip, median	HP:0000161	Median cleft lip	true	
+ICD10:Q36.9	Cleft lip, unilateral	HP:0100333	Unilateral cleft lip	false	
+ICD10:Q36.9	Cleft lip, unilateral	HP:0100333	Unilateral cleft lip	true	
+ICD10:Q37	cleft palate with cleft lip	HP:0000202	Oral cleft	false	
+ICD10:Q37	cleft palate with cleft lip	HP:0000202	Oral cleft	true	
+ICD10:Q38.1	Ankyloglossia	HP:0010296	Ankyloglossia	false	
+ICD10:Q38.1	Ankyloglossia	HP:0010296	Ankyloglossia	true	
+ICD10:Q38.2	Macroglossia	HP:0000158	Macroglossia	false	
+ICD10:Q38.2	Macroglossia	HP:0000158	Macroglossia	true	
+ICD10:Q39.4	Esophageal web	HP:0100594	Esophageal web	false	
+ICD10:Q39.4	Esophageal web	HP:0100594	Esophageal web	true	
+ICD10:Q43.4	Duplication of intestine	HP:0100668	Intestinal duplication	true	
+ICD10:Q43.5	Ectopic anus	HP:0004397	Ectopic anus	false	
+ICD10:Q43.5	Ectopic anus	HP:0004397	Ectopic anus	true	
+ICD10:Q43.7	Persistent cloaca	HP:0012621	Persistent cloaca	false	
+ICD10:Q43.7	Persistent cloaca	HP:0012621	Persistent cloaca	true	
+ICD10:Q44.6	Cystic disease of liver	HP:0006706	Cystic liver disease	false	
+ICD10:Q44.6	Cystic disease of liver	HP:0006706	Cystic liver disease	true	
+ICD10:Q45.1	Annular pancreas	HP:0001734	Annular pancreas	false	
+ICD10:Q45.1	Annular pancreas	HP:0001734	Annular pancreas	true	
+ICD10:Q51.811	Hypoplasia of uterus	HP:0000013	Hypoplasia of the uterus	false	
+ICD10:Q51.811	Hypoplasia of uterus	HP:0000013	Hypoplasia of the uterus	true	
+ICD10:Q52.0	Congenital absence of vagina	HP:0003250	Aplasia of the vagina	false	
+ICD10:Q52.0	Congenital absence of vagina	HP:0003250	Aplasia of the vagina	true	
+ICD10:Q52.11	Transverse vaginal septum	HP:0000145	Transverse vaginal septum	false	
+ICD10:Q52.11	Transverse vaginal septum	HP:0000145	Transverse vaginal septum	true	
+ICD10:Q52.3	Imperforate hymen	HP:0030011	Imperforate hymen	false	
+ICD10:Q52.3	Imperforate hymen	HP:0030011	Imperforate hymen	true	
+ICD10:Q54.1	Hypospadias, penile	HP:0003244	Penile hypospadias	false	
+ICD10:Q54.1	Hypospadias, penile	HP:0003244	Penile hypospadias	true	
+ICD10:Q54.2	Hypospadias, penoscrotal	HP:0000808	Penoscrotal hypospadias	false	
+ICD10:Q54.2	Hypospadias, penoscrotal	HP:0000808	Penoscrotal hypospadias	true	
+ICD10:Q54.3	Hypospadias, perineal	HP:0000051	Perineal hypospadias	false	
+ICD10:Q54.3	Hypospadias, perineal	HP:0000051	Perineal hypospadias	true	
+ICD10:Q55.22	Retractile testis	HP:0012646	Retractile testis	false	
+ICD10:Q55.22	Retractile testis	HP:0012646	Retractile testis	true	
+ICD10:Q55.62	Hypoplasia of penis	HP:0008736	Hypoplasia of penis	false	
+ICD10:Q55.62	Hypoplasia of penis	HP:0008736	Hypoplasia of penis	true	
+ICD10:Q60.0	Renal agenesis, unilateral	HP:0000122	Unilateral renal agenesis	false	
+ICD10:Q60.0	Renal agenesis, unilateral	HP:0000122	Unilateral renal agenesis	true	
+ICD10:Q60.1	Renal agenesis, bilateral	HP:0010958	Bilateral renal agenesis	false	
+ICD10:Q60.1	Renal agenesis, bilateral	HP:0010958	Bilateral renal agenesis	true	
+ICD10:Q60.3	Renal hypoplasia, unilateral	HP:0012583	Unilateral renal hypoplasia	false	
+ICD10:Q60.3	Renal hypoplasia, unilateral	HP:0012583	Unilateral renal hypoplasia	true	
+ICD10:Q60.4	Renal hypoplasia, bilateral	HP:0012584	Bilateral renal hypoplasia	false	
+ICD10:Q60.4	Renal hypoplasia, bilateral	HP:0012584	Bilateral renal hypoplasia	true	
+ICD10:Q61.4	Renal dysplasia	HP:0000110	Renal dysplasia	false	
+ICD10:Q61.4	Renal dysplasia	HP:0000110	Renal dysplasia	true	
+ICD10:Q62.2	Congenital megaureter	HP:0008676	Congenital megaureter	false	
+ICD10:Q62.2	Congenital megaureter	HP:0008676	Congenital megaureter	true	
+ICD10:Q63.2	Ectopic kidney	HP:0000086	Ectopic kidney	false	
+ICD10:Q63.2	Ectopic kidney	HP:0000086	Ectopic kidney	true	
+ICD10:Q64.0	Epispadias	HP:0000039	Epispadias	false	
+ICD10:Q64.0	Epispadias	HP:0000039	Epispadias	true	
+ICD10:Q64.2	Congenital posterior urethral valves	HP:0010957	Congenital posterior urethral valve	true	
+ICD10:Q65.1	Congenital dislocation of hip, bilateral	HP:0008780	Congenital bilateral hip dislocation	false	
+ICD10:Q65.1	Congenital dislocation of hip, bilateral	HP:0008780	Congenital bilateral hip dislocation	true	
+ICD10:Q66.4	Congenital talipes calcaneovalgus	HP:0005850	Congenital talipes calcaneovalgus	false	
+ICD10:Q66.4	Congenital talipes calcaneovalgus	HP:0005850	Congenital talipes calcaneovalgus	true	
+ICD10:Q67.2	Dolichocephaly	HP:0000268	Dolichocephaly	false	
+ICD10:Q67.2	Dolichocephaly	HP:0000268	Dolichocephaly	true	
+ICD10:Q67.3	Plagiocephaly	HP:0001357	Plagiocephaly	false	
+ICD10:Q67.3	Plagiocephaly	HP:0001357	Plagiocephaly	true	
+ICD10:Q67.6	Pectus excavatum	HP:0000767	Pectus excavatum	false	
+ICD10:Q67.6	Pectus excavatum	HP:0000767	Pectus excavatum	true	
+ICD10:Q67.7	Pectus carinatum	HP:0000768	Pectus carinatum	false	
+ICD10:Q67.7	Pectus carinatum	HP:0000768	Pectus carinatum	true	
+ICD10:Q74.3	Arthrogryposis multiplex congenita	HP:0002804	Arthrogryposis multiplex congenita	false	
+ICD10:Q74.3	Arthrogryposis multiplex congenita	HP:0002804	Arthrogryposis multiplex congenita	true	
+ICD10:Q75.0	Craniosynostosis	HP:0001363	Craniosynostosis	false	
+ICD10:Q75.0	Craniosynostosis	HP:0001363	Craniosynostosis	true	
+ICD10:Q75.1	Craniofacial dysostosis	HP:0004439	Craniofacial dysostosis	false	
+ICD10:Q75.1	Craniofacial dysostosis	HP:0004439	Craniofacial dysostosis	true	
+ICD10:Q75.2	Hypertelorism	HP:0000316	Hypertelorism	false	
+ICD10:Q75.2	Hypertelorism	HP:0000316	Hypertelorism	true	
+ICD10:Q75.3	Macrocephaly	HP:0000256	Macrocephaly	false	
+ICD10:Q75.3	Macrocephaly	HP:0000256	Macrocephaly	true	
+ICD10:Q75.4	Mandibulofacial dysostosis	HP:0005321	Mandibulofacial dysostosis	false	
+ICD10:Q75.4	Mandibulofacial dysostosis	HP:0005321	Mandibulofacial dysostosis	true	
+ICD10:Q76.0	Spina bifida occulta	HP:0003298	Spina bifida occulta	false	
+ICD10:Q76.0	Spina bifida occulta	HP:0003298	Spina bifida occulta	true	
+ICD10:Q76.5	Cervical rib	HP:0000891	Cervical ribs	true	
+ICD10:Q77.2	Short rib syndrome	HP:0000773	Short ribs	true	
+ICD10:Q77.7	Spondyloepiphyseal dysplasia	HP:0002655	Spondyloepiphyseal dysplasia	false	
+ICD10:Q77.7	Spondyloepiphyseal dysplasia	HP:0002655	Spondyloepiphyseal dysplasia	true	
+ICD10:Q78.1	Polyostotic fibrous dysplasia	HP:0010735	Polyostotic fibrous dysplasia	false	
+ICD10:Q78.1	Polyostotic fibrous dysplasia	HP:0010735	Polyostotic fibrous dysplasia	true	
+ICD10:Q78.2	Osteopetrosis	HP:0011002	Osteopetrosis	false	
+ICD10:Q78.2	Osteopetrosis	HP:0011002	Osteopetrosis	true	
+ICD10:Q78.5	Metaphyseal dysplasia	HP:0100255	Metaphyseal dysplasia	false	
+ICD10:Q78.5	Metaphyseal dysplasia	HP:0100255	Metaphyseal dysplasia	true	
+ICD10:Q79.0	Congenital diaphragmatic hernia	HP:0000776	Congenital diaphragmatic hernia	false	
+ICD10:Q79.0	Congenital diaphragmatic hernia	HP:0000776	Congenital diaphragmatic hernia	true	
+ICD10:Q79.3	Gastroschisis	HP:0001543	Gastroschisis	false	
+ICD10:Q79.3	Gastroschisis	HP:0001543	Gastroschisis	true	
+ICD10:Q79.4	Prune belly syndrome	HP:0004392	Prune belly	false	
+ICD10:Q80.3	Congenital bullous ichthyosiform erythroderma	HP:0007475	Congenital bullous ichthyosiform erythroderma	false	
+ICD10:Q80.3	Congenital bullous ichthyosiform erythroderma	HP:0007475	Congenital bullous ichthyosiform erythroderma	true	
+ICD10:Q82.2	Mastocytosis	HP:0100495	Mastocytosis	false	
+ICD10:Q82.2	Mastocytosis	HP:0100495	Mastocytosis	true	
+ICD10:Q83.2	Absent nipple	HP:0002561	Absent nipple	false	
+ICD10:Q83.2	Absent nipple	HP:0002561	Absent nipple	true	
+ICD10:Q84.3	Anonychia	HP:0001798	Anonychia	false	
+ICD10:Q84.3	Anonychia	HP:0001798	Anonychia	true	
+ICD10:Q87.82	Arterial tortuosity syndrome	HP:0005116	Arterial tortuosity	false	
+ICD10:Q89.3	Situs inversus	HP:0001696	Situs inversus totalis	false	
+ICD10:Q89.3	Situs inversus	HP:0001696	Situs inversus totalis	true	
+ICD10:R00.2	Palpitations	HP:0001962	Palpitations	false	
+ICD10:R00.2	Palpitations	HP:0001962	Palpitations	true	
+ICD10:R04.0	Epistaxis	HP:0000421	Epistaxis	false	
+ICD10:R04.0	Epistaxis	HP:0000421	Epistaxis	true	
+ICD10:R04.2	Hemoptysis	HP:0002105	Hemoptysis	false	
+ICD10:R04.2	Hemoptysis	HP:0002105	Hemoptysis	true	
+ICD10:R05	Cough	HP:0012735	Cough	false	
+ICD10:R05	Cough	HP:0012735	Cough	true	
+ICD10:R06.01	Orthopnea	HP:0012764	Orthopnea	false	
+ICD10:R06.01	Orthopnea	HP:0012764	Orthopnea	true	
+ICD10:R06.02	Shortness of breath	HP:0002094	Dyspnea	true	
+ICD10:R06.1	Stridor	HP:0010307	Stridor	false	
+ICD10:R06.2	Wheezing	HP:0030828	Wheezing	false	
+ICD10:R06.2	Wheezing	HP:0030828	Wheezing	true	
+ICD10:R06.4	Hyperventilation	HP:0002883	Hyperventilation	false	
+ICD10:R06.4	Hyperventilation	HP:0002883	Hyperventilation	true	
+ICD10:R09.02	Hypoxemia	HP:0012418	Hypoxemia	false	
+ICD10:R09.02	Hypoxemia	HP:0012418	Hypoxemia	true	
+ICD10:R09.2	Respiratory arrest	HP:0005943	Respiratory arrest	false	
+ICD10:R09.2	Respiratory arrest	HP:0005943	Respiratory arrest	true	
+ICD10:R11.0	Nausea	HP:0002018	Nausea	false	
+ICD10:R11.12	Projectile vomiting	HP:0002587	Projectile vomiting	false	
+ICD10:R11.12	Projectile vomiting	HP:0002587	Projectile vomiting	true	
+ICD10:R15.2	Fecal urgency	HP:0012701	Bowel urgency	false	
+ICD10:R15.2	Fecal urgency	HP:0012701	Bowel urgency	true	
+ICD10:R18	ascites	HP:0001541	Ascites	false	
+ICD10:R19.12	Hyperactive bowel sounds	HP:0030143	Hyperactive bowel sounds	false	
+ICD10:R19.12	Hyperactive bowel sounds	HP:0030143	Hyperactive bowel sounds	true	
+ICD10:R19.6	Halitosis	HP:0100812	Halitosis	false	
+ICD10:R19.6	Halitosis	HP:0100812	Halitosis	true	
+ICD10:R20.3	Hyperesthesia	HP:0100963	Hyperesthesia	false	
+ICD10:R20.3	Hyperesthesia	HP:0100963	Hyperesthesia	true	
+ICD10:R23.0	Cyanosis	HP:0000961	Cyanosis	false	
+ICD10:R23.0	Cyanosis	HP:0000961	Cyanosis	true	
+ICD10:R23.1	Pallor	HP:0000980	Pallor	false	
+ICD10:R25.0	Abnormal head movements	HP:0002457	Abnormal head movements	false	
+ICD10:R25.0	Abnormal head movements	HP:0002457	Abnormal head movements	true	
+ICD10:R25.3	Fasciculation	HP:0002380	Fasciculations	true	
+ICD10:R29.0	Tetany	HP:0001281	Tetany	false	
+ICD10:R29.3	Abnormal posture	HP:0002533	Abnormal posturing	true	
+ICD10:R30.0	Dysuria	HP:0100518	Dysuria	false	
+ICD10:R31	hematuria	HP:0000790	Hematuria	false	
+ICD10:R31	hematuria	HP:0000790	Hematuria	true	
+ICD10:R31.0	Gross hematuria	HP:0012587	Macroscopic hematuria	false	
+ICD10:R31.0	Gross hematuria	HP:0012587	Macroscopic hematuria	true	
+ICD10:R35.1	Nocturia	HP:0000017	Nocturia	false	
+ICD10:R35.1	Nocturia	HP:0000017	Nocturia	true	
+ICD10:R40.0	Somnolence	HP:0001262	Somnolence	false	
+ICD10:R40.0	Somnolence	HP:0001262	Somnolence	true	
+ICD10:R43.0	Anosmia	HP:0000458	Anosmia	false	
+ICD10:R44.0	Auditory hallucinations	HP:0008765	Auditory hallucinations	false	
+ICD10:R44.0	Auditory hallucinations	HP:0008765	Auditory hallucinations	true	
+ICD10:R44.1	Visual hallucinations	HP:0002367	Visual hallucinations	false	
+ICD10:R44.1	Visual hallucinations	HP:0002367	Visual hallucinations	true	
+ICD10:R45.6	Violent behavior	HP:0008760	Violent behavior	false	
+ICD10:R45.6	Violent behavior	HP:0008760	Violent behavior	true	
+ICD10:R45.84	Anhedonia	HP:0012154	Anhedonia	false	
+ICD10:R45.84	Anhedonia	HP:0012154	Anhedonia	true	
+ICD10:R45.86	Emotional lability	HP:0000712	Emotional lability	false	
+ICD10:R45.86	Emotional lability	HP:0000712	Emotional lability	true	
+ICD10:R45.87	Impulsiveness	HP:0100710	Impulsivity	true	
+ICD10:R46.81	Obsessive-compulsive behavior	HP:0000722	Obsessive-compulsive behavior	false	
+ICD10:R46.81	Obsessive-compulsive behavior	HP:0000722	Obsessive-compulsive behavior	true	
+ICD10:R47.01	Aphasia	HP:0002381	Aphasia	false	
+ICD10:R47.02	Dysphasia	HP:0002357	Dysphasia	false	
+ICD10:R47.02	Dysphasia	HP:0002357	Dysphasia	true	
+ICD10:R47.81	Slurred speech	HP:0001350	Slurred speech	false	
+ICD10:R47.81	Slurred speech	HP:0001350	Slurred speech	true	
+ICD10:R48.1	Agnosia	HP:0010524	Agnosia	false	
+ICD10:R48.2	Apraxia	HP:0002186	Apraxia	false	
+ICD10:R48.2	Apraxia	HP:0002186	Apraxia	true	
+ICD10:R48.3	Visual agnosia	HP:0030222	Visual agnosia	false	
+ICD10:R48.3	Visual agnosia	HP:0030222	Visual agnosia	true	
+ICD10:R49.0	Dysphonia	HP:0001618	Dysphonia	false	
+ICD10:R49.0	Dysphonia	HP:0001618	Dysphonia	true	
+ICD10:R51	Headache	HP:0002315	Headache	false	
+ICD10:R51	Headache	HP:0002315	Headache	true	
+ICD10:R56.00	Simple febrile convulsions	HP:0011171	Simple febrile seizures	true	
+ICD10:R57.0	Cardiogenic shock	HP:0030149	Cardiogenic shock	false	
+ICD10:R57.0	Cardiogenic shock	HP:0030149	Cardiogenic shock	true	
+ICD10:R60	edema	HP:0000969	Edema	false	
+ICD10:R60.1	Generalized edema	HP:0007430	Generalized edema	false	
+ICD10:R60.1	Generalized edema	HP:0007430	Generalized edema	true	
+ICD10:R63.0	Anorexia	HP:0002039	Anorexia	false	
+ICD10:R63.0	Anorexia	HP:0002039	Anorexia	true	
+ICD10:R63.1	Polydipsia	HP:0001959	Polydipsia	false	
+ICD10:R63.1	Polydipsia	HP:0001959	Polydipsia	true	
+ICD10:R63.2	Polyphagia	HP:0002591	Polyphagia	false	
+ICD10:R63.2	Polyphagia	HP:0002591	Polyphagia	true	
+ICD10:R63.3	Feeding difficulties	HP:0011968	Feeding difficulties	false	
+ICD10:R63.3	Feeding difficulties	HP:0011968	Feeding difficulties	true	
+ICD10:R64	Cachexia	HP:0004326	Cachexia	false	
+ICD10:R64	Cachexia	HP:0004326	Cachexia	true	
+ICD10:R68.3	Clubbing of fingers	HP:0100759	Clubbing of fingers	false	
+ICD10:R68.3	Clubbing of fingers	HP:0100759	Clubbing of fingers	true	
+ICD10:R68.84	Jaw pain	HP:0040264	Jaw pain	false	
+ICD10:R68.84	Jaw pain	HP:0040264	Jaw pain	true	
+ICD10:R70.0	Elevated erythrocyte sedimentation rate	HP:0003565	Elevated erythrocyte sedimentation rate	false	
+ICD10:R70.0	Elevated erythrocyte sedimentation rate	HP:0003565	Elevated erythrocyte sedimentation rate	true	
+ICD10:R79.81	Abnormal blood-gas level	HP:0012415	Abnormal blood gas level	false	
+ICD10:R79.81	Abnormal blood-gas level	HP:0012415	Abnormal blood gas level	true	
+ICD10:R80	proteinuria	HP:0000093	Proteinuria	false	
+ICD10:R80	proteinuria	HP:0000093	Proteinuria	true	
+ICD10:R80.3	Bence Jones proteinuria	HP:0030156	Bence Jones Proteinuria	false	
+ICD10:R80.3	Bence Jones proteinuria	HP:0030156	Bence Jones Proteinuria	true	
+ICD10:R81	Glycosuria	HP:0003076	Glycosuria	false	
+ICD10:R81	Glycosuria	HP:0003076	Glycosuria	true	
+ICD10:R82.1	Myoglobinuria	HP:0002913	Myoglobinuria	false	
+ICD10:R82.1	Myoglobinuria	HP:0002913	Myoglobinuria	true	
+ICD10:R82.3	Hemoglobinuria	HP:0003641	Hemoglobinuria	false	
+ICD10:R82.3	Hemoglobinuria	HP:0003641	Hemoglobinuria	true	
+ICD10:R82.71	Bacteriuria	HP:0012461	Bacteriuria	false	
+ICD10:R82.71	Bacteriuria	HP:0012461	Bacteriuria	true	
+ICD10:S06	loss of consciousness	HP:0007185	Loss of consciousness	false	
+ICD10:S06	loss of consciousness	HP:0007185	Loss of consciousness	true	
+ICD10:T68	hypothermia	HP:0002045	Hypothermia	false	
+ICD10:T68	hypothermia	HP:0002045	Hypothermia	true	
