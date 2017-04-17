@@ -1,6 +1,8 @@
+OBO=http://purl.obolibrary.org/obo
 MEDGEN = medgen-disease-extract.obo
 
 all: fetch $(MEDGEN)
+
 
 # ----------------------------------------
 # ETL
@@ -14,12 +16,17 @@ uid2cui.tsv:
 # ----------------------------------------
 # Hacky conversion to obo
 # ----------------------------------------
+# relies on MGCONSO.RRF.gz etc being made by 'fetch' step
 medgen.obo:
 	./medgen2obo.pl > $@.tmp && mv $@.tmp $@
 
 # we only care about diseases for now
-medgen-disease-extract.obo: medgen.obo
-	owltools $< --extract-subset Disease-or-Syndrome -o -f obo $@
+# NOTE: some cancers seem to appear under Neoplastic-Process
+x-%.obo: medgen.obo
+	owltools $< --extract-subset $* --set-ontology-id $(OBO)/mondo/$@ -o -f obo $@
+
+medgen-disease-extract.obo: x-Disease-or-Syndrome.obo x-Neoplastic-Process.obo
+	owltools $^ --merge-support-ontologies -o -f obo $@
 
 
 # ----------------------------------------
@@ -57,6 +64,13 @@ mg_cat.tsv:
 # counts with labels
 medgenid_count_labeled.txt: medgenid_count.txt
 	blip labelify -i medgen.obo $< > $@
+
+# ----------------------------------------
+# Mesh xrefs
+# ----------------------------------------
+
+mesh-umls-xrefs.obo: medgen-disease-extract.obo
+	blip-findall -i $< "entity_xref_idspace(U,M,'MESH')" -select M-U -no_pred -use_tabs -label | tbl2obolinks.pl --rel xref > $@
 
 # ----------------------------------------
 # Experimental

@@ -108,6 +108,9 @@ foreach my $id (@ids) {
     print "id: UMLS:$id\n";
     print "name: $h->{name}\n";
     foreach my $x (keys %{$h->{xrefs}}) {
+        $x =~ s@MSH:@MESH:@;
+        $x =~ s@NCI:@NCIT:@;
+        $x =~ s@SNOMEDCT_US:@SCTID:@;
         print "xref: $x\n";
     }
     foreach (keys %{$ssh{$id} || {}}) {

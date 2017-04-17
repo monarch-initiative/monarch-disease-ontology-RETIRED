@@ -17,16 +17,17 @@ neoplasticity.rdf: neoplasm-src.owl
 	arq --query construct-malignant.sparql --data $< > $@.tmp && mv $@.tmp $@
 
 neoplasm-combined.owl: neoplasm-src.owl neoplasticity.rdf upper.obo
-	owltools $^ --merge-support-ontologies --remove-annotation-assertions -l -r -d -s -o $@.tmp && mv $@.tmp $@
+	owltools $^ --merge-support-ontologies  -o $@.tmp && mv $@.tmp $@
+#	owltools $^ --merge-support-ontologies --remove-annotation-assertions -l -r -d -s -o $@.tmp && mv $@.tmp $@
 
 # ----------------------------------------
 # TORTURE IDS
 # ----------------------------------------
 neoplasm-combined-fixiri.owl: neoplasm-combined.owl
-	perl -npe 's@http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#@http://purl.obolibrary.org/obo/NCIT_@g' $< > $@
+	perl -npe 's@http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#@http://purl.obolibrary.org/obo/NCIT_@g;' $<   > $@.tmp && mv $@.tmp $@
 
 neoplasm-combined-fixiri.obo: neoplasm-combined-fixiri.owl
-	owltools $< -o -f obo $@.tmp && mv $@.tmp $@
+	owltools $< -o -f obo $@.tmp && ./fix-xrefs.pl $@.tmp > $@
 
 # ----------------------------------------
 # REMOVE OBSOLETES

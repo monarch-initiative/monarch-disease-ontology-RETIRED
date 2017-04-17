@@ -470,6 +470,21 @@ pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
         !.
 
 %% ========================================
+%% scoring based on shared xref
+%% ========================================
+pair_relationship_scores_shared(A,B,M) :-
+        shared_xref_card(A,B,_,S,C),
+        downcase_atom(S,S2),
+        shared_scores(S2,C,M),
+        !.
+
+shared_scores(umls,1-1-1,m(umls,2,2,20,0)) :- !.
+shared_scores(umls,_-1-1,m(umls,2,2,10,1)) :- !.
+shared_scores(umls,_-_-1,m(umls,1,2,1,1)) :- !.
+shared_scores(umls,_-1-_,m(umls,2,1,1,1)) :- !.
+shared_scores(umls,_-_-_,m(umls,1,1,1,1)) :- !.
+
+%% ========================================
 %% scoring based on probabilstic axiomatization
 %% ========================================
 pair_relationship_scores_paxiom(A,B,m(hered,1,1,1,15)) :-
@@ -520,6 +535,10 @@ pair_relationship_scores(A,B,ST) :-
         pair_relationship_scores_ont(A,B,ST).
 
 pair_relationship_scores(A,B,ST) :-
+        %% shared
+        pair_relationship_scores_shared(A,B,ST).
+
+pair_relationship_scores(A,B,ST) :-
         %% prob axiom
         pair_relationship_scores_paxiom(A,B,ST).
 
@@ -560,6 +579,15 @@ xref_ptable(A,B,P1,P2,P3,P0) :-
 % symmetric xref, normalized so that A alphabeticallly before B
 entity_xrefS(A,B) :- entity_xrefN(A,B), A@<B.
 entity_xrefS(A,B) :- entity_xrefN(B,A), A@<B.
+
+entity_xrefS(A,B) :- shared_xref_card_umls(A,B), A@<B.
+
+shared_xref_card_umls(A,B) :-
+        shared_xref_card(A,B,_,'UMLS',_),
+        id_idspace(A,SA),
+        id_idspace(B,SB),
+        SA\=SB.
+
 
 % we restict to named classes; this prevents:
 %  - OMIM genes from resurfacing

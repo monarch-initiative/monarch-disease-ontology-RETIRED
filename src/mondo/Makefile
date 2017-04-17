@@ -22,6 +22,7 @@ NEOPLASM_OBO=../ncit/neoplasm.obo
 GARD_OBO=../gard/gard.obo
 GARD_XREFS=../gard/gard-xrefs.obo
 MEDGEN = ../medgen/medgen-disease-extract.obo
+MESH_UMLS = ../medgen/mesh-umls-xrefs.obo
 
 # ----------------------------------------
 # INITIAL INPUTS: ONTOLOGY
@@ -34,7 +35,7 @@ MEDGEN = ../medgen/medgen-disease-extract.obo
 #  - CTD-MESH
 #
 # this constitutes the initial set of ontologies
-set-1.obo: mondo_base.obo $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xrefs-doid-to-mesh.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo xrefs-ordo-to-neoplasm.obo xrefs-omc-to-neoplasm.obo
+set-1.obo: mondo_base.obo $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_UMLS) $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xrefs-doid-to-mesh.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo xrefs-ordo-to-neoplasm.obo xrefs-omc-to-neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
 foobar:
@@ -48,13 +49,14 @@ set-%.owl: set-%.obo
 # INITIAL INPUTS: PROBABILISTIC EDGES
 # ----------------------------------------
 # translate xrefs to estimates of prior probabilities / weights of equivalence
+PTABLEIX = -debug index -debug prob -index "shared_xref_card_umls(+,+)" -goal nlp_index_all,ix_ngenus
 set-%-ptable.tsv: set-%.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -i $(ORDO_LOGREL) -i ignore.pro -consult probmatch.pro xref_ptable/6 -no_pred > $@.tmp && mv $@.tmp $@
+	blip-findall $(PTABLEIX) -i $< -i $(ORDO_LOGREL) -i ignore.pro -consult probmatch.pro xref_ptable/6 -no_pred > $@.tmp && mv $@.tmp $@
 .PRECIOUS: set-%-ptable.tsv
 
 # as above, but with labels, and a breakdown of contributing individual probabilities
 set-%-ptable-debug.tsv: set-%.obo
-	blip-findall -debug index -debug prob -goal nlp_index_all,ix_ngenus -i $< -i $(ORDO_LOGREL) -i ignore.pro -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@.tmp && mv $@.tmp $@
+	blip-findall $(PTABLEIX) -i $< -i $(ORDO_LOGREL) -i ignore.pro -consult probmatch.pro "normalized_xref(A,B),pair_relationship_scores(A,B,S)" -select "x(A,B,S)" -no_pred -label > $@.tmp && mv $@.tmp $@
 
 # merge curated and automated weights
 set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv 

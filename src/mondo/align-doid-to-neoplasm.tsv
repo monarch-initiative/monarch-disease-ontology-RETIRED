@@ -188,6 +188,8 @@ DOID:0060592	B-cell adult acute lymphocytic leukemia	NCIT:C9143	Adult B Acute Ly
 DOID:0060592	B-cell adult acute lymphocytic leukemia	NCIT:C9143	Adult B Acute Lymphoblastic Leukemia	true	
 DOID:0060597	atypical chronic myeloid leukemia	NCIT:C3519	Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative	false	
 DOID:0060597	atypical chronic myeloid leukemia	NCIT:C3519	Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative	true	
+DOID:0060888	transient myeloproliferative syndrome	NCIT:C82339	Transient Abnormal Myelopoiesis	false	
+DOID:0060888	transient myeloproliferative syndrome	NCIT:C82339	Transient Abnormal Myelopoiesis	true	
 DOID:0070003	blastoma	NCIT:C8997	Blastoma	false	
 DOID:0070003	blastoma	NCIT:C8997	Blastoma	true	
 DOID:0070004	myeloid neoplasm	NCIT:C9290	Myeloid Neoplasm	false	
@@ -208,6 +210,8 @@ DOID:0080149	adult acute monocytic leukemia	NCIT:C8263	Adult Acute Monocytic Leu
 DOID:0080149	adult acute monocytic leukemia	NCIT:C8263	Adult Acute Monocytic Leukemia	true	
 DOID:0080165	myeloid and lymphoid neoplasms associated with PDGFRA rearrangement	NCIT:C84275	Myeloid and Lymphoid Neoplasms with PDGFRA Rearrangement	false	
 DOID:0080165	myeloid and lymphoid neoplasms associated with PDGFRA rearrangement	NCIT:C84275	Myeloid and Lymphoid Neoplasms with PDGFRA Rearrangement	true	
+DOID:0090016	chromosome 5q deletion syndrome	NCIT:C6867	Myelodysplastic Syndrome with Isolated del(5q)	false	
+DOID:0090016	chromosome 5q deletion syndrome	NCIT:C6867	Myelodysplastic Syndrome with Isolated del(5q)	true	
 DOID:10011	thyroid lymphoma	NCIT:C5265	Thyroid Gland Lymphoma	false	
 DOID:10011	thyroid lymphoma	NCIT:C5265	Thyroid Gland Lymphoma	true	
 DOID:10016	multiple endocrine neoplasia type 2B	NCIT:C3227	Multiple Endocrine Neoplasia Type 2B	false	
@@ -991,8 +995,6 @@ DOID:2615	papilloma	NCIT:C7440	Papilloma	false
 DOID:2615	papilloma	NCIT:C7440	Papilloma	true	
 DOID:2616	Wolffian duct adenoma	NCIT:C4294	Benign Mesonephroma	false	
 DOID:2616	Wolffian duct adenoma	NCIT:C4294	Benign Mesonephroma	true	
-DOID:262	kidney hemangiopericytoma	NCIT:C4527	Kidney Hemangiopericytoma	false	
-DOID:262	kidney hemangiopericytoma	NCIT:C4527	Kidney Hemangiopericytoma	true	
 DOID:2621	autonomic nervous system neoplasm	NCIT:C5112	Autonomic Nervous System Neoplasm	false	
 DOID:2621	autonomic nervous system neoplasm	NCIT:C5112	Autonomic Nervous System Neoplasm	true	
 DOID:2626	choroid plexus papilloma	NCIT:C3698	Choroid Plexus Papilloma	false	
@@ -1015,8 +1017,10 @@ DOID:2636	ovarian Brenner tumor	NCIT:C3872	Ovarian Brenner Tumor	false
 DOID:2636	ovarian Brenner tumor	NCIT:C3872	Ovarian Brenner Tumor	true	
 DOID:2639	breast pericanalicular fibroadenoma	NCIT:C4272	Pericanalicular Fibroadenoma	false	
 DOID:2639	breast pericanalicular fibroadenoma	NCIT:C4272	Pericanalicular Fibroadenoma	true	
-DOID:264	hemangiopericytoma	NCIT:C3087	Hemangiopericytoma	false	
-DOID:264	hemangiopericytoma	NCIT:C3087	Hemangiopericytoma	true	
+DOID:264	hemangiopericytoma	NCIT:C50401	Myopericytoma	false	
+DOID:264	hemangiopericytoma	NCIT:C50401	Myopericytoma	true	
+DOID:264	hemangiopericytoma	NCIT:C7634	Solitary Fibrous Tumor	false	
+DOID:264	hemangiopericytoma	NCIT:C7634	Solitary Fibrous Tumor	true	
 DOID:2640	struma ovarii	NCIT:C7468	Struma Ovarii	false	
 DOID:2640	struma ovarii	NCIT:C7468	Struma Ovarii	true	
 DOID:2641	ovarian germ cell monodermal and highly specialized teratoma	NCIT:C8113	Ovarian Monodermal and Highly Specialized Teratoma	false	
@@ -1043,10 +1047,6 @@ DOID:2661	myoepithelioma	NCIT:C7442	Benign Myoepithelioma	false
 DOID:2661	myoepithelioma	NCIT:C7442	Benign Myoepithelioma	true	
 DOID:2664	sweat gland neoplasm	NCIT:C3398	Sweat Gland Neoplasm	false	
 DOID:2664	sweat gland neoplasm	NCIT:C3398	Sweat Gland Neoplasm	true	
-DOID:2667	benign mesenchymoma	NCIT:C4267	Benign Mesenchymoma	false	
-DOID:2667	benign mesenchymoma	NCIT:C4267	Benign Mesenchymoma	true	
-DOID:2668	mesenchymoma	NCIT:C3233	Mesenchymoma	false	
-DOID:2668	mesenchymoma	NCIT:C3233	Mesenchymoma	true	
 DOID:2669	Pacinian tumor	NCIT:C4328	Pacinian Neurofibroma	false	
 DOID:2669	Pacinian tumor	NCIT:C4328	Pacinian Neurofibroma	true	
 DOID:2670	transitional papilloma	NCIT:C4115	Transitional Cell Papilloma	false	
@@ -1287,8 +1287,6 @@ DOID:3172	papillary adenoma	NCIT:C79951	Papillary Adenoma	false
 DOID:3172	papillary adenoma	NCIT:C79951	Papillary Adenoma	true	
 DOID:3173	fallopian tube serous papilloma	NCIT:C40112	Fallopian Tube Papilloma	false	
 DOID:3173	fallopian tube serous papilloma	NCIT:C40112	Fallopian Tube Papilloma	true	
-DOID:3177	verrucous papilloma	NCIT:C4101	Verrucous Papilloma	false	
-DOID:3177	verrucous papilloma	NCIT:C4101	Verrucous Papilloma	true	
 DOID:3178	skin papilloma	NCIT:C4614	Skin Papilloma	false	
 DOID:3178	skin papilloma	NCIT:C4614	Skin Papilloma	true	
 DOID:3179	inverted papilloma	NCIT:C3793	Inverted Papilloma	false	
@@ -1716,8 +1714,6 @@ DOID:3813	central nervous system chondroma	NCIT:C7001	Chondroma of the Central N
 DOID:3813	central nervous system chondroma	NCIT:C7001	Chondroma of the Central Nervous System	true	
 DOID:3814	extraskeletal chondroma	NCIT:C9482	Soft Tissue Chondroma	false	
 DOID:3814	extraskeletal chondroma	NCIT:C9482	Soft Tissue Chondroma	true	
-DOID:3828	chromophobe adenoma	NCIT:C2857	Pituitary Gland Chromophobe Adenoma	false	
-DOID:3828	chromophobe adenoma	NCIT:C2857	Pituitary Gland Chromophobe Adenoma	true	
 DOID:3829	pituitary adenoma	NCIT:C3329	Pituitary Gland Adenoma	false	
 DOID:3829	pituitary adenoma	NCIT:C3329	Pituitary Gland Adenoma	true	
 DOID:3840	craniopharyngioma	NCIT:C2964	Craniopharyngioma	false	
@@ -1730,8 +1726,6 @@ DOID:3846	adamantinous craniopharyngioma	NCIT:C4726	Adamantinomatous Craniophary
 DOID:3846	adamantinous craniopharyngioma	NCIT:C4726	Adamantinomatous Craniopharyngioma	true	
 DOID:3847	papillary craniopharyngioma	NCIT:C4725	Papillary Craniopharyngioma	false	
 DOID:3847	papillary craniopharyngioma	NCIT:C4725	Papillary Craniopharyngioma	true	
-DOID:3850	hemangiopericytic tumor	NCIT:C7076	Hemangiopericytic Neoplasm	false	
-DOID:3850	hemangiopericytic tumor	NCIT:C7076	Hemangiopericytic Neoplasm	true	
 DOID:3855	seminal vesicle tumor	NCIT:C39908	Seminal Vesicle Neoplasm	false	
 DOID:3855	seminal vesicle tumor	NCIT:C39908	Seminal Vesicle Neoplasm	true	
 DOID:3856	male reproductive organ cancer	NCIT:C3054	Male Reproductive System Neoplasm	false	
@@ -1756,8 +1750,6 @@ DOID:3873	nodular medulloblastoma	NCIT:C5407	Medulloblastoma with Extensive Nodu
 DOID:3873	nodular medulloblastoma	NCIT:C5407	Medulloblastoma with Extensive Nodularity	true	
 DOID:3883	Lynch syndrome	NCIT:C8494	Lynch Syndrome	false	
 DOID:3883	Lynch syndrome	NCIT:C8494	Lynch Syndrome	true	
-DOID:3892	insulinoma	NCIT:C65184	Islet Cell Adenoma	false	
-DOID:3892	insulinoma	NCIT:C65184	Islet Cell Adenoma	true	
 DOID:3892	insulinoma	NCIT:C95598	Pancreatic Insulinoma	false	
 DOID:3892	insulinoma	NCIT:C95598	Pancreatic Insulinoma	true	
 DOID:3893	hidrocystoma	NCIT:C3760	Hidrocystoma	false	
@@ -2169,16 +2161,12 @@ DOID:4527	ovarian angiosarcoma	NCIT:C5232	Ovarian Angiosarcoma	false
 DOID:4527	ovarian angiosarcoma	NCIT:C5232	Ovarian Angiosarcoma	true	
 DOID:4531	mucoepidermoid carcinoma	NCIT:C3772	Mucoepidermoid Carcinoma	false	
 DOID:4531	mucoepidermoid carcinoma	NCIT:C3772	Mucoepidermoid Carcinoma	true	
-DOID:4542	basophil adenoma	NCIT:C2856	Pituitary Gland Basophil Adenoma	false	
-DOID:4542	basophil adenoma	NCIT:C2856	Pituitary Gland Basophil Adenoma	true	
 DOID:4545	mesenchymal chondrosarcoma	NCIT:C3737	Mesenchymal Chondrosarcoma	false	
 DOID:4545	mesenchymal chondrosarcoma	NCIT:C3737	Mesenchymal Chondrosarcoma	true	
 DOID:4546	pediatric mesenchymal chondrosarcoma	NCIT:C27374	Childhood Mesenchymal Chondrosarcoma	false	
 DOID:4546	pediatric mesenchymal chondrosarcoma	NCIT:C27374	Childhood Mesenchymal Chondrosarcoma	true	
 DOID:4547	adult mesenchymal chondrosarcoma	NCIT:C27375	Adult Mesenchymal Chondrosarcoma	false	
 DOID:4547	adult mesenchymal chondrosarcoma	NCIT:C27375	Adult Mesenchymal Chondrosarcoma	true	
-DOID:4548	extraskeletal mesenchymal chondrosarcoma	NCIT:C27481	Mesenchymal Extraskeletal Chondrosarcoma	false	
-DOID:4548	extraskeletal mesenchymal chondrosarcoma	NCIT:C27481	Mesenchymal Extraskeletal Chondrosarcoma	true	
 DOID:4551	anus neoplasm	NCIT:C2877	Anal Neoplasm	false	
 DOID:4551	anus neoplasm	NCIT:C2877	Anal Neoplasm	true	
 DOID:4552	large cell carcinoma	NCIT:C3780	Large Cell Carcinoma	false	
@@ -2438,7 +2426,6 @@ DOID:4910	urethra adenocarcinoma	NCIT:C6167	Urethral Adenocarcinoma	false
 DOID:4910	urethra adenocarcinoma	NCIT:C6167	Urethral Adenocarcinoma	true	
 DOID:4914	esophagus adenocarcinoma	NCIT:C4025	Esophageal Adenocarcinoma	false	
 DOID:4914	esophagus adenocarcinoma	NCIT:C4025	Esophageal Adenocarcinoma	true	
-DOID:4915	basophilic carcinoma	NCIT:C27392	Pituitary Gland Basophil Carcinoma	true	
 DOID:4915	basophilic carcinoma	NCIT:C4150	Basophilic Adenocarcinoma	false	
 DOID:4915	basophilic carcinoma	NCIT:C4150	Basophilic Adenocarcinoma	true	
 DOID:4916	pituitary carcinoma	NCIT:C4536	Pituitary Gland Carcinoma	false	
@@ -2801,10 +2788,6 @@ DOID:5363	myxoid liposarcoma	NCIT:C27781	Myxoid Liposarcoma	false
 DOID:5363	myxoid liposarcoma	NCIT:C27781	Myxoid Liposarcoma	true	
 DOID:5368	Wolffian duct adenocarcinoma	NCIT:C40254	Cervical Mesonephric Adenocarcinoma	false	
 DOID:5368	Wolffian duct adenocarcinoma	NCIT:C40254	Cervical Mesonephric Adenocarcinoma	true	
-DOID:5370	breast hemangiopericytoma	NCIT:C40396	Breast Hemangiopericytoma	false	
-DOID:5370	breast hemangiopericytoma	NCIT:C40396	Breast Hemangiopericytoma	true	
-DOID:5373	retroperitoneal hemangiopericytoma	NCIT:C5386	Retroperitoneal Hemangiopericytoma	false	
-DOID:5373	retroperitoneal hemangiopericytoma	NCIT:C5386	Retroperitoneal Hemangiopericytoma	true	
 DOID:5374	pilomatrixoma	NCIT:C7368	Pilomatricoma	false	
 DOID:5374	pilomatrixoma	NCIT:C7368	Pilomatricoma	true	
 DOID:5375	hair follicle neoplasm	NCIT:C7367	Hair Follicle Neoplasm	false	
@@ -2829,14 +2812,14 @@ DOID:5390	clear cell adenoma	NCIT:C4151	Clear Cell Adenoma	false
 DOID:5390	clear cell adenoma	NCIT:C4151	Clear Cell Adenoma	true	
 DOID:5391	bronchus adenoma	NCIT:C3494	Lung Papillary Adenoma	false	
 DOID:5391	bronchus adenoma	NCIT:C3494	Lung Papillary Adenoma	true	
-DOID:5392	acidophil adenoma	NCIT:C6780	Pituitary Gland Acidophil Adenoma	false	
-DOID:5392	acidophil adenoma	NCIT:C6780	Pituitary Gland Acidophil Adenoma	true	
 DOID:5393	brain angioma	NCIT:C7739	Brain Hemangioma	false	
 DOID:5393	brain angioma	NCIT:C7739	Brain Hemangioma	true	
 DOID:5394	prolactinoma	NCIT:C3342	Prolactin-Producing Pituitary Gland Adenoma	false	
 DOID:5394	prolactinoma	NCIT:C3342	Prolactin-Producing Pituitary Gland Adenoma	true	
 DOID:5395	functioning pituitary adenoma	NCIT:C8388	Functioning Pituitary Gland Adenoma	false	
 DOID:5395	functioning pituitary adenoma	NCIT:C8388	Functioning Pituitary Gland Adenoma	true	
+DOID:5396	prolactin producing pituitary tumor	NCIT:C5962	Prolactin-Producing Pituitary Gland Carcinoma	false	
+DOID:5396	prolactin producing pituitary tumor	NCIT:C5962	Prolactin-Producing Pituitary Gland Carcinoma	true	
 DOID:5396	prolactin producing pituitary tumor	NCIT:C7910	Prolactin-Producing Pituitary Gland Neoplasm	false	
 DOID:5396	prolactin producing pituitary tumor	NCIT:C7910	Prolactin-Producing Pituitary Gland Neoplasm	true	
 DOID:5398	lipoadenoma	NCIT:C4159	Lipoadenoma	false	
@@ -2875,8 +2858,6 @@ DOID:5444	spiradenoma	NCIT:C4170	Spiradenoma	false
 DOID:5444	spiradenoma	NCIT:C4170	Spiradenoma	true	
 DOID:5445	syringocystadenoma papilliferum	NCIT:C4172	Syringocystadenoma Papilliferum	false	
 DOID:5445	syringocystadenoma papilliferum	NCIT:C4172	Syringocystadenoma Papilliferum	true	
-DOID:5446	eccrine papillary adenoma	NCIT:C4173	Papillary Eccrine Adenoma	false	
-DOID:5446	eccrine papillary adenoma	NCIT:C4173	Papillary Eccrine Adenoma	true	
 DOID:5465	conjunctival intraepithelial neoplasm	NCIT:C6120	Conjunctival Intraepithelial Neoplasia	false	
 DOID:5465	conjunctival intraepithelial neoplasm	NCIT:C6120	Conjunctival Intraepithelial Neoplasia	true	
 DOID:5467	conjunctival cancer	NCIT:C2961	Conjunctival Neoplasm	false	
@@ -2899,8 +2880,6 @@ DOID:5480	ovarian endometrioid adenofibroma	NCIT:C27287	Ovarian Endometrioid Ade
 DOID:5480	ovarian endometrioid adenofibroma	NCIT:C27287	Ovarian Endometrioid Adenofibroma	true	
 DOID:5482	cystadenofibroma	NCIT:C8985	Cystadenofibroma	false	
 DOID:5482	cystadenofibroma	NCIT:C8985	Cystadenofibroma	true	
-DOID:5484	fibrous synovial sarcoma	NCIT:C6533	Fibrous Synovial Sarcoma	false	
-DOID:5484	fibrous synovial sarcoma	NCIT:C6533	Fibrous Synovial Sarcoma	true	
 DOID:5485	synovial sarcoma	NCIT:C3400	Synovial Sarcoma	false	
 DOID:5485	synovial sarcoma	NCIT:C3400	Synovial Sarcoma	true	
 DOID:5487	spindle cell synovial sarcoma	NCIT:C4277	Spindle Cell Synovial Sarcoma	false	
@@ -2927,8 +2906,6 @@ DOID:5508	brain stem ependymoma	NCIT:C5098	Brain Stem Ependymoma	false
 DOID:5508	brain stem ependymoma	NCIT:C5098	Brain Stem Ependymoma	true	
 DOID:5509	pediatric ependymoma	NCIT:C8578	Childhood Ependymoma	false	
 DOID:5509	pediatric ependymoma	NCIT:C8578	Childhood Ependymoma	true	
-DOID:5510	pineal dysgerminoma	NCIT:C7169	Pineal Region Dysgerminoma	false	
-DOID:5510	pineal dysgerminoma	NCIT:C7169	Pineal Region Dysgerminoma	true	
 DOID:5511	dysgerminoma of ovary	NCIT:C8106	Ovarian Dysgerminoma	false	
 DOID:5511	dysgerminoma of ovary	NCIT:C8106	Ovarian Dysgerminoma	true	
 DOID:5514	breast squamous cell carcinoma	NCIT:C5177	Squamous Cell Breast Carcinoma	false	
@@ -3132,8 +3109,6 @@ DOID:5681	ovarian embryonal carcinoma	NCIT:C8108	Ovarian Embryonal Carcinoma	fal
 DOID:5681	ovarian embryonal carcinoma	NCIT:C8108	Ovarian Embryonal Carcinoma	true	
 DOID:5690	atypical lipomatous tumor	NCIT:C6505	Atypical Lipomatous Tumor	false	
 DOID:5690	atypical lipomatous tumor	NCIT:C6505	Atypical Lipomatous Tumor	true	
-DOID:5692	cellular myxoid liposarcoma	NCIT:C4252	Round Cell Liposarcoma	false	
-DOID:5692	cellular myxoid liposarcoma	NCIT:C4252	Round Cell Liposarcoma	true	
 DOID:5693	adult liposarcoma	NCIT:C7811	Adult Liposarcoma	false	
 DOID:5693	adult liposarcoma	NCIT:C7811	Adult Liposarcoma	true	
 DOID:5694	esophagus liposarcoma	NCIT:C5705	Esophageal Liposarcoma	false	
@@ -3144,8 +3119,6 @@ DOID:5696	larynx liposarcoma	NCIT:C6021	Laryngeal Liposarcoma	false
 DOID:5696	larynx liposarcoma	NCIT:C6021	Laryngeal Liposarcoma	true	
 DOID:5697	liposarcoma of the ovary	NCIT:C6419	Ovarian Liposarcoma	false	
 DOID:5697	liposarcoma of the ovary	NCIT:C6419	Ovarian Liposarcoma	true	
-DOID:5698	fibroblastic liposarcoma	NCIT:C6509	Fibroblastic Liposarcoma	false	
-DOID:5698	fibroblastic liposarcoma	NCIT:C6509	Fibroblastic Liposarcoma	true	
 DOID:5699	kidney liposarcoma	NCIT:C6185	Kidney Liposarcoma	false	
 DOID:5699	kidney liposarcoma	NCIT:C6185	Kidney Liposarcoma	true	
 DOID:5700	gastric liposarcoma	NCIT:C5488	Gastric Liposarcoma	false	
@@ -3213,8 +3186,6 @@ DOID:5751	pancreatic serous cystadenocarcinoma	NCIT:C5724	Pancreatic Serous Cyst
 DOID:5751	pancreatic serous cystadenocarcinoma	NCIT:C5724	Pancreatic Serous Cystadenocarcinoma	true	
 DOID:5752	cervical serous adenocarcinoma	NCIT:C40201	Cervical Serous Adenocarcinoma	false	
 DOID:5752	cervical serous adenocarcinoma	NCIT:C40201	Cervical Serous Adenocarcinoma	true	
-DOID:5758	malignant mesenchymoma	NCIT:C4268	Malignant Mesenchymoma	false	
-DOID:5758	malignant mesenchymoma	NCIT:C4268	Malignant Mesenchymoma	true	
 DOID:5759	sebaceous gland neoplasm	NCIT:C3363	Sebaceous Gland Neoplasm	false	
 DOID:5759	sebaceous gland neoplasm	NCIT:C3363	Sebaceous Gland Neoplasm	true	
 DOID:5760	sebaceous breast carcinoma	NCIT:C40369	Sebaceous Breast Carcinoma	false	
@@ -3293,10 +3264,6 @@ DOID:5884	benign intermediate mesothelioma	NCIT:C7635	Well Differentiated Papill
 DOID:5884	benign intermediate mesothelioma	NCIT:C7635	Well Differentiated Papillary Mesothelioma	true	
 DOID:5890	malignant adult ependymoma	NCIT:C8269	Adult Anaplastic Ependymoma	false	
 DOID:5890	malignant adult ependymoma	NCIT:C8269	Adult Anaplastic Ependymoma	true	
-DOID:5893	childhood malignant mesenchymoma	NCIT:C8097	Childhood Malignant Mesenchymoma	false	
-DOID:5893	childhood malignant mesenchymoma	NCIT:C8097	Childhood Malignant Mesenchymoma	true	
-DOID:5894	adult malignant mesenchymoma	NCIT:C7947	Adult Malignant Mesenchymoma	false	
-DOID:5894	adult malignant mesenchymoma	NCIT:C7947	Adult Malignant Mesenchymoma	true	
 DOID:5895	clear cell cystadenofibroma	NCIT:C8988	Clear Cell Cystadenofibroma	false	
 DOID:5895	clear cell cystadenofibroma	NCIT:C8988	Clear Cell Cystadenofibroma	true	
 DOID:5896	ovarian clear cell cystadenofibroma	NCIT:C40086	Ovarian Clear Cell Cystadenofibroma	false	
@@ -3305,8 +3272,6 @@ DOID:5897	ovarian clear cell adenofibroma	NCIT:C40085	Ovarian Clear Cell Adenofi
 DOID:5897	ovarian clear cell adenofibroma	NCIT:C40085	Ovarian Clear Cell Adenofibroma	true	
 DOID:5900	meningeal melanocytoma	NCIT:C4662	Meningeal Melanocytoma	false	
 DOID:5900	meningeal melanocytoma	NCIT:C4662	Meningeal Melanocytoma	true	
-DOID:5907	penis non-invasive verrucous carcinoma	NCIT:C27791	Non-Invasive Verrucous Carcinoma of the Penis	false	
-DOID:5907	penis non-invasive verrucous carcinoma	NCIT:C27791	Non-Invasive Verrucous Carcinoma of the Penis	true	
 DOID:5908	penis verrucous carcinoma	NCIT:C6982	Verrucous Carcinoma of the Penis	false	
 DOID:5908	penis verrucous carcinoma	NCIT:C6982	Verrucous Carcinoma of the Penis	true	
 DOID:5913	brachial plexus neoplasm	NCIT:C5823	Brachial Plexus Neoplasm	false	
@@ -3369,8 +3334,6 @@ DOID:6032	juvenile type testicular granulosa cell tumor	NCIT:C39947	Juvenile Typ
 DOID:6032	juvenile type testicular granulosa cell tumor	NCIT:C39947	Juvenile Type Testicular Granulosa Cell Tumor	true	
 DOID:6033	heart fibrosarcoma	NCIT:C5361	Cardiac Fibrosarcoma	false	
 DOID:6033	heart fibrosarcoma	NCIT:C5361	Cardiac Fibrosarcoma	true	
-DOID:6034	heart malignant hemangiopericytoma	NCIT:C5365	Malignant Cardiac Hemangiopericytoma	false	
-DOID:6034	heart malignant hemangiopericytoma	NCIT:C5365	Malignant Cardiac Hemangiopericytoma	true	
 DOID:6037	spindle cell intraocular melanoma	NCIT:C7986	Spindle Cell Uveal Melanoma	false	
 DOID:6037	spindle cell intraocular melanoma	NCIT:C7986	Spindle Cell Uveal Melanoma	true	
 DOID:6039	uveal melanoma	NCIT:C7712	Uveal Melanoma	false	
@@ -3459,8 +3422,6 @@ DOID:6192	inflammatory MFH	NCIT:C6497	Undifferentiated Pleomorphic Sarcoma, Infl
 DOID:6192	inflammatory MFH	NCIT:C6497	Undifferentiated Pleomorphic Sarcoma, Inflammatory Variant	true	
 DOID:6193	epithelioid sarcoma	NCIT:C3714	Epithelioid Sarcoma	false	
 DOID:6193	epithelioid sarcoma	NCIT:C3714	Epithelioid Sarcoma	true	
-DOID:6197	conventional malignant hemangiopericytoma	NCIT:C9425	Conventional Malignant Hemangiopericytoma	false	
-DOID:6197	conventional malignant hemangiopericytoma	NCIT:C9425	Conventional Malignant Hemangiopericytoma	true	
 DOID:6199	cornea cancer	NCIT:C4361	Corneal Neoplasm	false	
 DOID:6199	cornea cancer	NCIT:C4361	Corneal Neoplasm	true	
 DOID:6201	pericardial mesothelioma	NCIT:C7632	Pericardial Mesothelioma	false	
@@ -3471,8 +3432,6 @@ DOID:6204	follicular adenoma	NCIT:C3502	Thyroid Gland Follicular Adenoma	false
 DOID:6204	follicular adenoma	NCIT:C3502	Thyroid Gland Follicular Adenoma	true	
 DOID:6208	mediastinal osteogenic sarcoma	NCIT:C6615	Mediastinal Extraskeletal Osteosarcoma	false	
 DOID:6208	mediastinal osteogenic sarcoma	NCIT:C6615	Mediastinal Extraskeletal Osteosarcoma	true	
-DOID:6209	malignant mediastinum hemangiopericytoma	NCIT:C6608	Malignant Mediastinal Hemangiopericytoma	false	
-DOID:6209	malignant mediastinum hemangiopericytoma	NCIT:C6608	Malignant Mediastinal Hemangiopericytoma	true	
 DOID:6210	bladder diffuse clear cell adenocarcinoma	NCIT:C39849	Bladder Diffuse Clear Cell Adenocarcinoma	false	
 DOID:6210	bladder diffuse clear cell adenocarcinoma	NCIT:C39849	Bladder Diffuse Clear Cell Adenocarcinoma	true	
 DOID:6211	mixed epithelial tumor of ovary	NCIT:C4508	Ovarian Seromucinous Tumor	false	
@@ -3557,8 +3516,6 @@ DOID:6322	tibial adamantinoma	NCIT:C8461	Tibial Adamantinoma	false
 DOID:6322	tibial adamantinoma	NCIT:C8461	Tibial Adamantinoma	true	
 DOID:6331	immature teratoma of ovary	NCIT:C8111	Immature Ovarian Teratoma	false	
 DOID:6331	immature teratoma of ovary	NCIT:C8111	Immature Ovarian Teratoma	true	
-DOID:6332	adult malignant hemangiopericytoma	NCIT:C7946	Malignant Adult Hemangiopericytoma	false	
-DOID:6332	adult malignant hemangiopericytoma	NCIT:C7946	Malignant Adult Hemangiopericytoma	true	
 DOID:6333	adult intracranial malignant hemangiopericytoma	NCIT:C9183	Malignant Adult Intracranial Hemangiopericytoma	false	
 DOID:6333	adult intracranial malignant hemangiopericytoma	NCIT:C9183	Malignant Adult Intracranial Hemangiopericytoma	true	
 DOID:6334	anterior optic tract meningioma	NCIT:C7538	Anterior Visual Pathway Meningioma	false	
@@ -3603,8 +3560,6 @@ DOID:6428	cervical adenoid basal carcinoma	NCIT:C40213	Cervical Adenoid Basal Ca
 DOID:6428	cervical adenoid basal carcinoma	NCIT:C40213	Cervical Adenoid Basal Carcinoma	true	
 DOID:6438	malignant choroid melanoma	NCIT:C4561	Choroid Melanoma	false	
 DOID:6438	malignant choroid melanoma	NCIT:C4561	Choroid Melanoma	true	
-DOID:6445	ovarian endometrioid malignant adenofibroma	NCIT:C40060	Ovarian Endometrioid Adenocarcinofibroma	false	
-DOID:6445	ovarian endometrioid malignant adenofibroma	NCIT:C40060	Ovarian Endometrioid Adenocarcinofibroma	true	
 DOID:6446	ceruminous carcinoma	NCIT:C4176	Ceruminous Adenocarcinoma	false	
 DOID:6446	ceruminous carcinoma	NCIT:C4176	Ceruminous Adenocarcinoma	true	
 DOID:6448	vulvar apocrine adenocarcinoma	NCIT:C40308	Vulvar Apocrine Adenocarcinoma	false	
@@ -3835,8 +3790,6 @@ DOID:6812	childhood pilocytic astrocytoma	NCIT:C4048	Childhood Pilocytic Astrocy
 DOID:6812	childhood pilocytic astrocytoma	NCIT:C4048	Childhood Pilocytic Astrocytoma	true	
 DOID:6823	pancreatoblastoma	NCIT:C4265	Pancreatoblastoma	false	
 DOID:6823	pancreatoblastoma	NCIT:C4265	Pancreatoblastoma	true	
-DOID:6827	pancreatic solid pseudopapillary carcinoma	NCIT:C5728	Solid Pseudopapillary Carcinoma of the Pancreas	false	
-DOID:6827	pancreatic solid pseudopapillary carcinoma	NCIT:C5728	Solid Pseudopapillary Carcinoma of the Pancreas	true	
 DOID:6837	rete ovarii adenoma	NCIT:C40018	Rete Ovarii Adenoma	false	
 DOID:6837	rete ovarii adenoma	NCIT:C40018	Rete Ovarii Adenoma	true	
 DOID:6838	rete ovarii cystadenofibroma	NCIT:C40020	Rete Ovarii Cystadenofibroma	false	
@@ -3967,8 +3920,6 @@ DOID:7032	bile duct clear cell adenocarcinoma	NCIT:C5775	Extrahepatic Bile Duct 
 DOID:7032	bile duct clear cell adenocarcinoma	NCIT:C5775	Extrahepatic Bile Duct Clear Cell Adenocarcinoma	true	
 DOID:7037	childhood immature teratoma of ovary	NCIT:C6547	Childhood Ovarian Immature Teratoma	false	
 DOID:7037	childhood immature teratoma of ovary	NCIT:C6547	Childhood Ovarian Immature Teratoma	true	
-DOID:7039	Borst-Jadassohn intraepidermal carcinoma	NCIT:C4110	Intraepidermal Epithelioma of Jadassohn	false	
-DOID:7039	Borst-Jadassohn intraepidermal carcinoma	NCIT:C4110	Intraepidermal Epithelioma of Jadassohn	true	
 DOID:7040	uveal epithelioid cell melanoma	NCIT:C35780	Epithelioid Cell Uveal Melanoma	false	
 DOID:7040	uveal epithelioid cell melanoma	NCIT:C35780	Epithelioid Cell Uveal Melanoma	true	
 DOID:7041	choroid epithelioid cell melanoma	NCIT:C6102	Choroid Epithelioid Cell Melanoma	false	
@@ -4063,16 +4014,12 @@ DOID:7175	anal Buschke-Lowenstein tumor	NCIT:C7470	Anal Verrucous Carcinoma	fals
 DOID:7175	anal Buschke-Lowenstein tumor	NCIT:C7470	Anal Verrucous Carcinoma	true	
 DOID:7177	anal canal squamous cell carcinoma	NCIT:C7469	Anal Canal Squamous Cell Carcinoma	false	
 DOID:7177	anal canal squamous cell carcinoma	NCIT:C7469	Anal Canal Squamous Cell Carcinoma	true	
-DOID:7179	mixed eosinophil-basophil adenoma	NCIT:C4148	Pituitary Gland Mixed Acidophil-Basophil Adenoma	false	
-DOID:7179	mixed eosinophil-basophil adenoma	NCIT:C4148	Pituitary Gland Mixed Acidophil-Basophil Adenoma	true	
 DOID:7181	benign dermal neurilemmoma	NCIT:C5569	Benign Dermal Schwannoma	false	
 DOID:7181	benign dermal neurilemmoma	NCIT:C5569	Benign Dermal Schwannoma	true	
 DOID:7191	ovarian endometrioid cystadenoma	NCIT:C40075	Ovarian Endometrioid Cystadenoma	false	
 DOID:7191	ovarian endometrioid cystadenoma	NCIT:C40075	Ovarian Endometrioid Cystadenoma	true	
 DOID:7198	maxillary sinus adenoid cystic carcinoma	NCIT:C6239	Maxillary Sinus Adenoid Cystic Carcinoma	false	
 DOID:7198	maxillary sinus adenoid cystic carcinoma	NCIT:C6239	Maxillary Sinus Adenoid Cystic Carcinoma	true	
-DOID:7202	intermediate malignant teratoma	NCIT:C4288	Intermediate Immature Teratoma	false	
-DOID:7202	intermediate malignant teratoma	NCIT:C4288	Intermediate Immature Teratoma	true	
 DOID:7206	melanomatosis	NCIT:C9499	Melanomatosis	false	
 DOID:7206	melanomatosis	NCIT:C9499	Melanomatosis	true	
 DOID:7207	lung combined large cell neuroendocrine carcinoma	NCIT:C7267	Combined Large Cell Lung Neuroendocrine Carcinoma	false	
@@ -4099,14 +4046,10 @@ DOID:7232	central nervous system embryonal carcinoma	NCIT:C7010	Central Nervous 
 DOID:7232	central nervous system embryonal carcinoma	NCIT:C7010	Central Nervous System Embryonal Carcinoma	true	
 DOID:7233	adult central nervous system embryonal carcinoma	NCIT:C5790	Adult Central Nervous System Embryonal Carcinoma	false	
 DOID:7233	adult central nervous system embryonal carcinoma	NCIT:C5790	Adult Central Nervous System Embryonal Carcinoma	true	
-DOID:7234	pancreatic colloid cystadenocarcinoma	NCIT:C5713	Pancreatic Mucinous Cystadenocarcinoma	false	
-DOID:7234	pancreatic colloid cystadenocarcinoma	NCIT:C5713	Pancreatic Mucinous Cystadenocarcinoma	true	
-DOID:7235	pancreatic mucinous cystadenoma	NCIT:C5718	Pancreatic Mucinous Cystadenoma	false	
-DOID:7235	pancreatic mucinous cystadenoma	NCIT:C5718	Pancreatic Mucinous Cystadenoma	true	
+DOID:7235	pancreatic mucinous cystadenoma	NCIT:C41247	Pancreatic Mucinous-Cystic Neoplasm	false	
+DOID:7235	pancreatic mucinous cystadenoma	NCIT:C41247	Pancreatic Mucinous-Cystic Neoplasm	true	
 DOID:7236	pancreatic invasive mucinous cystadenocarcinoma	NCIT:C41246	Pancreatic Mucinous-Cystic Neoplasm with an Associated Invasive Carcinoma	false	
 DOID:7236	pancreatic invasive mucinous cystadenocarcinoma	NCIT:C41246	Pancreatic Mucinous-Cystic Neoplasm with an Associated Invasive Carcinoma	true	
-DOID:7237	pancreatic non-invasive mucinous cystadenocarcinoma	NCIT:C41245	Pancreatic Non-Invasive Mucinous Cystadenocarcinoma	false	
-DOID:7237	pancreatic non-invasive mucinous cystadenocarcinoma	NCIT:C41245	Pancreatic Non-Invasive Mucinous Cystadenocarcinoma	true	
 DOID:7241	uterine corpus apoplectic leiomyoma	NCIT:C40165	Uterine Corpus Hemorrhagic Cellular Leiomyoma	false	
 DOID:7241	uterine corpus apoplectic leiomyoma	NCIT:C40165	Uterine Corpus Hemorrhagic Cellular Leiomyoma	true	
 DOID:7242	uterine corpus cellular leiomyoma	NCIT:C40163	Uterine Corpus Cellular Leiomyoma	false	
@@ -4121,8 +4064,6 @@ DOID:7284	Skene gland carcinoma	NCIT:C39863	Carcinoma of Skene Gland	false
 DOID:7284	Skene gland carcinoma	NCIT:C39863	Carcinoma of Skene Gland	true	
 DOID:7289	secretory uterine corpus endometrioid adenocarcinoma	NCIT:C27839	Endometrial Endometrioid Adenocarcinoma, Secretory Variant	false	
 DOID:7289	secretory uterine corpus endometrioid adenocarcinoma	NCIT:C27839	Endometrial Endometrioid Adenocarcinoma, Secretory Variant	true	
-DOID:7293	mucin-rich endometrial endometrioid adenocarcinoma	NCIT:C8717	Mucin-Rich Endometrial Endometrioid Adenocarcinoma	false	
-DOID:7293	mucin-rich endometrial endometrioid adenocarcinoma	NCIT:C8717	Mucin-Rich Endometrial Endometrioid Adenocarcinoma	true	
 DOID:7297	childhood extraosseous osteosarcoma	NCIT:C27376	Childhood Extraskeletal Osteosarcoma	false	
 DOID:7297	childhood extraosseous osteosarcoma	NCIT:C27376	Childhood Extraskeletal Osteosarcoma	true	
 DOID:730	urethral benign neoplasm	NCIT:C3619	Benign Urethral Neoplasm	false	
@@ -4133,8 +4074,6 @@ DOID:7305	astroblastoma	NCIT:C4324	Astroblastoma	false
 DOID:7305	astroblastoma	NCIT:C4324	Astroblastoma	true	
 DOID:731	urinary system benign neoplasm	NCIT:C4893	Benign Urinary System Neoplasm	false	
 DOID:731	urinary system benign neoplasm	NCIT:C4893	Benign Urinary System Neoplasm	true	
-DOID:7315	Jewett-Marshall bladder cancer	NCIT:C9368	Stage IVB Bladder Cancer	false	
-DOID:7315	Jewett-Marshall bladder cancer	NCIT:C9368	Stage IVB Bladder Cancer	true	
 DOID:7320	ovarian serous cystadenofibroma	NCIT:C40032	Ovarian Serous Cystadenofibroma	false	
 DOID:7320	ovarian serous cystadenofibroma	NCIT:C40032	Ovarian Serous Cystadenofibroma	true	
 DOID:7326	cranial pseudosarcomatous fasciitis	NCIT:C27248	Cranial Nodular Fasciitis	false	
@@ -4193,8 +4132,6 @@ DOID:7438	ovarian clear cell cystadenocarcinoma	NCIT:C7980	Ovarian Clear Cell Cy
 DOID:7439	polyp of middle ear	NCIT:C6933	Middle Ear Polyp	false	
 DOID:7439	polyp of middle ear	NCIT:C6933	Middle Ear Polyp	true	
 DOID:7442	monoclonal gammopathy of uncertain significance	NCIT:C3996	Monoclonal Gammopathy of Undetermined Significance	false	
-DOID:7444	diffuse intraductal papillomatosis	NCIT:C7364	Diffuse Intraductal Papillomatosis	false	
-DOID:7444	diffuse intraductal papillomatosis	NCIT:C7364	Diffuse Intraductal Papillomatosis	true	
 DOID:745	epididymis adenomatoid tumor	NCIT:C6382	Epididymal Adenomatoid Tumor	false	
 DOID:745	epididymis adenomatoid tumor	NCIT:C6382	Epididymal Adenomatoid Tumor	true	
 DOID:7459	acantholytic variant squamous cell breast carcinoma	NCIT:C40359	Squamous Cell Breast Carcinoma, Acantholytic Variant	false	
@@ -4235,8 +4172,6 @@ DOID:7505	small intestine neoplasm	NCIT:C4432	Small Intestinal Neoplasm	false
 DOID:7505	small intestine neoplasm	NCIT:C4432	Small Intestinal Neoplasm	true	
 DOID:7511	breast intraductal papillomatosis	NCIT:C5201	Intraductal Breast Papillomatosis	false	
 DOID:7511	breast intraductal papillomatosis	NCIT:C5201	Intraductal Breast Papillomatosis	true	
-DOID:7512	localized intraductal papillomatosis	NCIT:C7365	Focal Intraductal Papillomatosis	false	
-DOID:7512	localized intraductal papillomatosis	NCIT:C7365	Focal Intraductal Papillomatosis	true	
 DOID:7514	Wolffian adnexal neoplasm	NCIT:C40141	Wolffian Adnexal Tumor	false	
 DOID:7514	Wolffian adnexal neoplasm	NCIT:C40141	Wolffian Adnexal Tumor	true	
 DOID:7515	lumbar spinal canal and spinal cord meningioma	NCIT:C5298	Lumbar Intraspinal Meningioma	false	
@@ -4279,8 +4214,6 @@ DOID:7567	vulvar clear cell hidradenocarcinoma	NCIT:C40307	Vulvar Clear Cell Hid
 DOID:7567	vulvar clear cell hidradenocarcinoma	NCIT:C40307	Vulvar Clear Cell Hidradenocarcinoma	true	
 DOID:7571	malignant cystic nephroma	NCIT:C6897	Cystic Partially Differentiated Nephroblastoma	false	
 DOID:7571	malignant cystic nephroma	NCIT:C6897	Cystic Partially Differentiated Nephroblastoma	true	
-DOID:7574	pancreatic intraductal papillary-colloid carcinoma	NCIT:C5725	Pancreatic Intraductal Papillary-Mucinous Carcinoma	false	
-DOID:7574	pancreatic intraductal papillary-colloid carcinoma	NCIT:C5725	Pancreatic Intraductal Papillary-Mucinous Carcinoma	true	
 DOID:7575	pancreatic intraductal papillary-mucinous neoplasm	NCIT:C38342	Pancreatic Intraductal Papillary-Mucinous Neoplasm	false	
 DOID:7575	pancreatic intraductal papillary-mucinous neoplasm	NCIT:C38342	Pancreatic Intraductal Papillary-Mucinous Neoplasm	true	
 DOID:7577	pancreatic foamy gland adenocarcinoma	NCIT:C37256	Pancreatic Foamy Gland Adenocarcinoma	false	
@@ -4399,8 +4332,6 @@ DOID:7718	osteoclast-like giant cell neoplasm of the pancreas	NCIT:C5723	Undiffe
 DOID:7718	osteoclast-like giant cell neoplasm of the pancreas	NCIT:C5723	Undifferentiated Pancreatic Carcinoma with Osteoclast-Like Giant Cells	true	
 DOID:7729	acinar cell cystadenocarcinoma	NCIT:C5727	Pancreatic Acinar Cell Cystadenocarcinoma	false	
 DOID:7729	acinar cell cystadenocarcinoma	NCIT:C5727	Pancreatic Acinar Cell Cystadenocarcinoma	true	
-DOID:7731	childhood malignant hemangiopericytoma	NCIT:C8090	Malignant Childhood Hemangiopericytoma	false	
-DOID:7731	childhood malignant hemangiopericytoma	NCIT:C8090	Malignant Childhood Hemangiopericytoma	true	
 DOID:7732	childhood malignant schwannoma	NCIT:C8094	Childhood Malignant Peripheral Nerve Sheath Tumor	false	
 DOID:7732	childhood malignant schwannoma	NCIT:C8094	Childhood Malignant Peripheral Nerve Sheath Tumor	true	
 DOID:7733	signet ring cell intrahepatic cholangiocarcinoma	NCIT:C41619	Signet Ring Cell Intrahepatic Cholangiocarcinoma	false	
@@ -4698,8 +4629,6 @@ DOID:8305	nonossifying fibromyxoid tumor	NCIT:C6583	Nonossifying Fibromyxoid Tum
 DOID:8305	nonossifying fibromyxoid tumor	NCIT:C6583	Nonossifying Fibromyxoid Tumor	true	
 DOID:8307	early invasive cervical adenocarcinoma	NCIT:C36096	Early Invasive Cervical Adenocarcinoma	false	
 DOID:8307	early invasive cervical adenocarcinoma	NCIT:C36096	Early Invasive Cervical Adenocarcinoma	true	
-DOID:833	auditory system cancer	NCIT:C3000	Ear Neoplasm	false	
-DOID:833	auditory system cancer	NCIT:C3000	Ear Neoplasm	true	
 DOID:8331	perineural angioma	NCIT:C6526	Perineural Hemangioma	false	
 DOID:8331	perineural angioma	NCIT:C6526	Perineural Hemangioma	true	
 DOID:8336	childhood choriocarcinoma of the ovary	NCIT:C6549	Childhood Ovarian Choriocarcinoma	false	
@@ -4756,8 +4685,6 @@ DOID:8533	hypopharynx cancer	NCIT:C3127	Hypopharyngeal Neoplasm	false
 DOID:8533	hypopharynx cancer	NCIT:C3127	Hypopharyngeal Neoplasm	true	
 DOID:8533	hypopharynx cancer	NCIT:C9465	Hypopharyngeal Carcinoma	false	
 DOID:8533	hypopharynx cancer	NCIT:C9465	Hypopharyngeal Carcinoma	true	
-DOID:8538	reticulosarcoma	NCIT:C27824	Reticulosarcoma	false	
-DOID:8538	reticulosarcoma	NCIT:C27824	Reticulosarcoma	true	
 DOID:8541	Sezary's disease	NCIT:C3366	Sezary Syndrome	false	
 DOID:8541	Sezary's disease	NCIT:C3366	Sezary Syndrome	true	
 DOID:8543	Hodgkin's lymphoma, lymphocytic-histiocytic predominance	NCIT:C6913	Lymphocyte-Rich Classical Hodgkin Lymphoma	false	
@@ -4778,12 +4705,9 @@ DOID:8567	Hodgkin's lymphoma	NCIT:C9357	Hodgkin Lymphoma	false
 DOID:8567	Hodgkin's lymphoma	NCIT:C9357	Hodgkin Lymphoma	true	
 DOID:8578	soft palate cancer	NCIT:C3529	Malignant Soft Palate Neoplasm	false	
 DOID:8578	soft palate cancer	NCIT:C3529	Malignant Soft Palate Neoplasm	true	
-DOID:8580	malignant histiocytosis	NCIT:C7202	Malignant Histiocytosis	false	
-DOID:8580	malignant histiocytosis	NCIT:C7202	Malignant Histiocytosis	true	
+DOID:8580	malignant histiocytosis	NCIT:C4684	Nasal Type Extranodal NK/T-Cell Lymphoma	true	
 DOID:8584	Burkitt lymphoma	NCIT:C2912	Burkitt Lymphoma	false	
 DOID:8584	Burkitt lymphoma	NCIT:C2912	Burkitt Lymphoma	true	
-DOID:8593	chronic monocytic leukemia	NCIT:C34774	Chronic Monocytic Leukemia	false	
-DOID:8593	chronic monocytic leukemia	NCIT:C34774	Chronic Monocytic Leukemia	true	
 DOID:8602	gum cancer	NCIT:C3057	Gingival Neoplasm	false	
 DOID:8602	gum cancer	NCIT:C3057	Gingival Neoplasm	true	
 DOID:8616	Peyronie's disease	NCIT:C3316	Penile Fibromatosis	false	
@@ -4802,24 +4726,18 @@ DOID:8634	prostate carcinoma in situ	NCIT:C3642	Grade III Prostatic Intraepithel
 DOID:8634	prostate carcinoma in situ	NCIT:C3642	Grade III Prostatic Intraepithelial Neoplasia	true	
 DOID:8635	uvula cancer	NCIT:C35177	Malignant Uvula Neoplasm	false	
 DOID:8635	uvula cancer	NCIT:C35177	Malignant Uvula Neoplasm	true	
-DOID:8642	Hodgkin's paragranuloma	NCIT:C26956	Hodgkin's Paragranuloma	false	
-DOID:8642	Hodgkin's paragranuloma	NCIT:C26956	Hodgkin's Paragranuloma	true	
 DOID:8649	tongue cancer	NCIT:C3416	Tongue Neoplasm	false	
 DOID:8649	tongue cancer	NCIT:C3416	Tongue Neoplasm	true	
 DOID:8649	tongue cancer	NCIT:C4824	Tongue Carcinoma	false	
 DOID:8649	tongue cancer	NCIT:C4824	Tongue Carcinoma	true	
 DOID:8649	tongue cancer	NCIT:C9345	Malignant Tongue Neoplasm	false	
 DOID:8649	tongue cancer	NCIT:C9345	Malignant Tongue Neoplasm	true	
-DOID:8651	Hodgkin's granuloma	NCIT:C6914	Hodgkin's Granuloma	false	
-DOID:8651	Hodgkin's granuloma	NCIT:C6914	Hodgkin's Granuloma	true	
 DOID:8654	Hodgkin's lymphoma, mixed cellularity	NCIT:C3517	Mixed Cellularity Classical Hodgkin Lymphoma	false	
 DOID:8654	Hodgkin's lymphoma, mixed cellularity	NCIT:C3517	Mixed Cellularity Classical Hodgkin Lymphoma	true	
 DOID:8660	postcricoid region cancer	NCIT:C8595	Postcricoid Carcinoma	false	
 DOID:8660	postcricoid region cancer	NCIT:C8595	Postcricoid Carcinoma	true	
 DOID:8661	lip carcinoma in situ	NCIT:C4588	Stage 0 Lip Cancer	false	
 DOID:8661	lip carcinoma in situ	NCIT:C4588	Stage 0 Lip Cancer	true	
-DOID:8675	lymphosarcoma	NCIT:C26919	Lymphosarcoma	false	
-DOID:8675	lymphosarcoma	NCIT:C26919	Lymphosarcoma	true	
 DOID:8683	myeloid sarcoma	NCIT:C3520	Myeloid Sarcoma	false	
 DOID:8683	myeloid sarcoma	NCIT:C3520	Myeloid Sarcoma	true	
 DOID:8687	skin carcinoma in situ	NCIT:C3640	Stage 0 Skin Cancer	false	
@@ -4993,10 +4911,6 @@ NCIT:C26712	Mucinous Adenocarcinoma	DOID:3030	mucinous adenocarcinoma	true
 NCIT:C26749	VIP-Producing Neuroendocrine Tumor	DOID:5574	VIPoma	false	
 NCIT:C26913	Verruca Plantaris	DOID:13775	plantar wart	false	
 NCIT:C26913	Verruca Plantaris	DOID:13775	plantar wart	true	
-NCIT:C26919	Lymphosarcoma	DOID:8675	lymphosarcoma	false	
-NCIT:C26919	Lymphosarcoma	DOID:8675	lymphosarcoma	true	
-NCIT:C26956	Hodgkin's Paragranuloma	DOID:8642	Hodgkin's paragranuloma	false	
-NCIT:C26956	Hodgkin's Paragranuloma	DOID:8642	Hodgkin's paragranuloma	true	
 NCIT:C27004	Sarcomatoid Carcinoma	DOID:4015	spindle cell carcinoma	false	
 NCIT:C27004	Sarcomatoid Carcinoma	DOID:4015	spindle cell carcinoma	true	
 NCIT:C27005	Spindle Cell Sarcoma	DOID:4235	spindle cell sarcoma	false	
@@ -5064,7 +4978,6 @@ NCIT:C27389	Carcinoma Arising in Nasal Papillomatosis	DOID:8415	carcinoma arisin
 NCIT:C27389	Carcinoma Arising in Nasal Papillomatosis	DOID:8415	carcinoma arising in nasal papillomatosis	true	
 NCIT:C27390	Ovarian Small Cell Carcinoma	DOID:6179	ovarian small cell carcinoma	false	
 NCIT:C27390	Ovarian Small Cell Carcinoma	DOID:6179	ovarian small cell carcinoma	true	
-NCIT:C27392	Pituitary Gland Basophil Carcinoma	DOID:4915	basophilic carcinoma	true	
 NCIT:C27393	Parathyroid Gland Oncocytic Adenoma	DOID:7611	parathyroid oncocytic adenoma	false	
 NCIT:C27393	Parathyroid Gland Oncocytic Adenoma	DOID:7611	parathyroid oncocytic adenoma	true	
 NCIT:C27394	Vaginal Melanoma	DOID:1906	malignant skin fibrous histiocytoma	false	
@@ -5115,8 +5028,6 @@ NCIT:C27473	Distal-Type Epithelioid Sarcoma	DOID:6988	peripheral epithelioid sar
 NCIT:C27473	Distal-Type Epithelioid Sarcoma	DOID:6988	peripheral epithelioid sarcoma	true	
 NCIT:C27474	Superficial Bladder Carcinoma	DOID:7371	superficial urinary bladder cancer	false	
 NCIT:C27474	Superficial Bladder Carcinoma	DOID:7371	superficial urinary bladder cancer	true	
-NCIT:C27481	Mesenchymal Extraskeletal Chondrosarcoma	DOID:4548	extraskeletal mesenchymal chondrosarcoma	false	
-NCIT:C27481	Mesenchymal Extraskeletal Chondrosarcoma	DOID:4548	extraskeletal mesenchymal chondrosarcoma	true	
 NCIT:C27485	Liver Angiomyolipoma	DOID:3317	hepatic angiomyolipoma	false	
 NCIT:C27485	Liver Angiomyolipoma	DOID:3317	hepatic angiomyolipoma	true	
 NCIT:C27486	Pelvic Lipomatosis	DOID:3927	pelvic lipomatosis	false	
@@ -5181,8 +5092,6 @@ NCIT:C27781	Myxoid Liposarcoma	DOID:5363	myxoid liposarcoma	false
 NCIT:C27781	Myxoid Liposarcoma	DOID:5363	myxoid liposarcoma	true	
 NCIT:C27790	Penile Carcinoma In Situ	DOID:8872	penis carcinoma in situ	false	
 NCIT:C27790	Penile Carcinoma In Situ	DOID:8872	penis carcinoma in situ	true	
-NCIT:C27791	Non-Invasive Verrucous Carcinoma of the Penis	DOID:5907	penis non-invasive verrucous carcinoma	false	
-NCIT:C27791	Non-Invasive Verrucous Carcinoma of the Penis	DOID:5907	penis non-invasive verrucous carcinoma	true	
 NCIT:C27813	Bile Duct Adenocarcinoma	DOID:4896	bile duct adenocarcinoma	false	
 NCIT:C27813	Bile Duct Adenocarcinoma	DOID:4896	bile duct adenocarcinoma	true	
 NCIT:C27814	Bile Duct Carcinoma	DOID:4897	bile duct carcinoma	false	
@@ -5191,8 +5100,6 @@ NCIT:C27815	Malignant Endometrial Neoplasm	DOID:1380	endometrial cancer	false
 NCIT:C27815	Malignant Endometrial Neoplasm	DOID:1380	endometrial cancer	true	
 NCIT:C27817	Paget Disease of the Penis	DOID:3448	penis Paget's disease	false	
 NCIT:C27817	Paget Disease of the Penis	DOID:3448	penis Paget's disease	true	
-NCIT:C27824	Reticulosarcoma	DOID:8538	reticulosarcoma	false	
-NCIT:C27824	Reticulosarcoma	DOID:8538	reticulosarcoma	true	
 NCIT:C27838	Endometrial Serous Adenocarcinoma	DOID:5750	uterine corpus serous adenocarcinoma	false	
 NCIT:C27838	Endometrial Serous Adenocarcinoma	DOID:5750	uterine corpus serous adenocarcinoma	true	
 NCIT:C27839	Endometrial Endometrioid Adenocarcinoma, Secretory Variant	DOID:7289	secretory uterine corpus endometrioid adenocarcinoma	false	
@@ -5245,10 +5152,6 @@ NCIT:C2853	Papillary Adenocarcinoma	DOID:3112	papillary adenocarcinoma	false
 NCIT:C2853	Papillary Adenocarcinoma	DOID:3112	papillary adenocarcinoma	true	
 NCIT:C2855	Adenoma	DOID:657	adenoma	false	
 NCIT:C2855	Adenoma	DOID:657	adenoma	true	
-NCIT:C2856	Pituitary Gland Basophil Adenoma	DOID:4542	basophil adenoma	false	
-NCIT:C2856	Pituitary Gland Basophil Adenoma	DOID:4542	basophil adenoma	true	
-NCIT:C2857	Pituitary Gland Chromophobe Adenoma	DOID:3828	chromophobe adenoma	false	
-NCIT:C2857	Pituitary Gland Chromophobe Adenoma	DOID:3828	chromophobe adenoma	true	
 NCIT:C2858	Adrenal Cortex Neoplasm	DOID:660	adrenal cortex cancer	false	
 NCIT:C2858	Adrenal Cortex Neoplasm	DOID:660	adrenal cortex cancer	true	
 NCIT:C2859	Adrenal Gland Neoplasm	DOID:3953	adrenal gland cancer	false	
@@ -5352,8 +5255,6 @@ NCIT:C2995	Duodenal Neoplasm	DOID:10021	duodenum cancer	false
 NCIT:C2995	Duodenal Neoplasm	DOID:10021	duodenum cancer	true	
 NCIT:C2996	Dysgerminoma	DOID:4441	dysgerminoma	false	
 NCIT:C2996	Dysgerminoma	DOID:4441	dysgerminoma	true	
-NCIT:C3000	Ear Neoplasm	DOID:833	auditory system cancer	false	
-NCIT:C3000	Ear Neoplasm	DOID:833	auditory system cancer	true	
 NCIT:C3008	Enchondromatosis	DOID:4624	Ollier disease	false	
 NCIT:C3008	Enchondromatosis	DOID:4624	Ollier disease	true	
 NCIT:C3010	Endocrine Neoplasm	DOID:170	endocrine gland cancer	false	
@@ -5410,8 +5311,6 @@ NCIT:C3085	Hemangioma	DOID:255	hemangioma	false
 NCIT:C3085	Hemangioma	DOID:255	hemangioma	true	
 NCIT:C3086	Cavernous Hemangioma	DOID:483	cavernous hemangioma	false	
 NCIT:C3086	Cavernous Hemangioma	DOID:483	cavernous hemangioma	true	
-NCIT:C3087	Hemangiopericytoma	DOID:264	hemangiopericytoma	false	
-NCIT:C3087	Hemangiopericytoma	DOID:264	hemangiopericytoma	true	
 NCIT:C3088	Angiosarcoma	DOID:0001816	angiosarcoma	false	
 NCIT:C3088	Angiosarcoma	DOID:0001816	angiosarcoma	true	
 NCIT:C3099	Hepatocellular Carcinoma	DOID:684	hepatocellular carcinoma	false	
@@ -5524,8 +5423,6 @@ NCIT:C3230	Meningioma	DOID:3565	meningioma	false
 NCIT:C3230	Meningioma	DOID:3565	meningioma	true	
 NCIT:C3230	Meningioma	DOID:4586	familial meningioma	false	
 NCIT:C3230	Meningioma	DOID:4586	familial meningioma	true	
-NCIT:C3233	Mesenchymoma	DOID:2668	mesenchymoma	false	
-NCIT:C3233	Mesenchymoma	DOID:2668	mesenchymoma	true	
 NCIT:C3242	Plasma Cell Myeloma	DOID:9538	multiple myeloma	false	
 NCIT:C3242	Plasma Cell Myeloma	DOID:9538	multiple myeloma	true	
 NCIT:C3246	Mycosis Fungoides	DOID:8691	mycosis fungoides	false	
@@ -5700,8 +5597,6 @@ NCIT:C3473	Choroid Plexus Neoplasm	DOID:3540	choroid plexus cancer	false
 NCIT:C3473	Choroid Plexus Neoplasm	DOID:3540	choroid plexus cancer	true	
 NCIT:C3474	Granular Cell Tumor	DOID:2411	granular cell tumor	false	
 NCIT:C3474	Granular Cell Tumor	DOID:2411	granular cell tumor	true	
-NCIT:C34774	Chronic Monocytic Leukemia	DOID:8593	chronic monocytic leukemia	false	
-NCIT:C34774	Chronic Monocytic Leukemia	DOID:8593	chronic monocytic leukemia	true	
 NCIT:C34803	Primary Malignant Liver Neoplasm	DOID:3571	liver cancer	false	
 NCIT:C34803	Primary Malignant Liver Neoplasm	DOID:3571	liver cancer	true	
 NCIT:C3483	Chronic Leukemia	DOID:1036	chronic leukemia	false	
@@ -6383,8 +6278,6 @@ NCIT:C40041	Ovarian Mucinous Cystadenofibroma	DOID:7013	ovarian mucinous cystade
 NCIT:C40041	Ovarian Mucinous Cystadenofibroma	DOID:7013	ovarian mucinous cystadenofibroma	true	
 NCIT:C40051	Malignant Ovarian Endometrioid Tumor	DOID:6212	ovarian endometrial cancer	false	
 NCIT:C40051	Malignant Ovarian Endometrioid Tumor	DOID:6212	ovarian endometrial cancer	true	
-NCIT:C40060	Ovarian Endometrioid Adenocarcinofibroma	DOID:6445	ovarian endometrioid malignant adenofibroma	false	
-NCIT:C40060	Ovarian Endometrioid Adenocarcinofibroma	DOID:6445	ovarian endometrioid malignant adenofibroma	true	
 NCIT:C40065	Ovarian Endometrioid Stromal Sarcoma	DOID:5169	ovarian endometrioid stromal sarcoma	false	
 NCIT:C40065	Ovarian Endometrioid Stromal Sarcoma	DOID:5169	ovarian endometrioid stromal sarcoma	true	
 NCIT:C4007	Small Intestinal Lymphoma	DOID:13996	small intestine lymphoma	false	
@@ -6713,8 +6606,6 @@ NCIT:C40392	Myoepithelial Tumor	DOID:2661	myoepithelioma	false
 NCIT:C40392	Myoepithelial Tumor	DOID:2661	myoepithelioma	true	
 NCIT:C40395	Malignant Breast Myoepithelioma	DOID:6776	breast myoepithelial carcinoma	false	
 NCIT:C40395	Malignant Breast Myoepithelioma	DOID:6776	breast myoepithelial carcinoma	true	
-NCIT:C40396	Breast Hemangiopericytoma	DOID:5370	breast hemangiopericytoma	false	
-NCIT:C40396	Breast Hemangiopericytoma	DOID:5370	breast hemangiopericytoma	true	
 NCIT:C40397	Breast Myofibroblastoma	DOID:1629	breast myofibroblastoma	false	
 NCIT:C40397	Breast Myofibroblastoma	DOID:1629	breast myofibroblastoma	true	
 NCIT:C40399	Breast Leiomyoma	DOID:1623	breast leiomyoma	false	
@@ -6769,8 +6660,6 @@ NCIT:C40959	Testicular Seminoma, Tubular Variant	DOID:6706	tubular variant testi
 NCIT:C40959	Testicular Seminoma, Tubular Variant	DOID:6706	tubular variant testicular seminoma	true	
 NCIT:C40962	Testicular Polyembryoma	DOID:8042	testis polyembryoma	false	
 NCIT:C40962	Testicular Polyembryoma	DOID:8042	testis polyembryoma	true	
-NCIT:C4101	Verrucous Papilloma	DOID:3177	verrucous papilloma	false	
-NCIT:C4101	Verrucous Papilloma	DOID:3177	verrucous papilloma	true	
 NCIT:C4102	Papillary Squamous Cell Carcinoma	DOID:4385	papillary squamous carcinoma	false	
 NCIT:C4102	Papillary Squamous Cell Carcinoma	DOID:4385	papillary squamous carcinoma	true	
 NCIT:C4105	Keratinizing Squamous Cell Carcinoma	DOID:5521	keratinizing squamous cell carcinoma	false	
@@ -6781,8 +6670,6 @@ NCIT:C4107	Nasopharyngeal Type Undifferentiated Carcinoma	DOID:5660	lymphoepithe
 NCIT:C4107	Nasopharyngeal Type Undifferentiated Carcinoma	DOID:5660	lymphoepithelioma-like carcinoma	true	
 NCIT:C4109	Skin Fibroepithelial Basal Cell Carcinoma	DOID:4291	fibroepithelial basal cell carcinoma	false	
 NCIT:C4109	Skin Fibroepithelial Basal Cell Carcinoma	DOID:4291	fibroepithelial basal cell carcinoma	true	
-NCIT:C4110	Intraepidermal Epithelioma of Jadassohn	DOID:7039	Borst-Jadassohn intraepidermal carcinoma	false	
-NCIT:C4110	Intraepidermal Epithelioma of Jadassohn	DOID:7039	Borst-Jadassohn intraepidermal carcinoma	true	
 NCIT:C4114	Pilomatrical Carcinoma	DOID:5376	skin pilomatrix carcinoma	false	
 NCIT:C4114	Pilomatrical Carcinoma	DOID:5376	skin pilomatrix carcinoma	true	
 NCIT:C4115	Transitional Cell Papilloma	DOID:2670	transitional papilloma	false	
@@ -6797,10 +6684,10 @@ NCIT:C4123	Adenocarcinoma In Situ	DOID:4943	adenocarcinoma in situ	false
 NCIT:C4123	Adenocarcinoma In Situ	DOID:4943	adenocarcinoma in situ	true	
 NCIT:C41237	Primary Myelofibrosis, Prefibrotic Stage	DOID:8106	cellular phase chronic idiopathic myelofibrosis	false	
 NCIT:C41237	Primary Myelofibrosis, Prefibrotic Stage	DOID:8106	cellular phase chronic idiopathic myelofibrosis	true	
-NCIT:C41245	Pancreatic Non-Invasive Mucinous Cystadenocarcinoma	DOID:7237	pancreatic non-invasive mucinous cystadenocarcinoma	false	
-NCIT:C41245	Pancreatic Non-Invasive Mucinous Cystadenocarcinoma	DOID:7237	pancreatic non-invasive mucinous cystadenocarcinoma	true	
 NCIT:C41246	Pancreatic Mucinous-Cystic Neoplasm with an Associated Invasive Carcinoma	DOID:7236	pancreatic invasive mucinous cystadenocarcinoma	false	
 NCIT:C41246	Pancreatic Mucinous-Cystic Neoplasm with an Associated Invasive Carcinoma	DOID:7236	pancreatic invasive mucinous cystadenocarcinoma	true	
+NCIT:C41247	Pancreatic Mucinous-Cystic Neoplasm	DOID:7235	pancreatic mucinous cystadenoma	false	
+NCIT:C41247	Pancreatic Mucinous-Cystic Neoplasm	DOID:7235	pancreatic mucinous cystadenoma	true	
 NCIT:C41248	Pancreatic Serous Neoplasm	DOID:3919	pancreatic serous cystic neoplasm	false	
 NCIT:C41248	Pancreatic Serous Neoplasm	DOID:3919	pancreatic serous cystic neoplasm	true	
 NCIT:C41249	Pancreatic Intraductal Papillary-Mucinous Neoplasm with Low Grade Dysplasia	DOID:7851	pancreatic intraductal papillary-mucinous adenoma	false	
@@ -6827,8 +6714,6 @@ NCIT:C41430	Peripheral Nerve Schwannoma	DOID:956	peripheral nerve schwannoma	fal
 NCIT:C41430	Peripheral Nerve Schwannoma	DOID:956	peripheral nerve schwannoma	true	
 NCIT:C4146	Chromophobe Renal Cell Carcinoma	DOID:4471	chromophobe renal cell carcinoma	false	
 NCIT:C4146	Chromophobe Renal Cell Carcinoma	DOID:4471	chromophobe renal cell carcinoma	true	
-NCIT:C4148	Pituitary Gland Mixed Acidophil-Basophil Adenoma	DOID:7179	mixed eosinophil-basophil adenoma	false	
-NCIT:C4148	Pituitary Gland Mixed Acidophil-Basophil Adenoma	DOID:7179	mixed eosinophil-basophil adenoma	true	
 NCIT:C4150	Basophilic Adenocarcinoma	DOID:4915	basophilic carcinoma	false	
 NCIT:C4150	Basophilic Adenocarcinoma	DOID:4915	basophilic carcinoma	true	
 NCIT:C4151	Clear Cell Adenoma	DOID:5390	clear cell adenoma	false	
@@ -6865,8 +6750,6 @@ NCIT:C4171	Papillary Hidradenoma	DOID:5439	papillary hidradenoma	false
 NCIT:C4171	Papillary Hidradenoma	DOID:5439	papillary hidradenoma	true	
 NCIT:C4172	Syringocystadenoma Papilliferum	DOID:5445	syringocystadenoma papilliferum	false	
 NCIT:C4172	Syringocystadenoma Papilliferum	DOID:5445	syringocystadenoma papilliferum	true	
-NCIT:C4173	Papillary Eccrine Adenoma	DOID:5446	eccrine papillary adenoma	false	
-NCIT:C4173	Papillary Eccrine Adenoma	DOID:5446	eccrine papillary adenoma	true	
 NCIT:C4174	Sebaceous Adenoma	DOID:2648	sebaceous adenoma	false	
 NCIT:C4174	Sebaceous Adenoma	DOID:2648	sebaceous adenoma	true	
 NCIT:C4176	Ceruminous Adenocarcinoma	DOID:6446	ceruminous carcinoma	false	
@@ -6926,8 +6809,6 @@ NCIT:C4247	Undifferentiated Pleomorphic Sarcoma	DOID:1907	malignant fibroxanthom
 NCIT:C4247	Undifferentiated Pleomorphic Sarcoma	DOID:1907	malignant fibroxanthoma	true	
 NCIT:C4248	Lipomatous Neoplasm	DOID:3939	lipomatous cancer	false	
 NCIT:C4248	Lipomatous Neoplasm	DOID:3939	lipomatous cancer	true	
-NCIT:C4252	Round Cell Liposarcoma	DOID:5692	cellular myxoid liposarcoma	false	
-NCIT:C4252	Round Cell Liposarcoma	DOID:5692	cellular myxoid liposarcoma	true	
 NCIT:C4253	Mixed Liposarcoma	DOID:5703	mixed liposarcoma	false	
 NCIT:C4253	Mixed Liposarcoma	DOID:5703	mixed liposarcoma	true	
 NCIT:C4253	Mixed Liposarcoma	DOID:5709	mixed-type liposarcoma	false	
@@ -6946,10 +6827,6 @@ NCIT:C4264	Clear Cell Sarcoma of the Kidney	DOID:4880	kidney clear cell sarcoma	
 NCIT:C4264	Clear Cell Sarcoma of the Kidney	DOID:4880	kidney clear cell sarcoma	true	
 NCIT:C4265	Pancreatoblastoma	DOID:6823	pancreatoblastoma	false	
 NCIT:C4265	Pancreatoblastoma	DOID:6823	pancreatoblastoma	true	
-NCIT:C4267	Benign Mesenchymoma	DOID:2667	benign mesenchymoma	false	
-NCIT:C4267	Benign Mesenchymoma	DOID:2667	benign mesenchymoma	true	
-NCIT:C4268	Malignant Mesenchymoma	DOID:5758	malignant mesenchymoma	false	
-NCIT:C4268	Malignant Mesenchymoma	DOID:5758	malignant mesenchymoma	true	
 NCIT:C4270	Malignant Ovarian Brenner Tumor	DOID:4217	malignant ovarian Brenner tumor	false	
 NCIT:C4270	Malignant Ovarian Brenner Tumor	DOID:4217	malignant ovarian Brenner tumor	true	
 NCIT:C42700	Uterine Carcinosarcoma	DOID:6171	uterine carcinosarcoma	false	
@@ -6970,8 +6847,6 @@ NCIT:C4282	Biphasic Mesothelioma	DOID:4486	malignant biphasic mesothelioma	false
 NCIT:C4282	Biphasic Mesothelioma	DOID:4486	malignant biphasic mesothelioma	true	
 NCIT:C4286	Immature Teratoma	DOID:5563	malignant teratoma	false	
 NCIT:C4286	Immature Teratoma	DOID:5563	malignant teratoma	true	
-NCIT:C4288	Intermediate Immature Teratoma	DOID:7202	intermediate malignant teratoma	false	
-NCIT:C4288	Intermediate Immature Teratoma	DOID:7202	intermediate malignant teratoma	true	
 NCIT:C4290	Mixed Germ Cell Tumor	DOID:3306	mixed germ cell cancer	false	
 NCIT:C4290	Mixed Germ Cell Tumor	DOID:3306	mixed germ cell cancer	true	
 NCIT:C4291	Malignant Struma Ovarii	DOID:5208	malignant struma ovarii	false	
@@ -7182,8 +7057,6 @@ NCIT:C4526	Kidney Oncocytoma	DOID:6244	familial renal oncocytoma	false
 NCIT:C4526	Kidney Oncocytoma	DOID:6244	familial renal oncocytoma	true	
 NCIT:C4526	Kidney Oncocytoma	DOID:6245	renal oncocytoma	false	
 NCIT:C4526	Kidney Oncocytoma	DOID:6245	renal oncocytoma	true	
-NCIT:C4527	Kidney Hemangiopericytoma	DOID:262	kidney hemangiopericytoma	false	
-NCIT:C4527	Kidney Hemangiopericytoma	DOID:262	kidney hemangiopericytoma	true	
 NCIT:C4528	Renal Pelvis Urothelial Papilloma	DOID:6119	renal pelvis urothelial papilloma	false	
 NCIT:C4528	Renal Pelvis Urothelial Papilloma	DOID:6119	renal pelvis urothelial papilloma	true	
 NCIT:C4534	Spinal Cord Glial Neoplasm	DOID:3185	spinal cord glioma	false	
@@ -7314,6 +7187,7 @@ NCIT:C4680	Plantar Fibromatosis	DOID:8936	plantar fascial fibromatosis	false
 NCIT:C4680	Plantar Fibromatosis	DOID:8936	plantar fascial fibromatosis	true	
 NCIT:C4683	Dermatofibrosarcoma Protuberans	DOID:3507	dermatofibrosarcoma protuberans	false	
 NCIT:C4683	Dermatofibrosarcoma Protuberans	DOID:3507	dermatofibrosarcoma protuberans	true	
+NCIT:C4684	Nasal Type Extranodal NK/T-Cell Lymphoma	DOID:8580	malignant histiocytosis	true	
 NCIT:C4699	Gestational Trophoblastic Tumor	DOID:3590	gestational trophoblastic neoplasm	false	
 NCIT:C4699	Gestational Trophoblastic Tumor	DOID:3590	gestational trophoblastic neoplasm	true	
 NCIT:C4713	Cellular Ependymoma	DOID:5500	cellular ependymoma	false	
@@ -7529,6 +7403,8 @@ NCIT:C5010	Stage II Subdiaphragmatic Hodgkin Lymphoma	DOID:8567	Hodgkin's lympho
 NCIT:C5010	Stage II Subdiaphragmatic Hodgkin Lymphoma	DOID:8567	Hodgkin's lymphoma	true	
 NCIT:C5012	Stage I Subdiaphragmatic Hodgkin Lymphoma	DOID:8567	Hodgkin's lymphoma	false	
 NCIT:C5012	Stage I Subdiaphragmatic Hodgkin Lymphoma	DOID:8567	Hodgkin's lymphoma	true	
+NCIT:C50401	Myopericytoma	DOID:264	hemangiopericytoma	false	
+NCIT:C50401	Myopericytoma	DOID:264	hemangiopericytoma	true	
 NCIT:C5061	Urethral Urothelial Papilloma	DOID:2140	urethral urothelial papilloma	false	
 NCIT:C5061	Urethral Urothelial Papilloma	DOID:2140	urethral urothelial papilloma	true	
 NCIT:C5063	Endobronchial Lipoma	DOID:10183	endobronchial lipoma	false	
@@ -7788,8 +7664,6 @@ NCIT:C5361	Cardiac Fibrosarcoma	DOID:6033	heart fibrosarcoma	false
 NCIT:C5361	Cardiac Fibrosarcoma	DOID:6033	heart fibrosarcoma	true	
 NCIT:C5364	Cardiac Leiomyosarcoma	DOID:5261	heart leiomyosarcoma	false	
 NCIT:C5364	Cardiac Leiomyosarcoma	DOID:5261	heart leiomyosarcoma	true	
-NCIT:C5365	Malignant Cardiac Hemangiopericytoma	DOID:6034	heart malignant hemangiopericytoma	false	
-NCIT:C5365	Malignant Cardiac Hemangiopericytoma	DOID:6034	heart malignant hemangiopericytoma	true	
 NCIT:C5367	Malignant Cardiac Peripheral Nerve Sheath Tumor	DOID:14534	malignant cardiac peripheral nerve sheath neoplasm	false	
 NCIT:C5367	Malignant Cardiac Peripheral Nerve Sheath Tumor	DOID:14534	malignant cardiac peripheral nerve sheath neoplasm	true	
 NCIT:C5368	Cardiac Lymphoma	DOID:6547	heart lymphoma	false	
@@ -7816,8 +7690,6 @@ NCIT:C5381	Pulmonary Artery Choriocarcinoma	DOID:5547	pulmonary artery choriocar
 NCIT:C5381	Pulmonary Artery Choriocarcinoma	DOID:5547	pulmonary artery choriocarcinoma	true	
 NCIT:C5383	Malignant Pulmonary Vein Neoplasm	DOID:175	vascular cancer	false	
 NCIT:C5383	Malignant Pulmonary Vein Neoplasm	DOID:175	vascular cancer	true	
-NCIT:C5386	Retroperitoneal Hemangiopericytoma	DOID:5373	retroperitoneal hemangiopericytoma	false	
-NCIT:C5386	Retroperitoneal Hemangiopericytoma	DOID:5373	retroperitoneal hemangiopericytoma	true	
 NCIT:C5388	Renal Vein Leiomyosarcoma	DOID:175	vascular cancer	false	
 NCIT:C5388	Renal Vein Leiomyosarcoma	DOID:175	vascular cancer	true	
 NCIT:C5395	Colon Cavernous Hemangioma	DOID:5775	cavernous hemangioma of colon	false	
@@ -8100,14 +7972,10 @@ NCIT:C5707	Esophageal Melanoma	DOID:1108	esophagus melanoma	false
 NCIT:C5707	Esophageal Melanoma	DOID:1108	esophagus melanoma	true	
 NCIT:C5712	Pancreatic Serous Cystadenoma	DOID:3917	pancreatic serous cystadenoma	false	
 NCIT:C5712	Pancreatic Serous Cystadenoma	DOID:3917	pancreatic serous cystadenoma	true	
-NCIT:C5713	Pancreatic Mucinous Cystadenocarcinoma	DOID:7234	pancreatic colloid cystadenocarcinoma	false	
-NCIT:C5713	Pancreatic Mucinous Cystadenocarcinoma	DOID:7234	pancreatic colloid cystadenocarcinoma	true	
 NCIT:C5714	Pancreatic Lymphoma	DOID:1792	pancreas lymphoma	false	
 NCIT:C5714	Pancreatic Lymphoma	DOID:1792	pancreas lymphoma	true	
 NCIT:C5715	Pancreatic Sarcoma	DOID:1796	pancreas sarcoma	false	
 NCIT:C5715	Pancreatic Sarcoma	DOID:1796	pancreas sarcoma	true	
-NCIT:C5718	Pancreatic Mucinous Cystadenoma	DOID:7235	pancreatic mucinous cystadenoma	false	
-NCIT:C5718	Pancreatic Mucinous Cystadenoma	DOID:7235	pancreatic mucinous cystadenoma	true	
 NCIT:C5720	Pancreatic Signet Ring Cell Carcinoma	DOID:3497	pancreatic signet ring cell adenocarcinoma	false	
 NCIT:C5720	Pancreatic Signet Ring Cell Carcinoma	DOID:3497	pancreatic signet ring cell adenocarcinoma	true	
 NCIT:C5721	Pancreatic Adenosquamous Carcinoma	DOID:5637	adenosquamous pancreas carcinoma	false	
@@ -8116,14 +7984,10 @@ NCIT:C5723	Undifferentiated Pancreatic Carcinoma with Osteoclast-Like Giant Cell
 NCIT:C5723	Undifferentiated Pancreatic Carcinoma with Osteoclast-Like Giant Cells	DOID:7718	osteoclast-like giant cell neoplasm of the pancreas	true	
 NCIT:C5724	Pancreatic Serous Cystadenocarcinoma	DOID:5751	pancreatic serous cystadenocarcinoma	false	
 NCIT:C5724	Pancreatic Serous Cystadenocarcinoma	DOID:5751	pancreatic serous cystadenocarcinoma	true	
-NCIT:C5725	Pancreatic Intraductal Papillary-Mucinous Carcinoma	DOID:7574	pancreatic intraductal papillary-colloid carcinoma	false	
-NCIT:C5725	Pancreatic Intraductal Papillary-Mucinous Carcinoma	DOID:7574	pancreatic intraductal papillary-colloid carcinoma	true	
 NCIT:C5726	Pancreatic Intraductal Papillary-Mucinous Neoplasm with an Associated Invasive Carcinoma	DOID:8150	pancreatic invasive intraductal papillary-mucinous carcinoma	false	
 NCIT:C5726	Pancreatic Intraductal Papillary-Mucinous Neoplasm with an Associated Invasive Carcinoma	DOID:8150	pancreatic invasive intraductal papillary-mucinous carcinoma	true	
 NCIT:C5727	Pancreatic Acinar Cell Cystadenocarcinoma	DOID:7729	acinar cell cystadenocarcinoma	false	
 NCIT:C5727	Pancreatic Acinar Cell Cystadenocarcinoma	DOID:7729	acinar cell cystadenocarcinoma	true	
-NCIT:C5728	Solid Pseudopapillary Carcinoma of the Pancreas	DOID:6827	pancreatic solid pseudopapillary carcinoma	false	
-NCIT:C5728	Solid Pseudopapillary Carcinoma of the Pancreas	DOID:6827	pancreatic solid pseudopapillary carcinoma	true	
 NCIT:C5731	Duodenal Gastrin-Producing Neuroendocrine Tumor	DOID:7959	duodenal gastrinoma	false	
 NCIT:C5731	Duodenal Gastrin-Producing Neuroendocrine Tumor	DOID:7959	duodenal gastrinoma	true	
 NCIT:C5734	Gallbladder Lymphoma	DOID:8135	gallbladder lymphoma	false	
@@ -8238,6 +8102,8 @@ NCIT:C5937	Parotid Gland Adenoid Cystic Carcinoma	DOID:0050931	parotid gland ade
 NCIT:C5937	Parotid Gland Adenoid Cystic Carcinoma	DOID:0050931	parotid gland adenoid cystic carcinoma	true	
 NCIT:C5961	Childhood Central Nervous System Primitive Neuroectodermal Tumor	DOID:3870	childhood central nervous system primitive neuroectodermal neoplasm	false	
 NCIT:C5961	Childhood Central Nervous System Primitive Neuroectodermal Tumor	DOID:3870	childhood central nervous system primitive neuroectodermal neoplasm	true	
+NCIT:C5962	Prolactin-Producing Pituitary Gland Carcinoma	DOID:5396	prolactin producing pituitary tumor	false	
+NCIT:C5962	Prolactin-Producing Pituitary Gland Carcinoma	DOID:5396	prolactin producing pituitary tumor	true	
 NCIT:C5963	Growth Hormone-Producing Pituitary Gland Carcinoma	DOID:6256	malignant growth hormone secreting neoplasm of pituitary	false	
 NCIT:C5963	Growth Hormone-Producing Pituitary Gland Carcinoma	DOID:6256	malignant growth hormone secreting neoplasm of pituitary	true	
 NCIT:C5964	ACTH-Producing Pituitary Gland Carcinoma	DOID:6276	malignant ACTH producing neoplasm of pituitary gland	false	
@@ -8592,8 +8458,6 @@ NCIT:C6507	Sclerosing Liposarcoma	DOID:5704	sclerosing liposarcoma	false
 NCIT:C6507	Sclerosing Liposarcoma	DOID:5704	sclerosing liposarcoma	true	
 NCIT:C6508	Inflammatory Liposarcoma	DOID:8233	inflammatory liposarcoma	false	
 NCIT:C6508	Inflammatory Liposarcoma	DOID:8233	inflammatory liposarcoma	true	
-NCIT:C6509	Fibroblastic Liposarcoma	DOID:5698	fibroblastic liposarcoma	false	
-NCIT:C6509	Fibroblastic Liposarcoma	DOID:5698	fibroblastic liposarcoma	true	
 NCIT:C6511	Malignant Smooth Muscle Neoplasm	DOID:4230	smooth muscle cancer	false	
 NCIT:C6511	Malignant Smooth Muscle Neoplasm	DOID:4230	smooth muscle cancer	true	
 NCIT:C6511	Malignant Smooth Muscle Neoplasm	DOID:4310	smooth muscle tumor	false	
@@ -8602,8 +8466,6 @@ NCIT:C6512	Deep Leiomyoma	DOID:5128	deep leiomyoma	false
 NCIT:C6512	Deep Leiomyoma	DOID:5128	deep leiomyoma	true	
 NCIT:C6514	Skeletal Muscle Neoplasm	DOID:4044	skeletal muscle neoplasm	false	
 NCIT:C6514	Skeletal Muscle Neoplasm	DOID:4044	skeletal muscle neoplasm	true	
-NCIT:C65184	Islet Cell Adenoma	DOID:3892	insulinoma	false	
-NCIT:C65184	Islet Cell Adenoma	DOID:3892	insulinoma	true	
 NCIT:C65188	Malignant Gastrinoma	DOID:5577	gastrinoma	false	
 NCIT:C65188	Malignant Gastrinoma	DOID:5577	gastrinoma	true	
 NCIT:C65189	Malignant Vipoma	DOID:5574	VIPoma	false	
@@ -8622,8 +8484,6 @@ NCIT:C6529	Benign Pericytic Neoplasm	DOID:5238	benign perivascular tumor	false
 NCIT:C6529	Benign Pericytic Neoplasm	DOID:5238	benign perivascular tumor	true	
 NCIT:C6532	Tenosynovial Giant Cell Tumor, Localized Type	DOID:2701	nodular tenosynovitis	false	
 NCIT:C6532	Tenosynovial Giant Cell Tumor, Localized Type	DOID:2701	nodular tenosynovitis	true	
-NCIT:C6533	Fibrous Synovial Sarcoma	DOID:5484	fibrous synovial sarcoma	false	
-NCIT:C6533	Fibrous Synovial Sarcoma	DOID:5484	fibrous synovial sarcoma	true	
 NCIT:C6534	Monophasic Synovial Sarcoma	DOID:5495	monophasic synovial sarcoma	false	
 NCIT:C6534	Monophasic Synovial Sarcoma	DOID:5495	monophasic synovial sarcoma	true	
 NCIT:C6535	Malignant Tenosynovial Giant Cell Tumor	DOID:2704	malignant giant cell tumor of the tendon sheath	false	
@@ -8698,8 +8558,6 @@ NCIT:C6604	Bone Fibrosarcoma	DOID:3354	fibrosarcoma of bone	false
 NCIT:C6604	Bone Fibrosarcoma	DOID:3354	fibrosarcoma of bone	true	
 NCIT:C6606	Mediastinal Sarcoma	DOID:4050	mediastinum sarcoma	false	
 NCIT:C6606	Mediastinal Sarcoma	DOID:4050	mediastinum sarcoma	true	
-NCIT:C6608	Malignant Mediastinal Hemangiopericytoma	DOID:6209	malignant mediastinum hemangiopericytoma	false	
-NCIT:C6608	Malignant Mediastinal Hemangiopericytoma	DOID:6209	malignant mediastinum hemangiopericytoma	true	
 NCIT:C6613	Mediastinal Angiosarcoma	DOID:4525	mediastinum angiosarcoma	false	
 NCIT:C6613	Mediastinal Angiosarcoma	DOID:4525	mediastinum angiosarcoma	true	
 NCIT:C6614	Mediastinal Liposarcoma	DOID:5713	mediastinum liposarcoma	false	
@@ -8827,8 +8685,6 @@ NCIT:C6778	Intraorbital Meningioma	DOID:4141	intraorbital meningioma	false
 NCIT:C6778	Intraorbital Meningioma	DOID:4141	intraorbital meningioma	true	
 NCIT:C6779	Gasserian Meningioma	DOID:7635	Gasserian ganglion meningioma	false	
 NCIT:C6779	Gasserian Meningioma	DOID:7635	Gasserian ganglion meningioma	true	
-NCIT:C6780	Pituitary Gland Acidophil Adenoma	DOID:5392	acidophil adenoma	false	
-NCIT:C6780	Pituitary Gland Acidophil Adenoma	DOID:5392	acidophil adenoma	true	
 NCIT:C6792	Sphenoid Sinus Neoplasm	DOID:14546	sphenoidal sinus cancer	false	
 NCIT:C6792	Sphenoid Sinus Neoplasm	DOID:6947	sphenoidal sinus neoplasm	false	
 NCIT:C6792	Sphenoid Sinus Neoplasm	DOID:6947	sphenoidal sinus neoplasm	true	
@@ -8884,6 +8740,8 @@ NCIT:C6849	Paranasal Sinus Sarcoma	DOID:1362	paranasal sinus sarcoma	false
 NCIT:C6849	Paranasal Sinus Sarcoma	DOID:1362	paranasal sinus sarcoma	true	
 NCIT:C6865	Choroid Necrotic Melanoma	DOID:7807	choroid necrotic melanoma	false	
 NCIT:C6865	Choroid Necrotic Melanoma	DOID:7807	choroid necrotic melanoma	true	
+NCIT:C6867	Myelodysplastic Syndrome with Isolated del(5q)	DOID:0090016	chromosome 5q deletion syndrome	false	
+NCIT:C6867	Myelodysplastic Syndrome with Isolated del(5q)	DOID:0090016	chromosome 5q deletion syndrome	true	
 NCIT:C6875	Large Cell Neuroendocrine Carcinoma	DOID:0050872	large cell neuroendocrine carcinoma	false	
 NCIT:C6875	Large Cell Neuroendocrine Carcinoma	DOID:0050872	large cell neuroendocrine carcinoma	true	
 NCIT:C6876	Large Cell Lung Carcinoma with Rhabdoid Phenotype	DOID:7480	large cell carcinoma with rhabdoid phenotype	false	
@@ -8934,8 +8792,6 @@ NCIT:C6911	Intraneural Perineurioma	DOID:4696	intraneural perineurioma	false
 NCIT:C6911	Intraneural Perineurioma	DOID:4696	intraneural perineurioma	true	
 NCIT:C6913	Lymphocyte-Rich Classical Hodgkin Lymphoma	DOID:8543	Hodgkin's lymphoma, lymphocytic-histiocytic predominance	false	
 NCIT:C6913	Lymphocyte-Rich Classical Hodgkin Lymphoma	DOID:8543	Hodgkin's lymphoma, lymphocytic-histiocytic predominance	true	
-NCIT:C6914	Hodgkin's Granuloma	DOID:8651	Hodgkin's granuloma	false	
-NCIT:C6914	Hodgkin's Granuloma	DOID:8651	Hodgkin's granuloma	true	
 NCIT:C6920	Hand-Schuller-Christian Disease	DOID:3405	histiocytosis	false	
 NCIT:C6920	Hand-Schuller-Christian Disease	DOID:3405	histiocytosis	true	
 NCIT:C6921	Langerhans Cell Sarcoma	DOID:7146	Langerhans cell sarcoma	false	
@@ -9026,8 +8882,6 @@ NCIT:C7061	Retinal Cell Neoplasm	DOID:771	retinal cell cancer	false
 NCIT:C7061	Retinal Cell Neoplasm	DOID:771	retinal cell cancer	true	
 NCIT:C7063	Notochordal Tumor	DOID:3303	notochordal cancer	false	
 NCIT:C7063	Notochordal Tumor	DOID:3303	notochordal cancer	true	
-NCIT:C7076	Hemangiopericytic Neoplasm	DOID:3850	hemangiopericytic tumor	false	
-NCIT:C7076	Hemangiopericytic Neoplasm	DOID:3850	hemangiopericytic tumor	true	
 NCIT:C7085	Small Intestinal Leiomyosarcoma	DOID:5271	small intestine leiomyosarcoma	false	
 NCIT:C7085	Small Intestinal Leiomyosarcoma	DOID:5271	small intestine leiomyosarcoma	true	
 NCIT:C7095	Macrotrabecular Hepatoblastoma	DOID:5798	macrotrabecular hepatoblastoma	false	
@@ -9066,12 +8920,8 @@ NCIT:C7154	Bone Leiomyosarcoma	DOID:3367	bone leiomyosarcoma	false
 NCIT:C7154	Bone Leiomyosarcoma	DOID:3367	bone leiomyosarcoma	true	
 NCIT:C7157	Posterior Pituitary Gland Neoplasm	DOID:5048	posterior pituitary gland neoplasm	false	
 NCIT:C7157	Posterior Pituitary Gland Neoplasm	DOID:5048	posterior pituitary gland neoplasm	true	
-NCIT:C7169	Pineal Region Dysgerminoma	DOID:5510	pineal dysgerminoma	false	
-NCIT:C7169	Pineal Region Dysgerminoma	DOID:5510	pineal dysgerminoma	true	
 NCIT:C7184	Methotrexate-Associated Lymphoproliferative Disorder	DOID:5821	methotrexate-associated lymphoproliferation	false	
 NCIT:C7184	Methotrexate-Associated Lymphoproliferative Disorder	DOID:5821	methotrexate-associated lymphoproliferation	true	
-NCIT:C7202	Malignant Histiocytosis	DOID:8580	malignant histiocytosis	false	
-NCIT:C7202	Malignant Histiocytosis	DOID:8580	malignant histiocytosis	true	
 NCIT:C7210	Childhood T Lymphoblastic Lymphoma	DOID:0080148	T-cell childhood lymphoblastic lymphoma	false	
 NCIT:C7210	Childhood T Lymphoblastic Lymphoma	DOID:0080148	T-cell childhood lymphoblastic lymphoma	true	
 NCIT:C7267	Combined Large Cell Lung Neuroendocrine Carcinoma	DOID:7207	lung combined large cell neuroendocrine carcinoma	false	
@@ -9121,10 +8971,6 @@ NCIT:C7361	Scrotal Melanoma	DOID:13160	scrotum melanoma	false
 NCIT:C7361	Scrotal Melanoma	DOID:13160	scrotum melanoma	true	
 NCIT:C7362	Scirrhous Breast Carcinoma	DOID:7578	breast scirrhous carcinoma	false	
 NCIT:C7362	Scirrhous Breast Carcinoma	DOID:7578	breast scirrhous carcinoma	true	
-NCIT:C7364	Diffuse Intraductal Papillomatosis	DOID:7444	diffuse intraductal papillomatosis	false	
-NCIT:C7364	Diffuse Intraductal Papillomatosis	DOID:7444	diffuse intraductal papillomatosis	true	
-NCIT:C7365	Focal Intraductal Papillomatosis	DOID:7512	localized intraductal papillomatosis	false	
-NCIT:C7365	Focal Intraductal Papillomatosis	DOID:7512	localized intraductal papillomatosis	true	
 NCIT:C7367	Hair Follicle Neoplasm	DOID:5375	hair follicle neoplasm	false	
 NCIT:C7367	Hair Follicle Neoplasm	DOID:5375	hair follicle neoplasm	true	
 NCIT:C7368	Pilomatricoma	DOID:5374	pilomatrixoma	false	
@@ -9266,6 +9112,8 @@ NCIT:C7632	Pericardial Mesothelioma	DOID:6201	pericardial mesothelioma	false
 NCIT:C7632	Pericardial Mesothelioma	DOID:6201	pericardial mesothelioma	true	
 NCIT:C7633	Peritoneal Mesothelioma	DOID:1788	peritoneal mesothelioma	false	
 NCIT:C7633	Peritoneal Mesothelioma	DOID:1788	peritoneal mesothelioma	true	
+NCIT:C7634	Solitary Fibrous Tumor	DOID:264	hemangiopericytoma	false	
+NCIT:C7634	Solitary Fibrous Tumor	DOID:264	hemangiopericytoma	true	
 NCIT:C7635	Well Differentiated Papillary Mesothelioma	DOID:5884	benign intermediate mesothelioma	false	
 NCIT:C7635	Well Differentiated Papillary Mesothelioma	DOID:5884	benign intermediate mesothelioma	true	
 NCIT:C7637	Malignant Labia Minora Neoplasm	DOID:1243	labia minora cancer	false	
@@ -9368,10 +9216,6 @@ NCIT:C7928	Childhood Germ Cell Tumor	DOID:6053	pediatric germ cell cancer	false
 NCIT:C7928	Childhood Germ Cell Tumor	DOID:6053	pediatric germ cell cancer	true	
 NCIT:C7944	Adult Epithelioid Sarcoma	DOID:8282	adult epithelioid sarcoma	false	
 NCIT:C7944	Adult Epithelioid Sarcoma	DOID:8282	adult epithelioid sarcoma	true	
-NCIT:C7946	Malignant Adult Hemangiopericytoma	DOID:6332	adult malignant hemangiopericytoma	false	
-NCIT:C7946	Malignant Adult Hemangiopericytoma	DOID:6332	adult malignant hemangiopericytoma	true	
-NCIT:C7947	Adult Malignant Mesenchymoma	DOID:5894	adult malignant mesenchymoma	false	
-NCIT:C7947	Adult Malignant Mesenchymoma	DOID:5894	adult malignant mesenchymoma	true	
 NCIT:C7950	Invasive Lobular Breast Carcinoma	DOID:3457	invasive lobular carcinoma	false	
 NCIT:C7950	Invasive Lobular Breast Carcinoma	DOID:3457	invasive lobular carcinoma	true	
 NCIT:C7953	Childhood T Acute Lymphoblastic Leukemia	DOID:0080145	T-cell childhood acute lymphocytic leukemia	false	
@@ -9427,16 +9271,12 @@ NCIT:C8054	Thyroid Gland Follicular Carcinoma	DOID:3962	follicular thyroid carci
 NCIT:C8054	Thyroid Gland Follicular Carcinoma	DOID:3962	follicular thyroid carcinoma	true	
 NCIT:C8088	Childhood Fibrosarcoma	DOID:3520	pediatric fibrosarcoma	false	
 NCIT:C8088	Childhood Fibrosarcoma	DOID:3520	pediatric fibrosarcoma	true	
-NCIT:C8090	Malignant Childhood Hemangiopericytoma	DOID:7731	childhood malignant hemangiopericytoma	false	
-NCIT:C8090	Malignant Childhood Hemangiopericytoma	DOID:7731	childhood malignant hemangiopericytoma	true	
 NCIT:C8091	Childhood Liposarcoma	DOID:5695	pediatric liposarcoma	false	
 NCIT:C8091	Childhood Liposarcoma	DOID:5695	pediatric liposarcoma	true	
 NCIT:C8094	Childhood Malignant Peripheral Nerve Sheath Tumor	DOID:7732	childhood malignant schwannoma	false	
 NCIT:C8094	Childhood Malignant Peripheral Nerve Sheath Tumor	DOID:7732	childhood malignant schwannoma	true	
 NCIT:C8095	Childhood Epithelioid Sarcoma	DOID:7095	pediatric epithelioid sarcoma	false	
 NCIT:C8095	Childhood Epithelioid Sarcoma	DOID:7095	pediatric epithelioid sarcoma	true	
-NCIT:C8097	Childhood Malignant Mesenchymoma	DOID:5893	childhood malignant mesenchymoma	false	
-NCIT:C8097	Childhood Malignant Mesenchymoma	DOID:5893	childhood malignant mesenchymoma	true	
 NCIT:C8106	Ovarian Dysgerminoma	DOID:5511	dysgerminoma of ovary	false	
 NCIT:C8106	Ovarian Dysgerminoma	DOID:5511	dysgerminoma of ovary	true	
 NCIT:C8107	Ovarian Yolk Sac Tumor	DOID:5350	ovarian endodermal sinus tumor	false	
@@ -9473,6 +9313,8 @@ NCIT:C8193	Paranasal Sinus Squamous Cell Carcinoma	DOID:0050619	paranasal sinus 
 NCIT:C8193	Paranasal Sinus Squamous Cell Carcinoma	DOID:0050619	paranasal sinus cancer	true	
 NCIT:C8194	Nasal Cavity Inverted Papilloma	DOID:4633	nasal cavity inverting papilloma	false	
 NCIT:C8194	Nasal Cavity Inverted Papilloma	DOID:4633	nasal cavity inverting papilloma	true	
+NCIT:C82339	Transient Abnormal Myelopoiesis	DOID:0060888	transient myeloproliferative syndrome	false	
+NCIT:C82339	Transient Abnormal Myelopoiesis	DOID:0060888	transient myeloproliferative syndrome	true	
 NCIT:C8255	Anal Canal Cloacogenic Carcinoma	DOID:7173	cloacogenic carcinoma	false	
 NCIT:C8255	Anal Canal Cloacogenic Carcinoma	DOID:7173	cloacogenic carcinoma	true	
 NCIT:C8256	Anal Basaloid Carcinoma	DOID:7174	anus basaloid carcinoma	false	
@@ -9596,8 +9438,6 @@ NCIT:C8714	Unilateral Retinoblastoma	DOID:4651	unilateral retinoblastoma	true
 NCIT:C8715	Rhabdoid Tumor of the Kidney	DOID:3674	kidney rhabdoid cancer	false	
 NCIT:C8715	Rhabdoid Tumor of the Kidney	DOID:3674	kidney rhabdoid cancer	true	
 NCIT:C8716	Regional Malignant Ureter Neoplasm	DOID:14491	regional ureteric cancer	false	
-NCIT:C8717	Mucin-Rich Endometrial Endometrioid Adenocarcinoma	DOID:7293	mucin-rich endometrial endometrioid adenocarcinoma	false	
-NCIT:C8717	Mucin-Rich Endometrial Endometrioid Adenocarcinoma	DOID:7293	mucin-rich endometrial endometrioid adenocarcinoma	true	
 NCIT:C8719	Endometrial Squamous Cell Carcinoma	DOID:5533	endometrial squamous cell carcinoma	false	
 NCIT:C8719	Endometrial Squamous Cell Carcinoma	DOID:5533	endometrial squamous cell carcinoma	true	
 NCIT:C8776	Peripheral Primitive Neuroectodermal Tumor of Bone	DOID:4388	bone peripheral neuroepithelioma	false	
@@ -9871,8 +9711,6 @@ NCIT:C9363	Labia Majora Carcinoma	DOID:13389	labia majora carcinoma	false
 NCIT:C9363	Labia Majora Carcinoma	DOID:13389	labia majora carcinoma	true	
 NCIT:C9364	Labia Minora Carcinoma	DOID:1293	labia minora carcinoma	false	
 NCIT:C9364	Labia Minora Carcinoma	DOID:1293	labia minora carcinoma	true	
-NCIT:C9368	Stage IVB Bladder Cancer	DOID:7315	Jewett-Marshall bladder cancer	false	
-NCIT:C9368	Stage IVB Bladder Cancer	DOID:7315	Jewett-Marshall bladder cancer	true	
 NCIT:C9370	Adult Brain Stem Gliosarcoma	DOID:4812	adult brainstem gliosarcoma	false	
 NCIT:C9370	Adult Brain Stem Gliosarcoma	DOID:4812	adult brainstem gliosarcoma	true	
 NCIT:C9371	Adult Brain Stem Mixed Glioma	DOID:5921	adult brainstem mixed glioma	false	
@@ -9893,8 +9731,6 @@ NCIT:C9385	Renal Cell Carcinoma	DOID:4450	renal cell carcinoma	false
 NCIT:C9385	Renal Cell Carcinoma	DOID:4450	renal cell carcinoma	true	
 NCIT:C9423	Combined Small Cell and Squamous Cell Lung Carcinoma	DOID:7081	lung mixed small cell and squamous cell carcinoma	false	
 NCIT:C9423	Combined Small Cell and Squamous Cell Lung Carcinoma	DOID:7081	lung mixed small cell and squamous cell carcinoma	true	
-NCIT:C9425	Conventional Malignant Hemangiopericytoma	DOID:6197	conventional malignant hemangiopericytoma	false	
-NCIT:C9425	Conventional Malignant Hemangiopericytoma	DOID:6197	conventional malignant hemangiopericytoma	true	
 NCIT:C9426	Conventional Angiosarcoma	DOID:4512	conventional angiosarcoma	false	
 NCIT:C9426	Conventional Angiosarcoma	DOID:4512	conventional angiosarcoma	true	
 NCIT:C9428	Conventional Leiomyosarcoma	DOID:5253	conventional leiomyosarcoma	false	
