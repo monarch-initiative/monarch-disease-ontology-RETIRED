@@ -28,6 +28,8 @@ x-%.obo: medgen.obo
 medgen-disease-extract.obo: x-Disease-or-Syndrome.obo x-Neoplastic-Process.obo
 	owltools $^ --merge-support-ontologies -o -f obo $@
 
+medgen-disease-extract.json: medgen-disease-extract.obo
+	owltools $< -o -f json $@
 
 # ----------------------------------------
 # Alignment/mapping
@@ -79,3 +81,7 @@ mesh-umls-xrefs.obo: medgen-disease-extract.obo
 # takes too long
 mprobs-medgen.tsv: $(MEDGEN)
 	blip-findall -debug index -i ../mondo/super_ignore.pro -u metadata_nlp -i $< -r mondo -goal index_entity_pair_label_match "class(B),id_idspace(B,'UMLS'),entity_pair_mprobs(A,B,P1,P2,P3,P0)" -select "entity_pair_mprobs(A,B,P1,P2,P3,P0)" -no_pred > $@.tmp && mv $@.tmp $@
+
+
+nb:
+	PYTHONPATH=.. jupyter notebook
