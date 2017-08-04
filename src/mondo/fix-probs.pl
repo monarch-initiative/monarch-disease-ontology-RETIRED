@@ -49,6 +49,7 @@ while(<>) {
         if (@tuples) {
             print STDERR "MATCH $x-$y -- will override\n";
             foreach my $t (@tuples) {
+                print STDERR "T: @$t\n";
                 recalc(\@probs, $t->[3], $t->[0]);
                 $n++;
             }

@@ -2,7 +2,7 @@ EFO = http://www.ebi.ac.uk/efo
 OBO = http://purl.obolibrary.org/obo
 OIO = http://www.geneontology.org/formats/oboInOwl\#
 
-all: orphanet-obostyle.obo orphanet-phenome-obostyle.obo
+all: orphanet-obostyle.obo orphanet-phenome-obostyle.obo orphanet-slim.obo
 
 # UPDATE THIS REGULARLY
 orphanet-orig.owl:

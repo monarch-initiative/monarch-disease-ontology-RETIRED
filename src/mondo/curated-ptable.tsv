@@ -241,13 +241,11 @@
 1.0 MESH_C536603 Amaurosis congenita of Leber, type 9 EquivalentTo OMIM_608553 Leber Congenital Amaurosis 9 Pr= 0.8333333333333334
 1.0 MESH_C563320 Retinitis Pigmentosa 18 EquivalentTo OMIM_601414 Retinitis Pigmentosa 18 Pr= 0.9583333333333334
 1.0 DOID_11661 blue color blindness EquivalentTo OMIM_190900 Tritanopia Pr= 0.6818181818181818
-1.0 DOID_10584 retinitis pigmentosa EquivalentTo MESH_D012174 Retinitis Pigmentosa Pr= 1.0
 1.0 DOID_0110400 retinitis pigmentosa 22 EquivalentTo OMIM_602594 RP22 Pr= 0.6818181818181818
 1.0 MESH_D057130 Leber Congenital Amaurosis EquivalentTo Orphanet_65 Leber congenital amaurosis Pr= 0.7631578947368421
 1.0 DOID_0110370 retinitis pigmentosa 55 EquivalentTo OMIM_613575 Retinitis Pigmentosa 55 Pr= 0.9448818897637795
 1.0 DOID_0110395 retinitis pigmentosa 72 EquivalentTo OMIM_616469 Retinitis Pigmentosa 72 Pr= 0.9448818897637795
 1.0 MESH_C564206 Achromatopsia 4 EquivalentTo OMIM_613856 Achromatopsia 4 Pr= 0.9583333333333334
-1.0 DOID_10584 retinitis pigmentosa EquivalentTo Orphanet_791 Retinitis pigmentosa Pr= 1.0
 1.0 MESH_C563469 Cone-Rod Dystrophy 1 EquivalentTo OMIM_600624 CORD1 Pr= 0.375
 1.0 MESH_C566720 Retinal Aplasia EquivalentTo OMIM_179900 Retinal Aplasia Pr= 0.75
 1.0 DOID_0110352 retinitis pigmentosa 59 EquivalentTo OMIM_613861 Retinitis Pigmentosa 59 Pr= 0.9448818897637795
