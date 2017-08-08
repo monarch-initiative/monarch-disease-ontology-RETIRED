@@ -174,6 +174,15 @@ entailed-in-doid.txt:
 	owltools $(DOID_OBO) linked-1.owl set-1.owl --spike-and-reason > $@.tmp && mv $@.tmp $@
 
 # ----------------------------------------
+# NCIT
+# ----------------------------------------
+ncit_xref_axioms.tsv:
+	./util/extract-ncit.pl linked-1-rpt.md > $@.tmp && sort $@.tmp > $@
+
+sync-ncit: ncit_xref_axioms.tsv
+	cp $^ linked-1-rpt.md ~/Google\ Drive/NCIT-kBoom/
+
+# ----------------------------------------
 # Reporting
 # ----------------------------------------
 

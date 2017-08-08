@@ -577,3 +577,15 @@
 1.0 DOID_0110381 retinitis pigmentosa 14 EquivalentTo OMIM_600132 Retinitis Pigmentosa 14 Pr= 0.9448818897637795
 0.9 Orphanet_66629 Goldberg-Shprintzen megacolon syndrome SiblingOf Orphanet_2462 Shprintzen-Goldberg syndrome
 1.0 Orphanet_495 Transgrediens et progrediens palmoplantar keratoderma SiblingOf Orphanet_317 Erythrokeratodermia variabilis
+
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/262
+# note we treat Orphanet_180261 as benign-breast, see ticket for details
+0.99 Orphanet_180261 Phyllode tumor EquivalentTo NCIT_C5196 Benign Breast Phyllodes Tumor 
+0.99 Orphanet_180261 Phyllode tumor EquivalentTo DOID_1631 benign breast phyllodes tumor
+0.99 Orphanet_180261 Phyllode tumor SubClassOf NCIT_C2977 Phyllodes Tumor 
+0.99 MESH_D003557 Phyllodes Tumor SuperClassOf Orphanet_180261 Phyllode tumor
+0.99 NCIT_C4504 Malignant Breast Phyllodes Tumor EquivalentTo DOID_3016 breast malignant phyllodes tumor 
+0.99 DOID_3016 breast malignant phyllodes tumor EquivalentTo NCIT_C7575 Breast Phyllodes Tumor 
+0.99 DOID_1631 benign breast phyllodes tumor EquivalentTo NCIT_C5196 Benign Breast Phyllodes Tumor 
+
