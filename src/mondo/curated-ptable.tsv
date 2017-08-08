@@ -577,3 +577,7 @@
 1.0 DOID_0110381 retinitis pigmentosa 14 EquivalentTo OMIM_600132 Retinitis Pigmentosa 14 Pr= 0.9448818897637795
 0.9 Orphanet_66629 Goldberg-Shprintzen megacolon syndrome SiblingOf Orphanet_2462 Shprintzen-Goldberg syndrome
 1.0 Orphanet_495 Transgrediens et progrediens palmoplantar keratoderma SiblingOf Orphanet_317 Erythrokeratodermia variabilis
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/302
+0.9 DOID_10283 prostate cancer SuperClassOf Orphanet_1331 Familial prostate cancer
+0.9 DOID_10283 prostate cancer SubClassOf NCIT_C3343 Prostate Neoplasm
