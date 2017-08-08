@@ -316,8 +316,12 @@
 
 #
 # https://github.com/monarch-initiative/monarch-disease-ontology/issues/262
+# note we treat Orphanet_180261 as benign-breast, see ticket for details
+0.99 Orphanet_180261 Phyllode tumor EquivalentTo NCIT_C5196 Benign Breast Phyllodes Tumor 
+0.99 Orphanet_180261 Phyllode tumor EquivalentTo DOID_1631 benign breast phyllodes tumor
+0.99 Orphanet_180261 Phyllode tumor SubClassOf NCIT_C2977 Phyllodes Tumor 
+0.99 MESH_D003557 Phyllodes Tumor SuperClassOf Orphanet_180261 Phyllode tumor
 0.99 NCIT_C4504 Malignant Breast Phyllodes Tumor EquivalentTo DOID_3016 breast malignant phyllodes tumor 
 0.99 DOID_3016 breast malignant phyllodes tumor EquivalentTo NCIT_C7575 Breast Phyllodes Tumor 
-0.99 Orphanet_180261 Phyllode tumor EquivalentTo NCIT_C2977 Phyllodes Tumor 
 0.99 DOID_1631 benign breast phyllodes tumor EquivalentTo NCIT_C5196 Benign Breast Phyllodes Tumor 
-0.99 MESH_D003557 Phyllodes Tumor EquivalentTo Orphanet_180261 Phyllode tumor 
+
