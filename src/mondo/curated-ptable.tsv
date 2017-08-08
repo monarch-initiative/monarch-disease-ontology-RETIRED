@@ -365,6 +365,41 @@
 0.95 DOID_0050563 nonsyndromic deafness EquivalentTo Orphanet_87884 Non-syndromic genetic deafness
 1.0 OMIM_217090 Plasminogen Deficiency, Type 1 SiblingOf Orphanet_97231 Ligneous conjunctivitis
 1.0 Orphanet_2836 PEHO Syndrome SiblingOf Orphanet_99807 PEHO-like Syndrome
+#
+#
+1.0 DOID_4 disease EquivalentTo MESH_D004194 Disease
+1.0 DOID_936 brain disease EquivalentTo MESH_D001927 Brain Diseases
+1.0 DOID_225 syndrome EquivalentTo MESH_D013577 Syndrome
+1.0 DOID_4194 glucose metabolism disease EquivalentTo MESH_D044882 Glucose Metabolism Disorders
+1.0 DOID_0050013 carbohydrate metabolism disease EquivalentTo Orphanet_79161 Disorder of carbohydrate metabolism
+1.0 DOID_5679 retinal disease EquivalentTo MESH_D012164 Retinal Diseases Pr= 0.5454545454545454
+1.0 MESH_D012734 Disorders of Sex Development EquivalentTo Orphanet_90771 Disorder of sex development Pr= 0.7049180327868853
+1.0 DOID_8466 retinal degeneration EquivalentTo MESH_D012162 Retinal Degeneration
+1.0 DOID_5614 eye disease EquivalentTo MESH_D005128 Eye Diseases
+#
+# TODO - check this; the DO class seems to be germline, but the definition is more generic
+##1.0 MESH_D030342 Genetic Diseases, Inborn EquivalentTo DOID_630 genetic disease Pr= 0.3333333333333333
+1.0 DOID_37 skin disease EquivalentTo MESH_D012871 Skin Diseases
+1.0 DOID_987 alopecia EquivalentTo MESH_D000505 Alopecia
+1.0 DOID_2277 gonadal disease EquivalentTo MESH_D006058 Gonadal Disorders 
+1.0 DOID_12336 male infertility EquivalentTo MESH_D007248 Infertility, Male
+1.0 DOID_2018 hyperinsulinism EquivalentTo MESH_D006946 Hyperinsulinism
+1.0 DOID_2978 carbohydrate metabolic disorder EquivalentToOrphanet_79161 Disorder of carbohydrate metabolism 
+1.0 DOID_1826 epilepsy EquivalentTo MESH_D004827 Epilepsy 
+# todo: fix in lexmatch
+1.0 DOID_421 hair disease SiblingOf MESH_C537629 HAIR-AN syndrome 
+1.0 DOID_1059 intellectual disability EquivalentTo MESH_D008607 Intellectual Disability Pr= 0.6875
+1.0 DOID_4448 macular degeneration EquivalentTo MESH_D008268 Macular Degeneration Pr= 0.625
+1.0 Orphanet_55654 Hypotrichosis simplex SubClassOf DOID_4535 hypotrichosis Pr= 0.84
+1.0 DOID_1289 neurodegenerative disease EquivalentTo MESH_D019636 Neurodegenerative Diseases Pr= 0.5454545454545454
+1.0 DOID_150 disease of mental health EquivalentTo MESH_D001523 Mental Disorders Pr= 0.375
+1.0 DOID_863 nervous system disease EquivalentTo MESH_D009422 Nervous System Diseases Pr= 0.4878048780487805
+1.0 DOID_48 male reproductive system disease EquivalentTo MESH_D005832 Genital Diseases, Male Pr= 0.375
+1.0 DOID_9351 diabetes mellitus EquivalentTo MESH_D003920 Diabetes Mellitus Pr= 0.6875
+1.0 DOID_11613 hyperandrogenism EquivalentTo MESH_D017588 Hyperandrogenism Pr= 0.6875
+1.0 DOID_83 cataract EquivalentTo MESH_D002386 Cataract Pr= 0.6875
+1.0 DOID_0050735 X-linked disease EquivalentTo MESH_D040181 Genetic Diseases, X-Linked Pr= 0.375
+1.0 DOID_10123 pigmentation disease EquivalentTo MESH_D010859 Pigmentation Disorders Pr= 0.38461538461538464
 1.0 Orphanet_812 Sialidosis type 1 SiblingOf Orphanet_87876 Sialidosis type 2
 #
 # https://github.com/monarch-initiative/monarch-disease-ontology/issues/233

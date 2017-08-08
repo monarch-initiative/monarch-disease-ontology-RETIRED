@@ -22,3 +22,8 @@ id: MESH:D013568 ! Pathological Conditions, Signs and Symptoms
 name: Pathological Conditions, Signs and Symptoms
 subset: mesh_antislim
 
+[Term]
+id: MESH:D004198
+name: Disease Susceptibility
+subset: mesh_antislim
+
