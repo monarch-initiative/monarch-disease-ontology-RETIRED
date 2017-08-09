@@ -8019,12 +8019,6 @@ id: DOID:2426 ! gangliocytoma
 xref: Orphanet:251937 ! Gangliocytoma
 
 [Term]
-id: DOID:225 ! syndrome
-xref: Orphanet:157954 ! ANE syndrome
-xref: Orphanet:377788 ! disease
-xref: Orphanet:98053 ! Rare genetic disease
-
-[Term]
 id: DOID:0050557 ! congenital muscular dystrophy
 xref: Orphanet:97242 ! Congenital muscular dystrophy
 
