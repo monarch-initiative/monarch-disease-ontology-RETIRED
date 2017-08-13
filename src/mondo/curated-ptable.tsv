@@ -371,8 +371,10 @@
 1.0 DOID_4 disease EquivalentTo MESH_D004194 Disease
 1.0 DOID_936 brain disease EquivalentTo MESH_D001927 Brain Diseases
 1.0 DOID_225 syndrome EquivalentTo MESH_D013577 Syndrome
-1.0 DOID_4194 glucose metabolism disease EquivalentTo MESH_D044882 Glucose Metabolism Disorders
-1.0 DOID_0050013 carbohydrate metabolism disease EquivalentTo Orphanet_79161 Disorder of carbohydrate metabolism
+#
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/370
+0.9 DOID_4194 glucose metabolism disease EquivalentTo MESH_D044882 Glucose Metabolism Disorders
+1.0 DOID_0050013 carbohydrate metabolism disease SiblingOf Orphanet_79161 Disorder of carbohydrate metabolism
 1.0 DOID_5679 retinal disease EquivalentTo MESH_D012164 Retinal Diseases Pr= 0.5454545454545454
 1.0 MESH_D012734 Disorders of Sex Development EquivalentTo Orphanet_90771 Disorder of sex development Pr= 0.7049180327868853
 1.0 DOID_8466 retinal degeneration EquivalentTo MESH_D012162 Retinal Degeneration
