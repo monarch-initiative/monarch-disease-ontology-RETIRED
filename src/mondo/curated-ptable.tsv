@@ -367,6 +367,7 @@
 1.0 Orphanet_2836 PEHO Syndrome SiblingOf Orphanet_99807 PEHO-like Syndrome
 #
 #
+# https://github.com/monarch-initiative/monarch-disease-ontology/issues/301
 1.0 DOID_4 disease EquivalentTo MESH_D004194 Disease
 1.0 DOID_936 brain disease EquivalentTo MESH_D001927 Brain Diseases
 1.0 DOID_225 syndrome EquivalentTo MESH_D013577 Syndrome
@@ -384,7 +385,7 @@
 1.0 DOID_2277 gonadal disease EquivalentTo MESH_D006058 Gonadal Disorders 
 1.0 DOID_12336 male infertility EquivalentTo MESH_D007248 Infertility, Male
 1.0 DOID_2018 hyperinsulinism EquivalentTo MESH_D006946 Hyperinsulinism
-1.0 DOID_2978 carbohydrate metabolic disorder EquivalentToOrphanet_79161 Disorder of carbohydrate metabolism 
+1.0 DOID_2978 carbohydrate metabolic disorder EquivalentTo Orphanet_79161 Disorder of carbohydrate metabolism 
 1.0 DOID_1826 epilepsy EquivalentTo MESH_D004827 Epilepsy 
 # todo: fix in lexmatch
 1.0 DOID_421 hair disease SiblingOf MESH_C537629 HAIR-AN syndrome 
@@ -578,9 +579,6 @@
 0.9 Orphanet_66629 Goldberg-Shprintzen megacolon syndrome SiblingOf Orphanet_2462 Shprintzen-Goldberg syndrome
 1.0 Orphanet_495 Transgrediens et progrediens palmoplantar keratoderma SiblingOf Orphanet_317 Erythrokeratodermia variabilis
 #
-# https://github.com/monarch-initiative/monarch-disease-ontology/issues/301
-0.95 DOID_225 syndrome EquivalentTo MESH_D013577 Syndrome
-
 #
 # https://github.com/monarch-initiative/monarch-disease-ontology/issues/262
 # note we treat Orphanet_180261 as benign-breast, see ticket for details
@@ -591,4 +589,3 @@
 0.99 NCIT_C4504 Malignant Breast Phyllodes Tumor EquivalentTo DOID_3016 breast malignant phyllodes tumor 
 0.99 DOID_3016 breast malignant phyllodes tumor EquivalentTo NCIT_C7575 Breast Phyllodes Tumor 
 0.99 DOID_1631 benign breast phyllodes tumor EquivalentTo NCIT_C5196 Benign Breast Phyllodes Tumor 
-
