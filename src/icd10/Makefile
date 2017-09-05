@@ -47,6 +47,12 @@ icd10.obo: icd10-merged.obo icd10-links.obo
 align-%.tsv: icd10.obo	
 	blip-findall -i ../mondo/ignore.pro -u metadata_nlp -i $< -r $* -goal index_entity_pair_label_match "entity_pair_label_reciprocal_best_intermatch(X,Y,S),class(X),class(Y)" -select "m(X,Y,S)" -use_tabs -label -no_pred > $@.tmp && sort -u $@.tmp > $@
 
+icd10.json: icd10.obo
+	owltools $< -o -f json $@
+
+ontobio-align-%.tsv: icd10.json
+	ontobio-lexmap.py -l True -u unmapped-icd10-$*.tsv $< $*  > $@.tmp && cut -f2- $@.tmp > $@
+
 
 # ----------------------------------------
 # FUNNY HAHA
