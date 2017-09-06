@@ -51,7 +51,7 @@ icd10.json: icd10.obo
 	owltools $< -o -f json $@
 
 ontobio-align-%.tsv: icd10.json
-	ontobio-lexmap.py -l True -u unmapped-icd10-$*.tsv $< $*  > $@.tmp && cut -f2- $@.tmp > $@
+	ontobio-lexmap.py  -vvv -c conf.yaml -u unmapped-icd10-$*.tsv $< $*  > $@.tmp && cut -f2- $@.tmp > $@
 
 
 # ----------------------------------------
