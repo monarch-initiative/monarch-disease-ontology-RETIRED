@@ -1,0 +1,14 @@
+synsets:
+  - word: disease
+    synonym: disorder
+    confidence: 0.9
+  - word: ""
+    synonym: congenital
+    confidence: 0.3
+  - word: "abnormality"
+    synonym: malformations
+    confidence: 0.75
+ontology_configurations:
+  - prefix: HP
+    scope_confidence_map:
+      hasRelatedSynonym: 0.7
