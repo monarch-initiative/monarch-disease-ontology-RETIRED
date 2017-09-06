@@ -61,3 +61,15 @@ funny1.txt: $(CODES)
 	grep 'as the place of occurrence of the external cause' $< > $@
 funny2.txt: $(CODES)
 	grep 'Portug' $< > $@
+
+
+# ----------------------------------------
+# Notebooks
+# ----------------------------------------
+install: requirements.txt
+	./init.sh &&\
+	pip install -r $<
+
+nb:
+	./init.sh && PYTHONPATH=. jupyter notebook
+
