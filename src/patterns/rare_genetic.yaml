@@ -1,0 +1,32 @@
+pattern_name: rare_genetic
+
+classes: []
+
+relations: 
+
+vars:
+  disease: "Thing"
+
+name:
+  text: "rare genetic %s"
+  vars:
+   - disease
+
+annotations:
+  - property: oio:hasExactSynonym
+    text: "rare genetic %s"
+    vars:
+     - disease
+
+def:
+  text: "Rare Genetic %s."
+  vars:
+    - disease
+
+equivalentTo:
+  text: "%s and 'has_status' some 'genetic' and 'has_status' some 'rare'"
+  vars:
+    - disease
+
+
+

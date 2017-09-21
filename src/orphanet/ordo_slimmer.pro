@@ -1,3 +1,4 @@
+%% class names
 cn(C,N) :- class(C,N1),downcase_atom(N1,N).
 
 in_subset(C) :-
