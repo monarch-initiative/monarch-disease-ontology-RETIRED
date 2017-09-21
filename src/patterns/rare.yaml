@@ -2,10 +2,10 @@ pattern_name: rare
 
 classes: []
 
-relations: 
+relations: []
 
 vars:
-  disease: "Thing"
+  disease: "owl:Thing"
 
 name:
   text: "rare %s"
