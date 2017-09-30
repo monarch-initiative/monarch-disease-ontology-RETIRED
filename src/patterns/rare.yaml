@@ -1,8 +1,10 @@
 pattern_name: rare
 
-classes: []
+classes:
+  rare: PATO:0000381 ## decreased frequency
 
-relations: []
+relations:
+  has modifier: RO:0002573
 
 vars:
   disease: "owl:Thing"
@@ -24,7 +26,7 @@ def:
     - disease
 
 equivalentTo:
-  text: "%s and 'has_status' some 'rare'"
+  text: "%s and 'has modifier' some 'rare'"
   vars:
     - disease
 

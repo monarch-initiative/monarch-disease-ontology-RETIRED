@@ -12,9 +12,13 @@ all_snomed: $(patsubst %,lx-snomed_disorder-%.tsv,$(PATTERNS))
 
 all_yaml: $(patsubst %,%.yaml,$(PATTERNS))
 
+lx-tbd-$(P).tsv:
+	blip-findall -r tbd -u odputil -i disease_patterns.pro "tuple_from_lex($(P),C,V)" -select C-V -no_pred -use_tabs -label > $@.tmp && mv $@.tmp $@
+
 # lexical
 lx-$(Ont)-$(P).tsv:
-	blip-findall -r $(Ont) -goal "load_onts($(P))" -consult helper.pro -u odputil -i disease_patterns.pro "tuple_from_lex($(P),C,V),disease_id(C)" -select C-V -no_pred -use_tabs -label > $@.tmp && mv $@.tmp $@
+	blip-findall -r $(Ont) -goal "load_onts($(P))" -consult helper.pro -u odputil -i disease_patterns.pro "tuple_from_lex($(P),C,V),(disease_id(C);C='iri'),\+genus(C,_)" -select C-V -no_pred -use_tabs -label > $@.tmp && mv $@.tmp $@
+
 
 %.yaml:
 	blip-findall -u odputil -i disease_patterns.pro "write_yaml($*)" > $@.tmp && grep -v ^write_yaml $@.tmp > $@
@@ -32,4 +36,6 @@ ld-%.tsv: ld-%.csv
 	owltools $< --merge-imports-closure --add-obo-shorthand-to-properties -o -f obo --no-check $@
 
 lx-$(Ont)-$(P).owl: lx-$(Ont)-$(P).tsv 
+	apply-pattern.py  -P curie_map.yaml -b http://purl.obolibrary.org/obo/ -i $< -p $(P).yaml  > $@.tmp && mv $@.tmp $@
+ld-$(Ont)-$(P).owl: ld-$(Ont)-$(P).tsv 
 	apply-pattern.py  -P curie_map.yaml -b http://purl.obolibrary.org/obo/ -i $< -p $(P).yaml  > $@.tmp && mv $@.tmp $@

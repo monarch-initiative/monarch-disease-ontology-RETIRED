@@ -1,9 +1,11 @@
 pattern_name: genetic
 
-classes: []
+classes:
+  genotype: GENO:0000536
 
 relations: 
-
+  has causal agent: RO:0002608
+  
 vars:
   disease: "Thing"
 
@@ -24,9 +26,7 @@ def:
     - disease
 
 equivalentTo:
-  text: "%s and 'has_status' some 'genetic'"
+  text: "%s and 'has causal agent' some 'genotype'"
   vars:
     - disease
 
-
-write_yaml	genetic

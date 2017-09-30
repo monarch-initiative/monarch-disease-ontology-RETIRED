@@ -13,11 +13,13 @@ OMIA_OBO=../omia/omia.obo
 ORDO_OBO=../orphanet/orphanet-obostyle.obo
 ORDO_SLIM=../orphanet/orphanet-slim.obo
 ORDO_LOGREL=../orphanet/orphanet-logrel.pro
+ORDO_LOGDEFS=../patterns/lx-ordo-*owl
 CLUSTERS=../clusters
 DOID_OBO=../doid/doid.obo
 MESH_TRIM=../medic/mesh-final.obo
 DEC_OBO=../medic/ctd-mesh-no-omim-labels.obo
 NCIT_OBO=../ncit/ncit_disease.obo
+EFO_OBO=../efo/efo-disease.obo
 NEOPLASM_OBO=../ncit/neoplasm.obo
 GARD_OBO=../gard/gard.obo
 GARD_XREFS=../gard/gard-xrefs.obo
@@ -38,9 +40,22 @@ MESH_UMLS = ../medgen/mesh-umls-xrefs.obo
 set-1.obo: mondo_base.obo $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_UMLS) $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xrefs-doid-to-mesh.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo xrefs-ordo-to-neoplasm.obo xrefs-omc-to-neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
+# for testing EFO
+set-efo.obo: mondo_base.obo $(EFO_OBO) $(DOID_OBO) $(ORDO_SLIM) xlinks-curated.obo
+	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
+
+# for testing OMIM-to-Orphanet, compared with DO
+set-oo.obo: mondo_base.obo omc-minimal.obo $(DOID_OBO) $(ORDO_SLIM) xlinks-curated.obo
+	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
+
+set-eoo.obo: mondo_base.obo omc-minimal.obo $(EFO_OBO) $(DOID_OBO) $(ORDO_SLIM) xlinks-curated.obo
+	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
+
 foobar:
 	grep -H '^id: http' $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xlinks-curated.obo
 
+aset-%.owl: set-%.owl
+	owltools $< --add-xref-axiom-annotations -l -o $@
 set-%.owl: set-%.obo
 	owltools $< -o $@
 .PRECIOUS: set-%.owl
@@ -61,6 +76,19 @@ set-%-ptable-debug.tsv: set-%.obo
 # merge curated and automated weights
 set-%-amended-ptable.tsv: curated-ptable.tsv set-%-ptable.tsv 
 	fix-probs.pl $^ > $@.tmp && mv $@.tmp $@
+
+set-%-slim.owl: set-%.obo
+	owltools $< -o $@
+
+# ----------------------------------------
+# ontobio
+# ----------------------------------------
+set-%.json: set-%.obo
+	owltools $< -o -f json $@
+.PRECIOUS: set-%.json
+
+set-%-mappings.tsv: set-%.json
+	ontobio-lexmap.py -vvv -c conf.yaml -u unmapped-$*.tsv $< > $@.tmp && mv $@.tmp $@
 
 # ----------------------------------------
 # kBOOM - MERGE ONTOLOGIES
@@ -109,9 +137,9 @@ debug-%.owl: set-1.owl linked-1.obo
 # when merging an equivalence clique, one ID 'wins' as being clique leader;
 # also, each class has a single primary label, and single def.
 # A cascading priorty list is used for each
-PRIORITIES_ID := -s OMIM 10 -s DOID 9 -s Orphanet 8 -s MESH 7
-PRIORITIES_LABEL := -l DOID 10 -l NCIT 8 -l Orphanet 5  -l OMIM 3 -l MESH 1
-PRIORITIES_DEF := -d Orphanet 10 -d NCIT 8 -d DOID 5  -d MESH 3 -d OMIM 1
+PRIORITIES_ID := -s OMIM 10 -s EFO 8 -s DOID 6 -s Orphanet 7 -s MESH 4
+PRIORITIES_LABEL :=  -l DOID 10 -l EFO 11 -l NCIT 8 -l Orphanet 5  -l OMIM 3 -l MESH 1
+PRIORITIES_DEF := -d Orphanet 10 -d NCIT 8 -l EFO 11 -d DOID 5  -d MESH 3 -d OMIM 1
 
 #ORDO-centric
 #PRIORITIES_ID := -s OMIM 10 -s DOID 9 -s Orphanet 20 -s MESH 7
@@ -129,7 +157,7 @@ POST_KBOOM_FILTER= --subtract $(SUBTRACT_ONTS)  ../ncit/neoplasticity.rdf --remo
 #OTHERS_TO_MERGE := $(OMIA_OBO)
 OTHERS_TO_MERGE := 
 lmerged-%.owl: set-%.owl linked-%.owl $(OTHERS_TO_MERGE)
-	owltools $^ --merge-support-ontologies $(POST_KBOOM_FILTER) --reasoner elk --merge-equivalence-sets $(PRIORITIES_ID) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --set-ontology-id $(OBO)/mondo/$@ -o $@
+	owltools $^ --merge-support-ontologies $(POST_KBOOM_FILTER) --reasoner elk --merge-equivalence-sets $(PRIORITIES_ID) $(PRIORITIES_LABEL)  $(PRIORITIES_DEF) --merge-axiom-annotations --set-ontology-id $(OBO)/mondo/$@ -o $@
 .PRECIOUS: lmerged-%.owl
 
 lmerged-%.obo: lmerged-%.owl
@@ -167,7 +195,7 @@ mondoe.obo: mondo.owl
 
 ## REPORT
 
-unlikely.md: linked-1-rpt.md
+unlikely-%.md: linked-%-rpt.md
 	./unlikely-axiom-report.pl $< | head -200 > $@
 
 entailed-in-doid.txt: 

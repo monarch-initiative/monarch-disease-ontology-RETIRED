@@ -1,4 +1,5 @@
 # curated probabilities
+0.99 OMIM_130000 Ehlers-Danlos Syndrome, Classic Type EquivalentTo Orphanet_287 Ehlers-Danlos syndrome, classic type
 0.0 Orphanet_90309 Ehlers-Danlos syndrome type 1 SubClassOf MESH_C536194 Ehlers-Danlos syndrome type 1
 1.0 OMIM_309580 Mental Retardation-Hypotonic Facies Syndrome, X-Linked, 1 EquivalentTo Orphanet_73220 X-linked intellectual disability - hypotonic face
 0.0 DOID_12801 mucopolysaccharidosis III EquivalentTo Orphanet_79269 Sanfilippo syndrome type A
@@ -591,3 +592,23 @@
 0.99 NCIT_C4504 Malignant Breast Phyllodes Tumor EquivalentTo DOID_3016 breast malignant phyllodes tumor 
 0.99 DOID_3016 breast malignant phyllodes tumor EquivalentTo NCIT_C7575 Breast Phyllodes Tumor 
 0.99 DOID_1631 benign breast phyllodes tumor EquivalentTo NCIT_C5196 Benign Breast Phyllodes Tumor 
+#
+# EFO experiments
+0.99 DOID_6457 Cowden disease EquivalentTo Orphanet_201 Cowden syndrome
+0.99 Orphanet_2209 Maternal phenylketonuria SubClassOf DOID_9281 phenylketonuria
+# TODO: check. We follow Orphanet and treat as sibs, under general sickle-cell and related diseases grouping
+0.85 DOID_10923 sickle cell anemia SiblingOf Orphanet_251365 Sickle cell-hemoglobin C disease syndrome
+0.99 DOID_3491 Turner syndrome EquivalentTo Orphanet_881 Turner syndrome
+0.99 Orphanet_637 Neurofibromatosis type 2 SubClassOf DOID_8712 neurofibromatosis
+0.99 Orphanet_768 Familial long QT syndrome SubClassOf DOID_2843 long QT syndrome SubClassOf 
+0.99 Orphanet_29 Mevalonic aciduria EquivalentTo DOID_0050452 mevalonic aciduria
+0.99 Orphanet_59305 Gestational trophoblastic neoplasm EquivalentTo DOID_3590 gestational trophoblastic neoplasm
+#
+# TODO: check these 2, I think they are from bad DO xrefs
+0.6 Orphanet_84132 Desmin-related myopathy with Mallory body-like inclusions SubClassOf DOID_0110633 rigid spine muscular dystrophy 1
+0.6 Orphanet_97244 Rigid spine syndrome SubClassOf DOID_0110633 rigid spine muscular dystrophy 1
+0.99 DOID_674 cleft palate EquivalentTo Orphanet_2014 Cleft palate
+#
+# Checked with Sira, this agrees with EFO
+0.95 DOID_3393 coronary artery disease SubClassOf EFO_0001645 coronary heart disease
+#

@@ -13,11 +13,11 @@ entity_synonym_scopeI(E,N,label_or_exact) :-
         entity_synonym_scope(E,N,exact).
 entity_synonym_scopeI(E,N,Scope) :-
         entity_synonym_scope(E,N,Scope).
-entity_synonym_scopeI(E,N,inexact) :-
+entity_synonym_scopeI(E,N,related) :-
         entity_synonym_scope(E,N,related).
-entity_synonym_scopeI(E,N,inexact) :-
+entity_synonym_scopeI(E,N,broad_or_narrow) :-
         entity_synonym_scope(E,N,broad).
-entity_synonym_scopeI(E,N,inexact) :-
+entity_synonym_scopeI(E,N,broad_or_narrow) :-
         entity_synonym_scope(E,N,narrow).
 
 %% entity_ngenus_type(E,G,T,Scope)
@@ -119,9 +119,11 @@ is_left_sub_atom_of(A,B) :-
 not_broad_or_narrow(Sc) :-
         Sc\=broad,
         Sc\=narrow,
+        Sc\=broad_or_narrow,
         !.
 label_or_exact(label) :- !.
 label_or_exact(exact) :- !.
+label_or_exact(label_or_exact) :- !.
 
 
 
@@ -462,12 +464,14 @@ pair_relationship_scores_ont(A,B,m(ont,1,2,10,1)) :-
         \+ subclass(_,A),       % is a leaf
         id_idspace(B,'OMIM'),
         !.
-pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
-        id_idspace(A,'DOID'),   % is in DO and
-        id_idspace(B,'Orphanet'), % Orphanet
-        class(B,BN),
-        atom_concat('Rare ',_,BN),   % Orphanet name is Rare X
-        !.
+
+% doesn't work well: e.g. endophthalmitis isa Rare inflammatory eye disease
+%pair_relationship_scores_ont(A,B,m(ont,0,8,4,1)) :-
+%        id_idspace(A,'DOID'),   % is in DO and
+%        id_idspace(B,'Orphanet'), % Orphanet
+%        class(B,BN),
+%        atom_concat('Rare ',_,BN),   % Orphanet name is Rare X
+%        !.
 
 %% ========================================
 %% scoring based on shared xref
@@ -586,6 +590,9 @@ shared_xref_card_umls(A,B) :-
         shared_xref_card(A,B,_,'UMLS',_),
         id_idspace(A,SA),
         id_idspace(B,SB),
+        % produces too many false positives. See UMLS xrefs for DOID:8675
+        SA\='DOID',
+        SB\='DOID',
         SA\=SB.
 
 
