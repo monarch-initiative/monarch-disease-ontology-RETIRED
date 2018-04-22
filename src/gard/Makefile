@@ -6,6 +6,10 @@ all: suggest_new.txt
 #$(ONT).obo: $(ONT).txt
 #	./gard2obo.pl $< > $@
 
+## see secrets.sh
+gard.json:
+	curl -H APIKey:$(APIKEY) 'https://api.rarediseases.info.nih.gov/api/diseases?rareOnly=false' > $@.tmp && mv $@.tmp $@
+
 gard.obo: gard.json
 	./gardjson2obo.pl $< > $@
 

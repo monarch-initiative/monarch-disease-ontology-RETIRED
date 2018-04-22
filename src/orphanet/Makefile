@@ -37,3 +37,6 @@ orphanet-logrel.pro: orphanet-obostyle.obo
 # from dipper
 orphanet.ttl:
 	wget --no-check-certificate https://data.monarchinitiative.org/ttl/orphanet.ttl -O $@
+
+d2g.tsv: orphanet-obostyle.obo
+	blip-findall -consult rmap.pro -i $< "class(DR,phenome),class(GR,'genetic material'),subclassT(G,GR),restriction(G,P1,D),rmap(P1,R,RN),entity_xref(G,GX),id_idspace(GX,'HGNC'),class(D,DN),class(G,GN)" -select "x(D,DN,R,RN,GX,GN)" -no_pred -use_tabs > $@

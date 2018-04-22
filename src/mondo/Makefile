@@ -40,6 +40,9 @@ MESH_UMLS = ../medgen/mesh-umls-xrefs.obo
 set-1.obo: mondo_base.obo $(DOID_OBO) $(ORDO_SLIM) omc-minimal.obo $(MESH_UMLS) $(MESH_TRIM) $(DEC_OBO) $(OMIA_OBO) ixrefs-doid-to-omia.obo xrefs-doid-to-ordo.obo xrefs-doid-to-mesh.obo xlinks-curated.obo $(GARD_XREFS) $(NEOPLASM_OBO) xrefs-doid-to-neoplasm.obo xrefs-ordo-to-neoplasm.obo xrefs-omc-to-neoplasm.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
 
+set-g.obo: mondo_base.obo $(GARD) $(ORDO_SLIM) omc-minimal.obo
+	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@
+
 # for testing EFO
 set-efo.obo: mondo_base.obo $(EFO_OBO) $(DOID_OBO) $(ORDO_SLIM) xlinks-curated.obo
 	owltools $^ --merge-support-ontologies -o -f obo --no-check $@.tmp && egrep -v '^(namespace|property_value):' $@.tmp | ./synonymizer.pl > $@

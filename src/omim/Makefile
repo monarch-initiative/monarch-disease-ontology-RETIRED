@@ -1,7 +1,7 @@
 all: omim.obo
 
 mirror-omim.ttl: 
-	wget http://data.monarchinitiative.org/ttl/omim.ttl -O $@
+	wget --no-check-certificate http://data.monarchinitiative.org/ttl/omim.ttl -O $@
 .PRECIOUS: omim.ttl
 
 omim.owl: mirror-omim.ttl

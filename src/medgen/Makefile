@@ -1,7 +1,7 @@
 OBO=http://purl.obolibrary.org/obo
 MEDGEN = medgen-disease-extract.obo
 
-all: fetch $(MEDGEN)
+all:  $(MEDGEN)
 
 
 # ----------------------------------------
