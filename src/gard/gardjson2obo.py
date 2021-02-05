@@ -1,4 +1,9 @@
 import json
+import logging
+
+print('ontology: gard')
+print('subsetdef: gard "gard"')
+
 obj = json.load(open('gard.json'))
 for d in obj:
     print(f'[Term]')
@@ -10,12 +15,24 @@ for d in obj:
         print(f"subset: gard_rare")
         print(f"relationship: has_modifier MONDO:0021136 ! rare")
     for s in d['synonyms']:
+        s = s.replace('"','')
         print(f"synonym: \"{s}\" RELATED []")
     for x in d['identifiers']:
-        prefix = x['identifierType']
+        prefix = x['identifierType'].strip()
         if prefix == 'ORPHANET':
             prefix = 'Orphanet'
-        localId = x['identifierId']
-        print(f"xref: {prefix}:{localId}")
+        if prefix == 'NCI Thesaurus':
+            prefix = 'NCIT'
+        if prefix == 'SNOMED CT':
+            prefix = 'SCTID'
+        if prefix == 'ICD 10':
+            prefix = 'ICD10'
+        if prefix == 'ICD 9':
+            prefix = 'ICD9'
+        localId = x['identifierId'].strip()
+        if ' ' in localId:
+            logging.warn(f'BadID: {x}')
+        else:
+            print(f"xref: {prefix}:{localId}")
     print()
     
